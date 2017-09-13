@@ -10,7 +10,7 @@ Economy to langは株価データから経済記事を出力するのを目標�
  段階ごとに分けられ、
  1. transition based parsing[arc-eager]
  2. transition based parsing[stacked LSTM]
- 3. Reccurent Neural Network Grammer
+ 3. Reccurent Neural Network Grammer  
 の順に行う考え。1番目は2番目に、2番目は3番目に強い内容的連環をもっている。
 この話題はparsing/以下で取り扱っている。現在は1を達成し2に取りかかるところ。
 
