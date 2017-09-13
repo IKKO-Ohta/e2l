@@ -41,3 +41,4 @@ Economy to langは株価データから経済記事を出力するのを目標�
 private
 
 ## Author
+IKKO Ohta
