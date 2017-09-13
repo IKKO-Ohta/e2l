@@ -1,0 +1,5 @@
+# gitリポジトリから重いファイルを除外する
+auto/
+resource/
+resorce/
+model/
