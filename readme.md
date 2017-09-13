@@ -5,7 +5,23 @@ Economy to Lang
 Economy to langは株価データから経済記事を出力するのを目標とする研究です。 
 経済を題材に、単文ではなく複数の文を生成することを最大のチャレンジとしています。 
 
-## TODO
+
+## ファイル構成
+ - auto
+ - bin 
+ - resource
+ - model
+ - result
+
+ - parsing 言語モデリングサーベイ用ディレクトリ。
+
+## 短期的目標
+ [太田]言語モデリングのサーベイ。RNNGの実装をめざす。  
+ 段階ごとに分けられ、
+ - transition based parsing[arc-eager]
+ - transition based parsing[stacked LSTM]
+ - Reccurent Neural Network Grammer
+の順に行う考え。1番目は2番目に、2番目は3番目に強い内容的連環をもっている。
 
 
 ## Resource
@@ -27,7 +43,6 @@ Economy to langは株価データから経済記事を出力するのを目標�
 
 
 ## usage
-
 
 ## Install
 
