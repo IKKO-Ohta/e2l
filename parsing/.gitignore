@@ -1,0 +1,4 @@
+# 無視するファイル
+corpus/
+auto/
+model/

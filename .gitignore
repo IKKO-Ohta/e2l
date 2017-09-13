@@ -3,3 +3,8 @@ auto/
 resource/
 resorce/
 model/
+
+# 無視するファイル
+parsing/corpus/
+parsing/auto/
+parsing/model/
