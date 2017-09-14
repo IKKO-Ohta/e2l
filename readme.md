@@ -39,6 +39,6 @@ Economy to langは株価データから経済記事を出力するのを目標�
 
 ## Licence
 private
-
+プライベートリポジトリに移行予定
 ## Author
 IKKO Ohta
