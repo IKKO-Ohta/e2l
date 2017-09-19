@@ -3,7 +3,6 @@ auto/
 resource/
 resorce/
 model/
-.idea/
 
 # 無視するファイル
 parsing/corpus/
