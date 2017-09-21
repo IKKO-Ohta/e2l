@@ -1,4 +1,5 @@
 import glob
+import pickle
 import os
 from operator import itemgetter
 import numpy as np
@@ -73,6 +74,44 @@ class Parser(chainer.Chain):
         self.LS.reset_state()
         self.LA.reset_state()
         self.LB.reset_state()
+
+    @staticmethod
+    def _oracle_dump(dir_path):
+        def embed(wordlist):
+            div = wordlist.find("][")
+            stack = wordlist[:div+1]
+            buffer = wordlist[div+1:]
+            return stack, buffer
+        oracles = glob.glob(dir_path)
+        feature, label = [], []
+        for oracle in oracles:
+            with open(oracle, "r") as f:
+                """
+                以下はoracle形式のつじつま合わせ
+                """
+                f.read()
+                cnt = 0
+                for line in f:
+                    if cnt % 2 == 0:
+                        feature.append(line)
+                        cnt += 1
+                    else:
+                        label.append(line)
+                        cnt += 1
+        # 再構築
+        dataset = []
+        action = []
+        for feat, l in zip(feature, label):
+            if not feat:
+                action = []
+            elem = [embed(feat), action, l]
+            dataset.append(elem)
+            action.append(l)
+
+        # 後でnumpy or pd処理を噛ませるかも
+        with open("oracle_dataset.pkl","wb") as f:
+            pickle.dump(dataset,f)
+        return dataset
 
     @staticmethod
     def load_conll(file_path):
