@@ -7,5 +7,6 @@ model/
 
 # 無視するファイル
 parsing/corpus/
+parsing/lib/ParserOracleArcStdWithSwap.jar
 parsing/auto/
 parsing/model/

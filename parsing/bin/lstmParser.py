@@ -1,5 +1,7 @@
+import glob
+import os
+from operator import itemgetter
 import numpy as np
-
 import chainer
 import chainer.functions as F
 import chainer.links as L
@@ -8,7 +10,6 @@ from chainer import report, training, Chain, datasets, iterators, optimizers
 
 # from chainer.training import extensions
 # from chainer.datasets import tuple_dataset
-
 # import matplotlib.pyplot as plt
 
 
@@ -65,10 +66,27 @@ class Parser(chainer.Chain):
             self.W = L.Linear(50, 1000)  # [St;At;Bt] => classifier
             self.G = L.Linear(50, 1000)  # output
 
+    def _set_parser_resource(self, file_path):
+        self.conf.buffer = self.load_conll(file_path)
+
     def reset_state(self):
         self.LS.reset_state()
         self.LA.reset_state()
         self.LB.reset_state()
+
+    @staticmethod
+    def load_conll(file_path):
+        if os.path.isfile(file_path):
+            loadfiles = [file_path]
+        else:
+            loadfiles = glob.glob(file_path)
+        features = []
+        for loadfile in loadfiles:
+            with open(loadfile, "r") as f:
+                feature = [itemgetter(1, 3)(line.split("\t")) for line in f]
+                feature.append(np.ndarray([0 for i in range(100)]))
+                features.append(feature)
+        return features
 
     @staticmethod
     def _cal_stack(stack):
@@ -93,7 +111,6 @@ class Parser(chainer.Chain):
         at = [self.LA(a) for a in reversed(self.A)][0]
         st = self._cal_stack(self.conf.stack)
         bt = self._cal_buffer(self.conf.buffer)
-
         h1 = np.concatenate([st, at, bt])
         h2 = self.W(h1)
         h2 = F.relu(h2)
