@@ -10,9 +10,9 @@ class Oracle2Vec(object):
         self.buffer = []
         self.stack = []
         self.action = []
-        self.wvmodel = gensim.models.KeyedVectors.load_word2vec_format('./GoogleNews-vectors-negative300.bin',
+        # self.wvmodel = gensim.models.KeyedVectors.load_word2vec_format('./GoogleNews-vectors-negative300.bin',
                                                                        binary=True)
-        with open("../auto/Penn_concat/gensim_corpora_dict_cF.pkl") as f:
+        # with open("../auto/Penn_concat/gensim_corpora_dict_cF.pkl") as f:
             self.corpora = pickle.load(f)
 
     def _dummy(self, word_id):
@@ -25,20 +25,25 @@ class Oracle2Vec(object):
         """
         return self.wvmodel.wv[word]
 
-    def _oracle_dump(self, oracle_path):
+
+    def _oracle_dump(oracle_path):
         """
         オラクルファイルを受け取って、学習可能な形式にして返す
         - [buffer状況,action状況,stack状況,ラベル]
         なるリスト
         1file-in,1datum-out
         """
+
         def str_eval(s):
-            return s[1:len(s)-1].split(",")
+            return s[1:len(s) - 1].split(", ")
+
         def oracle_split(lists_line):
             div = lists_line.find("][")
             stack = lists_line[:div + 1]
+            stack = str_eval(stack)
             buffer = lists_line[div + 1:]
-            return str_eval(stack), str_eval(buffer)
+            buffer = str_eval(buffer)
+            return [x for x in stack if x != " " or not x], [x for x in buffer if x != " " or not x]
 
         feature, label = [], []
         with open(oracle_path, "r") as f:
@@ -48,26 +53,33 @@ class Oracle2Vec(object):
             f.readline()
             cnt = 0
             for line in f:
-                if cnt % 2 == 0:
+                if "][" in line:
+                    line = line.rstrip()
+                    line = oracle_split(line)
                     feature.append(line)
                     cnt += 1
+                elif line == "\n":
+                    """
+                    EOS
+                    """
+                    break
                 else:
+                    line = line.rstrip()
                     label.append(line)
                     cnt += 1
-        # 再構築
-        datum = []
-        actions = []
-        for feat, l in zip(feature, label):
-            if not feat:
-                actions = []
-            bufs, stus = oracle_split(feat)
-            bufs = [self._embed_buffer(buf) for buf in bufs]
-            stus = [self._embed_stack(stu) for stu in stus]
-            datum.append([bufs, actions, stus, l])
-            actions.append(l)
-        return datum
+            return feature, label
+            # datum = []
+            # actions = []
+            # for feat, l in zip(feature, label):
+            #     if not feat:
+            #         actions = []
+            #     bufs, stus = oracle_split(feat)
+            #     bufs = [self._embed_buffer(buf) for buf in bufs]
+            #     stus = [self._embed_stack(stu) for stu in stus]
+            #     datum.append([bufs, actions, stus, l])
+            #     actions.append(l)
+            # return datum
 
-    @staticmethod
     def load_conll(file_path):
         if os.path.isfile(file_path):
             loadfiles = [file_path]

@@ -17,18 +17,16 @@ from chainer import report, training, Chain, datasets, iterators, optimizers
 
 # from chainer.training import extensions
 
-def make_vocab():
-    return
-
-
 class Configuration(object):
     def __init__(self):
-        self.stack = [0]  # The root element
+        self.stack = []  # The root element
         self.buffer = []
         self.arcs = []  # empty set of arc
 
-    def _build(self, sequence):
-        self.buffer = [i for i in range(1, len(sequence))]
+    def show(self):
+        print("stack: ", self.stack)
+        print("buffer: ", self.buffer)
+        print("arcs: ", self.arcs)
 
 
 class Transition(object):
@@ -36,23 +34,20 @@ class Transition(object):
         return
 
     @staticmethod
-    def _right(relation, conf):
-        idx_wj = conf.stack.pop()
-        idy_yj = conf.buffer[0]
-        conf.arcs.append((idx_wj, relation, idy_yj))
+    def right_arc(relation, conf):
+        conf.arcs.append((conf.stack[1], relation, conf.stack[0]))
+        conf.stack.pop(0)
 
     @staticmethod
-    def _left(relation, conf):
-        idx_wi = conf.stack[len(conf.stack) - 1]
-        conf.stack.pop()
-        idx_wj = conf.buffer[0]
-        conf.arc.append([idx_wj, relation, idx_wi])
+    def left_arc(relation, conf):
+        conf.arcs.append([conf.stack[0], relation, conf.stack[1]])
+        conf.stack.pop(1)
 
     @staticmethod
-    def _shift(conf):
-        idx_wi = conf.buffer.pop()
-        conf.stack.append(idx_wi)
-
+    def shift(conf):
+        idx_wi = conf.buffer.pop(0)
+        conf.stack.insert(0, idx_wi)
+        if not conf.stack[-1]: del conf.stack[-1]
 
 class Parser(chainer.Chain):
     def __init__(self):

@@ -14,7 +14,7 @@ from nltk.corpus import conll2000, conll2002
 # 学習データは事前にsplit処理済み
 dataset = glob.glob("../auto/Penn_conbined_wsj/*/*.mrg")
 div = int(len(dataset) * 0.9)
-trains,tests = dataset[:div],dataset[div:]
+trains, tests = dataset[:div],dataset[div:]
 
 # mini size
 graphs = []
