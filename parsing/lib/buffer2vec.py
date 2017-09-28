@@ -29,7 +29,7 @@ if __name__ == '__main__':
     buffer = ['Motor-_', 'maker-_', 'auto-_', 'Japanese-_', 'of-_',
               'sales-_', 'of-_', 'president-_', 'named-_', 'was-_']
 
-    wv_model = gensim.models.KeyedVectors.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True)
+    wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin', binary=True)
 
     # 品詞
     with open("../model/tag_map.pkl", "br") as f:
