@@ -85,8 +85,10 @@ if __name__ == '__main__':
     for action in actions:
         print(conf.stack)
         if action == "SHIFT":
-            shift(conf)
+            Transition.shift(conf)
         elif "RIGHT" in action:
-            Transition.right_arc("ret", conf)
+            kind = action[action.find("(")+1:action.find(")")]  # "ROOT", "name", ...
+            Transition.right_arc(kind, conf)
         elif "LEFT" in action:
-            Transition.left_arc("ret", conf)
+            kind = action[action.find("(") + 1:action.find(")")]
+            Transition.left_arc(kind, conf)
