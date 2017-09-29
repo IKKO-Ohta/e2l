@@ -36,7 +36,7 @@ if __name__ == '__main__':
         tag_map = pickle.load(f)
 
     # FoW
-    with open("../auto/Penn_concat/gensim_corpora_dict_cF.pkl", "rb") as f:
+    with open("word2id.pkl", "rb") as f:
         corpus = pickle.load(f)
 
     for buf in buffer:
