@@ -1,4 +1,5 @@
 import glob
+import re
 import pickle
 import os
 import gensim
@@ -9,13 +10,6 @@ import chainer.functions as F
 import chainer.links as L
 from chainer import report, training, Chain, datasets, iterators, optimizers
 
-
-# from chainer.training import extensions
-# from chainer.datasets import tuple_dataset
-# import matplotlib.pyplot as plt
-
-
-# from chainer.training import extensions
 
 class Configuration(object):
     def __init__(self):
@@ -35,7 +29,7 @@ class Transition(object):
 
     @staticmethod
     def right_arc(relation, conf):
-        conf.arcs.append((conf.stack[1], relation, conf.stack[0]))
+        conf.arcs.append([conf.stack[1], relation, conf.stack[0]])
         conf.stack.pop(0)
 
     @staticmethod
@@ -47,16 +41,87 @@ class Transition(object):
     def shift(conf):
         idx_wi = conf.buffer.pop(0)
         conf.stack.insert(0, idx_wi)
-        if not conf.stack[-1]: del conf.stack[-1]
+        if not conf.stack[-1]:
+            del conf.stack[-1]
+
+
+class CalBuffer(object):
+    def __init__(self):
+        self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
+                                                                        binary=True)
+        with open("../model/tag_map.pkl", "br") as f:
+            self.tag_map = pickle.load(f)
+        with open("word2id.pkl", "rb") as f:
+            self.corpus = pickle.load(f)
+        self.regex = re.compile('[a-zA-Z0-9]+')
+        return
+
+    def reg(self, word):
+        g = self.regex.match(word)
+        return g.group()
+
+    def find_tag(self, word):
+        return self.tag_map[word]
+
+    def __call__(self, word):
+        word = self.reg(word)
+        return np.concatenate([self.corpus[word], self.wv_model[word], self.tag_map[word]])
+
+
+class RecNN(chainer.Chain):
+    """
+    RecNNに与えられる形式は？
+    """
+    def __init__(self):
+        super(RecNN, self).__init__()
+        with self.init_scope():
+            self.l = L.Linear(50, 1000)
+
+    def __call__(self, a, b, i):
+        if len(b) == 1:
+            h1 = self.l(a[0], b[0])
+            h1 = F.tanh(h1)
+            return h1
+        ans = self.__call__(b[i], b[i + 1:], i + 1)
+        ans = F.tanh(ans)
+        return ans
+
+
+class CalStack(object):
+    """
+    cal stackの手続き
+    1. 部分木を作成する
+    2. 1つあたりの部分木を計算して返却する
+    結局、cal_stack内部で何が起きているのか、我々は知らないのが問題
+    オラクルエッジをそのまま受け取れば良い
+    []
+    入力:  stackとconf.arc
+    出力： [部分木1当たりの]ベクトル
+    """
+    def __init__(self):
+        self.rec = RecNN()
+        self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
+                                                                        binary=True)
+        with open("../model/tag_map.pkl", "br") as f:
+            self.tag_map = pickle.load(f)
+        with open("word2id.pkl", "rb") as f:
+            self.corpus = pickle.load(f)
+        self.regex = re.compile('[a-zA-Z0-9]+')
+
+    def hogehoge(self, tree):
+        return tree
+
+    def __call__(self, tree):
+        tree = hogehoge(tree)
+        return self.rec(tree)
+
 
 class Parser(chainer.Chain):
     def __init__(self):
         self.conf = Configuration()
         self.A = []
-        self.wvmodel = gensim.models.KeyedVectors.load_word2vec_format('./GoogleNews-vectors-negative300.bin',
-                                                                       binary=True)
-        with open("../auto/Penn_concat/gensim_corpora_dict_cF.pkl") as f:
-            self.corpora = pickle.load(f)
+        self.cal_buffer = CalBuffer()
+        self.cal_stack = CalStack()
         super(Parser, self).__init__()
         with self.init_scope():
             """
@@ -76,34 +141,21 @@ class Parser(chainer.Chain):
         self.LA.reset_state()
         self.LB.reset_state()
 
-    def _cal_stack(self, e_stack):
-        """
-        e_stackは部分木が計算されてベクトルになった状態
-        cal_bufferと同等の処理を計算する
-        """
-        res = []
-        for s in reversed(e_stack):
-            s1 = self.U(s)
-            s1 = F.relu(s1)
-            s1 = self.LS(s1)
-            res.append(s1)
-        return res[-1]
-
-    def _cal_buffer(self, e_buffer):
-        res = []
-        for b in reversed(e_buffer):
-            b1 = self.V(b)
-            b1 = F.relu(b1)
-            b1 = self.LB(b1)
-            res.append(b1)
-        return res[-1]
-
     def __call__(self):
         # Given the current word ID, predict the next word.
         self.reset_state()
         at = [self.LA(a) for a in reversed(self.A)][0]
-        st = self._cal_stack(self.conf.stack)
-        bt = self._cal_buffer(self.conf.buffer)
+        """
+        stとbtはループになっているはず
+        """
+        for b in self.conf.buffer:
+            bt = self.cal_buffer(b)
+            bt = self.V(bt)
+            bt = F.relu(bt)
+        for s in self.conf.stack:
+            st = self.cal_stack(s)
+            st = self.U(st)
+            st = F.relu(st)
         h1 = np.concatenate([st, at, bt])
         h2 = self.W(h1)
         h2 = F.relu(h2)
@@ -111,7 +163,7 @@ class Parser(chainer.Chain):
         return F.Softmax(h3)
 
 
-parser = Parser()
-model = L.Classifier(parser)
-optimizer = optimizers.SGD()
-optimizer.setup(model)
+if __name__ == '__main__':
+    parser = Parser()
+    optimizer = optimizers.SGD()
+    optimizer.setup(model)

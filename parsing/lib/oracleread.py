@@ -16,7 +16,7 @@ class Transition(object):
 
     @staticmethod
     def right_arc(relation, conf):
-        conf.arcs.append((conf.stack[1], relation, conf.stack[0]))
+        conf.arcs.append([conf.stack[1], relation, conf.stack[0]])
         conf.stack.pop(0)
 
     @staticmethod
@@ -81,9 +81,10 @@ if __name__ == '__main__':
     conf = Configuration()
     conf.stack = words[0][0]
     conf.buffer = words[0][1]
-
+    i = 0
     for action in actions:
-        print(conf.stack)
+        if i == 5:
+            break
         if action == "SHIFT":
             Transition.shift(conf)
         elif "RIGHT" in action:
@@ -92,3 +93,4 @@ if __name__ == '__main__':
         elif "LEFT" in action:
             kind = action[action.find("(") + 1:action.find(")")]
             Transition.left_arc(kind, conf)
+        i += 1
