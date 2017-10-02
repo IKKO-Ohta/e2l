@@ -1,3 +1,4 @@
+import copy
 class Configuration(object):
     def __init__(self):
         self.stack = []  # The root element
@@ -79,8 +80,8 @@ if __name__ == '__main__':
     path = "../auto/Penn_Oracle/00/wsj_0009.oracle"
     words, actions = _oracle_dump(path)
     conf = Configuration()
-    conf.stack = words[0][0]
-    conf.buffer = words[0][1]
+    conf.stack = copy.deepcopy(words[0][0])
+    conf.buffer = copy.deepcopy(words[0][1])
     i = 0
     for action in actions:
         if i == 5:

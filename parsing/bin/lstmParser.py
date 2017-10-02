@@ -68,23 +68,32 @@ class CalBuffer(object):
         return np.concatenate([self.corpus[word], self.wv_model[word], self.tag_map[word]])
 
 
-class RecNN(chainer.Chain):
-    """
-    RecNNに与えられる形式は？
-    """
+class RedNN(chainer.Chain):
     def __init__(self):
-        super(RecNN, self).__init__()
-        with self.init_scope():
-            self.l = L.Linear(50, 1000)
+        self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
+                                                                        binary=True)
+        with open("../model/tag_map.pkl", "br") as f:
+            self.tag_map = pickle.load(f)
+        with open("word2id.pkl", "rb") as f:
+            self.corpus = pickle.load(f)
 
-    def __call__(self, a, b, i):
-        if len(b) == 1:
-            h1 = self.l(a[0], b[0])
-            h1 = F.tanh(h1)
-            return h1
-        ans = self.__call__(b[i], b[i + 1:], i + 1)
-        ans = F.tanh(ans)
-        return ans
+        super(RedNN, self).__init__()
+        with self.init_scope():
+            self.U = L.Linear(50, 1000)
+
+    def __call__(self, words):
+        while(1):
+            if len(words) == 1:
+                return words[0]
+            ret0, ret1 = words[-1], words[-2]
+            words.pop()
+            words.pop()
+            if type(ret0) == str:
+                ret0 = self.wv_model[ret0]
+            ret = np.concatenate([ret0, self.wv_model[ret1], self.tag_map[ret0]])
+            ret = self.U(ret)
+            ret = F.tanh(ret)
+            words.append(ret)
 
 
 class CalStack(object):
@@ -99,21 +108,26 @@ class CalStack(object):
     出力： [部分木1当たりの]ベクトル
     """
     def __init__(self):
-        self.rec = RecNN()
-        self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
-                                                                        binary=True)
-        with open("../model/tag_map.pkl", "br") as f:
-            self.tag_map = pickle.load(f)
-        with open("word2id.pkl", "rb") as f:
-            self.corpus = pickle.load(f)
+        self.red = RedNN()
         self.regex = re.compile('[a-zA-Z0-9]+')
 
-    def hogehoge(self, tree):
-        return tree
+    def reg(self, word):
+        g = self.regex.match(word)
+        return g.group()
+
+    def reconstruct(self, tree):
+        """
+        edgesを受け取り、
+        [A,B,C,D ... ]のかたちにする
+        ついでにA,B,C,Dを整形する
+        """
+        ans = [edge[0] for edge in tree]
+        ans.append(tree[-1][-1])  # head-word
+        return [self.reg(a) for a in ans]
 
     def __call__(self, tree):
-        tree = hogehoge(tree)
-        return self.rec(tree)
+        tree = self.reconstruct(tree)
+        return self.red(tree)
 
 
 class Parser(chainer.Chain):

@@ -3,16 +3,19 @@ import chainer.functions as F
 import chainer.links as L
 
 
-class RecNN(chainer.Chain):
+class RedNN(chainer.Chain):
     def __init__(self):
-        super(RecNN, self).__init__()
+        super(RedNN, self).__init__()
         with self.init_scope():
             self.l = L.Linear(50, 1000)
 
-    def __call__(self, a, b, i):
-        if len(b) == 1:
-            h1 = self.l(a[0], b[0])
-            h1 = F.relu(h1)
-            return h1
-        ans = self.__call__(b[i], b[i + 1:], i + 1)
-        return ans
+    def __call__(self, L):
+        while(1):
+            if len(L) == 1:
+                return L[0]
+            ret0, ret1 = L[-1], L[-2]
+            L.pop()
+            L.pop()
+            ret = self.L(ret0, mytype(ret1), ret1)
+            ret = F.tanh(ret)
+            L.append(ret)
