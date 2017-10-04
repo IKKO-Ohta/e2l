@@ -3,12 +3,18 @@ import pickle
 
 mrgs = glob.glob("../auto/Penn_conbined_wsj/*/*mrg")
 
+def my_match(line):
+    for key in ["SHIFT", "RIGHT", "LEFT"]:
+        if key in line:
+            return True
+    return False
+
 actions = []
 for mrg in mrgs:
     with open(mrg) as f:
         for line in f:
             line = line.split("\t")
-            if len(line) <= 1:
+            if my_match(line):
                 actions.append(line[0])
 
 s_actions = set(actions)
