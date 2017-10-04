@@ -1,15 +1,16 @@
-import glob
-import re
 import pickle
-import os
-import gensim
-from operator import itemgetter
-import numpy as np
+import re
+import sys
+
 import chainer
 import chainer.functions as F
 import chainer.links as L
-from chainer import report, training, Chain, datasets, iterators, optimizers
+import gensim
+import numpy as np
+from chainer import optimizers
 
+sys.path.append('../lib/')
+from vectorizer import myVectorizer
 
 class Configuration(object):
     def __init__(self):
@@ -179,6 +180,7 @@ class Parser(chainer.Chain):
 
 if __name__ == '__main__':
     parser = Parser()
+    vectorizer = myVectorizer()
     model = L.Classifier(parser)
     optimizer = optimizers.SGD()
     optimizer.setup(model)
@@ -186,6 +188,6 @@ if __name__ == '__main__':
     parser.reset_state()
     model.cleargrads()
 
-    loss = compute_loss(x_list,y_list)
-    loss.backward()
+    #loss = compute_loss(x_list,y_list)
+    ##loss.backward()
     optimizer.update()
