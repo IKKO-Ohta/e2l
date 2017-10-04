@@ -15,3 +15,5 @@ for mrg in mrgs:
 
 with open("../model/tag_map.pkl", "wb") as f:
     pickle.dump(m, f)
+
+

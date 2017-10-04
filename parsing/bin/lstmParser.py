@@ -176,11 +176,6 @@ class Parser(chainer.Chain):
         h3 = self.G(h2)
         return F.Softmax(h3)
 
-    def _creating_traning_example(self, oracles):
-
-
-        return
-
 
 if __name__ == '__main__':
     parser = Parser()
