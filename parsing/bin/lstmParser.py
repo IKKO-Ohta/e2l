@@ -45,29 +45,6 @@ class Transition(object):
             del conf.stack[-1]
 
 
-class CalBuffer(object):
-    def __init__(self):
-        self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
-                                                                        binary=True)
-        with open("../model/tag_map.pkl", "br") as f:
-            self.tag_map = pickle.load(f)
-        with open("word2id.pkl", "rb") as f:
-            self.corpus = pickle.load(f)
-        self.regex = re.compile('[a-zA-Z0-9]+')
-        return
-
-    def reg(self, word):
-        g = self.regex.match(word)
-        return g.group()
-
-    def find_tag(self, word):
-        return self.tag_map[word]
-
-    def __call__(self, word):
-        word = self.reg(word)
-        return np.concatenate([self.corpus[word], self.wv_model[word], self.tag_map[word]])
-
-
 class RedNN(chainer.Chain):
     def __init__(self):
         self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
@@ -94,6 +71,29 @@ class RedNN(chainer.Chain):
             ret = self.U(ret)
             ret = F.tanh(ret)
             words.append(ret)
+
+class CalBuffer(object):
+    def __init__(self):
+        self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
+                                                                        binary=True)
+        with open("../model/tag_map.pkl", "br") as f:
+            self.tag_map = pickle.load(f)
+        with open("word2id.pkl", "rb") as f:
+            self.corpus = pickle.load(f)
+        self.regex = re.compile('[a-zA-Z0-9]+')
+        return
+
+    def reg(self, word):
+        g = self.regex.match(word)
+        return g.group()
+
+    def find_tag(self, word):
+        return self.tag_map[word]
+
+    def __call__(self, word):
+        word = self.reg(word)
+        return np.concatenate([self.corpus[word], self.wv_model[word], self.tag_map[word]])
+
 
 
 class CalStack(object):
@@ -176,8 +176,21 @@ class Parser(chainer.Chain):
         h3 = self.G(h2)
         return F.Softmax(h3)
 
+    def _creating_traning_example(self, oracles):
+
+
+        return
+
 
 if __name__ == '__main__':
     parser = Parser()
+    model = L.Classifier(parser)
     optimizer = optimizers.SGD()
     optimizer.setup(model)
+
+    parser.reset_state()
+    model.cleargrads()
+
+    loss = compute_loss(x_list,y_list)
+    loss.backward()
+    optimizer.update()

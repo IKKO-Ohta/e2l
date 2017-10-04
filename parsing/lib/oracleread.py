@@ -1,9 +1,12 @@
 import copy
+
+
 class Configuration(object):
     def __init__(self):
-        self.stack = []  # The root element
+        self.stack = []
         self.buffer = []
-        self.arcs = []  # empty set of arc
+        self.arcs = []
+        self.history = []
 
     def show(self):
         print("stack: ", self.stack)
@@ -30,6 +33,27 @@ class Transition(object):
         idx_wi = conf.buffer.pop(0)
         conf.stack.insert(0, idx_wi)
         if not conf.stack[-1]: del conf.stack[-1]
+
+
+def export(conf):
+    """
+    :return: chainerが学習できるようなベクトルとラベルの組
+    """
+    def embedding(words)
+        return 0
+
+    S, A, B = [], [], []
+
+    # stack [一番難しい]
+    S = [...]
+
+    # action [簡単]
+    A = copy.deepcopy(conf.history)
+    A = [embedding(a) for a in A]
+
+    # buffer [簡単]
+    B = [embedding(b) for b in B]
+    return
 
 
 def _oracle_dump(oracle_path):
@@ -82,10 +106,7 @@ if __name__ == '__main__':
     conf = Configuration()
     conf.stack = copy.deepcopy(words[0][0])
     conf.buffer = copy.deepcopy(words[0][1])
-    i = 0
     for action in actions:
-        if i == 5:
-            break
         if action == "SHIFT":
             Transition.shift(conf)
         elif "RIGHT" in action:
@@ -94,4 +115,4 @@ if __name__ == '__main__':
         elif "LEFT" in action:
             kind = action[action.find("(") + 1:action.find(")")]
             Transition.left_arc(kind, conf)
-        i += 1
+        conf.history.append(action)
