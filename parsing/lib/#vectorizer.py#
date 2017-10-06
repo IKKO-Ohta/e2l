@@ -68,7 +68,8 @@ class myVectorizer(object):
             
             w = self.dummy(w,len(self.corpus))
             tag = self.dummy(self.tag2id[tag],len(self.tag2id))
-            result.append(np.concatenate([w, wlm, tag]))
+            result.append([w, wlm, tag
+])
         return result
 
     def cal_history(self, history):
