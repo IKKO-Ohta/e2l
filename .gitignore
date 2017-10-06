@@ -9,4 +9,4 @@ model/
 parsing/corpus/
 parsing/lib/ParserOracleArcStdWithSwap.jar
 parsing/auto/
-parsing/model/
+parsing/model/GoogleNews-vectors-negative300.bin
