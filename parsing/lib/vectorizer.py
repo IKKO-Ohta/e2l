@@ -24,7 +24,7 @@ class myVectorizer(object):
             self.tag_map = pickle.load(f)
         with open("../model/word2id.pkl", "rb") as f:
             self.corpus = pickle.load(f)
-        with open("../model/action2id.pkl", "rb") as f:
+        with open("../model/simple_act_map.pkl", "rb") as f:
             self.act_map = pickle.load(f)
 
     def reg(self, word):
@@ -36,8 +36,30 @@ class myVectorizer(object):
         return self.tag_map[word]
 
     def embed(self, word_list):
+        def find(key):
+            return self.corpus[key], self.wv_model[key], self.tag_map[key]
+        
+        def e_find(key):
+            return self.corpus[key], np.asarray([0 for i in range(300)]), self.tag_map[key]
+        
+        def not_null(key):
+            dicts = [self.corpus,self.wv_model,self.tag_map]
+            if all([key in d for d in dicts]):
+                return True
+            else:
+                return False
+        
         word_list = [self.reg(word) for word in word_list]
-        return [(self.corpus[word], self.wv_model[word], self.tag_map[word]) for word in word_list]
+        result = []
+        for word in word_list:
+            if not_null(word):
+                w, wlm, tag = find(word)
+            elif not_null(word.capitalize()):
+                w, wlm, tag = find(word.capitalize())
+            else:
+                w, wlm, tag = e_find(word)
+            result.append([w, wlm, tag])
+        return result
 
     def cal_history(self, history):
         return [self.act_map(his) for his in history]
