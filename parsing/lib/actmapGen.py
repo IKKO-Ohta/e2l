@@ -1,7 +1,7 @@
 import glob
 import pickle
 
-mrgs = glob.glob("../auto/Penn_conbined_wsj/*/*mrg")
+mrgs = glob.glob("../auto/Penn_Oracle/*/*.oracle")
 
 def my_match(line):
     for key in ["SHIFT", "RIGHT", "LEFT"]:
@@ -13,8 +13,9 @@ actions = []
 for mrg in mrgs:
     with open(mrg) as f:
         for line in f:
-            if my_match(line):
-                actions.append(line[0])
+            if not "][" in line and my_match(line):
+                line = line.rstrip()
+                actions.append(line)
 
 s_actions = set(actions)
 
