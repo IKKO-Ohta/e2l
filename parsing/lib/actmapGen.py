@@ -13,7 +13,6 @@ actions = []
 for mrg in mrgs:
     with open(mrg) as f:
         for line in f:
-            line = line.split("\t")
             if my_match(line):
                 actions.append(line[0])
 
