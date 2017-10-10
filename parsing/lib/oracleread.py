@@ -39,7 +39,7 @@ def export(conf):
     """
     :return: chainerが学習できるようなベクトルとラベルの組
     """
-    def embedding(words)
+    def embedding(words):
         return 0
 
     S, A, B = [], [], []

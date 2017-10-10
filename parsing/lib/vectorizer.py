@@ -38,7 +38,7 @@ class myVectorizer(object):
         return self.tag_map[word]
 
     @staticmethod
-    def dummy(ind,l):
+    def dummy(ind, l):
         m = [0 if i != ind else 1 for i in range(l)]
         return np.asarray(m, dtype=np.float32)
 
@@ -72,13 +72,20 @@ class myVectorizer(object):
         return result
 
     def cal_history(self, history):
-        return [self.act_map(his) for his in history]
+        """
+        スタティックメソッドのdummyを用いる
+        :param バッファのヒストリ部分
+        :return: ダミー化されたhistory
+        """
+        act = [self.act_map(his) for his in history]
+        return [self.dummy(a, len(self.act_map)) for a in act]
 
 
 if __name__ == '__main__':
     buffer = ['Motor-_', 'maker-_', 'auto-_', 'Japanese-_', 'of-_',
               'sales-_', 'of-_', 'president-_', 'named-_', 'was-_']
-
+    history = [10, 20, 30, 11]
     vec = myVectorizer()
-    ans = vec.embed(buffer)
-    print(ans)
+    buf = vec.embed(buffer)
+    his = vec.cal_history(history)
+    print(his)
