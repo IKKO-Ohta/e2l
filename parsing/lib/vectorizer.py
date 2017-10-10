@@ -77,14 +77,14 @@ class myVectorizer(object):
         :param バッファのヒストリ部分
         :return: ダミー化されたhistory
         """
-        act = [self.act_map(his) for his in history]
+        act = [self.act_map[his] for his in history]
         return [self.dummy(a, len(self.act_map)) for a in act]
 
 
 if __name__ == '__main__':
     buffer = ['Motor-_', 'maker-_', 'auto-_', 'Japanese-_', 'of-_',
               'sales-_', 'of-_', 'president-_', 'named-_', 'was-_']
-    history = [10, 20, 30, 11]
+    history = ["SHIFT", "SHIFT", "LEFT", "RIGHT"]
     vec = myVectorizer()
     buf = vec.embed(buffer)
     his = vec.cal_history(history)
