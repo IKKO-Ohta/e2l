@@ -21,17 +21,20 @@ class Transition(object):
     @staticmethod
     def right_arc(relation, conf):
         conf.arcs.append([conf.stack[1], relation, conf.stack[0]])
+        print([conf.stack[1], relation, conf.stack[0]])
         conf.stack.pop(0)
 
     @staticmethod
     def left_arc(relation, conf):
         conf.arcs.append([conf.stack[0], relation, conf.stack[1]])
+        print([conf.stack[0], relation, conf.stack[1]])
         conf.stack.pop(1)
 
     @staticmethod
     def shift(conf):
         idx_wi = conf.buffer.pop(0)
         conf.stack.insert(0, idx_wi)
+
         if not conf.stack[-1]: del conf.stack[-1]
 
 
@@ -100,19 +103,26 @@ def _oracle_dump(oracle_path):
     return feature, label
 
 
+
+
+
 if __name__ == '__main__':
     path = "../auto/Penn_Oracle/00/wsj_0009.oracle"
     words, actions = _oracle_dump(path)
     conf = Configuration()
     conf.stack = copy.deepcopy(words[0][0])
     conf.buffer = copy.deepcopy(words[0][1])
+    i = 0
     for action in actions:
         if action == "SHIFT":
             Transition.shift(conf)
         elif "RIGHT" in action:
-            kind = action[action.find("(")+1:action.find(")")]  # "ROOT", "name", ...
-            Transition.right_arc(kind, conf)
+            Transition.right_arc(action, conf)
         elif "LEFT" in action:
-            kind = action[action.find("(") + 1:action.find(")")]
-            Transition.left_arc(kind, conf)
+            Transition.left_arc(action, conf)
         conf.history.append(action)
+
+        i += 1
+        if i == 20:
+            break
+

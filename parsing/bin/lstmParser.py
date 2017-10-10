@@ -45,111 +45,27 @@ class Transition(object):
         if not conf.stack[-1]:
             del conf.stack[-1]
 
-
-class RedNN(chainer.Chain):
-    def __init__(self):
-        self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
-                                                                        binary=True)
-        with open("../model/tag_map.pkl", "br") as f:
-            self.tag_map = pickle.load(f)
-        with open("word2id.pkl", "rb") as f:
-            self.corpus = pickle.load(f)
-
-        super(RedNN, self).__init__()
-        with self.init_scope():
-            self.U = L.Linear(50, 1000)
-
-    def __call__(self, words):
-        while(1):
-            if len(words) == 1:
-                return words[0]
-            ret0, ret1 = words[-1], words[-2]
-            words.pop()
-            words.pop()
-            if type(ret0) == str:
-                ret0 = self.wv_model[ret0]
-            ret = np.concatenate([ret0, self.wv_model[ret1], self.tag_map[ret0]])
-            ret = self.U(ret)
-            ret = F.tanh(ret)
-            words.append(ret)
-
-class CalBuffer(object):
-    def __init__(self):
-        self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
-                                                                        binary=True)
-        with open("../model/tag_map.pkl", "br") as f:
-            self.tag_map = pickle.load(f)
-        with open("word2id.pkl", "rb") as f:
-            self.corpus = pickle.load(f)
-        self.regex = re.compile('[a-zA-Z0-9]+')
-        return
-
-    def reg(self, word):
-        g = self.regex.match(word)
-        return g.group()
-
-    def find_tag(self, word):
-        return self.tag_map[word]
-
-    def __call__(self, word):
-        word = self.reg(word)
-        return np.concatenate([self.corpus[word], self.wv_model[word], self.tag_map[word]])
-
-
-
-class CalStack(object):
-    """
-    cal stackの手続き
-    1. 部分木を作成する
-    2. 1つあたりの部分木を計算して返却する
-    結局、cal_stack内部で何が起きているのか、我々は知らないのが問題
-    オラクルエッジをそのまま受け取れば良い
-    []
-    入力:  stackとconf.arc
-    出力： [部分木1当たりの]ベクトル
-    """
-    def __init__(self):
-        self.red = RedNN()
-        self.regex = re.compile('[a-zA-Z0-9]+')
-
-    def reg(self, word):
-        g = self.regex.match(word)
-        return g.group()
-
-    def reconstruct(self, tree):
-        """
-        edgesを受け取り、
-        [A,B,C,D ... ]のかたちにする
-        ついでにA,B,C,Dを整形する
-        """
-        ans = [edge[0] for edge in tree]
-        ans.append(tree[-1][-1])  # head-word
-        return [self.reg(a) for a in ans]
-
-    def __call__(self, tree):
-        tree = self.reconstruct(tree)
-        return self.red(tree)
-
-
 class Parser(chainer.Chain):
     def __init__(self):
         self.conf = Configuration()
-        self.A = []
-        self.cal_buffer = CalBuffer()
-        self.cal_stack = CalStack()
+
+        self.input_dim = [49454, 3, 49453]
+        self.output = 3
+
+        self.vectorizer = myVectorizer()
+
         super(Parser, self).__init__()
         with self.init_scope():
             """
             TODO: 具体的な次元数を求める => 素性側が出そろったら
             """
-            self.embed = L.EmbedID(1000, 100)  # word embedding
-            self.LS = L.LSTM(100, 50)  # for the subtree
-            self.LA = L.LSTM(100, 50)  # for the action history
-            self.LB = L.LSTM(100, 50)  # for the buffer
-            self.U = L.Linear(50, 1000)  # input => lstm
-            self.V = L.Linear(50, 1000)  # input => lstm
-            self.W = L.Linear(50, 1000)  # [St;At;Bt] => classifier
-            self.G = L.Linear(50, 1000)  # output
+            self.LS = L.LSTM(self.input_dim[0], self.input_dim[0])  # for the subtree
+            self.LA = L.LSTM(self.input_dim[1], self.input_dim[1])  # for the action history
+            self.LB = L.LSTM(self.input_dim[2], self.input_dim[2])  # for the buffer
+            self.U = L.Linear(self.input_dim[0], self.input_dim[1])  # input => lstm
+            self.V = L.Linear(self.input_dim[0], self.input_dim[1])  # input => lstm
+            self.W = L.Linear(sum(self.input_dim), sum(self.input_dim) // 2)  # [St;At;Bt] => classifier
+            self.G = L.Linear(sum(self.input_dim) // 2, self.output)  # output
 
     def reset_state(self):
         self.LS.reset_state()
@@ -158,19 +74,36 @@ class Parser(chainer.Chain):
 
     def __call__(self):
         # Given the current word ID, predict the next word.
+        """
+
+        :: "降ってきたものを食べる”だけ
+        ::"なめなおし"はしていない
+        """
         self.reset_state()
         at = [self.LA(a) for a in reversed(self.A)][0]
         """
         stとbtはループになっているはず
         """
-        for b in self.conf.buffer:
-            bt = self.cal_buffer(b)
-            bt = self.V(bt)
-            bt = F.relu(bt)
-        for s in self.conf.stack:
-            st = self.cal_stack(s)
-            st = self.U(st)
-            st = F.relu(st)
+        self.nullVector = np.asarray([0 for i in range(49454)])
+
+        # 最新のbuffer情報
+        if self.conf.buffer:
+            bt = self.conf.buffer[-1]
+            bt = self.vectorizer.embed(bt)
+        else:
+            bt = self.nullVector
+        bt = self.V(bt)
+        bt = F.relu(bt)
+
+        # 最新のエッジ
+        if self.conf.stack:
+            st = self.conf.arcs[-1]
+            st = self.vectorizer.embed(st)
+        else:
+            st = self.nullVector
+        st = self.U(st)
+        st = F.relu(st)
+
         h1 = np.concatenate([st, at, bt])
         h2 = self.W(h1)
         h2 = F.relu(h2)
