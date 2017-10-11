@@ -27,12 +27,14 @@ class Transition(object):
         conf.arcs.append([conf.stack[1], relation, conf.stack[0]])
         print([conf.stack[1], relation, conf.stack[0]])
         conf.stack.pop(0)
+        return [conf.stack[1], relation, conf.stack[0]]
 
     @staticmethod
     def left_arc(relation, conf):
         conf.arcs.append([conf.stack[0], relation, conf.stack[1]])
         print([conf.stack[0], relation, conf.stack[1]])
         conf.stack.pop(1)
+        return [conf.stack[0], relation, conf.stack[1]]
 
     @staticmethod
     def shift(conf):
@@ -150,7 +152,9 @@ class myVectorizer(object):
         return np.concatenate([w, wlm, tag])
 
     def edge_embed(self, edge):
-
+        if not edge:
+            nullvecLen = 300 + 300 + len(self.act_map)
+            return np.asarray([0 for i in range(nullvecLen)],dtype=np.float32)
         # 正規表現でwordを洗浄
         edge[0], edge[2] = self.reg(edge[0]), self.reg(edge[2])
 
@@ -159,7 +163,7 @@ class myVectorizer(object):
         elif edge[0].capitalize() in self.wv_model:
             h = self.wv_model[edge[0].capitalize()]
         else:
-            h = np.asarray([0 for i in range(300)])
+            h = np.asarray([0 for i in range(300)], dtype=np.float32)
 
         if edge[2] in self.wv_model:
             d = self.wv_model[edge[2]]
@@ -178,6 +182,9 @@ class myVectorizer(object):
         :param バッファのヒストリ部分
         :return: ダミー化されたhistory
         """
+        if not history:
+            return np.asarray([0 for i in range(len(self.act_map))])
+
         act = [self.act_map[his] for his in history]
         return [self.dummy(a, len(self.act_map)) for a in act]
 
@@ -186,14 +193,25 @@ if __name__ == '__main__':
     path = "../auto/Penn_Oracle/00/wsj_0009.oracle"
     words, actions = _oracle_dump(path)
     conf = Configuration()
+    vectorizer = myVectorizer()
     conf.stack = copy.deepcopy(words[0][0])
     conf.buffer = copy.deepcopy(words[0][1])
 
     for action in actions:
+        t = 0
         if action == "SHIFT":
             Transition.shift(conf)
         elif "RIGHT" in action:
-            Transition.right_arc(action, conf)
+            ret = Transition.right_arc(action, conf)
         elif "LEFT" in action:
-            Transition.left_arc(action, conf)
-        conf.history.append(action)
+            ret = Transition.left_arc(action, conf)
+
+        t += 1
+
+        if t > 2:
+            his = vectorizer.cal_history(conf.history[-1])
+            buf = vectorizer.buf_embed(conf.buffer[-1])
+            stk = vectorizer.edge_embed(conf.arcs[-1])
+            print("his:", his,
+                  "buf:", buf,
+                  "stk", stk)
