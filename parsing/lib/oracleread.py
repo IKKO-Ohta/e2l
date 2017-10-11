@@ -1,4 +1,8 @@
 import copy
+import re
+import gensim
+import pickle
+import numpy as np
 
 
 class Configuration(object):
@@ -37,26 +41,6 @@ class Transition(object):
 
         if not conf.stack[-1]: del conf.stack[-1]
 
-
-def export(conf):
-    """
-    :return: chainerが学習できるようなベクトルとラベルの組
-    """
-    def embedding(words):
-        return 0
-
-    S, A, B = [], [], []
-
-    # stack [一番難しい]
-    S = [...]
-
-    # action [簡単]
-    A = copy.deepcopy(conf.history)
-    A = [embedding(a) for a in A]
-
-    # buffer [簡単]
-    B = [embedding(b) for b in B]
-    return
 
 
 def _oracle_dump(oracle_path):
@@ -103,7 +87,99 @@ def _oracle_dump(oracle_path):
     return feature, label
 
 
+class myVectorizer(object):
+    """
+    - cal buffer
+    - cal stack
+    - 変数のembed
+    - ダミー化
+    """
 
+    def __init__(self):
+        self.regex = re.compile('[a-zA-Z0-9]+')
+        self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
+                                                                        binary=True)
+        with open("../model/tag_map.pkl", "rb") as f:
+            self.tag_map = pickle.load(f)
+        with open("../model/word2id.pkl", "rb") as f:
+            self.corpus = pickle.load(f)
+        with open("../model/act_map.pkl", "rb") as f:
+            self.act_map = pickle.load(f)
+        with open("../model/tag2id.pkl", "rb") as f:
+            self.tag2id = pickle.load(f)
+
+    def reg(self, word):
+        g = self.regex.match(word)
+        return g.group()
+
+    def find_tag(self, word):
+        word = self.regex.match(word)
+        return self.tag_map[word]
+
+    @staticmethod
+    def dummy(ind, l):
+        m = [0 if i != ind else 1 for i in range(l)]
+        return np.asarray(m, dtype=np.float32)
+
+    def buf_embed(self, word):
+        def find(key):
+            return self.corpus[key], self.wv_model[key], self.tag_map[key]
+
+        def e_find(key):
+            return self.corpus[key], np.asarray([0 for i in range(300)]), self.tag_map[key]
+
+        def not_null(key):
+            dicts = [self.corpus, self.wv_model, self.tag_map]
+            if all([key in d for d in dicts]):
+                return True
+            else:
+                return False
+
+        # 正規表現でwordを洗浄
+        word = self.reg(word)
+
+        if not_null(word):
+            w, wlm, tag = find(word)
+        elif not_null(word.capitalize()):
+            w, wlm, tag = find(word.capitalize())
+        else:
+            w, wlm, tag = e_find(word)
+
+        w = self.dummy(w, len(self.corpus))
+        tag = self.dummy(self.tag2id[tag], len(self.tag2id))
+        return np.concatenate([w, wlm, tag])
+
+    def edge_embed(self, edge):
+
+        # 正規表現でwordを洗浄
+        edge[0], edge[2] = self.reg(edge[0]), self.reg(edge[2])
+
+        if edge[0] in self.wv_model:
+            h = self.wv_model[edge[0]]
+        elif edge[0].capitalize() in self.wv_model:
+            h = self.wv_model[edge[0].capitalize()]
+        else:
+            h = np.asarray([0 for i in range(300)])
+
+        if edge[2] in self.wv_model:
+            d = self.wv_model[edge[2]]
+        elif edge[2].capitalize() in self.wv_model:
+            d = self.wv_model[edge[2].capitalize()]
+        else:
+            d = np.asarray([0 for i in range(300)])
+
+        r = self.act_map[edge[1]]
+        r = self.dummy(r, len(self.act_map))
+        return np.concatenate([h, d, r])
+
+    def cal_history(self, history):
+        """
+        スタティックメソッドのdummyを用いる
+        :param バッファのヒストリ部分
+        :return: ダミー化されたhistory
+        """
+        act = [self.act_map[his] for his in history]
+        return [self.dummy(a, len(self.act_map)) for a in act]
 
 
 if __name__ == '__main__':
@@ -112,7 +188,7 @@ if __name__ == '__main__':
     conf = Configuration()
     conf.stack = copy.deepcopy(words[0][0])
     conf.buffer = copy.deepcopy(words[0][1])
-    i = 0
+
     for action in actions:
         if action == "SHIFT":
             Transition.shift(conf)
@@ -121,8 +197,3 @@ if __name__ == '__main__':
         elif "LEFT" in action:
             Transition.left_arc(action, conf)
         conf.history.append(action)
-
-        i += 1
-        if i == 20:
-            break
-
