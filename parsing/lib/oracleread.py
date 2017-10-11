@@ -127,6 +127,10 @@ class myVectorizer(object):
         return np.asarray(m, dtype=np.float32)
 
     def buf_embed(self, buffer):
+        if len(buffer) == 0:
+            nullvecLen = len(self.corpus[key]) + 300 + len(self.act_map)
+            return np.asarray([0 for i in range(nullvecLen)],dtype=np.float32)
+
         word = buffer[-1]  # last
 
         def find(key):
