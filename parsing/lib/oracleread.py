@@ -194,11 +194,11 @@ if __name__ == '__main__':
     words, actions = _oracle_dump(path)
     conf = Configuration()
     vectorizer = myVectorizer()
+    t = 0
     conf.stack = copy.deepcopy(words[0][0])
     conf.buffer = copy.deepcopy(words[0][1])
 
     for action in actions:
-        t = 0
         if action == "SHIFT":
             Transition.shift(conf)
         elif "RIGHT" in action:
@@ -209,6 +209,7 @@ if __name__ == '__main__':
         t += 1
 
         if t > 2:
+            print("start")
             his = vectorizer.cal_history(conf.history[-1])
             buf = vectorizer.buf_embed(conf.buffer[-1])
             stk = vectorizer.edge_embed(conf.arcs[-1])
