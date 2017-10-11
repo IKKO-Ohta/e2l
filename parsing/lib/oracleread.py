@@ -123,7 +123,9 @@ class myVectorizer(object):
         m = [0 if i != ind else 1 for i in range(l)]
         return np.asarray(m, dtype=np.float32)
 
-    def buf_embed(self, word):
+    def buf_embed(self, buffer):
+        word = buffer[-1]  # last
+
         def find(key):
             return self.corpus[key], self.wv_model[key], self.tag_map[key]
 
@@ -151,13 +153,13 @@ class myVectorizer(object):
         tag = self.dummy(self.tag2id[tag], len(self.tag2id))
         return np.concatenate([w, wlm, tag])
 
-    def edge_embed(self, edge):
-        if not edge:
+    def edge_embed(self, arc):
+        if not arc:
             nullvecLen = 300 + 300 + len(self.act_map)
             return np.asarray([0 for i in range(nullvecLen)],dtype=np.float32)
-        # 正規表現でwordを洗浄
-        edge[0], edge[2] = self.reg(edge[0]), self.reg(edge[2])
 
+        edge = arc[-1]  # last arc
+        edge[0], edge[2] = self.reg(edge[0]), self.reg(edge[2])  # 正規表現でwordを洗浄
         if edge[0] in self.wv_model:
             h = self.wv_model[edge[0]]
         elif edge[0].capitalize() in self.wv_model:
@@ -183,7 +185,8 @@ class myVectorizer(object):
         :return: ダミー化されたヒストリ
         """
         if history:
-            return self.dummy(self.act_map[history], len(self.act_map))
+            last = history[-1]
+            return self.dummy(self.act_map[last], len(self.act_map))
         else:
             return np.asarray([0 for i in range(len(self.act_map))])
 
@@ -211,9 +214,9 @@ if __name__ == '__main__':
 
         if t > 2:
             print("start")
-            his = vectorizer.cal_history(conf.history[-1])
-            buf = vectorizer.buf_embed(conf.buffer[-1])
-            stk = vectorizer.edge_embed(conf.arcs[-1])
+            his = vectorizer.cal_history(conf.history)
+            buf = vectorizer.buf_embed(conf.buffer)
+            stk = vectorizer.edge_embed(conf.arcs)
             print("his:", his,
                   "buf:", buf,
                   "stk", stk)
