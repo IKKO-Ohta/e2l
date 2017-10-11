@@ -207,15 +207,6 @@ if __name__ == '__main__':
     conf.buffer = copy.deepcopy(words[0][1])
 
     for action in actions:
-        if action == "SHIFT":
-            Transition.shift(conf)
-        elif "RIGHT" in action:
-            Transition.right_arc(action, conf)
-        elif "LEFT" in action:
-            Transition.left_arc(action, conf)
-
-        conf.history.append(action)
-        t += 1
 
         if t > 2:
             print("start")
@@ -225,3 +216,15 @@ if __name__ == '__main__':
             print("his:", his,
                   "buf:", buf,
                   "stk", stk)
+
+        if action == "SHIFT":
+            Transition.shift(conf)
+        elif "RIGHT" in action:
+            Transition.right_arc(action, conf)
+        elif "LEFT" ined action:
+            Transition.left_arc(action, conf)
+
+        conf.history.append(action)
+        t += 1
+
+
