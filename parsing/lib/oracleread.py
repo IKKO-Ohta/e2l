@@ -221,7 +221,7 @@ if __name__ == '__main__':
             Transition.shift(conf)
         elif "RIGHT" in action:
             Transition.right_arc(action, conf)
-        elif "LEFT" ined action:
+        elif "LEFT" in action:
             Transition.left_arc(action, conf)
 
         conf.history.append(action)
