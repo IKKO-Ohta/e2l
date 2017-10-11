@@ -179,12 +179,11 @@ class myVectorizer(object):
     def cal_history(self, history):
         """
         スタティックメソッドのdummyを用いる
-        :param バッファのヒストリ部分
-        :return: ダミー化されたhistory
+        :param バッファの最新ヒストリ
+        :return: ダミー化されたヒストリ
         """
         if history:
-            act = [self.act_map[his] for his in history]
-            return [self.dummy(a, len(self.act_map)) for a in act]
+            return self.dummy(self.act_map[history], len(self.act_map))
         else:
             return np.asarray([0 for i in range(len(self.act_map))])
 
