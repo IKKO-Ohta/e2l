@@ -27,14 +27,14 @@ class Transition(object):
         conf.arcs.append([conf.stack[1], relation, conf.stack[0]])
         print([conf.stack[1], relation, conf.stack[0]])
         conf.stack.pop(0)
-        return [conf.stack[1], relation, conf.stack[0]]
+        #return [conf.stack[1], relation, conf.stack[0]]
 
     @staticmethod
     def left_arc(relation, conf):
         conf.arcs.append([conf.stack[0], relation, conf.stack[1]])
         print([conf.stack[0], relation, conf.stack[1]])
         conf.stack.pop(1)
-        return [conf.stack[0], relation, conf.stack[1]]
+        #return [conf.stack[0], relation, conf.stack[1]]
 
     @staticmethod
     def shift(conf):
@@ -202,9 +202,9 @@ if __name__ == '__main__':
         if action == "SHIFT":
             Transition.shift(conf)
         elif "RIGHT" in action:
-            ret = Transition.right_arc(action, conf)
+            Transition.right_arc(action, conf)
         elif "LEFT" in action:
-            ret = Transition.left_arc(action, conf)
+            Transition.left_arc(action, conf)
 
         t += 1
 
