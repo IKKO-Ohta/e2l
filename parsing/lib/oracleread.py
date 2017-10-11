@@ -182,11 +182,12 @@ class myVectorizer(object):
         :param バッファのヒストリ部分
         :return: ダミー化されたhistory
         """
-        if not history:
+        if history:
+            act = [self.act_map[his] for his in history]
+            return [self.dummy(a, len(self.act_map)) for a in act]
+        else:
             return np.asarray([0 for i in range(len(self.act_map))])
 
-        act = [self.act_map[his] for his in history]
-        return [self.dummy(a, len(self.act_map)) for a in act]
 
 
 if __name__ == '__main__':
