@@ -112,7 +112,10 @@ class myVectorizer(object):
 
     def reg(self, word):
         g = self.regex.match(word)
-        return g.group()
+        if g:
+            return g.group()
+        else:
+            return ""
 
     def find_tag(self, word):
         word = self.regex.match(word)
@@ -189,8 +192,6 @@ class myVectorizer(object):
             return self.dummy(self.act_map[last], len(self.act_map))
         else:
             return np.asarray([0 for i in range(len(self.act_map))])
-
-
 
 if __name__ == '__main__':
     path = "../auto/Penn_Oracle/00/wsj_0009.oracle"
