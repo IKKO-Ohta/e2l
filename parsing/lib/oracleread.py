@@ -207,6 +207,7 @@ if __name__ == '__main__':
         elif "LEFT" in action:
             Transition.left_arc(action, conf)
 
+        conf.history.append(action)
         t += 1
 
         if t > 2:
