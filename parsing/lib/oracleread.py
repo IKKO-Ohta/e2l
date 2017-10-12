@@ -26,13 +26,13 @@ class Transition(object):
     @staticmethod
     def right_arc(relation, conf):
         conf.arcs.append([conf.stack[1], relation, conf.stack[0]])
-        print([conf.stack[1], relation, conf.stack[0]])
+        # print([conf.stack[1], relation, conf.stack[0]])
         conf.stack.pop(0)
 
     @staticmethod
     def left_arc(relation, conf):
         conf.arcs.append([conf.stack[0], relation, conf.stack[1]])
-        print([conf.stack[0], relation, conf.stack[1]])
+        # print([conf.stack[0], relation, conf.stack[1]])
         conf.stack.pop(1)
 
     @staticmethod
