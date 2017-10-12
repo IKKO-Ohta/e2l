@@ -241,6 +241,6 @@ if __name__ == '__main__':
             print("continue..")
             error += 1
 
-        print("preprocess done. found Error ..")
-        print(error)
+    print("preprocess done. found Error ..")
+    print(error)
 
