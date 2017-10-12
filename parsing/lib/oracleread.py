@@ -201,6 +201,7 @@ if __name__ == '__main__':
         conf = Configuration()
         conf.stack = copy.deepcopy(words[0][0])
         conf.buffer = copy.deepcopy(words[0][1])
+        cnt = 0
 
         for action in actions:
             print(conf.show())
@@ -220,7 +221,13 @@ if __name__ == '__main__':
             elif "LEFT" in action:
                 Transition.left_arc(action, conf)
 
-            conf.history.append(action)
+            target_dir_num = vectorizer.act_map[action]
+            target_path = "../auto/preprocessed/" + '{0:02d}'.format(target_dir_num) \
+                          + "/" + '{0:07d}'.format(cnt) + "pkl"
 
+            with open(target_path) as target:
+                pickle.dump([his, buf, stk], target)
+
+            conf.history.append(action)
 
 
