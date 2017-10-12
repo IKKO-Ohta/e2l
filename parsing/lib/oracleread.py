@@ -235,6 +235,7 @@ if __name__ == '__main__':
                     pickle.dump(([his, buf, stk], action), target)
 
                 conf.history.append(action)
+                cnt += 1
         except IndexError:
             print("--ERROR-- ", path)
             print("IndexError")
