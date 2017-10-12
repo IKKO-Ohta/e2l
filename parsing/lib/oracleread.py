@@ -232,7 +232,7 @@ if __name__ == '__main__':
                               + "/" + origin_name + "_" + '{0:07d}'.format(cnt) + ".pkl"
 
                 with open(target_path, "wb") as target:
-                    pickle.dump([his, buf, stk], target)
+                    pickle.dump(([his, buf, stk], action), target)
 
                 conf.history.append(action)
         except IndexError:
