@@ -195,6 +195,7 @@ def oracle_load(oracle_path):
 if __name__ == '__main__':
     pathes = glob.glob("../auto/Penn_Oracle_split/*/*.oracle")
     vectorizer = myVectorizer()
+    error = 0
 
     for path in pathes:
         words, actions = oracle_load(path)
@@ -202,33 +203,43 @@ if __name__ == '__main__':
         conf.stack = copy.deepcopy(words[0][0])
         conf.buffer = copy.deepcopy(words[0][1])
         cnt = 0
+        try:
+            for action in actions:
+                print(conf.show())
+                print("dumping..")
+                his = vectorizer.cal_history(conf.history)
+                buf = vectorizer.buf_embed(conf.buffer)
+                stk = vectorizer.edge_embed(conf.arcs)
+                print("his:", his,
+                      "buf:", buf,
+                      "stk", stk)
+                print("label:", action)
 
-        for action in actions:
-            print(conf.show())
-            print("dumping..")
-            his = vectorizer.cal_history(conf.history)
-            buf = vectorizer.buf_embed(conf.buffer)
-            stk = vectorizer.edge_embed(conf.arcs)
-            print("his:", his,
-                  "buf:", buf,
-                  "stk", stk)
-            print("label:", action)
+                if action == "SHIFT":
+                    Transition.shift(conf)
+                elif "RIGHT" in action:
+                    Transition.right_arc(action, conf)
+                elif "LEFT" in action:
+                    Transition.left_arc(action, conf)
+                else:
+                    """
+                    予期しない命令
+                    """
+                    break
+                target_dir_num = path.split("/")[-2]
+                origin_name = path.split("/")[-1].replace(".oracle", "")
+                target_path = "../auto/preprocessed/" + target_dir_num \
+                              + "/" + origin_name + "_" + '{0:07d}'.format(cnt) + ".pkl"
 
-            if action == "SHIFT":
-                Transition.shift(conf)
-            elif "RIGHT" in action:
-                Transition.right_arc(action, conf)
-            elif "LEFT" in action:
-                Transition.left_arc(action, conf)
+                with open(target_path, "wb") as target:
+                    pickle.dump([his, buf, stk], target)
 
-            target_dir_num = path.split("/")[-2]
-            origin_name = path.split("/")[-1].replace(".oracle", "")
-            target_path = "../auto/preprocessed/" + target_dir_num \
-                          + "/" + origin_name + "_" + '{0:07d}'.format(cnt) + ".pkl"
+                conf.history.append(action)
+        except:
+            print("--ERROR-- ", path)
+            print("continue..")
+            error += 1
 
-            with open(target_path, "wb") as target:
-                pickle.dump([his, buf, stk], target)
-
-            conf.history.append(action)
-
+        print("preprocess done. found Error ..")
+        print(error)
 
