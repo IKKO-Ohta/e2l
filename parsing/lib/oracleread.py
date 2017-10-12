@@ -205,15 +205,13 @@ if __name__ == '__main__':
         cnt = 0
         try:
             for action in actions:
-                print(conf.show())
-                print("dumping..")
+                # print(conf.show())
+                # print("dumping..")
                 his = vectorizer.cal_history(conf.history)
                 buf = vectorizer.buf_embed(conf.buffer)
                 stk = vectorizer.edge_embed(conf.arcs)
-                print("his:", his,
-                      "buf:", buf,
-                      "stk", stk)
-                print("label:", action)
+                # print("his:", his,"buf:", buf, "stk", stk)
+                # print("label:", action)
 
                 if action == "SHIFT":
                     Transition.shift(conf)
@@ -232,10 +230,12 @@ if __name__ == '__main__':
                               + "/" + origin_name + "_" + '{0:07d}'.format(cnt) + ".pkl"
 
                 with open(target_path, "wb") as target:
+                    print("gen:", target_path)
                     pickle.dump(([his, buf, stk], action), target)
 
                 conf.history.append(action)
                 cnt += 1
+
         except IndexError:
             print("--ERROR-- ", path)
             print("IndexError")
