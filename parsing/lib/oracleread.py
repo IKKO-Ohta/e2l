@@ -193,7 +193,7 @@ def oracle_load(oracle_path):
     return feature, label
 
 if __name__ == '__main__':
-    pathes = glob.glob("../auto/Penn_Oracle/*/*.oracle")
+    pathes = glob.glob("../auto/Penn_Oracle_split/*/*.oracle")
     vectorizer = myVectorizer()
 
     for path in pathes:
@@ -221,11 +221,12 @@ if __name__ == '__main__':
             elif "LEFT" in action:
                 Transition.left_arc(action, conf)
 
-            target_dir_num = vectorizer.act_map[action]
-            target_path = "../auto/preprocessed/" + '{0:02d}'.format(target_dir_num) \
-                          + "/" + '{0:07d}'.format(cnt) + ".pkl"
+            target_dir_num = path.split("/")[-2]
+            origin_name = path.split("/")[-1].replace(".oracle", "")
+            target_path = "../auto/preprocessed/" + target_dir_num \
+                          + "/" + origin_name + "_" + '{0:07d}'.format(cnt) + ".pkl"
 
-            with open(target_path,"wb") as target:
+            with open(target_path, "wb") as target:
                 pickle.dump([his, buf, stk], target)
 
             conf.history.append(action)
