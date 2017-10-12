@@ -202,20 +202,18 @@ if __name__ == '__main__':
     words, actions = _oracle_dump(path)
     conf = Configuration()
     vectorizer = myVectorizer()
-    t = 0
     conf.stack = copy.deepcopy(words[0][0])
     conf.buffer = copy.deepcopy(words[0][1])
 
     for action in actions:
-
-        if t > 2:
-            print("start")
-            his = vectorizer.cal_history(conf.history)
-            buf = vectorizer.buf_embed(conf.buffer)
-            stk = vectorizer.edge_embed(conf.arcs)
-            print("his:", his,
-                  "buf:", buf,
-                  "stk", stk)
+        print("start")
+        his = vectorizer.cal_history(conf.history)
+        buf = vectorizer.buf_embed(conf.buffer)
+        stk = vectorizer.edge_embed(conf.arcs)
+        print("his:", his,
+              "buf:", buf,
+              "stk", stk)
+        print("label:", action)
 
         if action == "SHIFT":
             Transition.shift(conf)
@@ -225,6 +223,6 @@ if __name__ == '__main__':
             Transition.left_arc(action, conf)
 
         conf.history.append(action)
-        t += 1
+
 
 
