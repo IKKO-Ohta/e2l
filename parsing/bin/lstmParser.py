@@ -10,40 +10,8 @@ import numpy as np
 from chainer import optimizers
 
 sys.path.append('../lib/')
-from vectorizer import myVectorizer
-
-class Configuration(object):
-    def __init__(self):
-        self.stack = []  # The root element
-        self.buffer = []
-        self.arcs = []  # empty set of arc
-
-    def show(self):
-        print("stack: ", self.stack)
-        print("buffer: ", self.buffer)
-        print("arcs: ", self.arcs)
-
-
-class Transition(object):
-    def __init__(self):
-        return
-
-    @staticmethod
-    def right_arc(relation, conf):
-        conf.arcs.append([conf.stack[1], relation, conf.stack[0]])
-        conf.stack.pop(0)
-
-    @staticmethod
-    def left_arc(relation, conf):
-        conf.arcs.append([conf.stack[0], relation, conf.stack[1]])
-        conf.stack.pop(1)
-
-    @staticmethod
-    def shift(conf):
-        idx_wi = conf.buffer.pop(0)
-        conf.stack.insert(0, idx_wi)
-        if not conf.stack[-1]:
-            del conf.stack[-1]
+import myVectorizer
+import myLoader
 
 class Parser(chainer.Chain):
     def __init__(self):
