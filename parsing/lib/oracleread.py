@@ -223,9 +223,9 @@ if __name__ == '__main__':
 
             target_dir_num = vectorizer.act_map[action]
             target_path = "../auto/preprocessed/" + '{0:02d}'.format(target_dir_num) \
-                          + "/" + '{0:07d}'.format(cnt) + "pkl"
+                          + "/" + '{0:07d}'.format(cnt) + ".pkl"
 
-            with open(target_path) as target:
+            with open(target_path,"wb") as target:
                 pickle.dump([his, buf, stk], target)
 
             conf.history.append(action)
