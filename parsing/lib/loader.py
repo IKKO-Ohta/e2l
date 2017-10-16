@@ -18,7 +18,7 @@ class myLoader:
         self.test = test
 
     def myNameFormat(self):
-        path =  self.targetRoot
+        path =  self.targetRoot \
                 +'{0:02d}'.format(self.dir_cnt) + "/" \
                 + "wsj" + "_" \
                 + '{0:04d}'.format(self.file_cnt) + "_" \
