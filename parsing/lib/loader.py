@@ -17,6 +17,12 @@ class myLoader:
         self.train = train
         self.test = test
 
+    def loderState(self):
+        print("self.dir_cnt", self.step)
+        print("self.file_cnt", self.step)
+        print("self.sentence_cnt", self.sentence_cnt)
+        print("self.step",self.step)
+
     def myNameFormat(self):
         path =  self.targetRoot \
                 +'{0:02d}'.format(self.dir_cnt) + "/" \
@@ -31,10 +37,8 @@ class myLoader:
         self.sentence_cnt += 1
         candidate = self.myNameFormat()
         if os.path.exists(candidate):
-            print("found,next sentence")
             return candidate
         else:
-            print("not found")
             return ""
 
     def findNextFile(self):
@@ -53,8 +57,8 @@ class myLoader:
         self.file_cnt = 0
         self.dir_cnt += 1
         if self.dir_cnt == self.test:
-            print("note:",self.dir, "for test")
-            print("Next Dir")
+            print("Note:",self.dir_cnt, "is reserved for test Directory")
+            print("Next dir..")
             self.dir_cnt += 1
 
         candidate = self.myNameFormat()
@@ -80,22 +84,19 @@ class myLoader:
 
             with open(target_path,"rb") as f:
                 pkl = pickle.load(f)
-                print(target_path)
+                print("Load:", target_path)
                 result.append(pkl)
 
             self.step += 1
 
         # 1 sentenceを読み終わるタイミング
         if self.findNextSentence():
-            print("here")
             print("Next:", self.myNameFormat())
         else:
             if self.findNextFile():
-                print("1")
                 print("Next:", self.myNameFormat())
             else:
                 if self.findNextDir():
-                    print("2")
                     print("Next:", myNameFormat())
                 else:
                     # 全てのファイルを読み終わる
