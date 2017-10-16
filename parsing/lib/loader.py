@@ -113,4 +113,4 @@ if __name__ == '__main__':
         try:
             loader.gen()
         except:
-            import pdb; pdb.set_trace()
+            sys.exit(0)
