@@ -10,8 +10,8 @@ import numpy as np
 from chainer import optimizers
 
 sys.path.append('../lib/')
-import myVectorizer
-import myLoader
+from vectorizer import myVectorizer
+from loader import myLoader
 
 class Parser(chainer.Chain):
     def __init__(self):
