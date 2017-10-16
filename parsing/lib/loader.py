@@ -13,10 +13,7 @@ class myLoader:
         self.test = 0
 
     def set(self, d="../auto/preprocessed/", train=23, test=24):
-        if d != "../auto/preprocessed/":
-            self.targetDir = d
-
-        self.dirs = glob.glob(self.targetDir + "*/*.pkl")
+        self.targetDir = d
         self.train = train
         self.test = test
 
@@ -74,7 +71,7 @@ class myLoader:
         result = []
 
         while(1):
-            target_path = myNameFormat(self)
+            target_path = self.myNameFormat(self)
             if not os.path.exists(target_path):
                 break
 
@@ -92,7 +89,7 @@ class myLoader:
                 print("Next:", self.findNextFile(target_path))
             else:
                 if self.findNextDir(target_path):
-                    print("Next:", self.findNextDir(target_path)):
+                    print("Next:", self.findNextDir(target_path))
                 else:
                     # 全てのファイルを読み終わる
                     raise IndexError
