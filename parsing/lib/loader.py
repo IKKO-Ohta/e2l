@@ -76,7 +76,7 @@ class myLoader:
             if not os.path.exists(target_path):
                 break
 
-            with open(target_path) as f:
+            with open(target_path,"rb") as f:
                 pkl = pickle.load(f)
                 result.append(pkl)
 
