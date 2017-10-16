@@ -97,7 +97,7 @@ class myLoader:
                 print("Next:", self.myNameFormat())
             else:
                 if self.findNextDir():
-                    print("Next:", myNameFormat())
+                    print("Next:", self.myNameFormat())
                 else:
                     # 全てのファイルを読み終わる
                     raise IndexError
@@ -107,7 +107,6 @@ class myLoader:
         return result
 
 if __name__ == '__main__':
-    loader = myLoader()
     loader.set()
     while(1):
         try:
