@@ -22,13 +22,13 @@ class myLoader:
                 + "wsj" + "_" \
                 + '{0:04d}'.format(self.file_cnt) \
                 +  str(self.sentence_cnt) \
-                + '{0:07d}'.format(self.file_cnt) + ".pkl"
+                + '{0:07d}'.format(self.step) + ".pkl"
         return path
 
     def findNextSentence(self):
         self.step = 0
         self.sentence_cnt += 1
-        candidate = self.myNameFormat(self)
+        candidate = self.myNameFormat()
         if os.path.exists(candidate):
             return candidate
         else:
@@ -38,7 +38,7 @@ class myLoader:
         self.step = 0
         self.sentence_cnt = 0
         self.file_cnt += 1
-        candidate = self.myNameFormat(self)
+        candidate = self.myNameFormat()
         if os.path.exists(candidate):
             return candidate
         else:
@@ -54,7 +54,7 @@ class myLoader:
             print("Next Dir")
             self.dir_cnt += 1
 
-        candidate = self.myNameFormat(self)
+        candidate = self.myNameFormat()
         if os.path.exists(candidate):
             return candidate
         else:
@@ -71,7 +71,7 @@ class myLoader:
         result = []
 
         while(1):
-            target_path = self.myNameFormat(self)
+            target_path = self.myNameFormat()
             if not os.path.exists(target_path):
                 break
 
