@@ -107,6 +107,7 @@ class myLoader:
         return result
 
 if __name__ == '__main__':
+    loader = myLoader()
     loader.set()
     while(1):
         try:
