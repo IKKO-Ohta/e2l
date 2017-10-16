@@ -109,5 +109,8 @@ class myLoader:
 if __name__ == '__main__':
     loader = myLoader()
     loader.set()
-    print(loader.gen())
-    print(loader.gen())
+    while(1):
+        try:
+            loader.gen()
+        except:
+            import pdb; pdb.set_trace()
