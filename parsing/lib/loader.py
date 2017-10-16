@@ -83,20 +83,20 @@ class myLoader:
             self.step += 1
 
         # 1 sentenceを読み終わるタイミング
-        if self.findNextSentence(target_path):
-            print("Next:", self.findNextSentence(target_path))
+        if self.findNextSentence():
+            print("Next:", self.findNextSentence())
         else:
-            if self.findNextFile(target_path):
-                print("Next:", self.findNextFile(target_path))
+            if self.findNextFile():
+                print("Next:", self.findNextFile())
             else:
-                if self.findNextDir(target_path):
-                    print("Next:", self.findNextDir(target_path))
+                if self.findNextDir():
+                    print("Next:", self.findNextDir())
                 else:
                     # 全てのファイルを読み終わる
                     raise IndexError
 
         # 次があることを保証してからreturn
-        assert(os.path.exists(myNameFormat(self)))
+        assert(os.path.exists(myNameFormat()))
         return result
 
 if __name__ == '__main__':
