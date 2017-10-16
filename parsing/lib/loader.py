@@ -54,7 +54,6 @@ class myLoader:
     def findNextDir(self):
         self.step = 0
         self.sentence_cnt = 0
-        self.file_cnt = 0
         self.dir_cnt += 1
         if self.dir_cnt == self.test:
             print("Note:",self.dir_cnt, "is reserved for test Directory")
@@ -63,6 +62,7 @@ class myLoader:
 
         candidate = self.myNameFormat()
         if os.path.exists(candidate):
+            print("change Dir..")
             return candidate
         else:
             return ""
