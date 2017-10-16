@@ -96,7 +96,7 @@ class myLoader:
                     raise IndexError
 
         # 次があることを保証してからreturn
-        assert(os.path.exists(myNameFormat()))
+        assert(os.path.exists(self.myNameFormat()))
         return result
 
 if __name__ == '__main__':
