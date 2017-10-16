@@ -4,7 +4,7 @@ import glob
 
 class myLoader:
     def __init__(self):
-        self.targetDir = ""
+        self.targetRoot = ""
         self.dir_cnt = 0
         self.file_cnt = 1
         self.sentence_cnt = 0
@@ -13,15 +13,16 @@ class myLoader:
         self.test = 0
 
     def set(self, d="../auto/preprocessed/", train=23, test=24):
-        self.targetDir = d
+        self.targetRoot = d
         self.train = train
         self.test = test
 
     def myNameFormat(self):
-        path = '{0:02d}'.format(self.targetDir) + "/" \
+        path =  self.targetRoot
+                +'{0:02d}'.format(self.dir_cnt) + "/" \
                 + "wsj" + "_" \
-                + '{0:04d}'.format(self.file_cnt) \
-                +  str(self.sentence_cnt) \
+                + '{0:04d}'.format(self.file_cnt) + "_" \
+                +  str(self.sentence_cnt)+ "_" \
                 + '{0:07d}'.format(self.step) + ".pkl"
         return path
 
