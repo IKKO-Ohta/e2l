@@ -97,3 +97,9 @@ class myLoader:
         # 次があることを保証してからreturn
         assert(os.path.exists(myNameFormat(self)))
         return result
+
+if __name__ == '__main__':
+    loader = myLoader()
+    loader.set()
+    print(loader.gen())
+    print(loader.gen())
