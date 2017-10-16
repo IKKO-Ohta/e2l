@@ -31,8 +31,10 @@ class myLoader:
         self.sentence_cnt += 1
         candidate = self.myNameFormat()
         if os.path.exists(candidate):
+            print("found,next sentence")
             return candidate
         else:
+            print("not found")
             return ""
 
     def findNextFile(self):
@@ -78,19 +80,23 @@ class myLoader:
 
             with open(target_path,"rb") as f:
                 pkl = pickle.load(f)
+                print(target_path)
                 result.append(pkl)
 
             self.step += 1
 
         # 1 sentenceを読み終わるタイミング
         if self.findNextSentence():
-            print("Next:", self.findNextSentence())
+            print("here")
+            print("Next:", self.myNameFormat())
         else:
             if self.findNextFile():
-                print("Next:", self.findNextFile())
+                print("1")
+                print("Next:", self.myNameFormat())
             else:
                 if self.findNextDir():
-                    print("Next:", self.findNextDir())
+                    print("2")
+                    print("Next:", myNameFormat())
                 else:
                     # 全てのファイルを読み終わる
                     raise IndexError
