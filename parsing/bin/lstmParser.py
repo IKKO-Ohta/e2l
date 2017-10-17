@@ -17,7 +17,7 @@ class Parser(chainer.Chain):
     def __init__(self):
         self.conf = Configuration()
 
-        self.input_dim = [49454, 3, 49453]
+        self.input_dim = [49454, 3, 49454]
         self.output = 3
 
         self.vectorizer = myVectorizer()
@@ -40,55 +40,46 @@ class Parser(chainer.Chain):
         self.LA.reset_state()
         self.LB.reset_state()
 
-    def __call__(self):
+    def __call__(self, s,a,t):
         # Given the current word ID, predict the next word.
-        """
 
-        :: "降ってきたものを食べる”だけ
-        ::"なめなおし"はしていない
-        """
-        self.reset_state()
-        at = [self.LA(a) for a in reversed(self.A)][0]
-        """
-        stとbtはループになっているはず
-        """
-        self.nullVector = np.asarray([0 for i in range(49454)])
-
-        # 最新のbuffer情報
-        if self.conf.buffer:
-            bt = self.conf.buffer[-1]
-            bt = self.vectorizer.embed(bt)
-        else:
-            bt = self.nullVector
-        bt = self.V(bt)
-        bt = F.relu(bt)
-
-        # 最新のエッジ
-        if self.conf.stack:
-            st = self.conf.arcs[-1]
-            st = self.vectorizer.embed(st)
-        else:
-            st = self.nullVector
-        st = self.U(st)
+        st = self.LS(s)
         st = F.relu(st)
+        at = self.LA(a)
+        at = F.relu(at)
+        bt = self.LB(b)
+        bt = F.relu(bt)
 
         h1 = np.concatenate([st, at, bt])
         h2 = self.W(h1)
         h2 = F.relu(h2)
         h3 = self.G(h2)
-        return F.Softmax(h3)
+        # pred = F.Softmax(h3)
+        return F.softmax_cross_entropy(h3,y)
 
 
 if __name__ == '__main__':
+    loader = myLoader()
+    loader.set()
     parser = Parser()
-    vectorizer = myVectorizer()
     model = L.Classifier(parser)
     optimizer = optimizers.SGD()
     optimizer.setup(model)
-
     parser.reset_state()
     model.cleargrads()
+    with open("../model/act_map.pkl","rb") as f:
+        labels = pickle.load(f)
 
-    #loss = compute_loss(x_list,y_list)
-    ##loss.backward()
-    optimizer.update()
+    while(1):
+        try:
+            sentence = loader.gen()
+            for step in sentence:
+                x, y = step[0], step[1]
+                s, a, b = x[0], x[1], x[2]
+                y = labels[y]
+                loss = model(x,y)
+                loss.backward()
+                optimizer.update()
+            parser.reset_stste()
+        except IndexError:
+            break
