@@ -5,6 +5,7 @@ import sys
 import chainer
 import chainer.functions as F
 import chainer.links as L
+from chainer import serializers
 import gensim
 import numpy as np
 from chainer import optimizers
@@ -83,3 +84,5 @@ if __name__ == '__main__':
             parser.reset_stste()
         except IndexError:
             break
+
+    serializers.load_hdf5("../model/mymodel.h5", model)
