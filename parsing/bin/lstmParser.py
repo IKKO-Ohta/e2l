@@ -16,13 +16,8 @@ from loader import myLoader
 
 class Parser(chainer.Chain):
     def __init__(self):
-        self.conf = Configuration()
-
         self.input_dim = [49454, 3, 49454]
-        self.output = 3
-
-        self.vectorizer = myVectorizer()
-
+        self.output = 96
         super(Parser, self).__init__()
         with self.init_scope():
             """
