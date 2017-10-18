@@ -231,7 +231,8 @@ if __name__ == '__main__':
 
                 with open(target_path, "wb") as target:
                     print("gen:", target_path)
-                    pickle.dump(([his, buf, stk], action), target)
+                    label = self.act_map[action]
+                    pickle.dump(([his, buf, stk], label), target)
 
                 conf.history.append(action)
                 cnt += 1
@@ -244,4 +245,3 @@ if __name__ == '__main__':
 
     print("preprocess done. found Error ..")
     print(error)
-
