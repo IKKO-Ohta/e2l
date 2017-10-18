@@ -231,7 +231,7 @@ if __name__ == '__main__':
 
                 with open(target_path, "wb") as target:
                     print("gen:", target_path)
-                    label = self.act_map[action]
+                    label = vectorizer.act_map[action]
                     pickle.dump(([his, buf, stk], label), target)
 
                 conf.history.append(action)
