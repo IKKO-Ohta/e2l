@@ -16,8 +16,8 @@ from loader import myLoader
 
 class Parser(chainer.Chain):
     def __init__(self):
-        self.input_dim = [49454, 3, 49454]
-        self.output = 96jj
+        input_dim = [49454, 3, 49454]
+        output = 96
         """
         super(Parser, self).__init__()
         with self.init_scope():
