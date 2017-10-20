@@ -17,21 +17,19 @@ from loader import myLoader
 class Parser(chainer.Chain):
     def __init__(self):
         self.input_dim = [49454, 3, 49454]
-        self.output = 96
-	    """
+        self.output = 96jj
+        """
         super(Parser, self).__init__()
         with self.init_scope():
-            """
             TODO: 具体的な次元数を求める => 素性側が出そろったら
-            """
             self.LS = L.LSTM(self.input_dim[0], self.input_dim[0])  # for the subtree
             self.LA = L.LSTM(self.input_dim[1], self.input_dim[1])  # for the action history
             self.LB = L.LSTM(self.input_dim[2], self.input_dim[2])  # for the buffer
             self.U = L.Linear(self.input_dim[0], self.input_dim[1])  # input => lstm
             self.V = L.Linear(self.input_dim[0], self.input_dim[1])  # input => lstm
             self.W = L.Linear(sum(self.input_dim), sum(self.input_dim) // 2)  # [St;At;Bt] => classifier
-            self.G = L.Linear(sum(self.input_dim) // 2, self.output)  # output
-	        """
+            self.G = L.Linear(sullllm(self.input_dim) // 2, self.output)  # output
+            """
         super(Parser, self).__init__(
             LS = L.LSTM(input_dim[0], input_dim[0]),  # for the subtree
             LA = L.LSTM(input_dim[1], input_dim[1]),  # for the action history
@@ -40,7 +38,7 @@ class Parser(chainer.Chain):
             V = L.Linear(input_dim[0], input_dim[1]),  # input => lstm
             W = L.Linear(sum(input_dim), sum(input_dim) // 2),  # [St;At;Bt] => classifier
             G = L.Linear(sum(input_dim) // 2, output)  # output
-	)
+    )
 
 
 
