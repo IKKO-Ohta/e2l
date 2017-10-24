@@ -46,7 +46,7 @@ class Parser(chainer.Chain):
         self.LA.reset_state()
         self.LB.reset_state()
 
-    def __call__(self, his,buf,stk,y):
+    def __call__(self, his,buf,stk):
         """
         param: {
                 x: {
@@ -66,6 +66,7 @@ class Parser(chainer.Chain):
             }
         return: softmax_cross_entropy(h3,y) Variable
         """
+
 
         his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
         print("his:",his)
