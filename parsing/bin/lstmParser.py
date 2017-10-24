@@ -6,7 +6,7 @@ import chainer
 import chainer.functions as F
 import chainer.links as L
 from chainer import serializers
-from chainer import Variable, as_variable
+from chainer import Variable
 import gensim
 import numpy as np
 from chainer import optimizers
@@ -126,7 +126,7 @@ if __name__ == '__main__':
             for step in sentence:
                 x, y = step[0], step[1]
                 his, buf, stk = x[0], x[1], x[2]
-                y = as_variable(
+                y = Variable(
                     [1 if i == y else 0 for i in range(len(labels))])
                 loss = model(his,buf,stk,y)
                 accumLoss += loss
