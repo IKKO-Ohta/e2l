@@ -119,7 +119,10 @@ class myVectorizer(object):
     def edge_embed(self, arc):
         if not arc:
             nullvecLen = 300 + 300 + len(self.act_map)
-            return np.asarray([0 for i in range(nullvecLen)],dtype=np.float32)
+            h = np.asarray([0 for i in range(300)], dtype=np.float32)
+            d = np.asarray([0 for i in range(300)], dtype=np.float32)
+            r = 0
+            return [h,d,r]
 
         edge = arc[-1]  # last arc
         edge[0], edge[2] = self.reg(edge[0]), self.reg(edge[2])  # 正規表現でwordを洗浄

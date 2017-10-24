@@ -12,7 +12,6 @@ import numpy as np
 from chainer import optimizers
 
 sys.path.append('../lib/')
-from vectorizer import myVectorizer
 from loader import myLoader
 
 class Parser(chainer.Chain):
