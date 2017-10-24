@@ -13,7 +13,5 @@ for mrg in mrgs:
                 continue
             m[line[1]] = line[3]
 
-with open("../model/tag_map.pkl", "wb") as f:
+with open("../model/word2id.pkl", "wb") as f:
     pickle.dump(m, f)
-
-
