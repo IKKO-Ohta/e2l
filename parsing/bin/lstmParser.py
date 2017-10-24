@@ -103,7 +103,6 @@ class Parser(chainer.Chain):
         h2 = F.relu(h2)
         h3 = self.G(h2)
         # pred = F.Softmax(h3)
-        loss = F.cross_entropy(h3,label)
         return F.softmax_cross_entropy(h3,label)
 
 
