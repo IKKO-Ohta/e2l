@@ -67,7 +67,7 @@ class Parser(chainer.Chain):
         return: softmax_cross_entropy(h3,y) Variable
         """
         his, buf, stk = train[0], train[1], train[2]
-        label = Variable(np.asarray(label,dtype=np.int32))
+        label = Variable(np.asarray([label],dtype=np.int32))
 
         his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
         print("his:",his)
