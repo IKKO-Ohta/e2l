@@ -104,7 +104,6 @@ class Parser(chainer.Chain):
         h3 = self.G(h2)
         # pred = F.Softmax(h3)
         loss = F.cross_entropy(h3,label)
-        import pdb; pdb.set_trace()
         return F.softmax_cross_entropy(h3,label)
 
 
