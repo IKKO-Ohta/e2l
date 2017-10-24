@@ -133,7 +133,7 @@ if __name__ == '__main__':
                 accumLoss += loss
             accumLoss.backward()
             optimizer.update()
-            parser.reset_stste()
+            model.reset_stste()
         except IndexError:
             print("index error")
             break
