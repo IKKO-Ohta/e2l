@@ -128,7 +128,6 @@ if __name__ == '__main__':
                 his, buf, stk = x[0], x[1], x[2]
                 y = as_variable(
                     [1 if i == y else 0 for i in range(len(labels))])
-
                 loss = model(his,buf,stk,y)
                 accumLoss += loss
             accumLoss.backward()
