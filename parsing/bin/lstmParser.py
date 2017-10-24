@@ -46,7 +46,7 @@ class Parser(chainer.Chain):
         self.LA.reset_state()
         self.LB.reset_state()
 
-    def __call__(self, his,buf,stk):
+    def __call__(self, x, y):
         """
         param: {
                 x: {
@@ -66,7 +66,10 @@ class Parser(chainer.Chain):
             }
         return: softmax_cross_entropy(h3,y) Variable
         """
-
+        his, buf, stk = x[0], x[1], x[2]
+        y = Variable(np.asarray(
+            [1 if i == y else 0 for i in range(len(labels))],
+            dtype=np.int32))
 
         his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
         print("his:",his)
@@ -125,11 +128,7 @@ if __name__ == '__main__':
             accumLoss = Variable()
             for step in sentence:
                 x, y = step[0], step[1]
-                his, buf, stk = x[0], x[1], x[2]
-                y = Variable(np.asarray(
-                    [1 if i == y else 0 for i in range(len(labels))],
-                    dtype=np.int32))
-                loss = model(his,buf,stk,y)
+                loss = model(x,y)
                 accumLoss += loss
             accumLoss.backward()
             optimizer.update()
