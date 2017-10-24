@@ -126,8 +126,8 @@ if __name__ == '__main__':
                 x, y = step[0], step[1]
                 his, buf, stk = x[0], x[1], x[2]
                 y = np.asarray(
-                    [1 if i != y else 0 for i in range(len(labels))],
-                    dtype=np.float32)
+                    [1 if i == y else 0 for i in range(len(labels))],
+                    dtype=np.int32)
                 loss = model(his,buf,stk,y)
                 accumLoss += loss
             accumLoss.backward()
