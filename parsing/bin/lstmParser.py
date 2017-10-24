@@ -68,14 +68,14 @@ class Parser(chainer.Chain):
 
         his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
         print("his:",his)
-        bz = self.embedWordId(np.asarray([buf[0]],dtype=np.int32))
-        bf = Variable(buf[1])
-        bs = self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))
-        buf = F.concat((bz,bf,bs))
+        buf = F.concat(
+            (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
+            Variable(buf[1]).reshape(1,300),
+            self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
         print("buf:",buf)
 
-        stk = F.concat((Variable(stk[0]),
-                        Variable(stk[1]),
+        stk = F.concat((Variable(stk[0]).reshape(1,300),
+                        Variable(stk[1]).reshape(1,300),
                         self.embedActionID(np.asarray([stk[2]],dtype=np.int32))))
         print("stk:",stk)
         import pdb; pdb.set_trace()
