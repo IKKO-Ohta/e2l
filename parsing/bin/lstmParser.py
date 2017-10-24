@@ -114,7 +114,9 @@ if __name__ == '__main__':
     loader = myLoader()
     loader.set()
     model = Parser()
-    #model = L.Classifier(parser)
+    """
+    ひとまずonlineで行く
+    """
     optimizer = optimizers.SGD()
     optimizer.setup(model)
     parser.reset_state()
@@ -125,14 +127,11 @@ if __name__ == '__main__':
     while(1):
         try:
             sentence = loader.gen()  # 学習データが尽きるとIndexErrorを吐く
-
-            accumLoss = Variable()
             for step in sentence:
                 train, label = step[0], step[1]
                 loss = model(train,label)
-                accumLoss += loss
-            accumLoss.backward()
-            optimizer.update()
+                loss.backward()
+                optimizer.update()
             model.reset_stste()
         except IndexError:
             print("index error")
