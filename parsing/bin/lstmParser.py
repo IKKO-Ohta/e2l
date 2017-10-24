@@ -113,8 +113,8 @@ class Parser(chainer.Chain):
 if __name__ == '__main__':
     loader = myLoader()
     loader.set()
-    parser = Parser()
-    model = L.Classifier(parser)
+    model = Parser()
+    #model = L.Classifier(parser)
     optimizer = optimizers.SGD()
     optimizer.setup(model)
     parser.reset_state()
