@@ -121,15 +121,15 @@ if __name__ == '__main__':
         labels = pickle.load(f)
 
     while(1):
-        try:
-            sentence = loader.gen()  # 学習データが尽きるとIndexErrorを吐く
+        sentence = loader.gen()
+        if sentence:
             for step in sentence:
                 train, label = step[0], step[1]
                 loss = model(train,label)
                 loss.backward()
                 optimizer.update()
             model.reset_stste()
-        except IndexError:
+        else:
             print("index error")
             break
 
