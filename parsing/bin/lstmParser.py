@@ -102,6 +102,7 @@ class Parser(chainer.Chain):
         h2 = F.relu(h2)
         h3 = self.G(h2)
         # pred = F.Softmax(h3)
+        y = y.reshape(1,self.action_len)
         return F.softmax_cross_entropy(h3,y)
 
 
@@ -127,7 +128,7 @@ if __name__ == '__main__':
                 his, buf, stk = x[0], x[1], x[2]
                 y = as_variable(
                     [1 if i == y else 0 for i in range(len(labels))])
-                y = y.reshape(1,95)
+
                 loss = model(his,buf,stk,y)
                 accumLoss += loss
             accumLoss.backward()
