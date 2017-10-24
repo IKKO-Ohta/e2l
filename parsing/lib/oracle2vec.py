@@ -84,9 +84,9 @@ class myVectorizer(object):
 
     def buf_embed(self, buffer):
         if not buffer:
-            w = 0
+            w = -1
             wlm = np.asarray([0 for i in range(300)], dtype=np.float32)
-            tag = 0
+            tag = -1
             return [w,wlm,tag]
 
         word = buffer[-1]  # last
@@ -120,10 +120,9 @@ class myVectorizer(object):
 
     def edge_embed(self, arc):
         if not arc:
-            nullvecLen = 300 + 300 + len(self.act_map)
             h = np.asarray([0 for i in range(300)], dtype=np.float32)
             d = np.asarray([0 for i in range(300)], dtype=np.float32)
-            r = 0
+            r = -1
             return [h,d,r]
 
         edge = arc[-1]  # last arc
