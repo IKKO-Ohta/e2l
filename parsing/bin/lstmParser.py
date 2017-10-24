@@ -21,17 +21,20 @@ class Parser(chainer.Chain):
         self.action_len = 95
         self.POS_len, self.POS_ex = 45, 20
         self.midOne, self.midTwo = 100, 50
+        self.bufDim = 420
+        self.stkDim = 700
+        self.hisEmbed = 20
         super(Parser, self).__init__(
             #embedWordOfStack = L.EmbedID(self.raw_input_dim, self.midOne),
             embedWordId = L.EmbedID(self.raw_input_dim, self.midOne),
             embedHistoryId = L.EmbedID(self.action_len, self.midOne),
             embedActionId = L.EmbedID(self.action_len, self.midOne),
             embedPOSId = L.EmbedID(self.POS_len, self.POS_ex),
+            U = L.Linear(self.stkDim, self.midOne),  # stkInput => lstm
+            V = L.Linear(self.bufDim, self.midOne),  # bufInput => lstm
             LS = L.LSTM(self.midOne, self.midTwo),  # for the subtree
             LA = L.LSTM(self.midOne, self.midTwo),  # for the action history
             LB = L.LSTM(self.midOne, self.midTwo),  # for the buffer
-            U = L.Linear(self.midOne, self.midTwo),  # input => lstm
-            V = L.Linear(self.midOne, self.midTwo),  # input => lstm
             W = L.Linear(self.midTwo*3, self.midTwo*2), # [St;At;Bt] => classifier
             G = L.Linear(self.midTwo*2, self.output_dim)  # output
     )
@@ -77,16 +80,22 @@ class Parser(chainer.Chain):
                         Variable(stk[1]).reshape(1,300),
                         self.embedActionId(np.asarray([stk[2]],dtype=np.int32))))
         print("stk:",stk)
-        import pdb; pdb.set_trace()
+
+        # apply U,V
+        buf = self.U(buf)
+        buf = F.relu(buf)
+        stk = self.V(stk)
+        stk = F.relu(stk)
+
+        # apply LSTMs
         at = self.LA(his)
         at = F.relu(at)
-
         st = self.LS(stk)
         st = F.relu(st)
-
         bt = self.LB(buf)
         bt = F.relu(bt)
 
+        # final stage
         h1 = np.concatenate([st, at, bt])
         h2 = self.W(h1)
         h2 = F.relu(h2)
