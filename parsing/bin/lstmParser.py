@@ -82,10 +82,10 @@ class Parser(chainer.Chain):
         print("stk:",stk)
 
         # apply U,V
-        buf = self.U(buf)
-        buf = F.relu(buf)
-        stk = self.V(stk)
+        stk = self.U(stk)
         stk = F.relu(stk)
+        buf = self.V(buf)
+        buf = F.relu(buf)
 
         # apply LSTMs
         at = self.LA(his)
