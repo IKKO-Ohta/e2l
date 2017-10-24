@@ -119,7 +119,7 @@ if __name__ == '__main__':
     """
     optimizer = optimizers.SGD()
     optimizer.setup(model)
-    parser.reset_state()
+    model.reset_state()
     model.cleargrads()
     with open("../model/act_map.pkl","rb") as f:
         labels = pickle.load(f)
