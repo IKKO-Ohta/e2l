@@ -46,7 +46,7 @@ class Parser(chainer.Chain):
         self.LA.reset_state()
         self.LB.reset_state()
 
-    def __call__(self, his,buf,stk):
+    def __call__(self, his,buf,stk,y):
         """
         param: {
                 x: {
