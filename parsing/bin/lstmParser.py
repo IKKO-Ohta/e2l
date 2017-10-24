@@ -95,8 +95,9 @@ class Parser(chainer.Chain):
         bt = self.LB(buf)
         bt = F.relu(bt)
 
+        print("---midPoint---")
         # final stage
-        h1 = np.concatenate([st, at, bt])
+        h1 = F.concat((st, at, bt))
         h2 = self.W(h1)
         h2 = F.relu(h2)
         h3 = self.G(h2)
