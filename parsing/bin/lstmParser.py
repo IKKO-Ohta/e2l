@@ -75,7 +75,7 @@ class Parser(chainer.Chain):
 
         stk = F.concat((Variable(stk[0]).reshape(1,300),
                         Variable(stk[1]).reshape(1,300),
-                        self.embedActionID(np.asarray([stk[2]],dtype=np.int32))))
+                        self.embedActionId(np.asarray([stk[2]],dtype=np.int32))))
         print("stk:",stk)
         import pdb; pdb.set_trace()
         at = self.LA(his)
