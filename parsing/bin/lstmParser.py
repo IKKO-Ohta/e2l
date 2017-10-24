@@ -1,11 +1,12 @@
+# -*- coding: utf-8 -*-
 import pickle
 import re
 import sys
-
 import chainer
 import chainer.functions as F
 import chainer.links as L
 from chainer import serializers
+from chainer import Variable
 import gensim
 import numpy as np
 from chainer import optimizers
@@ -16,28 +17,24 @@ from loader import myLoader
 
 class Parser(chainer.Chain):
     def __init__(self):
-        input_dim = [49454, 3, 49454]
-        output = 96
-        """
-        super(Parser, self).__init__()
-        with self.init_scope():
-            TODO: 具体的な次元数を求める => 素性側が出そろったら
-            self.LS = L.LSTM(self.input_dim[0], self.input_dim[0])  # for the subtree
-            self.LA = L.LSTM(self.input_dim[1], self.input_dim[1])  # for the action history
-            self.LB = L.LSTM(self.input_dim[2], self.input_dim[2])  # for the buffer
-            self.U = L.Linear(self.input_dim[0], self.input_dim[1])  # input => lstm
-            self.V = L.Linear(self.input_dim[0], self.input_dim[1])  # input => lstm
-            self.W = L.Linear(sum(self.input_dim), sum(self.input_dim) // 2)  # [St;At;Bt] => classifier
-            self.G = L.Linear(sullllm(self.input_dim) // 2, self.output)  # output
-            """
+        self.raw_input_dim = 49109
+        self.output_dim = 95
+        self.action_len = 95
+        self.POS_len, self.POS_ex = 45, 20
+        self.midOne, self.midTwo = 100, 50
         super(Parser, self).__init__(
-            LS = L.LSTM(input_dim[0], input_dim[0]),  # for the subtree
-            LA = L.LSTM(input_dim[1], input_dim[1]),  # for the action history
-            LB = L.LSTM(input_dim[2], input_dim[2]),  # for the buffer
-            U = L.Linear(input_dim[0], input_dim[1]),  # input => lstm
-            V = L.Linear(input_dim[0], input_dim[1]),  # input => lstm
-            W = L.Linear(sum(input_dim), sum(input_dim) // 2),  # [St;At;Bt] => classifier
-            G = L.Linear(sum(input_dim) // 2, output)  # output
+            #embedWordOfStack = L.EmbedID(self.raw_input_dim, self.midOne),
+            embedWordId = L.EmbedID(self.raw_input_dim, self.midOne),
+            embedHistoryId = L.EmbedID(self.action_len, self.midOne),
+            embedActionId = L.EmbedID(self.action_len, self.midOne),
+            embedPOSId = L.EmbedID(self.POS_len, self.POS_ex),
+            LS = L.LSTM(self.midOne, self.midTwo),  # for the subtree
+            LA = L.LSTM(self.midOne, self.midTwo),  # for the action history
+            LB = L.LSTM(self.midOne, self.midTwo),  # for the buffer
+            U = L.Linear(self.midOne, self.midTwo),  # input => lstm
+            V = L.Linear(self.midOne, self.midTwo),  # input => lstm
+            W = L.Linear(self.midTwo*3, self.midTwo*2), # [St;At;Bt] => classifier
+            G = L.Linear(self.midTwo*2, self.output_dim)  # output
     )
 
 
@@ -47,14 +44,45 @@ class Parser(chainer.Chain):
         self.LA.reset_state()
         self.LB.reset_state()
 
-    def __call__(self, s,a,t):
-        # Given the current word ID, predict the next word.
+    def __call__(self, his,buf,stk):
+        """
+        param: {
+                x: {
+                    his: historyID INT,
+                    buf: {
+                        w, WordID INT
+                        wlm, pre-trained word2vec np.ndarray(dtype=np.float32)
+                        t, POS tag ID INT
+                        },
+                     stk:{
+                         h: HEAD pre-trained word2vec np.ndarray(dtype=np.float32)
+                         d: DEPENDENT pre-trained word2vec np.ndarray(dtype=np.float32)
+                         r: actionID tag INT
+                        }
+                }
+                y: Labels one-hot-Vector np.ndarray(dtype=np.float32)
+            }
+        return: softmax_cross_entropy(h3,y) Variable
+        """
 
-        st = self.LS(s)
-        st = F.relu(st)
-        at = self.LA(a)
+        
+        his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
+        buf = F.concat((self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
+            buf[1],
+            self.embedPOSId(np.asarray([buf[0]],dtype=np.int32))))
+        stk = F.concat(
+            (stk[0],
+            stk[1],
+            self.embedActionID(np.asarray([stk[2]],dtype=np.int32))
+        ))
+        import pdb; pdb.set_trace()
+        at = self.LA(his)
         at = F.relu(at)
-        bt = self.LB(b)
+
+        st = self.LS(stk)
+        st = F.relu(st)
+
+        bt = self.LB(buf)
         bt = F.relu(bt)
 
         h1 = np.concatenate([st, at, bt])
@@ -79,16 +107,22 @@ if __name__ == '__main__':
 
     while(1):
         try:
-            sentence = loader.gen()
+            sentence = loader.gen()  # 学習データが尽きるとIndexErrorを吐く
+
+            accumLoss = Variable()
             for step in sentence:
                 x, y = step[0], step[1]
-                s, a, b = x[0], x[1], x[2]
-                y = labels[y]
-                loss = model(x,y)
-                loss.backward()
-                optimizer.update()
+                his, buf, stk = x[0], x[1], x[2]
+                y = np.asarray(
+                    [1 if i != y else 0 for i in range(len(labels))],
+                    dtype=np.float32)
+                loss = model(his,buf,stk,y)
+                accumLoss += loss
+            accumLoss.backward()
+            optimizer.update()
             parser.reset_stste()
         except IndexError:
+            print("index error")
             break
 
-    serializers.load_hdf5("../model/mymodel.h5", model)
+    serializers.save_hdf5("../model/mymodel.h5", model)

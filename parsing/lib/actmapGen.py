@@ -19,6 +19,7 @@ for mrg in mrgs:
 
 s_actions = set(actions)
 
-act_map = {v: i for i, v in zip(range(len(s_actions)), s_actions)}
+act_map = {v: i for i, v in zip(range(1,len(s_actions)+1), s_actions)}
+act_map["empty"] = 0
 with open("../model/act_map.pkl", "wb") as f:
     pickle.dump(act_map, f)

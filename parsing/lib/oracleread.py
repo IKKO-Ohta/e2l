@@ -76,6 +76,9 @@ class myVectorizer(object):
 
     @staticmethod
     def dummy(ind, l):
+        """
+        chainerのembeddingへ委譲
+        """
         m = [0 if i != ind else 1 for i in range(l)]
         return np.asarray(m, dtype=np.float32)
 
@@ -109,9 +112,9 @@ class myVectorizer(object):
         else:
             w, wlm, tag = e_find(word)
 
-        w = self.dummy(w, len(self.corpus))
-        tag = self.dummy(self.tag2id[tag], len(self.tag2id))
-        return np.concatenate([w, wlm, tag])
+        #w = self.dummy(w, len(self.corpus))
+        tag = self.tag2id[tag]
+        return [w, wlm, tag]
 
     def edge_embed(self, arc):
         if not arc:
@@ -135,8 +138,8 @@ class myVectorizer(object):
             d = np.asarray([0 for i in range(300)])
 
         r = self.act_map[edge[1]]
-        r = self.dummy(r, len(self.act_map))
-        return np.concatenate([h, d, r])
+        # r = self.dummy(r, len(self.act_map))
+        return [h, d, r]
 
     def cal_history(self, history):
         """
@@ -145,10 +148,9 @@ class myVectorizer(object):
         :return: ダミー化されたヒストリ
         """
         if history:
-            last = history[-1]
-            return self.dummy(self.act_map[last], len(self.act_map))
+            return self.act_map[history[-1]]
         else:
-            return np.asarray([0 for i in range(len(self.act_map))])
+            return 0
 
 
 def oracle_load(oracle_path):
@@ -210,7 +212,7 @@ if __name__ == '__main__':
                 his = vectorizer.cal_history(conf.history)
                 buf = vectorizer.buf_embed(conf.buffer)
                 stk = vectorizer.edge_embed(conf.arcs)
-                # print("his:", his,"buf:", buf, "stk", stk)
+                #print("his:", his,"buf:", buf, "stk", stk)
                 # print("label:", action)
 
                 if action == "SHIFT":
