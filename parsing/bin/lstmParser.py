@@ -40,16 +40,11 @@ class Parser(chainer.Chain):
     )
 
 
-
-    def reset_state(self):
-        self.LS.reset_state()
-        self.LA.reset_state()
-        self.LB.reset_state()
-
-    def __call__(self, train, label,pred=False):
+    def minibatchTrains(self,trains):
         """
-        param: {
-                x: {
+        param:
+        trains:{
+                x_i: {
                     his: historyID INT,
                     buf: {
                         w, WordID INT
@@ -62,39 +57,70 @@ class Parser(chainer.Chain):
                          r: actionID tag INT
                         }
                 }
-                y: Labels one-hot-Vector np.ndarray(dtype=np.float32)
+                x_i+1:{
+                    his: ...,
+                    ...,
+                }
             }
-        return: softmax_cross_entropy(h3,y) Variable
+        return: minibatch his,buf,stk
         """
-        his, buf, stk = train[0], train[1], train[2]
-        label = Variable(np.asarray([label],dtype=np.int32))
+        hiss,bufs,stks = 0,0,0
+        for train in trains:
+            his, buf, stk = train[0], train[1], train[2]
 
-        his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
-        print("his:",his)
+            # type assert
+            try:
+                assert(buf[1].dtype == np.float32)
+            except:
+                buf[1] = np.asarray(buf[1],dtype=np.float32)
+            try:
+                assert(stk[0].dtype == stk[1].dtype)
+            except:
+                stk[0] = np.asarray(stk[0],dtype=np.float32)
+                stk[1] = np.asarray(stk[1],dtype=np.float32)
 
-        try:
-            assert(buf[1].dtype == np.float32)
-        except:
-            buf[1] = np.asarray(buf[1],dtype=np.float32)
+            # his
+            if not hiss:
+                hiss = self.embedHistoryId(np.asarray([his],dtype=np.int32))
+            else:
+                his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
+                hiss = F.vstack(hiss,his)
 
+            # buf
+            buf = F.concat(
+                (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
+                Variable(buf[1]).reshape(1,300),
+                self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
+            if not bufs:
+                bufs = buf
+            else:
+                bufs = F.vstack(bufs,buf)
 
-        buf = F.concat(
-            (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
-            Variable(buf[1]).reshape(1,300),
-            self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
-        print("buf:",buf)
+            # stk
+            stk = F.concat((Variable(stk[0]).reshape(1,300),
+                            Variable(stk[1]).reshape(1,300),
+                            self.embedActionId(np.asarray([stk[2]],dtype=np.int32))))
+            if not stks:
+                stks = stk
+            else:
+                stks = F.vstack(stks, stk)
 
-        try:
-            assert(stk[0].dtype == stk[1].dtype)
-        except:
-            stk[0] = np.asarray(stk[0],dtype=np.float32)
-            stk[1] = np.asarray(stk[1],dtype=np.float32)
+        return his,buf,stk
 
-        stk = F.concat((Variable(stk[0]).reshape(1,300),
-                        Variable(stk[1]).reshape(1,300),
-                        self.embedActionId(np.asarray([stk[2]],dtype=np.int32))))
-        print("stk:",stk)
+    def reset_state(self):
+        self.LS.reset_state()
+        self.LA.reset_state()
+        self.LB.reset_state()
 
+    def __call__(self, his, buf, stk, label,pred=False):
+        """
+        params:
+            his: {his}, {his}, {...}
+            buf: {w,wlm,t}, {...}, {...}
+            stk: {h,d,r}, {...}, {...}
+            label: y0,y1,y2 ...
+        """
+        print("---Forward---")
         # apply U,V
         stk = self.U(stk)
         stk = F.relu(stk)
@@ -109,7 +135,6 @@ class Parser(chainer.Chain):
         bt = self.LB(buf)
         bt = F.relu(bt)
 
-        print("---midPoint---")
         # final stage
         h1 = F.concat((st, at, bt))
         h2 = self.W(h1)
@@ -136,15 +161,17 @@ if __name__ == '__main__':
     with open("../model/act_map.pkl","rb") as f:
         labels = pickle.load(f)
 
-    for epoch in range(20):
+    for epoch in range(10):
         while(1):
             sentence = loader.gen()
             try:
-                for step in sentence:
-                    train, label = step[0], step[1]
-                    loss = model(train,label)
-                    loss.backward()
-                    optimizer.update()
+                trains = [sentence[i][0] for i in range(len(setence))]
+                tests = [sentence[i][1] for i in range(len(setence))]
+                his, buf, stk = model.minibatch(trains)
+                test = Variable(np.asarray(test,dtype=np.int32))
+                loss = model(his, buf, stk, tests)
+                loss.backward()
+                optimizer.update()
                 model.reset_state()
             except IndexError:
                 print("index error")
