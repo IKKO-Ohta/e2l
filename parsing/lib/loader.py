@@ -109,7 +109,7 @@ class myLoader:
 
     def genTestSentence(self):
         self.dir_cnt = self.test
-        self.file_cnt = self.test * 100
+        self.file_cnt = max(self.file_cnt, 2400)
         self.step = 0
         result = []
         while(1):
@@ -125,9 +125,12 @@ class myLoader:
             self.step += 1
         if self.findNextSentence():
             # print("Next:", self.myNameFormat())
+            pass
         else:
             if self.findNextFile():
-                # print("Next:", self.myNameFormat())
+                #import pdb; pdb.set_trace()
+                print("Next:", self.myNameFormat()) 
+                pass
             else:
                 raise IndexError
 
