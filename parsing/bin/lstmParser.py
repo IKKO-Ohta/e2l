@@ -133,17 +133,22 @@ if __name__ == '__main__':
     with open("../model/act_map.pkl","rb") as f:
         labels = pickle.load(f)
 
-    while(1):
-        sentence = loader.gen()
-        if sentence:
-            for step in sentence:
-                train, label = step[0], step[1]
-                loss = model(train,label)
-                loss.backward()
-                optimizer.update()
-            model.reset_stste()
-        else:
-            print("index error")
-            break
+    for epoch in range(20):
+        while(1):
+            sentence = loader.gen()
+            if sentence:
+                for step in sentence:
+                    train, label = step[0], step[1]
+                    loss = model(train,label)
+                    loss.backward()
+                    optimizer.update()
+                model.reset_state()
+            else:
+                print("index error")
+                break
+        print("epoch:", epoch, "DONE")
+        print("loader re-initialize"); loader = myLoader()
+        print("Next epoch..")
+
 
     serializers.save_hdf5("../model/mymodel.h5", model)
