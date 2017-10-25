@@ -107,11 +107,45 @@ class myLoader:
         assert(os.path.exists(self.myNameFormat()))
         return result
 
+    def genTestSentence(self):
+        self.dir_cnt = self.test
+        self.file_cnt = self.test * 100
+        self.step = 0
+        result = []
+        while(1):
+            target_path = self.myNameFormat()
+            if not os.path.exists(target_path):
+                break
+
+            with open(target_path,"rb") as f:
+                pkl = pickle.load(f)
+                print("Load:", target_path)
+                result.append(pkl)
+
+            self.step += 1
+        if self.findNextSentence():
+            # print("Next:", self.myNameFormat())
+        else:
+            if self.findNextFile():
+                # print("Next:", self.myNameFormat())
+            else:
+                raise IndexError
+
+        assert(os.path.exists(self.myNameFormat()))
+        return result
+
 if __name__ == '__main__':
     loader = myLoader()
     loader.set()
+    """
     while(1):
         try:
             loader.gen()
         except:
-            sys.exit(0)
+            break
+    """
+    while(1):
+        try:
+            loader.genTestSentence()
+        except:
+            break

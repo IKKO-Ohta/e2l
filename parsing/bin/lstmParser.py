@@ -46,7 +46,7 @@ class Parser(chainer.Chain):
         self.LA.reset_state()
         self.LB.reset_state()
 
-    def __call__(self, train, label):
+    def __call__(self, train, label,pred=False):
         """
         param: {
                 x: {
@@ -116,8 +116,11 @@ class Parser(chainer.Chain):
         h2 = F.relu(h2)
         h3 = self.G(h2)
         # pred = F.Softmax(h3)
-        return F.softmax_cross_entropy(h3,label)
-
+        if not pred:
+            return F.softmax_cross_entropy(h3,label)
+        elif pred == True:
+            h4 = F.softmax(h3)
+            return F.argmax(h4)
 
 if __name__ == '__main__':
     loader = myLoader()
@@ -136,17 +139,37 @@ if __name__ == '__main__':
     for epoch in range(20):
         while(1):
             sentence = loader.gen()
-            if sentence:
+            try:
                 for step in sentence:
                     train, label = step[0], step[1]
                     loss = model(train,label)
                     loss.backward()
                     optimizer.update()
                 model.reset_state()
-            else:
+            except IndexError:
                 print("index error")
                 break
         print("epoch:", epoch, "DONE")
+        print("acc..")
+        cnt, correct = 0,0
+        while(1):
+            sentence = loader.gen()
+            gold,pred = [],[]
+            try:
+                for step in sentence:
+                    train,label = step[0],step[1]
+                    predCls = model(train,label,pred=True)
+                    pred.append(predCls)
+                    gold.append(label)
+                    if predCls == step[1]:
+                        correct += 1
+                     cnt += 1
+            except:
+                print("index Error","Maybe finish")
+                break
+            print("acc:", correct/cnt)
+            print("correct/cnt",correct,"/",cnt)
+
         print("loader re-initialize"); loader = myLoader()
         print("Next epoch..")
 
