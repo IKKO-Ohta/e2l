@@ -169,6 +169,7 @@ if __name__ == '__main__':
                 tests = [sentence[i][1] for i in range(len(setence))]
                 his, buf, stk = model.minibatch(trains)
                 test = Variable(np.asarray(test,dtype=np.int32))
+
                 loss = model(his, buf, stk, tests)
                 loss.backward()
                 optimizer.update()
