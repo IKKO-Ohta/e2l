@@ -85,7 +85,7 @@ class Parser(chainer.Chain):
             else:
                 his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
                 hiss = F.vstack([hiss,his])
-                
+
             # buf
             buf = F.concat(
                 (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
@@ -104,7 +104,7 @@ class Parser(chainer.Chain):
                 stks = stk
             else:
                 stks = F.vstack([stks, stk])
-            
+
             firstIndex = False
         return hiss,bufs,stks
 
@@ -147,7 +147,47 @@ class Parser(chainer.Chain):
             h4 = F.softmax(h3)
             return F.argmax(h4)
 
+def composeTensor(loader,model):
+    firstIndex = True
+    loader = myLoader()
+    loader.set()
+
+    print("Tensor build..")
+    while(1):
+        sentence = loader.gen()
+
+        try:
+            trains = [sentence[i][0] for i in range(len(sentence))]
+            tests = [sentence[i][1] for i in range(len(sentence))]
+            hisMat, bufMat, stkMat = model.minibatchTrains(trains)
+            testVec = Variable(np.asarray(tests,dtype=np.int32))
+
+            if firstIndex == True:
+                hisTensor,bufTensor,stkTensor = hisMat,bufMat,stkMat
+                testMat = testVec
+            else:
+                hisTensor = F.vstack([hisTensor,hisMat])
+                bufTensor = F.vstack([bufTensor,bufMat])
+                stkTensor = F.vstack([sktTensor,stkMat])
+                testMat = F.vstack([testMat,testVec])
+        except IndexError:
+            print("index error")
+            break
+    print("Loaded ..")
+    return hisTensor, bufTensor, stkTensor, testMat
+
+def backupModel(model,epoch,dirpath="../model/"):
+    import datetime
+    modelName = "parserModel_epoch"+ str(epoch)
+                + str(datetime.datetime.now())
+    with open(dirpath + modelName,"wb") as f;
+        pickle.dump(model,f)
+    return
+
 if __name__ == '__main__':
+    """
+    init
+    """
     loader = myLoader()
     loader.set()
     model = Parser()
@@ -155,8 +195,18 @@ if __name__ == '__main__':
     optimizer.setup(model)
     model.reset_state()
     model.cleargrads()
-    with open("../model/act_map.pkl","rb") as f:
-        labels = pickle.load(f)
+
+    hisTensor, bufTensor, stkTensor, testMat = composeTensor(loader,model)
+
+    """
+    Main LOGIC
+    """
+    for epoch in range(10):
+        loss = model(hisTensor, bufTensor, stkTensor, testMat)
+        loss.backward()
+        optimizer.update()
+        model.reset_state()
+
 
     for epoch in range(10):
         while(1):
