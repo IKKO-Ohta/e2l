@@ -206,28 +206,11 @@ if __name__ == '__main__':
         loss.backward()
         optimizer.update()
         model.reset_state()
+        backupModel(model,epoch)
 
-
-    for epoch in range(10):
-        while(1):
-            sentence = loader.gen()
-            try:
-                trains = [sentence[i][0] for i in range(len(sentence))]
-                tests = [sentence[i][1] for i in range(len(sentence))]
-                his, buf, stk = model.minibatchTrains(trains)
-                tests = Variable(np.asarray(tests,dtype=np.int32))
-                print("--forward--")
-                loss = model(his, buf, stk, tests)
-                print("--backward--")
-                loss.backward()
-                optimizer.update()
-                model.reset_state()
-            except IndexError:
-                print("index error")
-                break
-        print("epoch:", epoch, "DONE")
-        print("acc..")
-        cnt, correct = 0,0
+    """
+    evaluate
+    """
         while(1):
             sentence = loader.genTestSentence()
             gold,pred = [],[]
