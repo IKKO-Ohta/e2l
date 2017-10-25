@@ -83,9 +83,11 @@ class myVectorizer(object):
         return np.asarray(m, dtype=np.float32)
 
     def buf_embed(self, buffer):
-        if len(buffer) == 0:
-            nullvecLen = len(self.corpus) + 300 + len(self.act_map)
-            return np.asarray([0 for i in range(nullvecLen)], dtype=np.float32)
+        if not buffer:
+            w = 0
+            wlm = np.asarray([0 for i in range(300)], dtype=np.float32)
+            tag = 0
+            return [w,wlm,tag]
 
         word = buffer[-1]  # last
 
