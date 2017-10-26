@@ -55,7 +55,9 @@ class myLoader:
     def findNextDir(self):
         self.step = 0
         self.dir_cnt += 1
-        self.sentence_cnt = self.dir_cnt * 100
+        self.file_cnt = self.dir_cnt * 100
+        self.sentence_cnt = 0
+
         if self.dir_cnt == self.test:
             print("Note:",self.dir_cnt, "is reserved for test Directory")
             print("Next dir..")
