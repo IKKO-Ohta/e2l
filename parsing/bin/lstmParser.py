@@ -151,7 +151,7 @@ def composeTensor(loader,model,test=False):
     firstIndex = True
     loader = myLoader()
     loader.set()
-
+    hisTensor,bufTensor,stkTensor,testMat = [],[],[],[]
     print("Tensor build..")
     while(1):
         try:
@@ -165,14 +165,10 @@ def composeTensor(loader,model,test=False):
             hisMat, bufMat, stkMat = model.minibatchTrains(trains)
             testVec = Variable(np.asarray(tests,dtype=np.int32))
 
-            if firstIndex == True:
-                hisTensor,bufTensor,stkTensor = hisMat,bufMat,stkMat
-                testMat = testVec
-            else:
-                hisTensor.append(hisMat)
-                bufTensor.append(bufMat)
-                stkTensor.append(stkMat)
-                testMat.append(testVec)
+            hisTensor.append(hisMat)
+            bufTensor.append(bufMat)
+            stkTensor.append(stkMat)
+            testMat.append(testVec)
         except IndexError:
             print("index error")
             break
@@ -181,9 +177,8 @@ def composeTensor(loader,model,test=False):
 
 def backupModel(model,epoch,dirpath="../model/"):
     import datetime
-    modelName = "parserModel_epoch"+ str(epoch)
-                + str(datetime.datetime.now())
-    with open(dirpath + modelName,"wb") as f;
+    modelName = "parserModel_epoch"+ str(epoch) + str(datetime.datetime.now())
+    with open(dirpath + modelName,"wb") as f:
         pickle.dump(model,f)
     return
 

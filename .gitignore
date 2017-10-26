@@ -8,5 +8,6 @@ model/
 # 無視するファイル
 parsing/corpus/
 parsing/lib/ParserOracleArcStdWithSwap.jar
+parsing/lib/__pycache__/
 parsing/auto/
 parsing/model/GoogleNews-vectors-negative300.bin
