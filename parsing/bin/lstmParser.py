@@ -64,7 +64,7 @@ class Parser(chainer.Chain):
             }
         return: minibatch his,buf,stk
         """
-        hiss,bufs,stks = 0,0,0
+        firstIndex = True
         for train in trains:
             his, buf, stk = train[0], train[1], train[2]
 
@@ -80,31 +80,32 @@ class Parser(chainer.Chain):
                 stk[1] = np.asarray(stk[1],dtype=np.float32)
 
             # his
-            if not hiss:
+            if firstIndex:
                 hiss = self.embedHistoryId(np.asarray([his],dtype=np.int32))
             else:
                 his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
-                hiss = F.vstack(hiss,his)
+                hiss = F.vstack([hiss,his])
 
             # buf
             buf = F.concat(
                 (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
                 Variable(buf[1]).reshape(1,300),
                 self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
-            if not bufs:
+            if firstIndex:
                 bufs = buf
             else:
-                bufs = F.vstack(bufs,buf)
+                bufs = F.vstack([bufs,buf])
 
             # stk
             stk = F.concat((Variable(stk[0]).reshape(1,300),
                             Variable(stk[1]).reshape(1,300),
                             self.embedActionId(np.asarray([stk[2]],dtype=np.int32))))
-            if not stks:
+            if firstIndex:
                 stks = stk
             else:
-                stks = F.vstack(stks, stk)
-
+                stks = F.vstack([stks, stk])
+            
+            firstIndex = False
         return his,buf,stk
 
     def reset_state(self):
@@ -165,11 +166,11 @@ if __name__ == '__main__':
         while(1):
             sentence = loader.gen()
             try:
-                trains = [sentence[i][0] for i in range(len(setence))]
-                tests = [sentence[i][1] for i in range(len(setence))]
-                his, buf, stk = model.minibatch(trains)
-                test = Variable(np.asarray(test,dtype=np.int32))
-
+                trains = [sentence[i][0] for i in range(len(sentence))]
+                tests = [sentence[i][1] for i in range(len(sentence))]
+                his, buf, stk = model.minibatchTrains(trains)
+                tests = Variable(np.asarray(tests,dtype=np.int32))
+                import pdb; pdb.set_trace()
                 loss = model(his, buf, stk, tests)
                 loss.backward()
                 optimizer.update()
@@ -181,7 +182,7 @@ if __name__ == '__main__':
         print("acc..")
         cnt, correct = 0,0
         while(1):
-            sentence = loader.gen()
+            sentence = loader.genTestSentence()
             gold,pred = [],[]
             try:
                 for step in sentence:
@@ -191,7 +192,7 @@ if __name__ == '__main__':
                     gold.append(label)
                     if predCls == step[1]:
                         correct += 1
-                     cnt += 1
+                    cnt += 1
             except:
                 print("index Error","Maybe finish")
                 break
