@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8-*-
 import pickle
 import re
 import sys
@@ -85,7 +85,7 @@ class Parser(chainer.Chain):
             else:
                 his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
                 hiss = F.vstack([hiss,his])
-
+                
             # buf
             buf = F.concat(
                 (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
@@ -106,7 +106,7 @@ class Parser(chainer.Chain):
                 stks = F.vstack([stks, stk])
             
             firstIndex = False
-        return his,buf,stk
+        return hiss,bufs,stks
 
     def reset_state(self):
         self.LS.reset_state()
@@ -121,7 +121,6 @@ class Parser(chainer.Chain):
             stk: {h,d,r}, {...}, {...}
             label: y0,y1,y2 ...
         """
-        print("---Forward---")
         # apply U,V
         stk = self.U(stk)
         stk = F.relu(stk)
@@ -152,9 +151,6 @@ if __name__ == '__main__':
     loader = myLoader()
     loader.set()
     model = Parser()
-    """
-    ひとまずonlineで行く
-    """
     optimizer = optimizers.SGD()
     optimizer.setup(model)
     model.reset_state()
@@ -170,8 +166,9 @@ if __name__ == '__main__':
                 tests = [sentence[i][1] for i in range(len(sentence))]
                 his, buf, stk = model.minibatchTrains(trains)
                 tests = Variable(np.asarray(tests,dtype=np.int32))
-                import pdb; pdb.set_trace()
+                print("--forward--")
                 loss = model(his, buf, stk, tests)
+                print("--backward--")
                 loss.backward()
                 optimizer.update()
                 model.reset_state()
