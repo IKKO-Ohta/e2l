@@ -54,7 +54,6 @@ class myLoader:
 
     def findNextDir(self):
         self.step = 0
-        self.sentence_cnt = 0
         self.dir_cnt += 1
         self.sentence_cnt = self.dir_cnt * 100
         if self.dir_cnt == self.test:
