@@ -18,7 +18,7 @@ class myLoader:
         self.train = train
         self.test = test
 
-    def loderState(self):
+    def loaderState(self):
         print("self.dir_cnt", self.step)
         print("self.file_cnt", self.step)
         print("self.sentence_cnt", self.sentence_cnt)
@@ -56,6 +56,7 @@ class myLoader:
         self.step = 0
         self.sentence_cnt = 0
         self.dir_cnt += 1
+        self.sentence_cnt = self.dir_cnt * 100
         if self.dir_cnt == self.test:
             print("Note:",self.dir_cnt, "is reserved for test Directory")
             print("Next dir..")
@@ -129,7 +130,7 @@ class myLoader:
         else:
             if self.findNextFile():
                 #import pdb; pdb.set_trace()
-                print("Next:", self.myNameFormat()) 
+                print("Next:", self.myNameFormat())
                 pass
             else:
                 raise IndexError
