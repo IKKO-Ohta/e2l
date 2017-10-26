@@ -165,7 +165,7 @@ def composeTensor(loader,model,test=False):
             bufTensor.append(bufMat)
             stkTensor.append(stkMat)
             testMat.append(testVec)
-            
+
         except IndexError:
             print("index error")
             break
@@ -175,7 +175,7 @@ def composeTensor(loader,model,test=False):
 def backupModel(model,epoch,dirpath="../model/"):
     import datetime
     modelName = "parserModel_epoch"+ str(epoch) + str(datetime.datetime.now())
-    with open(dirpath + modelName,"wb") as f;
+    with open(dirpath + modelName,"wb") as f:
         pickle.dump(model,f)
     return
 
