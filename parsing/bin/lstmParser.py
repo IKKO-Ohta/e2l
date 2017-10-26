@@ -217,14 +217,20 @@ if __name__ == '__main__':
     """
     Main LOGIC
     """
+    timecnt = 0
     for epoch in range(10):
         for hisMat, bufMat, stkMat, testVec in zip(hisTensor, bufTensor, stkTensor,testMat):
             loss = model(hisTensor, bufTensor, stkTensor, testMat)
             loss.backward()
             optimizer.update()
             model.reset_state()
-        backupModel(model,epoch)
 
+            timecnt += 1
+            if timecnt % 1000 == 0:
+                print(".", end="")
+
+        backupModel(model, epoch)
+        evaluate(loader, model)
         print("loader re-initialize"); loader = myLoader()
         print("Next epoch..")
 
