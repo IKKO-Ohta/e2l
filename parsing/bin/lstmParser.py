@@ -154,12 +154,12 @@ def composeTensor(loader,model,test=False):
 
     print("Tensor build..")
     while(1):
-        if test == False:
-            sentence = loader.gen()
-        else:
-            sentence = loader.genTestSentence()
-
         try:
+            if test == False:
+                sentence = loader.gen()
+            else:
+                sentence = loader.genTestSentence()
+
             trains = [sentence[i][0] for i in range(len(sentence))]
             tests = [sentence[i][1] for i in range(len(sentence))]
             hisMat, bufMat, stkMat = model.minibatchTrains(trains)
