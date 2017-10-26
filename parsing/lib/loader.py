@@ -101,6 +101,7 @@ class myLoader:
                     print("Next:", self.myNameFormat())
                 else:
                     # 全てのファイルを読み終わる
+                    import pdb; pdb.set_trace()
                     raise IndexError
 
         # 次があることを保証してからreturn
