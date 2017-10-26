@@ -147,14 +147,17 @@ class Parser(chainer.Chain):
             h4 = F.softmax(h3)
             return F.argmax(h4)
 
-def composeTensor(loader,model):
+def composeTensor(loader,model,test=False):
     firstIndex = True
     loader = myLoader()
     loader.set()
 
     print("Tensor build..")
     while(1):
-        sentence = loader.gen()
+        if test == False:
+            sentence = loader.gen()
+        else:
+            sentence = loader.genTestSentence()
 
         try:
             trains = [sentence[i][0] for i in range(len(sentence))]
@@ -166,10 +169,10 @@ def composeTensor(loader,model):
                 hisTensor,bufTensor,stkTensor = hisMat,bufMat,stkMat
                 testMat = testVec
             else:
-                hisTensor = F.vstack([hisTensor,hisMat])
-                bufTensor = F.vstack([bufTensor,bufMat])
-                stkTensor = F.vstack([sktTensor,stkMat])
-                testMat = F.vstack([testMat,testVec])
+                hisTensor.append(hisMat)
+                bufTensor.append(bufMat)
+                stkTensor.append(stkMat)
+                testMat.append(testVec)
         except IndexError:
             print("index error")
             break
@@ -184,6 +187,18 @@ def backupModel(model,epoch,dirpath="../model/"):
         pickle.dump(model,f)
     return
 
+def evaluate(loader, model):
+    hisTensor, bufTensor, stkTensor, testMat = composeTensor(loader,model,test=True)
+    result = []
+    for hisMat, bufMat, stkMat, testVec in zip(hisTensor, bufTensor, stkTensor,testMat):
+        predcls = model(hisMat,bufMat,stkMat,testMat,pred=True)
+        result.append(predcls)
+    import datetime
+    now = datetime.datetime.now()
+    with open("../result/eval" + now.strftime('%s') + ".pkl") as f:
+        pickle.dump(result,f)
+    return
+
 if __name__ == '__main__':
     """
     init
@@ -195,42 +210,22 @@ if __name__ == '__main__':
     optimizer.setup(model)
     model.reset_state()
     model.cleargrads()
-
+    print("loading..")
     hisTensor, bufTensor, stkTensor, testMat = composeTensor(loader,model)
+    print("loaded!")
 
     """
     Main LOGIC
     """
     for epoch in range(10):
-        loss = model(hisTensor, bufTensor, stkTensor, testMat)
-        loss.backward()
-        optimizer.update()
-        model.reset_state()
+        for hisMat, bufMat, stkMat, testVec in zip(hisTensor, bufTensor, stkTensor,testMat):
+            loss = model(hisTensor, bufTensor, stkTensor, testMat)
+            loss.backward()
+            optimizer.update()
+            model.reset_state()
         backupModel(model,epoch)
-
-    """
-    evaluate
-    """
-        while(1):
-            sentence = loader.genTestSentence()
-            gold,pred = [],[]
-            try:
-                for step in sentence:
-                    train,label = step[0],step[1]
-                    predCls = model(train,label,pred=True)
-                    pred.append(predCls)
-                    gold.append(label)
-                    if predCls == step[1]:
-                        correct += 1
-                    cnt += 1
-            except:
-                print("index Error","Maybe finish")
-                break
-            print("acc:", correct/cnt)
-            print("correct/cnt",correct,"/",cnt)
 
         print("loader re-initialize"); loader = myLoader()
         print("Next epoch..")
-
 
     serializers.save_hdf5("../model/mymodel.h5", model)
