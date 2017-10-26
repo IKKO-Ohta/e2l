@@ -155,21 +155,20 @@ def composeTensor(loader,model,test=False):
                 sentence = loader.gen()
             else:
                 sentence = loader.genTestSentence()
-
-            trains = [sentence[i][0] for i in range(len(sentence))]
-            tests = [sentence[i][1] for i in range(len(sentence))]
-            hisMat, bufMat, stkMat = model.minibatchTrains(trains)
-            testVec = Variable(np.asarray(tests,dtype=np.int32))
-
-            hisTensor.append(hisMat)
-            bufTensor.append(bufMat)
-            stkTensor.append(stkMat)
-            testMat.append(testVec)
-
         except IndexError:
             print("index error")
             break
-    print("Loaded ..")
+
+        trains = [sentence[i][0] for i in range(len(sentence))]
+        tests = [sentence[i][1] for i in range(len(sentence))]
+        hisMat, bufMat, stkMat = model.minibatchTrains(trains)
+        testVec = Variable(np.asarray(tests,dtype=np.int32))
+
+        hisTensor.append(hisMat)
+        bufTensor.append(bufMat)
+        stkTensor.append(stkMat)
+        testMat.append(testVec)
+
     return hisTensor, bufTensor, stkTensor, testMat
 
 def backupModel(model,epoch,dirpath="../model/"):
@@ -212,7 +211,7 @@ if __name__ == '__main__':
     timecnt = 0
     for epoch in range(10):
         for hisMat, bufMat, stkMat, testVec in zip(hisTensor, bufTensor, stkTensor,testMat):
-            loss = model(hisTensor, bufTensor, stkTensor, testMat)
+            loss = model(hisMat, bufMat, stkMat, testVec)
             loss.backward()
             optimizer.update()
             model.reset_state()
