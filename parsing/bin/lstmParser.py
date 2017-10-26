@@ -148,7 +148,7 @@ class Parser(chainer.Chain):
             return F.argmax(h4)
 
 def composeTensor(loader,model,test=False):
-
+    hisTensor,bufTensor,stkTensor,testMat = [],[],[],[]
     while(1):
         try:
             if test == False:
@@ -161,14 +161,11 @@ def composeTensor(loader,model,test=False):
             hisMat, bufMat, stkMat = model.minibatchTrains(trains)
             testVec = Variable(np.asarray(tests,dtype=np.int32))
 
-            if firstIndex == True:
-                hisTensor,bufTensor,stkTensor = hisMat,bufMat,stkMat
-                testMat = testVec
-            else:
-                hisTensor.append(hisMat)
-                bufTensor.append(bufMat)
-                stkTensor.append(stkMat)
-                testMat.append(testVec)
+            hisTensor.append(hisMat)
+            bufTensor.append(bufMat)
+            stkTensor.append(stkMat)
+            testMat.append(testVec)
+            
         except IndexError:
             print("index error")
             break
