@@ -140,7 +140,7 @@ class myLoader:
 if __name__ == '__main__':
     loader = myLoader()
     loader.set()
-    """
+
     while(1):
         try:
             loader.gen()
@@ -152,3 +152,4 @@ if __name__ == '__main__':
             loader.genTestSentence()
         except:
             break
+    """
