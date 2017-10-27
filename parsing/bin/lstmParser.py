@@ -2,6 +2,8 @@
 import pickle
 import re
 import sys
+import time
+import datetime
 import chainer
 import chainer.functions as F
 import chainer.links as L
@@ -113,7 +115,7 @@ class Parser(chainer.Chain):
         self.LA.reset_state()
         self.LB.reset_state()
 
-    def __call__(self, his, buf, stk, label,pred=False):
+    def __call__(self, his, buf, stk, label):
         """
         params:
             his: {his}, {his}, {...}
@@ -140,12 +142,26 @@ class Parser(chainer.Chain):
         h2 = self.W(h1)
         h2 = F.relu(h2)
         h3 = self.G(h2)
-        # pred = F.Softmax(h3)
-        if not pred:
-            return F.softmax_cross_entropy(h3,label)
-        elif pred == True:
-            h4 = F.softmax(h3)
-            return F.argmax(h4)
+
+        return F.softmax_cross_entropy(h3,label)
+
+
+    def pred(self, his, buf, stk):
+        stk = self.U(stk)
+        stk = F.relu(stk)
+        buf = self.V(buf)
+        buf = F.relu(buf)
+        at = self.LA(his)
+        at = F.relu(at)
+        st = self.LS(stk)
+        st = F.relu(st)
+        bt = self.LB(buf)
+        bt = F.relu(bt)
+        h1 = F.concat((st, at, bt))
+        h2 = self.W(h1)
+        h2 = F.relu(h2)
+        h3 = self.G(h2)
+        return F.argmax(h3, axis=1)
 
 def composeTensor(loader,model,test=False):
     hisTensor,bufTensor,stkTensor,testMat = [],[],[],[]
@@ -156,7 +172,7 @@ def composeTensor(loader,model,test=False):
             else:
                 sentence = loader.genTestSentence()
         except IndexError:
-            print("index error")
+            print("---loader finished---")
             break
 
         trains = [sentence[i][0] for i in range(len(sentence))]
@@ -172,22 +188,21 @@ def composeTensor(loader,model,test=False):
     return hisTensor, bufTensor, stkTensor, testMat
 
 def backupModel(model,epoch,dirpath="../model/"):
-    import datetime
     modelName = "parserModel_epoch"+ str(epoch) + str(datetime.datetime.now())
-    with open(dirpath + modelName,"wb") as f:
-        pickle.dump(model,f)
+    serializers.save_hdf5("../model/"+modelName, model)
     return
 
-def evaluate(loader, model):
+def evaluate(model, loader):
+    loader.testMode()
     hisTensor, bufTensor, stkTensor, testMat = composeTensor(loader,model,test=True)
-    result = []
+    correct, cnt = 0, 0
     for hisMat, bufMat, stkMat, testVec in zip(hisTensor, bufTensor, stkTensor,testMat):
-        predcls = model(hisMat,bufMat,stkMat,testMat,pred=True)
-        result.append(predcls)
-    import datetime
-    now = datetime.datetime.now()
-    with open("../result/eval" + now.strftime('%s') + ".pkl") as f:
-        pickle.dump(result,f)
+        predcls = model.pred(hisMat,bufMat,stkMat)
+        for pred, test in predcls, testVec:
+            if pred.data == test.data:
+                 correct += 1
+            cnt += 1
+    print("correct / cnt:", correct, "/", cnt)
     return
 
 if __name__ == '__main__':
@@ -210,6 +225,7 @@ if __name__ == '__main__':
     """
     timecnt = 0
     for epoch in range(10):
+        epochTimeStart = time.time()
         for hisMat, bufMat, stkMat, testVec in zip(hisTensor, bufTensor, stkTensor,testMat):
             loss = model(hisMat, bufMat, stkMat, testVec)
             loss.backward()
@@ -217,12 +233,17 @@ if __name__ == '__main__':
             model.reset_state()
 
             timecnt += 1
-            if timecnt % 1000 == 0:
-                print(".", end="")
+            if timecnt % 100 == 0:
+                print("■", end="")
 
+        print("epoch",epoch,"finished..")
+        print("epoch time:{0}".format(time.time()-epochTimeStart))
+        print("backup ..")
         backupModel(model, epoch)
-        evaluate(loader, model)
-        print("loader re-initialize"); loader = myLoader()
+        print("evaluate ..")
+        evaluate(model,loader)
         print("Next epoch..")
 
-    serializers.save_hdf5("../model/mymodel.h5", model)
+    print("finish!")
+    modelName = "parserModel" + str(datetime.datetime.now())
+    serializers.save_hdf5("../model/"+"complete_"+modelName, model)
