@@ -9,7 +9,7 @@ class myLoader:
         self.dir_cnt = 0
         self.file_cnt = 1
         self.sentence_cnt = 0
-        self.step = 0
+
         self.train = 0
         self.test = 0
 
@@ -18,9 +18,21 @@ class myLoader:
         self.train = train
         self.test = test
 
+        self.dir_cnt = 0
+        self.file_cnt = 1
+        self.sentence_cnt = 0
+        self.step = 0
+
+    def testMode(self):
+        self.dir_cnt = self.test
+        self.file_cnt = self.dir_cnt * 100
+        self.sentence_cnt = 0
+        self.step = 0
+        return
+
     def loaderState(self):
-        print("self.dir_cnt", self.step)
-        print("self.file_cnt", self.step)
+        print("self.dir_cnt", self.dir_cnt)
+        print("self.file_cnt", self.file_cnt)
         print("self.sentence_cnt", self.sentence_cnt)
         print("self.step",self.step)
 
@@ -125,6 +137,7 @@ class myLoader:
                 result.append(pkl)
 
             self.step += 1
+
         if self.findNextSentence():
             # print("Next:", self.myNameFormat())
             pass
