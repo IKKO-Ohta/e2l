@@ -224,7 +224,7 @@ if __name__ == '__main__':
     Main LOGIC
     """
     timecnt = 0
-    for epoch in range(10):
+    for epoch in range(2):
         epochTimeStart = time.time()
         for hisMat, bufMat, stkMat, testVec in zip(hisTensor, bufTensor, stkTensor,testMat):
             loss = model(hisMat, bufMat, stkMat, testVec)
