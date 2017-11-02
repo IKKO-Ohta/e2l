@@ -1,5 +1,4 @@
 # 無視するファイル
-bin/__pycache__
 corpus/
 auto/
 model/
