@@ -4,16 +4,16 @@ lstm-parserが健全に動作するかどうかを判定する。
 データセットPenn_Oracle_split_test/[00,24]/*.oracleを適切に学習して返せるかどうかを試す。
 中間表現はauto/test/[00,24]/*.pklとして保存する。
 """
-import subuprocess
 import sys
 import glob
+sys.path.append("../lib")
 from oracle2vec import Configuration
 from oracle2vec import Transition
 from oracle2vec import myVectorizer
 from lstmParser import Parser
 from lstmParser import evaluate, backupModel, composeTensor
 
-def pklComile():
+def pklCompile():
     """
     auto/Penn_Oracle_split_test/wsj_0001_0.oracle
     => auto/preprocessed/wsj_0001_0_[step数].pkl
