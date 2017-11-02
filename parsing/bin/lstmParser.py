@@ -198,7 +198,9 @@ def evaluate(model, loader):
     correct, cnt = 0, 0
     for hisMat, bufMat, stkMat, testVec in zip(hisTensor, bufTensor, stkTensor,testMat):
         predcls = model.pred(hisMat,bufMat,stkMat)
-        for pred, test in predcls, testVec:
+        for pred, test in zip(predcls, testVec):
+            if cnt == 80:
+                break
             if pred.data == test.data:
                  correct += 1
             cnt += 1

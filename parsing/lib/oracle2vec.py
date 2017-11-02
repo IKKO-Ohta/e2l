@@ -199,7 +199,10 @@ def oracle_load(oracle_path):
     return feature, label
 
 if __name__ == '__main__':
-    pathes = glob.glob("../auto/Penn_Oracle_split/*/*.oracle")
+    if len(sys.argv) == 1:
+        pathes = glob.glob("../auto/Penn_Oracle_split/*/*.oracle")
+    else:
+        pathes = glob.glob(sys.argv[1])
     vectorizer = myVectorizer()
     error = 0
 
