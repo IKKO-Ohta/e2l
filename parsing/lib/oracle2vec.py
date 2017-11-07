@@ -146,7 +146,11 @@ class myVectorizer(object):
 
         #　返すべき木がある
         for raw_edge in raw_edges:
-            raw_edge = self.act_map(raw_edge[1])
+            if "LEFT" in raw_edge[1]:
+                raw_edge[1] = "LEFT"
+            elif "RIGHT" in raw_edge[2]:
+                raw_edge[2] = "RIGHT"
+            raw_edge[1] = self.act_map[raw_edge[1]]
             for col in [0,2]:
                 raw_edge[col] = self.reg(raw_edge[col])
                 raw_edge[col] = self.corpus[raw_edge[col]]
