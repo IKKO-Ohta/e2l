@@ -26,6 +26,9 @@ class Parser(chainer.Chain):
         self.bufDim = 420
         self.stkDim = 700
         self.hisEmbed = 20
+        self.embedWordPreFix = gensim.models.KeyedVectors.load_word2vec_format(
+            '../model/GoogleNews-vectors-negative300.bin',binary=True)
+
         super(Parser, self).__init__(
             #embedWordOfStack = L.EmbedID(self.raw_input_dim, self.midOne),
             embedWordId = L.EmbedID(self.raw_input_dim, self.midOne),
@@ -91,7 +94,7 @@ class Parser(chainer.Chain):
             # buf
             buf = F.concat(
                 (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
-                Variable(buf[1]).reshape(1,300),
+                Variable(self.embedWordPreFix[buf[1]]).reshape(1,300),
                 self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
             if firstIndex:
                 bufs = buf

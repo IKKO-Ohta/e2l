@@ -52,8 +52,8 @@ class myVectorizer(object):
 
     def __init__(self):
         self.regex = re.compile('[a-zA-Z0-9]+')
-        self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
-                                                                        binary=True)
+        #self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
+        #binary=True)
         with open("../model/tag_map.pkl", "rb") as f:
             self.tag_map = pickle.load(f)
         with open("../model/word2id.pkl", "rb") as f:
@@ -74,31 +74,28 @@ class myVectorizer(object):
         word = self.regex.match(word)
         return self.tag_map[word]
 
-    @staticmethod
-    def dummy(ind, l):
-        """
-        chainerのembeddingへ委譲
-        """
-        m = [0 if i != ind else 1 for i in range(l)]
-        return np.asarray(m, dtype=np.float32)
-
     def buf_embed(self, buffer):
         if not buffer:
             w = -1
-            wlm = np.asarray([0 for i in range(300)], dtype=np.float32)
+            wlm = -1
             tag = -1
             return [w,wlm,tag]
 
         word = buffer[-1]  # last
 
         def find(key):
-            return self.corpus[key], self.wv_model[key], self.tag_map[key]
+            return self.corpus[key], self.corpus[key], self.tag_map[key]
 
-        def e_find(key):
-            return self.corpus[key], np.asarray([0 for i in range(300)]), self.tag_map[key]
+        def dm_find(key):
+            """
+            dummy find.
+            もしコーパスに探すべきものが見つからなかったら、
+            とりあえず-1を返しておく
+            """
+            return -1, -1, -1
 
         def not_null(key):
-            dicts = [self.corpus, self.wv_model, self.tag_map]
+            dicts = [self.corpus, self.tag_map]
             if all([key in d for d in dicts]):
                 return True
             else:
@@ -120,12 +117,18 @@ class myVectorizer(object):
 
     def edge_embed(self, arc):
         if not arc:
-            h = np.asarray([0 for i in range(300)], dtype=np.float32)
-            d = np.asarray([0 for i in range(300)], dtype=np.float32)
+            h = -1
+            d = -1
             r = -1
             return [h,d,r]
 
+
+        """
+        木を探して袋詰めする部分
+        """
+        """
         edge = arc[-1]  # last arc
+
         edge[0], edge[2] = self.reg(edge[0]), self.reg(edge[2])  # 正規表現でwordを洗浄
         if edge[0] in self.wv_model:
             h = self.wv_model[edge[0]]
@@ -143,11 +146,11 @@ class myVectorizer(object):
 
         r = self.act_map[edge[1]]
         # r = self.dummy(r, len(self.act_map))
+        """
         return [h, d, r]
 
     def cal_history(self, history):
         """
-        スタティックメソッドのdummyを用いる
         :param バッファの最新ヒストリ
         :return: ダミー化されたヒストリ
         """
