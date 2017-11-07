@@ -188,8 +188,9 @@ def composeTensor(loader,model,test=False):
     return hisTensor, bufTensor, stkTensor, testMat
 
 def backupModel(model,epoch,dirpath="../model/"):
-    modelName = "parserModel_epoch"+ str(epoch) + str(datetime.datetime.now())
-    serializers.save_hdf5("../model/"+modelName, model)
+    now = datetime.datetime.now()
+    modelName = "../model/parserModel" +"_"+ "ep" + str(epoch) +"_"+ now.strftime('%s') + ".mod"
+    serializers.save_hdf5(modelName, model)
     return
 
 def evaluate(model, loader):
@@ -246,5 +247,6 @@ if __name__ == '__main__':
         print("Next epoch..")
 
     print("finish!")
-    modelName = "parserModel" + str(datetime.datetime.now())
-    serializers.save_hdf5("../model/"+"complete_"+modelName, model)
+    now = datetime.datetime.now()
+    modelName = "../model/parserModel" +"_"+ "complete" +"_"+ now.strftime('%s') + ".mod"
+    serializers.save_hdf5(modelName, model)
