@@ -147,14 +147,17 @@ class myVectorizer(object):
         #　返すべき木がある
         for raw_edge in raw_edges:
             if "LEFT" in raw_edge[1]:
-                raw_edge[1] = "LEFT"
+                act = "LEFT"
             elif "RIGHT" in raw_edge[2]:
-                raw_edge[2] = "RIGHT"
-            raw_edge[1] = self.act_map[raw_edge[1]]
-            for col in [0,2]:
-                raw_edge[col] = self.reg(raw_edge[col])
-                raw_edge[col] = self.corpus[raw_edge[col]]
-            tree.append(raw_edge)
+                act = "RIGHT"
+            else:
+                act = "SHIFT"
+            h = self.reg(raw_edge[0])
+            h = self.corpus[h]
+            r = self.act_map[act]
+            d = self.reg(raw_edge[2])
+            d = self.corpus[raw_edge[2]]
+            tree.append([h,d,r])
         return tree
 
     def cal_history(self, history):
