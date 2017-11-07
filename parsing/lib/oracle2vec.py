@@ -41,7 +41,6 @@ class Transition(object):
         conf.stack.insert(0, idx_wi)
         if not conf.stack[-1]: del conf.stack[-1]
 
-
 class myVectorizer(object):
     """
     - cal buffer
@@ -115,39 +114,39 @@ class myVectorizer(object):
         tag = self.tag2id[tag]
         return [w, wlm, tag]
 
-    def edge_embed(self, arc):
-        if not arc:
-            h = -1
-            d = -1
-            r = -1
+    def edge_embed(self, head, arcs):
+        """
+        param: conf.head, conf.arcs
+        return: [[h,d,r],[h,d,r]...] # => 全ての要素がID化されている
+        """
+        if not arcs:
+            h,d,r = -1, -1, -1
             return [h,d,r]
 
+        def dfs(h,arcs,result):
+            """
+            arcsと、ルートになる単語が与えられたとき、
+            木を構成するエッジを探索して返す再帰関数
+            """
+            # 停止条件
+            if not h in [arc[0] for arc in arcs]:
+                return
+            # あるheadについて、arcsを全走査
+            for arc in arcs:
+                if arc[0] == h:
+                    result.append(arc)
+                    dfs(arc[2],arcs,result)
+            return result
 
-        """
-        木を探して袋詰めする部分
-        """
-        """
-        edge = arc[-1]  # last arc
-
-        edge[0], edge[2] = self.reg(edge[0]), self.reg(edge[2])  # 正規表現でwordを洗浄
-        if edge[0] in self.wv_model:
-            h = self.wv_model[edge[0]]
-        elif edge[0].capitalize() in self.wv_model:
-            h = self.wv_model[edge[0].capitalize()]
-        else:
-            h = np.asarray([0 for i in range(300)], dtype=np.float32)
-
-        if edge[2] in self.wv_model:
-            d = self.wv_model[edge[2]]
-        elif edge[2].capitalize() in self.wv_model:
-            d = self.wv_model[edge[2].capitalize()]
-        else:
-            d = np.asarray([0 for i in range(300)])
-
-        r = self.act_map[edge[1]]
-        # r = self.dummy(r, len(self.act_map))
-        """
-        return [h, d, r]
+        tree = []
+        raw_edges = dfs(head,arcs,[])
+        for raw_edge in raw_edges:
+            raw_edge = self.act_map(raw_edge[1])
+            for col in [0,2]:
+                raw_edge[col] = self.reg(raw_edge[col])
+                raw_edge[col] = self.corpus[raw_edge[col]]
+            tree.append(raw_edge)
+        return tree
 
     def cal_history(self, history):
         """
@@ -217,13 +216,11 @@ if __name__ == '__main__':
         cnt = 0
         try:
             for action in actions:
-                # print(conf.show())
-                # print("dumping..")
+
                 his = vectorizer.cal_history(conf.history)
                 buf = vectorizer.buf_embed(conf.buffer)
-                stk = vectorizer.edge_embed(conf.arcs)
-                #print("his:", his,"buf:", buf, "stk", stk)
-                # print("label:", action)
+                stk = vectorizer.edge_embed(conf.stack[-1], conf.arcs)
+
 
                 if action == "SHIFT":
                     Transition.shift(conf)
