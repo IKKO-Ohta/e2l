@@ -247,6 +247,8 @@ if __name__ == '__main__':
 
                 conf.history.append(action)
                 cnt += 1
+                if cnt > 10:
+                    import pdb; pdb.set_trace()
 
         except IndexError:
             print("--ERROR-- ", path)
