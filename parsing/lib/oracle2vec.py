@@ -156,8 +156,8 @@ class myVectorizer(object):
             h = self.corpus[h]
             r = self.act_map[act]
             d = self.reg(raw_edge[2])
-            d = self.corpus[raw_edge[2]]
-            tree.append([h,d,r])
+            d = self.corpus[d]
+            tree.append([h,d,r)
         return tree
 
     def cal_history(self, history):
@@ -201,10 +201,7 @@ def oracle_load(oracle_path):
                 line = oracle_split(line)
                 feature.append(line)
                 cnt += 1
-            elif line == "\n":
-                """
-                EOS
-                """
+            elif line == "\n": # EOS
                 break
             else:
                 line = line.rstrip()
