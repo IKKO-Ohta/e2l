@@ -120,9 +120,6 @@ class myVectorizer(object):
         param: conf.head, conf.arcs
         return: [[h,d,r],[h,d,r]...] # => 全ての要素がID化されている
         """
-        if not arcs:
-            h,d,r = -1, -1, -1
-            return [h,d,r]
 
         def dfs(h,arcs,result):
             """
@@ -141,6 +138,13 @@ class myVectorizer(object):
 
         tree = []
         raw_edges = dfs(head,arcs,[])
+
+        # 返すべき木はない
+        if not raw_edges:
+            h,d,r = -1, -1, -1
+            return [h,d,r]
+
+        #　返すべき木がある
         for raw_edge in raw_edges:
             raw_edge = self.act_map(raw_edge[1])
             for col in [0,2]:
