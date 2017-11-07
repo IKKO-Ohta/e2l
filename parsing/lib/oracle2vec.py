@@ -157,7 +157,7 @@ class myVectorizer(object):
             r = self.act_map[act]
             d = self.reg(raw_edge[2])
             d = self.corpus[d]
-            tree.append([h,d,r)
+            tree.append([h,d,r])
         return tree
 
     def cal_history(self, history):
