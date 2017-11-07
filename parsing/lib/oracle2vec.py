@@ -58,7 +58,7 @@ class myVectorizer(object):
             self.tag_map = pickle.load(f)
         with open("../model/word2id.pkl", "rb") as f:
             self.corpus = pickle.load(f)
-        with open("../model/act_map.pkl", "rb") as f:
+        with open("../model/simple_act_map.pkl", "rb") as f:
             self.act_map = pickle.load(f)
         with open("../model/tag2id.pkl", "rb") as f:
             self.tag2id = pickle.load(f)
@@ -226,8 +226,10 @@ if __name__ == '__main__':
                     Transition.shift(conf)
                 elif "RIGHT" in action:
                     Transition.right_arc(action, conf)
+                    action = "RIGHT"
                 elif "LEFT" in action:
                     Transition.left_arc(action, conf)
+                    action = "LEFT"
                 else:
                     """
                     予期しない命令

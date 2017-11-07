@@ -19,8 +19,8 @@ from loader import myLoader
 class Parser(chainer.Chain):
     def __init__(self):
         self.raw_input_dim = 49109
-        self.output_dim = 95
-        self.action_len = 95
+        self.output_dim = 3
+        self.action_len = 3
         self.POS_len, self.POS_ex = 45, 20
         self.midOne, self.midTwo = 100, 50
         self.bufDim = 420
@@ -29,16 +29,16 @@ class Parser(chainer.Chain):
         super(Parser, self).__init__(
             #embedWordOfStack = L.EmbedID(self.raw_input_dim, self.midOne),
             embedWordId = L.EmbedID(self.raw_input_dim, self.midOne),
-            embedHistoryId = L.EmbedID(self.action_len, self.midOne),
-            embedActionId = L.EmbedID(self.action_len, self.midOne),
+            embedHistoryId = L.EmbedID(self.action_len, self.action_len),
+            embedActionId = L.EmbedID(self.action_len, self.action_len),
             embedPOSId = L.EmbedID(self.POS_len, self.POS_ex),
             U = L.Linear(self.stkDim, self.midOne),  # stkInput => lstm
             V = L.Linear(self.bufDim, self.midOne),  # bufInput => lstm
             LS = L.LSTM(self.midOne, self.midTwo),  # for the subtree
-            LA = L.LSTM(self.midOne, self.midTwo),  # for the action history
+            LA = L.LSTM(self.action_len, self.action_len),  # for the action history
             LB = L.LSTM(self.midOne, self.midTwo),  # for the buffer
-            W = L.Linear(self.midTwo*3, self.midTwo*2), # [St;At;Bt] => classifier
-            G = L.Linear(self.midTwo*2, self.output_dim)  # output
+            W = L.Linear(self.midTwo*2 + self.action_len, self.midTwo), # [St;At;Bt] => classifier
+            G = L.Linear(self.midTwo, self.output_dim)  # output
     )
 
 
