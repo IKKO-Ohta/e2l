@@ -110,6 +110,10 @@ class myVectorizer(object):
             arcsと、ルートになる単語が与えられたとき、
             木を構成するエッジを探索して返す再帰関数
             """
+            # 前提条件
+            if len(arcs) == 0:
+                return []
+            
             # 停止条件
             if not h in [arc[0] for arc in arcs]:
                 return
@@ -122,11 +126,7 @@ class myVectorizer(object):
             return result
 
         tree = []
-        try:
-            raw_edges = dfs(head,arcs,[])
-        except:
-            print("ERROR")
-            raw_edges = []
+        raw_edges = dfs(head, arcs, [])
 
         # 返すべき木はない
         if not raw_edges:
