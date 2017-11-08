@@ -159,7 +159,6 @@ class myVectorizer(object):
                 r = self.act_map[act]
                 d = self.reg(raw_edge[2])
                 d = self.corpus[d]
-                d = self.corpus[raw_edge[2]]
             except:
                 print('warning! invalid DEPENDENT')
                 print(h,d,r)
