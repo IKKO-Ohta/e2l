@@ -111,10 +111,9 @@ class myVectorizer(object):
         else:
             w, wlm, tag = dm_find(word)
 
-        print("before:",tag)
-        #w = self.dummy(w, len(self.corpus))
-        tag = self.tag2id[tag]
-        print("after:",tag)
+        if tag != -1:
+            tag = self.tag2id[tag]
+            
         return [w, wlm, tag]
 
     def edge_embed(self, head, arcs):
