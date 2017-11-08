@@ -81,7 +81,7 @@ class myVectorizer(object):
             tag = -1
             return [w,wlm,tag]
 
-        word = buffer[-1]  # last
+        word = buffer[0]  # last
 
         def find(key):
             return self.corpus[key], self.corpus[key], self.tag_map[key]
@@ -258,7 +258,7 @@ if __name__ == '__main__':
 
                 conf.history.append(action)
                 cnt += 1
-                if cnt > 10:
+                if cnt > 100:
                     import pdb; pdb.set_trace()
 
         except IndexError:
