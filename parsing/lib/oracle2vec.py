@@ -126,8 +126,8 @@ class myVectorizer(object):
             raw_edges = dfs(head,arcs,[])
         except:
             print("ERROR")
-            print(h, arcs, result)
-            import pdb; pdb.set_trace()
+            raw_edges = []
+
         # 返すべき木はない
         if not raw_edges:
             h,d,r = -1, -1, -1
