@@ -117,7 +117,10 @@ class myVectorizer(object):
             for arc in arcs:
                 if arc[0] == h:
                     result.append(arc)
-                    dfs(arc[2],arcs,result)
+                    try:
+                        dfs(arc[2],arcs,result)
+                    except:
+                        import pdb; pdb.set_trace()
             return result
 
         tree = []
