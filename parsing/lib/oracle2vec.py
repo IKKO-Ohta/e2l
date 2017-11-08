@@ -109,7 +109,7 @@ class myVectorizer(object):
         elif not_null(word.capitalize()):
             w, wlm, tag = find(word.capitalize())
         else:
-            w, wlm, tag = e_find(word)
+            w, wlm, tag = dm_find(word)
 
         #w = self.dummy(w, len(self.corpus))
         tag = self.tag2id[tag]
@@ -252,8 +252,8 @@ if __name__ == '__main__':
                 with open(target_path, "wb") as target:
                     #print("gen:", target_path)
                     label = vectorizer.act_map[action]
-                    print("label:",label)
                     print("his,buf,stk:", [his,buf,stk])
+                    print("label:",label)
                     pickle.dump(([his, buf, stk], label), target)
 
                 conf.history.append(action)
