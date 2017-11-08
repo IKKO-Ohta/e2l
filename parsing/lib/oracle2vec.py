@@ -160,7 +160,7 @@ class myVectorizer(object):
                 d = self.reg(raw_edge[2])
                 d = self.corpus[d]
             except:
-                sys.stderr("warning! invalid DEPENDENT")
+                sys.stderr.write('warning! invalid DEPENDENT')
                 h,d,r = -1,-1,-1
             tree.append([h,d,r])
         return tree
