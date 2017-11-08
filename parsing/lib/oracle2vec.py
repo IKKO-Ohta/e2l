@@ -113,7 +113,7 @@ class myVectorizer(object):
 
         if tag != -1:
             tag = self.tag2id[tag]
-            
+
         return [w, wlm, tag]
 
     def edge_embed(self, head, arcs):
@@ -153,11 +153,15 @@ class myVectorizer(object):
                 act = "RIGHT"
             else:
                 act = "SHIFT"
-            h = self.reg(raw_edge[0])
-            h = self.corpus[h]
-            r = self.act_map[act]
-            d = self.reg(raw_edge[2])
-            d = self.corpus[d]
+            try:
+                h = self.reg(raw_edge[0])
+                h = self.corpus[h]
+                r = self.act_map[act]
+                d = self.reg(raw_edge[2])
+                d = self.corpus[d]
+            except:
+                sys.stderr("warning! invalid DEPENDENT")
+                h,d,r = -1,-1,-1
             tree.append([h,d,r])
         return tree
 
@@ -229,7 +233,7 @@ if __name__ == '__main__':
 
                 his = vectorizer.cal_history(conf.history)
                 buf = vectorizer.buf_embed(conf.buffer)
-                stk = vectorizer.edge_embed(conf.stack[-1], conf.arcs)
+                stk = vectorizer.edge_embed(conf.stack[0], conf.arcs)
 
 
                 if action == "SHIFT":
