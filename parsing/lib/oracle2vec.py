@@ -204,6 +204,9 @@ if __name__ == '__main__':
         pathes = glob.glob("../auto/Penn_Oracle_split/*/*.oracle")
     else:
         pathes = glob.glob(sys.argv[1])
+
+    # error判定
+    pathes.remove("../auto/Penn_Oracle_split/13/wsj_1353_20.oracle")
     vectorizer = myVectorizer()
     error = 0
 
