@@ -149,7 +149,7 @@ class myVectorizer(object):
         for raw_edge in raw_edges:
             if "LEFT" in raw_edge[1]:
                 act = "LEFT"
-            elif "RIGHT" in raw_edge[2]:
+            elif "RIGHT" in raw_edge[1]:
                 act = "RIGHT"
             else:
                 act = "SHIFT"
