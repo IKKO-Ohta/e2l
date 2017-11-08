@@ -162,7 +162,7 @@ class myVectorizer(object):
                 d = self.corpus[raw_edge[2]]
             except:
                 print('warning! invalid DEPENDENT')
-                print(h,f,r)
+                print(h,d,r)
                 h,d,r = -1,-1,-1
             tree.append([h,d,r])
         return tree
