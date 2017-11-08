@@ -130,6 +130,7 @@ class myVectorizer(object):
             print(head,arcs)
             import pdb; pdb.set_trace()
 
+        tree = []
         # 返すべき木はない
         if not raw_edges:
             h,d,r = -1, -1, -1
