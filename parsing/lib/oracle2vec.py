@@ -250,8 +250,10 @@ if __name__ == '__main__':
                               + "/" + origin_name + "_" + '{0:07d}'.format(cnt) + ".pkl"
 
                 with open(target_path, "wb") as target:
-                    print("gen:", target_path)
+                    #print("gen:", target_path)
                     label = vectorizer.act_map[action]
+                    print("label:",label)
+                    print("his,buf,stk:", [his,buf,stk])
                     pickle.dump(([his, buf, stk], label), target)
 
                 conf.history.append(action)
