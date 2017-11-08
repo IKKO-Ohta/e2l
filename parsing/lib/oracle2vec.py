@@ -81,36 +81,18 @@ class myVectorizer(object):
             tag = -1
             return [w,wlm,tag]
 
-        word = buffer[0]  # last
+        word = buffer[0]  # Next word
 
         def find(key):
-            return self.corpus[key], self.corpus[key], self.tag_map[key]
-
-        def dm_find(key):
-            """
-            dummy find.
-            もしコーパスに探すべきものが見つからなかったら、
-            とりあえず-1を返しておく
-            """
-            return -1, -1, -1
-
-        def not_null(key):
-            dicts = [self.corpus, self.tag_map]
-            if all([key in d for d in dicts]):
-                return True
+            regword = self.reg(word)
+            if regword in self.tag_map:
+                return self.corpus[key], self.corpus[key], self.tag_map[regword]
+            elif regword.capitalize() in self.tag_map:
+                return self.corpus[key], self.corpus[key], self.tag_map[regword.capitalize()]
             else:
-                return False
+                return self.corpus[key], self.corpus[key], -1
 
-        # 正規表現でwordを洗浄
-        word = self.reg(word)
-
-        if not_null(word):
-            w, wlm, tag = find(word)
-        elif not_null(word.capitalize()):
-            w, wlm, tag = find(word.capitalize())
-        else:
-            w, wlm, tag = dm_find(word)
-
+        w, wlm, tag = find(word)
         if tag != -1:
             tag = self.tag2id[tag]
 
