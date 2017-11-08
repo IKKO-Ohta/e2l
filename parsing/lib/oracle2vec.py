@@ -159,8 +159,10 @@ class myVectorizer(object):
                 r = self.act_map[act]
                 d = self.reg(raw_edge[2])
                 d = self.corpus[d]
+                d = self.corpus[raw_edge[2]]
             except:
-                sys.stderr.write('warning! invalid DEPENDENT')
+                print('warning! invalid DEPENDENT')
+                print(h,f,r)
                 h,d,r = -1,-1,-1
             tree.append([h,d,r])
         return tree
@@ -263,7 +265,7 @@ if __name__ == '__main__':
 
                 conf.history.append(action)
                 cnt += 1
-                if cnt > 100:
+                if cnt > 1000:
                     import pdb; pdb.set_trace()
 
         except IndexError:
