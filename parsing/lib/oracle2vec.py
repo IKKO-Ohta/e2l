@@ -117,15 +117,17 @@ class myVectorizer(object):
             for arc in arcs:
                 if arc[0] == h:
                     result.append(arc)
-                    try:
-                        dfs(arc[2],arcs,result)
-                    except:
-                        import pdb; pdb.set_trace()
+                    dfs(arc[2],arcs,result)
+
             return result
 
         tree = []
-        raw_edges = dfs(head,arcs,[])
-
+        try:
+            raw_edges = dfs(head,arcs,[])
+        except:
+            print("ERROR")
+            print(h, arcs, result)
+            import pdb; pdb.set_trace()
         # 返すべき木はない
         if not raw_edges:
             h,d,r = -1, -1, -1
