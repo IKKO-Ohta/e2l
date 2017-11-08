@@ -136,10 +136,8 @@ class myVectorizer(object):
             else:
                 act = "SHIFT"
             try:
-                h = self.reg(raw_edge[0])
                 h = self.corpus[h]
                 r = self.act_map[act]
-                d = self.reg(raw_edge[2])
                 d = self.corpus[d]
             except:
                 print('warning! invalid DEPENDENT')
