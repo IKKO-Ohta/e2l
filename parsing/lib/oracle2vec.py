@@ -131,7 +131,7 @@ class myVectorizer(object):
         # 返すべき木はない
         if not raw_edges:
             h,d,r = -1, -1, -1
-            return [h,d,r]
+            return [[h,d,r]]
 
         #　返すべき木がある
         for raw_edge in raw_edges:
@@ -141,14 +141,9 @@ class myVectorizer(object):
                 act = "RIGHT"
             else:
                 act = "SHIFT"
-            try:
-                h = self.corpus[raw_edge[0]]
-                d = self.corpus[raw_edge[2]]
-                r = self.act_map[act]
-            except:
-                print('warning! invalid DEPENDENT')
-                #import pdb; pdb.set_trace()
-                h,d,r = -1,-1,-1
+            h = self.corpus[raw_edge[0]]
+            d = self.corpus[raw_edge[2]]
+            r = self.act_map[act]
             tree.append([h,d,r])
         return tree
 
