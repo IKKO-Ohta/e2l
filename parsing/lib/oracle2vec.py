@@ -161,6 +161,7 @@ class myVectorizer(object):
                 d = self.corpus[d]
             except:
                 print('warning! invalid DEPENDENT')
+                import pdb; pdb.set_trace()
                 print(h,d,r)
                 h,d,r = -1,-1,-1
             tree.append([h,d,r])
