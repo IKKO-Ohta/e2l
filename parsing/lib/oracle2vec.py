@@ -6,6 +6,7 @@ import gensim
 import pickle
 import numpy as np
 
+sys.setrecursionlimit(10000)
 
 class Configuration(object):
     def __init__(self):
@@ -136,16 +137,12 @@ class myVectorizer(object):
             else:
                 act = "SHIFT"
             try:
-                print("before")
-                print(raw_edge[0],raw_edge[2],act)
                 h = self.corpus[raw_edge[0]]
                 d = self.corpus[raw_edge[2]]
                 r = self.act_map[act]
-                print("After")
-                print(h,d,r)
             except:
                 print('warning! invalid DEPENDENT')
-                import pdb; pdb.set_trace()
+                #import pdb; pdb.set_trace()
                 h,d,r = -1,-1,-1
             tree.append([h,d,r])
         return tree
