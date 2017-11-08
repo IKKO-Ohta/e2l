@@ -136,9 +136,13 @@ class myVectorizer(object):
             else:
                 act = "SHIFT"
             try:
+                print("before")
+                print(h,r,d)
                 h = self.corpus[h]
                 r = self.act_map[act]
                 d = self.corpus[d]
+                print("After")
+                print(h,r,d)
             except:
                 print('warning! invalid DEPENDENT')
                 import pdb; pdb.set_trace()
