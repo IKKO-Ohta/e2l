@@ -6,7 +6,6 @@ import gensim
 import pickle
 import numpy as np
 
-sys.setrecursionlimit(10000)
 
 class Configuration(object):
     def __init__(self):
@@ -113,7 +112,7 @@ class myVectorizer(object):
             # 前提条件
             if len(arcs) == 0:
                 return []
-            
+
             # 停止条件
             if not h in [arc[0] for arc in arcs]:
                 return
@@ -125,8 +124,11 @@ class myVectorizer(object):
 
             return result
 
-        tree = []
-        raw_edges = dfs(head, arcs, [])
+        try:
+            raw_edges = dfs(head, arcs, [])
+        except RecursionError:
+            print(head,arcs)
+            import pdb; pdb.set_trace()
 
         # 返すべき木はない
         if not raw_edges:
