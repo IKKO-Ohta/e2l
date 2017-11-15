@@ -118,9 +118,10 @@ class Parser(chainer.Chain):
                         self.embedActionId(np.asarray([elem[2]],dtype=np.int32))
                     ))
                     compose = self.U(edge)
-
-            stks = F.vstack([stks, stk]) if type(stks) != int else stk
-
+            try:
+                stks = F.vstack([stks, stk]) if type(stks) != int else stk
+            except:
+                import pdb; pdb.set_trace()
         return hiss,bufs,stks
 
     def reset_state(self):
