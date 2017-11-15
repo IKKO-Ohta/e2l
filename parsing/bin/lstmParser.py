@@ -119,7 +119,7 @@ class Parser(chainer.Chain):
                     ))
                     compose = self.U(edge)
             try:
-                stks = F.vstack([stks, stk]) if type(stks) != int else stk
+                stks = F.vstack([stks, compose]) if type(compose) != int else compose
             except:
                 import pdb; pdb.set_trace()
         return hiss,bufs,stks
