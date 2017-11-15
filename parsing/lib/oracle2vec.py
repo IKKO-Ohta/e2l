@@ -146,12 +146,14 @@ class myVectorizer(object):
             for arc in arcs:
                 if arc[0] == h:
                     result.append(arc)
+                    arcs.remove(arc)
                     dfs(arc[2],arcs,result)
 
             return result
 
+        arcsCopy = arcs.copy()
         try:
-            raw_edges = dfs(head, arcs, [])
+            raw_edges = dfs(head, arcsCopy, [])
         except RecursionError:
             print(head,arcs)
             import pdb; pdb.set_trace()
