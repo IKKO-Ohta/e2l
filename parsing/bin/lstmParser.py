@@ -103,6 +103,7 @@ class Parser(chainer.Chain):
 
             # stk
             compose = 0
+            import pdb; pdb.set_trace()
             for elem in stk.reverse():
                 if not compose:
                     edge = F.concat(
