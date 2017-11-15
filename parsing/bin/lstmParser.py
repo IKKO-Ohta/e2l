@@ -99,11 +99,11 @@ class Parser(chainer.Chain):
                 try:
                     embed = self.embedWordPreFix[buf[1]]
                 except:
-                    embed = np.asarray([0 for i in range(300)],dtype=int32)
+                    embed = np.asarray([0 for i in range(300)],dtype=np.float32)
                 try:
                     buf = F.concat(
                         (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
-                        Variable(embed),
+                        Variable(embed).reshape(1,300),
                         self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
                 except:
                     import pdb; pdb.set_trace()
@@ -124,11 +124,9 @@ class Parser(chainer.Chain):
                         self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
                         self.embedActionId(np.asarray([elem[2]],dtype=np.int32))
                     ))
-                    compose = self.U(edge)
-            try:
-                stks = F.vstack([stks, compose]) if type(stks) != int else compose
-            except:
-                import pdb; pdb.set_trace()
+
+            stks = F.vstack([stks, compose]) if type(stks) != int else compose
+
         return hiss,bufs,stks
 
     def reset_state(self):
