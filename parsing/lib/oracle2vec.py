@@ -123,16 +123,6 @@ class myVectorizer(object):
             """
             arcsと、ルートになる単語が与えられたとき、
             木を構成するエッジを探索して返す再帰関数
-
-            todo:　再帰深度がぶっ飛んでしまうことがある。
-            コーナーケースを見落としている。仮説としては、
-             - 停止条件の判定がおかしい。arc[0]のなかに、違う木の同じ単語が紛れている。
-            など。しかしこのようなコーナーケースで再帰深度が吹っ飛ぶか？
-
-            検証:
-            ファイル単体の問題ではない。
-            たとえば、1353番ファイルの50文目ではエラーが発生するが、
-            それを除いても多発する。
             """
             # 前提条件
             if len(arcs) == 0:
@@ -151,12 +141,8 @@ class myVectorizer(object):
 
             return result
 
-        arcsCopy = arcs.copy()
-        try:
-            raw_edges = dfs(head, arcsCopy, [])
-        except RecursionError:
-            print(head,arcs)
-            import pdb; pdb.set_trace()
+        arcsCopy = arcs.copy()　# 無限ループ防止のため、内部を削りながら再帰するので
+        raw_edges = dfs(head, arcsCopy, [])
 
         tree = []
         # 返すべき木はない
@@ -271,16 +257,14 @@ if __name__ == '__main__':
                               + "/" + origin_name + "_" + '{0:07d}'.format(cnt) + ".pkl"
 
                 with open(target_path, "wb") as target:
-                    #print("gen:", target_path)
+                    print("gen:", target_path)
                     label = vectorizer.act_map[action]
-                    print("his,buf,stk:", [his,buf,stk])
-                    print("label:",label)
+                    #print("his,buf,stk:", [his,buf,stk])
+                    #print("label:",label)
                     pickle.dump(([his, buf, stk], label), target)
 
                 conf.history.append(action)
                 cnt += 1
-                if cnt > 1000:
-                    import pdb; pdb.set_trace()
 
         except IndexError:
             print("--ERROR-- ", path)

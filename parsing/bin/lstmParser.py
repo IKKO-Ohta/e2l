@@ -21,11 +21,11 @@ class Parser(chainer.Chain):
         self.raw_input_dim = 49109
         self.output_dim = 3
         self.action_len = 3
+        self.w2vdim = 300
         self.POS_len, self.POS_ex = 45, 20
         self.midOne, self.midTwo = 100, 50
-        self.bufDim = 420
-        self.stkDim = 700
-        self.hisEmbed = 20
+        self.bufDim = self.midOne + 300 + self.POS_ex
+        self.stkDim = self.midOne * 2 + self.action_len
         self.embedWordPreFix = gensim.models.KeyedVectors.load_word2vec_format(
             '../model/GoogleNews-vectors-negative300.bin',binary=True)
 
@@ -69,9 +69,12 @@ class Parser(chainer.Chain):
             }
         return: minibatch his,buf,stk
         """
-        firstIndex = True
+        his,buf,stk = 0,0,0
         for train in trains:
             his, buf, stk = train[0], train[1], train[2]
+            """
+            このあたりのassertはうまく処理を考える
+            無くてうまくいくならないほうがいい
 
             # type assert
             try:
@@ -83,34 +86,38 @@ class Parser(chainer.Chain):
             except:
                 stk[0] = np.asarray(stk[0],dtype=np.float32)
                 stk[1] = np.asarray(stk[1],dtype=np.float32)
-
+            """
             # his
-            if firstIndex:
-                hiss = self.embedHistoryId(np.asarray([his],dtype=np.int32))
-            else:
-                his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
-                hiss = F.vstack([hiss,his])
+            his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
+            hiss = F.vstack([hiss,his]) if hiss else his
 
             # buf
             buf = F.concat(
                 (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
                 Variable(self.embedWordPreFix[buf[1]]).reshape(1,300),
                 self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
-            if firstIndex:
-                bufs = buf
-            else:
-                bufs = F.vstack([bufs,buf])
+            bufs = F.vstack([bufs,buf]) if bufs else buf
 
             # stk
-            stk = F.concat((Variable(stk[0]).reshape(1,300),
-                            Variable(stk[1]).reshape(1,300),
-                            self.embedActionId(np.asarray([stk[2]],dtype=np.int32))))
-            if firstIndex:
-                stks = stk
-            else:
-                stks = F.vstack([stks, stk])
+            compose = 0
+            for elem in stk.reverse():
+                if not compose:
+                    edge = F.concat((
+                        self.embedWordId(np.asarray([elem[0]],dtype=np.int32)),
+                        self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
+                        self.embedActionId(np.asarray([elem[2]],dtype=np.int32))
+                        ))
+                    compose = self.U(edge)
+                else:
+                    edge = F.concat((
+                        compose,
+                        self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
+                        self.embedActionId(np.asarray([elem[2]],dtype=np.int32))
+                    ))
+                    compose = self.U(edge)
 
-            firstIndex = False
+            stks = F.vstack([stks, stk]) if stks else stk
+
         return hiss,bufs,stks
 
     def reset_state(self):
