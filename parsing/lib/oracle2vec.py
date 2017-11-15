@@ -101,6 +101,21 @@ class myVectorizer(object):
     def edge_embed(self, head, arcs):
         """
         param: conf.head, conf.arcs
+        [ex]
+        head:
+            has-_
+        conf.arcs
+        [
+        ['Committee-_', 'LEFT-ARC(NAME)', 'Commerce-_'], ['Committee-_', 'LEFT-ARC(NAME)', 'Senate-_'],
+        ['Committee-_', 'LEFT-ARC(NMOD)', 'the-_'], ['has-_', 'LEFT-ARC(SBJ)', 'Committee-_'],
+        ['bill-_', 'LEFT-ARC(NMOD)', 'House-_'], ['bill-_', 'LEFT-ARC(NMOD)', 'the-_'],
+        ['to-_', 'RIGHT-ARC(PMOD)', 'bill-_'], ['similar-_', 'RIGHT-ARC(AMOD)', 'to-_'],
+        ['legislation-_', 'RIGHT-ARC(APPO)', 'similar-_'], ['buy-outs-_', 'LEFT-ARC(NMOD)', 'leveraged-_'],
+        ['buy-outs-_', 'LEFT-ARC(NMOD)', 'airline-_'], ['on-_', 'RIGHT-ARC(PMOD)', 'buy-outs-_'],
+        ['legislation-_', 'RIGHT-ARC(NMOD)', 'on-_'], ['approved-_', 'RIGHT-ARC(OBJ)', 'legislation-_'],
+        ['has-_', 'RIGHT-ARC(VC)', 'approved-_'], ['While-_', 'RIGHT-ARC(SUB)', 'has-_'], ['measure-_', 'LEFT-ARC(NMOD)', 'the-_'],
+        ['has-_', 'LEFT-ARC(SBJ)', 'measure-_'], ['has-_', 'LEFT-ARC(P)', ',-_'], ['has-_', 'LEFT-ARC(ADV)', 'While-_']
+        ]
         return: [[h,d,r],[h,d,r]...] # => 全ての要素がID化されている
         """
 
@@ -108,6 +123,16 @@ class myVectorizer(object):
             """
             arcsと、ルートになる単語が与えられたとき、
             木を構成するエッジを探索して返す再帰関数
+
+            todo:　再帰深度がぶっ飛んでしまうことがある。
+            コーナーケースを見落としている。仮説としては、
+             - 停止条件の判定がおかしい。arc[0]のなかに、違う木の同じ単語が紛れている。
+            など。しかしこのようなコーナーケースで再帰深度が吹っ飛ぶか？
+
+            検証:
+            ファイル単体の問題ではない。
+            たとえば、1353番ファイルの50文目ではエラーが発生するが、
+            それを除いても多発する。
             """
             # 前提条件
             if len(arcs) == 0:
@@ -116,6 +141,7 @@ class myVectorizer(object):
             # 停止条件
             if not h in [arc[0] for arc in arcs]:
                 return
+
             # あるheadについて、arcsを全走査
             for arc in arcs:
                 if arc[0] == h:
