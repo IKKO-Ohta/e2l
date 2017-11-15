@@ -86,11 +86,11 @@ class myVectorizer(object):
         def find(key):
             regword = self.reg(word)
             if regword in self.tag_map:
-                return self.corpus[key], self.corpus[key], self.tag_map[regword]
+                return self.corpus[key], key, self.tag_map[regword]
             elif regword.capitalize() in self.tag_map:
-                return self.corpus[key], self.corpus[key], self.tag_map[regword.capitalize()]
+                return self.corpus[key], key, self.tag_map[regword.capitalize()]
             else:
-                return self.corpus[key], self.corpus[key], -1
+                return self.corpus[key], key, -1
 
         w, wlm, tag = find(word)
         if tag != -1:

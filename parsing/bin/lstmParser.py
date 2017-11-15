@@ -92,21 +92,23 @@ class Parser(chainer.Chain):
             hiss = F.vstack([hiss,his]) if hiss else his
 
             # buf
-            buf = F.concat(
-                (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
-                Variable(self.embedWordPreFix[buf[1]]).reshape(1,300),
-                self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
+            if buf == [-1,-1,-1]:
+                buf = Variable(np.asarray([0 for i in range(self.bufDim)],dtype=int32))
+            else:
+                buf = F.concat(
+                    (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
+                    Variable(self.embedWordPreFix[buf[1]]).reshape(1,300),
+                    self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
             bufs = F.vstack([bufs,buf]) if bufs else buf
 
             # stk
             compose = 0
             for elem in stk.reverse():
                 if not compose:
-                    edge = F.concat((
-                        self.embedWordId(np.asarray([elem[0]],dtype=np.int32)),
-                        self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
-                        self.embedActionId(np.asarray([elem[2]],dtype=np.int32))
-                        ))
+                    edge = F.concat(
+                    (self.embedWordId(np.asarray([elem[0]],dtype=np.int32)),
+                    self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
+                    self.embedActionId(np.asarray([elem[2]],dtype=np.int32))))
                     compose = self.U(edge)
                 else:
                     edge = F.concat((
