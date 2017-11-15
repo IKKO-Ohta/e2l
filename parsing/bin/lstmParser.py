@@ -96,9 +96,13 @@ class Parser(chainer.Chain):
             if buf == [-1,-1,-1]:
                 buf = Variable(np.asarray([0 for i in range(self.bufDim)],dtype=int32))
             else:
+                try:
+                    embed = self.embedWordPreFix[buf[1]]
+                except:
+                    embed = np.asarray([0 for i in range(300)],dtype=int32)
                 buf = F.concat(
                     (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
-                    Variable(self.embedWordPreFix[buf[1]]).reshape(1,300),
+                    Variable(embed),
                     self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
             bufs = F.vstack([bufs,buf]) if type(bufs) != int else buf
 
