@@ -89,7 +89,10 @@ class Parser(chainer.Chain):
             """
             # his
             his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
-            hiss = F.vstack([hiss,his]) if hiss else his
+            try:
+                hiss = F.vstack([hiss,his]) if hiss else his
+            except:
+                import pdb; pdb.set_trace()
 
             # buf
             if buf == [-1,-1,-1]:
