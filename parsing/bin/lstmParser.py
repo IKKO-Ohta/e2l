@@ -94,7 +94,7 @@ class Parser(chainer.Chain):
 
             # buf
             if buf == [-1,-1,-1]:
-                buf = Variable(np.asarray([0 for i in range(self.bufDim)],dtype=np.int32))
+                buf = Variable(np.asarray([0 for i in range(self.bufDim)],dtype=np.float32))
             else:
                 """
                 w2vモジュールが悪い例外を吐くため
