@@ -96,23 +96,24 @@ class Parser(chainer.Chain):
             if buf == [-1,-1,-1]:
                 buf = Variable(np.asarray([0 for i in range(self.bufDim)],dtype=int32))
             else:
+                """
+                w2vモジュールが悪い例外を吐くため
+                """
                 try:
                     embed = self.embedWordPreFix[buf[1]]
                 except:
                     embed = np.asarray([0 for i in range(300)],dtype=np.float32)
-                try:
-                    buf = F.concat(
+
+                buf = F.concat(
                         (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
                         Variable(embed).reshape(1,300),
                         self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
-                except:
-                    import pdb; pdb.set_trace()
             bufs = F.vstack([bufs,buf]) if type(bufs) != int else buf
 
             # stk
             compose = 0
             for elem in stk[::-1]:
-                if not compose:
+                if type(compose) == int:
                     edge = F.concat(
                     (self.embedWordId(np.asarray([elem[0]],dtype=np.int32)),
                     self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
