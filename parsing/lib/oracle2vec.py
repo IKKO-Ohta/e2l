@@ -141,7 +141,7 @@ class myVectorizer(object):
 
             return result
 
-        arcsCopy = arcs.copy()　# 無限ループ防止のため、内部を削りながら再帰するので
+        arcsCopy = arcs.copy() # 無限ループ防止のため、内部を削りながら再帰するので
         raw_edges = dfs(head, arcsCopy, [])
 
         tree = []
