@@ -89,10 +89,8 @@ class Parser(chainer.Chain):
             """
             # his
             his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
-            try:
-                hiss = F.vstack([hiss,his]) if hiss else his
-            except:
-                import pdb; pdb.set_trace()
+            hiss = F.vstack([hiss,his]) if type(hiss) != int else his
+
 
             # buf
             if buf == [-1,-1,-1]:
@@ -102,7 +100,7 @@ class Parser(chainer.Chain):
                     (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
                     Variable(self.embedWordPreFix[buf[1]]).reshape(1,300),
                     self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
-            bufs = F.vstack([bufs,buf]) if bufs else buf
+            bufs = F.vstack([bufs,buf]) if type(bufs) != int else buf
 
             # stk
             compose = 0
@@ -121,7 +119,7 @@ class Parser(chainer.Chain):
                     ))
                     compose = self.U(edge)
 
-            stks = F.vstack([stks, stk]) if stks else stk
+            stks = F.vstack([stks, stk]) if type(stks) == int else stk
 
         return hiss,bufs,stks
 
