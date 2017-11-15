@@ -100,10 +100,13 @@ class Parser(chainer.Chain):
                     embed = self.embedWordPreFix[buf[1]]
                 except:
                     embed = np.asarray([0 for i in range(300)],dtype=int32)
-                buf = F.concat(
-                    (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
-                    Variable(embed),
-                    self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
+                try:
+                    buf = F.concat(
+                        (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
+                        Variable(embed),
+                        self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
+                except:
+                    import pdb; pdb.set_trace()
             bufs = F.vstack([bufs,buf]) if type(bufs) != int else buf
 
             # stk
