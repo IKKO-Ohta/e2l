@@ -103,8 +103,7 @@ class Parser(chainer.Chain):
 
             # stk
             compose = 0
-            import pdb; pdb.set_trace()
-            for elem in stk.reverse():
+            for elem in stk[::-1]:
                 if not compose:
                     edge = F.concat(
                     (self.embedWordId(np.asarray([elem[0]],dtype=np.int32)),
