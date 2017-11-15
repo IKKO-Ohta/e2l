@@ -119,7 +119,7 @@ class Parser(chainer.Chain):
                     ))
                     compose = self.U(edge)
 
-            stks = F.vstack([stks, stk]) if type(stks) == int else stk
+            stks = F.vstack([stks, stk]) if type(stks) != int else stk
 
         return hiss,bufs,stks
 
