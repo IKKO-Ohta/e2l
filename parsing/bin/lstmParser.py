@@ -69,7 +69,7 @@ class Parser(chainer.Chain):
             }
         return: minibatch his,buf,stk
         """
-        his,buf,stk = 0,0,0
+        hiss,bufs,stks = 0,0,0
         for train in trains:
             his, buf, stk = train[0], train[1], train[2]
             """
