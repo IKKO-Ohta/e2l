@@ -18,7 +18,7 @@ from loader import myLoader
 
 class Parser(chainer.Chain):
     def __init__(self):
-        self.raw_input_dim = 49109
+        self.raw_input_dim = 49110
         self.output_dim = 3
         self.action_len = 3
         self.w2vdim = 300
@@ -120,12 +120,15 @@ class Parser(chainer.Chain):
                     self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
                     self.embedActionId(np.asarray([elem[2]],dtype=np.int32))))
                     compose = self.U(edge)
+                    compose = F.relu(compose)
                 else:
                     edge = F.concat((
                         compose,
                         self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
                         self.embedActionId(np.asarray([elem[2]],dtype=np.int32))
                     ))
+                    compose = self.U(edge)
+                    compose = F.relu()
 
             stks = F.vstack([stks, compose]) if type(stks) != int else compose
 
@@ -144,9 +147,7 @@ class Parser(chainer.Chain):
             stk: {h,d,r}, {...}, {...}
             label: y0,y1,y2 ...
         """
-        # apply U,V
-        stk = self.U(stk)
-        stk = F.relu(stk)
+        # apply V
         buf = self.V(buf)
         buf = F.relu(buf)
 
@@ -168,8 +169,6 @@ class Parser(chainer.Chain):
 
 
     def pred(self, his, buf, stk):
-        stk = self.U(stk)
-        stk = F.relu(stk)
         buf = self.V(buf)
         buf = F.relu(buf)
         at = self.LA(his)
