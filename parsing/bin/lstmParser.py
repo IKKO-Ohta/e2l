@@ -115,10 +115,13 @@ class Parser(chainer.Chain):
             compose = 0
             for elem in stk[::-1]:
                 if type(compose) == int:
-                    edge = F.concat(
-                    (self.embedWordId(np.asarray([elem[0]],dtype=np.int32)),
-                    self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
-                    self.embedActionId(np.asarray([elem[2]],dtype=np.int32))))
+                    try:
+                        edge = F.concat(
+                        (self.embedWordId(np.asarray([elem[0]],dtype=np.int32)),
+                        self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
+                        self.embedActionId(np.asarray([elem[2]],dtype=np.int32))))
+                    except:
+                        import pdb; pdb.set_trace()
                     compose = self.U(edge)
                     compose = F.relu(compose)
                 else:
