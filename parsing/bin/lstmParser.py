@@ -18,7 +18,7 @@ from loader import myLoader
 
 class Parser(chainer.Chain):
     def __init__(self):
-        self.raw_input_dim = 49110
+        self.raw_input_dim = 49111
         self.output_dim = 3
         self.action_len = 3
         self.w2vdim = 300
