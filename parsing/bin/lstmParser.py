@@ -128,7 +128,7 @@ class Parser(chainer.Chain):
                         self.embedActionId(np.asarray([elem[2]],dtype=np.int32))
                     ))
                     compose = self.U(edge)
-                    compose = F.relu()
+                    compose = F.relu(compose)
 
             stks = F.vstack([stks, compose]) if type(stks) != int else compose
 
