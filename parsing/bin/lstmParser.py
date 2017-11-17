@@ -241,6 +241,7 @@ if __name__ == '__main__':
     optimizer.setup(model)
     model.reset_state()
     model.cleargrads()
+    model.to_gpu()
     print("loading..")
     hisTensor, bufTensor, stkTensor, testMat = composeTensor(loader,model)
     print("loaded!")
