@@ -69,24 +69,11 @@ class Parser(chainer.Chain):
             }
         return: minibatch his,buf,stk
         """
+        errorcnt = 0
         hiss,bufs,stks = 0,0,0
         for train in trains:
             his, buf, stk = train[0], train[1], train[2]
-            """
-            このあたりのassertはうまく処理を考える
-            無くてうまくいくならないほうがいい
 
-            # type assert
-            try:
-                assert(buf[1].dtype == np.float32)
-            except:
-                buf[1] = np.asarray(buf[1],dtype=np.float32)
-            try:
-                assert(stk[0].dtype == stk[1].dtype)
-            except:
-                stk[0] = np.asarray(stk[0],dtype=np.float32)
-                stk[1] = np.asarray(stk[1],dtype=np.float32)
-            """
             # his
             his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
             hiss = F.vstack([hiss,his]) if type(hiss) != int else his
@@ -114,6 +101,11 @@ class Parser(chainer.Chain):
             # stk
             compose = 0
             for elem in stk[::-1]:
+                """
+                elem = -1
+                のスカラーで回ってくることがある：
+                ../auto/preprocessed/13/wsj_1353_21_0000000.pkl周辺で発生
+                """
                 if type(compose) == int:
                     try:
                         edge = F.concat(
@@ -121,7 +113,14 @@ class Parser(chainer.Chain):
                         self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
                         self.embedActionId(np.asarray([elem[2]],dtype=np.int32))))
                     except:
-                        import pdb; pdb.set_trace()
+                        sys.stderr.write("---stk loading error---")
+                        sys.stderr.write("--- stk := [[-1,-1,-1]]")
+                        errorcnt += 1
+                        edge = F.concat(
+                        (self.embedWordId(np.asarray([-1],dtype=np.int32)),
+                        self.embedWordId(np.asarray([-1],dtype=np.int32)),
+                        self.embedActionId(np.asarray([-1],dtype=np.int32))))
+
                     compose = self.U(edge)
                     compose = F.relu(compose)
                 else:
