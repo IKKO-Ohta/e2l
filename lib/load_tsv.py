@@ -1,29 +1,31 @@
+import sys
 import pandas as pd
-import glob
-pd.set_option('display.float_format', lambda x: '%.3f' % x)
+def load_tsv(f,convert=True):
+    """
+    param:
+        f: YYYYMMDD
+        convert: 日付=>ファイル変換をするか。もしFalseにしたらfには直接パスを渡すこと
+    return:
+        ファイルパスのtsvを読み出し、カラムをつけてconcatしたもの
+        カラムは、["date","COMPANY","Open","High","Low","Close"]
+    """
+    def datetimeToFilepath(d):
+        return "../auto/dj39/"+d+".tsv"
 
-def MyLoad(file_pathes):
-    
-    def mydate(filepath):
-        s = filepath.split("/")[-1]
+    def mydate(file_path):
+        s = file_path.split("/")[-1]
         return s.replace(".tsv","")
 
-    for file_path in file_pathes:
-        if file_path == file_pathes[0]:
-            df = pd.read_csv(file_path,delimiter="\t",header=None,
-             columns=["COMPANY","Open","High","Low","Close"])
-            df["date"] = mydate(file_path)
-        else:
-            _df = pd.read_csv(file_path,delimiter="\t",header=None,
-             columns=["COMPANY","Open","High","Low","Close"])
-            _df["date"] = mydate(file_path)
+    if convert == True:
+        f = datetimeToFilepath(f)
 
-            df = pd.concat(df,_df,axis=1)
+    df = pd.read_csv(f,delimiter="\t",header=None,
+        names=["COMPANY","Open","High","Low","Close"])
+    df["date"] = mydate(f)
 
     df = df[["date","COMPANY","Open","High","Low","Close"]]
     df.reindex()
     return df
 
 if __name__ == '__main__':
-    file_pathes = glob.glob("../auto/dj39/*")
-    print(myload(file_pathes))
+    print(load_tsv(sys.argv[1]))
