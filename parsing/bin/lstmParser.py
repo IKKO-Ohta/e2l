@@ -119,7 +119,7 @@ class Parser(chainer.Chain):
                         edge = F.concat(
                         (self.embedWordId(np.asarray([-1],dtype=np.int32)),
                         self.embedWordId(np.asarray([-1],dtype=np.int32)),
-                        self.embedActionId(np.asarray([0ß],dtype=np.int32))))
+                        self.embedActionId(np.asarray([0],dtype=np.int32))))
 
                     compose = self.U(edge)
                     compose = F.relu(compose)
