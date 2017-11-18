@@ -114,12 +114,12 @@ class Parser(chainer.Chain):
                         self.embedActionId(np.asarray([elem[2]],dtype=np.int32))))
                     except:
                         sys.stderr.write("---stk loading error---")
-                        sys.stderr.write("--- stk := [[-1,-1,-1]]")
+                        sys.stderr.write("--- stk := [[-1,-1,0]]")
                         errorcnt += 1
                         edge = F.concat(
                         (self.embedWordId(np.asarray([-1],dtype=np.int32)),
                         self.embedWordId(np.asarray([-1],dtype=np.int32)),
-                        self.embedActionId(np.asarray([-1],dtype=np.int32))))
+                        self.embedActionId(np.asarray([0ß],dtype=np.int32))))
 
                     compose = self.U(edge)
                     compose = F.relu(compose)
