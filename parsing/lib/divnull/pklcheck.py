@@ -10,4 +10,4 @@ for pkl in pkls:
         if not 0 <= his <= 2:
             print("found..")
             print(pkl)
-            print(his,buf,stk)
+            print(his)
