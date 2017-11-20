@@ -1,7 +1,7 @@
 import pickle
 import glob
 
-pkls = glob.glob("../../auto/preprocessed/12/*.pkl")
+pkls = glob.glob("../../auto/preprocessed/13/*.pkl")
 for pklName in pkls:
     with open(pklName,"br") as f:
         pkl = pickle.load(f)

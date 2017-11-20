@@ -215,7 +215,7 @@ def oracle_load(oracle_path):
 
 if __name__ == '__main__':
     if len(sys.argv) == 1:
-        pathes = glob.glob("../auto/Penn_Oracle_split/13/*.oracle")
+        pathes = glob.glob("../auto/Penn_Oracle_split/*/*.oracle")
     else:
         pathes = glob.glob(sys.argv[1])
 
