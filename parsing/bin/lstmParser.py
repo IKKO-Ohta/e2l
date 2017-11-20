@@ -17,9 +17,11 @@ from chainer import optimizers
 sys.path.append('../lib/')
 from loader import myLoader
 
+"""
 gpu_device = 0
 cuda.get_device(gpu_device).use()
 xp = cuda.cupy
+"""
 
 class Parser(chainer.Chain):
     def __init__(self):
@@ -58,12 +60,12 @@ class Parser(chainer.Chain):
                     his: historyID INT,
                     buf: {
                         w, WordID INT
-                        wlm, pre-trained word2vec xp.ndarray(dtype=xp.float32)
+                        wlm, pre-trained word2vec np.ndarray(dtype=np.float32)
                         t, POS tag ID INT
                         },
                      stk:{
-                         h: HEAD pre-trained word2vec xp.ndarray(dtype=xp.float32)
-                         d: DEPENDENT pre-trained word2vec xp.ndarray(dtype=xp.float32)
+                         h: HEAD pre-trained word2vec np.ndarray(dtype=np.float32)
+                         d: DEPENDENT pre-trained word2vec np.ndarray(dtype=np.float32)
                          r: actionID tag INT
                         }
                 }
@@ -80,13 +82,13 @@ class Parser(chainer.Chain):
             his, buf, stk = train[0], train[1], train[2]
 
             # his
-            his = self.embedHistoryId(xp.asarray([his],dtype=xp.int32))
+            his = self.embedHistoryId(np.asarray([his],dtype=np.int32))
             hiss = F.vstack([hiss,his]) if type(hiss) != int else his
 
 
             # buf
             if buf == [-1,-1,-1]:
-                buf = xp.asarray([0 for i in range(self.bufDim)],dtype=xp.float32)
+                buf = np.asarray([0 for i in range(self.bufDim)],dtype=np.float32)
                 buf = Variable(buf).reshape(1,self.bufDim)
             else:
                 """
@@ -95,12 +97,12 @@ class Parser(chainer.Chain):
                 try:
                     embed = self.embedWordPreFix[buf[1]]
                 except:
-                    embed = xp.asarray([0 for i in range(300)],dtype=xp.float32)
+                    embed = np.asarray([0 for i in range(300)],dtype=np.float32)
 
                 buf = F.concat(
-                        (self.embedWordId(xp.asarray([buf[0]],dtype=xp.int32)),
+                        (self.embedWordId(np.asarray([buf[0]],dtype=np.int32)),
                         Variable(embed).reshape(1,300),
-                        self.embedPOSId(xp.asarray([buf[2]],dtype=xp.int32))))
+                        self.embedPOSId(np.asarray([buf[2]],dtype=np.int32))))
             bufs = F.vstack([bufs,buf]) if type(bufs) != int else buf
 
             # stk
@@ -114,25 +116,25 @@ class Parser(chainer.Chain):
                 if type(compose) == int:
                     try:
                         edge = F.concat(
-                        (self.embedWordId(xp.asarray([elem[0]],dtype=xp.int32)),
-                        self.embedWordId(xp.asarray([elem[1]],dtype=xp.int32)),
-                        self.embedActionId(xp.asarray([elem[2]],dtype=xp.int32))))
+                        (self.embedWordId(np.asarray([elem[0]],dtype=np.int32)),
+                        self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
+                        self.embedActionId(np.asarray([elem[2]],dtype=np.int32))))
                     except:
                         sys.stderr.write("---stk loading error---")
                         sys.stderr.write("--- stk := [[-1,-1,0]]")
                         errorcnt += 1
                         edge = F.concat(
-                        (self.embedWordId(xp.asarray([-1],dtype=xp.int32)),
-                        self.embedWordId(xp.asarray([-1],dtype=xp.int32)),
-                        self.embedActionId(xp.asarray([0],dtype=xp.int32))))
+                        (self.embedWordId(np.asarray([-1],dtype=np.int32)),
+                        self.embedWordId(np.asarray([-1],dtype=np.int32)),
+                        self.embedActionId(np.asarray([0],dtype=np.int32))))
 
                     compose = self.U(edge)
                     compose = F.relu(compose)
                 else:
                     edge = F.concat((
                         compose,
-                        self.embedWordId(xp.asarray([elem[1]],dtype=xp.int32)),
-                        self.embedActionId(xp.asarray([elem[2]],dtype=xp.int32))
+                        self.embedWordId(np.asarray([elem[1]],dtype=np.int32)),
+                        self.embedActionId(np.asarray([elem[2]],dtype=np.int32))
                     ))
                     compose = self.U(edge)
                     compose = F.relu(compose)
@@ -203,7 +205,7 @@ def composeMatrix(loader,model,test=False):
     trains = [sentence[i][0] for i in range(len(sentence))]
     labelVec = [sentence[i][1] for i in range(len(sentence))]
     hisMat, bufMat, stkMat = model.minibatchTrains(trains)
-    labelVec = Variable(xp.asarray(labelVec,dtype=xp.int32))
+    labelVec = Variable(np.asarray(labelVec,dtype=np.int32))
 
     return [hisMat,bufMat,stkMat,labelVec]
 
@@ -242,7 +244,7 @@ if __name__ == '__main__':
     optimizer.setup(model)
     model.reset_state()
     model.cleargrads()
-    model.to_gpu(gpu_device)
+    #model.to_gpu(gpu_device)
     """
     Main LOGIC
     """
