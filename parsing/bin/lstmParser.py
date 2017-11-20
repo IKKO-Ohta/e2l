@@ -248,7 +248,7 @@ if __name__ == '__main__':
         loader.set()
 
         while(1):
-            d = composeMatrix(loder,model)
+            d = composeMatrix(loader,model)
             if d:
                 hisMat, bufMat, stkMat, testVec = d[0],d[1],d[2],d[3]
                 loss = model(hisMat, bufMat, stkMat, testVec)
