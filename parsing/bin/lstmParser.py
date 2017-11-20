@@ -185,29 +185,22 @@ class Parser(chainer.Chain):
         h3 = self.G(h2)
         return F.argmax(h3, axis=1)
 
-def composeTensor(loader,model,test=False):
-    hisTensor,bufTensor,stkTensor,testMat = [],[],[],[]
-    while(1):
-        try:
-            if test == False:
-                sentence = loader.gen()
-            else:
-                sentence = loader.genTestSentence()
-        except IndexError:
-            print("---loader finished---")
-            break
+def composeMatrix(loader,model,test=False):
+    try:
+        if test == False:
+            sentence = loader.gen()
+        else:
+            sentence = loader.genTestSentence()
+    except IndexError:
+        print("---loader finished---")
+        return 0
 
-        trains = [sentence[i][0] for i in range(len(sentence))]
-        tests = [sentence[i][1] for i in range(len(sentence))]
-        hisMat, bufMat, stkMat = model.minibatchTrains(trains)
-        testVec = Variable(np.asarray(tests,dtype=np.int32))
+    trains = [sentence[i][0] for i in range(len(sentence))]
+    tests = [sentence[i][1] for i in range(len(sentence))]
+    hisMat, bufMat, stkMat = model.minibatchTrains(trains)
+    laveVec = Variable(np.asarray(labelVec,dtype=np.int32))
 
-        hisTensor.append(hisMat)
-        bufTensor.append(bufMat)
-        stkTensor.append(stkMat)
-        testMat.append(testVec)
-
-    return hisTensor, bufTensor, stkTensor, testMat
+    return [hisMat,bufMat,stkMat,labelVec]
 
 def backupModel(model,epoch,dirpath="../model/"):
     now = datetime.datetime.now()
@@ -216,16 +209,20 @@ def backupModel(model,epoch,dirpath="../model/"):
     return
 
 def evaluate(model, loader):
-    loader.testMode()
-    hisTensor, bufTensor, stkTensor, testMat = composeTensor(loader,model,test=True)
     correct, cnt = 0, 0
-    for hisMat, bufMat, stkMat, testVec in zip(hisTensor, bufTensor, stkTensor,testMat):
-        predcls = model.pred(hisMat,bufMat,stkMat)
-        for pred, test in zip(predcls, testVec):
-            if pred.data == test.data:
-                 correct += 1
-            cnt += 1
-        model.reset_state()
+    while(1):
+        d = composeMatrix(loader,model,test=True)
+        if d:
+            hisMat, bufMat, stkMat, testVec = d[0],d[1],d[2],d[3]
+            predcls = model.pred(hisMat,bufMat,stkMat)
+            for pred, test in zip(predcls, testVec):
+                if pred.data == test.data:
+                     correct += 1
+                cnt += 1
+            model.reset_state()
+        else:
+            break
+
     print("correct / cnt:", correct, "/", cnt)
     return
 
@@ -241,9 +238,6 @@ if __name__ == '__main__':
     model.reset_state()
     model.cleargrads()
     #model.to_gpu()
-    print("loading..")
-    hisTensor, bufTensor, stkTensor, testMat = composeTensor(loader,model)
-    print("loaded!")
 
     """
     Main LOGIC
@@ -251,15 +245,21 @@ if __name__ == '__main__':
     timecnt = 0
     for epoch in range(2):
         epochTimeStart = time.time()
-        for hisMat, bufMat, stkMat, testVec in zip(hisTensor, bufTensor, stkTensor,testMat):
-            loss = model(hisMat, bufMat, stkMat, testVec)
-            loss.backward()
-            optimizer.update()
-            model.reset_state()
+        loader.set()
 
-            timecnt += 1
-            if timecnt % 100 == 0:
-                print("■", end="")
+        while(1):
+            d = composeMatrix(loder,model)
+            if d:
+                hisMat, bufMat, stkMat, testVec = d[0],d[1],d[2],d[3]
+                loss = model(hisMat, bufMat, stkMat, testVec)
+                loss.backward()
+                optimizer.update()
+                model.reset_state()
+                timecnt += 1
+                if timecnt % 100 == 0:
+                    print("■", end="")
+            else:
+                break
 
         print("epoch",epoch,"finished..")
         print("epoch time:{0}".format(time.time()-epochTimeStart))
