@@ -253,6 +253,7 @@ if __name__ == '__main__':
                 hisMat, bufMat, stkMat, testVec = d[0],d[1],d[2],d[3]
                 loss = model(hisMat, bufMat, stkMat, testVec)
                 loss.backward()
+                print("---backward---")
                 optimizer.update()
                 model.reset_state()
                 timecnt += 1
