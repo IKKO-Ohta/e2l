@@ -196,7 +196,7 @@ def composeMatrix(loader,model,test=False):
         return 0
 
     trains = [sentence[i][0] for i in range(len(sentence))]
-    tests = [sentence[i][1] for i in range(len(sentence))]
+    labelVec = [sentence[i][1] for i in range(len(sentence))]
     hisMat, bufMat, stkMat = model.minibatchTrains(trains)
     laveVec = Variable(np.asarray(labelVec,dtype=np.int32))
 
