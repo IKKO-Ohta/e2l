@@ -1,7 +1,8 @@
 import pickle
 import glob
 
-pkls = glob.glob("../../auto/preprocessed/13/*.pkl")
+num = sys.argv[1]
+pkls = glob.glob("../../auto/preprocessed/{0}/*.pkl".format(num))
 for pklName in pkls:
     with open(pklName,"br") as f:
         pkl = pickle.load(f)
