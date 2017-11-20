@@ -2,7 +2,7 @@ import pickle
 import sys
 import glob
 
-for num in range(10,24):
+for num in range(0,24):
     pkls = glob.glob("../../auto/preprocessed/{0}/*.pkl".format(num))
     for pklName in pkls:
         with open(pklName,"br") as f:
