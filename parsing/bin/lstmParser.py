@@ -19,7 +19,6 @@ from loader import myLoader
 
 gpu_device = 0
 cuda.get_device(gpu_device).use()
-model.to_gpu(gpu_device)
 xp = cuda.cupy
 
 class Parser(chainer.Chain):
@@ -243,9 +242,7 @@ if __name__ == '__main__':
     optimizer.setup(model)
     model.reset_state()
     model.cleargrads()
-
-
-
+    model.to_gpu(gpu_device)
     """
     Main LOGIC
     """
