@@ -10,7 +10,7 @@ def load_article(file_path,convert=True):
     result = []
     with open(file_path) as f:
         for line in f:
-            line = line.rstrip()
+            #line = line.rstrip()
             result.append(line)
     return result
 
