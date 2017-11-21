@@ -217,12 +217,15 @@ def backupModel(model,epoch,dirpath="../model/"):
 
 def evaluate(model, loader):
     correct, cnt = 0, 0
+    predList,goldList = [],[]
     while(1):
         d = composeMatrix(loader,model,test=True)
         if d:
             hisMat, bufMat, stkMat, testVec = d[0],d[1],d[2],d[3]
             predcls = model.pred(hisMat,bufMat,stkMat)
             for pred, test in zip(predcls, testVec):
+                predList.append(pred)
+                goldList.append(test)
                 if pred.data == test.data:
                      correct += 1
                 cnt += 1
@@ -231,7 +234,7 @@ def evaluate(model, loader):
             break
 
     print("correct / cnt:", correct, "/", cnt)
-    return
+    return np.asarray(predList,dtype=np.int32),np.asarray(goldList,dtype=np.int32)
 
 if __name__ == '__main__':
     """
