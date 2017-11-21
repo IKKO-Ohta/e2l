@@ -1,11 +1,17 @@
 import sys
-
+import os
 def load_article(file_path,convert=True):
     def datetimeToFilepath(d):
-        return "../auto/djnml_daily_headline/"+d+".txt"
+        path = "../auto/djnml_daily_headline_splited/"+d+".txt"
+        if os.path.exists(path):
+            return path
+        else:
+            return ""
 
     if convert == True:
         file_path = datetimeToFilepath(file_path)
+        if file_path == "": return 0
+
 
     result = []
     with open(file_path) as f:

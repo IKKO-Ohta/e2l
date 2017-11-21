@@ -1,6 +1,7 @@
 import sys
+import os
 import pandas as pd
-def load_tsv(f,convert=True):
+def load_tsv(f,convert=True,feature=False):
     """
     param:
         f: YYYYMMDD
@@ -10,7 +11,11 @@ def load_tsv(f,convert=True):
         カラムは、["date","COMPANY","Open","High","Low","Close"]
     """
     def datetimeToFilepath(d):
-        return "../auto/dj39/"+d+".tsv"
+        path = "../auto/dj39/"+d+".tsv"
+        if os.path.exists(path):
+            return path
+        else:
+            return ""
 
     def mydate(file_path):
         s = file_path.split("/")[-1]
@@ -18,6 +23,7 @@ def load_tsv(f,convert=True):
 
     if convert == True:
         f = datetimeToFilepath(f)
+        if f == "": return 0
 
     df = pd.read_csv(f,delimiter="\t",header=None,
         names=["COMPANY","Open","High","Low","Close"])
@@ -25,7 +31,10 @@ def load_tsv(f,convert=True):
 
     df = df[["date","COMPANY","Open","High","Low","Close"]]
     df.reindex()
-    return df
+    if feature == False:
+        return df
+    else:
+        return df[["Open","High","Low","Close"]]
 
 if __name__ == '__main__':
     print(load_tsv(sys.argv[1]))
