@@ -12,6 +12,7 @@ def buildVocab(filePathes):
                     if not elem in vocab:
                         vocab[elem] = Id
                         Id += 1
+    vocab["<EOS>"] = Id + 1 
     return vocab
 
 if __name__ == '__main__':

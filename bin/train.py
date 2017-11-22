@@ -7,19 +7,20 @@ import pandas as pd
 sys.path.append("../lib")
 from load_article import load_article
 from load_tsv import load_tsv
+from build import Builder
 
-def build(start,end):
+def build(start,end,builder):
     x,y = [],[]
     aDay = copy(start)
     while(1):
-        if aDay == END:
+        if aDay == end:
             break
-        strDate = aDay.strftime("%Y%m%d")
-        value = load_tsv(strDate,feature=True)
-        article = load_article(strDate)
-        if article != int and type(value) != int:
-            x.append(value)
-            y.append(article)
+
+        x_s = builder.buildSmallX(aDay)
+        x_l = builder.buildLargeX(aDay)
+        y_i = load_article(strDate)
+        x.append([x_s,x_s,x_l,x_l])
+        y.append(y_i)
         aDay = aDay + dt.timedelta(days=1)
 
     return x,y
@@ -27,8 +28,7 @@ def build(start,end):
 if __name__ == '__main__':
     START = dt.date(2012,7,2)
     END   = dt.date(2014,12,31)
+    builder = Builder()
+    X,Y = build(START,END,builder)
 
-
-    X,Y = build(START,END)
-
-    assert(len(articles) == len(dj))
+    assert(len(X) == len(Y))

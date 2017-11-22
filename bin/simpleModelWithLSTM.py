@@ -16,8 +16,9 @@ from chainer import optimizers
 
 class simpleModelWithLSTM(chainer.Chain):
     def __init__(self):
-        self.raw_input_dim = 27220
+        self.raw_input_dim = 27221
         self.midOne = 100
+        self.midTwo = 50
         super(Parser, self).__init__(
             embedWordId = L.EmbedID(self.raw_input_dim, self.midOne),
             L = L.LSTM(self.midOne, self.midTwo),  # for the subtree
@@ -26,11 +27,12 @@ class simpleModelWithLSTM(chainer.Chain):
         """
         param: x,y
         return: loss
-        この部分の実装は後で調べておく
+        ACL2017を参考にする
         """
         while(1):
-        x = self.L(x)
-        x = F.relu(x)
+            x = self.L(x)
+            x = F.relu(x)
+            x = self.L1(x)
 
         # loss = loss(x,y)
         return loss
