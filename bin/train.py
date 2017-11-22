@@ -1,3 +1,16 @@
+"""
+train.pyは次のプログラムを起動して、if mainの[START:END]の範囲の素性を
+できる限り集めます。
+ - lib/build.py
+    - lib/load_article.py
+    - lib/load_tsv.py
+    - lib/pkl/[*].pkl ... word2idの辞書
+モデルファイルは別立てで用意し、backword()する予定です。
+ - bin/simpleModelWithLSTM.py ... 1層LSTMによる生成(書きかけ)
+ - bin/MurakamiLSTM.py ... (Murakami,ACL2017の再実装 ...の予定)
+ - bin/RNNG.py ... (Proposal Method ...の予定)
+"""
+
 import glob
 import sys
 import datetime as dt
@@ -8,6 +21,7 @@ sys.path.append("../lib")
 from load_article import load_article
 from load_tsv import load_tsv
 from build import Builder
+
 
 def build(start,end,builder):
     x,y = [],[]
