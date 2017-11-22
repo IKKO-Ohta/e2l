@@ -34,4 +34,4 @@ if __name__ == '__main__':
     print(X)
     print("---label---")
     print(Y)
-    print("---学習---")
+    print("---build!---")
