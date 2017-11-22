@@ -29,5 +29,9 @@ if __name__ == '__main__':
     END   = dt.date(2014,12,31)
     builder = Builder()
     X,Y = build(START,END,builder)
-
     assert(len(X) == len(Y))
+    print("----feature---")
+    print(X)
+    print("---label---")
+    print(Y)
+    print("---学習---")
