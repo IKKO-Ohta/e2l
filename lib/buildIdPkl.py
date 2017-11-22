@@ -7,12 +7,12 @@ def buildVocab(filePathes):
     for filePath in filePathes:
         with open(filePath) as f:
             for line in f:
-                line = line.replace(".\n","").split(" ")
+                line = line.replace(".\n","").replace("\n","").split(" ")
                 for elem in line:
                     if not elem in vocab:
                         vocab[elem] = Id
                         Id += 1
-    vocab["<EOS>"] = Id + 1 
+    vocab["<EOS>"] = Id + 1
     return vocab
 
 if __name__ == '__main__':
@@ -23,3 +23,4 @@ if __name__ == '__main__':
         pickle.dump(word2id,f)
     with open("pkls/id2word.pkl","wb") as f:
         pickle.dump(id2word,f)
+    print("Generated! pkl_len: ",len(word2id))

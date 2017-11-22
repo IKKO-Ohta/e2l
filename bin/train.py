@@ -1,9 +1,9 @@
 import glob
 import sys
 import datetime as dt
-from copy import copy
 import numpy as np
 import pandas as pd
+from copy import copy
 sys.path.append("../lib")
 from load_article import load_article
 from load_tsv import load_tsv
@@ -15,14 +15,13 @@ def build(start,end,builder):
     while(1):
         if aDay == end:
             break
-
         x_s = builder.buildSmallX(aDay)
         x_l = builder.buildLargeX(aDay)
-        y_i = load_article(strDate)
-        x.append([x_s,x_s,x_l,x_l])
-        y.append(y_i)
+        y_i = builder.buildY(aDay)
+        if type(x_s) != int and type(x_l) != int and type(y_i) != int:
+            x.append([x_s,x_s,x_l,x_l])
+            y.append(y_i)
         aDay = aDay + dt.timedelta(days=1)
-
     return x,y
 
 if __name__ == '__main__':

@@ -16,7 +16,7 @@ from chainer import optimizers
 
 class simpleModelWithLSTM(chainer.Chain):
     def __init__(self):
-        self.raw_input_dim = 27221
+        self.raw_input_dim = 26885
         self.midOne = 100
         self.midTwo = 50
         super(Parser, self).__init__(
@@ -33,6 +33,5 @@ class simpleModelWithLSTM(chainer.Chain):
             x = self.L(x)
             x = F.relu(x)
             x = self.L1(x)
-
         # loss = loss(x,y)
         return loss
