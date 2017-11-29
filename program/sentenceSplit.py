@@ -13,7 +13,7 @@ def mysplit(filePath,tk):
     targetPath = "../data/auto/djnml_daily_headline_splited/" + fileName
     with open(targetPath,"w") as f:
         for line in result:
-            line = line + "\n" if line != "." else "\n"
+            line = line + "\n" if len(line) > 3  else "\n"
             f.write(line)
     return
 
