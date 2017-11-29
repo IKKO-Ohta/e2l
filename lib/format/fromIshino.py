@@ -14,7 +14,7 @@ def solve(path):
             if flag:
                 line = line[2:]
                 result.append(line)
-    fileName = filePath.split(".")[-1].replace(".txt","")
+    fileName = filePath.split("/")[-1].replace(".txt","")
     with open("../../auto/article_part_body/"+fileName+".txt","w") as f:
         for res in result:
             f.write(res)
