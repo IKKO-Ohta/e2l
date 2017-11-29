@@ -18,7 +18,7 @@ def mysplit(filePath,tk):
     return
 
 if __name__ == '__main__':
-    filesPath = glob.glob("../auto/article_part/*.txt")
+    filesPath = glob.glob("../auto/article_part_body/*.txt")
     tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
     for filePath in filesPath:
         print("split: ",filePath)
