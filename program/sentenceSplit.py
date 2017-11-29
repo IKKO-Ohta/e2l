@@ -10,7 +10,7 @@ def mysplit(filePath,tk):
         txt = f.read()
     result = tk.tokenize(txt)
     fileName = filePath.split("/")[-1]
-    targetPath = "../auto/djnml_daily_headline_splited/" + fileName
+    targetPath = "../data/auto/djnml_daily_headline_splited/" + fileName
     with open(targetPath,"w") as f:
         for line in result:
             line = line + "\n" if line != "." else "\n"
