@@ -7,11 +7,12 @@ def solve(path):
         for line in f:
             if "<text>" in line:
                 flag = True
+                continue
             elif "</text>" in line:
                 flag = False
 
             if flag:
-                line = line[1:]
+                line = line[2:]
                 result.append(line)
     fileName = filePath.split(".")[-1].replace(".txt","")
     with open("../../auto/article_part_body/"+fileName+".txt","w") as f:
