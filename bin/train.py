@@ -10,18 +10,19 @@ train.pyは次のプログラムを起動して、if mainの[START:END]の範囲
  - bin/MurakamiLSTM.py ... (Murakami,ACL2017の再実装 ...の予定)
  - bin/RNNG.py ... (Proposal Method ...の予定)
 """
-
 import glob
 import sys
 import datetime as dt
+from copy import copy
 import numpy as np
 import pandas as pd
-from copy import copy
+from chainer import Variable
+import chainer.functions as F
+import chainer.links as L
 sys.path.append("../lib")
 from load_article import load_article
 from load_tsv import load_tsv
 from build import Builder
-
 
 def build(start,end,builder):
     x,y = [],[]
