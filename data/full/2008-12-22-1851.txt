@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+the blue-chip declines were led by general motors corp. gm <COMMA> shares of which surrendered <NUM> percent <PUNC>
+the dow industrials closed at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <COMMA> to finish the week down <NUM> percent <PUNC>
+<PAR>

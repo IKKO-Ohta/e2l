@@ -1,0 +1,8 @@
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+mcdonald s mcd shares fell <NUM> percent after the fast-food restaurant chain said global comparable sales fell <NUM> percent in august and blamed several headwinds for the decline <PUNC>
+the company warned that problems with a supplier in china will hurt third-quarter results <PUNC>
+also read <PUNC> the secret to a long life <PUNC>
+fast food <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+at the close <COMMA> the dow jones industrial average dji stood at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
+the nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> extending its winning run into an 11th day <PUNC>
+the s&p <NUM> index spx fell less than one point to <NUM> <COMMA> after running as high as <NUM> earlier on <COMMA> its highest level so far this year <PUNC>
+<PAR>

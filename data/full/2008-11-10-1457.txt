@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> in early action <PUNC>
+u.s. stocks had ended with strong gains on friday as investors looked past a report showing <NUM> jobs lost in october and big quarterly losses at general motors corp. gm and ford motor co. f <PUNC>
+but over the course of last week <COMMA> the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq composite each lost about <NUM> percent <PUNC>
+mcdonald corp. s mcd reported another month of strong monthly sales <COMMA> and after the close <COMMA> starbucks sbux is due to report quarterly results <PUNC>
+<PAR>

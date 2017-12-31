@@ -1,0 +1,9 @@
+u.s. stocks declined on wednesday <COMMA> with the dow jones industrial average retreating from the prior day s record close <COMMA> amid mixed earnings and rising borrowing costs <PUNC>
+the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+it had started higher after tuesday s record close <COMMA> its 28th so far this year <PUNC>
+caterpillar inc. cat shares fell <NUM> percent after the maker of construction and mining equipment reported a drop in second-quarter profit and lowered its full-year outlook <PUNC>
+at&t inc. t also weighed on the blue-chip index <COMMA> its shares off <NUM> percent <COMMA> after the telecommunications company reported second-quarter profit slipped <NUM> percent <PUNC>
+boeing co. ba shares erased gains to end down <NUM> percent <PUNC>
+the aerospace and defense giant reported higher profit and raised its full-year forecast <PUNC>
+boeing ceo jim mcnerney said on a conference call the company had not yet borne the brunt of the impact from the sequestration spending cuts on its earnings <PUNC>
+<PAR>

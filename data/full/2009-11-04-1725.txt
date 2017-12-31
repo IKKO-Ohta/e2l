@@ -1,0 +1,8 @@
+stocks were also taking their cues off the dollar <COMMA> which has been weakening against the euro since the opening bell.at last check <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the standard & poor s <NUM> index spx climbed <NUM> percent <PUNC>
+the technology-heavy nasdaq composite index rixf rose <NUM> percent <PUNC>
+merck mrk led the dow gainers <COMMA> surging <NUM> percent after it predicted annual earnings growth in the high-single digits on a percentage basis until <NUM> <PUNC>
+shares of walt disney dis was up <NUM> percent after the company got the go-ahead from china s central government to pursue plans to build a theme park in shanghai <PUNC>
+kraft foods kft was the only component in the red <COMMA> down <NUM> percent after reporting weaker-than-expected third-quarter sales and lowering its outlook for sales growth this year <PUNC>
+also helping blue chips has been the dollar s precipitous slide <PUNC>
+<PAR>

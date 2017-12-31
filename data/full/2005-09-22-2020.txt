@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+within the dow industrials <COMMA> caterpillar inc. cat tacked on <NUM> cents to dollar <NUM> as a potential cleanup of the area hit by rita saw some investors predicting higher orders for the company s industrial equipment and machinery <PUNC>
+similarly home depot hd rose <NUM> percent to dollar <NUM> amid expectations the home improvement retailer would also benefit from reconstruction in the region <PUNC>
+mcdonald s corp. shares mcd rose <NUM> percent to dollar <NUM> <COMMA> buoyed by a slew of product announcements <PUNC>
+wal-mart stores inc. wmt rose <NUM> percent to dollar <NUM> <COMMA> erasing much of its prior-session losses sparked by a trade association suggesting retail sales in the holiday season will be not be as strong as last year <PUNC>
+<PAR>

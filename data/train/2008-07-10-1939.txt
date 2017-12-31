@@ -1,0 +1,8 @@
+up and down throughout the morning <COMMA> the dow jones industrial average dji churned higher with the final hour of trade underway <COMMA> rising <NUM> points to <NUM> <PUNC>
+of the blue-chip index s <NUM> components <COMMA> <NUM> were trading higher <COMMA> led by aluminum producer alcoa inc. aa <COMMA> recently up <NUM> percent on news the aluminum company of china and <NUM> other companies signed an agreement to cut output by five to <NUM> percent <COMMA> said frederick ruffy <COMMA> options strategist at whatstrading.com <PUNC>
+consumer discretionary fronted declines among the s&p s <NUM> industry groups <COMMA> recently down <NUM> percent <PUNC>
+nordstrom inc. jwn led the declines among retailers <COMMA> down <NUM> percent <COMMA> followed by general motors corp. gm <COMMA> which lost <NUM> percent <COMMA> weighing down the dow <PUNC>
+wal-mart stores inc. wmt tilted higher after exceeding expectations in offering sales results for june <PUNC>
+<PAR>
+somewhat brighter news thursday had retailers <COMMA> led by wal-mart stores inc. wmt <COMMA> largely exceeding expectations in offering sales results for june <PUNC>
+<PAR>

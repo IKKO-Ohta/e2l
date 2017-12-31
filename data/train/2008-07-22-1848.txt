@@ -1,0 +1,7 @@
+the dow jones industrial average dji was recently up <NUM> points to stand at <NUM> <COMMA> with <NUM> of its <NUM> components in the green <PUNC>
+the blue-chip index s gains and losses were fronted by financials <COMMA> with the former led by bank of america corp. bac <COMMA> up <NUM> percent <COMMA> while american express co. axp <COMMA> off <NUM> percent <COMMA> after the credit card firm said it would not meet earnings targets until the economy improves <PUNC>
+du pont de nemours & co. dd rose <NUM> percent after the chemical giant reported a <NUM> percent rise in second-quarter net income <COMMA> while raising its profit outlook for the year <PUNC>
+<PAR>
+merck & co. inc. mrk weighed on the dow for a second day <COMMA> falling <NUM> percent after the drug giant reported a modest earnings rise on what amounted to flat sales <PUNC>
+on monday <COMMA> u.s. stock indexes sustained minor losses after better-than-expected quarterly earnings from bank of america corp. bac offset losses in the technology <COMMA> pharmaceutical and consumer discretionary sectors <PUNC>
+<PAR>

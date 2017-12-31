@@ -1,0 +1,11 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+general electric co. ge helped lift the blue-chip average <COMMA> rising <NUM> percent after the wall street journal reported that the conglomerate is seeking bids for its plastics unit <PUNC>
+investors will also wait for the fourth-quarter earnings season to kick off after the close of trading tuesday <COMMA> with alcoa s aa latest results <PUNC>
+the report will be scrutinized for clues about the severity of the manufacturing slowdown <PUNC>
+alcoa was last down <NUM> percent <PUNC>
+exxon mobil corp. xom was among the few blue-chips falling in the early goings <COMMA> losing <NUM> percent as crude oil prices continued to tumble <PUNC>
+apple aapl was rising <NUM> percent after the wall street journal said the company could announce as early as tuesday that cingular wireless <COMMA> a division of at&t t <COMMA> will provide service for a phone based on the ipod <PUNC>
+at&t <COMMA> another dow component <COMMA> was also up <NUM> percent <PUNC>
+verizon communications vz shares were rising <NUM> percent after venezuelan president hugo chavez said he will nationalize the country s largest telecoms company <COMMA> compania anonima nacional telefonos de venezuela vnt <PUNC>
+verizon vz and spain s telefonica tef both own stakes in the company <PUNC>
+<PAR>

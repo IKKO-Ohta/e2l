@@ -1,0 +1,4 @@
+the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> while the nasdaq composite index rixf dropped <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> and the s&p <NUM> index spx slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+alcoa inc. aa <COMMA> general motors corp. gm <COMMA> pfizer inc. pfe and walt disney co. dis weighed heaviest on the dow <COMMA> but the blue-chip gauge s losses were tempered by a <NUM> percent spike in exxon mobil xom and a <NUM> percent advance in boeing <PUNC>
+boeing ba made a late-day move higher after announcing plans to buy back <NUM> million shares <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
+in the first quarter <COMMA> ended friday <COMMA> the nasdaq composite rose <NUM> percent <COMMA> while the dow jones industrials and the s&p <NUM> both advanced <NUM> percent <PUNC>
+<PAR>

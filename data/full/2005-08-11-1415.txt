@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> and the s&p <NUM> spx up <NUM> points at <NUM> <PUNC>
+intel intc was down <NUM> at dollar <NUM> after the goldman sachs downgrade <PUNC>
+the brokerage said the company s margins are near peak levels <PUNC>
+alcoa aa rose <NUM> percent to dollar <NUM> after receiving an upgrade to buy from neutral at ubs <PUNC>
+the broker raised its aluminum forecast <COMMA> citing strong energy prices <COMMA> potential chinese taxation and secular demand trends <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+up more than <NUM> points earlier <COMMA> the dow jones industrial average dji was recently down <NUM> points to <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> fell <COMMA> with financials fronting the declines <PUNC>
+also <COMMA> yahoo inc. yhoo gained <NUM> percent <PUNC>
+the online giant <COMMA> facing a hostile takeover attempt by microsoft corp. msft <COMMA> extended its deadline for nominating directors to its board <PUNC>
+<PAR>

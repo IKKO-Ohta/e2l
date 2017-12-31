@@ -1,0 +1,7 @@
+the dow jones industrial average dji closed down <NUM> points at <NUM> <PUNC>
+the dow ended the week down <NUM> percent <PUNC>
+the nasdaq composite absorbed a weekly loss of <NUM> percent <COMMA> while the s&p <NUM> took a five-day loss of <NUM> percent <PUNC>
+ahead of the bell <COMMA> robert rubin <COMMA> a senior citigroup inc. c executive <COMMA> resigned from the automaker s board of directors <COMMA> on which he had served since <NUM> <PUNC>
+citigroup s multi-faceted relationship with ford could raise a question whether my relationship with ford and citigroup creates an appearance of conflict <COMMA> rubin said in his resignation letter <PUNC>
+shares of blue chip home depot inc. hd rose <NUM> cents to close at dollar <NUM> <PUNC>
+<PAR>

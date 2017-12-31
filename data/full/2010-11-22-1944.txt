@@ -1,0 +1,7 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early afternoon trading <COMMA> creeping back into positive territory for the month <PUNC>
+the dow is up about <NUM> percent for november <PUNC>
+all but four of the dow s <NUM> components were down <COMMA> led by bank of america bac <COMMA> off <NUM> percent <COMMA> and j.p. morgan chase jpm <COMMA> down <NUM> percent <PUNC>
+oil giants exxon mobil xom and chevron cv also were weak <COMMA> but pared some of their losses as oil climbed back above dollar <NUM> a barrel <PUNC>
+exxon was recently off <NUM> percent <COMMA> while chevron fell <NUM> percent <PUNC>
+hewlett-packard hpq was the measure s top performer <COMMA> rising <NUM> percent ahead of the company s quarterly earnings report <COMMA> due after the close <PUNC>
+<PAR>

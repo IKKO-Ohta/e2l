@@ -1,0 +1,5 @@
+erasing opening losses <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+shares of hewlett-packard co. hpq fell more than <NUM> percent <PUNC>
+microsoft corp. msft fell <NUM> percent after shares of the software maker were downgraded to sell from neutral by goldman sachs group inc. in reaction to the idc data <PUNC>
+wall street rose for a third straight day on wednesday <COMMA> with both the dow industrials and the s&p <NUM> index marking their best sessions in six weeks <PUNC>
+<PAR>

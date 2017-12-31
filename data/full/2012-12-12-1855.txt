@@ -1,0 +1,5 @@
+u.s. stocks on wednesday jumped to session highs <COMMA> with the dow in position to extend its longest win streak in eight months <COMMA> after the federal reserve added more stimulus <PUNC>
+up about <NUM> points ahead of the fed s decision <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but three of its <NUM> components rising <PUNC>
+among individual stock movers <COMMA> shares of dupont dd rose <NUM> percent <COMMA> making the company one of the top gainers in the dow <PUNC>
+the firm announced late tuesday a dollar <NUM> billion share buyback <PUNC>
+<PAR>

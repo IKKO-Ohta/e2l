@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
+gm gm said it is offering buyouts to <NUM> united auto workers members in the u.s. to cut costs <COMMA> and reported losses of dollar <NUM> billion last year <COMMA> its biggest yearly decline <PUNC>
+formal announcement of the plan involving jpmorgan chase jpm <COMMA> citigroup inc. c <COMMA> bank of america corp. bac <COMMA> washington mutual inc. wm <COMMA> wells fargo wfc <COMMA> and countrywide financial corp. cfc is scheduled for 11:15 am <PUNC>
+eastern <PUNC>
+<PAR>

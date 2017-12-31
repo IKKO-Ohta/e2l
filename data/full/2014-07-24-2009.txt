@@ -1,0 +1,5 @@
+the s&p <NUM> spx closed less than a point higher at <NUM> <COMMA> after setting a fresh intraday record <PUNC>
+the dow jones industrial average dji finished off <NUM> points at <NUM> <PUNC>
+the nasdaq composite rixf ended the day <NUM> points lower at <NUM> <PUNC>
+caterpillar inc. cat shares dropped <NUM> percent after the maker of manufacturing equipment said sales fell short of expectations in the second quarter <COMMA> but the company raised its earnings outlook again <PUNC>
+<PAR>

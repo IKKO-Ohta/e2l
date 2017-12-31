@@ -1,0 +1,3 @@
+mostly housing data <COMMA> apple inc. s aapl iphone <NUM> release and big moves in oil grabbed the spotlight in the past week <PUNC>
+the dow jones industrial average dji and nasdaq composite index rixf each lost <NUM> percent from a week earlier <COMMA> while the s&p <NUM> index spx lost <NUM> percent <PUNC>
+<PAR>

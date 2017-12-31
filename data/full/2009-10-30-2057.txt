@@ -1,0 +1,6 @@
+early in the current reporting season <COMMA> companies including blue chips intel corp. intc and johnson & johnson jnj reported terrific results in large measure because of increased demand from emerging markets <COMMA> said dickson <PUNC>
+dickson also lists ibm ibm <COMMA> general electric co. ge and google inc. goog <COMMA> and alcoa inc. aa as among the beneficiaries of the trend <PUNC>
+companies with large financing operations in southeast asia have also reported gains from their international exposure <COMMA> including bank of america corp. bac <COMMA> citigroup inc. c <COMMA> j.p. morgan chase jpm and goldman sachs group inc. gs <COMMA> said dickson <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> leaving it off <NUM> percent for the week and effectively flat for october <PUNC>
+the hit was the worst single-day point drop for the blue chips since april <NUM> <PUNC>
+<PAR>

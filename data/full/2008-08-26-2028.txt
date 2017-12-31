@@ -1,0 +1,5 @@
+after traveling between positive and negative turf <COMMA> the dow jones industrial average dji finished <NUM> points higher <COMMA> at <NUM> <PUNC>
+of the blue-chip index s <NUM> components <COMMA> <NUM> finished ahead <COMMA> with american international group inc. aig fronting gains for a second straight day <PUNC>
+the initial look at the still-to-be completed month had the u.s. consumer services index climbing the most <COMMA> posting a <NUM> percent gain <COMMA> while the dow jones u.s <PUNC>
+basic materials index lost the most <COMMA> falling <NUM> percent in august <COMMA> dow jones indexes said <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+stocks sold off last week as oil topped dollar <NUM> <COMMA> putting the dow industrials on track for its worst month of june since the great depression and bringing it within a hair of entering bear-market territory <COMMA> or a <NUM> percent decline from its <NUM> highs <PUNC>
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components <COMMA> in positive territory <PUNC>
+<PAR>

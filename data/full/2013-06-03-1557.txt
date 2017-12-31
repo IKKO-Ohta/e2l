@@ -1,0 +1,4 @@
+after falling nearly <NUM> points and rising <NUM> <COMMA> the dow jones industrial average was lately up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in the green <PUNC>
+on friday <COMMA> the dow jones industrial average ended down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> its steepest drop since mid-april <PUNC>
+in may <COMMA> the dow rose <NUM> percent <COMMA> the s&p added <NUM> percent and the nasdaq composite rose <NUM> percent <PUNC>
+<PAR>

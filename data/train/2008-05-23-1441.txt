@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+general motors gm fell the hardest among blue chips <COMMA> losing <NUM> percent <COMMA> followed by those of home-improvement retailer home depot hd <PUNC>
+the dow s financial components <COMMA> aig aig <COMMA> american express axp <COMMA> citigroup c and jp morgan chase jpm were also under pressure <PUNC>
+u.s. stocks ended higher thursday <COMMA> breaking a string of two days of heavy losses <COMMA> as crude futures lost ground <PUNC>
+the dow industrials finished <NUM> points higher <COMMA> the nasdaq composite rose <NUM> points and the s&p <NUM> added <NUM> points <PUNC>
+<PAR>

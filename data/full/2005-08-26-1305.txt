@@ -1,0 +1,8 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+shares in merck & co mrk tacked on <NUM> percent to dollar <NUM> in thin pre-market trading on instinet on a wall street journal report it may consider settling some of the <NUM> legal cases that have surfaced since the drug giant withdrew its vioxx painkiller because of health risks <PUNC>
+hewlett-packard co. hpq shares could get a boost out of the gate after it said late thursday it would allocate another dollar <NUM> billion to buy back the technology giant s common stock <PUNC>
+the stock ended thursday s session <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
+in a note to clients <COMMA> merrill lynch analysts said some investors may be disappointed with organic growth at the agency <COMMA> but they should take heart from raised margin targets <PUNC>
+wpp counts samsung corp <COMMA> unilever plc and procter & gamble pg among its roster of clients <PUNC>
+on thursday <COMMA> the stock slipped <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

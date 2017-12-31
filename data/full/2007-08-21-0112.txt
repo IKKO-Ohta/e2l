@@ -1,0 +1,7 @@
+solidly lower at mid-day <COMMA> the dow jones industrial average dji reversed course to close <NUM> points up at <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> ended ahead <COMMA> led by alcoa inc. aa <COMMA> which was up <NUM> percent <COMMA> and honeywell international inc. hon <COMMA> which climbed <NUM> percent <PUNC>
+decliners included j.p. morgan chase jpm <COMMA> which fell <NUM> percent <COMMA> and hewlett-packard co. hpq <COMMA> which was off <NUM> percent <PUNC>
+another dow component <COMMA> american express co. axp <COMMA> fell almost <NUM> percent with declines in the financial sector illustrating hesitancy on the part of buyers since the embattled group led friday s fed-fueled relief rally <PUNC>
+the fed moved to reassure investors friday by cutting its discount rate <COMMA> the interest in charges on its loans to banks <COMMA> by a half-point to <NUM> percent <COMMA> and said it stands ready to do more <PUNC>
+u.s. stocks jumped in response <COMMA> with the dow industrials climbing <NUM> points <COMMA> the nasdaq composite up <NUM> points and the s&p <NUM> adding <NUM> points <PUNC>
+<PAR>

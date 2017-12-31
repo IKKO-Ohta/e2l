@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components falling <COMMA> with financial shares leading the blue-chip declines <PUNC>
+american international group inc. aig fell <NUM> percent <COMMA> while jpmorgan chase jpm declined <NUM> percent <PUNC>
+dow gains were led by at&t inc. t <COMMA> up <NUM> percent <PUNC>
+shares of boeing co. ba were edging lower <COMMA> off <NUM> percent <PUNC>
+<PAR>

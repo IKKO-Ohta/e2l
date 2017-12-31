@@ -1,0 +1,3 @@
+u.s. stocks on tuesday celebrated the start of a new quarter <COMMA> rallying as lehman brothers holdings inc. s equity offer drew a warm reception <COMMA> fueling the dow to its 8th-biggest point jump ever <PUNC>
+the dow industrials climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all <NUM> components ending higher <COMMA> with shares of citigroup inc. c leading the way <COMMA> up <NUM> percent <PUNC>
+<PAR>

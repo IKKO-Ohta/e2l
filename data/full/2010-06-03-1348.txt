@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
+caterpillar led the measure s gains <COMMA> rising <NUM> percent <PUNC>
+exxon mobil xom also rose <NUM> percent as oil-priced edged up <PUNC>
+united technologies gained <NUM> percent <PUNC>
+<PAR>

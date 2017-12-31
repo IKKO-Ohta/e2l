@@ -1,0 +1,4 @@
+on wednesday <COMMA> stocks pulled modestly higher after the market received better-than-expected news on the housing front <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx gained <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf climbed <NUM> points to <NUM> <PUNC>
+<PAR>

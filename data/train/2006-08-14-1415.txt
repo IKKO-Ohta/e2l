@@ -1,0 +1,4 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+ford motor co. f rallied <NUM> percent to dollar <NUM> after bear stearns upgraded the company to an outperform from an underperform rating <COMMA> while lowering its rating on general motors gm to an underperform from a peer perform rating <PUNC>
+<PAR>

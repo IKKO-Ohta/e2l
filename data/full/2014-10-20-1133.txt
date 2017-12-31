@@ -1,0 +1,7 @@
+swinging from a thin lead to a loss <COMMA> futures for the s&p <NUM> index spz4 fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while those for the dow jones industrial average djz4 slid <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+futures for the nasdaq-100 index ndz4 fell <NUM> points <COMMA> or <NUM> <COMMA> to <NUM> <PUNC>
+stocks rallied on friday <COMMA> but wall street still closed out the week with losses <COMMA> with both the dow industrials dji and the s&p <NUM> index spx dropping <NUM> percent <PUNC>
+the nasdaq composite index rixf lost <NUM> percent <PUNC>
+ibm disappoints <PUNC> ibm ibm s earnings missed analysts expectations <COMMA> and shares skidded <NUM> percent in premarket trading <PUNC>
+ibm is the second-biggest component in the dow industrials <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
+losses were led by at&t inc. t after the telephone company reported a larger-than-expected sales decline in the first quarter <PUNC>
+procter & gamble co. pg lost ground after the dow member s full-year earnings outlook fell short <COMMA> while microsoft corp. msft led blue-chip gains after the software maker said it would unveil its next-generation xbox on may <NUM> <PUNC>
+boeing co. ba was another blue-chip gainer after the plane manufacturer reported first-quarter profit above wall street s estimates <PUNC>
+<PAR>

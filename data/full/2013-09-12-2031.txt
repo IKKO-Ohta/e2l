@@ -1,0 +1,4 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+j.p. morgan chase & co. jpm fell <NUM> percent <COMMA> making the bank the biggest decliner in the dow <PUNC>
+bolstering the blue-chip index <COMMA> shares of walt disney co. dis rallied <NUM> percent after bloomberg news reported the media conglomerate plans to repurchase between dollar <NUM> billion and dollar <NUM> billion in shares in the new year <PUNC>
+<PAR>

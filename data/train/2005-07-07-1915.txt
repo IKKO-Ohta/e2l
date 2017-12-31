@@ -1,0 +1,8 @@
+with less than an hour of trade left <COMMA> the dow jones industrial average dji moved into positive territory <COMMA> rising <NUM> points at <NUM> <PUNC>
+american insurance group aig was down <NUM> cents at dollar <NUM> <COMMA> after earlier falling as low as dollar <NUM> <PUNC>
+alcoa aa shares fell <NUM> cents to dollar <NUM> ahead of the company s second-quarter earnings report after the bell thursday <PUNC>
+alcoa traditionally is the first dow component to release earnings <PUNC>
+wal-mart stores wmt affirmed its second-quarter earnings view after reporting solid monthly net and same-store sales <PUNC>
+the world s largest retailer said june same-store sales rose <NUM> percent <COMMA> helped by sales of seasonal merchandise such as air conditioners and summer clothes <PUNC>
+the stock rose <NUM> cent to dollar <NUM> <PUNC>
+<PAR>

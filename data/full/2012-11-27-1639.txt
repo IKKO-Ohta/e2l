@@ -1,0 +1,2 @@
+trading in a 70-point range on either side of monday s close <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+<PAR>

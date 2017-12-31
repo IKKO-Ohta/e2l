@@ -1,0 +1,7 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> with <NUM> of <NUM> components contributing to gains <PUNC>
+stocks have kicked off <NUM> with a solid rally <PUNC>
+the dow industrials <COMMA> so far <COMMA> are up <NUM> percent <COMMA> the nasdaq has climbed <NUM> percent <COMMA> while the s&p has gained <NUM> percent <PUNC>
+shares in microsoft corp. msft slipped <NUM> cents to dollar <NUM> after credit suisse first boston downgraded the computer software giant to neutral from outperform <COMMA> on valuation grounds <PUNC>
+wal-mart stores inc. wmt was lower for a second straight session <COMMA> down <NUM> percent at dollar <NUM> <COMMA> as the repercussions over its disappointing fourth-quarter profit outlook continued to reverberate <PUNC>
+exxon mobil corp. xom jumped <NUM> cents to dollar <NUM> on the rise in crude <PUNC>
+<PAR>

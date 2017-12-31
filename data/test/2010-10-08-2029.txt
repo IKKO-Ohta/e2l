@@ -1,0 +1,13 @@
+u.s. stocks ended firmly higher on friday <COMMA> with the dow industrials ending above <NUM> for the first time in five months <COMMA> after a worse-than-expected jobs report lifted expectations the federal reserve will soon boost monetary stimulus <PUNC>
+the dow dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> its first close above <NUM> since may <NUM> <COMMA> just days before the may <NUM> flash crash <PUNC>
+alcoa <COMMA> inc. aa shares led the blue-chip index <COMMA> jumping <NUM> percent after kicking off earnings season late thursday with results that exceeded analysts expectations <PUNC>
+the company also lifted its forecast for global aluminum demand in <NUM> <PUNC>
+caterpillar <COMMA> inc. cat shares jumped <NUM> percent <COMMA> walt disney & co. dis rose <NUM> percent and boeing co. ba gained <NUM> percent to help power the dow s gains <PUNC>
+read more on alcoa <PUNC>
+the dow jones industrial average s <PUNC> djia rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> its first close above <NUM> since may <NUM> <PUNC>
+shares of alcoa inc. s <PUNC> aa led blue-chip gains <COMMA> rising <NUM> percent after the aluminum giant s earnings topped expectations <PUNC>
+the dow gained <NUM> percent for the week <PUNC>
+the s&p <NUM> index s <PUNC> spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> led by gains in the materials sector <PUNC>
+the nasdaq composite s <PUNC> comp rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> is up <NUM> percent and the nasdaq up <NUM> percent for the week <PUNC>
+<PAR>

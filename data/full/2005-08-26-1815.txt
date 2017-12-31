@@ -1,0 +1,8 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the nasdaq composite index rixf was down <NUM> points to <NUM> while the s&p <NUM> index spx was off <NUM> points at <NUM> <PUNC>
+shares in merck & co mrk dipped <NUM> percent on a wall street journal report it may consider settling some of the <NUM> legal cases that have surfaced since the drug giant withdrew its vioxx painkiller because of health risks <PUNC>
+hewlett-packard co. hpq tacked on <NUM> cents to dollar <NUM> after it said late thursday it would allocate another dollar <NUM> billion to buy back the technology giant s common stock <PUNC>
+in a note to clients <COMMA> merrill lynch analysts said some investors may be disappointed with organic growth at the agency <COMMA> but they should take heart from raised margin targets <PUNC>
+wpp counts samsung corp <COMMA> unilever plc and procter & gamble pg among its roster of clients <PUNC>
+the stock was off <NUM> cents at dollar <NUM> <PUNC>
+<PAR>

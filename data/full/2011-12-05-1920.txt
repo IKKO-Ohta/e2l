@@ -1,0 +1,3 @@
+up <NUM> percent for the year to date <COMMA> the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with banks leading the gains that included <NUM> of its <NUM> components <PUNC>
+j.p. morgan chase & co. jpm rallied <NUM> percent and bank of america corp. bac climbed <NUM> percent <PUNC>
+<PAR>

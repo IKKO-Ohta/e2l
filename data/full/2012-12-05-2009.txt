@@ -1,0 +1,3 @@
+u.s. stocks mostly rose wednesday <COMMA> with the dow industrials up triple digits <COMMA> after bloomberg news reported that <NUM> republicans had joined a bipartisan call to break the budget impasse <PUNC>
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with travelers cos. inc. trv leading gains after the insurer estimated losses from superstorm sandy <PUNC>
+<PAR>

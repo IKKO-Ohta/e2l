@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose by as much as <NUM> points <PUNC>
+shares of dow component microsoft msft moved up as much as <NUM> percent after the software giant said it had a <NUM> percent increase in first-quarter profit <PUNC>
+but it issued a weak forecast <PUNC>
+chevrontexaco cvx lost early gains to trade as much as <NUM> percent lower <PUNC>
+the company reported higher third-quarter results <COMMA> but the earnings fell short of expectations <COMMA> due to the adverse impact of recent hurricanes <PUNC>
+rival exxonmobil xom <COMMA> a dow component <COMMA> was off more than <NUM> percent <PUNC>
+<PAR>

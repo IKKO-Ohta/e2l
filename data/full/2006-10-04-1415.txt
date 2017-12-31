@@ -1,0 +1,7 @@
+the dow industrials dji rose <NUM> points to <NUM> after settling at a record closing high on tuesday <PUNC>
+on tuesday <COMMA> stocks ended higher <COMMA> with the dow jones industrial average logging a new record close <COMMA> after the price of oil slumped to a 14-month low <COMMA> raising hopes that falling energy costs will boost consumer spending and moderate any slowdown in the economy <PUNC>
+wal-mart stores inc. wmt fell <NUM> percent to dollar <NUM> after the retail giant cuts its september same-store sales forecast <PUNC>
+same-store sales <COMMA> a key measure of retail performance <COMMA> track sales from stores open at least a year <PUNC>
+general motors corp. gm rose <NUM> cents to dollar <NUM> after bear stearns upgraded the automaker to peer perform from underperform <PUNC>
+ford motor co. s f stock declined about <NUM> percent to dollar <NUM> after the same broker lowered its rating on the company to peer perform from outperform <PUNC>
+<PAR>

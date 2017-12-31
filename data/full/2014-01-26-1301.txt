@@ -1,0 +1,5 @@
+on friday <COMMA> the dow jones industrial average dji dropped <NUM> percent <COMMA> or <NUM> points <COMMA> its worst one-day percentage drop since june <NUM> <PUNC>
+it also fell <NUM> percent for the week <COMMA> its worst weekly decline since nov. <NUM> <COMMA> <NUM> <COMMA> with the pain compressed into four sessions after monday s holiday <PUNC>
+similarly <COMMA> the s&p <NUM> index spx shed <NUM> percent on the week <COMMA> with the nasdaq composite index rixf declining <NUM> percent <PUNC>
+dow components include caterpillar inc. cat on monday <PUNC> dupont dd <COMMA> pfizer inc. pfe <COMMA> and at&t inc. t on tuesday <PUNC> boeing co. ba on wednesday <PUNC> 3m co. mmm <COMMA> exxonmobil xom <COMMA> and visa inc. v on thursday <PUNC> and chevron corp. cvx on friday <PUNC>
+<PAR>

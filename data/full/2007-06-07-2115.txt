@@ -1,0 +1,8 @@
+u.s. stocks fell sharply on thursday <COMMA> sending the dow jones industrial average down by nearly <NUM> points <COMMA> as the yield of a key benchmark bond surged above <NUM> percent <COMMA> further challenging the attractiveness of stocks <PUNC>
+the dow industrial dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its low of the session <PUNC>
+all of the dow s <NUM> stocks retreated <COMMA> led by the likes of exxon mobil corp. 3m co. mmm <COMMA> disney dis <COMMA> home depot inc. hd and pfizer inc. pfe <PUNC>
+among blue-chips <COMMA> procter & gamble pg fell <NUM> percent <PUNC>
+it was downgraded to equal-weight from overweight at lehman brothers on concerns over margin growth <PUNC>
+wal-mart stores wmt lost almost <NUM> percent after it posted a modest gain in may same-store sales <COMMA> narrowly missing wall street estimates <COMMA> amid weakness in its apparel and home merchandise.overall <COMMA> however <COMMA> half of those retailers reporting results either met or beat estimates <PUNC>
+market analysts also point to the u.s. market s record-setting rally <COMMA> which began last summer and drove the dow and the s&p <NUM> to record highs <COMMA> with only a short-lived interruption in late february/early march <PUNC>
+<PAR>

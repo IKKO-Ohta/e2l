@@ -1,0 +1,10 @@
+paring some of its earlier losses <COMMA> the dow jones industrial average dji was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+general electric ge was the worst performer among the blue chips <COMMA> down <NUM> percent <PUNC>
+chevron cvx was down <NUM> percent <COMMA> amid a broader slide in energy stocks as crude-oil futures skidded nearer to dollar <NUM> a barrel <PUNC>
+the 30-stock blue-chip measure traded below <NUM> all morning after falling beneath that level for the first time since november just before thursday s close <PUNC>
+the <NUM> level has proven to be one of the most difficult round-number levels for the dow to maintain in its long history <PUNC>
+the dow first pierced <NUM> in <NUM> and has run to records significantly above it several times <PUNC>
+but investors said the measure could be poised to tick up later in the day <PUNC>
+technology stocks fared better than the broader market <PUNC>
+the dow s tech components were mostly stronger <COMMA> with intel intc up <NUM> percent <COMMA> and cisco systems csco up <NUM> percent <COMMA> the latter extending its gains after posting strong earnings earlier this week <PUNC>
+<PAR>

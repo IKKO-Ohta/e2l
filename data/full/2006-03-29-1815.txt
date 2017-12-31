@@ -1,0 +1,7 @@
+the dow jones industrial average dji was sitting close its high for the session <COMMA> up <NUM> points at <NUM> <PUNC>
+the benchmark index remains on course to post one of its best quarters in two years <PUNC>
+shares in dow component general motors corp. gm fell <NUM> percent to dollar <NUM> after the troubled car maker filed late tuesday its delayed annual report with the u.s. securities and exchange commission <PUNC>
+shares in boeing co. ba rose <NUM> percent to dollar <NUM> after winning an airplane order worth dollar <NUM> billion at list prices <PUNC>
+the company said general electric co s ge ge commercial aviation services has put in a firm order for <NUM> boeing next-generation 737s. <COMMA> with an option to buy <NUM> more <PUNC>
+brokers turned their attention to two other dow components <COMMA> caterpillar inc. cat and 3m mmm <PUNC>
+<PAR>

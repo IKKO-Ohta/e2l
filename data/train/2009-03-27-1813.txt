@@ -1,0 +1,4 @@
+the current bear-market rally lifted the s&p <NUM> and the dow jones industrial average to six-week highs <COMMA> with both indexes up more than <NUM> percent over the past <NUM> trading sessions <COMMA> while the nasdaq composite index on thursday erased its losses year-to-date <PUNC>
+energy and industrials fronted afternoon losses <COMMA> with the dow industrials off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and the technology-laden nasdaq rixf shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

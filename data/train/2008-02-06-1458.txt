@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> led by walt disney dis <COMMA> up <NUM> percent <COMMA> after it reported first-quarter profits fell <NUM> percent from the year-ago quarter <COMMA> but the results still topped expectations <PUNC>
+stocks plunged tuesday <COMMA> with the dow industrials tumbling to their biggest drop in <NUM> months <COMMA> after a key service sector gauge contracted in january <COMMA> signaling a possible u.s. recession <PUNC>
+general motors gm was downgraded to underperform and ford motor co. f was slashed to peer perform at bear stearns <COMMA> which cited worries over consumers ability to buy cars and trucks <PUNC>
+bhp billiton bhp increased its all-stock offer for rio tinto rtp to dollar <NUM> billion <COMMA> in its first major move since aluminum corp. of china and alcoa aa bought a big stake in rio tinto <PUNC>
+<PAR>

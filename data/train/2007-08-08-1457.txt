@@ -1,0 +1,6 @@
+the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
+later in the day <COMMA> dow component general motors corp. gm will make a presentation to analysts <PUNC>
+that stock gained <NUM> percent to dollar <NUM> <PUNC>
+mcdonald s corp. mcd reported a <NUM> percent rise in same-store sales for last month <PUNC>
+the stock last was <NUM> percent higher at dollar <NUM> <PUNC>
+<PAR>

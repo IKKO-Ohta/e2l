@@ -1,0 +1,5 @@
+the dow jones industrial average dji dropped <NUM> points to <NUM> after rising as much as <NUM> points earlier in the session <PUNC>
+cisco systems inc. csco dropped <NUM> percent <COMMA> making it the biggest decliner in the dow <PUNC>
+banking group j.p. morgan chase & co. jpm and home-improvement retailer home depot inc. hd were among the few gainers in the dow industrials <PUNC>
+also in the dow <COMMA> hewlett-packard co. hpq gained <NUM> percent <COMMA> with the pc maker scheduled to report quarterly results after the market close <PUNC>
+<PAR>

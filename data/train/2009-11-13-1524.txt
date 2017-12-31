@@ -1,0 +1,7 @@
+the dow jones industrial average dji had been up <NUM> points prior to the release of the data but recently struggled around break-even <COMMA> moving between slight gains and losses <PUNC>
+the measure was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the blue-chip average was bolstered by a <NUM> percent rise in component walt disney dis after the entertainment giant announced an <NUM> percent gain in fourth-quarter profits <COMMA> beating analysts forecasts <PUNC>
+but key retailing bellwethers home depot hd and wal-mart wmt both traded narrowly in the red in recent action <PUNC>
+the dow came into friday s action up <NUM> percent for the week <COMMA> thanks largely to a 204-point surge monday <PUNC>
+but momentum and trading volume have tailed off markedly since then <COMMA> with many traders becoming less apt to unload hoarded dollars in favor of more aggressive plays in stocks and commodities <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+materials and industrials components jumped on the positive economic data <PUNC>
+alcoa aa rose <NUM> percent <COMMA> while caterpillar cat gained <NUM> percent <PUNC>
+retailers also climbed <COMMA> including home depot hd <COMMA> up <NUM> percent <PUNC>
+<PAR>

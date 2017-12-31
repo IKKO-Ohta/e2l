@@ -1,0 +1,9 @@
+u.s. stocks ended higher wednesday as strength in the technology sector helped the nasdaq composite clinch its seventh straight session of gains <COMMA> while the dow jones industrial average overcame early weakness sparked by a profit warning from dupont <PUNC>
+the dow industrials dji ended just off their high for the session <COMMA> up <NUM> points at <NUM> <PUNC>
+shares of dupont dd fell as much as <NUM> percent to a session low of dollar <NUM> after the chemicals manufacturer became the second dow component after alcoa inc. aa to disappoint investors on earnings <PUNC>
+the company warned that its fourth-quarter will not meet analysts expectations due to hurricane-linked disruptions <PUNC>
+the stock pared losses to end the day <COMMA> down dollar <NUM> <COMMA> or <NUM> percent at dollar <NUM> <PUNC>
+hewlett-packard <COMMA> hpq also in the dow <COMMA> was <NUM> cents higher at dollar <NUM> <PUNC>
+the company got an upgrade from prudential equity <COMMA> which noted positive cost savings <PUNC>
+johnson & johnson jnj was in focus after the new york times said the drug giant is considering a new bid for medical devices maker guidant corp. gdt <PUNC>
+<PAR>

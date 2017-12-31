@@ -1,0 +1,4 @@
+futures for the dow jones industrial average dji were down <NUM> points at <NUM> <PUNC>
+u.s. stocks closed higher wednesday after a volatile trading say that saw the dow claw its way back from a 190-point deficit in the final hour of trading as investors remained positive about the federal reserve s assessment of economic growth and also cheered an upbeat outlook from cisco systems <PUNC>
+the s&p <NUM> closed up <NUM> points and the dow industrials were <NUM> points ahead at the close <PUNC>
+<PAR>

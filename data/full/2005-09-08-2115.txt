@@ -1,0 +1,9 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the nasdaq composite index rixf was down <NUM> points to <NUM> while the s&p <NUM> index spx dropped <NUM> points to <NUM> <PUNC>
+within the dow industrials <COMMA> shares of the coca-cola co. ko dropped <NUM> percent as investors worried about its earnings outlook after coca-cola enterprises <COMMA> its major bottler <COMMA> warned third-quarter earnings won t meet the consensus analysts estimate <PUNC>
+cce said european volume in the third quarter has been below expectations <COMMA> despite share gains in key markets <PUNC>
+intel corp. intc shares were up <NUM> percent ahead of its mid-quarter trading update <PUNC>
+after the market close <COMMA> the world s largest chipmaker narrowed its third-quarter sales forecast to a range of dollar <NUM> billion to dollar <NUM> billion <PUNC>
+that compares with its previous estimate of dollar <NUM> billion to dollar <NUM> billion <PUNC>
+intel said its gross margin would be <NUM> percent of sales <COMMA> in line with prior guidance <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+futures for the dow jones industrial average djm3 fell <NUM> points to <NUM> <COMMA> while those for the standard & poor s <NUM> index spm3 dipped <NUM> point to <NUM> <PUNC>
+futures for the nasdaq <NUM> index ndm3 fell <NUM> points to <NUM> <PUNC>
+wall street advanced to a fourth weekly gain last week <PUNC>
+the s&p <NUM> index spx rose <NUM> percent last week to close at a record of <NUM> friday <COMMA> its 16th record close this year <PUNC>
+similarly <COMMA> the dow jones industrial average dji rose <NUM> percent on the week to <NUM> <COMMA> its 21st record of the year <PUNC>
+also <COMMA> the nikkei topped the dow industrial s absolute level for the first time in more than three years <PUNC>
+read <PUNC> nikkei tops dow jones <PUNC>
+but is japan out of gas <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+dow component mcdonald s corp. mcd should be in view <COMMA> after the fast food giant announced it will take a second-quarter loss related to the sale of some assets <COMMA> but that its earnings before special charges will be above analysts expectations <PUNC>
+the futures contract for the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
+on friday stocks overtook new territory that placed the dow jones industrial average within striking distance of <NUM> <PUNC>
+sentiment last week was bolstered by new merger deals <COMMA> some positive economic reports and in-line earnings from industrial conglomerate general electric co. ge <PUNC>
+shares of mcdonald s corp. mcd were <NUM> percent higher at dollar <NUM> before the opening <PUNC>
+in addition to its earnings preannouncement <COMMA> the company also said its global comparable sales rose <NUM> percent in june and <NUM> percent in the second quarter <PUNC>
+<PAR>

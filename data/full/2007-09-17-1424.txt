@@ -1,0 +1,4 @@
+the dow jones industrial average dji slid <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> with the coca-cola co. ko leading the decline <COMMA> its stock off <NUM> percent <PUNC>
+shares of dow component microsoft corp. msft slid nearly <NUM> percent after a european court rejected the software giant s appeal of a <NUM> million euro dollar <NUM> million fine. <PUNC>
+shares of business objects bobj gained <NUM> percent following reports the french-american business-intelligence software maker is looking for a buyer <COMMA> with germany s sap ag sap and ibm corp. ibm among the potential buyers <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+while crude s climb on friday had it rallying to its highest point yet for the year <COMMA> a barrel of oil remains roughly half of where it stood at its height last summer <COMMA> when crude-oil futures on july <NUM> hit an intraday high of dollar <NUM> <COMMA> with the dow industrials shed <NUM> points that day <PUNC>
+on the dow jones industrial average dji <COMMA> shares of oil goliaths chevron corp. and exxon mobil both advanced nearly <NUM> percent <COMMA> with the dow lately at <NUM> <COMMA> up <NUM> <COMMA> or <NUM> percent <PUNC>
+<PAR>

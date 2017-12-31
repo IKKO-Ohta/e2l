@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <PUNC>
+gm s shares set the pace <COMMA> up <NUM> percent <PUNC>
+boeing co. ba <COMMA> the world s largest aerospace company <COMMA> fronted the dow s declines <COMMA> its stock off <NUM> percent <PUNC>
+caterpillar inc. cat was also among the dow s declining factors <COMMA> its stock off <NUM> percent <PUNC>
+the equipment manufacturer said in a regulatory filing that it had reached a five-year credit agreement for dollar <NUM> billion in unsecured credit <PUNC>
+<PAR>

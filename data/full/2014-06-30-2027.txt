@@ -1,0 +1,4 @@
+the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> but gained <NUM> percent over the past month and <NUM> percent over the past quarter <PUNC>
+for the first half of <NUM> <COMMA> the s&p <NUM> recorded a <NUM> percent rise <COMMA> the dow industrials rose <NUM> percent <COMMA> and the nasdaq gained <NUM> percent <PUNC>
+airline <COMMA> pharmaceutical <COMMA> and utilities stocks led advancers during the period <COMMA> which was marked by the impact of bad weather <COMMA> a drop in first-quarter gross domestic product and a decline in treasury yields <PUNC>
+<PAR>

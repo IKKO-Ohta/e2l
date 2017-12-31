@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> point at <NUM> after ending the prior session at an all-time high <PUNC>
+discount retailers <COMMA> however <COMMA> struggled in september <PUNC>
+wal-mart stores inc. wmt confirmed its september sales at stores open at least a year rose just <NUM> percent <PUNC>
+analysts <COMMA> on average <COMMA> had expected it to post a same-store sales gain of <NUM> percent <COMMA> according to thomson first call <PUNC>
+the company faced difficult comparisons to last year s sales run-up ahead and after hurricanes katrina and rita hit the gulf coast <PUNC>
+hewlett-packard co. hpq was off <NUM> cents at dollar <NUM> after california attorney general bill lockyer filed criminal charges against former chairwoman patricia dunn and four others tied to the company s investigation into boardroom leaks <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the market s attention is poised to stay trained on the financial sector after the group suffered its worst week in years as merrill lynch & co. s mer chief executive was forced out and citigroup s c board prepared to decide whether to accept the resignation of ceo chuck prince as well <PUNC>
+the worsening state of quarterly results from corporate america may pull stocks lower as well <COMMA> with a <NUM> percent decline in earnings <COMMA> down from a <NUM> percent decline last week <COMMA> according to data from thomson financial <PUNC>
+investors will assess results next week from cisco systems inc. csco <COMMA> general motors gm <COMMA> oil firm total sa tot <COMMA> american international group aig and walt disney co. dis <PUNC>
+but the dismal news from the financial sector and quarterly profit misses at oil giants exxonmobil xom and chevron corp. cvx contributed to weekly losses in the dow jones industrial average dji and the s&p <NUM> index spx <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with all but four of its components ending in the red <PUNC>
+<PAR>

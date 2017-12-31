@@ -1,0 +1,2 @@
+the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with caterpillar cat leading gains that included half of its <NUM> components <PUNC>
+<PAR>

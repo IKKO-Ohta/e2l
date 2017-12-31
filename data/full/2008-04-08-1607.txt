@@ -1,0 +1,4 @@
+off morning lows <COMMA> the dow jones industrial average dji was more recently down <NUM> points to <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were trading lower <COMMA> with aluminum manufacturer alcoa inc. aa among the blue chips on the decline <PUNC>
+after monday s close <COMMA> alcoa reported a first-quarter profit drop of more than <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+on back of the weaker housing starts data <COMMA> related retailers like home depot hd slipped <NUM> cents to dollar <NUM> <COMMA> while lowe s co. low fell <NUM> cents to dollar <NUM> <PUNC>
+wachovia started coverage of home depot with a market perform rating <COMMA> saying it sees valuation ranging from dollar <NUM> to dollar <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+twenty-two of its <NUM> components were trading in the red <COMMA> weighed by merck & co. mrk <COMMA> down about <NUM> percent <COMMA> and pfizer inc. pfe <COMMA> off <NUM> percent <PUNC>
+on thursday <COMMA> the dow and s&p <NUM> closed at their highest levels since september <NUM> <COMMA> with the dow now up <NUM> percent on the week and the s&p <NUM> percent higher than last friday s close <PUNC>
+<PAR>

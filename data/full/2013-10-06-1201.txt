@@ -1,0 +1,6 @@
+the s&p <NUM> spx rebounded friday <COMMA> cutting its weekly loss to less than <NUM> percent <PUNC>
+the dow jones industrial average dji ended with a <NUM> percent weekly decline <PUNC>
+both indexes experienced some bouts of heavy selling as the shutdown took hold <COMMA> but managed to rebound <PUNC>
+meanwhile <COMMA> if the shutdown drags on <COMMA> it will threaten to steal the thunder from the start of earnings season <COMMA> which begins in earnest on friday with results from dow jones component j.p. morgan chase & co. jpm and wells fargo & co. wfc <PUNC>
+analysts have slashed their earnings forecasts for j.p. morgan <COMMA> citigroup c <COMMA> morgan stanley ms <COMMA> and goldman sachs group inc. gs over the past month <COMMA> largely on expectations the banks post-crisis earnings boom is coming to an end as a sluggish recovery lumbers along <PUNC>
+<PAR>

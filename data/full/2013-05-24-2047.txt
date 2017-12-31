@@ -1,0 +1,5 @@
+the dow jones industrial average dji ended friday with an 8.6-point gain <COMMA> up <NUM> percent at <NUM> after losing <NUM> points early in the session <PUNC>
+it lost <NUM> percent for the week <PUNC>
+the indexes opened with moderate losses <COMMA> with the dow off about <NUM> points <COMMA> then slumped further around midmorning before coming back to trade at their session highs <PUNC>
+helping stabilize the dow <COMMA> component procter & gamble inc. pg advanced <NUM> percent after the consumer products giant said late thursday that a.g. lafley would return as chief executive <COMMA> replacing the embattled bob mcdonald <COMMA> whose tenure had been criticized by an activist investor <PUNC>
+<PAR>

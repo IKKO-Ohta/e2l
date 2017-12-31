@@ -1,0 +1,7 @@
+the dow jones industrial average dji ended at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <COMMA> for the session <PUNC>
+it lost about <NUM> <COMMA> or <NUM> percent <COMMA> on the week <PUNC>
+friday s finish marked the dow s lowest close since march <NUM> <COMMA> when it settled at <NUM> <PUNC>
+stocks finished a week that is best forgotten <COMMA> and the dow now finds itself flirting dangerously close with the pivotal <NUM> area <COMMA> said jon nadler <COMMA> senior analyst at kitco bullion dealers <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> posted losses <COMMA> with blue-chip financials among the hardest hit <PUNC>
+citigroup inc. c fell <NUM> percent <COMMA> american express co. axp fell <NUM> percent and american international group inc. aig declined <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,11 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+caterpillar <COMMA> inc. cat rose <NUM> percent to lead the measure <PUNC>
+bank of america corp. bac and j.p. morgan jpm strengthened after hedge fund manager john paulson maintained his investment in both banks <COMMA> adding to his large stake in bank of america <COMMA> whose shares rose <NUM> percent <PUNC>
+j.p. morgan rose <NUM> percent <PUNC>
+wal-mart stores wmt shares climbed <NUM> percent after the retailer s first-quarter earnings beat wall street expectations <COMMA> although its second-quarter earnings guidance mostly fell below estimates and same-store sales continued to drop <PUNC>
+the retail giant s international net sales rose more than <NUM> percent <PUNC>
+meanwhile <COMMA> pfizer pfe edged down <NUM> percent after announcing plans to cut <NUM> jobs and shutter eight plants over the next five years stemming from its merger with wyeth <PUNC>
+kraft foods kft and johnson & johnson jnj both slipped after warren buffett s berkshire hathaway brk/a cut stakes in both companies in the first quarter <PUNC>
+kraft slid <NUM> percent <COMMA> while johnson & johnson fell <NUM> percent <PUNC>
+one day after home-improvement retailer lowe s disappointed investors <COMMA> home depot hd gained <NUM> percent after its fiscal first-quarter earnings jumped a better-than-expected <NUM> percent as strength in seasonal items and improved profitability aided results <PUNC>
+<PAR>

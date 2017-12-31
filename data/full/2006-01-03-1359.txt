@@ -1,0 +1,6 @@
+on friday <COMMA> stocks closed out <NUM> on a sour note <COMMA> with the dow jones industrial average suffering its first yearly loss since <NUM> <COMMA> and both the s&p <NUM> index and the nasdaq composite extending their yearly win streaks by only the slimmest of margins <PUNC>
+the dow industrials dji fell <NUM> points to <NUM> <COMMA> and was down <NUM> percent in <NUM> <PUNC>
+shares in wal-mart stores inc. wmt slipped <NUM> cents to dollar <NUM> in pre-market trading on instinet after the world s largest retailer warned december same-store sales would come in at the lower end of its forecast range <PUNC>
+johnson & johnson jnj tacked on <NUM> cents to dollar <NUM> in light pre-market dealings <COMMA> buoyed by a j.p morgan upgrade to overweight from neutral <PUNC>
+the broker expects its <NUM> outlook to be a positive catalyst for the stock <COMMA> with a strong drug pipeline likely to lend further support <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+the dow industrials dji slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> but still gained <NUM> percent over the past five sessions <PUNC>
+<PAR>

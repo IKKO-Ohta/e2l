@@ -1,0 +1,3 @@
+just after the opening bell <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+gains were led by cisco systems csco <COMMA> up <NUM> percent <COMMA> after the networking gear s better-than-expected first-quarter report <PUNC>
+<PAR>

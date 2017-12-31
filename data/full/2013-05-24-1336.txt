@@ -1,0 +1,8 @@
+the dow jones industrial average dji slipped <NUM> points to <NUM> <COMMA> while the standard & poor s <NUM> index spx fell <NUM> points to <NUM> <PUNC>
+the nasdaq composite rixf lost <NUM> points to <NUM> <PUNC>
+on wall street thursday <COMMA> u.s. stocks fell modestly <COMMA> paring some big losses earlier in the day <PUNC>
+upbeat u.s. economic data and gains for hewlett-packard co. hpq offset worries about the asian selloff and concerns over the fed potentially slowing down its bond buys <PUNC>
+for the week <COMMA> the dow <COMMA> s&p <NUM> and nasdaq are all on pace to snap four-week winning streaks <PUNC>
+each index reached an all-time or multiyear high during this past week <COMMA> but then turned tail <PUNC>
+in c-suite news <COMMA> procter & gamble inc. pg advanced <NUM> percent after the consumer products giant said late thursday that a.g. lafley would return as chief executive <COMMA> replacing the embattled bob mcdonald <PUNC>
+<PAR>

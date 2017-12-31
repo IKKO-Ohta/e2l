@@ -1,0 +1,8 @@
+microsoft corp. msft one of <NUM> companies on the dow jones industrial average that reported results last week was a typical example of the trend <PUNC>
+it managed to sidestep an industry-wide slump in pc sales to report a <NUM> percent rise in earnings <COMMA> topping forecasts <PUNC>
+sales gained <NUM> percent <COMMA> just matching forecasts <PUNC>
+the top-line performance put up by companies couldn t staunch the sea of red that washed over indexes at the start of the week <PUNC>
+pressured by other factors such as china data <COMMA> a gold plunge and the boston marathon bombings <COMMA> the dow industrials dji logged their worst week of the year with a <NUM> percent loss <PUNC>
+ibm <COMMA> which disappointed on sales and made a rare miss on earnings <COMMA> was a big weight on friday <PUNC>
+another third of the dow industrials will report with caterpillar inc. cat <COMMA> united technologies corp. utx <COMMA> dupont dd <COMMA> travelers cos. trv <COMMA> at&t inc. t <COMMA> procter & gamble co. pg <COMMA> boeing co. ba <COMMA> 3m co. mmm <COMMA> exxon mobil corp. xom <COMMA> chevron corp. cvx releasing results <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points to a near three-month low of <NUM> <PUNC>
+shares in hewlett-packard co. hpq were up <NUM> cents at dollar <NUM> in pre-market trading on instinet after the computer and printer maker revised its previously disclosed results for the second quarter to reflect a settlement with the internal revenue service related to an audit of the company s tax returns for <NUM> through <NUM> <PUNC>
+general motors corp. gm may garner attention <PUNC>
+the car maker is due to hold a shareholder meeting where it is expected to outline its progress on its turnaround plan <PUNC>
+ceo rick wagoner told the financial times in an interview that the delphi crisis could halt north american production if it s not defused <PUNC>
+on monday <COMMA> the stock fell <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

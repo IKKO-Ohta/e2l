@@ -1,0 +1,4 @@
+u.s. stocks climbed for a second day wednesday <COMMA> with the dow headed to its largest leap yet this year <COMMA> with a revived financial sector paving the way after a federal reserve official bolstered thinking of additional interest-rate cuts ahead <PUNC>
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all of the blue-chip index s <NUM> components ahead <COMMA> led by the recently battered financial sector <PUNC>
+of the blue chips <COMMA> citigroup inc. c was up <NUM> percent and american international group inc. aig climbed <NUM> percent <PUNC>
+<PAR>

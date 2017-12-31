@@ -1,0 +1,11 @@
+the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> reversing an afternoon slump <PUNC>
+mcdonald s mcd gained dollar <NUM> <COMMA> or <NUM> percent <COMMA> to dollar <NUM> <COMMA> after its third-quarter earnings rose <NUM> percent <COMMA> topping analysts forecasts <COMMA> and the company s chief executive predicted same-store sales would rise between <NUM> percent and <NUM> percent in october <COMMA> as momentum continues from the previous quarter <PUNC>
+home depot hd was the measure s top performer <COMMA> climbing dollar <NUM> <COMMA> or <NUM> percent <COMMA> to dollar <NUM> <PUNC>
+travelers trv added <NUM> cents <COMMA> or <NUM> percent <COMMA> to dollar <NUM> <COMMA> after its third-quarter earnings and revenue topped wall street estimates and the property-casualty insurance firm raised its full-year guidance <PUNC>
+the dow s worst performer was bank of america corp. bac <COMMA> which slid <NUM> percent as investors continued to worry over banks liabilities connected to investigations into foreclosure practices <PUNC>
+caterpillar <COMMA> inc. cat shares were also weak <COMMA> falling <NUM> percent <COMMA> despite a surge in its third-quarter profit <PUNC>
+caterpillar cautioned that the world s developed economies won t grow enough next year to alleviate persistently high unemployment levels.read more on caterpillar <PUNC>
+at&t corp. t lost <NUM> percent <PUNC>
+third-quarter earnings nearly quadrupled and the company added a record number of iphone subscribers in the third quarter <COMMA> but had to pay high subsidies to apple <COMMA> which cut into the carrier s profit <PUNC>
+verizon communications shed <NUM> percent <PUNC>
+<PAR>

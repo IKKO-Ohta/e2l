@@ -1,0 +1,4 @@
+the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+u.s. stocks fell sharply wednesday for the second session in a row <COMMA> with the dow industrials slumping <NUM> points <COMMA> the nasdaq composite losing <NUM> points and the s&p <NUM> down <NUM> points <PUNC>
+another big day for oil <COMMA> as well as the federal reserve increasing its inflation estimate while seeing slower economic growth put pressure on stocks <PUNC>
+<PAR>

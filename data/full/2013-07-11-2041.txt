@@ -1,0 +1,6 @@
+the dow jones industrial average dji rallied <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with the blue-chip index above its prior all-time finish of <NUM> <COMMA> hit on may <NUM> <PUNC>
+intel corp. intc led gains that included all of the <NUM> dow components <PUNC>
+microsoft corp. msft shares rose <NUM> percent on the technology giant s reorganization plan <COMMA> outlined in an email by ceo steve ballmer to employees <PUNC>
+two of those banks <COMMA> dow components j.p. morgan chase & co. jpm and wells fargo & co. wfc will report quarterly results on friday <PUNC>
+what to watch in j.p. morgan <COMMA> wells fargo results <PUNC>
+<PAR>

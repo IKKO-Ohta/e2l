@@ -1,0 +1,4 @@
+u.s. stocks opened higher on thursday <COMMA> sending the dow jones industrial average to a new high <COMMA> as investors were encouraged by a tame reading on inflation <COMMA> as well as a management shake-up at dell inc <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> just off a new record high of <NUM> <COMMA> led by gains in the shares of alcoa inc. aa <COMMA> boeing co. ba <COMMA> caterpillar inc cat and dupont dd <PUNC>
+exxon mobil corp. xom fell slightly as crude oil prices receded <COMMA> after the company posted a drop in earnings but still managed to beat expectations <PUNC>
+<PAR>

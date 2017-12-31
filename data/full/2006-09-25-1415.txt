@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+hewlett-packard co. hpq fell <NUM> cents to dollar <NUM> after chief executive officer mark hurd said late friday he would immediately assume the role of chairman after chairwoman patricia dunn resigned from the board over a spying scandal <PUNC>
+dunn had already said she would be stepping down as chairwoman <COMMA> but not until january <NUM> <PUNC>
+dow component altria group inc. mo fell <NUM> percent to dollar <NUM> following a report on cnbc that a federal judge has certified a lawsuit against a number of light cigarette makers as having class action status <PUNC>
+the suit accuses the companies of misleading consumers by labeling certain brands as light or low tar <PUNC>
+<PAR>

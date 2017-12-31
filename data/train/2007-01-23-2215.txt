@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> thanks to strong gains by united technologies corp. utx <COMMA> as well as by boeing co. ba and caterpillar inc. cat <COMMA> which had both sold off on monday <PUNC>
+exxon mobil corp. xom also helped <COMMA> gaining <NUM> percent as crude oil rallied back over dollar <NUM> a barrel <PUNC>
+meanwhile <COMMA> dupont dd <COMMA> posting results that met expectations <COMMA> fell <NUM> percent and weighed on blue chips <PUNC>
+likewise <COMMA> johnson & johnson jnj <COMMA> which had better than expected results <COMMA> fell <NUM> percent <PUNC>
+disappointments over the earnings outlook from the likes of tech-heavyweights apple inc. aapl <COMMA> ibm ibm and intel corp. intc had soured sentiment heading into this week <PUNC>
+with much of corporate america still flush with cash <COMMA> many analysts expect that corporate spending on technology upgrades <COMMA> such as microsoft corp. s msft new operating system vista <COMMA> will be a boon for tech companies this year <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+new york dow jones - u.s. stocks turned mixed tuesday as crude-oil prices retreated <COMMA> with the dow jones industrial average outperforming on a fresh rally in shares of boeing co <PUNC>
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+within the dow <COMMA> boeing co. ba gained dollar <NUM> to dollar <NUM> <COMMA> extending a prior-session gain of <NUM> percent as the aerospace giant continued to benefit from news of a tentative agreement with its machinists union that could end a strike by more than <NUM> workers <PUNC>
+in contrast <COMMA> j.p. morgan cut exxon mobil xom to neutral from overweight <COMMA> citing the recent rise in the shares <COMMA> helping push the share down <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+stocks snapped a two-week losing streak friday as a surge in general electric nudged the dow jones industrial average back above <NUM> <COMMA> marking its first weekly close above that level since the early days of the credit crisis <PUNC>
+through most of the session <COMMA> the market was stuck in a tight range between positive and negative territory but ended with a narrow gain <PUNC>
+the dow dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> up <NUM> percent on the week <PUNC>
+oil majors exxon mobil xom and chevron cvx were among the declining dow components <PUNC>
+declines in the dow and in the broader market were led by financials and energy firms <COMMA> including j.p. morgan chase jpm <PUNC>
+almost half the dow s point gain on friday could be attributed to a <NUM> percent surge in component ge ge after analysts at both sanford c. bernstein and oppenheimer upgraded the conglomerate to an outperform rating <PUNC>
+though the dow has closed above <NUM> several times this fall <COMMA> it hasn t finished a full week of trading above that level since the period ending oct. <NUM> <COMMA> <NUM> <PUNC>
+in particular <COMMA> the blue-chip measure has been plagued in recent weeks by a lack of conviction that has often led to profit taking around the <NUM> level <COMMA> fueled by investors fears about the pace of the u.s. economic recovery <PUNC>
+<PAR>

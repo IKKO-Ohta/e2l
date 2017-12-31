@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points to <NUM> <COMMA> while the s&p <NUM> spx fell <NUM> to <NUM> and the nasdaq composite rixf sank <NUM> to <NUM> <PUNC>
+wal-mart wmt was down <NUM> percent at dollar <NUM> after the company reported stronger-than-expected second-quarter results but warned that gasoline continues to weigh on its price-conscious shoppers <COMMA> with implications for the third quarter <PUNC>
+fellow blue-chip retailer home depot hd sank <NUM> percent to dollar <NUM> after reporting that second-quarter profit rose <NUM> percent and lifting its full-year earnings outlook <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+general motors corp. gm led the blue-chip gains <COMMA> rising <NUM> percent <PUNC>
+the automaker s gains followed news of a surprise profit at ford motor co. f <PUNC>
+after the closing bell <COMMA> microsoft corp. msft will report results <PUNC>
+u.s. stocks ended higher on wednesday <COMMA> with better-than-forecast results from boeing helping steer stocks up in a choppy session <PUNC>
+the dow industrials finished nearly <NUM> points higher <COMMA> the s&p <NUM> rose almost <NUM> points and the nasdaq composite rose <NUM> points <PUNC>
+<PAR>

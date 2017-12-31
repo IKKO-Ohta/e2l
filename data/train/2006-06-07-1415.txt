@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+dupont dd shares fell <NUM> percent to dollar <NUM> after being downgraded to hold by deutsche bank <PUNC>
+intel intc <COMMA> advanced micro devices amd and other chip makers <COMMA> along with cell-phone makers were in focus in early trading <PUNC>
+<PAR>

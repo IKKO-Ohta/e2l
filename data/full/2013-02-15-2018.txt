@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in positive territory <PUNC>
+the index hit an intraday high of <NUM> before dropping to an intraday low of <NUM> <PUNC>
+the dow is currently down <NUM> percent for the week <PUNC>
+shares of wal-mart stores inc. wmt weighed on the dow <COMMA> falling <NUM> percent <COMMA> after bloomberg reported that jerry murray <COMMA> a wal-mart vice president <COMMA> called february s month-to-date sales a total disaster and the worst start to a month he has seen in his time with the company <PUNC>
+<PAR>

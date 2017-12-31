@@ -1,0 +1,4 @@
+the dow dji was up <NUM> points <COMMA> or nearly flat <COMMA> to <NUM> <PUNC>
+it s now lower for the year <PUNC>
+among blue-chips <COMMA> american express axp shares rose <NUM> percent after chief executive kenneth i. chenault said that credit quality in the company s credit-card loans is improving <PUNC>
+<PAR>

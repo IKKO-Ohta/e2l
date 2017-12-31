@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
+blue-chip losses were led by aig aig <COMMA> down <NUM> percent <COMMA> after a citigroup analyst said the insurance giant may have to raise more capital in addition to the dollar <NUM> billion garnered last week <PUNC>
+shares of boeing co. ba were edging lower <COMMA> off <NUM> percent <PUNC>
+<PAR>

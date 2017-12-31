@@ -1,0 +1,4 @@
+after posting gains at the start and then losses the bulk of the session <COMMA> the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with the blue chips now geared towards a <NUM> percent weekly loss <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were trading higher <PUNC>
+the dow s larger decliners include intel corp. intc <COMMA> down <NUM> percent <PUNC>
+<PAR>

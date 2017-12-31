@@ -1,0 +1,7 @@
+the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+dow gainers included intel corp. intc <COMMA> up <NUM> percent <COMMA> ahead of its fourth-quarter earnings release after the close <PUNC>
+cisco systems inc. csco fell after j.p. morgan reduced its rating to underweight from neutral <PUNC>
+bank of america corp. bac lost <NUM> percent after the lender reported a <NUM> percent decline in fourth-quarter profit <PUNC>
+boeing co. ba shares rose <COMMA> reversing losses that came after u.s. regulators ordered its global fleet of <NUM> dreamliners grounded after one of the planes made an emergency landing <COMMA> the latest in a series of mishaps <PUNC>
+off the dow <COMMA> shares of cbs corp. cbs jumped <NUM> percent after the media company said it would convert its outdoor advertising unit to a real-estate investment trust and would solicit a buyer for the asian and european portions of that business <PUNC>
+<PAR>

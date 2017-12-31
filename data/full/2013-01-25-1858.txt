@@ -1,0 +1,4 @@
+the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+on friday <COMMA> apple shares continued their decline <COMMA> with the company falling to second behind exxon mobil corp. xom in market capitalization <PUNC>
+procter & gamble pg reported a second-quarter profit well above expectations <COMMA> with the household-products maker also hiking its sales and earnings outlook for the blue chip s fiscal year <PUNC>
+<PAR>

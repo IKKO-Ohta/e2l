@@ -1,0 +1,2 @@
+the dow jones industrial average dji were down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> with merck & co. inc. mrk fronting the decline <COMMA> its stock off <NUM> percent <PUNC>
+<PAR>

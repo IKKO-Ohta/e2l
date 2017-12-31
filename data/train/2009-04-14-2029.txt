@@ -1,0 +1,5 @@
+on thursday <COMMA> j.p. morgan jpm is scheduled to release its results <COMMA> with citigroup c results coming friday <PUNC>
+on tuesday <COMMA> financial shares fronted the losses as stocks fell after monday s mixed session <PUNC>
+the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
+the s&p <NUM> index spx declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the technology-heavy nasdaq composite index rixf shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

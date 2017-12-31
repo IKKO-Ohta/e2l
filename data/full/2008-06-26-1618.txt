@@ -1,0 +1,7 @@
+u.s. stocks fell sharply thursday <COMMA> with the dow industrials skidding to their lowest level of the year <COMMA> after goldman sachs group inc. downgraded u.s. brokers and advised selling shares of general motors <COMMA> and cautious outlooks from research in motion ltd. <COMMA> nike inc. and oracle corp <PUNC>
+the dow jones industrial average dji tumbled <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after earlier hitting an intra-day low of <NUM> <COMMA> dipping below the intra-day low of <NUM> hit on jan. <NUM> <PUNC>
+general motors corp. gm weighed most heavily on the blue chips <COMMA> down more than <NUM> percent <COMMA> after goldman sachs told clients to unload their positions in the face of the deteriorating automotive climate <PUNC>
+<PAR>
+of the dow s <NUM> components <COMMA> only coca-cola co. ko was trading in positive turf <COMMA> up <NUM> percent <PUNC>
+goldman sachs cut its rating on u.s. brokers to neutral from attractive <COMMA> and put citigroup inc. c on its conviction sell list <PUNC>
+<PAR>

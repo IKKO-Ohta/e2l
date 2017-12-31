@@ -1,0 +1,10 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+shares of alcoa aa led the way lower <COMMA> falling more than <NUM> percent after the aluminum producer said it lost dollar <NUM> billion in the fourth quarter <PUNC>
+shares of general electric ge slumped <NUM> percent after barclays said the firm s quarterly results could be at the lower end of estimates and that moody s could then cut its ratings outlook on ge s debt to negative <PUNC>
+worries about earnings also hit financial shares <COMMA> with both citigroup inc. c and bank of america bac off more than <NUM> percent <PUNC>
+shares of j.p. morgan chase jpm <COMMA> meanwhile <COMMA> rose <NUM> percent <PUNC>
+the bank said late monday it plans to report quarterly results on thursday <COMMA> almost a week ahead of schedule <PUNC>
+out of the dow s <NUM> components <COMMA> <NUM> traded higher <COMMA> led by microsoft msft <COMMA> wal-mart wmt <COMMA> along with exxon mobil corp. xom and chevron corp. cvx <COMMA> with both stocks up more than <NUM> percent <PUNC>
+earnings worries <COMMA> notably in the financials sector <COMMA> pushed u.s. stocks to <NUM> lows on monday <PUNC>
+the dow jones industrial average dropped <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite fell <NUM> points <PUNC>
+<PAR>

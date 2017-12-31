@@ -1,0 +1,10 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the stock market is set to wrap up what has been solid quarter for equities <PUNC>
+both the dow industrials and the s&p <NUM> are up more than <NUM> percent while the nasdaq has surged more than <NUM> percent in the quarter <PUNC>
+germany s sap sap declined to comment on trader speculation that international business machines ibm was preparing to make an offer for the software company <PUNC>
+u.s.-listed shares of sap were up <NUM> cents at dollar <NUM> in pre-market trading <PUNC>
+ibm shares were not yet active <COMMA> but ended thursday s session <COMMA> up <NUM> cents at dollar <NUM> <PUNC>
+citigroup inc. c was charged by the australian securities regulator with insider trading <COMMA> over buying shares of patrick corp. one day before the bank s client toll holdings launched a takeover bid for the company <PUNC>
+citigroup denies the charges <PUNC>
+on thurday <COMMA> the bank s shares fell <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

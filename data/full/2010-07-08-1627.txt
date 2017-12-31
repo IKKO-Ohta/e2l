@@ -1,0 +1,6 @@
+after breaking above <NUM> wednesday <COMMA> the dow jones industrial average dji recently rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+boeing ba advanced <NUM> percent after saying it will acquire narus <COMMA> a privately held software company that specializes in protecting large internet protocol networks from attack <PUNC>
+dupont dd added <NUM> percent <COMMA> and mcdonald s mcd gained <NUM> percent <PUNC>
+technology companies checked the dow s gains <COMMA> as cisco systems csco and intel intc each fell <NUM> percent <PUNC>
+j.p. morgan chase jpm slid <NUM> percent <COMMA> while bank of america bac edged down <NUM> percent <PUNC>
+<PAR>

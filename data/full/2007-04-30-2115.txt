@@ -1,0 +1,10 @@
+the dow jones industrial average dji <COMMA> which breached the key <NUM> mark for the first time last week <COMMA> fell back <NUM> points to close at <NUM> <PUNC>
+but investors were eager to consolidate their gains on the final day of april <PUNC>
+falling the hardest on monday were the likes of alcoa aa <COMMA> american express axp <COMMA> caterpillar cat <COMMA> honeywell hon <COMMA> home depot hd <COMMA> intel intc and mcdonald s mcd <PUNC>
+on the upside <COMMA> procter & gamble pg rose <NUM> percent ahead of its earnings on tuesday <PUNC>
+citigroup c gained <NUM> percent after the financial times reported that the bank may become the target of activist hedge funds <COMMA> who may seek to break it up <PUNC>
+verizon communications vz whose earnings and revenue topped wall street expectations rose <NUM> percent <PUNC>
+the blue-chip average also received support from ibm ibm and 3m co. mmm <PUNC>
+stocks rode a four-session winning streak to close friday at another record high <PUNC>
+the dow had gained ground in <NUM> of the last <NUM> sessions <COMMA> and in <NUM> of the last <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+general motors gm was among the components weighing on the dow jones industrial average dji on thursday <COMMA> its shares down <NUM> percent at dollar <NUM> a share <COMMA> <NUM> cents above its march <NUM> closing low of dollar <NUM> <PUNC>
+<PAR>

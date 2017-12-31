@@ -1,0 +1,2 @@
+following a slide in the previous session <COMMA> the dow jones industrial average dji ended <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+<PAR>

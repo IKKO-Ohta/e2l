@@ -1,0 +1,3 @@
+the holiday-shortened trading week left the dow jones industrial average dji down <NUM> percent <PUNC>
+the s&p <NUM> index spx ended almost unchanged and the nasdaq composite rose <NUM> percent <PUNC>
+<PAR>

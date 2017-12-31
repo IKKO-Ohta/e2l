@@ -1,0 +1,11 @@
+buyers returned in the final hour of trading <COMMA> after the close of trading in crude oil and government bonds <COMMA> and pushed the overall market higher <PUNC>
+the modest gains allowed the s&p <NUM> to set its fourth record high close in a row and pushed the dow jones industrials to another high <PUNC>
+after trading in negative territory for most of the session <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by the likes of disney dis <COMMA> at&t inc. t and home depot inc. hd <PUNC>
+leading the gains among blue chips <COMMA> wal-mart stores inc. wmt rose <NUM> percent <PUNC>
+and general electric co. ge rose almost <NUM> percent after a barron s article outlined the case for breaking up the juggernaut multinational <PUNC>
+a tumble in the chinese stock market last week was followed by rally on wall street the next day <PUNC>
+when shanghai fell sharply in late february <COMMA> the dow industrials had plunged <NUM> points <PUNC>
+but since then <COMMA> u.s. stocks have staged an impressive rally <PUNC>
+through may alone <COMMA> the dow gained <NUM> percent <COMMA> the s&p advanced <NUM> percent and the nasdaq gained <NUM> percent <PUNC>
+last week <COMMA> a slew of better-than-expected data <COMMA> including the may employment report <COMMA> boosted confidence in the economy and helped the dow gain <NUM> percent <COMMA> the s&p <NUM> percent and the nasdaq <NUM> percent <PUNC>
+<PAR>

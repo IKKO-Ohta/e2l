@@ -1,0 +1,6 @@
+futures for the dow jones industrial average djh4 rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while those for the s&p <NUM> index sph4 added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+futures for the nasdaq <NUM> ndh4 gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+wall street saw the best gains in seven weeks on thursday following a bigger-than-expected drop in weekly jobless claims and some upbeat earnings <PUNC>
+the s&p <NUM> index spx closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> its biggest gain since dec. <NUM> <PUNC>
+the dow jones industrial average dji closed near session highs <COMMA> adding <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

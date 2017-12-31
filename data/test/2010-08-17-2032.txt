@@ -1,0 +1,5 @@
+u.s. stocks rallied tuesday <COMMA> with the dow jones industrial average ending a five-session losing streak <COMMA> after potash corp. of saskatchewan inc. s rejection of suitor bhp billiton ltd. unleashed a rally among agricultural companies and retailing giant wal-mart stores inc. s earnings topped estimates <PUNC>
+the dow dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+all but three of its <NUM> components rose <COMMA> including wal-mart wmt and home depot inc. hd <COMMA> both of which reported earnings that beat expectations <PUNC>
+kraft foods inc. kft <COMMA> among the dow s laggards <COMMA> fell <NUM> percent in the wake of a regulatory filing monday that showed warren buffett s investment firm continues to sell shares in the food company <PUNC>
+<PAR>

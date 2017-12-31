@@ -1,0 +1,2 @@
+recouping a bit of the prior session s sharp drop <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+<PAR>

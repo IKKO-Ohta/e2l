@@ -1,0 +1,4 @@
+u.s. stocks traded mixed wednesday as strong boeing co. results boosted the dow jones industrial average <COMMA> but an earnings miss from google inc. weighed on the technology sector <PUNC>
+the dow industrials dji were up <NUM> points at <NUM> <COMMA> buoyed by a <NUM> percent jump in boeing s ba stock <PUNC>
+shares in boeing co. ba <COMMA> a dow component <COMMA> shot up <NUM> percent to dollar <NUM> after the aerospace giant posted forecast-beating quarterly results and lifted its <NUM> profit outlook <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the warning is likely to prompt investors to take a second look at rival hewlett-packard s hpq prospects for the rest of the year <PUNC>
+on monday <COMMA> h-p s stock fell <NUM> cents to dollar <NUM> <PUNC>
+general motors corp. gm and ford motor co. f may draw focus after both were put on creditwatch by standard & poor s after monday s close <COMMA> citing both automakers dependence on sport utility vehicles and trucks amid rising energy prices <PUNC>
+the ratings agency s move comes after both automakers reported a precipitous drop in u.s. vehicles sales for september <PUNC>
+on monday <COMMA> gm shares rose <NUM> cents to dollar <NUM> while shares of ford tacked on <NUM> cents to dollar <NUM> <PUNC>
+shares of procter & gamble pg fell <NUM> percent to dollar <NUM> in pre-market dealings after after citigroup cut the household products maker to hold from buy <COMMA> citing concerns over raw material pricing <PUNC>
+the broker said it will limit upside to earnings-per-share estimates <PUNC>
+in addition <COMMA> citigroup also cut its price target to dollar <NUM> from dollar <NUM> <PUNC>
+<PAR>

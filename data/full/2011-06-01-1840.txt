@@ -1,0 +1,4 @@
+at last check <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> with all but one of its <NUM> components losing ground <PUNC>
+financial powerhouses j.p. morgan chase & co. jpm and bank of america corp. bac were among the blue chips slammed <COMMA> both off <NUM> percent or more <PUNC>
+on tuesday <COMMA> the dow industrials finished may with a loss of <NUM> percent <COMMA> their first monthly drop in six months <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the s&p <NUM> spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the dow jones industrial average dji closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

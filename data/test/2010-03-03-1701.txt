@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> pushing it further into the black for <NUM> after slipping below its break-even point for the year earlier in the session <PUNC>
+industrial giant caterpillar inc. cat led the measure s gains <COMMA> up <NUM> percent <COMMA> as the economically sensitive company was boosted by the latest round of improving data points <PUNC>
+general electric co. ge also climbed <NUM> percent <COMMA> boosted by signs of economic growth <PUNC>
+merck mrk climbed <NUM> percent as rival drugmaker pfizer inc. pfe slid to the bottom of the dow <PUNC>
+pfizer tumbled <NUM> percent after medivation inc. mdvn said its experimental alzheimer s disease treatment dimebon <COMMA> which was in development with pfizer <COMMA> was not effective in a large late-stage study <PUNC>
+the news also sent shares of medivation which has no products on the market and is not a dow component plunging <NUM> percent on heavy volume <PUNC>
+<PAR>

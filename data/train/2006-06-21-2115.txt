@@ -1,0 +1,8 @@
+the dow jones industrial average dji closed up <NUM> points <COMMA> or almost <NUM> percent <COMMA> at <NUM> <COMMA> a bit below its intraday high of <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> only at&t inc. t <COMMA> pfizer inc. pfe and walt disney co dis finished in negative territory <PUNC>
+there were strong gains for a number of dow components <COMMA> including caterpillar inc. cat <COMMA> which rose <NUM> percent <COMMA> dupont dd <COMMA> which ended up <NUM> percent <COMMA> exxonmobil corp. xom <COMMA> up <NUM> percent <COMMA> and honeywell international inc. hon <COMMA> up almost <NUM> percent <COMMA> <PUNC>
+among technology stocks <COMMA> hewlett-packard co. hpq <COMMA> also in the dow <COMMA> rose <NUM> percent to dollar <NUM> <PUNC>
+the company <COMMA> which is in the throes of a restructuring plan <COMMA> said that it would grant more autonomy to its three business groups <PUNC>
+analysts at robert baird reiterated an outperform rating on the blue-chip bellwether <COMMA> citing the company s plan to restructure some bureaucratic activities <PUNC>
+fellow dow component and technology bellwether intel corp. intc rose about <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

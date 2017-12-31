@@ -1,0 +1,8 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+chevron cvx was the measure s best performer <COMMA> up <NUM> percent <COMMA> and crude-oil futures climbed above dollar <NUM> a barrel <COMMA> after the international energy agency raised its estimate for global oil demand for <NUM> <PUNC>
+however <COMMA> the industry watchdog also warned that there is a continuing significant downside risk to its forecasts if the world economy were to stall <PUNC>
+friday s activity comes a day after the dow posted its sixth increase in seven sessions <COMMA> leaving the market roughly flat for the year <PUNC>
+the recent gains <COMMA> came on better-than-expected economic data that have dimmed fears of a double-dip recession <COMMA> have lifted the dow more than <NUM> percent already for the month of september in a strong turnaround from the worst august since <NUM> <PUNC>
+among stocks in focus <COMMA> u.s. shares of nokia nok climbed <NUM> percent after the handset maker said it was replacing embattled chief executive olli-pekka kallasvuo with microsoft s msft stephen elop <PUNC>
+the move comes as nokia seeks to reverse steep declines in earnings and market share that have decimated its share price <PUNC>
+<PAR>

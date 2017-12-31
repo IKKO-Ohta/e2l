@@ -1,0 +1,14 @@
+new york dow jones u.s. stocks ended mixed monday as investors juggled with positive manufacturing data <COMMA> but also a fresh spike in oil prices <COMMA> with the dow jones industrial average drifting lower on weakness in shares of home depot <COMMA> merck and others <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+within the dow <COMMA> home depot inc. hd fell <NUM> percent to dollar <NUM> after the home improvement retailer late friday said it had received a grand jury subpoena from the u.s. attorney s office in los angeles <PUNC>
+according to a regulatory filing <COMMA> the office is seeking documents and information related to the company s handling <COMMA> storage and disposal of hazardous waste <PUNC>
+merck mrk fell <NUM> percent to dollar <NUM> after the wall street journal reported that a new jersey judge has certified a class action suit against the company in connection with its vioxx drug <PUNC>
+shares of procter & gamble co. pg <COMMA> fell <NUM> percent to dollar <NUM> as forecast-beating fourth-quarter results failed to mask a drop in gross margins due in part to higher commodity costs <PUNC>
+wal-mart stores inc. wmt rose <NUM> percent after the discount retailer said july same-stores sales growth is expected to come in at <NUM> percent <PUNC>
+the company previously forecast same-store sales for the month would rise in a range of <NUM> percent to <NUM> percent <PUNC>
+johnson & johnson jnj <COMMA> another dow component <COMMA> rose <NUM> percent after guidant corp. gdt <COMMA> a company which it is in the process of acquiring <COMMA> said it has won regulatory approval to resume sales of its contak renewal <NUM> family of defribillators in the u.s. guidant s shares rallied <NUM> percent <PUNC>
+shares of general motors corp. gm rose <NUM> cents to dollar <NUM> after the carmaker slashed prices and added other buyer incentives for its <NUM> model year fleet <COMMA> hoping to ride the momentum of a discount pricing program that has boosted its fortunes over the last two months <PUNC>
+also <COMMA> exxon mobil corp. xom rose <NUM> percent as energy stocks rallied on the lastest spike in oil prices <PUNC>
+cingular is owned by sbc communications sbc and bellsouth bls <PUNC> verizon is owned by verizon communications vz and vodafone group vod <PUNC>
+verizon shares fell on the news <COMMA> while shares of bellsouth and sbc ended little changed <PUNC>
+<PAR>

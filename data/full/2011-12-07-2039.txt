@@ -1,0 +1,3 @@
+u.s. stocks held steady wednesday <COMMA> with the dow industrials displaying the most strength <COMMA> as investors crossed their fingers two days ahead of a european union summit <PUNC>
+veering between moderate gains and losses after a two-day drop <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+<PAR>

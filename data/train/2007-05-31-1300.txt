@@ -1,0 +1,4 @@
+the futures contract for the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
+u.s. stocks rallied on wednesday after overcoming morning jitters about a sharp shanghai stock market decline <PUNC>
+the dow jones industrials managed a 111-point gain and the nasdaq composite rixf shot up <NUM> points <PUNC>
+<PAR>

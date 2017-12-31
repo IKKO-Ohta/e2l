@@ -1,0 +1,6 @@
+on thursday <COMMA> stocks closed higher <COMMA> with the dow jones industrial average ending a four-session losing streak <COMMA> on better-than-expected results from pfizer inc. and upbeat earnings from chipmaker advanced micro devices <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <PUNC>
+shares in general electric co. ge dipped <NUM> cents to dollar <NUM> in pre-market trading on instinet after the industrial conglomerate s quarterly revenue fell shy of analyst expectations <COMMA> but an upward revision to the bottom end of its <NUM> outlook was helping put a floor on losses <PUNC>
+citigroup inc. c <COMMA> another dow component <COMMA> was off <NUM> percent at dollar <NUM> in pre-market dealings <COMMA> after the new york banking and financial services group posted earnings from continuing operations that missed wall street estimates <PUNC>
+the bank noted a challenging interest rate environment and competitive pricing conditions <PUNC>
+<PAR>

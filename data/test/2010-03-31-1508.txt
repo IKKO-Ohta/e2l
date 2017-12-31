@@ -1,0 +1,3 @@
+after a 70-point fall <COMMA> the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+two-thirds of the blue-chip index s <NUM> components tallied losses <COMMA> led by aerospace giant boeing corp. ba <COMMA> down <NUM> percent <PUNC>
+<PAR>

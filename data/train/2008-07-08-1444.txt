@@ -1,0 +1,5 @@
+down at the start <COMMA> the dow jones industrial average dji tossed its losses aside within the first <NUM> minutes of trading <COMMA> but struggled to retain its gains <COMMA> recently falling <NUM> points to <NUM> <PUNC>
+of the blue-chip index s <NUM> components <COMMA> <NUM> were posting gains <COMMA> recently led by wal-mart stores inc. wmt <COMMA> up <NUM> percent <PUNC>
+the dow s biggest early loser was alcoa inc. aa <COMMA> off <NUM> percent <COMMA> with the aluminum producer due to report on its second quarter after the close <COMMA> kicking off the earnings season <PUNC>
+the dow industrials dropped <NUM> points <COMMA> the nasdaq composite lost <NUM> points and the s&p <NUM> fell <NUM> points <PUNC>
+<PAR>

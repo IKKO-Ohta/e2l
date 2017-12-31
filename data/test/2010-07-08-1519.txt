@@ -1,0 +1,6 @@
+after breaking above the <NUM> level on wednesday <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+leading the measure <COMMA> boeing ba rose <NUM> percent after it said late wednesday it will acquire narus inc. <COMMA> a privately held software company that specializes in protecting large internet protocol networks from attack <PUNC>
+boeing also said it started a tender offer for another software company <COMMA> argon st <PUNC>
+economically sensitive general electric ge gained <NUM> percent and american express axp rose <NUM> percent <PUNC>
+checking some of the dow s gains <COMMA> home depot hd fell <NUM> percent <COMMA> while travelers trv slipped <NUM> percent <PUNC>
+<PAR>

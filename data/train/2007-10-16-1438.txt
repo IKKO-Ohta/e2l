@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
+ibm corp. ibm proved an exception <COMMA> with big blue shares climbing ahead of the company s third-quarter earnings report <COMMA> due after the market close <PUNC>
+dow component johnson & johnson jnj shares fell <NUM> percent after the world s biggest health-care products company reported a lower third-quarter profit <COMMA> but revenue above wall street expectations <PUNC>
+<PAR>

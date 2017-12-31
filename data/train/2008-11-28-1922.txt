@@ -1,0 +1,10 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components ending higher <PUNC>
+while the blue-chip average fell <NUM> percent for the month of november <COMMA> it jumped <NUM> percent over the past week <PUNC>
+even more impressive <COMMA> the dow gained <NUM> points <COMMA> or <NUM> percent <COMMA> in just five sessions <COMMA> marking its best five-day percentage gain since <NUM> <COMMA> and its best five-day point gain on record <PUNC>
+among dow components <COMMA> shares of citigroup inc. c jumped <NUM> percent <COMMA> continuing this week s advance after the government announced it would bail out the ailing bank <PUNC>
+general motors corp. gm gained <NUM> percent after bloomberg news reported the automaker is studying whether to cut its saab <COMMA> saturn and pontiac brands <PUNC>
+the move could be part of the company s pitch to the u.s. government for funds from a potential dollar <NUM> billion loan package for the u.s. auto industry <PUNC>
+but at the kickoff of the holiday shopping seasons <COMMA> shares of wal-mart stores inc. wmt <COMMA> the world s biggest retailer <COMMA> slipped <NUM> percent <PUNC>
+exxon mobil corp. xom and chevron corp. cvx both fell <NUM> percent <PUNC>
+crude futures came under early pressure <COMMA> but finished little changed <COMMA> amid talk that the organization of the petroleum exporting countries may delay production cuts to december <PUNC>
+<PAR>

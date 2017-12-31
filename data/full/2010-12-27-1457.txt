@@ -1,0 +1,4 @@
+u.s. stocks on monday opened lower <COMMA> with the dow jones industrial average retreating from a 26-month high <COMMA> as wall street reacted to china s interest-rate hike during the holiday weekend <PUNC>
+after notching a fourth straight week of gains on thursday <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
+twenty-five of the dow s <NUM> components slid <COMMA> with aluminum giant alcoa inc. aa hardest hit <COMMA> its shares down <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> recently <PUNC>
+earlier in the session <COMMA> the index has traded up as much <NUM> points during the day and down as much as <NUM> points <PUNC>
+the fluctuations came as the market digested acquisition offers from companies including hewlett-packard and hsbc holdings that came on the back of a strong week for deal activity <PUNC>
+investors were initially encouraged by a counteroffer from hewlett-packard hpq for 3par par at a <NUM> percent premium to an offer dell dell made for the data-storage company last week <PUNC>
+3par s shares surged <NUM> percent <COMMA> while h-p slipped <NUM> percent and dell fell <NUM> percent <PUNC>
+among stocks in focus <COMMA> bank of america bac climbed <NUM> percent after fitch ratings upgraded its preferred-stock rating on the banking giant to investment grade <COMMA> citing the company s efforts to boost common equity and liquidity and improving asset quality in its various loan portfolios <PUNC>
+<PAR>

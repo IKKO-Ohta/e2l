@@ -1,0 +1,4 @@
+the dow jones industrial average dji edged up <NUM> points to <NUM> <PUNC>
+walt disney dis climbed <NUM> percent <COMMA> wal-mart stores wmt rose <NUM> percent and dupont dd edged up <NUM> percent <PUNC>
+limiting the gains <COMMA> johnson & johnson jnj fell <NUM> percent <COMMA> hewlett-packard hpq declined <NUM> percent and j.p. morgan chase jpm slipped <NUM> percent <PUNC>
+<PAR>

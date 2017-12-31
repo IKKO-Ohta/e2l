@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> but wrapped up july with a gain of <NUM> percent <PUNC>
+procter & gamble co. pg <COMMA> a dow component <COMMA> should provide an early lift to the blue-chip index <COMMA> after the household products giant posted forecast-beating results on a <NUM> percent rise in revenue <PUNC>
+on friday <COMMA> the stock slipped <NUM> percent to dollar <NUM> <PUNC>
+radioshack corp. rsh said it will sell phones from cingular wireless and sprint corp. fon and will stop selling phones from verizon wireless <PUNC>
+cingular is owned by sbc communications sbc and bellsouth bls <PUNC> verizon is owned by verizon communications vz and vodafone group vod <PUNC>
+radioshack reiterated its <NUM> earnings per share guidance of dollar <NUM> to dollar <NUM> <PUNC>
+<PAR>

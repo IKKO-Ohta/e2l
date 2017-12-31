@@ -1,0 +1,5 @@
+u.s. stocks lost ground monday as exxon mobil <COMMA> hurt by a slide in crude-oil prices <COMMA> weighed heavily on the dow jones industrial average <COMMA> while shares of dell inc. fell after the computer maker said it would have to delay a quarterly earnings filing <PUNC>
+the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
+by sector <COMMA> energy stocks xoi tumbled on the slide in crude prices <PUNC>
+oil giant and dow component exxon mobil corp. xom was a notable decliner <COMMA> off <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

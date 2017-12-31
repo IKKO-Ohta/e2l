@@ -1,0 +1,9 @@
+the dow jones industrial average dji recently added <NUM> points to <NUM> <PUNC>
+at&t inc. t helped support the blue-chip average <COMMA> rising <NUM> percent <PUNC>
+the company late thursday offered additional concessions to regulators to approve its dollar <NUM> billion acquisition of bellsouth corp. bls <PUNC>
+if the deal goes through <COMMA> it will be the largest telecommunications merger in u.s. history <PUNC>
+wal-mart stores inc. wmt was also lending support <COMMA> rising <NUM> percent <PUNC>
+the stock has dropped <NUM> percent since late october amid dwindling sales and concerns that slower economic growth will hurt more <PUNC>
+on thursday <COMMA> stocks closed mildly lower after the dow industrials touched an intraday record <PUNC>
+news that existing home sales rose slightly in november helped relieve concerns that a fast-falling housing will derail economic growth in the new year <COMMA> according to malone <PUNC>
+<PAR>

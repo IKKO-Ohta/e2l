@@ -1,0 +1,5 @@
+the dow jones industrial average gained <NUM> points to <NUM> <COMMA> leaving the blue-chip index with a weekly loss of <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> ended in positive territory <COMMA> with microsoft corp. msft up the most <COMMA> gaining nearly <NUM> percent <PUNC>
+the greatest drag on the blue-chip index proved to be general motors corp. gm <COMMA> off <NUM> percent <PUNC>
+general motors corp. gm proved the greatest weight on the blue-chip index <COMMA> with shares of the auto maker lapsing <NUM> percent <PUNC>
+<PAR>

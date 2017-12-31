@@ -1,0 +1,12 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> about <NUM> points from its daily high and on track for a second straight gain <PUNC>
+the measure is still a long way off <COMMA> however <COMMA> from recouping the <NUM> points it shed in a three-day skid at the end of last week <PUNC>
+coming into tuesday s action <COMMA> the dow was off <NUM> percent for january so far <COMMA> with three trading days to go in the month <PUNC>
+while that performance would beat the average s <NUM> percent slide last january if it holds up <COMMA> history suggests it would send a worrisome sign for the rest of the year <COMMA> according to data from ned davis research looking at early-year performance from <NUM> through <NUM> <PUNC>
+in years during that span when the dow has risen in the first month of the year <COMMA> the median rise for the rest of the year is <NUM> percent <PUNC>
+in years when the dow has fallen <COMMA> the median rise for the next <NUM> months is just <NUM> percent <PUNC>
+the dow s biggest gainer on tuesday was alcoa aa <COMMA> up <NUM> percent thanks to a rebound in metals prices <PUNC>
+travelers trv was also strong <COMMA> up <NUM> percent as the insurer s fourth-quarter earnings jumped <NUM> percent to its highest quarterly profit since going public in <NUM> <PUNC>
+verizon vz was the dow s worst performer <COMMA> down <NUM> percent after the telecom giant reported a fourth-quarter loss as a result of charges related to job cuts in the period <PUNC>
+excluding items <COMMA> verizon said earnings met analysts estimates but its revenue fell short <PUNC>
+the results weighed on rival at&t t <COMMA> which fell <NUM> percent <PUNC>
+<PAR>

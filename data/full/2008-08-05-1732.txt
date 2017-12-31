@@ -1,0 +1,2 @@
+the dow jones industrial average gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by a <NUM> percent jump in shares of aig <COMMA> which received an upgrade from ubs <PUNC>
+<PAR>

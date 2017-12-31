@@ -1,0 +1,7 @@
+the dow jones industrial average dji traded to a session high of <NUM> after the strong housing and confidence data <COMMA> before paring gains <PUNC>
+it was last up <NUM> points at <NUM> <PUNC>
+the data lifted the housing sector hgx and sent shares of home improvement retailers home depot hd and lowe s cos. low higher <PUNC>
+the strength in aircraft orders helped boeing co. ba move higher in midday <PUNC>
+it was last up <NUM> cents at dollar <NUM> <PUNC>
+shares in wal-mart stores inc. wmt fell <NUM> percent to dollar <NUM> after the discount retailer saturday sales suffered because it sold out of a number of deep-discount sale items on the friday after thanksgiving <PUNC>
+<PAR>

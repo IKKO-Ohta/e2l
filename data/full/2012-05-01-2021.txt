@@ -1,0 +1,4 @@
+u.s. stocks advanced tuesday <COMMA> propelling the dow jones industrial average to its highest close since late <NUM> <COMMA> after a report indicated u.s. manufacturing expanded in april <COMMA> offsetting concern about the economic recovery <PUNC>
+after climbing as much as <NUM> points <COMMA> the dow industrials dji finished at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+the finish marked its highest close since december <NUM> <PUNC>
+<PAR>

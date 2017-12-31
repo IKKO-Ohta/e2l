@@ -1,0 +1,5 @@
+after climbing modestly higher earlier <COMMA> the dow jones industrial average staged a triple-digit drop <COMMA> recovering a bit to close at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> posted losses <COMMA> with boeing co. fronting blue-chip decliners <COMMA> its stock down <NUM> percent <PUNC>
+also among the dow stocks <COMMA> wal-mart stores inc. gained <NUM> percent after the world s largest retailer drew an upgrade to outperform from morgan keegan analyst john lawrence <PUNC>
+on monday <COMMA> u.s. equities ended sharply lower <COMMA> breaking a four-session win streak <COMMA> with the dow industrials falling by triple digits after standard & poor s cut its ratings on three large brokerages <PUNC>
+<PAR>

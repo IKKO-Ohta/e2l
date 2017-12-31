@@ -1,0 +1,4 @@
+the dow jones industrial average dji lost <NUM> points at <NUM> in the early going <PUNC>
+microsoft msft rose almost <NUM> percent to dollar <NUM> <PUNC>
+the stock was upgraded by credit suisse to outperform <COMMA> on increased confidence in earnings estimates <PUNC>
+<PAR>

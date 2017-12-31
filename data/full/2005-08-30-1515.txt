@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+within the dow industrials <COMMA> exxon mobil corp. xom was one of only a handful of gainers <COMMA> buoyed by the high price of oil <PUNC>
+at last check <COMMA> the stock was up <NUM> percent <PUNC>
+home depot hd was down <NUM> percent at dollar <NUM> <COMMA> handing back all the gains logged in the prior session on expectations the home improvement retailer would benefit from extra sales sparked by all the house repairs needed after the passage of hurricane katrina <PUNC>
+rival lowe s low was also down <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

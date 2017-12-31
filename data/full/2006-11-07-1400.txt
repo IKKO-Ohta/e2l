@@ -1,0 +1,5 @@
+the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
+stocks rallied to a sharply higher close monday <COMMA> allowing the dow jones industrial average to break a six-session losing streak <COMMA> after an upbeat fed official s remarks and a dollar <NUM> billion takeover offer for four season hotels inc. lent cheer to the market <PUNC>
+microsoft msft <COMMA> also in the dow <COMMA> could be active <PUNC>
+the company was downgraded to neutral from buy at banc of america securities <COMMA> which cited the belief that earnings won t start beating expectations until <NUM> <COMMA> rather than <NUM> <PUNC>
+<PAR>

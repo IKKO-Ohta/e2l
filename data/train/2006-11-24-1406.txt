@@ -1,0 +1,6 @@
+the futures contract for the dow jones industrial average was down <NUM> points at <NUM> <PUNC>
+wal-mart stores inc. wmt <COMMA> a component of the dow jones industrial average <COMMA> will be in focus <PUNC>
+the new york times reported that it has received the go-ahead for banking operations in mexico <PUNC>
+intel corp intc <COMMA> also in the dow <COMMA> may trim jobs at its 150-employee korean unit <COMMA> according to a korean news agency <PUNC>
+another dow component <COMMA> ibm corp. ibm agreed to pay dollar <NUM> million to resolve all claims in an overtime-pay <COMMA> class-action suit filed in a northern california federal court in january <PUNC>
+<PAR>

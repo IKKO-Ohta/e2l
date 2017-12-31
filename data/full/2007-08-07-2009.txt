@@ -1,0 +1,4 @@
+stocks riding a wave of volatility that had the dow jones industrials swinging 100-points in either direction on tuesday closed with modest gains after the federal reserve s largely optimistic take on u.s. economic growth <PUNC>
+after heading lower in the immediate aftermath of the central bank s move <COMMA> the dow jones industrial average dji closed <NUM> points ahead at <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <PUNC>
+automaker general motors corp. gm fronted the dow s advancing stocks <COMMA> gained <NUM> percent after gm said it completed the sale of its allison transmission commercial and military business to the carlyle group and onex corp. for about dollar <NUM> billion <PUNC>
+<PAR>

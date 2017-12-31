@@ -1,0 +1,5 @@
+after rising earlier in the session <COMMA> the dow jones industrial average dji sharply reversed <COMMA> falling <NUM> points or <NUM> percent <COMMA> to <NUM> <PUNC>
+on the dow industrials average <COMMA> american express co. axp was the measure s worst performer <COMMA> with shares falling <NUM> percent <PUNC>
+materials components also fell <COMMA> with alcoa inc. aa down <NUM> percent and caterpillar cat down <NUM> percent <PUNC>
+home depot hd was the strongest performer <COMMA> with the home-improvement retailer s shares climbing <NUM> percent after announcing its first dividend hike since <NUM> as earnings topped estimates <PUNC>
+<PAR>

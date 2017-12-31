@@ -1,0 +1,4 @@
+the dow jones industrial average dji finished up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> rebounding after a bruising pre-july <NUM> week <PUNC>
+since tuesday <COMMA> the dow has gained <NUM> percent <COMMA> putting the measure back around where it was at the beginning of last week <PUNC>
+thursday s finish seemed to follow that pattern to a tee <COMMA> with the dow hovering around <NUM> before shooting up about <NUM> points <PUNC>
+<PAR>

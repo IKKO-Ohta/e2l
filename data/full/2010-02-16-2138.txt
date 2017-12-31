@@ -1,0 +1,5 @@
+the dow jones industrial average s dji gains mounted steadily throughout the session <COMMA> and the blue-chip indicator ended with a 169.67-point gain <COMMA> up <NUM> percent <COMMA> at <NUM> <COMMA> within <NUM> points of its daily high <PUNC>
+the dow s strongest component by far was bank of america corp. bac <COMMA> whose shares surged <NUM> percent after it reported significant gains in the number of modified mortgages it handles through the government s home affordable modification program <PUNC>
+also <COMMA> it reported better payment performance on its credit card loans last month <PUNC>
+among stocks to watch <COMMA> merck & co. mrk shares gained <NUM> percent after the company s fourth-quarter profit and sales rose sharply on its recent takeover of schering-plough <PUNC>
+<PAR>

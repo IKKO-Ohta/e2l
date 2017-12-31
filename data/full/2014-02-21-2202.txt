@@ -1,0 +1,4 @@
+the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
+nike inc. nke and walt disney co. dis both gained <NUM> percent to lead the dow <COMMA> while verizon communications inc. vz fell <NUM> percent for the worst performance among blue chips <PUNC>
+the dow dipped <NUM> percent for the week <COMMA> also halting a two-week winning streak <PUNC>
+<PAR>

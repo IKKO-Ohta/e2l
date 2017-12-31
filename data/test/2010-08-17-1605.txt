@@ -1,0 +1,3 @@
+snapping a five-session losing run <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+all but one of the dow s <NUM> components were on the rise <COMMA> including wal-mart stores inc. wmt and home depot inc. hd <COMMA> both of which reported earnings that beat expectations <PUNC>
+<PAR>

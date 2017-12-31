@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the dow ended the week down <NUM> points <COMMA> after gaining <NUM> points <COMMA> or <NUM> percent over the previous <NUM> weeks <PUNC>
+shares of delphi corp. dph plummeted <NUM> percent to dollar <NUM> in afternoon trading after the troubled auto-parts maker said it was in discussions with former parent general motors corp. gm and the united auto workers about a comprehensive restructuring of its unprofitable u.s. operations <COMMA> according to a wall street journal report <PUNC>
+elsewhere <COMMA> shares of microsoft corp msft gained for a fifth session in a row as the software giant named former wal-mart storess inc. wmt executive <COMMA> kevin turner <COMMA> as its new chief operating officer <COMMA> starting september <NUM> <PUNC>
+at last check <COMMA> the stock was up <NUM> percent at dollar <NUM> <COMMA> a nine-month high <PUNC>
+<PAR>

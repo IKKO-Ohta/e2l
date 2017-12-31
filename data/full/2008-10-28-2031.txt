@@ -1,0 +1,7 @@
+u.s. stocks blasted higher tuesday afternoon <COMMA> wiping away a week s worth of steep losses <COMMA> as the dow jones industrial average jumped nearly <NUM> points - its second biggest daily point gain ever - as bargain hunters flooded the market <PUNC>
+surging as much as <NUM> points just moments head of the close <COMMA> the dow industrials dji settled at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+all of the blue-chip index s <NUM> components advanced <COMMA> two-thirds tallying double-digit gains <COMMA> with alcoa inc. aa gaining the most <COMMA> up <NUM> percent <PUNC>
+also supporting the blue-chip index <COMMA> shares of boeing corp. ba gained <NUM> percent after the company reached a tentative pact with machinists <PUNC>
+general motors corp. gm gained <NUM> percent after the wall street journal reported that the energy department is working to arrange dollar <NUM> billion in loans to the automaker <COMMA> which would help gm merge with chrysler <PUNC>
+on monday <COMMA> a bout of late-session selling sent u.s. stocks lower <COMMA> with the dow jones industrial average falling <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its lowest close since april <NUM> <COMMA> <NUM> <COMMA> with the blue-chip index down <NUM> percent so far for october <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> in midmorning trade <COMMA> well off an earlier high of <NUM> <PUNC>
+the dow s technology components ibm ibm and microsoft msft provided most of the strength <PUNC>
+but financial components american express axp <COMMA> citigroup inc. c and j.p. morgan chase jpm turned negative after the mbia news <PUNC>
+u.s. stocks had ended mixed wednesday after a volatile day that featured mixed signals on the credit crisis <COMMA> with a potential downgrade of bond insurers dulling a mostly positive auction of funds to banks by the federal reserve <PUNC>
+the dow industrials fell <NUM> points <COMMA> the s&p <NUM> slipped nearly <NUM> points while the nasdaq composite rose nearly <NUM> points <PUNC>
+<PAR>

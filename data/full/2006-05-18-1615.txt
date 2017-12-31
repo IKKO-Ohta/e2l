@@ -1,0 +1,8 @@
+u.s. stocks were modestly higher in tentative trade thursday as some investors moved to pick up attractively-valued shares after a prior session in which the dow jones industrial average suffered its biggest one-day point decline in more than three years <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+dow component merck mrk rose <NUM> percent to dollar <NUM> <COMMA> buoyed by hopes that its vaccine for hpv <COMMA> a known cause of cervical cancer <COMMA> will be recommended for approval by a u.s. food and drug administration advisory committee scheduled to meet later today <PUNC>
+hewlett-packard hpq was the biggest percentage gainer on the dow two days in a row <COMMA> boosted by a second analyst upgrade in the wake of strong quarterly results <PUNC>
+morgan stanley raised its rating on the computer hardware maker to equal weight from underweight <COMMA> on the belief that improving returns on innovation investments will be reflected in enhanced market share and profitability over the long term <PUNC>
+rival dell inc. s shares dell were up <NUM> percent as it prepares to release its results after the market closes <PUNC>
+home depot inc. shares hd rose <NUM> percent to dollar <NUM> after the home improvement retailer late wednesday said its board has approved a dollar <NUM> billion share buyback program <PUNC>
+<PAR>

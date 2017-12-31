@@ -1,0 +1,8 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> cooling off from a strong monday that followed its biggest monthly gain in a year <PUNC>
+the pause illustrated investors skittishness <COMMA> as sentiment has been quick to change from one day to the next amid fluctuations in economic readings <PUNC>
+weighing on the dow <COMMA> procter & gamble pg fell <NUM> percent <PUNC>
+the consumer-products giant s fiscal fourth-quarter sales jumped nearly <NUM> percent as the company launched new offerings and promoted its brands more heavily <COMMA> but the lower prices nicked results and sales grew less than the company had projected <PUNC>
+however <COMMA> pfizer pfe jumped <NUM> percent after the drug giant posted a <NUM> percent increase in second-quarter earnings <PUNC>
+adjusted earnings and revenue beat analysts estimates <PUNC>
+revenue was boosted by pfizer s acquisition of wyeth <COMMA> and sales of its flagship drugs rose <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+after losing about <NUM> points tuesday <COMMA> the dow jones industrial average dji recouped much of those declines wednesday <COMMA> rising <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+gainers were led by kraft foods inc. kft <COMMA> alcoa inc. aa and dupont co. dd <PUNC>
+on a point basis <COMMA> chevron corp. cvx was the measure s strongest component <COMMA> thanks to an increase in oil prices <PUNC>
+weighing on the index <COMMA> intel corp. intc lost <NUM> percent after the federal trade commission sued the chip maker <COMMA> looking to block tactics it said the company used to snuff out competition <PUNC>
+<PAR>

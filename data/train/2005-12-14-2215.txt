@@ -1,0 +1,10 @@
+the dow industrials dji rose to a session high of <NUM> before paring gains <PUNC>
+the benchmark index ended up <NUM> points at <NUM> <PUNC>
+honeywell international inc. hon rose as much as <NUM> percent to dollar <NUM> after the diversified industrial manufacturer reaffirmed its earnings and sales targets for <NUM> <COMMA> and forecast <NUM> results that would be in line with analysts projections <PUNC>
+the stock ended up <NUM> percent at dollar <NUM> <PUNC>
+boeing co. shares ba rose to a record high <COMMA> finishing up <NUM> cents to dollar <NUM> <COMMA> after the aerospace giant confirmed it has received orders for up to <NUM> of its <NUM> dreamliner airplanes from australian airline qantas <PUNC>
+merck shares mrk gained <NUM> percent to dollar <NUM> as investors waited to see whether an advisory panel of the food and drug administration would recommend its new vaccine for rotavirus <COMMA> a gastrointestinal virus <PUNC>
+pfizer inc. shares pfe climbed <NUM> percent to dollar <NUM> <PUNC>
+european approval for macugen <COMMA> a treatment for wet age-related macular degeneration <COMMA> has moved a step closer <PUNC>
+the company is the international marketing partner for macugen <COMMA> a drug developed by osi pharmaceuticals inc. osip <PUNC>
+<PAR>

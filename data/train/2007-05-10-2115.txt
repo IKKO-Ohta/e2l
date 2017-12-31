@@ -1,0 +1,11 @@
+u.s. stocks ended sharply lower thursday <COMMA> with the dow jones industrial average losing more than <NUM> points <COMMA> after retailers <COMMA> including wal-mart stores inc. <COMMA> reported worse-than-expected declines in april sales <PUNC>
+it was the first triple-digit loss for the dow since mid-march <PUNC>
+this has to be seen in the context of how high the dow has gotten <COMMA> said art hogan <COMMA> chief market strategist at jefferies & co <PUNC>
+the dow industrials reached another record high on wednesday <PUNC>
+the dow earlier in the week pierced the <NUM> level for the first time <PUNC>
+the dow jones industrial average dji ended down <NUM> points at <NUM> <COMMA> recovering somewhat from a <NUM> point drop earlier <PUNC>
+big declines were posted by shares of alcoa inc. aa <COMMA> dupont dd and caterpillar inc. cat <PUNC>
+among blue chips <COMMA> wal-mart wmt only fell <NUM> percent <COMMA> even after the giant retailer said its april sales fell <NUM> percent <COMMA> while analysts expected a <NUM> percent drop <PUNC>
+among other dow components <COMMA> merck mrk fell <NUM> percent after an editorial in the new england journal of medicine recommended a cautious approach toward merck s cervical cancer vaccine <COMMA> gardasil <PUNC>
+american international group aig closed up <NUM> percent ahead of reporting earnings after the close <PUNC>
+<PAR>

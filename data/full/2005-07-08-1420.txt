@@ -1,0 +1,6 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+within the dow industrials <COMMA> alcoa inc. shares aa rose <NUM> percent to dollar <NUM> on better-than-expected quarterly results <PUNC>
+shares of general electric co. ge climbed <NUM> percent to dollar <NUM> <COMMA> buoyed by positive broker comment from morgan stanley and smith barney <PUNC>
+alcoa inc. shares aa rallied in morning trading as the company s results overnight marked the unofficial kick-off to the second quarter earnings season <PUNC>
+shares of general electric ge gained after morgan stanley analyst scott david said the industrial conglomerate s stock has more upside potential than downside risk <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with the benchmark index also posting its first loss in four sessions <PUNC>
+ibm ibm is set to power gains on the benchmark index in early trading as big blue s shares rallied dollar <NUM> <COMMA> or <NUM> percent to dollar <NUM> as analysts enthused over its second-quarter results <PUNC>
+johnson & johnson jnj shares edged up <NUM> percent in pre-market dealings after it posted second-quarter results that topped analyst estimates on an <NUM> percent jump in sales year-over-year <PUNC>
+shares of hewlett-packard co. hpq <COMMA> another dow component <COMMA> rose <NUM> percent after it said it would cut <NUM> jobs <COMMA> or roughly <NUM> percent of its workforce <COMMA> as part of a major restructuring that chief executive mark hurd said is necessary for the printer and computer giant to reach its full potential <PUNC>

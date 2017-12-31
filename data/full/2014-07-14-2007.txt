@@ -1,0 +1,7 @@
+u.s. stocks rebounded on monday with the dow jones industrial average closing above <NUM> as a flurry of deal news and better-than-expected earnings from citigroup inc increased demand for equities <PUNC>
+the banking heavyweight s profit topped estimates <COMMA> even as it reached a dollar <NUM> billion settlement with the u.s. justice department over shoddy mortgage-backed securities <PUNC>
+citigroup shares climbed <NUM> percent <COMMA> lifting shares of other banks such as j.p. morgan chase & co jpm and goldman sachs group inc. gs <PUNC>
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+the dow jones industrial average dji scaled an intraday record high <COMMA> but retreated slightly in the afternoon to close <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+the nasdaq composite rixf gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

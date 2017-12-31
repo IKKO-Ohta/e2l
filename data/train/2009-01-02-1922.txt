@@ -1,0 +1,9 @@
+up for a third consecutive session <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> positioning the blue-chip index for a weekly climb of <NUM> percent <PUNC>
+all but one of the dow s <NUM> components offered afternoon gains <PUNC>
+general motors corp. gm jumped <NUM> percent on word that lender gmac llc had changed its financial-services pact with the struggling auto giant to give it more flexibility in offering loans <PUNC>
+also bolstering the dow <COMMA> shares of citigroup inc. c gained <NUM> percent after chief executive vikram pandit said in a wednesday memo that he and chairman win bischoff will not take a <NUM> bonus and will cut pay and severance packages for executives <PUNC>
+<PAR>
+but one bank s shares moderated the dow s rise <COMMA> as j.p. morgan chase jpm slipped <NUM> percent <PUNC>
+u.s. stocks had rallied wednesday <COMMA> the final session of <NUM> <COMMA> with the dow jones industrial average striking its best last-day-of-the year performance in percent terms since <NUM> <PUNC>
+the dow jones industrial average gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end down <NUM> percent for the year <PUNC>
+<PAR>

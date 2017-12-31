@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+deutsche bank lowered ratings for general motors gm and borgwarner bwa <COMMA> sending both to hold from buy on fears the cyclical north american downturn could be deeper and more protracted than previously expected <PUNC>
+visa said it could raise nearly dollar <NUM> billion in an initial public offering <COMMA> adding it was ahead of mastercard ma and american express axp in terms of dollar volume and transactions in <NUM> <PUNC>
+<PAR>

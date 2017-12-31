@@ -1,0 +1,6 @@
+u.s. stocks are set to open a touch lower thursday <COMMA> as the dow jones industrial average and the nasdaq composite break from a 5-session winning streak <COMMA> with price action likely to be cautious ahead of the three-day easter holiday <PUNC>
+the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
+stocks closed modestly higher wednesday <COMMA> with the dow industrials up about <NUM> points <COMMA> the s&p <NUM> adding <NUM> points and the nasdaq composite rising <NUM> points <PUNC>
+a raft of economic reports came in worse than forecast <COMMA> but crude-oil futures declined in the wake of iran freeing <NUM> u.k. naval personnel it had captured <PUNC>
+the first-quarter earnings season will begin in earnest next week <COMMA> with results from aluminum producer alcoa inc. aa <PUNC>
+<PAR>

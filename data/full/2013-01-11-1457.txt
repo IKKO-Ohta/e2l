@@ -1,0 +1,6 @@
+also in the financial sector <COMMA> american express co. axp late thursday outlined plans to eliminate <NUM> jobs <PUNC>
+the planned layoffs resulted in a dollar <NUM> million restructuring charge in the fourth quarter <COMMA> the company said in a surprise earnings announcement <PUNC>
+american express shares gained <NUM> percent <COMMA> making the firm the top gainer in the dow jones industrial average dji <COMMA> which edged down <NUM> percent to <NUM> <PUNC>
+boeing co. ba was the biggest decliner in the dow <COMMA> with its shares down <NUM> percent <PUNC>
+the federal aviation administration announced a review of boeing s <NUM> dreamliner jet following several recent incidents involving the plane <PUNC>
+boeing <COMMA> in a statement friday <COMMA> welcomed the review and said it is confident in the design and performance of the <NUM> <PUNC>

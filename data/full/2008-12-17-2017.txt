@@ -1,0 +1,2 @@
+after a triple-digit slide and brief stab at turning positive <COMMA> the dow jones industrial average dji was lately down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components posting declines <PUNC>
+<PAR>

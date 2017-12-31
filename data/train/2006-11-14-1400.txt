@@ -1,0 +1,10 @@
+the futures contract for the dow jones industrial average last was up <NUM> cents at <NUM> <PUNC>
+home depot hd dropped <NUM> percent to dollar <NUM> before the opening <PUNC>
+the company reported a <NUM> percent profit fall on <NUM> percent revenue rise <COMMA> with both profit and sales missing analyst estimates <PUNC>
+wal-mart wmt <COMMA> a component of the dow jones industrial average <COMMA> rose <NUM> percent to dollar <NUM> in premarket trade <PUNC>
+the retailer said third-quarter profit rose a better-than-forecast <NUM> percent on an in-line <NUM> percent revenue rise <PUNC>
+the dow component sees fourth-quarter continuing operations between <NUM> cents and <NUM> cents a share <COMMA> compared to analyst estimates of <NUM> cents a share <PUNC>
+the auto sector also could be a focus of attention <PUNC>
+the top executives of general motors corp. gm <COMMA> ford motor co. f and daimlerchrysler ag <PUNC>
+dcx are set to finally sit down tuesday with president bush <COMMA> with thorny issues such as health care <COMMA> trade policies and energy legislation likely on the docket <PUNC>
+<PAR>

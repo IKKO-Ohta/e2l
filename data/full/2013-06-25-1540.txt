@@ -1,0 +1,3 @@
+after closing at its lowest level since april <NUM> on monday <COMMA> the dow industrials dji on tuesday rose as much as <NUM> points and were lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+blue-chip banks led the dow s rise <COMMA> with bank of america corp. bac <COMMA> american express co. axp and j.p. morgan chase & co. jpm all up more than <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+pfizer pfe fell <NUM> percent after news it halted development of a once-promising cholesterol drug <PUNC>
+financial shares were providing strong support <COMMA> including for the dow industrials <COMMA> where american express co. axp <COMMA> citigroup inc. c and jp morgan chase & co. jpm all advanced <PUNC>
+elsewhere <COMMA> home depot inc. hd <COMMA> a dow component <COMMA> gained <NUM> cents to dollar <NUM> <PUNC>
+it said in a regulatory filing that it has had no discussion about a potential leveraged buyout or recapitalization <PUNC>
+<PAR>

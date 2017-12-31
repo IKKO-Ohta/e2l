@@ -1,0 +1,4 @@
+the dow jones industrial average dji closed up <NUM> points at <NUM> <PUNC>
+the top performer on the dow <COMMA> boeing ba <COMMA> registered an almost <NUM> percent gain <PUNC>
+dow component boeing co. ba closed up almost <NUM> percent at dollar <NUM> <COMMA> extending a prior-session gain of <NUM> percent as the aerospace giant continued to benefit from news of a tentative agreement with its machinists union that could end a strike by more than <NUM> workers <PUNC>
+<PAR>

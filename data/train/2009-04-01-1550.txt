@@ -1,0 +1,4 @@
+on wednesday <COMMA> stocks reversed course on early declines <COMMA> with materials and financials pacing the gains <PUNC>
+after a drop of more than <NUM> points earlier <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <PUNC>
+the s&p <NUM> spx advanced <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf gained <NUM> points to <NUM> <PUNC>
+<PAR>

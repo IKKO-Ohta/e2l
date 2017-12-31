@@ -1,0 +1,8 @@
+the dow jones industrial average dji finished down <NUM> points at <NUM> but that was well off an earlier low of <NUM> <PUNC>
+for the week <COMMA> the dow finished up <NUM> percent <PUNC>
+the s&p <NUM> index spx rose <NUM> points to <NUM> on friday <COMMA> for a weekly gain of <NUM> percent <PUNC>
+the nasdaq composite rixf fell <NUM> points to <NUM> friday but it still rose <NUM> percent <PUNC>
+on thursday <COMMA> global markets posted steep losses <COMMA> including a nearly 400-point drop for the dow <COMMA> after french bank bnp paribas bnpqy had suspended three funds with exposure to bad u.s. home loans <PUNC>
+both wal-mart wmt and home depot hd will report earnings on tuesday <COMMA> which could provide clues on how well consumers have been coping with high energy prices <COMMA> a stumbling housing market and tougher terms to borrow money <PUNC>
+hewlett-packard hpq will be the last dow component to report second-quarter earnings on tuesday <PUNC>
+<PAR>

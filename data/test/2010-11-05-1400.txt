@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> in early trading <PUNC>
+kraft foods kft led the measure s drop <COMMA> off <NUM> percent <COMMA> after the food company posted an <NUM> percent drop in third-quarter profit as higher taxes <COMMA> jumps in advertising spending and the costs for integrating cadbury weighed <PUNC>
+in addition <COMMA> starbucks sbux chief executive howard schultz told investors his company will discontinue its arrangement to use kraft as a distributor for its coffee products <PUNC>
+friday s activity comes after the dow index surged <NUM> percent on thursday to end at <NUM> <COMMA> its highest close since early september <NUM> <PUNC>
+<PAR>

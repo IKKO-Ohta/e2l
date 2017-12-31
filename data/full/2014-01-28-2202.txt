@@ -1,0 +1,8 @@
+the s&p <NUM> spx closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> snapping a three-day skid <PUNC>
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> breaking a five-day losing streak <PUNC>
+pfizer pfe shares gained <NUM> percent after the pharmaceutical company s results were above analysts forecasts <PUNC>
+adjusted earnings rose <NUM> percent to <NUM> cents per share <COMMA> and revenue fell <NUM> percent to dollar <NUM> billion <PUNC>
+analysts polled by factset had expected earnings of <NUM> cents per share on sales of dollar <NUM> billion <PUNC>
+dupont dd shares reversed earlier gains and closed down <NUM> percent even as the company reported its profit doubled in the fourth quarter year-to-year and beat wall street expectations <PUNC>
+the chemical company said it would start a dollar <NUM> billion share-repurchase program <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> led by american express co. axp <COMMA> off <NUM> percent <COMMA> and home depot inc. hd <COMMA> down <NUM> percent <PUNC>
+other blue chips on the decline included general electric co. ge <COMMA> down <NUM> percent <COMMA> after the diversified conglomerate said it might sell its dollar <NUM> billion appliance business <PUNC>
+exxon mobil corp. xom led gains on the dow <COMMA> up <NUM> percent <COMMA> as crude-oil futures rallied to a fresh high of dollar <NUM> a barrel <COMMA> before retreating a bit to dollar <NUM> a barrel <COMMA> up dollar <NUM> <COMMA> or <NUM> percent <PUNC>
+<PAR>

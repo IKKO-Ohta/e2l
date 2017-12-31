@@ -1,0 +1,5 @@
+u.s. stocks surged thursday <COMMA> with the dow industrials closing above where it stood just ahead of the collapse of lehman brothers <COMMA> with investors around the globe embracing the federal reserve s dollar <NUM> billion plan to stoke the economy <PUNC>
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its first finish above where it ended on sept. <NUM> <COMMA> <NUM> <PUNC>
+the dow fell <NUM> points on sept. <NUM> <COMMA> <NUM> <COMMA> the day of lehman s bankruptcy filing <PUNC>
+bank of america corp. bac and jpmorgan chase jpm extended their gains after the wall street journal reported the fed is expected to soon let healthy banks with robust capital levels increase dividend payments <PUNC>
+<PAR>

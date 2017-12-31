@@ -1,0 +1,6 @@
+u.s. stocks on friday notched weekly gains and the dow jones industrial average scored another record close <COMMA> after data showed the nation s jobless rate fell to a four-year low <PUNC>
+after climbing as much as <NUM> points during the session and extending a winning run into a sixth session that has had it closing at record highs in recent days <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+see a slideshow on stock bulls vs <COMMA> bears <PUNC>
+both the dow and s&p <NUM> rose <NUM> percent for the week <PUNC>
+read weekend investor on <NUM> six stocks warren buffett hunted in <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the futures contract for the dow jones industrial average was down <NUM> points at <NUM> <PUNC>
+on tuesday stocks closed higher as the dow jones industrials reached yet another record high closing level <COMMA> lifting by some new mergers and upbeat results from wal-mart stores inc <PUNC>
+shares of hewlett-packard co. hpq ere a touch lower in pre-market electronic trade <PUNC>
+late tuesday the company reported a <NUM> percent rise in quarterly profit <PUNC>
+the earnings also beat analysts expectations <PUNC>
+<PAR>

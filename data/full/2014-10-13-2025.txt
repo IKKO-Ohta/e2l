@@ -1,0 +1,5 @@
+monday s trading marked the fifth consecutive day of <NUM> percent moves for the s&p <NUM> and triple-digit moves for the dow jones industrial average <PUNC>
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the blue-chip index turned negative for the year on friday and is now down <NUM> percent year-to-date <PUNC>
+on tuesday <COMMA> earnings season will get under way in earnest with major banks such as j.p. morgan chase & co. jpm and citigroup inc. c among those due to report <PUNC>
+<PAR>

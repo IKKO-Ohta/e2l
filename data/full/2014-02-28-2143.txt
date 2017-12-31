@@ -1,0 +1,5 @@
+stocks saw some pressure late in the session as ukraine officials accused russia of sending troops into the crimea region <COMMA> although the s&p <NUM> and the dow managed to push back into positive territory before the closing bell <PUNC>
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the blue-chip index rose <NUM> percent on a weekly basis <PUNC>
+the index saw a february rise of <NUM> percent <COMMA> its largest monthly percentage gain since january <NUM> <PUNC>
+<PAR>

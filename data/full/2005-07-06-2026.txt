@@ -1,0 +1,12 @@
+the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> the s&p <NUM> spx down <NUM> points at <NUM> <PUNC>
+the nasdaq composite rixf finished down <NUM> points at <NUM> <PUNC>
+on thursday alcoa inc. aa will kick off the earnings season with its second-quarter report <PUNC>
+alcoa traditionally is the first dow component to release quarterly results <PUNC>
+walt disney dis announced that it is beefing up an operation in order to launch a national u.s. wireless service for families <COMMA> particularly children <PUNC>
+the stock closed down <NUM> cents at dollar <NUM> <PUNC>
+american international group aig <COMMA> down <NUM> cents at dollar <NUM> <COMMA> late tuesday named former securities and exchange commission chairman arthur levitt as a special adviser to its board <PUNC>
+general electric s ge commercial finance division said it will acquire dollar <NUM> billion in aircraft assets from cit group <PUNC>
+ge stock fell <NUM> cents to dollar <NUM> <PUNC>
+daimlerchrysler dcx joined its rivals general motors gm and ford motor co. f in offering hefty employee discounts <PUNC>
+daimlerchrysler shares rose <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

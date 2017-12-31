@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> while those for the s&p <NUM> gained <NUM> points to <NUM> <PUNC>
+among blue chips <COMMA> citigroup c gained <NUM> percent before the open <PUNC>
+the bank said it was cutting <NUM> jobs worldwide in a bid to save dollar <NUM> billion a year by <NUM> <PUNC>
+alcoa aa shares rose <NUM> percent after it kicked off the first-quarter earnings season after the close on tuesday with a <NUM> percent rise in profits and an upbeat outlook for the year <PUNC>
+<PAR>

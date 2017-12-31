@@ -1,0 +1,12 @@
+new york dow jones u.s. stocks traded mixed monday as weakness in shares of procter & gamble and home depot weighed on the dow jones industrial average <COMMA> but a stronger-than-expected manufacturing report and an upgrade for ebay offered some support <PUNC>
+the dow industrials dji was last down <NUM> points at <NUM> <PUNC>
+within the dow <COMMA> shares of procter & gamble co. pg <COMMA> fell <NUM> percent as forecast-beating fourth-quarter results failed to mask a drop in gross margins due in part to higher commodity costs <PUNC>
+home depot inc. hd fell <NUM> percent to dollar <NUM> after the home improvement retailer late friday said it had received a grand jury subpoena from the u.s. attorney s office in los angeles <PUNC>
+according to a regulatory filing <COMMA> the office is seeking documents and information related to the company s handling <COMMA> storage and disposal of hazardous waste <PUNC>
+wal-mart stores inc. wmt rose <NUM> percent after the discount retailer said july same-stores sales growth is expected to come in at <NUM> percent <PUNC>
+the company previously forecast same-store sales for the month would rise in a range of <NUM> percent to <NUM> percent <PUNC>
+johnson & johnson jnj <COMMA> another dow component <COMMA> rose <NUM> percent after guidant corp. gdt <COMMA> a company which it is in the process of acquiring <COMMA> said it has won regulatory approval to resume sales of its contak renewal <NUM> family of defribillators in the u.s. guidant s shares rallied <NUM> percent <PUNC>
+also <COMMA> shares of general motors corp. gm added <NUM> cents to dollar <NUM> after the carmaker said it is preparing to announce pricing changes to its <NUM> model lineup <COMMA> a day before it releases vehicle sales for july <PUNC>
+cingular is owned by sbc communications sbc and bellsouth bls <PUNC> verizon is owned by verizon communications vz and vodafone group vod <PUNC>
+verizon shares fell on the news <COMMA> while shares of bellsouth and sbc were little changed in morning trading <PUNC>
+<PAR>

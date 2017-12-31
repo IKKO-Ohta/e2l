@@ -1,0 +1,3 @@
+after climbing nearly <NUM> points <COMMA> the dow jones industrial average dji lately stood at <NUM> <COMMA> up <NUM> points <COMMA> with <NUM> of its <NUM> components posting gains <COMMA> recently led by american express co. axp <COMMA> up <NUM> percent <PUNC>
+chevron corp. cvx fronted declines among the blue chips <COMMA> with shares of the oil giant down <NUM> percent <PUNC>
+<PAR>

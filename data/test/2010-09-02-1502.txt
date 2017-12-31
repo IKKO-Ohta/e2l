@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
+home depot hd was the measure s best performer <COMMA> up <NUM> percent <COMMA> boosted by the housing data <PUNC>
+alcoa aa and boeing ba were also strong <COMMA> with gains of more than <NUM> percent each <PUNC>
+meanwhile <COMMA> the bidding war between hewlett-packard and dell over 3par appeared to come to a finish <COMMA> with h-p hpq raising its latest offer to dollar <NUM> a share from dollar <NUM> and dell saying it won t offer another bid <PUNC>
+3par par said it determined h-p s revised proposal is superior to the latest one from dell <COMMA> and that the company notified dell of its intention to terminate its merger agreement with dell <PUNC>
+h-p edged up <NUM> percent and 3par climbed <NUM> percent while dell added <NUM> percent <PUNC>
+<PAR>

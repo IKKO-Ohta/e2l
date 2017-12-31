@@ -1,0 +1,4 @@
+the dow jones industrial average dji last was down <NUM> points at <NUM> <COMMA> after frequent changes of direction <PUNC>
+dow component general electric co ge was down <NUM> cents at dollar <NUM> <PUNC>
+the healthcare unit will buy idx systems corp. in a deal to create a dollar <NUM> billion healthcare technology vendor <COMMA> the companies said thursday <PUNC>
+<PAR>

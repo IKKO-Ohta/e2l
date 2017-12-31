@@ -1,0 +1,10 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+the blue-chip benchmark remains within striking distance of its all-time high of <NUM> <COMMA> reached on jan. <NUM> <COMMA> <NUM> <PUNC>
+on tuesday <COMMA> stocks rallied <COMMA> with the dow jones industrial average logging its second-highest close on record and the s&p <NUM> ending at a <NUM> 1/2-year high <COMMA> after lower oil prices and a better than expected consumer-confidence report eased economic worries <PUNC>
+merck mrk was up <NUM> cents at dollar <NUM> after the drugmaker said late tuesday that a federal jury cleared the company of responsibility for a kentucky man s heart attack in the 10th vioxx-related case to go to trial <PUNC>
+chipmaker rivals intel corp. intc and advanced micro devices inc. amd were in focus after a federal judge limited amd s antitrust suit against its larger competitor <PUNC>
+the judge ruled that alleged foreign anticompetitive practices didn t impact amd in the u.s <PUNC>
+general motors corp. gm is reportedly demanding a multibillion dollar payment from renault and nissan as the price to join the french and japanese companies in a global automotive alliance <COMMA> according to a wall street journal report <PUNC>
+gm shares were up <NUM> cents at dollar <NUM> <PUNC>
+shares of mcdonald s mcd rose <NUM> percent to dollar <NUM> after the fast-food giant said its board approved an increase of nearly <NUM> percent for its dividend <COMMA> boosting the annual payout from <NUM> cents to dollar <NUM> a share <PUNC>
+<PAR>

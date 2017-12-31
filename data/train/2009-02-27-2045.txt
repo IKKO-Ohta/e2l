@@ -1,0 +1,6 @@
+on friday <COMMA> financials led the declines <COMMA> with citigroup inc. c down <NUM> percent on news the u.s. government was hiking its stake in the battered bank <PUNC>
+<PAR>
+at 3:30 p.m. eastern <COMMA> the s&p <NUM> spx was down <NUM> points to <NUM> <COMMA> while the dow jones industrial average dji was off <NUM> points to <NUM> <PUNC>
+after the worst january performance in its 113-year history <COMMA> the dow industrials were on track for a february decline of more than <NUM> points or <NUM> percent <PUNC>
+as things stood with <NUM> minutes to go before the closing bell <COMMA> the dow was on track for its worst february point drop ever <COMMA> and its second-worst percentage drop since <NUM> <COMMA> when it lost <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the nasdaq composite rixf climbed <NUM> percent <PUNC>
+the standard & poor s <NUM> index spx rose <NUM> percent <COMMA> with all its sectors except financials in the black <PUNC>
+its energy and technology sectors led the gains <PUNC>
+<PAR>

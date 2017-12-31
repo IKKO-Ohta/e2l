@@ -1,0 +1,5 @@
+on wall street <COMMA> the major indexes ended lower for the first week in three <COMMA> with consumer discretionary shares fronting the losses <PUNC>
+the dow jones industrial average dji ended at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <COMMA> giving the blue chips a weekly loss of <NUM> percent <PUNC>
+the s&p <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a level that translates into a <NUM> percent drop from the week-ago close <PUNC>
+the tech-rich nasdaq composite index rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> off <NUM> percent for the week <PUNC>
+<PAR>

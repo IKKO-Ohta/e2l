@@ -1,0 +1,9 @@
+the dow jones industrial average dji last was up about <NUM> points at <NUM> <PUNC>
+shares of gm gm <COMMA> a dow component <COMMA> fell <NUM> percent to dollar <NUM> <PUNC>
+the automaker will close nine assembly plants and three service and parts factories <COMMA> shedding <NUM> jobs <PUNC>
+the embattled company previously had announced that job cuts would amount to <NUM> <PUNC>
+american express axp was up about <NUM> percent at dollar <NUM> <PUNC>
+ubs upgraded the stock to buy from neutral <COMMA> predicting continued strong volume in <NUM> and <NUM> <PUNC>
+another dow component <COMMA> boeing co. ba gained more than <NUM> percent to dollar <NUM> <PUNC>
+the airplane manufacturer revealed new deals worth up to dollar <NUM> billion for leases of its <NUM> model planes <PUNC>
+<PAR>

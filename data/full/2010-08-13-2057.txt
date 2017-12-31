@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> extending a four-day slide that s seen the blue-chip index fall <NUM> percent this week <PUNC>
+<PAR>

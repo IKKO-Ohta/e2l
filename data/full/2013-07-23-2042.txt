@@ -1,0 +1,10 @@
+u.s. stocks ended mostly lower on tuesday after a decline in a regional manufacturing gauge prompted concern <COMMA> but the dow industrials climbed to a record close <PUNC>
+after a 58-point climb to an intraday record of <NUM> <COMMA> the dow jones industrial average dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> its 28th record close this year <PUNC>
+wall street had begun modestly higher as companies from dupont dd to texas instruments inc. txn beat earnings expectations <PUNC>
+united technologies corp. utx paced gains for the dow average after reporting quarterly earnings above wall street estimates <PUNC>
+dow component travelers cos. trv fell <NUM> percent as rising interest rates weighed on its bond portfolio <COMMA> with the company saying it would cut jobs and auto-insurance prices <PUNC>
+capitalsource inc. cse jumped <NUM> percent after pacwest bancorp pacw said it would acquire the commercial lender for about dollar <NUM> billion in cash and stock <PUNC>
+sourcefire inc. fire shares rallied <NUM> percent after cisco systems inc. csco agreed to buy the cybersecurity company in a deal worth about dollar <NUM> billion <PUNC>
+tech giant apple aapl will likely garner much of the attention on tuesday evening after weak results from microsoft corp. msft and google inc. goog last week <PUNC>
+apple will release quarterly earnings after the market close on tuesday <PUNC>
+<PAR>

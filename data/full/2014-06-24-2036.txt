@@ -1,0 +1,5 @@
+a late afternoon selloff on wall street sent u.s. stocks lower on tuesday <COMMA> with the dow jones industrial average falling by the most points in more than a month <PUNC>
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+as selling intensified <COMMA> the cboe vix index vix jumped <NUM> percent to above <NUM> <PUNC>
+<PAR>

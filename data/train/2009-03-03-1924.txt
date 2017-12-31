@@ -1,0 +1,7 @@
+on tuesday <COMMA> energy shares fronted gains as federal reserve chairman ben bernanke and treasury secretary timothy geithner answered questions on capitol hill <PUNC>
+trading in a 140-point range on either side of zero <COMMA> the dow jones industrial average was lately up <NUM> points at <NUM> <PUNC>
+the s&p <NUM> rose <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf climbed <NUM> points to <NUM> <PUNC>
+on monday <COMMA> the dow closed at <NUM> <COMMA> a level not seen since <NUM> <PUNC>
+if nothing else <COMMA> the breach of 12-year lows is unusual <PUNC>
+other than monday s retesting of <NUM> lows <COMMA> such a crossing has occurred only twice before <COMMA> on dec. <NUM> <COMMA> <NUM> <COMMA> and april <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

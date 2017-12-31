@@ -1,0 +1,7 @@
+u.s. stock investors avoided any big moves ahead of the week s major u.s. economic reports monday <COMMA> though negative sentiment about global growth was enough to push the dow jones industrial average to its fifth day of losses <PUNC>
+by the close <COMMA> the dow jones industrial average dji had lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+over the last five days <COMMA> it s lost nearly <NUM> points <PUNC>
+the other benchmark indexes quit their losing streak <COMMA> however <COMMA> to end with modest gains <PUNC>
+global conglomerates led decliners on the dow <COMMA> with shares of 3m co. mmm and boeing co. ba off <NUM> percent <COMMA> and united technologies corp. utx down <NUM> percent <PUNC>
+cisco systems inc. csco <COMMA> the world s biggest maker of networking equipment <COMMA> rose <NUM> percent <COMMA> the top gainer among the blue chips <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+last week <COMMA> the dow jones industrial average dji finished up <NUM> percent <COMMA> the s&p <NUM> index spx gained <NUM> percent to finish at a new record close of <NUM> <COMMA> and the nasdaq composite index rixf advanced <NUM> percent after a peak earnings week <PUNC>
+with nearly half the s&p <NUM> and more than two-thirds of the dow industrials having already reported quarterly results <COMMA> the current earnings season is looking to be the best of the year in terms of how companies are beating expectations <PUNC>
+and s&p <NUM> earnings are on their way to setting a new record high <PUNC>
+this will be a dow-a-day week of quarterly results with merck & co. mrk on monday <COMMA> pfizer inc. pfe on tuesday <COMMA> visa inc. v on wednesday <COMMA> exxon mobil corp. xom on thursday <COMMA> and chevron corp. cvx on friday <PUNC>
+with much of corporate america still conservative about costs <COMMA> a metric that s useful to look out for is a company s mention of capital expenditure spending <COMMA> belski said <PUNC>
+a prime example of that was microsoft corp. msft earnings last week <PUNC>
+not only did microsoft top earnings estimates but revenue was dollar <NUM> million higher than the wall street consensus due to a big boost in spending from businesses <PUNC>
+the other companies on the list that beat revenue estimates were ford motor co. f <COMMA> google inc. goog <COMMA> amazon.com inc. amzn <COMMA> wellpoint inc. wlp <COMMA> mckesson corp. mck <COMMA> boeing co. ba <COMMA> and verizon communications inc. vz <PUNC>
+unitedhealth group inc. unh and united technologies corp. utx missed the revenue consensus <PUNC>
+<PAR>

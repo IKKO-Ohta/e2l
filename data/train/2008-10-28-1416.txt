@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with all <NUM> of its components posting early gains <PUNC>
+general motors corp. gm led the index <COMMA> rising <NUM> percent after the wall street journal reported the department of energy is working to arrange dollar <NUM> billion in loans to the automaker <COMMA> which would help gm merge with chrysler <PUNC>
+also surging <COMMA> shares of boeing corp. ba rose <NUM> percent after striking a tentative pact with its machinists <PUNC>
+<PAR>
+a bout of late-session selling sent u.s. stocks lower on monday <COMMA> with the dow jones industrial average falling <NUM> points <COMMA> the s&p <NUM> dropping <NUM> points and the nasdaq composite losing <NUM> points <PUNC>
+early gains from a rise in new-home sales and a strong earnings report from verizon communications couldn t be sustained <PUNC>
+<PAR>

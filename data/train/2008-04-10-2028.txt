@@ -1,0 +1,3 @@
+after erasing early losses to climb more than <NUM> points <COMMA> the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components closing higher <PUNC>
+wal-mart wmt proved an exception <COMMA> with it shares up <NUM> percent after it lifted its view on first-quarter earnings and reported a <NUM> percent same-store sales rise <PUNC>
+<PAR>

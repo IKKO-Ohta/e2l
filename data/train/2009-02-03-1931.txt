@@ -1,0 +1,4 @@
+shares of general motors corp. gm were down <NUM> percent after it reported u.s. sales fell <NUM> percent in january <COMMA> more than the expected decline of roughly <NUM> percent <PUNC>
+gm was among those weighing on the dow jones industrial average dji <COMMA> which stood at <NUM> <COMMA> up <NUM> points <PUNC>
+the s&p <NUM> spx gained <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf was up <NUM> points to <NUM> <PUNC>
+<PAR>

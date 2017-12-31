@@ -1,0 +1,8 @@
+the retailer wmt outlined its hiring plans for china <COMMA> a key market for expansion <PUNC>
+the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> off an early high of <NUM> <PUNC>
+wal-mart shares wmt rose to their best level of <NUM> after the company said it will hire <NUM> people in china over the next five years and open <NUM> to <NUM> stores in the country in <NUM> <PUNC>
+the stock was last up dollar <NUM> at dollar <NUM> <PUNC>
+also higher <COMMA> general motors corp. gm was up <NUM> cents at dollar <NUM> after its board reportedly asked top management to explain newly uncovered accounting problems that forced it to delay its annual report <PUNC>
+separately <COMMA> gm <COMMA> delphi corp. and the united auto workers union reportedly continued negotiations on possible labor deals that could lead to contract buyouts of thousands of delphi employees <PUNC>
+expectations the company is set to report solid results <COMMA> helped lift the software sector gso <COMMA> with microsoft msft a notable gainer <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

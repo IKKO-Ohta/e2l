@@ -1,0 +1,7 @@
+stocks finished higher across the board friday <COMMA> notching their best week of the year after consumer sentiment topped expectations by coming in unchanged for february <COMMA> and industrial production in january declined on account of bad weather <PUNC>
+the dow jones industrial average dji and the s&p <NUM> index spx both gained <NUM> percent <COMMA> while the nasdaq composite index rixf advanced <NUM> percent <PUNC>
+late thursday saw a jump in dividend hikes and buyback authorization increases <COMMA> while earlier in the day <COMMA> pepsico <PUNC>
+pep also hiked its dividend and said it expects to increase buybacks <PUNC>
+even with weak demand seen in emerging markets <COMMA> cisco systems inc. csco hiked its dividend last week <PUNC>
+two dow industrial components report this week with coca-cola ko on tuesday <COMMA> and wal-mart wmt which recently warned on profits <COMMA> blaming weather and food-stamp reductions reporting on thursday <PUNC>
+<PAR>

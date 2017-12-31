@@ -1,0 +1,4 @@
+the three biggest drivers were today s economic data stream was neutral <COMMA> a pullback in energy prices is positive <COMMA> and i would say there is a lot of buzz around the internet space <COMMA> with cnet taken out <COMMA> and anyone that looks like them is now a target <COMMA> and increased chatter around yahoo <COMMA> which explains the out-performance of the nasdaq versus the dow and s&p <COMMA> said art hogan <COMMA> chief market strategist at jefferies & co <PUNC>
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <COMMA> led by general motors corp. gm <COMMA> up <NUM> percent <COMMA> intel corp. intc <COMMA> ahead <NUM> percent <COMMA> and hewlett-packard co. hpq <COMMA> ahead <NUM> percent <PUNC>
+blue-chip declines were fronted by united technologies corp. utx <COMMA> off <NUM> percent <PUNC>
+<PAR>

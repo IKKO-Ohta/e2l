@@ -1,0 +1,6 @@
+after declining the last four sessions <COMMA> the dow jones industrial average dji turned tail on earlier gains to extend its losing streak <PUNC>
+the blue-chip index was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components posting afternoon declines <PUNC>
+general motors corp. gm weighed the most among the blue chips <COMMA> off <NUM> percent <PUNC>
+off the dow <COMMA> shares of fellow auto giant ford motor co. f declined <NUM> percent <PUNC>
+discussions between walt disney co. dis and hong kong officials are under way over the possible expansion of hong kong disneyland <COMMA> which may include adding attractions that would be unique to the hong kong venue <COMMA> the wall street journal reported <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components ahead in the initial going <PUNC>
+bank of america corp. bac fronted the advance <COMMA> up <NUM> percent <COMMA> while citigroup inc. c fell the most among the blue chips <COMMA> losing <NUM> percent <PUNC>
+u.s. stocks dropped sharply on thursday as jobless claims and factory orders data overshadowed the senate passage of the bailout passage <PUNC>
+the dow industrials dropped <NUM> points <COMMA> the nasdaq composite stumbled <NUM> points and the s&p <NUM> lost <NUM> points <PUNC>
+<PAR>

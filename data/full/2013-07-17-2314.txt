@@ -1,0 +1,10 @@
+the s&p <NUM> and the dow jones industrial average dji rose to record closing highs on monday <COMMA> but ended lower on tuesday <PUNC>
+on wednesday <COMMA> the blue-chip dow industrials gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with dupont dd leading gains <PUNC>
+also in the dow <COMMA> shares of bank of america corp. bac climbed <NUM> percent after the bank said second-quarter profit jumped <NUM> percent <COMMA> beating analyst estimates <PUNC>
+american express co. axp was the top decliner in the dow <COMMA> falling <NUM> percent after the financial times cited a draft plan in reporting the european commission had proposed the introduction of a <NUM> percent cap on debit-and-credit-card transaction fees <PUNC>
+dow component caterpillar inc. cat dropped <NUM> percent after jim chanos of kynikos associates said he is shorting the stock <PUNC>
+chanos <COMMA> speaking at the delivering alpha conference <COMMA> said that even though caterpillar is a major u.s. company <COMMA> it is facing super commodity headwinds <PUNC>
+check out marketwatch s live blog of the delivering alpha conference <PUNC>
+intel corp. intc lost <NUM> percent ahead of the chip maker s quarterly results <COMMA> released after the close wednesday. <PUNC>
+also reporting quarterly results after the market closed were ebay inc. ebay <COMMA> american express and international business machines corp ibm <PUNC>
+read more on after-hours trading <COMMA> results <PUNC> <PUNC>

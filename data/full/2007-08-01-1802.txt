@@ -1,0 +1,7 @@
+with less than two hours of trade remaining <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> with <NUM> were on the rise <COMMA> including pharmaceutical giant merck & co. inc. mrk <COMMA> which was up <NUM> percent <PUNC>
+financial services giant american international group inc. aig was among the dow s bigger losers <PUNC>
+its stock was down <NUM> percent <PUNC>
+also dipping was the stock of alcoa inc. aa <COMMA> which was off <NUM> percent <PUNC>
+on tuesday u.s. stocks rallied in the morning <COMMA> but took heavy afternoon losses <COMMA> with the dow jones industrials tumbling <NUM> points <COMMA> the nasdaq composite losing <NUM> points and the s&p <NUM> falling <NUM> points <PUNC>
+<PAR>

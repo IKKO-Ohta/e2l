@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with ibm ibm leading the gains that included nine of its <NUM> components <PUNC>
+ibm late tuesday projected better-than-expected <NUM> results <COMMA> helping allay worries about the technology sector that came on intel corp. s intc soft forecast last week <PUNC>
+the dow and the s&p <NUM> ended at five-year highs on tuesday <COMMA> with the s&p <NUM> within reach of the psychologically important <NUM> level <COMMA> and not far from its closing high of <NUM> hit on oct. <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

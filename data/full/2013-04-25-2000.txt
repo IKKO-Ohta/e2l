@@ -1,0 +1,11 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
+earlier <COMMA> the index reached an intraday high of <NUM> <PUNC>
+verizon vz was the best performers on the index with a <NUM> percent gain <PUNC>
+reuters reported the telecom major plans to bid dollar <NUM> billion in cash and stock to buy out verizon wireless <COMMA> which it jointly owns with vodafone group plc vod <PUNC>
+a spokesperson for verizon declined to comment on the reuters report <PUNC>
+american express co. axp shares were also up about <NUM> percent <PUNC>
+3m co. mmm was the top decliner in the dow <PUNC>
+its shares dropped <NUM> percent after the industrial conglomerate lowered its full-year earnings estimate <PUNC>
+exxon mobil corp. xom also weighed on the dow <COMMA> with its shares down <NUM> percent after the oil major reported that its first-quarter earnings rose <NUM> percent <COMMA> but revenue fell short of wall street estimates <PUNC>
+the dow industrials fell on wednesday <COMMA> while the s&p <NUM> erased gains during the last few minutes to close largely flat at <NUM> <PUNC>
+<PAR>

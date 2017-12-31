@@ -1,0 +1,7 @@
+apple inc. aapl reported solid earnings results <COMMA> but a drop in earnings for oil giant exxonmobil weighed on the dow jones industrial average <PUNC>
+the dow jones industrials dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+despite setbacks this week for several major debt offerings connected to multi-billion dollar leveraged buyouts for chrysler corp. and others <COMMA> stocks managed to close with solid gains on wednesday <PUNC>
+investors snapped up shares of amazon.com amzn and boeing co. ba following earnings reports from the firms <PUNC>
+shares of dow component exxonmobil corp. xom were off <NUM> percent <PUNC>
+the company s second-quarter net income fell slightly to dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> from dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> a year ago <PUNC>
+<PAR>

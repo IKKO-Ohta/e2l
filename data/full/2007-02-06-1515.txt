@@ -1,0 +1,8 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> lifted by gains alcoa inc. aa <COMMA> intel corp. intc and coca cola co. ko <PUNC>
+wal-mart stores inc. wmt gained <NUM> percent after the retailer announced that it is testing a possible video download service that would marry more than <NUM> films and television shows <PUNC>
+u.s. stocks closed little moved on monday despite a flurry of deals <PUNC>
+the dow industrials ended up <NUM> points <COMMA> while the nasdaq dropped <NUM> points and the s&p <NUM> declined <NUM> points <PUNC>
+eastman kodak ek dropped <NUM> cents to dollar <NUM> <PUNC>
+the company is introducing a new line of higher-priced printers that feature lower-priced cartridges <PUNC>
+companies with competitive products include hewlett-packard hpq and canon caj <PUNC>
+<PAR>

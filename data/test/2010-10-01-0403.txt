@@ -1,0 +1,9 @@
+that came in september <NUM> <COMMA> when the dow jones industrial average dji turned in a stunning <NUM> percent return for the month <PUNC>
+over the two and a half years following that glorious september <NUM> years ago <COMMA> however <COMMA> the dow lost nearly <NUM> percent <PUNC>
+let s begin such an analysis following world war ii <COMMA> so as not to let that bear market affect the results <PUNC>
+of the <NUM> septembers that there have been since wwii <COMMA> <NUM> have seen the stock market rise <PUNC>
+in <NUM> of the octobers following those winning septembers <COMMA> the dow also rose <PUNC>
+now let s focus on the <NUM> septembers since wwii in which the dow fell <PUNC>
+the stock market rose in <NUM> of the octobers that followed those losing septembers <PUNC>
+the resultant success rate <PUNC> <NUM> percent <PUNC>
+<PAR>

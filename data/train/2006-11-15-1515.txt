@@ -1,0 +1,6 @@
+the dow jones industrial average gained <NUM> points to <NUM> <COMMA> with altria mo rising <NUM> percent <PUNC>
+another dow component <COMMA> boeing co. ba was up <NUM> percent at dollar <NUM> <PUNC>
+the wall street journal reported that the company may see dollar <NUM> billion more in jet business in the near term <PUNC>
+on tuesday stocks staged a late rally as gains for wal-mart stores wmt <COMMA> home depot inc. hd and intel corp. intc took the dow industrials to a fresh record high <PUNC>
+the s&p <NUM> closed at a new six-year high <PUNC>
+<PAR>

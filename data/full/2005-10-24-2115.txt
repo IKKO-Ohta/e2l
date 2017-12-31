@@ -1,0 +1,10 @@
+new york dow jones u.s. stocks closed sharply higher monday <COMMA> with the dow jones industrial average and the s&p <NUM> posting their biggest one-day gains in six months <COMMA> after strong earnings and the white house s nomination of administration economist ben bernanke as the next federal reserve chief <PUNC>
+the dow jones industrial average dji closed near its session high <COMMA> rising <NUM> points to <NUM> <COMMA> locking in its biggest rise since april <NUM> <PUNC>
+the average was pulled up by strong earnings results from components merck and american express <PUNC>
+dow component merck mrk also was supported by earnings news <PUNC>
+the company reported third-quarter earnings of dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> up from a year-ago profit of dollar <NUM> billion <COMMA> or <NUM> cents a share <PUNC>
+but sales dipped <NUM> percent <PUNC>
+american express axp <COMMA> also a dow stock <COMMA> rose <NUM> percent to dollar <NUM> after the company reported a sharp year-over-year rise in quarterly earnings to <NUM> cents a share <COMMA> excluding a special accounting charged <COMMA> up from <NUM> cents a share <PUNC>
+the thomson first call average analyst estimate was <NUM> cents a share <PUNC>
+other dow components contributing to the monday rally were alcoa aa <COMMA> which rose <NUM> percent to dollar <NUM> <COMMA> and caterpillar cat <COMMA> which advanced <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

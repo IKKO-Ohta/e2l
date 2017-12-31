@@ -1,0 +1,9 @@
+u.s. stocks opened broadly lower tuesday <COMMA> pushing the dow jones industrial average below the key <NUM> level as worries over euro-zone debt returned <PUNC>
+the dow dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
+that wipes out monday s gain of about <NUM> points <PUNC>
+the measure s most economically sensitive components <COMMA> which had led monday s rally <COMMA> reversed tuesday to lead its declines <PUNC>
+alcoa aa fell <NUM> percent <COMMA> caterpillar dropped <NUM> percent and walt disney fell <NUM> percent <PUNC>
+just a few dow components were in the black <COMMA> led by merck mrk <COMMA> which climbed <NUM> percent <COMMA> and pfizer pfe <COMMA> which climbed <NUM> percent <PUNC>
+the companies reported declines in first-quarter profits as both drug makers incurred costs digesting large acquisitions and felt the early effects of the u.s. health-care overhaul <PUNC>
+both companies sales and earnings excluding certain costs <COMMA> however <COMMA> exceeded wall street expectations <PUNC>
+<PAR>

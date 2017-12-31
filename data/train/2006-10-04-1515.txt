@@ -1,0 +1,8 @@
+u.s. stocks gained ground wednesday <COMMA> with the dow jones industrial average at a new all-time high <COMMA> as the latest economic reports suggested solid economic growth with inflation held in check <COMMA> but wal-mart stores inc. fell on a lowered sales outlook <PUNC>
+the dow industrials dji rose as much <NUM> points to strike a fresh all-time high of <NUM> <PUNC>
+it was last up <NUM> points at <NUM> <PUNC>
+wal-mart stores inc. wmt fell <NUM> percent to dollar <NUM> after the retail giant cuts its september same-store sales forecast <PUNC>
+same-store sales <COMMA> a key measure of retail performance <COMMA> track sales from stores open at least a year <PUNC>
+general motors corp. gm rose <NUM> percent to dollar <NUM> after bear stearns upgraded the automaker to peer perform from underperform <PUNC>
+ford motor co. s f stock declined about <NUM> percent to dollar <NUM> after the same broker lowered its rating on the company to peer perform from outperform <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+the future contracts for the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq <NUM> were all pointing towards gains in the opening minutes of trade <PUNC>
+<PAR>

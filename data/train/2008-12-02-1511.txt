@@ -1,0 +1,7 @@
+u.s. stocks rose at tuesday s opening bell <COMMA> a day after the dow jones industrial average saw their fourth-biggest point drop on record <COMMA> as investors turned to prospects for a bailout of the ailing auto industry <PUNC>
+the dow dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components advancing <PUNC>
+among blue chips <COMMA> shares of general motors corp. gm gained <NUM> percent <PUNC>
+general electric ge rose <NUM> percent even after the conglomerate warned it expects fourth-quarter earnings at the low end of its previously announced range <PUNC>
+ge also said it expects to book restructuring charges of dollar <NUM> billion to dollar <NUM> billion as it reviews losses in the current credit environment <PUNC>
+u.s. stocks regurgitated much of the prior week s advance on monday <COMMA> with the dow industrials tumbling <NUM> points <COMMA> the s&p <NUM> losing <NUM> points and the nasdaq falling <NUM> points <PUNC>
+<PAR>

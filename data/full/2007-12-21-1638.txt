@@ -1,0 +1,3 @@
+hitting new highs for the week <COMMA> the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+the blue chips were led by at&t inc. t with its stock up <NUM> percent <COMMA> while laggard included merck & co. inc. mrk <COMMA> recently off <NUM> percent <COMMA> and honeywell international inc. hon off <NUM> percent <PUNC>
+<PAR>

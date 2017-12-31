@@ -1,0 +1,4 @@
+the dow jones industrial average gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+u.s. stocks on thursday thudded lower for a second day as investors braced for the october jobs report <PUNC>
+the dow jones industrial average fell <NUM> points to cap its largest two-day percent decline since oct. <NUM> <COMMA> <NUM> <COMMA> and the index s biggest two-day point drop ever <PUNC>
+<PAR>

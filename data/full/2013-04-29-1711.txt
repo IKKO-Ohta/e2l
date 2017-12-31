@@ -1,0 +1,2 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> a level that has it just under <NUM> points from its record close of <NUM> <PUNC>
+<PAR>

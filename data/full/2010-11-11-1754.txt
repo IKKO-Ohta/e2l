@@ -1,0 +1,4 @@
+after an opening drop of <NUM> points <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
+the stock market s decline <COMMA> which has the major indexes down about <NUM> percent for the week so far <COMMA> could largely be a reaction to a few weeks of the market going up <COMMA> added kelly of recent gains that had the dow up four of the past five weeks <COMMA> and as of last friday up roughly <NUM> percent over the prior <NUM> weeks <PUNC>
+shares of tech giant and dow component cisco csco tumbled nearly <NUM> percent <COMMA> on pace for their worst one-day performance in <NUM> years <PUNC>
+<PAR>

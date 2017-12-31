@@ -1,0 +1,5 @@
+after wavering between small gains and losses in the opening minutes of new york trading <COMMA> the dow jones industrial average dji was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+alcoa inc. aa shares led decliners <COMMA> down <NUM> percent <PUNC>
+intel corp. intc shares <COMMA> up <NUM> percent <COMMA> led gains on the dow average after the semiconductor maker reported a <NUM> percent jump in quarterly earnings late tuesday <PUNC>
+dow-component travelers cos. inc. trv was also higher after its earnings report <COMMA> which included progress on raising prices <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+the dow jones industrial average dji came off a session high of <NUM> points <COMMA> to trade down <NUM> points at <NUM> <PUNC>
+november <COMMA> which historically kicks off the best six months of the year for the stock market <COMMA> is on track to deliver solid gains for equity investors <PUNC>
+the dow industrials benchmark is up about <NUM> percent on the month <COMMA> while the nasdaq has climbed about <NUM> percent and the s&p has gained about <NUM> percent <PUNC>
+within the dow <COMMA> mcdonald s corp. mcd gained as much as <NUM> percent to dollar <NUM> <PUNC>
+earlier <COMMA> jack in the box jbx <COMMA> the fast-food company <COMMA> posted forecast-beating adjusted earnings for the fourth quarter <PUNC>
+general motors gm <COMMA> along with other carmakers <COMMA> was under pressure <COMMA> a day before those companies are slated to post their november u.s. sales results <PUNC>
+analysts are expecting another lackluster month of sales despite second-half promotions and easing gasoline prices <PUNC>
+the stock was last down <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

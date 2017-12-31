@@ -1,0 +1,4 @@
+stocks jumped friday after bernanke s comments <COMMA> pulling the dow jones industrial average dji up <NUM> points to finish the week with a gain of <NUM> percent <PUNC>
+the surge in equity prices was further fueled by proposals from the white house aimed at staving off a wave of mortgage defaults <COMMA> including allowing some homeowners to refinance into government-insured mortgages <PUNC>
+like the dow <COMMA> the broad s&p and tech-heavy nasdaq managed to post gains in august despite the roller-coaster action throughout the month <PUNC>
+<PAR>

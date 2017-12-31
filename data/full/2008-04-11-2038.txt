@@ -1,0 +1,4 @@
+the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> pulling the blue chips down <NUM> percent on the week <PUNC>
+of the dow s <NUM> components <COMMA> all but one ended in the red <PUNC>
+the decline was fronted by general electric ge <COMMA> with its shares suffering their worst one-day percentage drop since october <NUM> <COMMA> losing <NUM> percent to end at dollar <NUM> <PUNC>
+<PAR>

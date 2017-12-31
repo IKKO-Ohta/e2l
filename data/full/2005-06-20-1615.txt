@@ -1,0 +1,5 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> off its low of <NUM> <PUNC>
+boeing co. ba fell <NUM> percent after the aerospace giant lost a dollar <NUM> billion air canada order for its <NUM> and <NUM> jets <PUNC>
+the cancellation came after members of the carrier s pilots union rejected a cost-cutting deal that would have cleared the way for the purchase <PUNC>
+bank of america upgraded general motors corp. gm and ford motor co. f to neutral from sell on hopes the united auto workers union will agree to healthcare concessions <COMMA> allowing the two carmakers to reduce costs <PUNC>
+<PAR>

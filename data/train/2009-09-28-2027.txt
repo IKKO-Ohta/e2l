@@ -1,0 +1,4 @@
+on wall street <COMMA> however <COMMA> any thoughts of a pullback were not in display on monday <COMMA> as a spurt of merger activity and an upgrade of cisco systems inc. csco bolstered the broad market <COMMA> with the major indexes snapping a three-day losing streak <PUNC>
+cisco led gains on the dow jones industrial average dji <COMMA> which added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> index spx climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite index rixf gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

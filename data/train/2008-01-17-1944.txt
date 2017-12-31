@@ -1,0 +1,7 @@
+u.s. stocks on thursday sold off for a third consecutive day <COMMA> propelling the dow to nine-month lows <COMMA> after federal reserve chairman ben bernanke spoke about the country s economic trouble and a regional measure of economic activity contracted <PUNC>
+up about <NUM> points after the start <COMMA> and then down more than <NUM> points in early morning trade <COMMA> the dow jones industrial average dji by late afternoon had shed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+blue-chip declines were led by american international group inc. aig <COMMA> down <NUM> percent <COMMA> and merck co. inc. mrk <COMMA> off <NUM> percent <PUNC>
+u.s. stocks wobbled on wednesday before closing lower <COMMA> with the dow industrials losing <NUM> points <COMMA> the nasdaq composite dropping <NUM> points and the s&p <NUM> ending nearly <NUM> points lower <PUNC>
+after the close <COMMA> international business machines ibm will release the full details of its quarterly performance <PUNC>
+big blue released preliminary numbers on monday <PUNC>
+<PAR>

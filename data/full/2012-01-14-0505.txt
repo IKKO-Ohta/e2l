@@ -1,0 +1,9 @@
+on friday <COMMA> u.s. stock indexes finished higher for a second week <PUNC>
+the gains were dented by session losses that came as euro-area governments readied for credit downgrades by standard & poor s that came after the close and after j.p. morgan chase & co. jpm reported a profit drop <PUNC>
+after a 159-point fall <COMMA> the dow jones industrial average dji recovered the bulk of its decline to end at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <PUNC>
+up three of the past four weeks <COMMA> the blue-chip index on friday tallied a <NUM> percent weekly rise <PUNC>
+those finance firms include citigroup inc. c and wells fargo co. wfc on tuesday <PUNC> goldman sachs group inc. gs and u.s. bancorp usb on wednesday and bank of america corp. bac and american express co. axp on thursday <PUNC>
+fifth third bancorp fitb and suntrust banks inc. sti report results on friday <PUNC>
+aside from the banks <COMMA> reports from some tech bellwethers are also scheduled including intel corp. intc <COMMA> microsoft corp. msft and google <COMMA> inc. goog on thursday <PUNC>
+and general electric co. ge has its results scheduled for friday <PUNC>
+<PAR>

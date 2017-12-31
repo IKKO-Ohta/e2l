@@ -1,0 +1,2 @@
+stocks had another good week with the dow jones industrial average dji rising <NUM> percent and the s&p <NUM> index spx finishing up <NUM> percent to carve out new closing highs <COMMA> with the nasdaq composite index rixf squeaking by with a less than <NUM> percent gain <PUNC>
+<PAR>

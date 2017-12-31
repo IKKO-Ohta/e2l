@@ -1,0 +1,9 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> collapsing below a low it had made on oct. <NUM> to close at a fresh five-and-a-half year low <PUNC>
+general motors gm maintained a <NUM> percent gain to close at dollar <NUM> <PUNC>
+it earlier rallied to <NUM> percent amid hopes for a bailout <PUNC>
+the stock had plunged more than <NUM> percent in morning trade <PUNC>
+with concerns about a possible bankruptcy continuing to hit the stock of the auto giant <COMMA> gm s financing unit gmac applied to become a bank holding company to access emergency cash from the government <PUNC>
+citigroup inc. c plunged more than <NUM> percent even after saudi investor prince alaweed said he would raise his stake in the bank to <NUM> percent <PUNC>
+on wednesday <COMMA> stocks were also crushed <COMMA> with credit market-led fears and citigroup s dollar <NUM> billion balance sheet addition punishing markets <PUNC>
+the dow jones industrial average dropped <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite fell <NUM> points <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+wal-mart inc. wmt topped projections <COMMA> with the globe s largest retailer also offering an upbeat forecast for the current month <PUNC>
+on wednesday <COMMA> stock indexes closed mixed <COMMA> with the dow industrials striking its first gain in three sessions <COMMA> rising <NUM> points to close at <NUM> <COMMA> leaving it down <NUM> percent year-to-date <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+u.s. stocks finished with a slight gain tuesday <COMMA> but an afternoon stumble thwarted the dow jones industrial average s attempt to break into positive territory for <NUM> <PUNC>
+the dow jones industrial average dji ended with a 2.2-point gain at <NUM> <COMMA> its gains held in check by a <NUM> percent decline in microsoft corp. msft shares <PUNC>
+walt disney co. dis shares rose <NUM> percent <PUNC>
+at its intraday high <COMMA> the dow was up about <NUM> points for the year <COMMA> its first push into positive year-to-date territory since january <PUNC>
+the measure was hit by a wave of afternoon selling to end down <NUM> points for the year <PUNC>
+<PAR>

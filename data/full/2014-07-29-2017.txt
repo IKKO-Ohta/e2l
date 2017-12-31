@@ -1,0 +1,8 @@
+better-than-expected earnings and upbeat consumer confidence data sent the dow jones industrial average above <NUM> and the s&p <NUM> near its record closing level <COMMA> but gains soon petered out <PUNC>
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+the dow jones industrial average dji ended <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+the nasdaq composite rixf finished <NUM> points lower at <NUM> <PUNC>
+shares of merck & co. mrk a component of the dow jones industrial average dji rose <NUM> percent after the drug maker s adjusted earnings and sales surpassed expectations <PUNC>
+shares of fellow dow component pfizer inc. pfe fell <NUM> percent <PUNC>
+the pharmaceutical company s second-quarter results came in ahead of wall street s targets <COMMA> but it lowered its full-year sales outlook <PUNC>
+<PAR>

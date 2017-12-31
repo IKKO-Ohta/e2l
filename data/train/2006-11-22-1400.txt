@@ -1,0 +1,8 @@
+the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
+on tuesday stocks closed higher as gains by alcoa inc aa . <COMMA> caterpillar inc. cat and boeing co. ba supported the dow jones industrial average and helped offset higher crude prices <PUNC>
+dow component alcoa inc. aa could be active later in the session <PUNC>
+the company unveiled a broad restructuring program that will cut <NUM> percent of its workforce and lead to a spin-off of its molded soft-alloy business via a joint venture with norway s orkla asa <PUNC>
+general motors corp. <COMMA> gm <COMMA> also in the dow <COMMA> could be in focus wednesday <PUNC>
+united auto workers president ron gettelfinger said contract negotiations would begin in july <PUNC>
+international business machines corp. ibm said the defense advanced research projects agency has given the company a 4-year <COMMA> dollar <NUM> million contract to develop a supercomputer that is more efficient and simpler to program <PUNC>
+<PAR>

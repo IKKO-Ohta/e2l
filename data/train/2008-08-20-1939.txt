@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+hewlett-packard hpq <COMMA> a blue-chip stock <COMMA> rose <NUM> percent after the company posted an <NUM> percent rise in profit and issued an earnings outlook that topped analyst estimates <PUNC>
+the blue-chip average s other technology stocks mostly rose <COMMA> with ibm ibm up <NUM> percent and microsoft corp. msft up <NUM> percent <PUNC>
+the dow s financial components were mixed <COMMA> with aig aig down <NUM> percent <COMMA> american express axp up <NUM> percent <COMMA> while citigroup inc. c dipped <NUM> percent and j.p. morgan chase jpm rose <NUM> percent <PUNC>
+<PAR>

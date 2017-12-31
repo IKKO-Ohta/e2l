@@ -1,0 +1,2 @@
+the futures contracts for the dow jones industrial average <COMMA> s&p <NUM> and nasdaq <NUM> were all pointing toward losses in the early minutes of trade <PUNC>
+<PAR>

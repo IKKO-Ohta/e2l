@@ -1,0 +1,4 @@
+erasing initial declines <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+wall street stocks tumbled on wednesday <COMMA> with the dow industrials marking their third-straight loss <COMMA> the first time that has happened this year <PUNC>
+after rising <NUM> points <COMMA> the dow jones industrial average dji ended on thursday down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the s&p <NUM> spx lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+u.s. stocks continued to rally friday afternoon <COMMA> as hopes for a letup in the federal reserve s tightening cycle were stoked by slower-than-anticipated april jobs growth <COMMA> catapulting the dow jones industrial average and the s&p <NUM> index to multi-year highs <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <COMMA> with <NUM> of <NUM> components contributing to gains <PUNC>
+the benchmark index is at levels not seen since january <NUM> <PUNC>
+<PAR>

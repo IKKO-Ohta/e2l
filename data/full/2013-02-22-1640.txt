@@ -1,0 +1,5 @@
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with h-p hpq shares leading the gains a day after projecting a second-quarter profit and reporting quarterly revenue that topped estimates <PUNC>
+friday s rise follows two straight days of declines that had the dow industrials losing <NUM> points <COMMA> or <NUM> percent <COMMA> its biggest two-day drop since late december <PUNC>
+for the week <COMMA> the dow is down <NUM> percent <COMMA> the s&p <NUM> is off <NUM> percent and the nasdaq has lost <NUM> percent <PUNC>
+a weekly drop would halt the s&p <NUM> s winning streak at seven consecutive weeks <COMMA> its longest such stretch since the one that ended jan. <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

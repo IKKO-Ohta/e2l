@@ -1,0 +1,9 @@
+on friday <COMMA> microsoft msft <COMMA> gained <NUM> percent to dollar <NUM> <COMMA> one of just two stocks that managed gains among the dow jones industrial average s <NUM> components <PUNC>
+fellow dow-component hewlett-packard hpq rose <NUM> percent <PUNC>
+the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> for its biggest percentage and point drop since oct. <NUM> <PUNC>
+the s&p <NUM> spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+strong results from intel corp. intc <COMMA> j.p. morgan chase & co. jpm <COMMA> and others have helped drive the broader market to new highs for the year <PUNC>
+stocks fell for the first week in three <PUNC>
+the s&p <NUM> index lost <NUM> percent in the past week <COMMA> the dow average lost <NUM> percent for the week <COMMA> and nasdaq lost <NUM> percent <PUNC>
+<PAR>

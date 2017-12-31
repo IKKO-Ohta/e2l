@@ -1,0 +1,2 @@
+the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and booked a <NUM> percent gain over the week <PUNC>
+<PAR>

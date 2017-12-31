@@ -1,0 +1,3 @@
+on thursday <COMMA> stocks ended higher <COMMA> as strength in technology <COMMA> energy and metals shares helped the dow jones industrial average gain ground for the sixth consecutive session <PUNC>
+the dow industrials dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> taking the benchmark index to a three-month high <PUNC>
+<PAR>

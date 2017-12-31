@@ -1,0 +1,4 @@
+the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> component stocks trading lower <PUNC>
+financials <COMMA> including american express co. axp and jpmorgan chase & co. jpm led the dow s decline <PUNC>
+dow component altria group inc. mo also lost ground <COMMA> falling <NUM> percent <COMMA> after the tobacco group s downgrade <COMMA> by goldman sachs <COMMA> to neutral from buy <PUNC>
+<PAR>

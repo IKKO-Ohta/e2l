@@ -1,0 +1,11 @@
+the dow industrials dji fell <NUM> points to <NUM> after a record closing high in the prior session <PUNC>
+a <NUM> percent slide in shares of intel corp. intc <COMMA> sparked by a broker downgrade ahead of its quarterly earnings release weighed heavily on the blue-chip index <PUNC>
+united technologies utx <COMMA> home depot hd <COMMA> caterpillar cat and verizon communications vz were other notable decliners <PUNC>
+johnson & johnson jnj was the biggest percentage gainer on the blue-chip index as investors cheered a strong set of quarterly earnings <PUNC>
+intel corp. intc shares fell <NUM> percent to dollar <NUM> after goldman sachs downgraded the company to neutral from buy <COMMA> citing valuation <PUNC>
+the broker told clients that while it thinks consensus expectations are too aggressive heading into the quarter <COMMA> its downgrade is based solely on valuation as the stock has reached its dollar <NUM> price target <PUNC>
+johnson & johnson jnj gained <NUM> percent to dollar <NUM> posted forecast-beating third-quarter results <COMMA> with performance spurred by solid growth in all three of its healthcare divisions <PUNC>
+united technologies utx was off <NUM> percent at dollar <NUM> after rising nearly <NUM> percent over the last five sessions <PUNC>
+the diversified industrial group posted a <NUM> percent rise in third-quarter net income on strong commercial aerospace industry sales at its pratt & whitney and hamilton sundstrand units <PUNC>
+the company also lifted its earnings forecast for the year <PUNC>
+<PAR>

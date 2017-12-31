@@ -1,0 +1,3 @@
+extending a win streak that has benchmark indexes up for a fourth session <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+alcoa aa shares were among those rising after it reported quarterly sales and profit that exceeded estimates <PUNC>
+<PAR>

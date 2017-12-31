@@ -1,0 +1,12 @@
+new york marketwatch - u.s. stocks were mixed in midday trading tuesday <COMMA> with strong quarterly results from walt disney co. giving the dow jones industrial average a boost <COMMA> but a warning from homebuilder toll brothers and nervousness over political tensions in the middle east capping gains <PUNC>
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+the benchmark index has spent most of the session moving in and out of positive territory <PUNC>
+shares of dow component general motors gm fell <NUM> cents to dollar <NUM> after its directors <COMMA> in a move to conserve cash <COMMA> voted to halve its dollar <NUM> annual dividend <COMMA> and slash its chief executive s salary by <NUM> percent <PUNC>
+coca-cola ko <COMMA> also in the dow <COMMA> was up <NUM> cents at dollar <NUM> <PUNC>
+the soft drink seller s adjusted quarterly results beat wall street expectations as unit-case volumes rose <NUM> percent on strong growth in china <COMMA> russia <COMMA> brazil and turkey <PUNC>
+the company also said it would meet its target of boosting earnings as much as <NUM> percent in the long term <PUNC>
+walt disney co. dis rose <NUM> percent to dollar <NUM> after the company reported an unexpected gain in first-quarter earnings thanks to strong performances at its parks and broadcast networks <PUNC>
+the media giant also announced it is divesting itself of the abc radio operations <PUNC>
+exxon mobil corp. xom fell <NUM> percent to dollar <NUM> <COMMA> hurt by the fall in oil prices and weaker-than-expected results at u.k. oil giant bp plc <PUNC>
+bp <PUNC>
+<PAR>

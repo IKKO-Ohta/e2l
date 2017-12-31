@@ -1,0 +1,5 @@
+up <NUM> points earlier <COMMA> the dow jones industrial average dji was more recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> with <NUM> of its <NUM> components trading higher <PUNC>
+fronting the blue-chip advance <COMMA> at&t shares t <COMMA> up <NUM> percent <COMMA> headed higher for a second day after the telecommunications giant painted a rosier picture of future growth in a meeting with analysts <PUNC>
+boeing co. ba <COMMA> down <NUM> percent <COMMA> was among blue-chip decliners after its downgrade to equal-weight from overweight at morgan stanley <PUNC>
+financial shares were also on the decline after bank of america corp. bac warned of larger fourth-quarter losses than previously projected <COMMA> and was also among the institutions to draw a downgrade by merrill lynch <COMMA> with the broker also cutting its ratings on j.p. morgan chase co. jpm and wachovia corp. wb <PUNC>
+<PAR>

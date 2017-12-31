@@ -1,0 +1,8 @@
+u.s. stocks rose firmly on wednesday <COMMA> sending the dow jones industrial average to a new record high <COMMA> as a stream of deal making news continued to fuel buying interest <COMMA> this time with speculation in the metals and media sectors <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> just off a new record high of <NUM> <PUNC>
+the advance was led by the likes of caterpillar inc. cat <COMMA> home depot inc. hd and wal-mart stores inc. wmt <PUNC>
+alcoa inc. aa led the gains <COMMA> rising <NUM> percent <PUNC>
+alcan al late tuesday rejected the dollar <NUM> billion hostile offer from the dow-component <PUNC>
+alcan rose <NUM> percent <PUNC>
+elsewhere on the dow <COMMA> boeing co. ba fell <NUM> percent after reaffirming earnings guidance for <NUM> and <NUM> <PUNC>
+<PAR>

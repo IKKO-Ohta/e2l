@@ -1,0 +1,9 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading in negative territory <COMMA> but had been down as much as <NUM> points earlier in the session <PUNC>
+general electric co. ge reversed early gains and weighed on the dow industrials <COMMA> losing <NUM> percent after the wall street journal reported that the conglomerate is seeking bids for its plastics unit <PUNC>
+exxon mobil corp. xom also hurt the blue-chip average <COMMA> losing <NUM> percent as crude oil prices continued to tumble <PUNC>
+the market also awaits the fourth-quarter earnings season to kick off after the close of trading tuesday <COMMA> with alcoa s aa latest results <PUNC>
+the report will be scrutinized for clues about the severity of the manufacturing slowdown <PUNC>
+alcoa was last down <NUM> percent <PUNC>
+elsewhere in telecoms <COMMA> verizon communications vz shares were rising <NUM> percent after venezuelan president hugo chavez said he will nationalize the country s largest telecoms company <COMMA> compania anonima nacional telefonos de venezuela vnt <PUNC>
+verizon vz and spain s telefonica tef both own stakes in the company <PUNC>
+<PAR>

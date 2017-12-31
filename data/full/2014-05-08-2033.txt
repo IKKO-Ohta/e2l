@@ -1,0 +1,5 @@
+at session highs <COMMA> the dow jones industrial average jumped <NUM> points and topped its previous record close level <PUNC>
+the s&p <NUM> turned south after getting within a hair s breadth to its closing record <PUNC>
+still <COMMA> the declines were not uniform <COMMA> as the dow jones industrial average dji managed to stay in positive territory by the end of the session <COMMA> closing <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+peter cardillo <COMMA> chief market economist at rockwell global capital <COMMA> said the downward movement was due to a combination of two things <PUNC> technical resistance on the s&p <NUM> and the dow <COMMA> and nasdaq s failure to put in a solid recovery from recent declines <PUNC>
+<PAR>

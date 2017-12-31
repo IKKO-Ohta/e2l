@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> percent for the week <PUNC>
+the s&p <NUM> index spx advanced <NUM> percent on the week and the nasdaq composite index rixf closed for a weekly gain of <NUM> percent <PUNC>
+on tuesday <COMMA> alcoa inc. aa will kick off the traditional opening of earnings season <COMMA> reporting results after the market close <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+u.s. stocks rose friday <COMMA> with the s&p <NUM> index joining the dow industrials in positive turf for the week <COMMA> on reports europe would move to curb its debt troubles <PUNC>
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with merck & co. inc. mrk leading gains that included <NUM> of its <NUM> components <PUNC>
+<PAR>

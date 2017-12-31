@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> after posting a triple-digit gain wednesday <PUNC>
+shares of johnson & johnson jnj and boston scientific corp. bsx moved lower on a news report that several major cardiology centers are cutting back on their use of drug-coated coronary stents <COMMA> using less expensive uncoated stents instead <PUNC>
+general motors gm was the biggest percentage gainer within the dow industrials <COMMA> up <NUM> percent at dollar <NUM> <COMMA> after its vice president of global purchasing and supply chain <COMMA> bo andersson <COMMA> said thursday the company will post a good result for the second quarter <PUNC>
+<PAR>

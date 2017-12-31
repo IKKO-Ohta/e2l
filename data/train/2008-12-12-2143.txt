@@ -1,0 +1,6 @@
+down about <NUM> points at the start <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> leaving the blue-chip index off nearly <NUM> percent from last friday s close <PUNC>
+twenty-one of the dow s <NUM> components ended in the green <COMMA> led by intel corp. intc <COMMA> up <NUM> percent <PUNC>
+up and down throughout the session <COMMA> shares of general motors corp. gm lost <NUM> percent <PUNC>
+off the dow <COMMA> shares of ford motor co. f gained <NUM> percent <PUNC>
+shares of bank of america corp. bac edged fractionally higher in the wake of its downgrade by standard & poor s equity research <COMMA> which followed word the bank would cut as many as <NUM> jobs during the next three years <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+after closing tuesday with a gain of more than <NUM> points for a fifth time this year <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+twenty-five of its <NUM> components fell <COMMA> with dupont dd and alcoa inc. aa both down almost <NUM> percent <PUNC>
+<PAR>

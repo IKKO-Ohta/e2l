@@ -1,0 +1,3 @@
+up more than <NUM> points earlier on <COMMA> the dow jones industrial average dji more recently climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by financials <COMMA> including j.p. morgan chase & co. jpm <COMMA> up <NUM> percent <COMMA> american international group inc. aig <COMMA> ahead <NUM> percent <COMMA> and citigroup inc. c <COMMA> which gained <NUM> percent <PUNC>
+on tuesday <COMMA> the dow industrials rose <NUM> points <COMMA> the s&p <NUM> added <NUM> points and the nasdaq composite rose <NUM> points after lehman brothers holdings inc. leh and goldman sachs group inc. gs offered relief on earnings and the federal reserve cut interest rates by three-quarters of a percentage point <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+futures for the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+on the technology front <COMMA> international business machines corp. ibm said it would acquire business software maker cognos inc. cogn for dollar <NUM> billion in cash in a deal expected to close in the first quarter of <NUM> <PUNC>
+<PAR>

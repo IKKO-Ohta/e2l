@@ -1,0 +1,6 @@
+on the dow <COMMA> mcdonald s corp. mcd said its u.s. sales at restaurants open at least one year rose <NUM> percent in august <PUNC>
+europe same-restaurant sales increased <NUM> percent for the month <COMMA> and same-store sales in asia/pacific <COMMA> middle east & africa rose <NUM> percent <PUNC>
+systemwide sales for mcdonald s restaurants worldwide increased <NUM> percent in august <COMMA> or <NUM> percent in constant currencies <PUNC>
+on monday <COMMA> the stock fell <NUM> percent to dollar <NUM> <PUNC>
+hewlett-packard co. hpq <COMMA> another dow component <COMMA> will come under further scrutiny as chairwoman patricia dunn s future remained in the balance <PUNC>
+<PAR>

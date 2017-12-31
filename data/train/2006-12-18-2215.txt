@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> losing morning gains which had lifted the blue-chip index to a high of <NUM> <PUNC>
+among blue-chips <COMMA> citigroup inc. c gained <NUM> percent to dollar <NUM> <COMMA> after earlier reaching an all-time high of dollar <NUM> <PUNC>
+merrill lynch upgraded the stock to a buy from a neutral <COMMA> with the broker citing the stock s attractive valuation and saying it has greater confidence the bank will achieve its <NUM> earnings target <PUNC>
+oil-giant exxon mobil corp. xom fell <NUM> percent <COMMA> weighing down the blue-chip average <PUNC>
+<PAR>

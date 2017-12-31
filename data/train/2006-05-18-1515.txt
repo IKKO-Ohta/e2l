@@ -1,0 +1,7 @@
+u.s. stocks staged a modest rebound thursday as some investors moved to pick up attractively-valued shares after a prior session in which the dow jones industrial average suffered its biggest one-day point decline in more than three years <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+home depot inc. shares hd rose <NUM> percent to dollar <NUM> after the home improvement retailer late wednesday said its board has approved a dollar <NUM> billion share buyback program <PUNC>
+also on the dow <COMMA> merck shares mrk rose <NUM> percent to dollar <NUM> <COMMA> buoyed by hopes that its vaccine for hpv <COMMA> a known cause of cervical cancer <COMMA> will be recommended for approval by a u.s. food and drug administration advisory committee scheduled to meet later today <PUNC>
+dell inc dell was up <NUM> cents at dollar <NUM> as it prepares to release quarterly results after the market closes <PUNC>
+a broker upgrade boosted rival hewlett-packard co. hpq <COMMA> sending its shares up <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

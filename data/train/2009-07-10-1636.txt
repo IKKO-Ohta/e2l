@@ -1,0 +1,6 @@
+in early afternoon trades <COMMA> the dow jones industrial average dji stood at <NUM> <COMMA> off <NUM> points <PUNC>
+the s&p <NUM> index spx shed <NUM> points to <NUM> <COMMA> and the nasdaq rixf declined <NUM> points at <NUM> <PUNC>
+chip giant intel corp. intc is slated to report second-quarter results on tuesday <COMMA> with the world s no <PUNC>
+<NUM> maker of computer microprocessors expected to report a sharp drop in sales and earnings <PUNC>
+citrix systems inc. ctxs <COMMA> hewlett-packard co. hpq <COMMA> motorola inc. mot <COMMA> mcafee inc. mfe <COMMA> palm inc. palm and teradata corp. tdc also will be on rader s list of short candidates if they moved up another <NUM> percent to <NUM> percent <COMMA> rader said <PUNC>
+<PAR>

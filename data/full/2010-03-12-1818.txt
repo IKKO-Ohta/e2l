@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> in recent trading <PUNC>
+pfizer pfe fell <NUM> percent after the drug manufacturer said it ended a late-stage trial for its experimental lung-cancer drug called figitumumab <PUNC>
+united technologies utx shed <NUM> percent <PUNC>
+the company reaffirmed its earnings guidance for this year and accelerated the margin target for its hamilton sundstrand aerospace unit <COMMA> but its forecast of operating profit at the otis elevator business was cut <PUNC>
+keeping the losses in check <COMMA> several economically-sensitive stocks climbed after the february retail sales data <PUNC>
+caterpillar cat rose <NUM> percent <COMMA> while american express axp climbed <NUM> percent and mcdonald s mcd was up <NUM> percent <PUNC>
+<PAR>

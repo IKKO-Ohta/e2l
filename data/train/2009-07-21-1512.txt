@@ -1,0 +1,4 @@
+that low bar that has been set makes it easier for companies like caterpillar inc. cat and deere & co. de to beat expectations <COMMA> said art hogan <COMMA> chief market strategist <COMMA> jefferies & co <PUNC>
+and <COMMA> caterpillar fronted gains on the dow jones industrial average dji <COMMA> up <NUM> points at <NUM> <PUNC>
+the s&p <NUM> spx added <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf fell <NUM> points to <NUM> <PUNC>
+<PAR>

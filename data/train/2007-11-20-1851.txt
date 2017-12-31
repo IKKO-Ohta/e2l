@@ -1,0 +1,6 @@
+after climbing as much as <NUM> points <COMMA> the dow jones industrial average dji was recently off <NUM> points at <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were ahead <COMMA> led by exxon mobil corp. xom <COMMA> up <NUM> percent amid a rebound in energy stocks <PUNC>
+<PAR>
+blue-chip technology shares pared gains <COMMA> with international business machines corp. ibm up <NUM> percent and intel corp. intc <NUM> percent higher <PUNC>
+computer bellwether hewlett-packard hpq reported a stronger-than-forecast <NUM> percent profit rise late monday and forecast current-quarter earnings ahead of wall street estimates <COMMA> also helping lift the dow <PUNC>
+<PAR>

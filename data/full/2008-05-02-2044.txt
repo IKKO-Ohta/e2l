@@ -1,0 +1,6 @@
+far off its early highs that had the dow jones industrial average dji up <NUM> points at the start <COMMA> the dow gained <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> up <NUM> percent on the week <COMMA> with <NUM> of its <NUM> components settling in the green <PUNC>
+top gainers on the dow industrials included american international group inc. aig <COMMA> up <NUM> percent <COMMA> and dupont dd <COMMA> which gained <NUM> percent <PUNC>
+american express co. axp was among the blue-chip decliners <COMMA> off <NUM> percent <PUNC>
+in the technology sector <COMMA> microsoft corp. msft and yahoo inc. yhoo were again in the headlines <PUNC>
+chevron corp. cvx generated <NUM> percent profit growth <COMMA> with the oil giant s shares gaining <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> near its intra-day high and record close <PUNC>
+the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> marking its 48th record high this year <PUNC>
+the nasdaq composite rixf jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> aided by a substantial rally in its largest component <COMMA> apple inc <PUNC>
+both the s&p and the dow industrials closed at record highs on friday <PUNC>
+<PAR>

@@ -1,0 +1,12 @@
+the dow jones industrial average dji surged as much as <NUM> points early on but then backed off <COMMA> with the blue-chip index veering from positive to negative territory <PUNC>
+at its session low <COMMA> the blue-chip gauge was down nearly <NUM> points <PUNC>
+at the close <COMMA> the dow was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components ending in the red <PUNC>
+the dow s financial stocks paced blue-chip gains <COMMA> with bank of america corp. bac up <NUM> percent and citigroup inc. c ahead <NUM> percent <PUNC>
+citigroup and bank of america are helping the dow on news the two companies will be among nine major financial institutions to get a capital investment from the u.s. government <COMMA> said frederic ruffy <COMMA> options strategist at whatstrading.com <PUNC>
+off the dow <COMMA> other financial shares also gained <COMMA> with keycorp key rallying <NUM> percent and national city corp. ncc gaining <NUM> percent <PUNC>
+also bolstering the dow <COMMA> shares of johnson & johnson jnj gained <NUM> percent after the pharmaceutical giant nudged its <NUM> earnings outlook higher on solid sales growth among its consumer products <COMMA> as well as favorable foreign-exchange conditions <PUNC>
+<PAR>
+along with the broader market <COMMA> consumer-discretionary and technology shares weighed on the dow <COMMA> with coca-cola co. ko down <NUM> percent and microsoft corp. msft falling <NUM> percent <PUNC>
+fellow tech-sector dow component intel corp. intc fell <NUM> percent ahead of its third-quarter earnings report <COMMA> released after the close <PUNC>
+shares of general motors corp. gm on tuesday were up another <NUM> percent <COMMA> having surged more than <NUM> percent a day earlier amid reports that the auto giant had contemplated a merger <PUNC>
+<PAR>

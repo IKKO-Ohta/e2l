@@ -1,0 +1,7 @@
+on thursday <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> its highest close since early november <PUNC>
+the broad s&p <NUM> index spx was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> also its highest since early november <PUNC>
+the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after earlier topping the <NUM> mark for the first time since early october <PUNC>
+he then selected among those stocks that are rated buy or stronger by s&p <PUNC>
+among those are the biotechnology sector <COMMA> and stocks such as gilead sciences gild <PUNC>
+among brewers <COMMA> s&p suggests molson coors tap.nv.t <PUNC> among household products <COMMA> colgate-palmolive cl <PUNC> among soft drinks <COMMA> coca cola ko <COMMA> and in systems software <COMMA> sybase sy <PUNC>
+<PAR>

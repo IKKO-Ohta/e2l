@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+shares of intel corp. intc rose <NUM> percent to dollar <NUM> after ubs upgraded the world s largest chipmaker to buy from neutral <COMMA> citing lower operational spending and increased competitiveness <PUNC>
+the broker also lifted its price target on the company to dollar <NUM> from dollar <NUM> <PUNC>
+over the past four sessions <COMMA> the chipmaker s stock has rallied <NUM> percent <PUNC>
+procter & gamble pg <COMMA> meanwhile <COMMA> saw its shares rise <NUM> percent to dollar <NUM> after lehman brothers upgraded the household-products giant to overweight from equal weight <COMMA> citing valuation <PUNC>
+<PAR>

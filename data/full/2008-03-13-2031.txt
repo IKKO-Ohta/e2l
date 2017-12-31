@@ -1,0 +1,7 @@
+u.s. stocks rallied back from steep losses thursday <COMMA> with the dow industrials recovering from a 235-point drop <COMMA> after standard & poor s suggested banks might be finished with the bulk of write-downs linked to bad home loans <PUNC>
+off more than <NUM> points earlier the session <COMMA> the dow jones industrial average dji rallied back to end <NUM> points higher at <NUM> <COMMA> with <NUM> of its <NUM> components gaining ground <PUNC>
+among the stocks still in the red <COMMA> american international group inc. aig lost <NUM> percent <COMMA> citigroup inc. c fell <NUM> percent and jpmorgan chase & co. jpm lost <NUM> percent <PUNC>
+the market had stumbled earlier <COMMA> with the dow losing more than <NUM> points <COMMA> after a fund managed by the carlyle group reported that it was close to collapse <COMMA> dragging down the dollar and boosting oil <PUNC>
+counterparties of the carlyle fund in trouble include dow components citigroup <COMMA> j.p. morgan and bank of america corp. bac <PUNC>
+among other stocks in focus thursday <COMMA> microsoft corp. msft and general electric co. ge had analyst meetings <COMMA> and tyco international ltd. tyc held its annual shareholder meeting <PUNC>
+<PAR>

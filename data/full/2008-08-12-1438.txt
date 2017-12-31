@@ -1,0 +1,3 @@
+snapping a two-day winning streak that had the blue-chip index up <NUM> points <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components chalking up losses <PUNC>
+weighing on the blue-chip index as well as the broader market was the late monday disclosure by j.p. morgan jpm of dollar <NUM> billion in housing market-related losses since july <COMMA> only the latest illustration that the credit crisis remains an ongoing concern <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> with <NUM> of its <NUM> components posting gains <PUNC>
+general motors corp. gm led the blue-chip rise <COMMA> with stock of the auto giant climbing <NUM> percent <PUNC>
+also bolstering the dow <COMMA> shares of citigroup inc. c gained <NUM> percent after chief executive vikram pandit said he and chairman win bischoff will not take a <NUM> bonus and will cut pay and severance packages for executives <PUNC>
+bank of america corp. bac weighed the heaviest on the dow <COMMA> its shares declining <NUM> percent <PUNC>
+u.s. stocks had rallied wednesday <COMMA> the final session of <NUM> <COMMA> with some investors building positions in the hard-hit financial sector after the worst year for the u.s. market since <NUM> <PUNC>
+the dow jones industrial average gained <NUM> points to end down <NUM> percent for the year <PUNC>
+<PAR>

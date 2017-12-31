@@ -1,0 +1,9 @@
+the dow jones industrial average dji plunged <NUM> points <COMMA> or <NUM> percent <COMMA> to finish friday at <NUM> <PUNC>
+the move left the blue-chip average down <NUM> percent on the week <PUNC>
+in addition <COMMA> there s still a lot of questions about who s still trying to raise debt to boost dividends and finance share buybacks <COMMA> said paul nolte <COMMA> director of investments at hinsdale associates <PUNC>
+home depot hd is still having problems placing its debt for its share buyback <PUNC>
+some investors will still find time to pay attention to earnings from tech-bellwether cisco systems csco on tuesday and dow-component american international group inc. aig on wednesday <PUNC>
+out of all the s&p <NUM> companies <COMMA> <NUM> have so far reported earnings <COMMA> most of which <COMMA> or <NUM> percent have beat estimates <PUNC>
+the year-on-year earnings growth rate has risen to <NUM> percent in the past week <COMMA> up from <NUM> percent the previous week <COMMA> helped by better-than-expected results from the likes of general motors gm and metlife met <PUNC>
+on july <NUM> <COMMA> expectations were for earnings growth of <NUM> percent <PUNC>
+<PAR>

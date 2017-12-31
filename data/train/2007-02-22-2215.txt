@@ -1,0 +1,4 @@
+the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
+the blue-chip barometer was weighed down by alcoa inc. aa <COMMA> general motors corp. gm <COMMA> and merck mrk <COMMA> while exxon mobil corp. xom <COMMA> 3m corp. mmm and verizon communications vz rose <PUNC>
+google inc. goog <COMMA> meanwhile <COMMA> lost <NUM> cent after making on thursday its boldest move yet to challenge microsoft corp. s msft flagship office brand of business computer programs <PUNC>
+<PAR>

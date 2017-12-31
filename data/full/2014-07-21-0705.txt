@@ -1,0 +1,7 @@
+the russell <NUM> rut <COMMA> a key benchmark for smaller-capitalization stocks <COMMA> lost <NUM> percent for the week <COMMA> while the big-cap s&p <NUM> spx and the dow jones industrial average dji gained <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
+the russell is down for two weeks in a row and off <NUM> percent for the year <COMMA> but the s&p is up <NUM> percent in <NUM> <COMMA> the dow has risen <NUM> percent and the tech-heavy nasdaq composite rixf has tacked on <NUM> percent after last week s <NUM> percent gain <PUNC>
+it s going to be a battle between the two playing out <COMMA> said cieszynski <COMMA> cmc s chief market strategist <PUNC>
+he views second-quarter earnings season as going really <COMMA> really well so far <COMMA> pointing to big names in a mix of sectors surpassing expectations <COMMA> such as intel corp. intc <COMMA> j.p. morgan chase & co. jpm and unitedhealth group inc. unh <PUNC>
+factset data show <NUM> companies in the s&p <NUM> have already posted their second-quarter earnings <COMMA> and <NUM> percent have topped consensus forecasts <PUNC>
+in the coming week <COMMA> notable companies reporting include netflix inc. nflx <COMMA> halliburton co. hal and chipotle mexican grill inc. cmg on monday <PUNC> apple inc. aapl <COMMA> mcdonald s corp. mcd and verizon communications inc. vz on tuesday <PUNC> boeing co. ba <COMMA> facebook inc. fb and at&t inc. t on wednesday <PUNC> and ford motor co. f <COMMA> visa inc. v and caterpillar inc. cat on thursday <PUNC>
+<PAR>

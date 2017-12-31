@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq rixf added <NUM> points <COMMA> also a <NUM> percent gain <COMMA> to <NUM> <PUNC>
+a new wave of investors likely will enter the market and power further gains if the dow soon breaks through the <NUM> level <COMMA> said robert pavlik <COMMA> portfolio manager at oaktree asset management <PUNC>
+honeywell hon closed up <NUM> percent at dollar <NUM> after merrill lynch upgraded the blue-chip conglomerate to buy from neutral <COMMA> and raised earnings estimates for the company <PUNC>
+but another dow component <COMMA> exxon mobil xom <COMMA> managed to through off midday losses to close up <NUM> cents at dollar <NUM> <PUNC>
+the oil giant reported a <NUM> percent increase in second-quarter net income but its per-share profit came in a penny shy of analysts expectations as volumes fell more than <NUM> percent on a year-over-year basis <PUNC>
+<PAR>

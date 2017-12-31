@@ -1,0 +1,14 @@
+the dow jones industrial average rose slightly friday while other stock measures fell modestly in a quiet ending to a second-straight year of gains for the market <PUNC>
+the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> up <NUM> percent from where it began <NUM> <PUNC>
+the dow s gain for the year represents its second-straight annual increase <COMMA> with almost half of the <NUM> climb having come this month <PUNC> it rose <NUM> percent in december <PUNC>
+the dow came close to ending <NUM> at a fresh closing high for the year <PUNC> if it closed above <NUM> <COMMA> it would have reached its highest close since august <NUM> <PUNC>
+alcoa <COMMA> inc. aa led the dow s ascent on friday <COMMA> rising <NUM> percent <PUNC>
+however <COMMA> alcoa turned in the fifth-worst performance of the year among the measure s <NUM> components <COMMA> with a <NUM> percent drop <PUNC>
+hewlett-packard co. hpq was the dow s worst performer of <NUM> with an <NUM> percent drop over the period <PUNC>
+it was also weak friday <COMMA> slipping <NUM> percent <PUNC>
+the dow s best performer of the year was caterpillar <COMMA> inc. cat with a <NUM> percent jump <PUNC>
+caterpillar shed <NUM> percent on friday <PUNC>
+imax corp. imax shares rose <NUM> percent after u.k. newspaper the daily mail said sony corp. sne is considering a dollar <NUM> -a-share bid for big-screen movie company <COMMA> with walt disney co. dis interested as well <PUNC>
+u.s. shares of sony edged up <NUM> percent while disney tacked on <NUM> percent <PUNC>
+imax declined to comment on the report.read more on tech stocks <PUNC>
+<PAR>

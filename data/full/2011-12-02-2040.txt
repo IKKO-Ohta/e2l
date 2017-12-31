@@ -1,0 +1,3 @@
+u.s. stocks edged up on friday <COMMA> with the dow on track for its biggest weekly point jump in three years <COMMA> as investors considered a drop in the u.s. jobless rate and europe s debt crisis <PUNC>
+after a 100-point climb <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> a level that has it up <NUM> points <COMMA> or <NUM> percent <COMMA> on the week <COMMA> its largest weekly point gain since the week ending oct. <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+u.s. stocks traded mixed monday <COMMA> with upbeat news for boeing co. and better-than-expected sales at wal-mart stores inc. providing mild support for the dow jones industrial average <COMMA> while rising oil prices and weakness in technology weighed on the broad market <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> lifted by gains in shares of boeing ba and wal-mart wmt <PUNC>
+but caterpillar inc. cat dropped <NUM> percent following news that orders for mid-size trucks weakened significantly in january <PUNC>
+investors also kept an eye on the dow jones transportation average <COMMA> seen as an indicator of economic growth and of overall market performance <PUNC>
+the average was down <NUM> percent <COMMA> after setting a new high on friday <COMMA> along with the russell <NUM> index of small-cap stocks <PUNC>
+according to followers of the dow theory <COMMA> the new highs are expected to signal further market gains. <PUNC>
+the averages saw confirmation from both the russell <NUM> and the dow jones transports <COMMA> said marc pado <COMMA> chief u.s. market strategist at cantor fitzgerald <PUNC>
+these intermediate to long-standing divergences had weighed on sentiment ... however <COMMA> they joined the party last week <COMMA> confirming a continuation of the bull market in <NUM> <PUNC>

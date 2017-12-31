@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+boeing ba led blue-chip gainers after the plane manufacturer reported first-quarter profit that exceeded wall street s estimates <PUNC>
+at&t inc. t shares fronted the dow s decline as the telephone company reported a larger-than-expected sales decline in the first quarter <PUNC>
+procter & gamble co. pg also lost ground after the dow member s full-year earnings outlook fell short <PUNC>
+<PAR>

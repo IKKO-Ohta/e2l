@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with shares of international business machines corp. ibm and boeing co. ba leading the way <PUNC>
+dow component alcoa aa lost <NUM> percent after a downgrade from j.p. morgan analysts <PUNC>
+the aluminum giant will kick off second-quarter earnings season on monday after the bell <PUNC>
+<PAR>

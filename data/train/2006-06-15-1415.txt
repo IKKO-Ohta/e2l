@@ -1,0 +1,2 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> after posting a triple-digit gain in the prior session for the first time in more than a month <PUNC>
+<PAR>

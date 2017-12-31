@@ -1,0 +1,5 @@
+the futures contract for the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
+rio tinto rtp said it reached an agreement to buy canadian aluminum producer alcan inc. al for about dollar <NUM> billion <COMMA> topping a hostile offer from aloca inc. aa by nearly a third <PUNC>
+alcan s board <COMMA> which would not even release data to alcoa <COMMA> backed the bid unanimously <PUNC>
+retail companies that beat expectations for june same-store sales included wal-mart wmt <COMMA> nordstrom jwn and limited brands inc. ltd <PUNC>
+<PAR>

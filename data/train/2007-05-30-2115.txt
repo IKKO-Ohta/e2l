@@ -1,0 +1,9 @@
+u.s. stocks rallied on wednesday <COMMA> sending both the dow jones industrial average and the s&p <NUM> to record closing levels <COMMA> as the market bounced back from initial weakness due to an overnight sell-off in the shanghai stock market <PUNC>
+after briefly dipping in negative territory <COMMA> the dow jones industrial average dji rallied <NUM> points to close at <NUM> <COMMA> a new record high and closing level <PUNC>
+leading the dow were the likes of alcoa inc. aa <COMMA> boeing co. ba and exxon mobil corp. xom <PUNC>
+the dow earlier fell <NUM> points before bouncing back <COMMA> as investors shrugged off a <NUM> percent drop in the shanghai stock market <COMMA> sparked by a tripling of taxes on stock trades <PUNC>
+among blue chips <COMMA> caterpillar inc. cat was the biggest gainer <COMMA> adding <NUM> percent after competitor joy global inc. joyg issued an upbeat outlook for the coming <NUM> months <PUNC>
+coca-cola co. ko gained <NUM> percent after citigroup upgraded the stock to buy from hold <PUNC>
+ibm ibm gained <NUM> percent after saying it has bought back dollar <NUM> billion in company stock as part of a previously announced dollar <NUM> billion buyback plan <PUNC>
+ibm also said it expects its <NUM> earnings to now rise between <NUM> percent and <NUM> percent over the dollar <NUM> a share it earned last year <PUNC>
+<PAR>

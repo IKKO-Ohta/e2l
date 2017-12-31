@@ -1,0 +1,4 @@
+with less than <NUM> minutes of trade remaining <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> poising the blue-chips for a weekly advance of <NUM> percent <PUNC>
+the s&p <NUM> index spx fell <NUM> point <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> readying it for a <NUM> percent gain from last friday s close <PUNC>
+the nasdaq composite rixf declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> readying the technology-heavy index for a <NUM> percent rise for the week <PUNC>
+<PAR>

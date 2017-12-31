@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components climbing <PUNC>
+boeing co. ba was among the blue-chip decliners <COMMA> with shares of the plane manufacturer off <NUM> percent ahead of a vote by union engineers that ends tuesday night on whether to approve a strike over retirement benefits <PUNC>
+the dispute comes as boeing addresses concerns over its <NUM> dreamliner <COMMA> grounded for more than a month by battery failures <PUNC>
+<PAR>

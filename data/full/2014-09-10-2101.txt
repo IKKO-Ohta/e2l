@@ -1,0 +1,3 @@
+the s&p <NUM> spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> while the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+both indexes snapped two-day skids <COMMA> but remain down for the week <PUNC>
+<PAR>

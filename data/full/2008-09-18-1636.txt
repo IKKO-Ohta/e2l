@@ -1,0 +1,9 @@
+rising nearly <NUM> points in the first hour <COMMA> the dow jones industrial average dji at last check was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+shares of citigroup inc. c fronted the decliners <COMMA> off <NUM> percent <PUNC>
+dow gainers included american international group inc. aig <COMMA> which on monday will be replaced by kraft foods inc. kft in the blue-chip benchmark <PUNC>
+knocking aig off the dow will leave the index under-weighted in financials <COMMA> a situation to be addressed in due course <COMMA> said thomson <PUNC>
+aig advanced <NUM> percent <COMMA> with another dow component <COMMA> automaker general motors corp. gm <COMMA> also staging a strong advance <COMMA> up <NUM> percent <PUNC>
+and washington mutual inc. wm <COMMA> the nation s biggest thrift <COMMA> is reportedly looking for a buyer <COMMA> with wells fargo co. wfc <COMMA> j.p. morgan chase & co. jpm and hsbc holdings plc hbc viewed as potential bidders <PUNC>
+<PAR>
+on wednesday <COMMA> the dow industrials shed <NUM> points to close at <NUM> <COMMA> its lowest close since nov. <NUM> <COMMA> <NUM> <COMMA> with the equities market hammered as investors panicked about the potential for further failures in the financial sector <PUNC>
+<PAR>

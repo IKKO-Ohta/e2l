@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <COMMA> with american international group inc. aig leading the dow s losses <PUNC>
+separately <COMMA> wal-mart stores wmt said its july sales at stores open at least one year rose <NUM> percent <PUNC>
+analysts <COMMA> on average <COMMA> had expected the same-store sales to rise <NUM> percent <PUNC>
+u.s. stocks closed higher wednesday after a volatile trading say that saw the dow claw its way back from a 190-point deficit in the final hour of trading as investors remained positive about the federal reserve s assessment of economic growth and also cheered an upbeat outlook from cisco systems <PUNC>
+the s&p <NUM> closed up <NUM> points and the dow industrials were <NUM> points ahead at the close <PUNC>
+<PAR>

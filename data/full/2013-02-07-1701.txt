@@ -1,0 +1,5 @@
+extending losses <COMMA> the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the dow ended wednesday up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with some earlier jitters in the session over european politics <PUNC>
+despite the bumps in the markets this week <COMMA> pope said he doesn t see any big panic button to press unless the dow drops past the <NUM> level and the s&p <NUM> index drops to <NUM> <PUNC>
+we ve got plenty of fat on the bone here <PUNC> there will be retracement <COMMA> days of correction <COMMA> he said <PUNC>
+the downside in these price movements are buying opportunities <PUNC>

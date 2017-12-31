@@ -1,0 +1,5 @@
+up about <NUM> points earlier on <COMMA> the dow jones industrial average dji was more recently at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> all but four were trading in the green <COMMA> led by citigroup inc. c and johnson & johnson jnj <COMMA> both up <NUM> percent <PUNC>
+intel corp. intc fronted the blue-chip declines <COMMA> off <NUM> percent <PUNC>
+shares of countrywide financial corp. cfc rose <NUM> percent after the lender set a june <NUM> date for a shareholders meeting to approve its sale to bank of america corp. bac <PUNC>
+<PAR>

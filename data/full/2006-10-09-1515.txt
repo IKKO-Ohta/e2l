@@ -1,0 +1,12 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> as declines for boeing co. ba <COMMA> verizon communications vz and general motors corp. gm among others <COMMA> kept the blue-chip index tethered to the downside <PUNC>
+but a nearly <NUM> percent gain for alcoa inc. aa ahead of its quarterly results this week offered a bright spot on the dow <PUNC>
+dupont dd also moved higher <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to losses <PUNC>
+not to be left out <COMMA> citigroup inc. c ceo chuck prince said the bank is considering acquisitions of banks in taiwan <COMMA> turkey <COMMA> central america <COMMA> china and western europe as part of a plan to boost the proportion of earnings coming from outside the united states to <NUM> percent from <NUM> percent <COMMA> according to an interview published monday in the financial times <PUNC>
+prince said he expected progress before the end of the year on its international deals <PUNC>
+citigroup shares were down <NUM> cents at dollar <NUM> <PUNC>
+on the dow <COMMA> johnson & johnson jnj said late friday the u.s. food and drug administration has approved risperdal for the treatment of irritability associated with autistic disorder in children and adolescents aged <NUM> to <NUM> years <PUNC>
+at&t inc. t rose <NUM> cents to dollar <NUM> after broker citigroup raised its recommendation on the telecom operator to buy from hold on the belief the company has greater earnings power than its rival and fellow dow component verizon communications vz <PUNC>
+shares of verizon dropped <NUM> cents to dollar <NUM> <PUNC>
+mcdonald s corp. mcd added <NUM> cents to dollar <NUM> after morgan stanley upgraded the fast-food giant to overweight from equal-weight on the belief that it s entering a second-phase of its turnaround <COMMA> driven by improving results in europe <PUNC>
+<PAR>

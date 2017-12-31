@@ -1,0 +1,12 @@
+on tuesday <COMMA> stocks ended lower after the biggest monthly rise in producer prices in <NUM> years fueled inflation and interest rates fears <COMMA> taking the shine off a number of solid earnings reports led by 3m and international business machines <PUNC>
+a sharp fall in exxon mobil shares sparked by a <NUM> million block trade also weighed on the dow jones industrial average <PUNC>
+the dow industrials dji ended at its low for the session <COMMA> down <NUM> points at <NUM> <PUNC>
+semiconductor stocks sox are likely to come under pressure in early trading after sector giant intel corp intc posted solid third-quarter earnings <COMMA> but offered a fourth-quarter revenue outlook where the mid-point of the range was slightly shy of analyst expectations <PUNC>
+the company <COMMA> a dow component <COMMA> was down <NUM> percent at at dollar <NUM> in pre-market trading on instinet <PUNC>
+a pre-market gain of <NUM> percent in shares of j.p. morgan jpm <COMMA> another dow component <COMMA> should help limit the downside on the blue-chip index <PUNC>
+the investment bank posted a forecast-beating <NUM> percent rise in adjusted earnings and announced that jamie dimon will take over as chief executive officer of the company six months early <PUNC>
+honeywell international inc. hon is looking at a lower open after the company posted quarterly revenue that fell short of wall street expectations <PUNC>
+on tuesday <COMMA> the stock ended down <NUM> cents at dollar <NUM> <PUNC>
+altria mo meanwhile tacked on <NUM> cents to dollar <NUM> in pre-market dealings as the company s philip morris usa tobacco business saw its retail share climb above <NUM> percent <PUNC>
+outside the dow <COMMA> yahoo inc. shares yhoo gained <NUM> cents to dollar <NUM> in pre-market dealings as a surge in revenue from online advertising and internet services helped offset a quarterly profit that was nearly unchanged from a year ago <PUNC>
+<PAR>

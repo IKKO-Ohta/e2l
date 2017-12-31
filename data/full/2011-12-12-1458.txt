@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with chip manufacturer intel intc off <NUM> percent <PUNC>
+<PAR>

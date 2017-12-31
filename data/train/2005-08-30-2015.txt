@@ -1,0 +1,10 @@
+the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> but off an earlier low of <NUM> <PUNC>
+on the dow industrials <COMMA> exxon mobil corp. xom was one of only a handful of gainers <COMMA> buoyed by the high price of oil <PUNC>
+at last check <COMMA> the stock was up <NUM> percent <PUNC>
+shares of wal-mart stores inc. wmt fell <NUM> percent after the company closed as many as <NUM> stores in the area affected by hurricane katrina <PUNC>
+the world s largest retailer said it took the measure in order to fully assess the damage caused by the storm <PUNC>
+home depot hd was down <NUM> percent at dollar <NUM> <COMMA> handing back all the gains logged in the prior session on expectations the home improvement retailer would benefit from extra sales sparked by all the house repairs needed after the passage of hurricane katrina <PUNC>
+rival lowe s low was also down <NUM> percent at dollar <NUM> <PUNC>
+boeing co. shares ba fell <NUM> percent to dollar <NUM> as the aerospace giant made a new contract offer to its 18,000-strong machinists union <PUNC>
+the current machinists contract expires on sept. <NUM> <PUNC>
+<PAR>

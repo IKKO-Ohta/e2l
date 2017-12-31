@@ -1,0 +1,5 @@
+after climbing <NUM> points after the opening bell <COMMA> the dow jones industrial average dji was more recently up <NUM> points to <NUM> <PUNC>
+top gainers on the dow industrials included citigroup c <COMMA> up <NUM> percent <COMMA> and bank of america bac <COMMA> which also rose more than <NUM> percent <PUNC>
+also of note <COMMA> microsoft corp. msft and yahoo inc. yhoo were again in the headlines as the wall street journal that microsoft is leaning toward a hostile bid for the internet search group <COMMA> which has rejected the unsolicited takeover offer made in january <PUNC>
+yahoo shares rose over <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

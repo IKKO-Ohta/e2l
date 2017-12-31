@@ -1,0 +1,4 @@
+early in the current reporting season <COMMA> companies including blue chips intel corp. intc and johnson & johnson jnj reported terrific results in large measure because of increased demand from emerging markets <COMMA> said fred dickson <COMMA> chief market strategist at davidson cos <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> index spx dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the nasdaq composite rixf slumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

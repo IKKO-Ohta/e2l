@@ -1,0 +1,3 @@
+at 1:40 p.m. eastern <COMMA> the dow jones industrial average dji stood at <NUM> <COMMA> up <NUM> <COMMA> or <NUM> percent <PUNC>
+the s&p <NUM> index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

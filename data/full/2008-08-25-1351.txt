@@ -1,0 +1,2 @@
+the dow jones industrial average dji dropped <NUM> points to <NUM> <COMMA> with all but two of its <NUM> components posting early declines <COMMA> led by insurance giant american international group inc. aig <COMMA> recently down <NUM> percent <PUNC>
+<PAR>

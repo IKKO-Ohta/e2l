@@ -1,0 +1,4 @@
+the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with technology companies led by hewlett-packard co. hpq pacing gains that included <NUM> of its <NUM> components <PUNC>
+mcdonald s corp. mcd rose <NUM> percent after the fast-food chain reported a <NUM> percent gain in global sales last month <PUNC>
+on friday <COMMA> the dow industrials finished the week <NUM> points <COMMA> or <NUM> percent <COMMA> higher <COMMA> with the index rising for a third straight week on the hope that white house and republican congressional leaders would eventually reach an accord <PUNC>
+<PAR>

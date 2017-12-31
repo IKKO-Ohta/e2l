@@ -1,0 +1,3 @@
+u.s. stocks on wednesday fell for a second day <COMMA> with the dow industrials suffering their first back-to-back triple-digit decline in eight months <COMMA> as oil topped dollar <NUM> a barrel <PUNC>
+a day after its largest fall since nov. <NUM> <COMMA> the dow jones industrial average dji was off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components tallying losses <COMMA> led by hewlett-packard co. hpq h-p shares fell <NUM> percent after ceo leo apotheker projected revenue for the current fiscal year will be below expectations <PUNC>
+<PAR>

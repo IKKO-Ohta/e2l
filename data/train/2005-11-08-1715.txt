@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell by about <NUM> points at one stage <COMMA> then pared its losses <PUNC>
+home depot hd also was hit by toll brothers weaker homes delivery forecast <COMMA> falling nearly <NUM> percent <COMMA> and pressuring the dow <PUNC>
+mcdonald s mcd <COMMA> a dow component <COMMA> rose slightly <PUNC>
+the fast food retailer said worldwide same-store sales rose <NUM> percent in october <COMMA> with u.s. same-store sales racking up a <NUM> percent gain <PUNC>
+<PAR>

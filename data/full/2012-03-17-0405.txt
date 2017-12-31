@@ -1,0 +1,2 @@
+the dow jones industrial average dji closed at <NUM> on friday <COMMA> down <NUM> percent and the nasdaq composite rixf shed <NUM> percent to end at <NUM> <COMMA> while the s&p <NUM> spx climbed <NUM> percent to finish at <NUM> <PUNC>
+<PAR>

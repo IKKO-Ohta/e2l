@@ -1,0 +1,5 @@
+the dow jones industrial average dji shifted in and out of positive territory <COMMA> and was last down <NUM> points at <NUM> <PUNC>
+the dow was weighed by shares of hewlett-packard co. hpq <COMMA> which fell <NUM> percent after news that eastman kodak ek is introducing a competing line of higher-priced printers that feature lower-priced cartridges <PUNC>
+broad weakness among blue chips offset gains from the likes of alcoa inc. aa <COMMA> citigroup inc. c and dupont dd <PUNC>
+wal-mart stores inc. wmt erased earlier gains and fell fractionally after the retailer announced that it is testing a possible video download service that would offer more than <NUM> films and television shows <PUNC>
+<PAR>

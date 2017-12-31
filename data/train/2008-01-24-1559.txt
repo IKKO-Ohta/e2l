@@ -1,0 +1,5 @@
+after adding more than <NUM> points and then dropping into negative territory in the first hour of trade <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> by late morning <COMMA> with half of its <NUM> components trading higher <PUNC>
+u.s. stocks had stormed higher wednesday after huge early losses <COMMA> with the dow industrials finishing <NUM> points higher after dropping <COMMA> at one point <COMMA> down <NUM> points <PUNC>
+the nasdaq composite rose <NUM> points and the s&p <NUM> rose <NUM> points <PUNC>
+at&t t reported a <NUM> percent profit rise after the exclusive distributor of the iphone saw wireless growth <PUNC>
+<PAR>

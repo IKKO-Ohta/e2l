@@ -1,0 +1,7 @@
+the dow jones industrial average dji climbed <NUM> points to <NUM> <PUNC>
+all but three of its <NUM> components posted early gains <COMMA> led by alcoa inc. aa <COMMA> which advanced <NUM> percent <PUNC>
+shares of general motors corp. gm rallied <NUM> percent as lawmakers neared a deal to rescue the auto industry <COMMA> with a vote possible as early as tuesday <PUNC>
+shares of mcdonald s corp. mcd reversed earlier declines after the fast-food giant posted healthy november sales increases in the united states and abroad <PUNC>
+the blue-chip index s laggards included 3m co. mmm <COMMA> which was off <NUM> percent after the post-it note maker lowered its earnings outlook for the year <COMMA> and said it cut almost <NUM> jobs in the fourth quarter to cut costs <PUNC>
+off the dow <COMMA> shares of ford motor co. f climbed <NUM> percent <PUNC>
+<PAR>

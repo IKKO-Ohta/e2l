@@ -1,0 +1,8 @@
+on wednesday <COMMA> stocks ended higher <COMMA> after rallies in boeing co. and general motors corp. boosted the dow jones industrial average and a larger-than-expected decline in the u.s. trade deficit lifted overall sentiment <PUNC>
+however <COMMA> concern over high commodities prices <COMMA> rising interest rates and political tensions with iran persisted <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <PUNC>
+shares in general electric co. ge dipped <NUM> cents to dollar <NUM> in pre-market trading on instinet after the industrial conglomerate posted an in-line first-quarter profit and reaffirmed its earnings forecast for <NUM> <PUNC>
+revenue for the quarter <COMMA> however <COMMA> came in just ahead of analyst forecasts <PUNC>
+outside of technology <COMMA> mcdonald s corp. mcd rose <NUM> cents to dollar <NUM> in pre-market dealings after the fast-food giant said its its u.s. march same-store sales rose <NUM> percent <COMMA> helped by its breakfast menu and extended operating hours <PUNC>
+the fast-food chain also forecast first-quarter earnings of <NUM> cents a share <COMMA> in line with expectations of analysts polled by thomson first call <PUNC>
+<PAR>

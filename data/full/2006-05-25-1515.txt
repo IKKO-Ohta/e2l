@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+shares in wal-mart stores inc. wmt rose <NUM> percent to dollar <NUM> after bank of america upgraded the world s largest discount retailer to buy from neutral <PUNC>
+the broker said the change in recommendation reflected early success from the company s current merchandise initiatives <COMMA> hopes for slowing future square footage growth and improved margin expectations <PUNC>
+also on the dow <COMMA> shares of general motors corp. gm rose as much as <NUM> percent to a seven-month high of dollar <NUM> after surging more than <NUM> percent in the prior session <PUNC>
+the detroit news is reporting that more than <NUM> u.s. factory workers at the auto maker have accepted buyout offers <COMMA> surpassing its internal target with just a month remaining before the offer expires <PUNC>
+on wednesday <COMMA> broker merrill lynch upgraded gm <COMMA> citing optimism over the take-up rate for the buyout offer <PUNC>
+<PAR>

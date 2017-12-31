@@ -1,0 +1,2 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <COMMA> led by bank of america corp. bac <COMMA> up <NUM> percent <COMMA> and heavy-equipment maker caterpillar inc. cat <COMMA> up <NUM> percent <PUNC>
+<PAR>

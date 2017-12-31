@@ -1,0 +1,7 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+both the dow industrials and the s&p <NUM> are at their best levels in nearly five years <PUNC>
+altria group inc. shares mo climbed <NUM> cents to dollar <NUM> after the food and tobacco giant said it plans to record roughly dollar <NUM> billion in tax benefits in the first quarter following the conclusion of an examination of its tax returns running from <NUM> through <NUM> by the internal revenue service <PUNC>
+the company lifted its <NUM> earnings outlook as a result of the tax decision <PUNC>
+ford motor co. f fell <NUM> cents to dollar <NUM> after j.p. morgan slashed its rating on the carmaker to underweight from overweight <PUNC>
+the broker cited concern about sports utility vehicle sales and the launch of a general motors corp. gm pick-up truck to rival ford s own product offering <PUNC>
+<PAR>

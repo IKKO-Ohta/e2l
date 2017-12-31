@@ -1,0 +1,8 @@
+u.s. stocks on monday closed higher for a third straight session <COMMA> with fedex corp. s improved outlook and a break from disappointing economic data helping lift the dow industrials back into positive territory for the year <PUNC>
+helped by a late-session burst that lifted the indexes to their highs of the day <COMMA> the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the blue-chip average is now <NUM> percent higher for the year <COMMA> marking its first finish above its dec. <NUM> <COMMA> <NUM> <COMMA> close in five weeks <PUNC>
+twenty-nine of the dow s <NUM> components gained <COMMA> led by <NUM> percent gains in shares of pfizer inc. pfe and bank of america corp. bac <PUNC>
+wal-mart stores inc. wmt was the only decliner <COMMA> and its shares fell <NUM> percent <PUNC>
+international business machines corp. ibm shares lagged <COMMA> ending up <NUM> percent after the european union launched a probe against ibm <COMMA> reviving allegations that the company took unfair advantage of its dominant position in the mainframe computer market <PUNC>
+ibm rejected the allegations <COMMA> while blaming microsoft corp. msft and other rivals for arousing the eu action <PUNC>
+<PAR>

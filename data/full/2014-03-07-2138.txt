@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+both the benchmark and blue-chip indexes posted their second week of gains <PUNC>
+the s&p <NUM> advanced <NUM> percent for the week <COMMA> while the dow gained <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,11 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> but off an early high of <NUM> <PUNC>
+ibm ibm was powering gains on the benchmark index as its shares rallied dollar <NUM> <COMMA> or <NUM> percent to dollar <NUM> after analysts enthused over its second-quarter results <PUNC>
+johnson & johnson jnj shares edged up a penny to dollar <NUM> after it posted second-quarter results that topped analyst estimates on an <NUM> percent jump in sales year-over-year <PUNC>
+caterpillar inc. shares cat rose <NUM> percent <COMMA> with traders on the floor attributing the move to comments from wall street commentator jim cramer encouraging investors to buy into the stock ahead of the company s earnings due later this week <PUNC>
+citigroup inc c shares shed <NUM> cents to dollar <NUM> <COMMA> extending a <NUM> percent decline in the prior session <COMMA> after merrill lynch and bear stearns cut their earnings estimates on the banking giant <COMMA> a day after it posted weaker-than-expected results <PUNC>
+intel corp intc was up <NUM> percent at dollar <NUM> ahead of its quarterly results due after the market close <PUNC>
+microsoft msft <COMMA> which reports thursday <COMMA> also gained <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
+shares of hewlett-packard co. hpq <COMMA> another dow component <COMMA> fell <NUM> percent as the computer and printer maker <COMMA> in a widely-anticipated move <COMMA> said it would cut <NUM> jobs <COMMA> or roughly <NUM> percent of its workforce <COMMA> as part of a major restructuring that chief executive mark hurd said is necessary for the printer and computer giant to reach its full potential <PUNC>
+earnings from merrill lynch mer offered a balm to those investors disappointed by monday s disappointing earnings from citigroup <PUNC>
+c <PUNC>
+<PAR>

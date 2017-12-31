@@ -1,0 +1,7 @@
+the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
+dow component international business machines ibm shook off preopening losses to trade <NUM> percent higher at dollar <NUM> <PUNC>
+the company will buy california software developer filenet file for dollar <NUM> billion <PUNC>
+shares of dow component boeing co. ba dropped <NUM> percent to dollar <NUM> <PUNC>
+the aerospace giant still is facing a review of tainted cargo plane contract practices <COMMA> according to the wall street journal <PUNC>
+this is despite the fact the company will pay dollar <NUM> million to resolve both criminal and civil investigations <PUNC>
+<PAR>

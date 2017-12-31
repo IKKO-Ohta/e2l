@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or less than <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

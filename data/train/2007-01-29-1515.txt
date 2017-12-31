@@ -1,0 +1,11 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+technology stocks lifted the blue-chip average after both intel corp. intc and ibm ibm announced over the weekend that they are developing new materials to build smaller and faster chips.intel was up <NUM> percent <COMMA> leading gains on the dow <COMMA> while ibm rose <NUM> percent <PUNC>
+microsoft corp. msft also rose modestly ahead of the launch of vista <COMMA> its new operating system <COMMA> slated for release on tuesday <PUNC>
+verizon communications vz <COMMA> another dow component <COMMA> dropped <NUM> percent after it reported earnings that fell from year-earlier levels <COMMA> even as earnings excluding special items topped expectations <PUNC>
+in spite of the interest in the dow s tech components <COMMA> other areas of technology failed to rally <COMMA> following weakness last week as crude oil rallied back over dollar <NUM> a barrel <PUNC>
+in recent action <COMMA> a barrel falling <NUM> cents to dollar <NUM> <PUNC>
+and investors still have to digest the latest spate of earnings <PUNC>
+earnings are still high on the list <COMMA> with numbers due out from google goog <COMMA> exxon mobil xom <COMMA> and procter & gamble pg later this week <COMMA> noted pado <PUNC>
+among dow components <COMMA> citigroup inc. c fell slightly in electronic trading after saying it has agreed to buy online bank egg from the u.k. s prudential for dollar <NUM> billion <PUNC>
+citigroup also plans to cut some jobs and more than dollar <NUM> billion in costs this year <COMMA> according to a bloomberg report <PUNC>
+<PAR>

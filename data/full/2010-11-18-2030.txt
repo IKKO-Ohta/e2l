@@ -1,0 +1,4 @@
+after two days of losses that shaved <NUM> points off the dow jones industrial average dji <COMMA> the blue-chip index recouped the bulk of those losses thursday <COMMA> lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+twenty-nine of the dow s <NUM> components were rising <COMMA> led by aluminum producer alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
+intel corp. intc was the sole decliner <COMMA> its shares off <NUM> percent after a j.p. morgan analyst wrote in a note that the chip maker appears headed toward the lower end of its fourth-quarter revenue forecast <PUNC>
+<PAR>

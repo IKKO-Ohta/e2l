@@ -1,0 +1,4 @@
+u.s. stocks rose tuesday <COMMA> with the dow industrials hitting an all-time high after reclaiming <NUM> <COMMA> after australia cut its refinancing rate and satellite-tv provider directv and watch maker fossil inc. reported improved earnings <PUNC>
+rising to a record intraday high of <NUM> <COMMA> the dow industrials dji were lately up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+the government s nonfarm-payrolls report released friday illustrated a steep increase in hiring in april <COMMA> and helped propel the dow industrials above <NUM> for the first time <COMMA> although the level was not sustained through the close <PUNC>
+<PAR>

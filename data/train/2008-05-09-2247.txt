@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with the blue-chip index shedding more than <NUM> points <COMMA> or <NUM> percent on the week <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> ended with losses <COMMA> led by aig aig down <NUM> percent <COMMA> following its larger-than-forecast loss <COMMA> which led standard & poor s and fitch to cut the insurance giant s credit rating <PUNC>
+<PAR>
+also weighing on the dow was citigroup c <COMMA> off <NUM> percent on word the banking institution would sell or downsize pieces of its sprawling empire <PUNC>
+<PAR>
+u.s. stocks ended higher on thursday <COMMA> with better-than-expected april sales by wal-mart stores inc. wmt and other retailers driving a mild rebound <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+u.s. stocks closed mixed wednesday <COMMA> with the dow jones industrial average failing to stay above <NUM> <COMMA> after the average smashed through that barrier in early trade as its components ibm and intel posted strong gains <PUNC>
+the dow industrials dji shot above <NUM> for the first time in the opening minutes of trade <PUNC>
+it later traded as high as <NUM> <COMMA> before breaking stride and closing up <NUM> points at <NUM> <PUNC>
+within the dow <COMMA> shares of intel intc closed up almost <NUM> % at dollar <NUM> after the world s largest chipmaker s third-quarter earnings report showed signs of being past the worst of its problems <PUNC>
+intel reported a <NUM> percent profit decline <COMMA> though compared with the second quarter <COMMA> profit rose <NUM> percent <PUNC>
+shares of fellow dow member ibm ibm closed up <NUM> percent at dollar <NUM> <COMMA> off a midday high of dollar <NUM> <COMMA> after the company s <NUM> percent profit rise exceeded analyst estimates <PUNC>
+dow member j.p. morgan chase & co. jpm was the biggest company outside of the tech arena to report earnings <PUNC>
+shares closed off <NUM> percent at dollar <NUM> as analysts lauded results from investment banking activities but worried about signs of weakness in more traditional areas like credit cards <COMMA> commercial banking and mortgage lending <PUNC>
+<PAR>

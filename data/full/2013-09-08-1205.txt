@@ -1,0 +1,7 @@
+on friday <COMMA> the benchmark indexes ended nearly unchanged after some big swings in early trading <PUNC>
+the dow jones industrial average dji fell nearly <NUM> points to <NUM> but rose <NUM> percent from the week ago <COMMA> quitting a four-week losing streak <PUNC>
+the s&p <NUM> spx rose <NUM> percent for the week <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf was up nearly <NUM> percent to <NUM> <PUNC>
+earnings reports will come during the week from retailers such as lululemon athletica inc. lulu and kroger co. kr <PUNC>
+mcdonald s corp. mcd is scheduled to report same-store sales tuesday <PUNC>
+<PAR>

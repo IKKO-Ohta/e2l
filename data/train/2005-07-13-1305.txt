@@ -1,0 +1,3 @@
+the futures contracts for the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq <NUM> are all indicating gains in the early minutes of trade <PUNC>
+j.p. morgan raised its price target on altria group mo to dollar <NUM> from dollar <NUM> on wednesday and also added the company to its u.s. focus list <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+the dow jones industrial average opened above <NUM> for the first time since september <NUM> on monday as optimism rose over the upcoming earnings season and confidence in the global economy strengthened after european leaders pledged to extend aid to greece <PUNC>
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <PUNC>
+the measure hit <NUM> on friday for the first time since september <NUM> <PUNC>
+caterpillar cat was the measure s strongest component <COMMA> up <NUM> percent <PUNC>
+bank of america bac also rose <NUM> percent <PUNC>
+alcoa aa strengthened <NUM> percent <COMMA> ahead of its earnings announcement after the bell closes on monday <PUNC>
+but shares of wal-mart stores wmt fell <NUM> percent after the mail on sunday reported that its unit <COMMA> the asda group <COMMA> is looking for acquisitions in britain <PUNC>
+dupont dd was also weak <COMMA> down <NUM> percent <PUNC>
+<PAR>

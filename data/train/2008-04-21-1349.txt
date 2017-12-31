@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+wall street rallied friday <COMMA> cheered by upbeat earnings from google inc. goog and write-downs from citigroup inc. c that weren t as bad as some had feared <PUNC>
+bank of america corp. bac reported a first-quarter earnings drop of <NUM> percent to dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> as its provision for credit losses climbed and it posted dollar <NUM> billion in net charge-offs <PUNC>
+in other earnings news <COMMA> merck & co. mrk said first-quarter net income surged <NUM> percent to dollar <NUM> billion <COMMA> or dollar <NUM> a share <PUNC>
+adjusted to exclude special items <COMMA> merck posted income of <NUM> cents a share <COMMA> topping the 86-cent consensus <PUNC>
+<PAR>

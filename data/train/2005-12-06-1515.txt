@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up as much as <NUM> points at <NUM> <PUNC>
+at <NUM> a.m. eastern the market will view factory orders data for october <PUNC>
+the dow jones forecast <COMMA> based on a poll of economists <COMMA> is for a rise of <NUM> percent <COMMA> which would contrast with a decline of <NUM> percent in september <PUNC>
+<PAR>

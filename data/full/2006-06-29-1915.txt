@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with all of its <NUM> components in positive territory <PUNC>
+dow component mcdonald s corp. mcd was <NUM> percent higher at dollar <NUM> <PUNC>
+the fast-food chain was upgraded by merrill lynch <COMMA> which forecast improved sales and margins <COMMA> particularly in europe <PUNC>
+among other dow companies posting strong gains <COMMA> american express co. axp was up <NUM> percent <PUNC> alcoa inc. aa added <NUM> percent <PUNC> honeywell inc. hon was <NUM> percent higher <PUNC> and j.p. morgan chase & co. jpm was up <NUM> percent <PUNC>
+elsewhere on the dow <COMMA> 3m co. mmm was <NUM> percent higher <PUNC> merck & co. mrk moved up <NUM> percent <PUNC> united technology corp. utx tacked on <NUM> percent <PUNC> verizon communications inc. vz increased <NUM> percent <PUNC> and exxon mobil corp. xom gained <NUM> percent <PUNC>
+walt disney co. dis <COMMA> also a dow component <COMMA> was <NUM> percent higher at dollar <NUM> <PUNC>
+late wednesday <COMMA> the company named john pepper jr. to serve as its new chairman and chief executive <PUNC>
+<PAR>

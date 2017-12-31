@@ -1,0 +1,8 @@
+the dow industrials dji were last up <NUM> points at <NUM> <PUNC>
+at one stage <COMMA> the benchmark index was down <NUM> points at a session low of <NUM> <PUNC>
+the dow industrials have ended higher on the day after labor day nine out of the last eleven sessions <COMMA> according to the stock trader s almanac <PUNC>
+dow component caterpillar inc. cat shares rose <NUM> percent to dollar <NUM> <COMMA> and reached a more than two-week high of dollar <NUM> <COMMA> after the heavy equipment maker said it would be raising machinery and engine prices beginning january <NUM> <PUNC>
+the move prompted merrill lynch to upgrade the company <PUNC>
+procter & gamble s pg stock was off <NUM> percent at dollar <NUM> <PUNC>
+the world s largest consumer-products company affirmed its outlook for fiscal first-quarter earnings and sales <PUNC>
+<PAR>

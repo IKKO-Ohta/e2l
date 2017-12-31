@@ -1,0 +1,10 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of the blue-chip s average <NUM> components falling <PUNC>
+among stocks linked to a dimming outlook for global growth <COMMA> shares of aluminum giant alcoa inc. aa slumped <NUM> percent <COMMA> while both caterpillar cat and general electric ge fell more than <NUM> percent <PUNC>
+citigroup c slumped <NUM> percent <COMMA> while j.p. morgan chase jpm fell <NUM> percent amid broad weakness in the banking sector <PUNC>
+general motors gm was the only blue-chip stock rising <COMMA> up <NUM> percent <PUNC>
+the automaker <COMMA> ahead of a presentation to congress on how they would use a government loan <COMMA> is trying to get debt holders to swap their securities for equity <COMMA> according to a report in the wall street journal <PUNC>
+conflicting reports came on yahoo yhoo <PUNC>
+britain s sunday times reported that microsoft msft is offering dollar <NUM> billion for yahoo s search business <COMMA> but the all things digital blog quoted sources as saying the purported deal was total fiction <PUNC>
+last week <COMMA> the s&p <NUM> climbed <NUM> percent <COMMA> the dow industrials rose <NUM> percent and the nasdaq composite rose <NUM> percent <PUNC>
+mentor mnt jumped <NUM> percent after johnson & johnson jnj launched a dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> takeover bid <PUNC>
+<PAR>

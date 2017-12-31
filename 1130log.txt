@@ -1,0 +1,43 @@
+LSTM-co1-d100-5x100
+(Thu Nov 30 01:51:16 2017)
+
+---------- Data ----------
+Training size: 1179804
+Unique words : 9580
+Word cutoff  : 1
+Vocab size   : 7780 (coverage 99.85%)
+
+Test size    : 121434
+Unknown words: 2275 (OOV rate 1.87%)
+
+---------- Training ----------
+Model type          : LSTM
+Number of embed dims: 100
+Number of iterations: 15
+Data size to be used: 1179804
+Batch size          : 5
+Parallel batch units: 100
+
+Found model of epoch 15. No training performed.
+
+---------- Test (perplexity) ----------
+Test size: 121434
+<unk> will be EXCLUDED from the PP calculation.
+Annotation files to be generated for each calculation.
+
+LSTM-co1-d100-5x100-e01.model : 36.50 (entropy = 5.19 ) for 119159 words
+LSTM-co1-d100-5x100-e02.model : 29.08 (entropy = 4.86 ) for 119159 words
+LSTM-co1-d100-5x100-e03.model : 26.90 (entropy = 4.75 ) for 119159 words
+LSTM-co1-d100-5x100-e04.model : 26.06 (entropy = 4.70 ) for 119159 words
+LSTM-co1-d100-5x100-e05.model : 25.83 (entropy = 4.69 ) for 119159 words
+LSTM-co1-d100-5x100-e06.model : 25.91 (entropy = 4.70 ) for 119159 words
+LSTM-co1-d100-5x100-e07.model : 26.18 (entropy = 4.71 ) for 119159 words
+LSTM-co1-d100-5x100-e08.model : 26.57 (entropy = 4.73 ) for 119159 words
+LSTM-co1-d100-5x100-e09.model : 27.03 (entropy = 4.76 ) for 119159 words
+LSTM-co1-d100-5x100-e10.model : 27.56 (entropy = 4.78 ) for 119159 words
+LSTM-co1-d100-5x100-e11.model : 28.11 (entropy = 4.81 ) for 119159 words
+LSTM-co1-d100-5x100-e12.model : 28.71 (entropy = 4.84 ) for 119159 words
+LSTM-co1-d100-5x100-e13.model : 29.31 (entropy = 4.87 ) for 119159 words
+LSTM-co1-d100-5x100-e14.model : 29.92 (entropy = 4.90 ) for 119159 words
+LSTM-co1-d100-5x100-e15.model : 30.58 (entropy = 4.93 ) for 119159 words
+done (Thu Nov 30 02:20:45 2017)

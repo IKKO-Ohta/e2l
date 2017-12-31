@@ -1,0 +1,5 @@
+the dow jones industrial average dji finished down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
+of those <COMMA> financial stocks saw some of the biggest drops <COMMA> with american international group inc. aig off <NUM> percent <COMMA> american express co. axp down <NUM> percent <COMMA> and jpmorgan chase & co. jpm off <NUM> percent <PUNC>
+stocks ended with gains on tuesday <COMMA> as an upbeat forecast from hewlett-packard co. hpq and gains in the energy sector helped offset continued concerns about credit woes and financials <PUNC>
+government-sponsored mortgage investor freddie mac fre warned that it may have to slash its dividend <PUNC>
+<PAR>

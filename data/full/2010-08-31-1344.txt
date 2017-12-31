@@ -1,0 +1,5 @@
+the dow jones industrial average dji shed <NUM> points and dropped below the <NUM> level <COMMA> following a sell-off in tokyo and mixed housing data <PUNC>
+heading into the final day of august <COMMA> key indexes are on track for a month of steep losses <PUNC>
+the dow fell <NUM> percent to <NUM> on tuesday <COMMA> bringing its losses this month to <NUM> percent in its first down august in five years <PUNC>
+this month is on track to be the blue-chip measure s worst august since <NUM> <PUNC>
+<PAR>

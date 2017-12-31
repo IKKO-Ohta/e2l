@@ -1,0 +1,4 @@
+up and down in early trade <COMMA> the dow jones industrial average dji was recently up <NUM> points at <NUM> <COMMA> with the blue-chip index looking at quarterly losses of roughly <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> seven were posting losses <COMMA> led by merck & co. inc. <COMMA> mrk off <NUM> percent <PUNC>
+gains on the dow were led by j.p. morgan chase & co. jpm <COMMA> up <NUM> percent <PUNC>
+<PAR>

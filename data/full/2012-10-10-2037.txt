@@ -1,0 +1,8 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> dropping for a third trading session <PUNC>
+alcoa aa was the biggest loser in the dow <COMMA> falling <NUM> percent <PUNC>
+the aluminum company late tuesday reported third-quarter profit that topped expectations on increased demand from airplane and automobile makers <COMMA> but trimmed its forecast for the world s appetite for the metal it produces <COMMA> citing china s economic slowdown <PUNC>
+chevron cvx was another big decliner in the dow <COMMA> with the stock sinking <NUM> percent <PUNC>
+the oil company late tuesday warned falling crude prices and reduced production would result in substantially lower earnings <PUNC>
+chevron s stock was also hit the day after the supreme court declined to halt a dollar <NUM> billion judgment against chevron by an ecuadorean court for polluting the amazon <PUNC>
+wal-mart stores inc. wmt rose <NUM> percent <COMMA> leading blue-chip gains after the discount retailer said it would add u.s. stores after a very strong back-to-school season <PUNC>
+<PAR>

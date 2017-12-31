@@ -1,0 +1,7 @@
+after a volatile start that had the dow jones industrial average dji moving briefly higher <COMMA> the index pulled firmly lower <COMMA> most recently off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components lower <PUNC>
+intel intc led the drop among the blue chips <COMMA> sliding <NUM> percent <PUNC>
+the technology bellwether late tuesday reported a <NUM> percent jump in net profit <COMMA> but the results still came in shy of expectations <PUNC>
+<PAR>
+j.p. morgan chase jpm led the dow s advancing stocks <COMMA> recently up <NUM> percent <COMMA> after the bank reported a <NUM> percent decline in fourth-quarter profit in another subprime-related hit <PUNC>
+the mortgage exposure at the third largest u.s. bank proved much less than that at citigroup inc. c and others <PUNC>
+<PAR>

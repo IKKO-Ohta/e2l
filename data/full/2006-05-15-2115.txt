@@ -1,0 +1,16 @@
+u.s. stocks closed mixed monday <COMMA> after a whirlwind session that saw heavy losses on the dow jones industrial average and s&p <NUM> melt into gains in the final hour of trade amid strong demand for blue-chip stocks <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> its highest point of the day <PUNC>
+its low for the session was <NUM> <PUNC>
+the day s trading action was dramatic <PUNC>
+at one point the s&p <NUM> appeared headed for a 2-month closing low <COMMA> before it followed the dow jones industrials into positive territory during the final hour of trade <PUNC>
+peter cardillo <COMMA> chief market analyst at s.w <PUNC>
+bach <COMMA> said the late session gains were powered by heavy demand for blue chip stocks such as altria mo <COMMA> pepsico inc. pep and citigroup c <PUNC>
+drug stocks drg rallied <COMMA> with the dow components merck mrk <COMMA> pfizer inc. pfe and johnson & johnson jnj underpinning gains <PUNC>
+among the top-performing blue chips <COMMA> altria mo rose <NUM> percent to dollar <NUM> <COMMA> citigroup c advanced <NUM> percent to dollar <NUM> and coca-cola gained <NUM> percent to dollar <NUM> <PUNC>
+boeing co. shares ba fell <NUM> percent to dollar <NUM> on a wall street journal report that it has agreed to pay dollar <NUM> million to end three years of justice department investigations into high-profile contracting scandals at the defense giant <PUNC>
+verizon communications vz fell <NUM> cents to dollar <NUM> <PUNC>
+a u.k. newspaper <COMMA> the observer <COMMA> said vodafone group vod may agree to sell its minority stake in verizon wireless to the u.s. telecoms giant for around dollar <NUM> billion <PUNC>
+u.s.-listed shares of vodafone added <NUM> percent on the news <PUNC>
+microsoft corp. shares msft fell <NUM> cents to dollar <NUM> after the department of justice said in a court filing late friday that the software giant had agreed to a two-year extension of a key part of its landmark settlement <PUNC>
+it also found a new search feature in the latest version of microsoft s web browsing software was not anticompetitive <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average achieved its first-ever close above <NUM> on thursday as u.s. stocks rallied <COMMA> boosted by better-than-expected data on weekly jobless claims and as investors reconsidered their concerns about the federal reserve s potential reduction in its bond-buying program <PUNC>
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> scoring a record close <PUNC>
+the s&p <NUM> spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> staying below its own milestone level of <NUM> <PUNC>
+<PAR>

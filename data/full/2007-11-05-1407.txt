@@ -1,0 +1,5 @@
+futures for the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+citigroup c stirred investor discontent with its announcement that prince would step down as chairman and chief executive of the largest u.s. bank <COMMA> which is also looking at writing off up to dollar <NUM> billion more of the dollar <NUM> billion in subprime-related securities it holds <PUNC>
+<PAR>
+petrochina co. ptr shares more than doubled in their shanghai debut <COMMA> giving the oil giant a dollar <NUM> trillion market capitalization and easily passing exxon mobil corp. xom as the world s largest company <PUNC>
+<PAR>

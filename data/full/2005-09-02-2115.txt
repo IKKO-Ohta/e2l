@@ -1,0 +1,8 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> but managed a weekly gain of <NUM> percent <PUNC>
+on the dow industrials <COMMA> shares of boeing co. ba fell <NUM> percent to dollar <NUM> after the airplane manufacturer s <NUM> machinists rejected its latest labor offer and went out on strike <PUNC>
+general electric shares ge climbed <NUM> cents to dollar <NUM> after merrill lynch reiterated a buy rating on the industrial bellwether <PUNC>
+we believe that ge should begin to outperform in the fourth quarter against a backdrop of strong fundamentals and favorable historical trading patterns <PUNC>
+moreover <COMMA> ge may accelerate its share repurchase program in the fourth quarter which could also provide incremental share price support <COMMA> merrill said <PUNC>
+exxon mobil xom gave up <NUM> percent to dollar <NUM> as oil retreated <PUNC>
+caterpillar inc. shares cat surged <NUM> percent on speculation that the heavy machinery and equipment maker will see extra business as the massive reconstruction of new orleans gets underway <PUNC>
+<PAR>

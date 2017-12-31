@@ -1,0 +1,5 @@
+u.s. stocks gained ground thursday as a strong month for retailers in april and a drop in crude-oil prices to a three-week low lifted the dow jones industrial average to its best level in more than six years <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <COMMA> their best intraday level since january <NUM> <PUNC>
+wal-mart stores inc. wmt set the pace with a <NUM> percent rise in same-store sales <COMMA> buoyed by brisk sales of toys <COMMA> games and candy for the easter holiday <PUNC>
+sales matched the company s own forecast and handily outpaced the <NUM> percent average again expected by analysts <PUNC>
+<PAR>

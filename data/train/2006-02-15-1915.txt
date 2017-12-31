@@ -1,0 +1,5 @@
+the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
+the benchmark index briefly surged to a <NUM> 1/2-year high of <NUM> in the first half hour after the fed chairman spoke <PUNC>
+shares in hewlett-packard co. hpq fell <NUM> cents to dollar <NUM> as investors awaited the tech bellwether s first-quarter report <COMMA> due after the market closes <PUNC>
+analysts surveyed by thomson first call estimate h-p will earn <NUM> cents a share on dollar <NUM> billion in revenue <PUNC>
+<PAR>

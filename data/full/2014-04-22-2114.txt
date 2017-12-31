@@ -1,0 +1,10 @@
+the dow jones industrial average dji closed off session highs <COMMA> but still gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the dow transportation index djt closed at a record level after adding <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the day also continued a positive streak for tuesday s <PUNC>
+tuesday is the only weekday that has averaged with a gain so far this year for the s&p <NUM> and the dow <COMMA> according to factset <PUNC>
+since the beginning of the year <COMMA> the s&p <NUM> and the nasdaq composite fell only twice on a tuesday <PUNC>
+all three main indexes rose for the past six tuesdays <PUNC>
+mcdonald s corp. mcd shares were down <NUM> percent even as the company s first-quarter results missed expectations <PUNC>
+earnings for the first three months of the year fell <COMMA> dragged by a decline in sales in the u.s. amid fierce competition and consumers growing appetite for healthier foods <PUNC>
+reporting after the closing bell <COMMA> shares in at&t t slid <NUM> percent in aftermarket action after the company s first-quarter earnings were in line with estimates <PUNC>
+<PAR>

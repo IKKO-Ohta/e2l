@@ -1,0 +1,4 @@
+after an opening slide <COMMA> the dow jones industrial average dji reversed course to climb <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+automaker general motors corp. gm was the leading gainer <COMMA> up <NUM> percent <PUNC>
+ahead of the economic data <COMMA> stock futures had posted modest gains after wal-mart stores inc. wmt reported a <NUM> percent rise in second-quarter profit <PUNC>
+<PAR>

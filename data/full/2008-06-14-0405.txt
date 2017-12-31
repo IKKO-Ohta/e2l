@@ -1,0 +1,2 @@
+friday s action had the dow jones industrial average dji gaining <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> up nearly <NUM> points <COMMA> or <NUM> percent <COMMA> for the week <PUNC>
+<PAR>

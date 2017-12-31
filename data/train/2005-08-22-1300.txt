@@ -1,0 +1,4 @@
+the future contracts for the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq <NUM> were all pointing toward gains in the early minutes of trade <PUNC>
+merck mrk <COMMA> which dropped <NUM> percent on friday on news of a texas jury award to the widow of a patient who died taking vioxx <COMMA> received an upgrade from credit suisse first boston <COMMA> which cited valuation <PUNC>
+in premarket trade <COMMA> the share was up <NUM> cents at dollar <NUM> <PUNC>
+<PAR>

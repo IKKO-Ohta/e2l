@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components fell <PUNC>
+among the few gainers <COMMA> coca cola co. ko rose <NUM> percent after citigroup upgraded the stock to buy from hold <PUNC>
+outside the deal sphere <COMMA> microsoft msft is coming out with a new table-top computer for hotels and casinos <PUNC>
+international business machines ibm told the wall street journal that it has spent dollar <NUM> billion to buy back its stock in an accelerated buyback program <PUNC>
+the repurchase allows a company to raise its earnings per share more rapidly than it would using a conventional buyback <PUNC>
+<PAR>

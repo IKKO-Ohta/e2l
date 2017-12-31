@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+leading to the upside <COMMA> dupont dd rose <NUM> percent <PUNC>
+caterpillar cat gained <NUM> percent <COMMA> after its may machinery sales rose <NUM> percent and its asia sales climbed <NUM> percent last month <COMMA> but global engine sales fell <NUM> percent in may <PUNC>
+boeing ba also strengthened <COMMA> up <NUM> percent <PUNC>
+<PAR>

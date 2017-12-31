@@ -1,0 +1,11 @@
+new york dow jones u.s. stocks plunged to their worst one-day performance since <NUM> on tuesday <COMMA> with the dow jones industrial average losing <NUM> points in one minute around <NUM> p.m. before recovering some ground by the close <COMMA> after a sell-off in china fueled concerns about growth <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> its worst one-day drop since september <NUM> <PUNC>
+all <NUM> dow components fell by at least <NUM> percent <PUNC>
+at about <NUM> p.m. <COMMA> the drop in the dow accelerated and in the blink of an eye was down <NUM> points because of a price tabulation error at dow jones <COMMA> which calculates the average in real-time and transmits the figure to market-data providers <PUNC>
+according to dow jones <COMMA> there was a temporary lag in its calculation and when a backup computer came on line <COMMA> the displayed average instantly spiked lower to catch up with the current level <PUNC>
+most blue-chip issues saw steep declines including dow components like alcoa inc. aa <COMMA> caterpillar inc. cat <COMMA> general motors corp. gm and verizon corp. vz <PUNC>
+weakness in tech shares also hit blue-chips intel corp. intc <COMMA> hewlett-packard co. hpq and ibm ibm <PUNC>
+among dow components <COMMA> wal-mart stores inc. wmt fell <NUM> percent after it agreed to acquire <NUM> percent of trust-mart <COMMA> a taiwanese-owned operator of hypermarkets in china <PUNC>
+the world s largest retailer has reportedly agreed to pay around dollar <NUM> billion for the stake <PUNC>
+and general electric ge <COMMA> which earlier was the only dow stock bucking the downward trend <COMMA> fell <NUM> percent after being upgraded to buy from hold at ubs <PUNC>
+<PAR>

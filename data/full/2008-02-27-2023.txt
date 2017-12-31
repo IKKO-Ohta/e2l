@@ -1,0 +1,9 @@
+after trading up and down during the session <COMMA> the dow jones industrial average dji was more recently off <COMMA> down <NUM> points at <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were trading lower <COMMA> with the declines led by fast-food chain mcdonald s corp. mcd and drug manufacturer merck & co. mrk <COMMA> both off about <NUM> percent <PUNC>
+among shares on the move <COMMA> amgen inc. amgn and johnson & johnson jnj both lost ground after a study published late tuesday in the journal of the american medical association showed that treating anemia with erythropoiesis-stimulating agents increases the risk of certain blood clots and death among cancer patients <PUNC>
+microsoft corp. msft edged down slightly <PUNC>
+the software giant was fined <NUM> million euros dollar <NUM> billion by the european commission for failing to comply with its <NUM> antitrust ruling <PUNC>
+it brings the fines levied by european regulators for alleged anti-competitive activity to <NUM> billion euros <PUNC>
+<PAR>
+on tuesday <COMMA> a dollar <NUM> billion stock-buyback plan from international business machines corp. ibm helped trigger the second-straight surge in u.s. stocks <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average changes more than two names at the same time <COMMA> and/or adds names to increase the overall number of stocks in the index <PUNC>
+there are some zombie stocks in the index <COMMA> to borrow a popular phrase <PUNC>
+the dow is price-weighted <COMMA> so small-priced stocks are almost irrelevant to the performance of the index <PUNC>
+by the time the senior editors of dow jones recognize they need to change some names in the index <COMMA> it may be time to reconsider the market as a whole <PUNC>
+the dow industrials fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> <COMMA> dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the nasdaq composite rixf declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its lowest close since october <NUM> <PUNC>
+<PAR>

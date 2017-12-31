@@ -1,0 +1,4 @@
+the dow jones industrial average dji was <NUM> points higher at <NUM> <PUNC>
+the s&p <NUM> spx gained <NUM> to <NUM> and the nasdaq composite rixf rose <NUM> points to <NUM> <PUNC>
+in contrast <COMMA> j.p. morgan cut exxon mobil xom to neutral from overweight <COMMA> citing the recent rise in the shares <COMMA> helping push the share down <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

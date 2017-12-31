@@ -1,0 +1,10 @@
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to trade at <NUM> recently <PUNC>
+the standard & poor s 500-stock index spx gained <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+investors are looking to add to a three-day winning streak <COMMA> buoyed by better-than-expected earnings from blue-chips intel intc and j.p. morgan chase jpm <PUNC>
+both companies topped earnings expectations <COMMA> but saw their shares muddle along in early trading <PUNC>
+alcoa aa gained <NUM> percent while caterpillar cat added <NUM> percent <PUNC>
+other companies that will be in focus wednesday include chevron cvx <COMMA> which warned late tuesday that it expects third-quarter earnings to come in below its second-quarter results due to a combination of a weaker dollar <COMMA> rising costs and lower crude-oil prices <PUNC>
+chevron was down <NUM> percent <PUNC>
+oil players in general were generally strong <COMMA> however <COMMA> after the obama administration lifted its controversial moratorium on deep-water oil drilling in the gulf of mexico <COMMA> though it could take weeks for companies to win regulatory approval to go back to work there <PUNC>
+exxon mobil xom added <NUM> percent and peabody energy btu gained <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji <COMMA> which has risen nearly <NUM> points over the last three days <COMMA> was recently off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the measure was hurt in part by a <NUM> percent decline in pfizer pfe after the drug manufacturer said it ended a late-stage trial for an experimental lung-cancer drug <PUNC>
+in addition <COMMA> pfizer said two late-stage studies of its advanced breast cancer drug sutent failed to meet their primary endpoints <PUNC>
+among stocks to watch <COMMA> united technologies utx shed <NUM> percent earlier after it reaffirmed its existing earnings guidance for this year and accelerated the margin target for its hamilton sundstrand aerospace unit <PUNC>
+but the manufacturer cut its forecast of operating profit at its otis elevator unit <PUNC>
+<PAR>

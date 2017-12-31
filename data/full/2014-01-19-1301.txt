@@ -1,0 +1,15 @@
+stocks ended last week mixed with the dow jones industrial average dji rising <NUM> percent for the week and the nasdaq composite index rixf finishing up <NUM> percent <PUNC>
+the s&p <NUM> index spx slipped <NUM> percent <PUNC>
+year-to-date <COMMA> only the nasdaq is showing a gain <COMMA> by about <NUM> percent <PUNC>
+bank and financial earnings figured heavily last week <PUNC>
+most earnings in the sector topped wall street expectations but revenue expectations were surpassed less than half the time <PUNC>
+for the week <COMMA> citigroup inc. c was the biggest disappointment in the sector <COMMA> missing top- and bottom-line expectations <COMMA> and shares finished the week down <NUM> percent <PUNC>
+then again <COMMA> goldman sachs group inc. gs topped expectations for earnings and revenue while shares finished the week lower by <NUM> percent <PUNC>
+compare that to morgan stanley ms <COMMA> which reported lackluster results <COMMA> only to see shares rise <NUM> percent for the week <PUNC>
+investors will get a taste of consumer discretionary results in the coming week with netflix inc. nflx and coach inc. coh reporting wednesday <PUNC>
+on thursday <COMMA> dow-component mcdonald s corp. mcd starbucks corp. sbux and auto-parts maker johnson controls inc. jci <PUNC>
+other dow components scheduled to report this week include johnson & johnson inc. jnj <COMMA> verizon communications inc. vz <COMMA> international business machines corp. ibm <COMMA> and travelers cos. trv on tuesday <PUNC>
+on wednesday <COMMA> united technologies corp. utx reports <COMMA> with microsoft corp. msft on thursday <COMMA> and procter & gamble co. pg on friday <PUNC>
+tech shares <COMMA> even with a pullback in intel corp. s intc stock on friday <COMMA> outperformed last week <PUNC>
+the tech sector rose more than <NUM> percent in the week ended friday <COMMA> the best of the s&p <NUM> s <NUM> sectors <PUNC>
+<PAR>

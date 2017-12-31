@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
+the nasdaq composite index rixf climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> with the tech-heavy index bolstered by intel s earnings and strong forecast <PUNC>
+intel intc shares were up <NUM> percent after the company reported its largest quarterly profit in a decade as businesses invested in technology <PUNC>
+<PAR>

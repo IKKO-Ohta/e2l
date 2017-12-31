@@ -1,0 +1,10 @@
+u.s. stocks traded higher thursday <COMMA> with the dow jones industrial average hitting a record high as tame consumer-price inflation and a big drop in crude oil prices helped offset bad news from technology bellwethers applied materials and dell inc <PUNC>
+the dow jones industrial average dji rose <NUM> points in afternoon trade to <NUM> <COMMA> after hitting a new all-time intraday record high of <NUM> <PUNC>
+boeing co. ba was the best performer on the dow <COMMA> gaining <NUM> percent to dollar <NUM> <PUNC>
+it rose <NUM> percent wednesday after a report that the company may see dollar <NUM> billion more in jet business in the near term <PUNC>
+exxon mobil corp. xom was posting the biggest drop among blue chips <COMMA> losing <NUM> percent as oil prices slumped <PUNC>
+amid broad weakness in semiconductor stocks <COMMA> dow component intel intc also dropped <NUM> cent to dollar <NUM> <COMMA> as investors shrugged off an announcement that it will raise its quarterly dividend by <NUM> percent <PUNC>
+pfizer inc. pfe rose <NUM> cents to dollar <NUM> <PUNC>
+the company said results of a new analysis showed that patients who have heart disease and chronic kidney disease and took <NUM> mg lipitor tablets reduced their risk of heart attack and stroke by <NUM> percent compared with patients taking a <NUM> mg dose <PUNC>
+citigroup inc. c gained <NUM> cents to dollar <NUM> after news that guangdong development bank on thursday chose it as the preferred bidder to buy a stake and operate the mid-sized chinese bank <PUNC>
+<PAR>

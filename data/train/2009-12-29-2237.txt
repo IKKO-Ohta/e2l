@@ -1,0 +1,6 @@
+the dow jones industrial average dji slipped <NUM> points <COMMA> nearly flat at <NUM> after trading in the green most of the day <PUNC>
+walt disney dis was the dow s best performer <COMMA> up <NUM> percent <PUNC>
+microsoft msft climbed <NUM> percent <COMMA> while 3m mmm gained <NUM> percent <PUNC>
+the dow s energy components kept gains in check as the market awaited oil- and other fuel-inventory data from the american petroleum institute late tuesday <COMMA> as well as official government data wednesday <PUNC>
+chevron cvx dropped <NUM> percent <COMMA> while exxon mobil xom slipped <NUM> percent <PUNC>
+<PAR>

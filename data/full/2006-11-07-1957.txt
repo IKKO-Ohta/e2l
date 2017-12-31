@@ -1,0 +1,7 @@
+u.s. stocks pared gains tuesday as the market braced for the results of mid-term congressional elections <COMMA> but a surge in shares of boeing co. on the back of a fedex aircraft order kept the dow jones industrial average on track to end at a record close <PUNC>
+the dow industrials dji rose as much as <NUM> points to <NUM> <COMMA> beating its previous record high of <NUM> <PUNC>
+the blue-chip benchmark was last up <NUM> points at <NUM> as boeing ba gained <NUM> percent after fedex corp. fdx ordered <NUM> new <NUM> freighter aircraft from the aircraft manufacturer <PUNC>
+intel corp. intc <COMMA> honeywell international hon <COMMA> procter & gamble co. pg and walt disney dis were other notable gainers <PUNC>
+dow component general motors gm were off a penny at dollar <NUM> <PUNC>
+the auto maker said in a securities and exchange commission filing that it s revised its third-quarter net loss to dollar <NUM> million <COMMA> down dollar <NUM> million from what it previously reported <COMMA> due to additional loan sales that had not been previously reported by its gmac arm <PUNC>
+<PAR>

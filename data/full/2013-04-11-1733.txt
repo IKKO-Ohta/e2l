@@ -1,0 +1,5 @@
+the three computer-related components on the dow jones industrial average dji led losses among the blue chips <COMMA> with hewlett-packard co. hpq <COMMA> microsoft corp. msft and intel corp. intc all sliding <PUNC>
+after an early fall <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with pfizer inc. pfe pacing the gains that included all but five of its <NUM> members <PUNC>
+the stock market s record-paving rise has the dow industrials up nearly <NUM> percent for the year <COMMA> the s&p <NUM> gaining almost <NUM> percent so far in <NUM> and the nasdaq composite adding <NUM> percent since the end of <NUM> <PUNC>
+wall street rose for a third straight day on wednesday <COMMA> with both the dow industrials and the s&p <NUM> index marking their best sessions in six weeks <PUNC>
+<PAR>

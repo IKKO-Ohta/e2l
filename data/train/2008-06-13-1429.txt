@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+among dow components <COMMA> coca cola ko fell <NUM> percent after hellenic bottling cch <COMMA> one of the beverage maker s top bottlers <COMMA> warned over <NUM> earnings <COMMA> citing economic conditions in italy <COMMA> ukraine and romania <COMMA> adverse weather in central europe <COMMA> rising plastic prices and a strike in greece <PUNC>
+u.s. stocks closed with gains on thursday <COMMA> helped by surprisingly strong retail sales <COMMA> though leading indexes finished well off the day s highs as crude prices saw renewed strength and yahoo announced that deal talks with microsoft collapsed <PUNC>
+the dow industrials ended <NUM> points higher <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite rose <NUM> points <PUNC>
+exxon mobil xom said it plans to exit its u.s. retail gasoline business over the next few years <COMMA> shedding the <NUM> service stations it still owns and operates and another <NUM> company-owned outlets operated by dealers of its branded fuels <PUNC>
+pfizer pfe may make a counter offer for ranbaxy laboratories <COMMA> according to a report in india s business standard <PUNC>
+<PAR>

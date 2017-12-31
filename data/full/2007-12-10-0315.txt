@@ -1,0 +1,7 @@
+the dow jones industrial average dji closed friday up <NUM> points at <NUM> and by <NUM> percent for the week <PUNC>
+the s&p <NUM> spx ended the week up <NUM> percent and the nasdaq composite index rixf record a weekly rise of <NUM> percent <PUNC>
+retail sales for november <COMMA> due thursday <COMMA> are expected to show an increase of <NUM> percent from <NUM> percent in october <PUNC>
+heading into that report <COMMA> thomson financial said friday that its same-store sales index for november came in at <NUM> percent <PUNC>
+that s above expectations for <NUM> percent and above last year s result of <NUM> percent <PUNC>
+excluding retail giant wal-mart stores inc. wmt <COMMA> the index increased to <NUM> percent <PUNC>
+<PAR>

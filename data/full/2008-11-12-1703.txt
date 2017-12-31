@@ -1,0 +1,7 @@
+after sliding more than <NUM> points <COMMA> the dow jones industrial average was off <NUM> points to <NUM> <COMMA> with all but general motors corp. gm in the red <PUNC>
+off the dow <COMMA> shares of ford motor co. f gained amid the bailout talk <PUNC>
+<PAR>
+the remaining <NUM> blue-chip components posted early losses <COMMA> with american express co. axp sinking the most <COMMA> down <NUM> percent <PUNC>
+u.s. stocks dropped tuesday as outlooks from luxury home builder toll brothers inc. tol and coffee retailer starbucks corp. sbux illustrated softening consumer spending <PUNC>
+the dow industrials fell <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite dropped <NUM> points <PUNC>
+<PAR>

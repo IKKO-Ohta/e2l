@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to end at <NUM> <COMMA> which gives the blue-chip index a weekly gain of <NUM> percent but a monthly slide of <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> posted declines <COMMA> with bank of america corp. bac off the most at <NUM> percent <PUNC>
+the dow s top advancer proved to be american insurance group inc. aig <COMMA> up <NUM> percent <PUNC>
+<PAR>

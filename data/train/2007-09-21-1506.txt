@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <COMMA> led by walt disney co. dis <COMMA> up <NUM> percent <PUNC>
+american express co. axp fronted the dow s declines <COMMA> with its stock dropping <NUM> percent <PUNC>
+dow component exxon mobil corp. xom late thursday said it evacuated about <NUM> workers from the gulf of mexico due to a tropical disturbance <PUNC>
+its stock was up <NUM> percent <PUNC>
+<PAR>

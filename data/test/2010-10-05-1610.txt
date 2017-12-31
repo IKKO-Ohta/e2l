@@ -1,0 +1,5 @@
+more than recouping losses from the prior session <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> led by equipment manufacturer caterpillar inc. cat <COMMA> up <NUM> percent <PUNC>
+american express co. axp was the dow s sole laggard <COMMA> its shares off for a second day <COMMA> lately down <NUM> percent <PUNC>
+its shares slid <NUM> percent monday after the credit-card company declined to join visa inc. v and mastercard inc. ma in agreeing to let merchants direct customers to less costly forms of plastic <PUNC>
+on monday <COMMA> the dow fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its largest point and percentage drop in nearly a month <PUNC>
+<PAR>

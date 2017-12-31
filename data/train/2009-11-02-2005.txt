@@ -1,0 +1,6 @@
+beverage makers coca-cola co. ko and pepsico inc. pep also ranked on silverblatt s list <COMMA> with the former boosting its dividend in february and the latter hiking its payout in may <PUNC>
+discount retailers walgreen co. wag and wal-mart stores inc. wmt also ranked on silverblatt s list <COMMA> with the latter on monday saying it would cut prices on <NUM> toys for the holiday season <PUNC>
+<PAR>
+after falling nearly <NUM> points on friday <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the s&p <NUM> index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite index rixf declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

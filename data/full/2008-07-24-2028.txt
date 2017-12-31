@@ -1,0 +1,5 @@
+u.s. stocks fell sharply thursday <COMMA> with the dow jones industrial average shedding nearly <NUM> points after two days of gains <COMMA> as investors reacted to gloomy data on the housing sector and the job market <PUNC>
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with <NUM> of its <NUM> components finishing in the red <PUNC>
+pacing the decliners <COMMA> general motors corp. gm shares tumbled <NUM> percent <PUNC>
+other laggards weighing on the blue-chip index included citigroup inc c <COMMA> down <NUM> percent <COMMA> and boeing co. ba <COMMA> off <NUM> percent <PUNC>
+<PAR>

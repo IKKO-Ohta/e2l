@@ -1,0 +1,9 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components falling <COMMA> led by a <NUM> percent drop in shares of aig aig <COMMA> a <NUM> percent fall in shares of dupont dd <COMMA> and a <NUM> percent drop in microsoft msft shares <PUNC>
+general motors gm was among the biggest gainers among blue chips <COMMA> rising <NUM> percent <PUNC>
+shares of rival ford motor co. f gained <NUM> percent <COMMA> with kirk kerkorian s tracinda said it is planning to offer dollar <NUM> per share for up to <NUM> million of its shares <PUNC>
+on friday <COMMA> stocks finished mostly higher <COMMA> with the dow rising <NUM> points and the s&p <NUM> up <NUM> points <PUNC>
+microsoft s cautious outlook dragged the nasdaq composite down about <NUM> points <PUNC>
+the three-week deadline that microsoft corp. msft gave yahoo inc. yhoo to come to an agreement on its unsolicited bid for the internet media company passed without any announcement from either side <COMMA> leading to the possibility that the battle for yahoo is about to turn hostile <PUNC>
+on the earnings front <COMMA> verizon communications vz reported a <NUM> percent profit rise <COMMA> helped by the performance at its <NUM> percent -held verizon wireless unit <PUNC>
+vodafone group vod owns the rest of the mobile operator that signed up <NUM> million customers during the most recent quarter <PUNC>
+<PAR>

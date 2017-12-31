@@ -1,0 +1,5 @@
+u.s. stocks finished mostly higher on wednesday <COMMA> with the dow industrials achieving a closing high as blue-chip microsoft jumped <NUM> percent <PUNC>
+the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> topping its prior record close on oct. <NUM> <PUNC>
+the blue-chip index also achieved an intraday record of <NUM> <COMMA> finishing just below that level <PUNC>
+microsoft msft performed best among dow components <COMMA> gaining on news of progress in its search for a new ceo <PUNC>
+<PAR>

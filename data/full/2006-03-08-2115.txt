@@ -1,0 +1,5 @@
+the dow jones industrial average dji came off a session low of <NUM> and was last up <NUM> points at <NUM> <PUNC>
+mcdonald s corp. mcd tacked on <NUM> cents to dollar <NUM> after the fast-food giant posted a <NUM> percent rise in same store sales for february <PUNC>
+strong results at its european restaurants accounted for much of the growth <PUNC>
+shares of microsoft corp. msft climbed to their best levels in more than a month <COMMA> amid investor optimism about upcoming important product launches by the world s largest software company <PUNC>
+<PAR>

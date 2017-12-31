@@ -1,0 +1,4 @@
+up <NUM> percent for the week <COMMA> the dow jones industrial average dji on friday gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its best finish since nov. <NUM> <PUNC>
+of the blue-chip index s <NUM> components <COMMA> bank of america corp. bac and general electric co. ge fared best <COMMA> with the former tallying a weekly rise of <NUM> percent and the latter up <NUM> percent from the prior friday s close <PUNC>
+conversely <COMMA> boeing co. ba and 3m co. mmm were hardest hit <COMMA> with the aerospace manufacturer losing <NUM> percent for the week and the industrial conglomerate s stock falling <NUM> percent <PUNC>
+<PAR>

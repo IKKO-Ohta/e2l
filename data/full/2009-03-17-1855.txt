@@ -1,0 +1,4 @@
+on tuesday <COMMA> stocks meandered between positive and negative turf before turning solidly higher in the afternoon <COMMA> with energy and consumer-discretionary shares pacing the gains <PUNC>
+the dow jones industrial average climbed <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index climbed <NUM> points to <NUM> <COMMA> while the nasdaq composite index rixf rose <NUM> points to 1,426.93. <PUNC>
+<PAR>

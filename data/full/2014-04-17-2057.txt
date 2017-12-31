@@ -1,0 +1,9 @@
+the dow jones industrial average dji closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+the blue-chip index gained <NUM> percent over the past four days <COMMA> recouping all of the losses from the previous week <PUNC>
+shares of ibm corp. ibm dropped <NUM> percent after the tech bellwether late wednesday reported an eighth straight quarter of revenue declines and missed analyst expectations <PUNC>
+american express co. axp fell <NUM> percent after it reported quarterly revenue that missed expectations late wednesday <PUNC>
+banking giant goldman sachs group inc. gs closed fractionally higher after reporting a fall in first-quarter earnings <COMMA> which nonetheless beat wall street s expectations <PUNC>
+general electric co. ge said it made an adjusted <NUM> cents a share in the first quarter <COMMA> slightly beating factset estimates of <NUM> cents a share <PUNC>
+shares gained <NUM> percent <PUNC>
+unitedhealth group inc. unh slid <NUM> percent after its earnings beat expectations <COMMA> but revenue missed <PUNC>
+<PAR>

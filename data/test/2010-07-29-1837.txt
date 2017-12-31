@@ -1,0 +1,3 @@
+after snapping a four-day win streak wednesday <COMMA> the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <COMMA> led by food maker kraft foods inc. kft <COMMA> off <NUM> percent <PUNC>
+reversing course <COMMA> shares of dow component exxon mobil corp. xom were off <NUM> percent after the oil giant reported a near-doubling of second-quarter income <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the recent burst of deal making had health-care products giant johnson & johnson jnj on friday announcing it was in late-stage talks to purchase dutch biotech company crucell nv crxl for dollar <NUM> billion <PUNC>
+on friday <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> leaving the blue-chip index with a weekly gain of <NUM> percent <PUNC>
+the three non-dividend payers include cisco systems inc. csco <COMMA> which at the end of the second quarter <COMMA> held the largest horde of cash and equivalents <COMMA> with dollar <NUM> billion <COMMA> which represents <NUM> percent of its market value <COMMA> silverblatt said <PUNC>
+<PAR>

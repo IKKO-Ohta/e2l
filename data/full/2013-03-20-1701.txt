@@ -1,0 +1,3 @@
+u.s. stocks climbed wednesday <COMMA> lifting the dow jones industrial average above its record close <COMMA> as wall street looked for an all-clear signal from the federal reserve when it ends a monetary policy meeting in the afternoon <PUNC>
+after rallying <NUM> points to <NUM> <COMMA> lifting it above its all-time closing peak of <NUM> hit last week <COMMA> the dow jones industrial average dji was lately at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+<PAR>

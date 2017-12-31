@@ -1,0 +1,10 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components retreated <COMMA> led by the likes of alcoa inc. aa <COMMA> dupont dd <COMMA> honeywell inc. hon and united technologies utx <PUNC>
+general electric co. ge rose <NUM> percent before the open after saying it will sell its ge plastics business to saudi basic industries corp. for dollar <NUM> billion <PUNC>
+the dollar <NUM> billion after-tax proceeds <COMMA> ge said <COMMA> will be used to buy back its shares <PUNC>
+also weighing on blue chips <COMMA> at&t t fell <NUM> percent after announcing a rebranding of its cingular unit ahead of apple inc. s aapl launch of the iphone <PUNC>
+and pfizer pfe fell <NUM> percent after news that cfo alan levin is resigning <COMMA> while its head of research and development <COMMA> john lamattina <COMMA> will retire as soon as the new york drug giant finds a successor <PUNC>
+the market is coming off a strong week in which the dow rose <NUM> percent to a new record high <COMMA> while the s&p <NUM> rose <NUM> percent <COMMA> coming within <NUM> points of its all-time high <PUNC>
+industrial data <COMMA> especially <COMMA> has lifted energy and basic materials stocks <COMMA> as well as heavy industrial and large cap multinational stocks on the dow and s&p <COMMA> said marc pado <COMMA> market strategist at cantor fitzgerald <PUNC>
+merck mrk president of global human health <COMMA> peter loescher <COMMA> is leaving to become chief executive of siemens si <COMMA> the german industrial conglomerate <PUNC>
+merck didn t name a replacement <PUNC>
+<PAR>

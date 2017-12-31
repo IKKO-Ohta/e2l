@@ -1,0 +1,8 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> off an early low of <NUM> <PUNC>
+within the dow industrials <COMMA> home depot inc. hd rose <NUM> percent to dollar <NUM> after broker jefferies & co. upgraded the home-improvement retailer <PUNC>
+and shares of walt disney co. dis rose <NUM> percent as the wall street journal reported the media giant is looking to spin off its radio-station network group <PUNC>
+intel intc edged into positive territory helped by broad strength in the technology sector <PUNC>
+earlier <COMMA> the company s stock traded lower after the chip giant and several information-technology firms manufacturing or selling computers were raided by the european commission as part of an ongoing investigation into possible antitrust violations <COMMA> a spokesman for the competition arm of the european union said <PUNC>
+international business machines ibm <COMMA> microsoft corp. msft and hewlett-packard co. hpq <COMMA> the dow s three other technology components <COMMA> were also trading higher <PUNC>
+general motors corp. gm dipped <NUM> cents to dollar <NUM> after deutsche bank raised concerns about the stock as the automaker prepares for a confrontation with the united auto workers union over health-care cost issues <PUNC>
+<PAR>

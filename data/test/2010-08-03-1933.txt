@@ -1,0 +1,7 @@
+the dow jones industrial average dji was off <NUM> points in afternoon trading <COMMA> while other major market indexes retreated <COMMA> giving back part of monday s gains <PUNC>
+meanwhile <COMMA> investors had to reconcile disappointing earnings reports from procter & gamble co. pg and dow chemical co. dow <COMMA> which stood in contrast to the relatively strong corporate results that drove stocks broadly higher in july <PUNC>
+the dow industrials fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
+broader indexes also fell <COMMA> with the nasdaq composite rixf down <NUM> percent to <NUM> and the s&p <NUM> spx off <NUM> percent to <NUM> <PUNC>
+however <COMMA> health-care stocks climbed <COMMA> boosted by pfizer inc. pfe <COMMA> which advanced <NUM> percent <PUNC>
+the drug giant posted a <NUM> percent increase in second-quarter earnings <COMMA> with adjusted earnings and revenue topping analysts estimates <PUNC>
+<PAR>

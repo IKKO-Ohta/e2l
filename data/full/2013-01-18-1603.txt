@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+leading gains <COMMA> general electric ge climbed <NUM> percent after its earnings beat estimates <PUNC>
+intel intc lost <NUM> percent <COMMA> the worst on the blue-chip average <COMMA> a day after the semiconductor maker said it was bracing for a third consecutive quarter of declining sales <COMMA> illustrating the global move to mobile devices and away from personal computers <PUNC>
+<PAR>

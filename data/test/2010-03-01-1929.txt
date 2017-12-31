@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+caterpillar inc. cat <COMMA> which often benefits from signs of strength in the global economy s manufacturing sector <COMMA> was among the dow s big winners <COMMA> up <NUM> percent <PUNC>
+travelers companies inc. trv was also strong <COMMA> up <NUM> percent <COMMA> amid a broader rally among insurers after u.k.-based prudential plc puk agreed to buy american international group inc. s aig asia operations for dollar <NUM> billion in cash and stock <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+for the year <COMMA> the dow jones industrial average has slumped nearly <NUM> percent <COMMA> its worst year since <NUM> <COMMA> right in the midst of the great depression <PUNC>
+the s&p <NUM> index <COMMA> widely considered as the most representative of the market gauges for tracking u.s. stocks <COMMA> has lost more than <NUM> percent <COMMA> its worst year since <NUM> <PUNC>
+the nasdaq composite is off more than <NUM> percent <PUNC>
+but in the final month of the year <COMMA> the market has been reclaiming a bit of ground <COMMA> with the dow moving up <NUM> percent <COMMA> the s&p adding <NUM> percent <COMMA> and the nasdaq gaining <NUM> percent <PUNC>
+on wednesday <COMMA> the dow industrials dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> with <NUM> of its <NUM> components ending higher <PUNC>
+leading gains among blue chips <COMMA> shares of aluminum giant alcoa inc. aa rose more than <NUM> percent and shares of boeing co. ba added more than <NUM> percent <PUNC>
+shares of general motors corp. gm fell the hardest on the dow <COMMA> losing nearly <NUM> percent <PUNC>
+gm shares have plunged <NUM> percent this year <COMMA> as the auto giant came close to bankruptcy before the government stepped in to bail it out <COMMA> along with rivals ford motor co. f and chrysler <PUNC>
+<PAR>

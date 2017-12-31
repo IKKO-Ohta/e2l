@@ -1,0 +1,15 @@
+the dow jones industrial average dji was off a session high of <NUM> <COMMA> down <NUM> points to <NUM> <PUNC>
+the major indexes have posted gains for the last two sessions <PUNC>
+the dow has gained around <NUM> percent since the end of <NUM> <COMMA> the nasdaq has risen <NUM> percent while the s&p has climbed <NUM> percent <PUNC>
+shares in wal-mart stores wmt dipped <NUM> cents at dollar <NUM> after the world s largest retailer said it expects fourth-quarter earnings to come in near the low-end of its profit forecast <PUNC>
+its cautious outlook came as it reported a <NUM> percent rise in december same-store sales <COMMA> in line with the outlook it gave over the weekend <PUNC>
+general motors corp. gm was the biggest percentage gainer on the dow <COMMA> up <NUM> percent at dollar <NUM> after wednesday s release of its december sales performance <PUNC>
+broker bear stearns noted the relative outperformance of its truck division versus its rival ford. f <PUNC>
+goldman sachs <COMMA> meanwhile <COMMA> said sequentially stronger monthly sales offer room for optimism in <NUM> <PUNC>
+shares in boeing co. ba fell <NUM> percent to dollar <NUM> after bank of america downgraded the aerospace giant to neutral from buy <PUNC>
+the broker says declining aircraft orders in <NUM> <COMMA> rising raw material prices and a risk of component shortages will keep the company s stocks range bound <PUNC>
+merck mrk <COMMA> another dow component <COMMA> was also under pressure <COMMA> slipping <NUM> cents to dollar <NUM> <COMMA> after goldman sachs cut its rating on the pharmaceutical group to underperform from in-line <COMMA> citing valuation <PUNC>
+on the merger and acquisition front <COMMA> the blackstone group and hewlett-packard co. hpq are considering jointly buying computer sciences corp. csc <COMMA> the wall street journal reported <COMMA> citing anonymous sources <PUNC>
+computer sciences already held talks with a consortium that included lockheed martin lmt <COMMA> blackstone and other private equity groups <COMMA> with a view to buying it out <COMMA> but those talks fell through <PUNC>
+computer sciences was up <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

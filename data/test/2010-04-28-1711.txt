@@ -1,0 +1,3 @@
+after wavering higher and lower throughout the session <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+twenty-three of the blue-chip index s <NUM> components were on the rise <COMMA> led by j.p. morgan & chase co. jpm <COMMA> up <NUM> percent <PUNC>
+<PAR>

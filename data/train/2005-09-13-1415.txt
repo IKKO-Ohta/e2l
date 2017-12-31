@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> the s&p <NUM> spx down <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf down <NUM> points at <NUM> <PUNC>
+the nation s trade deficit narrowed in the month by <NUM> percent to dollar <NUM> billion <COMMA> the commerce department said <PUNC>
+the dow jones forecast was for the deficit to widen to dollar <NUM> billion <PUNC>
+<PAR>

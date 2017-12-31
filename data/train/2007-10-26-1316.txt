@@ -1,0 +1,5 @@
+futures for the dow jones industrial average dji were up <NUM> points at <NUM> <PUNC>
+among blue chips <COMMA> microsoft msft jumped <NUM> percent in electronic trading <PUNC>
+u.s. stocks ended modestly lower on thursday in another choppy session <COMMA> with investors contrasting some better-than-forecast earnings and rate-cut hopes against disappointing durable-goods orders and a mixed report on new-home sales <PUNC>
+the dow fell <NUM> points <COMMA> the s&p <NUM> fell <NUM> points and the nasdaq dropped <NUM> points <PUNC>
+<PAR>

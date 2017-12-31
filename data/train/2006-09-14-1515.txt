@@ -1,0 +1,8 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+on wednesday <COMMA> the dow industrials dji <COMMA> the nasdaq composite rixf and the s&p <NUM> index spx all closed at four-month highs <PUNC>
+but stocks were backing lower thursday <COMMA> as investors paused to review the recent rally <COMMA> which has put the dow jones industrials within striking distance of its all-time record high of <NUM> <COMMA> reached in january <COMMA> <NUM> <PUNC>
+elsewhere <COMMA> dow component general electric ge was down <NUM> cents at dollar <NUM> <PUNC>
+ubs cut the stock to neutral from buy and cut its price target to dollar <NUM> from dollar <NUM> <COMMA> on the belief that earnings growth will be negatively affected by the shape of the treasury yield curve <COMMA> higher tax rates and continued sluggish earnings at its nbc unit <PUNC>
+ubs also downgraded fellow dow member boeing co. ba <COMMA> moving its rating to reduce from neutral <COMMA> and its price target to dollar <NUM> from dollar <NUM> <COMMA> due to concerns of the effect of likely economic slowdown and continued multiple compression <PUNC>
+also in the dow <COMMA> soleil securities upgraded dupont dd to buy from hold <COMMA> citing declining hydrocarbon prices <PUNC>
+<PAR>

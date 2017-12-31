@@ -1,0 +1,2 @@
+at last check <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+<PAR>

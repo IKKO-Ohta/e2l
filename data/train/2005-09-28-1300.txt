@@ -1,0 +1,4 @@
+the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
+futures contracts for the s&p <NUM> and the nasdaq <NUM> were up <NUM> points at <NUM> and up <NUM> points at <NUM> <COMMA> respectively <PUNC>
+general motors corp. gm and the canadian auto workers union on tuesday night tentatively agreed to a three-year contract <COMMA> avoiding a potentially costly strike <PUNC>
+<PAR>

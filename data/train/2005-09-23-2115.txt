@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> wrapping up a week in which the benchmark index fell <NUM> percent <PUNC>
+the dow industrials ended in negative territory <COMMA> due in large part to a more than <NUM> percent drop in shares of alcoa after the aluminum giant warned on its third-quarter results <PUNC>
+alcoa inc. aa fell more than <NUM> percent after the company warned that hurricane rita <COMMA> low aluminum prices and higher raw-material costs would take a bite out of its third-quarter profit <PUNC>
+honeywell hon offered a bright spot on the dow <COMMA> rising <NUM> cents to dollar <NUM> <COMMA> after merrill lynch said that the company s improving free cash-flow outlook could be a key driver of share price gains in the coming quarters <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+on thursday <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the nasdaq composite index rixf advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+gains were partly fueled by aluminum giant alcoa inc. aa <COMMA> often seen as a barometer of the economy <COMMA> which kicked off the third-quarter earnings season by posting a surprise profit <PUNC>
+bny convergex s chief market strategist nicholas colas believes that weakness in the dollar should now benefit the dow industrials over the s&p <NUM> <COMMA> given the higher percentage of multinationals represented in the blue-chip average <PUNC>
+<PAR>

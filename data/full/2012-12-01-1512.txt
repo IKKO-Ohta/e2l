@@ -1,0 +1,6 @@
+still <COMMA> that had little pronounced effect on friday?s market <PUNC>
+both the dow jones industrial average dji ?and the s&p <NUM> index spx ?rose less than <NUM> percent <COMMA> and the nasdaq composite index rixf ?fell less than <NUM> percent <PUNC>
+the dow industrials rose <NUM> percent for the week and declined <NUM> percent for the month <COMMA> while the s&p <NUM> index rose <NUM> percent for the week and <NUM> percent for the month <PUNC>
+the nasdaq gained <NUM> percent for the week and <NUM> percent for november <PUNC>
+this past week <COMMA> whole foods markets inc. wfm <COMMA> tellabs inc. tlab <COMMA> guess inc. ges <COMMA> brown-forman inc. bfa <COMMA> las vegas sands inc. lvs <COMMA> and ethan allen interiors inc. eth ?were among companies saying they would issue a special dividend <COMMA> while walt disney co. dis ?joined wal-mart stores inc. wmt ?in scheduling an early dividend payment for december that would have usually been made in january <PUNC>
+<PAR>

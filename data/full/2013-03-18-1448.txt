@@ -1,0 +1,2 @@
+after a 109-point fall <COMMA> the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with j.p. morgan chase & co. jpm leading the losses that included two-thirds of its <NUM> components <PUNC>
+<PAR>

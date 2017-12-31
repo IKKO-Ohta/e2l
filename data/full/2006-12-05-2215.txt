@@ -1,0 +1,11 @@
+the dow jones industrial average dji gained <NUM> points to close at <NUM> <COMMA> just off its intraday high of <NUM> and slightly below its all-time closing high of <NUM> <PUNC>
+coca cola co. ko was the biggest gainer among blue chips <COMMA> rising <NUM> percent to dollar <NUM> <COMMA> a <NUM> 1/2-year high <COMMA> after merrill lynch raised its price target on the stock to dollar <NUM> from dollar <NUM> <PUNC>
+on monday <COMMA> stocks shrugged off pfizer inc. s pfe decision to halt development of a once-promising cholesterol drug <COMMA> as a flurry of merger activity sent major indexes higher <PUNC>
+the dow industrials dropped <NUM> points the next day but would then go on rallying for over three years before the tech bubble eventually burst <PUNC>
+several blue-chips helped power the dow industrials on tuesday <PUNC>
+mcdonald s corp. mcd gained <NUM> percent to dollar <NUM> <COMMA> after earlier reaching an all-time high of dollar <NUM> <PUNC>
+general motors corp. gm turned around to gain <NUM> percent after news that competitor ford motor co. f plans to take on another dollar <NUM> billion in debt <PUNC>
+weighing on the dow industrials <COMMA> american express co. axp dropped <NUM> cents to dollar <NUM> after a.g. edwards downgraded the stock to hold from buy <COMMA> citing valuation concerns <PUNC>
+microsoft corp. msft <COMMA> another member of the dow <COMMA> dropped <NUM> percent <PUNC>
+the company s chief financial officer <COMMA> christopher liddell <COMMA> said that the company remains on track to achieve revenue growth of <NUM> percent to <NUM> percent in <NUM> <PUNC>
+<PAR>

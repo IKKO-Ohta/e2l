@@ -1,0 +1,4 @@
+while few analysts expect the fed to drastically alter its easy money policy <COMMA> anxiety over political events and a drop in earnings at caterpillar cat helped fuel a pull-back in stocks <PUNC>
+the dow jones industrial average dji was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> to trade at <NUM> <COMMA> led by a <NUM> percent decline in component caterpillar cat <COMMA> which reported a sharp decline in fourth-quarter earnings and offered a weaker-than-anticipated outlook for <NUM> <PUNC>
+checking some of the dow s losses <COMMA> boeing ba surged <NUM> percent after posting a fourth-quarter profit <COMMA> recovering from a machinists strike last year <PUNC>
+<PAR>

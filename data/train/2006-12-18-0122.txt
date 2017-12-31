@@ -1,0 +1,3 @@
+the dow jones industrial average dji on friday rose <NUM> points to close at a record <NUM> <PUNC>
+the s&p <NUM> index spx rose <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf gained <NUM> points to <NUM> <PUNC>
+<PAR>

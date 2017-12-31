@@ -1,0 +1,3 @@
+during the dow jones industrial average s dji eight sessions of gains <COMMA> which ended friday <COMMA> the blue-chip average never added more than <NUM> points <COMMA> or <NUM> percent <COMMA> in a single day <PUNC>
+still <COMMA> it closed the week with a <NUM> percent advance <COMMA> its third week of gains <PUNC>
+<PAR>

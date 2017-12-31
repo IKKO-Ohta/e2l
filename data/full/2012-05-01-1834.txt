@@ -1,0 +1,3 @@
+u.s. stocks rallied tuesday <COMMA> propelling the dow jones industrial average to its highest point since late <NUM> <COMMA> after a report indicated u.s. manufacturing expanded in april <COMMA> offsetting concern about the economic recovery <PUNC>
+after climbing as much as <NUM> points <COMMA> the dow industrials dji were up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but four of its <NUM> components rising <PUNC>
+<PAR>

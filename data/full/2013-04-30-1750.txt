@@ -1,0 +1,4 @@
+the dow jones industrial average dji added <NUM> points to <NUM> <COMMA> with its <NUM> components evenly divided between red and green <PUNC>
+blue-chip losses were led by pfizer inc. pfe <COMMA> down <NUM> percent after the drug manufacturer cut its <NUM> profit outlook and reported first-quarter earnings that missed wall street estimates <PUNC>
+international business machines corp. ibm gained after the computer-services provider hiked its dividend and approved a dollar <NUM> billion share buyback <PUNC>
+<PAR>

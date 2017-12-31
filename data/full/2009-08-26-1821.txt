@@ -1,0 +1,3 @@
+on wall street <COMMA> industrials <COMMA> materials and financial shares paced losses as the major indexes dipped mostly into the red <PUNC>
+the dow jones industrial average dji recently pulled up <NUM> points to <NUM> <COMMA> while the s&p <NUM> index spx had dropped less than <NUM> point to <NUM> and the nasdaq composite rixf had declined <NUM> points to <NUM> <PUNC>
+<PAR>

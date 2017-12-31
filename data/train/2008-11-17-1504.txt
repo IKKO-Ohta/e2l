@@ -1,0 +1,2 @@
+the dow jones industrial average dji recovered some to trade <NUM> points down to stand at <NUM> <COMMA> with all but three of the blue-chip index s <NUM> components posting losses <PUNC>
+<PAR>

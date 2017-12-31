@@ -1,0 +1,2 @@
+up more than <NUM> percent for the year so far <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <PUNC>
+<PAR>

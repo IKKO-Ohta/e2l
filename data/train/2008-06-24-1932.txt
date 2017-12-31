@@ -1,0 +1,5 @@
+after rising and falling throughout the day <COMMA> the dow jones industrial average dji was recently down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+caterpillar inc. cat fronted the dow s declines <COMMA> off <NUM> percent <COMMA> while american express co. axp led the gains among the blue chips <COMMA> up <NUM> percent <PUNC>
+at monday s close <COMMA> the dow was off <NUM> percent for the not-yet-ended month <COMMA> with the dow s financials index the biggest drag <COMMA> falling <NUM> percent so far in june <COMMA> according to preliminary results released by dow jones indexes <PUNC>
+the dow jones u.s. oil and gas index was the biggest winner in june <COMMA> posting a <NUM> percent gain <COMMA> the results showed <PUNC>
+<PAR>

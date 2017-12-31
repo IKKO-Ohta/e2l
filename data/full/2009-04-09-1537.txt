@@ -1,0 +1,3 @@
+financials fronted the strong gains <COMMA> with the dow jones industrial average dji urging more than <NUM> points <COMMA> and recently up <NUM> at <NUM> <PUNC>
+the s&p <NUM> index spx rose <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf climbed <NUM> points to <NUM> <PUNC>
+<PAR>

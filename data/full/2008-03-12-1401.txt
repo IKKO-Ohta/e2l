@@ -1,0 +1,4 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+on tuesday <COMMA> the dow rallied <NUM> points <COMMA> or <NUM> percent <COMMA> its largest percentage climb since march <NUM> and its fourth-biggest point jump ever <PUNC>
+among dow components <COMMA> caterpillar cat gained <NUM> percent after it reaffirmed its earnings outlook <PUNC>
+<PAR>

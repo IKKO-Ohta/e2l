@@ -1,0 +1,4 @@
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+wal-mart <COMMA> part of the dow industrials <COMMA> will report financial results for the second quarter ended july <NUM> on thursday at about <NUM> a.m. eastern time <COMMA> according to a company release <PUNC>
+<PAR>

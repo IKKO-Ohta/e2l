@@ -1,0 +1,12 @@
+the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
+on monday <COMMA> u.s. stocks wobbled throughout the session <COMMA> and finally closed lower <COMMA> with the dow industrials dropping <NUM> points <COMMA> the nasdaq composite losing <NUM> points and the s&p <NUM> falling <NUM> points <PUNC>
+continued gains for the japanese yen and doubts over the health of mortgage lenders have dealt heavy damage to stocks in recent sessions <PUNC>
+according to the dow jones wilshire global total market index <COMMA> the world s markets lost dollar <NUM> trillion in the last five trading sessions <PUNC>
+dow component altria group inc. mo rose <NUM> percent to dollar <NUM> before the opening <PUNC>
+the company was upgraded to a buy rating by deutsche bank <COMMA> which noted opportunities to unlock value through a restructuring <PUNC>
+citigroup inc. c <COMMA> also in the dow <COMMA> gained <NUM> percent to dollar <NUM> before the bell <PUNC>
+the company wants to buy a majority stake in japan s troubled nikko cordial brokerage <PUNC>
+if citigroup is able to strike a deal <COMMA> the transaction would mark the largest acquisition of a japanese brokerage by a foreign company <PUNC>
+another dow component j.p. morgan jpm gained <NUM> percent to dollar <NUM> in early dealings <PUNC>
+the company will make a presentation to investors later in the session <PUNC>
+<PAR>

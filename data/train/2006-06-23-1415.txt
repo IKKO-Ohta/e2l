@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+among the u.s. companies mentioned in the note <COMMA> deutsche bank continues to recommend value stocks hess corp. hes <COMMA> conocophillips cop <COMMA> exxon mobil corp. xom <COMMA> chevron corp. cvx as well as combination winners occidental petroleum oxy and marathon oil corp. mro <PUNC>
+alcoa inc. aa dipped <NUM> cents to dollar <NUM> after it said it expects to book a second-quarter charge of <NUM> cents a share related to a four-year labor contract covering about <NUM> employees at <NUM> locations <PUNC>
+on thursday <COMMA> the stock rose <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

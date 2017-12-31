@@ -1,0 +1,3 @@
+after an 81-point rise <COMMA> the dow jones industrial average dji fell as much as <NUM> points <COMMA> and was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+just eight of the dow s <NUM> components gained <COMMA> with mcdonald s corp. mcd the strongest performer and bank of america corp. bac hardest hit <PUNC>
+<PAR>

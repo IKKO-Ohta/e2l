@@ -1,0 +1,4 @@
+after traveling in positive and negative turf <COMMA> the dow jones industrial average dji was recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by financial shares including j.p. morgan chase jpm and american international group inc. <COMMA> aig <COMMA> both up about <NUM> percent <PUNC>
+the initial look at the still-to-be completed month had the u.s. consumer services index climbing the most <COMMA> posting a <NUM> percent gain <COMMA> while the dow jones u.s <PUNC>
+basic materials index lost the most <COMMA> falling <NUM> percent in august <COMMA> dow jones indexes said <PUNC>
+<PAR>

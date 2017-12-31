@@ -1,0 +1,10 @@
+the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> international business machines corp. ibm performed worst among blue chips <COMMA> sliding <NUM> percent <PUNC>
+stifel nicolaus said rival accenture plc s acn disappointing quarterly report late thursday was negative for ibm <PUNC>
+the main indexes have erased steeper early losses that left the dow lower by nearly <NUM> points <PUNC>
+they all briefly traded in positive territory before turning mixed <PUNC>
+as of thursday s close <COMMA> the s&p <NUM> was showing a <NUM> percent loss for the month <COMMA> snapping a seven-month winning streak <PUNC>
+but the benchmark index was on track for a <NUM> percent rise for the second quarter and a <NUM> percent gain for <NUM> to date <PUNC>
+the dow was displaying a <NUM> percent drop for the month <COMMA> ending a six-month winning streak <PUNC>
+but blue chips were up <NUM> percent for the second quarter and <NUM> percent for <NUM> to date <PUNC>
+that s the best first-half of a year performance since <NUM> <COMMA> when the dow ramped up <NUM> percent in that first half <PUNC>
+<PAR>

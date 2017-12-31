@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
+shares in general motors corp. gm and ford motor co. f both rose in early trade <PUNC>
+stocks on friday erased early losses to close higher after the bush administration said it would step in to prevent a failure of u.s. automakers amid fears that more job losses would deepen the recession <PUNC>
+the dow jones industrial average finished up <NUM> points <COMMA> the s&p <NUM> climbed <NUM> points and the nasdaq composite added <NUM> points <PUNC>
+<PAR>

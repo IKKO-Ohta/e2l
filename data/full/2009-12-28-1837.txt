@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> recently <PUNC>
+international business machines ibm and 3m co. mmm were among the measure s best performers <COMMA> up <NUM> percent each <PUNC>
+american express co. axp and general electric co. ge helped keep the gains in check <PUNC>
+american express fell <NUM> percent <COMMA> while ge dropped <NUM> percent <PUNC>
+<PAR>

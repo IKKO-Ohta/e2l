@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
+dow component citigroup inc. c was in focus <PUNC>
+according to the wall street journal <COMMA> a faction within the bank is calling for it make a bid for abn amro abn <COMMA> the dutch bank holding merger talks with barclays plc <PUNC>
+bcs <PUNC>
+elsewhere on the dow <COMMA> general electric co. ge is planning to offer up to <NUM> billion yen for tokyo-based leasing firm sanyo electric credit <PUNC>
+we ve had a good week with four up days in a row for the dow <COMMA> said art hogan <COMMA> chief market strategist at jefferies & co. but this is friday and we are likely to get the friday fade around noon <PUNC>
+no one wants to hold long positions over the weekend <PUNC>

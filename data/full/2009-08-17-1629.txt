@@ -1,0 +1,6 @@
+the rise in insurer stocks came in the wake of buffett s berkshire hathaway inc. on friday reporting it had purchased a stake in medical-supplies firm becton <COMMA> dickinson & co. bdx and upped its holdings in drugs and medical-products company johnson & johnson jnj in the second quarter <COMMA> while reporting reduced holdings in insurance goliaths wellpoint inc. wlp and unitedhealth <PUNC>
+on the dow jones industrial average dji <COMMA> pharmaceutical giant pfizer inc. was the best-performing stock <COMMA> up <NUM> percent <PUNC>
+after dropping nearly <NUM> points <COMMA> the dow industrials recovered some to lately stand at <NUM> <COMMA> off <NUM> <COMMA> or <NUM> percent <PUNC>
+the s&p <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite index rixf declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

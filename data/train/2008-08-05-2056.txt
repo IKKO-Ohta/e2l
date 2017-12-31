@@ -1,0 +1,4 @@
+the dow jones industrial average gained <NUM> points to end at <NUM> <PUNC>
+this was the blue chip index s best one-day gain since april <NUM> <PUNC>
+out of the dow s <NUM> components <COMMA> <NUM> finished higher <COMMA> led by a <NUM> percent jump in shares of aig <COMMA> which received an upgrade from ubs <PUNC>
+<PAR>

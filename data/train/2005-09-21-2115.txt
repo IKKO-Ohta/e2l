@@ -1,0 +1,9 @@
+new york dow jones - the dow jones industrial average and the nasdaq composite index closed at their worst levels in nearly three months on wednesday <COMMA> as the intensifying hurricane rita triggered economic concerns for investors already worried about the prospect of higher interest rates <PUNC>
+it marked the third losing session in a row for markets overall <PUNC>
+the dow industrials dji finished just off its low for the session <COMMA> down <NUM> points <COMMA> or <NUM> percent at <NUM> <PUNC>
+the benchmark index closed at its lowest level since july <NUM> <PUNC>
+american express co. axp fell <NUM> percent to dollar <NUM> on concern over the impact of a surge in bankruptcy filings ahead of the enactment of key legislation intended to make it more difficult to default on one s debts <PUNC>
+capital one cof <COMMA> another major credit card operator <COMMA> saw its shares <COMMA> fall <NUM> percent to dollar <NUM> <PUNC>
+merrill lynch upgraded intel inc. intc to buy from neutral <COMMA> due primarily to relative valuation <PUNC>
+while the broker is still concerned about excess manufacturing capacity and competitive pressure from advanced micro devices amd <COMMA> it noted that the stock has fallen about <NUM> percent since the middle of july <COMMA> versus a virtually flat performance by the philadelphia exchange semiconductor index sox <PUNC>
+<PAR>

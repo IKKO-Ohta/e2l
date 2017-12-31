@@ -1,0 +1,3 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> with blue-chip gains led by general motors corp. gm <COMMA> up <NUM> percent <COMMA> and intel corp. intc <COMMA> up <NUM> percent <PUNC>
+blue-chip declines were fronted by bank of america corp. bac <COMMA> down <NUM> percent <PUNC>
+<PAR>

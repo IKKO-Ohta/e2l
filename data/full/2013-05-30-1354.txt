@@ -1,0 +1,4 @@
+u.s. stocks opened mildly higher on thursday <COMMA> with the dow industrials bouncing back after their largest hit in four weeks <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+on the dow <COMMA> alcoa inc. aa fell after moody s investors service reduced its rating on the aluminum manufacturer s debt to one notch below investment grade <PUNC>
+<PAR>

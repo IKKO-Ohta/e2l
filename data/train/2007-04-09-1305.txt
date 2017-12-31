@@ -1,0 +1,5 @@
+futures for the dow jones industrial average dji were up <NUM> points at <NUM> <COMMA> while those for the s&p <NUM> spx climbed <NUM> points to <NUM> <PUNC>
+in other deal news <COMMA> dow component citigroup c rose <NUM> percent before the open after saying it will buy taiwan s bank of overseas chinese for about dollar <NUM> million in cash <PUNC>
+the deal is expected to close in the second half of <NUM> <PUNC>
+earnings season officially kicks off after tuesday s closing bell with dow component alcoa s aa results <PUNC>
+<PAR>

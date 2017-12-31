@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+hewlett-packard hpq led the measure s gainers <COMMA> rising <NUM> percent <PUNC>
+at&t t rose <NUM> percent <PUNC>
+the company is lowering prices on some of its wireless calling plans for the second time in six months and moving to a model of charging users based on the amount of internet surfing they do and email traffic they generate on devices like the iphone <PUNC>
+<PAR>

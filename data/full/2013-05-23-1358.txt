@@ -1,0 +1,4 @@
+the dow jones industrial average dji slid <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the standard & poor s <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+on the earnings front <COMMA> shares of hewlett-packard co. hpq jumped <NUM> percent in morning trade after the computer maker reported second-quarter results and an outlook above expectations <PUNC>
+<PAR>

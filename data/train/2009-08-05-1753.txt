@@ -1,0 +1,2 @@
+on track to snap a four-day winning streak <COMMA> the dow jones industrial average dji fell more than <NUM> points earlier on <COMMA> and was recently down <NUM> points to <NUM> <PUNC>
+<PAR>

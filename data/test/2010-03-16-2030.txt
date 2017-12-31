@@ -1,0 +1,5 @@
+strengthening in the final <NUM> minutes of trade <COMMA> the dow jones industrial average dji extended its winning run to a sixth consecutive session <PUNC>
+the blue-chip average rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components advancing <COMMA> led by general electric co. ge <PUNC>
+its shares gained <NUM> percent after the company s cfo said he expects the conglomerate s earnings and dividend to climb next year <PUNC>
+also boosting the dow <COMMA> intel corp. intc rose <NUM> percent after the technology bellwether released its newest server chips <PUNC>
+<PAR>

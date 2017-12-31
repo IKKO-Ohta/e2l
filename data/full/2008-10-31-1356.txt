@@ -1,0 +1,7 @@
+the dow jones industrial average dji declined <NUM> points to stand at <NUM> <PUNC>
+u.s. stocks closed with strong gains thursday as amid indications of furthering easing in troubled credit markets <PUNC>
+the dow jones industrial average rose <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite added <NUM> points <PUNC>
+on the earnings front <COMMA> oil giant and dow industrials component chevron corp. cvx fell <NUM> percent after reporting third-quarter income rose <NUM> percent to dollar <NUM> billion <PUNC>
+the automotive sector will be in the spotlight as a deal to merge general motors corp. gm with chrysler has hit an impasse after the bush administration ruled out funding for it <COMMA> according to a reuters report <PUNC>
+the justice department on thursday said it would sue to block verizon communications inc. s vz proposed dollar <NUM> billion acquisition of alltel corp. unless verizon agrees to divest assets in <NUM> states <PUNC>
+<PAR>

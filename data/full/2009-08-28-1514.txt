@@ -1,0 +1,3 @@
+at <NUM> a.m. eastern <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
+the s&p <NUM> index spx retained a fractional advance to stand at <NUM> <COMMA> while the technology-laden nasdaq composite rixf climbed <NUM> points to <NUM> <PUNC>
+<PAR>

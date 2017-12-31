@@ -1,0 +1,11 @@
+u.s. stocks kicked off <NUM> on a positive note as europe temporarily took a back seat to relatively decent u.s. economic data <PUNC>
+the dow jones industrial average dji rose <NUM> percent for the week <PUNC>
+the s&p <NUM> spx climbed <NUM> percent <COMMA> while the nasdaq composite rixf jumped <NUM> percent for the week <PUNC>
+alcoa aa will cut the tape to launch the unofficial earnings season late monday when it releases fourth quarter results <PUNC>
+the aluminum company is expected to report a loss of a penny a share and revenue of dollar <NUM> billion in the latest quarter <COMMA> according to factset s poll of analysts <PUNC>
+in the year-earlier period <COMMA> alcoa earned <NUM> cents a share on revenue of dollar <NUM> billion <PUNC>
+j.p. morgan chase jpm <COMMA> which is scheduled to report friday <COMMA> is expected to announce a smaller profit than the year ago <COMMA> or earnings of <NUM> cents a share <COMMA> according to a consensus survey by factset <PUNC>
+in the fourth quarter of <NUM> <COMMA> the bank reported earnings of dollar <NUM> a share <PUNC>
+aside from the troika of earnings <COMMA> europe and data <COMMA> investors will also look to las vegas where the consumer electronics show will pitch its tent <PUNC>
+a host of technology companies <COMMA> including qualcomm qcom <COMMA> microsoft corp. msft <COMMA> intel corp. intc <COMMA> nvidia corp. nvda <COMMA> and samsung electronics <COMMA> may unveil new products and discuss their latest innovations <PUNC>
+<PAR>

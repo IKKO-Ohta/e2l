@@ -1,0 +1,9 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+earlier in the session <COMMA> the dow had been off as much as <NUM> points <PUNC>
+travelers trv was the measure s best performer <COMMA> up <NUM> percent as the insurer s fourth-quarter earnings jumped <NUM> percent to its highest quarterly profit since going public in <NUM> <PUNC>
+american express axp and alcoa aa were also particularly strong <COMMA> up more than <NUM> percent each <PUNC>
+verizon vz was the dow s worst performer <COMMA> down <NUM> percent after the telecom giant reported a fourth-quarter loss as a result of charges related to job cuts in the period <PUNC>
+excluding items <COMMA> verizon said earnings met analysts estimates but its revenue missed <PUNC>
+the results weighed on rival at&t t <COMMA> which fell <NUM> percent <PUNC>
+johnson & johnson jnj was also weak <COMMA> off <NUM> percent <COMMA> after posting fourth-quarter earnings below analysts estimates <PUNC>
+<PAR>

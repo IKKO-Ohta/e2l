@@ -1,0 +1,2 @@
+after closing tuesday at its highest level since aug. <NUM> <COMMA> <NUM> <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by j.p. morgan chase & co. jpm <COMMA> up <NUM> percent <PUNC>
+<PAR>

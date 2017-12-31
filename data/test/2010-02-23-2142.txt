@@ -1,0 +1,17 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+over the last two days <COMMA> the index has fallen <NUM> percent <PUNC>
+people are treading very cautiously here <COMMA> following last week s 4-day winning streak in the dow <COMMA> said anthony conroy <COMMA> head trader at bny convergex <COMMA> a new york brokerage <PUNC>
+people are wondering whether the market got a little ahead of itself <PUNC>
+i think we could test the <NUM> level on the dow one more time <COMMA> but hopefully it will be off to the races from there <PUNC>
+recovery-sensitive industrial and commodity-producing stocks including alcoa inc. aa <COMMA> down <NUM> percent <COMMA> caterpillar,inc <PUNC>
+cat <COMMA> down <NUM> percent <COMMA> and boeing co. ba <COMMA> down <NUM> percent <COMMA> led the decline on the dow industrials average <PUNC>
+blue-chip financials were also weak <COMMA> with shares in american express axp and j.p. morgan chase co. jpm off more than <NUM> percent each <PUNC>
+shares of home depot inc. hd and macy s inc. m rose more than <NUM> percent <COMMA> respectively <COMMA> after the retailers reporting better-than-expected earnings <COMMA> though sears holdings shld fell <NUM> percent after it also beat views <PUNC>
+among other stocks on the move <COMMA> intel corp. intc shares fell <NUM> percent after the chip-maker said it was hit by a cyber attack in january <PUNC>
+microsoft corp. msft shares slid <NUM> percent after the technology conglomerate reached a patent licensing agreement with amazon.com amzn that gives the online retailer rights to use open-source software in its kindle electronic book reader for an undisclosed sum <PUNC>
+people are treading very cautiously here <COMMA> following last week s 4-day winning streak in the dow <COMMA> said anthony conroy <COMMA> head trader at bny convergex <COMMA> a new york brokerage <PUNC>
+people are wondering whether the market got a little ahead of itself <PUNC>
+i think we could test the <NUM> level on the dow one more time <COMMA> but hopefully it will be off to the races from there <PUNC>
+among stocks to watch <COMMA> intel corp. intc shares fell <NUM> percent after the chip-maker said it was hit by a cyber attack in january <PUNC>
+microsoft corp. msft shares slid <NUM> percent after reaching a patent licensing agreement with amazon.com amzn that gives the online retailer rights to use open-source software in its kindle electronic book reader for an undisclosed sum <PUNC>
+<PAR>

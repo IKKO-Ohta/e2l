@@ -1,0 +1,10 @@
+the dow jones industrial average dji recently rose <NUM> points to <NUM> <COMMA> up <NUM> percent <COMMA> on track to snap a two-day losing streak <PUNC>
+twenty-eight of its <NUM> components rose <PUNC>
+bank of america corp. bac and j.p. morgan chase & co. jpm were the dow s biggest gainers <COMMA> up more than <NUM> percent each <PUNC>
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in recent trading <PUNC>
+the dow s financial components surged after bernanke wrapped up his opening remarks <COMMA> where he reiterated keeping interest rates low for several months at least <PUNC>
+bank of america corp. bac shares led the measure with a gain of <NUM> percent <PUNC>
+j.p. morgan chase co. jpm and american express co. axp each posted gains of <NUM> percent <PUNC>
+only two of the dow s components were in the red <PUNC>
+kraft foods inc. kft edged down <NUM> percent <COMMA> while alcoa inc. aa shed <NUM> percent <PUNC>
+<PAR>

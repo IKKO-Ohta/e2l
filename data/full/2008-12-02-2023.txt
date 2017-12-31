@@ -1,0 +1,7 @@
+in the final hour of trading <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> well off an earlier high of <NUM> <PUNC>
+shares of gm gm were down <NUM> percent at dollar <NUM> after earlier rising to a high of dollar <NUM> <PUNC>
+the automaker said its november light vehicle sales slumped <NUM> percent <PUNC>
+elsewhere <COMMA> general electric ge <COMMA> another blue chip <COMMA> rose <NUM> percent even after the conglomerate warned it expects fourth-quarter earnings at the low end of its previously announced range <PUNC>
+ge clung to its dividend <PUNC>
+away from the dow <COMMA> goldman sachs gs fell <NUM> percent after the wall street journal said its fourth-quarter loss could be as much as dollar <NUM> a share <COMMA> five times the current analyst consensus <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+at <NUM> p.m. the market will view the consumer credit report for october <PUNC>
+the dow jones forecast <COMMA> based on a poll of economists <COMMA> is for a rise of dollar <NUM> billion <COMMA> against a decline of dollar <NUM> million in september <PUNC>
+3m co. mmm rose <NUM> cents to dollar <NUM> <PUNC>
+the manufacturing conglomerate named george buckley to serve as its chairman <COMMA> president and chief executive <PUNC>
+he replaces interim ceo george morrison <PUNC>
+general motors gm last was down <NUM> percent at dollar <NUM> <PUNC>
+the struggling automaker late tuesday tapped frederick fritz henderson <COMMA> currently chairman of gm europe <COMMA> to take over for john devine as the automaker s chief financial officer and vice chairman <PUNC>
+another down component <COMMA> microsoft msft fell <NUM> cents to dollar <NUM> after south korean antitrust officials decided that it had abused its dominance in software <PUNC>
+<PAR>

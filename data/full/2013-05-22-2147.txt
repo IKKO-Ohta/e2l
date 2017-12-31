@@ -1,0 +1,4 @@
+an earlier version of wednesday s market snapshot gave incorrect historical information on the dow jones industrial average s dji intraday swings <PUNC>
+wednesday s gap between the index s high and low was the largest since february <NUM> <COMMA> <NUM> <PUNC>
+see corrected story <PUNC>
+<PAR>

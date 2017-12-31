@@ -1,0 +1,6 @@
+after rising <NUM> points and falling <NUM> <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+among the blue-chip losses <COMMA> j.p. morgan chase & co. s jpm shares fell <NUM> percent after the bank on wednesday disclosed it faces a federal criminal probe of its practices relating to sales of mortgage-backed bonds <PUNC>
+mcdonald s corp. mcd reported sales at stores open at least <NUM> months climbed <NUM> percent in july <COMMA> beating wall street s expectations <PUNC>
+the fast-food chain and dow component fell <NUM> percent <PUNC>
+its shares are up more than <NUM> percent this year <PUNC>
+<PAR>

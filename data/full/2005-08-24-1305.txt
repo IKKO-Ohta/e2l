@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> points at <NUM> <COMMA> the s&p <NUM> index spx down <NUM> points at <NUM> <PUNC> and the nasdaq composite index rixf down <NUM> points at <NUM> <PUNC>
+<PAR>

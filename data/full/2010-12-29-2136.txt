@@ -1,0 +1,4 @@
+u.s. stock indexes ended modestly higher wednesday <COMMA> amplifying a rise that has the dow jones industrial average two days from finishing <NUM> with a double-digit gain <PUNC>
+after closing tuesday at its highest level since aug. <NUM> <COMMA> <NUM> <COMMA> the dow jones industrial average dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+seventeen of the dow s <NUM> components gained <COMMA> with fast-food giant mcdonald s corp. mcd leading the gainers <PUNC>
+<PAR>

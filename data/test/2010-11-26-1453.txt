@@ -1,0 +1,10 @@
+the dow jones industrial average dji tumbled <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
+all <NUM> of the measure s components were in the red <COMMA> with materials components dupont dd and alcoa aa hit the hardest <PUNC>
+dupont dropped <NUM> percent while alcoa slipped <NUM> percent <PUNC>
+boeing ba fell <NUM> percent <PUNC>
+the company is making changes to the new <NUM> dreamliner s electrical system and the software that runs it after an in-flight fire and subsequent power failure aboard one of the planes more than two weeks ago <PUNC>
+the company did not say how long it would take to finish designing the changes and then implement them <PUNC>
+friday s drop which puts the dow off about <NUM> percent for the week <COMMA> following its negative trend for the week of thanksgiving seen in recent years came as the euro zone s sovereign debt crisis continued to escalate <COMMA> with the market homing in on spain as another potential weak spot <PUNC>
+however <COMMA> retail shares were mixed <PUNC>
+tiffany tif fell <NUM> percent while homem depot hd dropped <NUM> percent and tjx cos tjx shed <NUM> percent <COMMA> while macy s m climbed <NUM> percent <COMMA> best buy bby rose <NUM> percent and big lots big added <NUM> percent <PUNC>
+<PAR>

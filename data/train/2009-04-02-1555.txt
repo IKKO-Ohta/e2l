@@ -1,0 +1,4 @@
+on thursday <COMMA> consumer discretionary shares led the gains as stock rallied for a second consecutive day <PUNC>
+the dow jones industrial average spx rose <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx gained <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf climbed <NUM> points to <NUM> <PUNC>
+<PAR>

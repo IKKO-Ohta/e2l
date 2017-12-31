@@ -1,0 +1,3 @@
+financials and energy led sector gains as the s&p <NUM> index spx rose <NUM> points to <NUM> <PUNC>
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf advanced <NUM> points to <NUM> <PUNC>
+<PAR>

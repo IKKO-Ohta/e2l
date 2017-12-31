@@ -1,0 +1,6 @@
+earnings season will begin with reports expected from five other s&p <NUM> index companies in addition to alcoa <PUNC> general electric co. ge <COMMA> yum brands inc. yum <COMMA> pepsi bottling group inc. pbg <COMMA> marriott international inc. mar <COMMA> and m&t bank corp. mtb <PUNC>
+the industrials sector is forecast to be the best earnings performer this season <COMMA> with expected growth of <NUM> percent on a year-over-year basis <COMMA> with much of the strength coming from boeing co. ba <COMMA> he said <PUNC>
+the gains came even as oil topped dollar <NUM> a barrel <PUNC>
+the dow jones industrial average dji ended the week up <NUM> percent <PUNC>
+the s&p <NUM> spx closed up <NUM> percent <COMMA> and the nasdaq rixf ended up <NUM> percent <PUNC>
+<PAR>

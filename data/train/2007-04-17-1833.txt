@@ -1,0 +1,8 @@
+u.s. stocks rose on tuesday <COMMA> sending the dow jones industrial average in record territory <COMMA> as investors welcomed upbeat economic data and earnings from coca-cola co. and johnson & johnson but cautiously weighed upcoming earnings in the technology sector <PUNC>
+the dow industrials dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components advancing <PUNC>
+the dow earlier topped its all-time closing high of <NUM> and approached its all-time intraday high of <NUM> <PUNC>
+the blue-chip average was lifted by a <NUM> percent gain in the shares of coca cola ko and a <NUM> percent advance for johnson & johnson jnj <PUNC>
+but with the stock market now having made up most of its losses since its sharp downturn in late february - and with the dow industrials in record territory investors are now looking for earnings and outlooks to provide direction <PUNC>
+the broad technology sector remained supported ahead of key earnings from the likes of international business machines corp. ibm <COMMA> intel corp. intc and yahoo inc. yhoo <COMMA> all due to report after the close <PUNC>
+on monday stocks staged a vigorous rally <COMMA> with the dow jones industrials rising by more than <NUM> points <COMMA> in the wake of upbeat earnings from citigroup inc. c and a dollar <NUM> billion leveraged buyout of sallie mae parent company slm corp. slm <PUNC>
+<PAR>

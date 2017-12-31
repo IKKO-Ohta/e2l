@@ -1,0 +1,4 @@
+the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
+on wednesday <COMMA> u.s. stocks drifted lower in light pre-holiday trading <PUNC>
+the dow industrials shed <NUM> points <COMMA> the nasdaq composite slipped <NUM> points and the s&p <NUM> eased <NUM> points <PUNC>
+<PAR>

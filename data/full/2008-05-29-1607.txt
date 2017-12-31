@@ -1,0 +1,4 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <COMMA> led by j.p. morgan chase jpm <COMMA> up <NUM> percent <COMMA> and citigroup inc. c <COMMA> up <NUM> percent <PUNC>
+alcoa inc. aa and intel corp. intc fronted the blue-chip declines <COMMA> with alcoa down <NUM> percent and intel off <NUM> percent <PUNC>
+shares of countrywide financial corp. cfc rose after the lender set a june <NUM> date for a shareholders meeting to approve its sale to bank of america corp. bac <PUNC>
+<PAR>

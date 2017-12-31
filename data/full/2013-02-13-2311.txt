@@ -1,0 +1,10 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> below its five-year closing high of <NUM> on tuesday <PUNC>
+shares of fast-food giant mcdonald s corp. mcd were a significant drag on the price-weighted index <PUNC>
+shares dropped <NUM> percent to dollar <NUM> <PUNC>
+while there was some speculation that a call from president barack obama to raise the federal minimum wage to dollar <NUM> an hour from dollar <NUM> weighed on mcdonald s shares <COMMA> analysts generally dismissed it as being a factor <PUNC>
+general electric co. ge was the biggest gainer on the dow <COMMA> with shares up <NUM> percent to dollar <NUM> <COMMA> following an announcement it would sell the rest of its stake in nbcuniversal for dollar <NUM> billion to comcast corp. cmcsa <PUNC>
+comcast <COMMA> which closed up <NUM> percent <COMMA> and ge were among the top gainers in the s&p <NUM> <PUNC>
+the intraday high-low spread on the dow over the previous <NUM> trading days is the tightest it has been in <NUM> years <COMMA> according to bespoke investment group <PUNC>
+over the past <NUM> days <COMMA> the difference between the dow s intraday high and low has been <NUM> percent <COMMA> the lowest spread since december <NUM> <COMMA> bespoke said <PUNC>
+the spread on the dow wednesday was <NUM> percent <PUNC>
+<PAR>

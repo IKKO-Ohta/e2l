@@ -1,0 +1,12 @@
+the dow jones industrial average dji stood at <NUM> at the close of trading on friday <COMMA> marking a <NUM> percent gain for the year <PUNC>
+general motors corp. gm <COMMA> which lost half of its value in <NUM> as investors feared the automobile giant might go bankrupt <COMMA> was among the best performing blue-chip stock in <NUM> <COMMA> rising <NUM> percent <PUNC>
+at&t corp. t was the second-best performing stock on the dow <COMMA> gaining <NUM> percent <COMMA> as investors applauded its plans to merge with bellsouth corp. bls <PUNC>
+among the dow s laggards in <NUM> <COMMA> intel corp. intc fell the hardest <COMMA> losing <NUM> percent of its value <PUNC>
+home depot inc. hd was the second-worst performer <COMMA> losing a mere <NUM> percent <COMMA> amid concerns about a slowing housing market <PUNC>
+for the day <COMMA> the dow lost <NUM> points to <NUM> <PUNC>
+the s&p fell <NUM> points to <NUM> <COMMA> while the nasdaq dropped <NUM> points to <NUM> <PUNC>
+besides at&t <COMMA> wal-mart stores inc. wmt also lent support to the dow <COMMA> rising <NUM> percent <PUNC>
+the stock has dropped <NUM> percent since late october on weaker sales and concerns about slower overall economic growth <PUNC>
+on thursday <COMMA> stocks closed mildly lower after the dow industrials touched an intraday record <PUNC>
+news that existing home sales rose slightly in november helped relieve concerns that a fast-falling housing will derail economic growth in the new year <COMMA> according to malone <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell to a session low of <NUM> before trimming losses <PUNC>
+the benchmark index was last down <NUM> points at <NUM> <PUNC>
+shares in boston scientific corp. bsx fell as much as <NUM> percent to dollar <NUM> before staging a recovery <COMMA> after the medical-equipment maker came in with a late bid to acquire guidant corp. gdt <COMMA> in an attempt to swoop in and grab the company from johnson & johnson <PUNC>
+jnj <PUNC>
+verizon communications vz rose <NUM> cents to dollar <NUM> after the telecom operator said it will sell or spin off its directories unit valued at more than dollar <NUM> billion <PUNC>
+<PAR>

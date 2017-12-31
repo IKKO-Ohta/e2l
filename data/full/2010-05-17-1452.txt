@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components tallying losses <COMMA> led by home depot inc. hd <COMMA> off <NUM> percent <COMMA> one day before the largest home-improvement retailer reports quarterly results <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> after surging to <NUM> after the sentiment data <PUNC>
+within the dow <COMMA> exxon mobil corp. xom was up <NUM> percent <COMMA> buoyed by the resurgent strength in crude-oil prices <PUNC>
+alcoa inc. aa rallied for a second straight session <COMMA> up <NUM> percent <COMMA> amid broad strength in the metals markets <PUNC>
+<PAR>

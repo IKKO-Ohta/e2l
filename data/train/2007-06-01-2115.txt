@@ -1,0 +1,11 @@
+u.s. stocks rallied friday <COMMA> pushing the s&p <NUM> to its third record close in a row and the dow jones industrials to new high water marks <COMMA> after reports showed that more jobs than expected were created in may and inflation fell into the federal reserve s comfort zone <PUNC>
+the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> after setting an intraday record of <NUM> <PUNC>
+the dow posted a weekly gain of <NUM> percent <PUNC>
+among dow components <COMMA> wal-mart stores inc. wmt closed almost <NUM> percent higher at dollar <NUM> as investors reacted positively to a new dollar <NUM> billion stock buyback program and news that the company will slow its opening of stores <PUNC>
+general motors gm gained <NUM> percent to dollar <NUM> after releasing its may sales tallies <PUNC>
+shares of dell dell closed <NUM> percent higher at dollar <NUM> <PUNC>
+on thursday the company reported a slight drop in quarterly earnings and said it would slash <NUM> percent of its workforce <COMMA> or about <NUM> jobs <PUNC>
+the company is attempting to recoup some of the market share it has lost to the likes of rival hewlett-packard co. hpq <PUNC>
+among dow components <COMMA> 3m mmm threw off morning weakness to end up <NUM> percent at dollar <NUM> <PUNC>
+the company has acquired the manufacturing and marketing rights to the peridex brand periodontal rinse product from zila inc. for dollar <NUM> million in cash <PUNC>
+<PAR>

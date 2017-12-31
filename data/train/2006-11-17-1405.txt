@@ -1,0 +1,5 @@
+futures for the dow jones industrial average dji were down points at <NUM> after the data <PUNC>
+dow-component hewlett-packard co. hpq will be in focus after the scandal-tainted computer-market late on thursday posted earnings that topped analysts estimates <PUNC>
+in other news <COMMA> johnson & johnson jnj said it agreed to buy conor medsystems conr <COMMA> a developer of drug-eluting stents <COMMA> for dollar <NUM> a share <COMMA> or dollar <NUM> billion <PUNC>
+on thursday <COMMA> stocks closed higher <COMMA> with the dow finishing at another record high level <COMMA> as tame consumer-price inflation and a big drop in crude oil prices helped offset bad news from technology bellwethers applied materials inc. amat and dell inc. dell <PUNC>
+<PAR>

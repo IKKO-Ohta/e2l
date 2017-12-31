@@ -1,0 +1,8 @@
+the s&p <NUM> index and the dow jones industrial average are on pace for the biggest weekly gain in nearly a year <COMMA> with each of the benchmarks up about <NUM> percent <PUNC>
+in a quiet session following data on u.s. wholesale inventories that sent mixed messages <COMMA> investors turned their focus to expectations for what second-quarter reporting season <COMMA> which kicks off monday with results from alcoa aa <COMMA> will show <PUNC>
+the dow industrials dji climbed nearly <NUM> percent this week <COMMA> thanks in part to investors hopes that the market s recent drop to <NUM> lows may have exaggerated effects anticipated on corporate earnings from the slumping euro and slower global growth <PUNC>
+however <COMMA> investors are hesitant to push stocks up much more before the reports begin <PUNC>
+the dow edged up <NUM> points to <NUM> in recent trading <PUNC>
+among individual blue chips <COMMA> alcoa rose <NUM> percent ahead of the aluminum giant s monday report <COMMA> while caterpillar cat was also strong <COMMA> up <NUM> percent <COMMA> and chevron cvx climbed <NUM> percent as crude-oil futures climbed to nearly dollar <NUM> a barrel <PUNC>
+offsetting the dow s gainers <COMMA> johnson & johnson jnj fell <NUM> percent <COMMA> pfizer pfe slipped <NUM> percent and procter & gamble pg declined <NUM> percent <PUNC>
+<PAR>

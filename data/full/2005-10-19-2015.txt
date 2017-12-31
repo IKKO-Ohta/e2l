@@ -1,0 +1,9 @@
+the dow jones industrial average dji is set to book its one-day performance since september <NUM> <PUNC>
+semiconductor stocks sox remained under pressure after sector giant intel corp. intc posted solid third-quarter earnings but offered a lackluster fourth-quarter revenue outlook <PUNC>
+the company <COMMA> a dow component <COMMA> fell as much as <NUM> percent in early trading to sit at a six-month low intraday of dollar <NUM> <PUNC>
+j.p. morgan jpm <COMMA> another dow component <COMMA> saw its shares rise as much as <NUM> cents to dollar <NUM> <COMMA> helping limit the blue chips downside <PUNC>
+the investment bank posted a forecast-beating <NUM> percent rise in adjusted earnings and announced that jamie dimon will take over as chief executive officer of the company six months earlier than previously scheduled <PUNC>
+shares of honeywell international inc. hon fell as much as <NUM> percent <COMMA> touching their lowest level in nearly a year <COMMA> after the company posted quarterly revenue that fell short of wall street expectations <PUNC>
+altria mo shares gained as much as a dollar <NUM> to dollar <NUM> as the company s philip morris usa tobacco business saw its retail share climb above <NUM> percent <PUNC>
+outside the dow <COMMA> bank of america bac booked a <NUM> percent rise in third-quarter earnings on increases in its credit-card and mortgage-banking businesses <PUNC>
+<PAR>

@@ -1,0 +1,12 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> off an intraday high of <NUM> <PUNC>
+within the dow industrials <COMMA> general motors corp. gm fell <NUM> percent to dollar <NUM> as the world s largest car maker reported a <NUM> percent fall off in august u.s. sales <COMMA> with declines spread evenly among cars and trucks <PUNC>
+in addition <COMMA> nervousness over the details of a possible gm bailout deal for delphi <COMMA> the auto-parts group it spun off weighed further <PUNC>
+delphi shares were off more than <NUM> percent <PUNC>
+mcdonald s corp mcd was down <NUM> percent at dollar <NUM> on fears that higher oil prices will curb americans appetite for eating out as they pay for more expensive gasoline <PUNC>
+exxon mobil corp. xom was the biggest percentage gainer <COMMA> up nearly <NUM> percent at dollar <NUM> as the oil giant continues to benefit from the high price of oil and gasoline <PUNC>
+in a separate development <COMMA> the energy department said the company would receive a loan of <NUM> million barrels of crude oil from the nation s strategic petroleum reserve <PUNC>
+caterpillar inc cat was up <NUM> percent <COMMA> gaining for a fourth session <COMMA> as investors anticipated extra business for the maker of heavy equipment and machinery as a result of the hurricane <PUNC>
+providing possibly the most anticipated number <COMMA> wal-mart stores inc. wmt reported a <NUM> percent rise in same-stores sales for august <COMMA> but warned hurricane katrina and higher oil prices could pressure september sales <PUNC>
+shares of wal-mart edged up <NUM> cents to dollar <NUM> <PUNC>
+among the sector s key players <COMMA> intel intc was down <NUM> percent <COMMA> texas instruments tsn was up <NUM> percent while applied materials inc. amat dropped <NUM> percent <PUNC>
+<PAR>

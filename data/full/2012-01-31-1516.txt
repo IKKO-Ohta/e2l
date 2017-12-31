@@ -1,0 +1,3 @@
+the conference board reported its gauge of consumer confidence fell in january in a partial reversal of substantial gains made the prior two months <PUNC>
+following the data <COMMA> the dow jones industrial average dji fell more than <NUM> point at <NUM> <PUNC>
+<PAR>

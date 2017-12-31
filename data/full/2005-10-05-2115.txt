@@ -1,0 +1,6 @@
+new york dow jones u.s. stocks ended sharply lower wednesday <COMMA> with the dow jones industrial average and the s&p <NUM> index tumbling to their worst levels in three months <COMMA> as concern about inflation <COMMA> the prospect of higher interest rates and slowing economic growth took the shine off a fresh pullback in crude-oil prices <PUNC>
+the dow industrials dji closed down <NUM> points <COMMA> or <NUM> percent at <NUM> <PUNC>
+the benchmark index has now fallen three days in a row <COMMA> with wednesday s session marking its biggest one-day decline since june <NUM> <PUNC>
+american express axp was the only dow component to end the session with a gain <PUNC>
+the auto sector was in focus as general motors corp gm announced it was selling its entire equity stake in fuji heavy industries ltd. <COMMA> the owner of the subaru car brand <COMMA> to refocus its asia-pacific strategy toward high-growth markets <PUNC>
+<PAR>

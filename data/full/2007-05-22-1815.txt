@@ -1,0 +1,4 @@
+the dow jones industrial average dji gyrated between positive and negative territory <COMMA> and was last up <NUM> points at <NUM> <COMMA> led by the likes of alcoa inc. aa <COMMA> caterpillar inc. cat <COMMA> and merck & co. inc. mrk <PUNC>
+meanwhile <COMMA> there was weakness in the likes of home depot inc. hd <COMMA> honeywell international inc. hon <COMMA> jp morgan chase & co. jpm and microsoft corp. msft <PUNC>
+intel corp. intc rose <NUM> percent after it agreed to sell its money-losing nor flash chip business into a new partnership with stmicroelectronics stm and francisco partners <PUNC>
+<PAR>

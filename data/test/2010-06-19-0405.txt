@@ -1,0 +1,4 @@
+on friday <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> helping it to a second straight week of firm gains <PUNC>
+the blue chip average rose <NUM> percent for the week following a <NUM> percent gain last week <PUNC>
+a rally on tuesday had both the s&p <NUM> and the dow jones industrial average back above the 200-day moving average for the first time since may <NUM> <COMMA> a positive indicator for market technicians <PUNC>
+<PAR>

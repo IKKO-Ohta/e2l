@@ -1,0 +1,7 @@
+the latest move lower pushed the dow jones industrial average into bear-market territory <COMMA> with the blue-chip index having now lost over <NUM> percent from its october <NUM> high of <NUM> <PUNC>
+in recention action <COMMA> the dow dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <COMMA> led lower by shares of general motors corp. gm <COMMA> home depot inc. gm <COMMA> and caterpillar inc. cat <PUNC>
+the dow industrials gained <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> tuesday <PUNC>
+that left the blue-chip benchmark just short of official bear-market territory <COMMA> defined as a <NUM> percent from stocks highs set last fall <PUNC>
+specifically <COMMA> the dow has declined <NUM> percent from its oct. <NUM> high of <NUM> <PUNC>
+the dow lost <NUM> percent in june <COMMA> <NUM> percent in the second quarter and <NUM> percent for the year to date <PUNC>
+<PAR>

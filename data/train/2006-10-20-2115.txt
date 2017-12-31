@@ -1,0 +1,12 @@
+u.s. stocks ended mixed friday after a profit warning from caterpillar inc. wrapped up an otherwise largely positive week for quarterly earnings reports <COMMA> with the dow jones industrial average closing out the session above <NUM> <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the benchmark index struck a fresh all-time high of <NUM> on wednesday <PUNC>
+caterpillar shares cat fell <NUM> percent to dollar <NUM> <COMMA> its lowest close since jan. <NUM> <COMMA> after it said a deteriorating housing market and lower sales would combine to cut into its earnings by the end of the year and in <NUM> <PUNC>
+but fellow dow components 3m co. mmm rose <NUM> percent and merck mrk gained <NUM> percent after their earnings reports <PUNC>
+wal-mart stores inc. wmt rose <NUM> percent to dollar <NUM> ahead of its annual analysts meeting next week <PUNC>
+coca-cola ko <COMMA> intel corp. intc and mcdonald s mcd were other notable advancers <PUNC>
+on the week <COMMA> the dow rose <NUM> percent while the s&p <NUM> gained <NUM> percent <PUNC>
+the nasdaq composite logged a weekly loss of <NUM> percent <PUNC>
+merck mrk rose after the drug maker s earnings managed to top analyst expectations even as the company had to deal with the loss of market exclusivity for its blockbuster cholesterol-lowering drug zocor and additions to its legal defense fund for vioxx <COMMA> its controversial pain treatment <PUNC>
+fellow dow component 3m co. mmm gained after the diversified manufacturer s earnings beat expectations <COMMA> helped by improved growth in its liquid-crystal-display-film business <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the future contract for the dow jones industrial average was up <NUM> point at <NUM> <PUNC>
+futures contracts were up <NUM> points at <NUM> for the s&p <NUM> <COMMA> and up <NUM> at <NUM> for the nasdaq <NUM> <PUNC>
+tuesday is one of the busiest days of the second-quarter earnings season <COMMA> featuring premarket reports from international paper ip and dow components verizon communications vz and dupont dd <PUNC>
+<PAR>

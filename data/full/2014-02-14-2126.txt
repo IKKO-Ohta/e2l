@@ -1,0 +1,7 @@
+the s&p <NUM> index spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> and gained <NUM> percent over the week <PUNC>
+the dow jones industrial average dji closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> and recorded a <NUM> percent weekly gain <PUNC>
+all but three dow members gained on friday <PUNC>
+the nasdaq composite rixf rose for the seventh consecutive session after a volatile start <COMMA> adding <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the tech-heavy index gained <NUM> percent over the week <PUNC>
+read the recap of our stock market live blog <PUNC>
+<PAR>

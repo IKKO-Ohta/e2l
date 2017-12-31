@@ -1,0 +1,2 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with all <NUM> of its components tallying gains <COMMA> led by boeing ba <COMMA> up <NUM> percent and caterpillar inc. cat <COMMA> up <NUM> percent <PUNC>
+<PAR>

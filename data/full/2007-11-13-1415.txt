@@ -1,0 +1,5 @@
+stocks were due for a reversal after a volatile session monday <COMMA> which had the dow jones industrial average moving up more than <NUM> points before closing below <NUM> for the first time since the middle of august <PUNC>
+stock futures tallied solid gains <COMMA> with those for the dow dji rising <NUM> points to <NUM> <PUNC>
+home depot inc. hd reported third-quarter income dropped an expected <NUM> percent amid ongoing weakness in the housing market <PUNC>
+the nation s biggest home improvement retailer also cut its forecast for the year <PUNC>
+<PAR>

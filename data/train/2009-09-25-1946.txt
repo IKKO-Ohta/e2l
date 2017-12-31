@@ -1,0 +1,4 @@
+on wall street <COMMA> the major indexes were headed to mild weekly declines of between <NUM> percent and <NUM> percent <PUNC>
+with <NUM> minutes of trading to go <COMMA> the dow jones industrial average dji stood at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent the s&p <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the tech-rich nasdaq composite index rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <PUNC>
+<PAR>

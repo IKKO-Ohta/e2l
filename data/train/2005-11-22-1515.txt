@@ -1,0 +1,5 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+dow component general motors gm fell <NUM> percent to dollar <NUM> <COMMA> after suffering sharp falls on monday after it announced a new set of radical restructuring actions <PUNC>
+micron technology mu was <NUM> percent higher at dollar <NUM> <PUNC>
+merrill lynch upgraded the share to a buy rating <COMMA> noting a possible venture with intel corp. intc <PUNC>
+<PAR>

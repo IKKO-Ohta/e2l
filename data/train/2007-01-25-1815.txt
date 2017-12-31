@@ -1,0 +1,5 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
+the dow was weighed down by the likes of american international group inc. aig <COMMA> boeing co. ba and exxon mobil corp. xom <PUNC>
+among the few gaining blue-chips <COMMA> at&t t rose <NUM> percent after its earnings topped analysts forecasts.but microsoft corp. msft fell fractionally ahead of its earnings <COMMA> expected after the close of trading <PUNC>
+still <COMMA> investors trimmed the broad-based gains seen on wednesday <COMMA> which had led the dow industrials to a new record close and the s&p <NUM> to finish at its best level in more than <NUM> years <COMMA> after upbeat news from yahoo inc. yhoo and sun microsystems inc. sunw <PUNC>
+<PAR>

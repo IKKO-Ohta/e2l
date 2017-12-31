@@ -1,0 +1,9 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> retreating after the morning vigorous climb <PUNC>
+the dow had previously been up more than <NUM> points <PUNC>
+the dow s worst performer was bank of america corp. bac <COMMA> which slid <NUM> percent as investors continued to worry over banks liabilities connected to investigations into foreclosure practices <PUNC>
+caterpillar <COMMA> inc. cat shares were also weak <COMMA> sliding <NUM> percent <COMMA> despite a surge in its third-quarter profit <PUNC>
+caterpillar cautioned that the world s developed economies won t grow enough next year to alleviate persistently high unemployment levels.read more on caterpillar <PUNC>
+at&t corp. t lost <NUM> percent <PUNC>
+third-quarter earnings nearly quadrupled and the company added a record number of iphone subscribers in the third quarter <COMMA> but had to pay high subsidies to apple <COMMA> which cut into the carrier s profit <PUNC>
+verizon communications shed <NUM> percent <PUNC>
+<PAR>

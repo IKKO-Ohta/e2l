@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <COMMA> led by pharmaceutical giant merck & co. inc. mrk <COMMA> which was up <NUM> percent <PUNC>
+financial services giant american international group inc. aig led the dow s losses <PUNC>
+its stock was down <NUM> percent <PUNC>
+also dipping was the stock of alcoa inc. aa <COMMA> which was off <NUM> percent <PUNC>
+on tuesday u.s. stocks rallied in the morning <COMMA> but took heavy afternoon losses <COMMA> with the dow jones industrials tumbling <NUM> points <COMMA> the nasdaq composite losing <NUM> points and the s&p <NUM> falling <NUM> points <PUNC>
+<PAR>

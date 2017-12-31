@@ -1,0 +1,5 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> in early trading <PUNC>
+leading to the upside <COMMA> caterpillar inc. cat jumped <NUM> percent <COMMA> while american express axp rose <NUM> percent and alcoa aa advanced <NUM> percent <PUNC>
+dow components with large exposures to the consumer weakened <COMMA> with hewlett-packard hpq down <NUM> percent and kraft foods kft off <NUM> percent <PUNC>
+in addition <COMMA> chevron cvx fell <NUM> percent on lower crude prices <PUNC>
+<PAR>

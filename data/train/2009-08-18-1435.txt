@@ -1,0 +1,4 @@
+this was a too far <COMMA> too fast call <COMMA> not a change in the longer-term outlook <COMMA> said marc pado <COMMA> u.s. market strategist at miller tabak <COMMA> of the stock market s recent moves <COMMA> which on monday had the dow jones industrial average dji capping its biggest two-day point and percent drop since mid june <PUNC>
+after shedding <NUM> points on monday <COMMA> the dow jones industrial average dji was lately up <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx added <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf climbed <NUM> points to <NUM> <PUNC>
+<PAR>

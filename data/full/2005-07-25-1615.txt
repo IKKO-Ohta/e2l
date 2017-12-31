@@ -1,0 +1,4 @@
+the dow jones industrial average dji <COMMA> which has changed direction several times since the opening <COMMA> last was up <NUM> points at <NUM> <PUNC>
+the nasdaq composite rixf was down <NUM> points at <NUM> <PUNC>
+there will be more earnings news from american express axp around midday and from texas instruments txn after the close of trade <PUNC>
+<PAR>

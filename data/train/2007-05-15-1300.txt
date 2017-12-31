@@ -1,0 +1,11 @@
+futures for the dow jones industrial average dji were up <NUM> points at <NUM> <COMMA> while those for the s&p <NUM> index spx gained <NUM> points to <NUM> <PUNC>
+among blue chips <COMMA> home depot hd lost <NUM> percent in electronic trade <PUNC>
+it posted a <NUM> percent first-quarter profit decline coming in below expectations and said annual earnings would be at the low end of guidance <PUNC>
+home depot blamed a challenging housing market and erratic weather <PUNC>
+wal-mart stores wmt rebounded from early weakness <PUNC>
+it recently traded up <NUM> percent before the open <PUNC>
+the retail giant s first-quarter earnings met lowered forecasts but its second-quarter outlook came at the lower end of wall street expectations <PUNC>
+american international group aig agreed to pay dollar <NUM> million <COMMA> or dollar <NUM> a share <COMMA> for the roughly <NUM> percent it doesn t already own in 21st century insurance group tw <PUNC>
+on monday <COMMA> the dow industrials gained while the rest of the market struggled <PUNC>
+news that daimlerchrysler ag dcx agreed to sell <NUM> percent of chrysler to a private equity firm had helped buoy the auto sector <COMMA> including rivals general motors corp. gm and ford motor co. f <PUNC>
+<PAR>

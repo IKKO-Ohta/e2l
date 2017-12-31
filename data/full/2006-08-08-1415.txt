@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+dow component mcdonald s corp. mcd was <NUM> percent lower at dollar <NUM> <PUNC>
+the fast food empire reported a <NUM> percent increase in july same-store sales <COMMA> but u.s. results were light last month <PUNC>
+<PAR>

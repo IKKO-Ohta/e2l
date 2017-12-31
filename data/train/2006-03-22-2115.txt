@@ -1,0 +1,6 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+gm gm rose <NUM> percent to stand at dollar <NUM> <COMMA> after the carmaker <COMMA> the uaw and delphi corp. dphiq agreed on a plan to buy out <NUM> hourly workers with a maximum of dollar <NUM> in payments each <PUNC>
+microsoft corp. msft moved down <NUM> percent at dollar <NUM> in midday trading <PUNC>
+late tuesday <COMMA> the company said the next version of its windows operating system won t be available to consumers until january <COMMA> thereby missing the key holiday sales season <PUNC>
+the delay is expected to have some negative effects on the nation s main personal computer companies such as dell dell <COMMA> hewlett-packard co. hpq and gateway inc. gtw <COMMA> according to analysts <PUNC>
+<PAR>

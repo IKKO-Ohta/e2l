@@ -1,0 +1,13 @@
+the dow industrials dji were up <NUM> points at <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+we re still getting the flight to quality that we ve been seeing the last couple of weeks <COMMA> said paul mendelsohn <COMMA> chief investment strategist at windham financial services <COMMA> explaining the outperformance of the dow versus the other major indexes <PUNC>
+investors are still moving to large-cap <COMMA> highly liquid stocks to protect their positions <PUNC>
+it is not a good sign for the confidence that investors have in the market right now <PUNC>
+u.s. stocks have been selling off since may <NUM> when the federal reserve last raised interest rates and left the door open for further increases <PUNC>
+since then <COMMA> the dow has fallen <NUM> percent <PUNC> the nasdaq composite has dropped <NUM> percent <COMMA> while the s&p <NUM> is off <NUM> percent <PUNC>
+a retreat of more than <NUM> percent is widely viewed as a correction <PUNC>
+covello also upgraded dow component intel intc to outperform from in line <COMMA> and recommended buying the stock after an imminent earnings disappointment given that margins have likely bottomed <COMMA> market share is expected to gain and valuation is attractive <PUNC>
+the stock rallied <NUM> percent <PUNC>
+boeing co. shares ba surged <NUM> percent to dollar <NUM> after goldman upgraded the company to in line from underperform <COMMA> citing an increased outlook for aircraft deliveries <PUNC>
+the broker also lifted its earnings estimates on the aerospace giant <PUNC>
+<PAR>

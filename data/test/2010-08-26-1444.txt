@@ -1,0 +1,6 @@
+the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> as a bigger-than-expected decline in initial unemployment claims dented investors anxiety about the recent stream of weak economic data <PUNC>
+boeing co. ba led the dow higher <COMMA> rising <NUM> percent after the aircraft maker said it plans to double the number of employees at its parts factory in northern china to keep up with demand <COMMA> according to state media <PUNC>
+a <NUM> percent decline in shares of wal-mart stores inc. wmt weighed on the index <PUNC>
+shares of hewlett-packard co. hpq strengthened after data-storage company 3par inc. par accepted an increased acquisition offer from dell inc. dell <PUNC>
+h-p rose <NUM> percent <COMMA> while 3par slid <NUM> percent and dell edged up <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+off more than <NUM> points earlier in the session <COMMA> the dow jones industrial average dji ended down <NUM> points at <NUM> <PUNC>
+the first of the largest u.s. banks to report <COMMA> j.p. morgan jpm said it earned dollar <NUM> billion in the second quarter <COMMA> which was better than wall street anticipated <PUNC>
+chief executive jamie dimon downplayed optimism <COMMA> calling returns in the bank s consumer-lending business unacceptable <PUNC>
+bank of america bac fell <NUM> percent and citigroup c lost <NUM> percent ahead of their results on friday <PUNC>
+<PAR>

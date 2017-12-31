@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+dupont dd <COMMA> whose results met expectations <COMMA> fell <NUM> percent and weighed heavily on the dow.likewise <COMMA> johnson & johnson jnj <COMMA> which posted better than expected results <COMMA> fell nearly <NUM> percent <PUNC>
+but shares of united technologies utx were up <NUM> percent <COMMA> posting the best gains among blue chips <COMMA> after its results came ahead of expectations <PUNC>
+<PAR>

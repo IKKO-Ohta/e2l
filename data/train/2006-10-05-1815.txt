@@ -1,0 +1,13 @@
+u.s. stocks traded mixed thursday as the nasdaq composite managed a modest gain but the dow jones industrial average struggled to extend its record-breaking run against a background of higher oil prices and a pullback in shares of wal-mart stores inc <PUNC>
+the dow jones industrial average dji was down <NUM> points at <NUM> after ending the prior session at an all-time high <PUNC>
+home depot inc. hd joined wal-mart in pressuring the blue-chip index <PUNC>
+at&t t and general motors corp. gm were other dow stocks moving lower <PUNC>
+but gains for caterpillar inc. cat <COMMA> alcoa inc. aa exxon mobil corp. xom and altria group inc. mo were helping put a floor under declines <PUNC>
+by sector <COMMA> energy xoi and oil services stocks osxx rallied on the jump in crude <PUNC>
+exxon mobil corp. xom was one of the biggest percentage gainers on the dow industrials <PUNC>
+conocophillips cop <COMMA> occidental petroleum oxy and hess corp. hes were other notable gainers <PUNC>
+discount retailers <COMMA> however <COMMA> struggled in september <PUNC>
+shares in wal-mart stores inc. wmt tumbled <NUM> percent to dollar <NUM> as a prior warning from the retailer that its sales would come in weaker than expected did little to take the sting out of the announcement <PUNC>
+sales in september at stores open at least a year rose just <NUM> percent <COMMA> far short of an analyst average estimate of a rise of <NUM> percent <COMMA> as compiled by thomson first call <PUNC>
+hewlett-packard co. hpq was off <NUM> percent at dollar <NUM> after california attorney general bill lockyer filed criminal charges against former chairwoman patricia dunn and four others tied to the company s investigation into boardroom leaks <PUNC>
+<PAR>

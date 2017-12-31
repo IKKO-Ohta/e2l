@@ -1,0 +1,9 @@
+the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> after falling more than <NUM> points on tuesday <PUNC>
+the car sector was in focus as the nation s big three automakers general motors corp. gm <COMMA> ford motor co. f and daimlerchrysler dcx as well as their japanese rivals released sales figures for february <PUNC>
+gm was one of only a handful of decliners on the dow <COMMA> closing down <NUM> percent at dollar <NUM> after reporting a <NUM> percent drop in february vehicle sales over year-ago levels <PUNC>
+shares in pfizer inc. pfe erased early gains to close <NUM> cents higher at dollar <NUM> after a study showing its celebrex arthritis drug nearly doubles the risk of heart attacks <PUNC>
+intel corp. intc weathered some cautious broker comment <COMMA> closing up <NUM> cents at dollar <NUM> amid a broad rally in the chip sector <PUNC>
+j.p. morgan trimmed its <NUM> and <NUM> earnings estimates on the chipmaker <PUNC>
+the bank said checks show the company is tracking below its revenue outlook of dollar <NUM> billion after losing market share to advanced micro devices inc. amd <PUNC>
+broker stifel nicolaus also cuts its price target on intel to dollar <NUM> <PUNC>
+<PAR>

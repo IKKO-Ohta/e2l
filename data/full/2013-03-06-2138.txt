@@ -1,0 +1,3 @@
+a day after closing at an all-time high <COMMA> the dow jones industrial average dji furthered its gains <COMMA> rising as much as <NUM> points and ending up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+read a commentary piece by the charles schwab ceo on whether it s time to get into the market or get out <PUNC>
+<PAR>

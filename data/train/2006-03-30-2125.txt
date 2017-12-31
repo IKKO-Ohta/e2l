@@ -1,0 +1,7 @@
+u.s. stocks had a mixed close thursday <COMMA> with the dow jones industrial average under pressure although the nasdaq composite struck a fresh 5-year high <COMMA> after an attempt at a rally was felled by rising treasury yields <PUNC>
+the dow industrials dji closed down <NUM> points at <NUM> after climbing as high as <NUM> earlier in the session <PUNC>
+shares in general electric co. ge rose <NUM> percent to dollar <NUM> after morgan stanley said it believes the stock could double in three years <COMMA> citing expected improvements in margins and returns on invested capital <PUNC>
+the broker also lifted its price target on the conglomerate by dollar <NUM> to dollar <NUM> <PUNC>
+general motors corp. gm closed <NUM> percent lower at dollar <NUM> <PUNC>
+the troubled car maker is discussing the sale of its stake in isuzu motors that is worth about dollar <NUM> million <PUNC>
+<PAR>

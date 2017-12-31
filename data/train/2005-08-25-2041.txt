@@ -1,0 +1,11 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+over the last <NUM> years <COMMA> the nasdaq has fallen <COMMA> on average <COMMA> <NUM> percent in september <COMMA> according to the stock trader s almanac <PUNC>
+the dow has shed <NUM> percent <COMMA> and the s&p has slipped <NUM> percent <PUNC>
+among the stocks in the dow <COMMA> shares of johnson & johnson jnj rose <NUM> percent to dollar <NUM> after the european commission approved conditions for its acquisition of guidant corp <PUNC>
+general motors gm fell <NUM> percent to dollar <NUM> after moody s downgraded the automaker s debt to below junk status <PUNC>
+ford motor co. f <COMMA> whose debt rating also has been in the junk category <COMMA> was down <NUM> percent <PUNC>
+general electric co. ge said it agreed to pay dollar <NUM> billion for a <NUM> percent stake in turkish bank garanti bank as <PUNC>
+the move is intended to boost g.e <PUNC>
+consumer-finance offerings in emerging markets <PUNC>
+ge shares slipped <NUM> cents at dollar <NUM> <PUNC>
+<PAR>

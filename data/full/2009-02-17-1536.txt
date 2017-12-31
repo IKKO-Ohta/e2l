@@ -1,0 +1,2 @@
+down for a third consecutive trading session and sliding nearly <NUM> points early tuesday <COMMA> the dow jones industrial average dji was more recently off <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> with all but one of its <NUM> components wal-mart posting losses <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its biggest one-day point decline since may <NUM> <PUNC>
+airline stocks took a big hit after the jet crash news <PUNC>
+in corporate news <COMMA> microsoft corp. msft shares rallied <NUM> percent after the tech company said it would cut <NUM> jobs over the next year in a bid to simplify operations and integrate its nokia devices and services business <PUNC>
+it also said it would take a restructuring charge between dollar <NUM> billion and dollar <NUM> billion over the next year <PUNC>
+<PAR>

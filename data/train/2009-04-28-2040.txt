@@ -1,0 +1,12 @@
+at monday s close <COMMA> the dow jones industrial average was up nearly <NUM> percent for the nearly completed month <COMMA> leaving the blue-chip index down almost <NUM> percent in <NUM> <COMMA> according to a preliminary report released on tuesday by dow jones indexes <PUNC>
+the dow jones u.s. financials index gained the most in april <COMMA> up <NUM> percent <COMMA> while its u.s. health care index posted the largest loss <COMMA> off almost <NUM> percent <PUNC>
+on tuesday <COMMA> health-care shares gained for a second consecutive day <COMMA> while the broad market finished lower <COMMA> led by industrials and financials <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> index spx shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the technology-laden nasdaq composite rixf slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+in europe <COMMA> the dow jones stoxx <NUM> index was up <NUM> percent for april as of monday s close <COMMA> leaving that gauge off <NUM> percent so far this year <PUNC>
+the dow jones stoxx <NUM> automobiles and parts index tallied the largest sector gain for the month <COMMA> up <NUM> percent <COMMA> while the dow jones stoxx <NUM> health care index posted the sharpest decline <COMMA> off almost <NUM> percent <COMMA> according to dow jones preliminary report <PUNC>
+<PAR>
+in asia <COMMA> the dow jones asia/pacific consumer goods index rose by the largest percentage <COMMA> up <NUM> percent for april <COMMA> while the dow jones asia/pacific utilities index tallied the smallest rise <COMMA> up <NUM> percent <COMMA> dow jones said <PUNC>
+<PAR>
+globally <COMMA> the dow jones world automobiles and parts titans index performed best <COMMA> up <NUM> percent for the month <COMMA> while the dow jones world health care titans index took the biggest hit <COMMA> retreating <NUM> percent <PUNC>
+<PAR>

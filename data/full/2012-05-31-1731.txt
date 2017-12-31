@@ -1,0 +1,4 @@
+u.s. stocks cleared thursday losses <COMMA> with the dow jones industrial average still on track for its first monthly loss in eight <COMMA> as wall street jumped at a reported rescue plan for spain <PUNC>
+contingency plans continue <COMMA> said peter boockvar <COMMA> equity analyst at miller tabak <COMMA> of the dow jones report that said discussions were taking place at the international monetary fund <COMMA> given spain s struggle to raise the funds needed to bailout lender bankia <PUNC>
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> off <NUM> percent from the end of april <COMMA> and on track for its worst month in two years <PUNC>
+<PAR>

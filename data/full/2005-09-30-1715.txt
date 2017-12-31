@@ -1,0 +1,9 @@
+new york dow jones - u.s. stocks were mixed but within tight ranges at midday friday <COMMA> with the dow jones industrial average on course to post its first gain for the month of september in seven years <PUNC>
+the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
+if the blue chip index avoids a heavy selloff in the afternoon it should also post its first-quarterly gain of the year <COMMA> rising <NUM> percent from the second quarter <PUNC>
+dow component boeing ba was up <NUM> cents at dollar <NUM> <COMMA> after the company s machinists union approved a new three-year contract thursday <PUNC>
+the move ends a strike and restarts the global aerospace giant s jetliner production after almost a month of inactivity <PUNC>
+tobacco stocks were in focus after canada s supreme court ruled that the county s provinces may sue the industry for smoking-related health risks <PUNC>
+altria mo was up <NUM> cent at dollar <NUM> <PUNC>
+in foreign markets <COMMA> shares of canada s rothmans inc fell <COMMA> while the uk s british-american tobacco managed to rise <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the blue-chip index gained <NUM> percent over the past five trading days <PUNC>
+shares of nike inc. nke were down <NUM> percent after the company late thursday reported fiscal third-quarter adjusted profit above analysts forecasts <PUNC>
+sales increased <NUM> percent <COMMA> but the sneaker giant warned that a stronger dollar will remain a drag on earnings <PUNC>
+<PAR>

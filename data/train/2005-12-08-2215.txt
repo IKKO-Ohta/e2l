@@ -1,0 +1,9 @@
+new york dow jones u.s. stocks closed lower thursday <COMMA> undone by worries about weak energy supplies and unusually cold winter weather <COMMA> with the dow jones industrial average turning negative for the year <PUNC>
+the dow jones industrial average dji closed down <NUM> points at <NUM> <PUNC> the blue-chip index began <NUM> at <NUM> <PUNC>
+earlier thursday <COMMA> the dow was more than <NUM> points higher <PUNC>
+mcdonald s mcd <COMMA> a dow component <COMMA> closed down <NUM> percent at dollar <NUM> <PUNC>
+the fast-food company said its global same-restaurant sales rose <NUM> percent in november <COMMA> citing its breakfast menu and extended hours <PUNC>
+however <COMMA> sales were flat in europe <PUNC>
+intel corp. intc stock closed down <NUM> percent at dollar <NUM> <COMMA> making the fourth day in a row of declines for the stock <COMMA> ahead of its midquarter business updates <PUNC>
+intel has forfeited more than <NUM> percent in the last four sessions <COMMA> despite predictions by several analysts that it will raise its earnings guidance <PUNC>
+<PAR>

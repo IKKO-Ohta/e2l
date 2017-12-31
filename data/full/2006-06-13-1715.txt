@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> off a low of <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+merck shares mrk was the biggest percentage gainer on the dow <COMMA> up <NUM> percent at dollar <NUM> <COMMA> after the company said its drug januvia was as effective as the popular diabetes drug glipizide <COMMA> also known as glucotrol <COMMA> in reducing blood-sugar levels in patients with type <NUM> diabetes <PUNC>
+patients taking januvia also lost weight on the drug <COMMA> the study showed <PUNC>
+<PAR>

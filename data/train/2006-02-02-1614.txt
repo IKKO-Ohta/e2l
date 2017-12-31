@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+shares in wal-mart stores inc. wmt saw early gains fade in line with the pullback in the broader market <COMMA> even as the world s largest retailer put in its best monthly sales performance during its entire fiscal year <PUNC>
+in other news <COMMA> general motors corp. gm said it plans to spend dollar <NUM> billion over the next five years to implement innovative technologies that reduce day-to-day expenses while improving the automaker s speed and flexibility in getting new vehicles to the market <PUNC>
+the stock was down <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

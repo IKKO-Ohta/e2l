@@ -1,0 +1,6 @@
+by mark decambrethe dow has ended positive in five straight decembers starting in <NUM> <PUNC>
+forget that the dow jones industrial average registered its 31st-record close in a thinly-traded <COMMA> holiday-abbreviated session friday <PUNC>
+the s&p <NUM> spx is up <NUM> percent year-to-date <COMMA> <NUM> percent for the month <COMMA> the nasdaq rixf has advanced <NUM> percent this year <COMMA> gaining <NUM> percent on the month <COMMA> while the dow dji added <NUM> percent so far this year <COMMA> <NUM> percent in november <PUNC>
+u.s. investors have to hope that december follows its usual trend and comes bearing gifts <COMMA> not a lump of coal <PUNC>
+here are a few stats about the dow s performance in december worth considering <PUNC>
+<PAR>

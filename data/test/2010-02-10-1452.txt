@@ -1,0 +1,5 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> in early trading <PUNC>
+walt disney dis was the measure s worst performer <COMMA> down <NUM> percent after its fiscal first-quarter profit changed little compared to a year earlier <COMMA> despite bigger profits in the film studio and television operations as charges and gains skewed comparisons <PUNC>
+j.p. morgan chase jpm was the top performing component <COMMA> with the bank up <NUM> percent in early trading <PUNC>
+bank of america bac was also strong <COMMA> up <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+u.s. stocks rallied on wednesday <COMMA> lifting the dow jones industrial average by over <NUM> points <COMMA> after the federal reserve left interest rates unchanged as expected <COMMA> but also opened the door for the central bank to consider risks to the economy on an equal footing with inflation risks <PUNC>
+the dow jones industrial average dji rallied <NUM> points to close at <NUM> <COMMA> with <NUM> of its <NUM> components ending in positive territory <PUNC>
+the dow almost returned to positive territory for the year so far <COMMA> down just <NUM> percent <PUNC>
+financial shares such as american express co. axp <COMMA> citigroup inc. c and jp morgan chase & co. jpm led the gains for blue chips <PUNC>
+<PAR>

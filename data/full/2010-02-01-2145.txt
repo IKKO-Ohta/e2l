@@ -1,0 +1,11 @@
+the dow jones industrial average dji ended <NUM> points higher <COMMA> up <NUM> percent to <NUM> <PUNC>
+the gains represented the dow s biggest rise in point and percentage terms since a 156-point gain on jan. <NUM> <PUNC>
+the dow and other market yardsticks opened with gains and marched steadily higher through most of the session <COMMA> finishing near their session highs <PUNC>
+monday s rally erased part of january s <NUM> percent slide in the dow <COMMA> the biggest monthly decline since february <NUM> <PUNC>
+the recent pullback coincides with what has generally been a wave of better-than-expected profit reports <COMMA> though investors often bet last month that share prices had factored in the strong earnings <PUNC>
+the dow was led monday by a <NUM> percent gain in component exxon mobil corp. xom <COMMA> which posted better quarterly results than analysts expected <PUNC>
+metals producers rallied <PUNC>
+alcoa aa was up <NUM> percent <PUNC>
+us steel x gained <NUM> percent <PUNC>
+freeport-mcmoran copper & gold fcx rose <NUM> percent <PUNC>
+<PAR>

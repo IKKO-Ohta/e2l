@@ -1,0 +1,6 @@
+u.s. stocks rose wednesday afternoon <COMMA> with a rally in shares of boeing co. boosting the dow jones industrial average <COMMA> but concern over high commodities prices and political tensions with iran persisted <PUNC>
+the dow industrials dji were last up <NUM> points at <NUM> <PUNC>
+shares of boeing co. ba rose <NUM> percent to dollar <NUM> <PUNC>
+the aircraft maker said it has signed a general purchase agreement with china aviation supplies import & export group for <NUM> boeing <NUM> airplanes <PUNC>
+the agreement <COMMA> when combined with the <NUM> planes agreed to in a november <NUM> deal <COMMA> makes the entire planned transaction a 150-airplane purchase <PUNC>
+<PAR>

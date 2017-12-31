@@ -1,0 +1,3 @@
+the dow jones industrial average dji recently was up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components advancing <COMMA> led by citigroup inc. c <COMMA> up <NUM> percent <PUNC>
+while helping bolster sentiment across the broader market <COMMA> the bid by microsoft msft weighed on blue chips <COMMA> with shares of the technology titan off <NUM> percent in the wake of the software titan s dollar <NUM> -a-share <COMMA> or dollar <NUM> billion <COMMA> offer for yahoo yhoo <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+on wednesday <COMMA> consumer discretionary shares lead the losses after disappointing retail sales data for april <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx shed <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf declined <NUM> points to <NUM> <PUNC>
+health-care stocks fared the best amid the broad market decline <COMMA> with pharmaceutical giant merck & co. inc. mrk up nearly <NUM> percent <COMMA> although down <NUM> percent year-to-date <PUNC>
+insurer unitedhealth group inc. unh also gained more than <NUM> percent <COMMA> and was up <NUM> percent year-to-date <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+up the bulk of the session <COMMA> the dow jones industrial average dji was more recently down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+general motors corp. gm was among the blue chips chalking up losses <COMMA> its stock off <NUM> percent <COMMA> with the auto maker among those reporting weak sales last month <PUNC>
+<PAR>
+the semiconductor sector remained under pressure after bank of america securities cut its ratings on eight chip stocks <COMMA> including intel corp. intc <COMMA> down <NUM> percent <COMMA> and advanced micro devices inc. amd <COMMA> off <NUM> percent <PUNC>
+<PAR>
+dow component merck & co. inc. mrk edged lower after the drugmaker said it would pay as much as dollar <NUM> million to switzerland s addex to license a potential schizophrenia treatment <PUNC>
+on wednesday <COMMA> stocks dropped sharply as rising energy prices heightened worries about the economy <COMMA> with the dow industrials tallying their worst opening-day performance in <NUM> years <PUNC>
+<PAR>

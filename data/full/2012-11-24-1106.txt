@@ -1,0 +1,2 @@
+on friday <COMMA> the dow jones industrial average dji rose <NUM> percent for its first above-13,000 close since election day on nov. <NUM> <COMMA> netting a <NUM> percent weekly gain <PUNC> the s&p <NUM> index spx advanced <NUM> percent for its first close above <NUM> since election day <COMMA> for a gain of <NUM> percent for the week <PUNC>
+<PAR>

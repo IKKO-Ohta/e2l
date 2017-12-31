@@ -1,0 +1,4 @@
+rallying more than <NUM> points early on <COMMA> the dow jones industrial average dji added to its gains in the wake of u.s. economic data that showed the institute for supply management s index inching up to <NUM> percent in march from <NUM> percent in february <PUNC>
+the dow industrials were recently up <NUM> points to <NUM> <COMMA> with all <NUM> components posting gains <PUNC>
+shares of citigroup inc. c led the way <COMMA> up <NUM> percent <PUNC>
+<PAR>

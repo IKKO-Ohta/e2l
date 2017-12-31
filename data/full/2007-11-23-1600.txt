@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+the s&p <NUM> index spx gained <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf rose <NUM> points to <NUM> <PUNC>
+u.s. stocks tumbled on wednesday <COMMA> with the dow falling <NUM> points <COMMA> as worries about bad home loans <COMMA> a slumping dollar and oil near dollar <NUM> a barrel led traders to take money out of the market ahead of the holiday <PUNC>
+and on friday <COMMA> financial stocks were posting early gains with aig aig <COMMA> american express axp <COMMA> citigroup inc. c <COMMA> and jp morgan chase jpm all gaining over <NUM> percent <PUNC>
+among retailer shares on the dow <COMMA> both wal-mart wmt and home depot hd gaining over <NUM> percent <PUNC>
+gmac <COMMA> <NUM> percent held by general motors gm and majority-held by cerberus capital management <COMMA> said in a filing to the securities and exchange commission late on wednesday that it was considering the sale of part of residential capital and also was considering the purchase of an international lender <COMMA> widely believed to be britain s northern rock <PUNC>
+among u.s. pharmaceutical stocks <COMMA> pfizer pfe shares rose <NUM> percent <PUNC>
+<PAR>

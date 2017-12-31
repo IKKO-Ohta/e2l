@@ -1,0 +1,12 @@
+with less than a half hour of trade left <COMMA> the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
+the benchmark index has been trading back and forth across the flat line for much of the session <PUNC>
+on the week <COMMA> the dow is looking at a gain of <NUM> percent while the nasdaq composite is on track to log a rise of <NUM> percent <PUNC>
+the s&p <NUM> <COMMA> meanwhile <COMMA> is looking at a weekly gain of <NUM> percent <PUNC>
+disney dis was the biggest percentage decliner on the dow industrials <COMMA> down <NUM> percent at dollar <NUM> <PUNC>
+the media and entertainment giant s fourth-quarter net income more than doubled <COMMA> powered by strong box-office results and growth in its amusement parks and media networks <PUNC>
+american international group inc. aig rose <NUM> percent to dollar <NUM> after the company reported a surge in third-quarter net income <PUNC>
+late thursday <COMMA> the insurance giant reported results that showed it avoided the big hurricane losses of a year ago <PUNC>
+also within the dow <COMMA> shares of boeing ba rose <NUM> percent to dollar <NUM> <COMMA> after earlier touching a near six-month high of dollar <NUM> <PUNC>
+on thursday <COMMA> the air force selected the aerospace manufacturer to provide the u.s. military s next generation of combat search and rescue helicopters an order the company said is worth up to dollar <NUM> billion <PUNC>
+the stock was last up <NUM> percent <PUNC>
+<PAR>

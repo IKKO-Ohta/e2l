@@ -1,0 +1,7 @@
+the dow jones industrial average dji was recently down about <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+oil majors exxon mobil xom and chevron cvx were among the decliners on the index <PUNC>
+earlier <COMMA> industrials led modest gains in u.s. stocks with general electric making the biggest gains <PUNC>
+ge ge was up <NUM> percent in afternoon trading <PUNC>
+pacing the stock market s gains for industrials <COMMA> general electric ge rose <NUM> percent after oppenheimer boosted its rating on the stock to outperform from perform <COMMA> saying the diversified company s financial portfolio is stabilizing <PUNC>
+declines in the dow and in the broader market were led by financials and energy firms <COMMA> including j.p. morgan chase jpm <PUNC>
+<PAR>

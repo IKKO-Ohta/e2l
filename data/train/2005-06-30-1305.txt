@@ -1,0 +1,2 @@
+boeing co. ba a component of the dow jones industrial average dji rallied <NUM> percent in early trades on news it picked jim mcnerney <COMMA> ceo of fellow blue chip 3m co. mmm as its new chief executive <PUNC>
+<PAR>

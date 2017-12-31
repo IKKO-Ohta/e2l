@@ -1,0 +1,4 @@
+u.s. stocks fell wednesday <COMMA> with the dow off about <NUM> points <COMMA> as investors grappled with merrill lynch & co. s larger-than-envisioned losses and a sharp drop in existing-home sales <COMMA> inflaming fears of economic trouble ahead <PUNC>
+after shedding more than <NUM> points <COMMA> the dow industrials dji was recently off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components lower <COMMA> led by chip manufacturer intel corp. intc <COMMA> which shed <NUM> percent <PUNC>
+dow component boeing co. ba reported a steep hike in third-quarter profits <COMMA> but trimmed its revenue forecast for next year <PUNC>
+<PAR>

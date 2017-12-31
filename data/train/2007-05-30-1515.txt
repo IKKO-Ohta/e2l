@@ -1,0 +1,9 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> after falling <NUM> points to a low of <NUM> <PUNC>
+but <NUM> of the dow s <NUM> components remained lower <COMMA> led by honeywell inc. hon <COMMA> intel corp. intc <COMMA> merck & co. inc. mrk and pfizer inc. pfe <PUNC>
+caterpillar inc. cat was among the stocks bucking the trend among blue chips <COMMA> rising <NUM> percent after competitor joy global inc. joyg issued an upbeat outlook for the coming <NUM> months <PUNC>
+microsoft msft dropped <NUM> percent <PUNC>
+the software giant is coming out with a new table-top computer for hotels and casinos <PUNC>
+international business machines ibm fell <NUM> percent <PUNC>
+it told the wall street journal that it has spent dollar <NUM> billion to buy back its stock in an accelerated buyback program <PUNC>
+coca cola co. ko reversed early gains to fall <NUM> percent after citigroup upgraded the stock to buy from hold <PUNC>
+<PAR>

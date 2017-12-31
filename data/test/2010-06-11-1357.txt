@@ -1,0 +1,6 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+caterpillar cat led the measure s gains with a drop of <NUM> percent <COMMA> while at&t t slipped <NUM> percent and home depot hd dropped <NUM> percent <PUNC>
+pfizer pfe led the dow s few gainers with a jump of <NUM> percent <PUNC>
+pfizer and bristol-myers squibb said they had stopped a clinical trial early because the data so far suggest an experimental drug for irregular heart rhythm was superior to aspirin <PUNC>
+bristol-myers squibb bmy <COMMA> which is not a dow component <COMMA> rose <NUM> percent <PUNC>
+<PAR>

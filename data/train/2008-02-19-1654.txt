@@ -1,0 +1,7 @@
+after earlier striking a triple-digit rise <COMMA> the dow jones industrial average dji was more recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <PUNC>
+exxon mobil corp. xom fronted the dow s advance <COMMA> its stock up <NUM> percent <COMMA> while chevron corp. cvx also gained <COMMA> rising <NUM> percent <PUNC>
+american international group inc. aig climbed <NUM> percent in the wake of a report in barron s that the insurer is likely to recover dollar <NUM> billion in losses from credit-default swaps <PUNC>
+telecommunications stocks proved to be the laggards for the blue chips <COMMA> with at&t inc. t and verizon communications vz both off more than <NUM> percent <PUNC>
+j.p. morgan chase jpm also fell <COMMA> recently down <NUM> percent <PUNC>
+the tech sector was bolstered in part by expectations that computer maker hewlett-packard co. hpq would top expectations when it reports first-quarter results after the close <COMMA> along with microsoft corp. msft signaling its intention to play hardball in its quest to acquire yahoo inc. yhoo <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> in early morning trading points to <NUM> <PUNC>
+wal-mart stores inc. wmt <COMMA> however <COMMA> posted better-than-forecast october sales <PUNC>
+after the close of trading thursday <COMMA> walt disney co. dis <COMMA> qualcomm inc. qcom and nvidia corp. nvda are all scheduled to report results <PUNC>
+u.s. stocks tumbled wednesday <COMMA> suffering their worst-ever percentage losses in the day after a presidential election <COMMA> as the dow jones industrial average dropped <NUM> points <COMMA> the s&p <NUM> lost <NUM> points <COMMA> and the nasdaq composite dropped <NUM> points <PUNC>
+<PAR>

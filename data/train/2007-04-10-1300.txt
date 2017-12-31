@@ -1,0 +1,8 @@
+futures for the dow jones industrial average dji were down <NUM> to <NUM> <COMMA> while those for the s&p <NUM> index spx eased <NUM> points to <NUM> <PUNC>
+among blue chips <COMMA> alcoa aa will garner attention before its results <PUNC>
+alcoa was the best performing dow component during the first quarter <COMMA> and analysts expect the company to have reported a rise in adjusted earnings per share <PUNC>
+citigroup c will also be in focus ahead of a presentation on wednesday on job cuts <PUNC>
+the new york times reported that the bank will cut or reassign <NUM> positions <PUNC>
+u.s. stocks finished mostly flat on monday <COMMA> save for the railroad sector <COMMA> which rallied on warren buffett s disclosure of a <NUM> percent stake in burlington northern santa fe <PUNC>
+the dow industrials rose <NUM> points <COMMA> the nasdaq composite lost <NUM> points and the s&p <NUM> rose <NUM> of a point <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> off a morning low of <NUM> <PUNC>
+the benchmark index is poised for a weekly gain of around <NUM> percent <PUNC>
+tower said intel corp. s news was hardly a surprise <PUNC>
+the tech bellwether intc has struggled since its stock tumbled by more than <NUM> percent on jan. <NUM> <COMMA> when first-quarter profit outlook fell short of expectations <PUNC>
+<PAR>

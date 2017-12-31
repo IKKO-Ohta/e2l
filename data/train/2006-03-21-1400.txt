@@ -1,0 +1,6 @@
+the future contract for the dow jones industrial average was down <NUM> points at <NUM> <PUNC>
+on monday stocks closed mixed after a range-bound session spent in anticipation of bernanke s speech <PUNC>
+the nasdaq composite ended higher <COMMA> but the dow jones industrial average and the s&p <NUM> both finished a bit lower <PUNC>
+merck & co. mrk should be active later <PUNC>
+the company agreed to license technology to make anti-hypertension drugs from french biotech nicox <COMMA> in return for up to dollar <NUM> million in milestone payments as well as other payments <PUNC>
+<PAR>

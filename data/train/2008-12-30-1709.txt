@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> blue-chip components advancing <COMMA> led by a <NUM> percent gain in general motors and a <NUM> percent rise in shares of aluminum giant alcoa inc. aa <PUNC>
+the auto industry and its impact on the economy were again in focus <PUNC>
+gmac <COMMA> the lending arm of gm gm <COMMA> said it will restart auto financing for more u.s. customers because it has better access to funding after converting to a bank-holding company <PUNC>
+u.s. stocks fell monday but finished well above their worst levels of the day <COMMA> as rising oil prices pressured consumer-related shares and investors ditched weaker-performing financial stocks <PUNC>
+the dow industrials lost <NUM> points <COMMA> the s&p <NUM> fell <NUM> points <COMMA> and the nasdaq composite dropped <NUM> points <PUNC>
+<PAR>

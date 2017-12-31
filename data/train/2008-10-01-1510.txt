@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> weighed down by the likes of alcoa inc. aa <COMMA> caterpillar inc. cat and ibm ibm <PUNC>
+shares of general electric co. ge fell <NUM> percent after deutsche bank cut its price target on the stock <PUNC>
+dow component exxon mobil xom fell <NUM> percent as crude oil prices slumped more than <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the market had chalked up triple-digit gains earlier on the first trading session of <NUM> <COMMA> with the dow jones industrial average stretching into fresh record territory <PUNC>
+but the dow dji was last down <NUM> points at <NUM> <COMMA> well below its all-time high of <NUM> <COMMA> hit in morning trade <PUNC>
+earlier <COMMA> investors had returned in force after a four-day break <COMMA> helped by news that home depot s hd embattled chief executive <COMMA> robert nardelli <COMMA> had resigned to be replaced by vice chairman frank blake <PUNC>
+general motors corp. gm was posting the steepest declines on the dow <COMMA> losing <NUM> percent after banc of america downgraded the stock to sell from neutral <PUNC>
+gm competitor ford motor co. f <COMMA> meanwhile <COMMA> gained <NUM> percent after reporting its december sales fell <NUM> percent <COMMA> while the market was bracing for a much worse decline <PUNC>
+at the same time <COMMA> transportation stocks <COMMA> which had fallen sharply in the last few months of <NUM> <COMMA> were rebounding on wednesday after bear stearns upgraded several names in the sector <COMMA> citing attractive valuations <PUNC>
+the dow jones transportation average <NUM> was up <NUM> percent <PUNC>
+<PAR>

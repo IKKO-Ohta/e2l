@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with alcoa aa pacing declined that included <NUM> of its <NUM> components <PUNC>
+<PAR>

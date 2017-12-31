@@ -1,0 +1,3 @@
+u.s. stocks finished lower on friday <COMMA> with gains in the dow and s&p <NUM> index fading out at the close as investors considered a drop in the u.s. jobless rate and europe s debt crisis <COMMA> but the dow still scored its biggest weekly point jump in three years <PUNC>
+the dow jones industrial average dji fell <NUM> point <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> reversing course in the final minutes of trading after touching a high of <NUM> during the session <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average was recently up about <NUM> points at <NUM> <COMMA> for a whopping <NUM> percent gain for the week so far <PUNC>
+the s&p <NUM> index was up nearly <NUM> percent on the week <COMMA> and the nasdaq composite rixf stands <NUM> percent higher than last friday <PUNC>
+on the dow <COMMA> seven stocks whose price hover well above others now call the shots in terms of influencing the blue-chip average <PUNC> ibm ibm <COMMA> chevron corp. cvx <COMMA> exxon mobil corp. xom <COMMA> mcdonald s corp. mcd <COMMA> wal-mart wmt <COMMA> coca-cola and procter & gamble pg <PUNC>
+<PAR>

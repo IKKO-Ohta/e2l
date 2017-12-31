@@ -1,0 +1,16 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+the nasdaq composite index rixf gained <NUM> points to <NUM> <COMMA> a new high for the year <PUNC>
+the s&p <NUM> index spx was up <NUM> points at <NUM> <COMMA> a fresh four-year high for the broad gauge <PUNC>
+ibm ibm was powering gains on the benchmark index as its shares rallied dollar <NUM> <COMMA> or <NUM> percent to dollar <NUM> after analysts enthused over second-quarter results that eased concerns about big blue s missteps earlier in the year <PUNC>
+johnson & johnson jnj shares edged up a <NUM> percent to dollar <NUM> after it posted second-quarter results that topped analyst estimates on an <NUM> percent jump in sales year-over-year <PUNC>
+caterpillar inc. shares cat soared <NUM> percent <COMMA> with traders on the floor attributing the move to comments from wall street commentator jim cramer encouraging investors to buy into the stock ahead of the company s earnings due later this week <PUNC>
+citigroup inc c shares shed <NUM> cents to dollar <NUM> <COMMA> extending a <NUM> percent decline in the prior session <COMMA> after merrill lynch and bear stearns cut their earnings estimates on the banking giant <COMMA> a day after it posted weaker-than-expected results <PUNC>
+intel corp intc ended up <NUM> percent at dollar <NUM> ahead of its quarterly results <PUNC>
+after the bell <COMMA> the world s largest computer-chip company reported second-quarter net income of dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> compared with net income of dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> in the year-ago period <PUNC>
+sales rose <NUM> percent to dollar <NUM> billion <PUNC>
+analysts had forecast intel would earn <NUM> cents a share on revenue of dollar <NUM> billion <PUNC>
+microsoft msft <COMMA> which reports thursday <COMMA> also gained <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
+shares of hewlett-packard co. hpq <COMMA> another dow component <COMMA> fell <NUM> percent as the computer and printer maker <COMMA> in a widely-anticipated move <COMMA> said it would cut <NUM> jobs <COMMA> or roughly <NUM> percent of its workforce <COMMA> as part of a major restructuring that chief executive mark hurd said is necessary for the printer and computer giant to reach its full potential <PUNC>
+earnings from merrill lynch mer offered a balm to those investors disappointed by monday s disappointing earnings from citigroup <PUNC>
+c <PUNC>
+<PAR>

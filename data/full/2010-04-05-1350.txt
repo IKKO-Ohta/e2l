@@ -1,0 +1,7 @@
+the dow jones industrial average was up <NUM> points to <NUM> <PUNC>
+the measure was led by some of its most economically sensitive components <COMMA> with caterpillar cat up <NUM> percent and general electric ge up <NUM> percent <PUNC>
+verizon communications vz was also strong <COMMA> up <NUM> percent <COMMA> while mcdonald s mcd advanced <NUM> percent <PUNC>
+alcoa helped keep the dow s gains in check with a drop of <NUM> percent after deutsche bank cut its investment rating on the stock from hold to buy <PUNC>
+the firm said it sees a series of one-off events <COMMA> including european union fines <COMMA> energy prices and start-up costs <COMMA> reducing the aluminum giant s ability to benefit from higher aluminum prices <PUNC>
+the firm predicted a disappointing first quarter for alcoa <COMMA> which effectively kicks off the earnings reporting season next monday <PUNC>
+<PAR>

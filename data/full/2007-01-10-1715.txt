@@ -1,0 +1,9 @@
+the dow jones industrial average dji was down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
+general motors corp. gm <COMMA> which rose strongly over the past two sessions amid enthusiasm over its new electric vehicles <COMMA> was down <NUM> percent <PUNC>
+alcoa inc. aa <COMMA> which supplies aluminum to the auto industry <COMMA> said it expected continued weakness in the sector <COMMA> while at the same time forecasting higher alumina prices in the first quarter <PUNC>
+its stock was the biggest gainer among blue chips <COMMA> rising <NUM> percent after it posted better than expected earnings after the close on tuesday <PUNC>
+ibm ibm also weighed on blue chips <COMMA> losing <NUM> percent <COMMA> after ag edwards downgraded the stock <PUNC>
+and in a now familiar pattern <COMMA> exxon mobil corp. xom fell <NUM> percent as crude oil prices continued to fall <COMMA> with a barrel recently losing <NUM> cents <COMMA> or <NUM> percent <COMMA> to dollar <NUM> <PUNC>
+at&t t <COMMA> whose unit cingular wireless will provide the wireless network for the iphone <COMMA> was gaining <NUM> percent <PUNC>
+microsoft corp. s msft new operating system vista is expected to encourage companies to upgrade both their software and hardware <COMMA> nolte said <PUNC>
+<PAR>

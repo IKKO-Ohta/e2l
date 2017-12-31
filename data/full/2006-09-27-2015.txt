@@ -1,0 +1,17 @@
+oil s surprise rally and verizon s decline offset gains for intel corp. <COMMA> mcdonald s corp. and others <COMMA> that had put the dow jones industrial average within striking distance of a new high <PUNC>
+the dow industrials dji closed up <NUM> points at <NUM> <PUNC>
+the index earlier rose to as high as <NUM> <COMMA> putting it just shy of its record-high close of <NUM> <COMMA> hit jan. <NUM> <COMMA> <NUM> <PUNC>
+the dow s intraday record is <NUM> <COMMA> reached that same day <PUNC>
+hogan expects the dow to set a record by the time the third quarter closes out friday <PUNC> we should get the window-dressing benefit <PUNC>
+verizon vz closed down <NUM> percent at dollar <NUM> <PUNC>
+the company said the dollar <NUM> billion in new spending will be used to make homes eligible for its fiber services <PUNC>
+analysts said it was the first time the company has detailed its spending plans for these services <PUNC>
+at&t inc. t shares closed down <NUM> percent at dollar <NUM> <PUNC>
+merck & co. mrk was up <NUM> percent at dollar <NUM> after the drugmaker said late tuesday that a federal jury cleared the company of responsibility for a kentucky man s heart attack in the tenth vioxx-related case to go to trial <PUNC>
+intel corp. intc rallied <NUM> percent to dollar <NUM> after a federal judge limited advanced micro devices inc. s antitrust lawsuit against its larger competitor <PUNC>
+the judge ruled that alleged foreign anticompetitive practices didn t impact amd in the united states <PUNC>
+amd s stock closed down <NUM> percent at dollar <NUM> <PUNC>
+general motors corp. gm is reportedly demanding a multibillion dollar payment from renault and nissan as the price to join the french and japanese companies in a global automotive alliance <COMMA> according to a wall street journal report <PUNC>
+gm shares fell <NUM> percent at dollar <NUM> <PUNC>
+shares of mcdonald s mcd rose <NUM> percent to dollar <NUM> after the fast-food giant said its board approved an increase of nearly <NUM> percent for its dividend <COMMA> boosting the annual payout from <NUM> cents to dollar <NUM> a share <PUNC>
+<PAR>

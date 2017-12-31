@@ -1,0 +1,3 @@
+recovering from a 150-point drop <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components sliding <PUNC>
+bank of america corp. bac and j.p. morgan chase & co. jpm sustained the heaviest damage <COMMA> the former off <NUM> percent and the latter down <NUM> percent <PUNC>
+<PAR>

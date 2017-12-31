@@ -1,0 +1,9 @@
+reversing course on initial losses <COMMA> the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
+twenty of the dow s <NUM> components posted early gains <COMMA> with shares of hewlett-packard co. hpq rallying <NUM> percent after the personal-computer maker said it would beat wall street targets for its fourth quarter and for the ensuing fiscal year <PUNC>
+off the dow <COMMA> yahoo inc. yhoo shares climbed <NUM> percent after the internet tech giant said ceo jerry yang would step aside <COMMA> six months after merger talks broke down with microsoft corp. msft <PUNC>
+<PAR>
+u.s. stocks ended with sharp losses on monday <COMMA> nearing lows of last month <COMMA> as alcoa inc. aa stumbled on a downgrade and as citigroup inc. c said it would cut over <NUM> jobs <PUNC>
+the dow jones industrial average fell <NUM> points <COMMA> the nasdaq composite lost <NUM> points and the s&p <NUM> fell <NUM> points <PUNC>
+among other stocks in focus <COMMA> home depot inc. hd reported a less-than-forecast <NUM> percent profit fall for the third quarter <COMMA> though it steered its annual sales guidance lower <PUNC>
+a day after general motors gm parted with its stake in suzuki <COMMA> ford motor co. f said it would cut its stake in mazda motor to over <NUM> percent from <NUM> percent for dollar <NUM> million <PUNC>
+<PAR>

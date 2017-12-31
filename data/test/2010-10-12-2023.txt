@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with <NUM> of its <NUM> components gaining <PUNC>
+the nasdaq composite index rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> bolstered by a rise in apple inc. aapl after its price target was hiked by barclays capital and as discount retailer wal-mart stores inc. wmt said it would begin selling apple s ipad <PUNC>
+in corporate news <COMMA> pharmaceutical giant pfizer inc. pfe said it would acquire drug maker king pharmaceuticals inc. kg for dollar <NUM> billion <PUNC>
+after the close <COMMA> wall street will get quarterly results from chip giant intel corp. intc and railway operator csx corp. csx <PUNC>
+<PAR>

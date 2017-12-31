@@ -1,0 +1,7 @@
+the dow jones industrial average dji closed up <NUM> point at <NUM> <COMMA> after hitting another all-time high of <NUM> <PUNC>
+among blue-chips <COMMA> home depot inc. hd gained <NUM> percent after announcing the purchase of <NUM> home-improvement stores in china <COMMA> marking the retailer s first step into the giant market <PUNC>
+sales were much stronger than the <NUM> percent gain expected by economists surveyed by marketwatch <PUNC>
+wal-mart wmt was among the biggest gainers among blue chips <COMMA> adding <NUM> percent <PUNC>
+if we can take the dow and the s&p to new highs <COMMA> then it would be a positive confirmation that this market is comfortable with the economy slowing down <COMMA> but not too much <COMMA> and that inflationary pressures are receding <COMMA> tower said <PUNC>
+however <COMMA> the dow seemed unable to sustain a new high <PUNC>
+<PAR>

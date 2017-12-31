@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in recent trading <PUNC>
+industrial giant caterpillar inc. cat led the measure s gains <COMMA> up <NUM> percent <COMMA> as the economically-sensitive company was boosted by the latest round of improving data points <PUNC>
+general electric co. ge <COMMA> which is also particularly sensitive to the economy <COMMA> was also strong <COMMA> up <NUM> percent <PUNC>
+merck mrk climbed <NUM> percent as rival drug-maker pfizer inc. pfe slid to the bottom of the dow <PUNC>
+pfizer tumbled <NUM> percent after medivation inc. mdvn said its experimental alzheimer s disease treatment dimebon <COMMA> which was in development with pfizer <COMMA> was not effective in a large late-stage study <PUNC>
+the news also sent shares of medivation which has no products on the market and is not a dow component plunging <NUM> percent on heavy volume <PUNC>
+<PAR>

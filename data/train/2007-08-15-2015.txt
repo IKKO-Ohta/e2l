@@ -1,0 +1,6 @@
+the selling of u.s. stocks accelerated ahead of the closing bell wednesday <COMMA> leading the dow falling below the <NUM> level for the first time since the end of april <COMMA> amid rising concerns about the troubled credit markets <PUNC>
+the dow jones industrial average dji ended <NUM> points lower at <NUM> <COMMA> with <NUM> of its <NUM> stocks ending in the red <PUNC>
+financials lost earlier gains <COMMA> with american express co. axp off nearly <NUM> percent <COMMA> citicorp c off <NUM> percent and j.p. morgan jpm down <NUM> percent <PUNC>
+the dow shifted gears along amid contrarian words from the new york fed over its repurchases <COMMA> with the fed in the end saying it would take dollar <NUM> billion in a repo <COMMA> where it buys securities from dealers <COMMA> who then put the funds into commercial banks <PUNC>
+stocks slid on tuesday <COMMA> with the dow falling more than <NUM> points <COMMA> amid further signs that trouble in the subprime mortgage market is prompting a tightening of credit <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the futures contract for the dow jones industrial average was down <NUM> points at <NUM> <PUNC>
+on tuesday stocks closed mixed <COMMA> with the dow jones industrials managing a gain while a weak sales forecast from texas instruments hurt the nasdaq composite <PUNC>
+mcdonald s corp. mcd was <NUM> percent higher at dollar <NUM> in premarket trade after announcing a <NUM> percent rise in same store sales for february <PUNC>
+<PAR>

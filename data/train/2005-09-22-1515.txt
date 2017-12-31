@@ -1,0 +1,9 @@
+new york dow jones - u.s. stocks traded mixed thursday <COMMA> with the dow jones industrial average outperforming on gains for components exxon mobil <COMMA> caterpillar and mcdonald s <COMMA> in a market that continues to worry about the economic impact of hurricane rita <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> after closing out wednesday s session at its lowest level since july <NUM> <PUNC>
+within the dow industrials <COMMA> american international group inc aig fell <NUM> cents to dollar <NUM> on concern it will face huge insurance claims due to rita <PUNC>
+caterpillar inc. cat tacked on <NUM> cents to dollar <NUM> as a potential cleanup of the area hit by rita saw some investors predicting higher orders for the company s industrial equipment and machinery <PUNC>
+home depot hd shares also rose on the likelihood the gulf region will see major rebuilding after rita <PUNC>
+at last check <COMMA> the home-improvement retailer s stock was up <NUM> cents at dollar <NUM> <PUNC>
+exxon mobil corp. xom climbed <NUM> cents to dollar <NUM> <COMMA> buoyed by oil prices <PUNC>
+mcdonald s corp. shares mcd rose <NUM> percent to dollar <NUM> as it updated investors on its strategic plans <PUNC>
+<PAR>

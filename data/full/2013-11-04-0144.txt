@@ -1,0 +1,12 @@
+stocks ended the week with a mixed showing <PUNC>
+the dow jones industrial average dji rose <NUM> percent <COMMA> the s&p <NUM> index spx gained <NUM> percent <COMMA> and the nasdaq composite index rixf lost <NUM> percent <COMMA> as strong manufacturing data countered concerns that the federal reserve may begin tapering asset purchases sooner than expected <PUNC>
+all three indexes posted their best october since <NUM> <PUNC>
+and if they hold to year-to-date gains of about <NUM> percent through the end of the year <COMMA> they re on track for at least their best year since <NUM> <PUNC>
+but investor nervousness over these levels is apparent <PUNC>
+the dow is off <NUM> percent from its all-time high of <NUM> <COMMA> the s&p <NUM> is <NUM> percent shy of its high <COMMA> and the nasdaq is <NUM> percent off its latest 13-year high <PUNC>
+this earnings season marketwatch has tracked a list compiled by goldman sachs at the beginning of the month on the top <NUM> contributors to third-quarter s&p <NUM> revenue growth <COMMA> excluding financials and utilities <PUNC>
+of the <NUM> companies that have reported so far <COMMA> <NUM> have topped the consensus for revenue by an average <NUM> percent <PUNC>
+that s a <NUM> percent beat rate <COMMA> well above this quarter s rate and the long-term average <COMMA> but down from the previous week s <NUM> percent beat rate and average beat of <NUM> percent <COMMA> mostly because of misses from companies such as chevron corp. cvx <PUNC>
+this week <COMMA> two more companies report from the list <PUNC> cvs caremark corp. cvs on tuesday <COMMA> and qualcomm inc. qcom on wednesday <PUNC>
+with nearly all dow components having reported earnings this season <COMMA> this week sees walt disney co. dis reporting its fiscal fourth-quarter results after the market closes on thursday <PUNC>
+<PAR>

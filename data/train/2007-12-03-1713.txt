@@ -1,0 +1,4 @@
+the dow jones industrial average dji was recently up <NUM> points at <NUM> with <NUM> of its <NUM> components trading ahead <PUNC>
+u.s. stocks gained last week <COMMA> helped by comments from federal reserve officials that hinted at interest-rate cuts as well as a dollar <NUM> billion injection into citigroup inc. <COMMA> with the dow tallying its third-best week this year <PUNC>
+citigroup c was back in the spotlight <COMMA> saying late friday it reduced the assets of structured investment vehicles it sponsors to dollar <NUM> billion from dollar <NUM> billion <COMMA> while moody s investors services said it may downgrade the ratings of some of the citi sivs <PUNC>
+<PAR>

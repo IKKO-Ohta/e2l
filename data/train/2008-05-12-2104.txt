@@ -1,0 +1,6 @@
+after climbing nearly <NUM> points <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <PUNC>
+the blue-chip gains were broad based <COMMA> led by caterpillar inc. cat <COMMA> up <NUM> percent <COMMA> and wal-mart stores inc. wmt <COMMA> ahead <NUM> percent <PUNC>
+dow decliners included hewlett-packard hpq <COMMA> down <NUM> percent <COMMA> in the wake of an afternoon report by the wall street journal that the technology giant could unveil as early as tuesday an agreement to acquire eds eds <PUNC>
+u.s. stocks dropped sharply on friday <COMMA> after hefty losses from blue-chip insurance giant aig aig and another record high for oil prices <PUNC>
+on monday <COMMA> aig was among the stocks weighing on the dow <COMMA> off a further <NUM> percent <PUNC>
+<PAR>

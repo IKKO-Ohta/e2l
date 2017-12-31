@@ -1,0 +1,4 @@
+u.s. stocks were mixed in late morning trade thursday <COMMA> as the dow jones industrial average broke from a 5-session winning streak <COMMA> with price action restrained ahead of the three-day easter holiday <PUNC>
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+the first-quarter earnings season will begin in earnest next week <COMMA> with results from aluminum producer alcoa inc. aa <PUNC>
+<PAR>

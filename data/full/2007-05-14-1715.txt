@@ -1,0 +1,8 @@
+the dow jones industrial average dji remained higher <COMMA> however <COMMA> gaining <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components advanced <PUNC>
+leading the gains among dow stocks <COMMA> automaker general motors corp. gm jumped <NUM> percent <PUNC>
+also among blue-chips <COMMA> johnson & johnson jnj rose <NUM> percent <PUNC>
+a court late friday ruled that teva pharmaceutical teva infringed on a patent for aciphex <COMMA> an anti-ulcer drug co-marketed by johnson & johnson <PUNC>
+wal-mart stores inc. wmt dropped <NUM> percent <COMMA> while home depot inc. hd gained <NUM> percent <PUNC>
+both will report earnings tuesday <PUNC>
+the market rallied on friday - with the dow industrials gaining <NUM> points - after wholesale inflation and weak retail sales boosted hopes the federal reserve will eventually cut interest rates to boost a slowing economy <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> after it had closed below the psychologically important <NUM> mark monday for the first time in three months <PUNC>
+the dow s gains were led by caterpillar inc. cat <COMMA> which jumped <NUM> percent <PUNC>
+coca-cola co. ko shares climbed <NUM> percent as strong sales of its namesake soda in developing countries pushed coca-cola s fourth-quarter profit up <NUM> percent <PUNC>
+the dow s materials components were also particularly strong as metals futures rose <PUNC>
+alcoa inc. aa climbed <NUM> percent and chemicals maker dupont dd advanced <NUM> percent <PUNC>
+<PAR>

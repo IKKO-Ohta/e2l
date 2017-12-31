@@ -1,0 +1,10 @@
+after rising more than <NUM> points only to fall just as steeply <COMMA> the dow jones industrial average dji was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+of the blue-chip index s <NUM> components <COMMA> <NUM> were posting losses late in the session <COMMA> with the bleeding led by shares of drug manufacturer merck & co. inc. mrk <COMMA> which fell <NUM> percent after the stock was downgraded to neutral from buy at ubs <PUNC>
+shares of walt disney co. dis also weighed on the dow <COMMA> falling <NUM> percent after lehman brothers downgraded the entertainment firm s stock <PUNC>
+the dow remained supported by alcoa inc. aa <COMMA> up <NUM> percent <COMMA> ahead of the aluminum producer s earnings report after the close tuesday <PUNC>
+information technology fronted the s&p s three advancing sectors <COMMA> up <NUM> percent <COMMA> with yahoo inc. yhoo leading the gains <COMMA> its stock up after microsoft corp. msft said it would again be open to discussing a possible acquisition of the web portal <PUNC>
+<PAR>
+u.s. stocks ended lower during the holiday-shortened week <COMMA> with the dow jones industrial average falling into bear-market territory <PUNC>
+general electric co. s ge nbc universal led a group buying the weather channel in what was expected to be a multibillion-dollar deal <PUNC>
+terms weren t disclosed <PUNC>
+<PAR>

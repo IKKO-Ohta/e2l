@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in the opening minutes of trade while the nasdaq composite index rixf edged up <NUM> point to <NUM> and the s&p <NUM> spx added <NUM> point <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+international business machines ibm <COMMA> home depot inc. hd and caterpillar inc. cat weighed in as the dow s biggest gainers in the early going <PUNC>
+boeing co. ba <COMMA> united technologies corp. utx and general motors corp. gm were the blue chip gauge s biggest losers <PUNC>
+exxon mobil corp. xom <COMMA> a component of the dow jones industrial average <COMMA> after friday s closing bell said it will take an after-tax charge of dollar <NUM> million in the second quarter in connection with a supreme court ruling a day ruling that granted a lower federal court the right to hear the claims of several thousand exxon service station dealers who challenged a discount for cash program <PUNC>
+the charge is in addition to an after-tax charge of dollar <NUM> million recorded in the third quarter of <NUM> <PUNC>
+<PAR>

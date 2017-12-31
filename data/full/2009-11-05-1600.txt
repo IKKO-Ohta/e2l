@@ -1,0 +1,5 @@
+recently <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+in a broad move <COMMA> all <NUM> of the dow s components traded in the green <PUNC>
+gains were lead by cisco systems csco <COMMA> which rose <NUM> percent after the networking gear s better-than-expected first-quarter report <PUNC>
+the dow wasn t alone in drawing support from cisco <COMMA> whose chief executive <COMMA> john chambers <COMMA> made upbeat remarks about the outlook for technology spending <PUNC>
+<PAR>

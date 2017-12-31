@@ -1,0 +1,6 @@
+after an initial jump of about <NUM> points <COMMA> the dow jones industrial average dji scaled back its advance and turned down <PUNC>
+the blue-chip benchmark was recently off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+citigroup inc. c fronted blue-chip losses <COMMA> off <NUM> percent <PUNC>
+other dow laggards included general motors corp. gm <COMMA> down <NUM> percent and general electric co. ge <COMMA> off <NUM> percent <PUNC>
+technology companies led the minority rise on the dow <COMMA> with microsoft corp. msft up <NUM> percent and intel corp. intc <COMMA> ahead <NUM> percent <PUNC>
+<PAR>

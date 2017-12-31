@@ -1,0 +1,7 @@
+stocks plunged tuesday <COMMA> with the dow industrials tumbling to their biggest drop in nearly a year <COMMA> after a key service sector gauge contracted in january possibly signaling that the u.s. economy is already in recession <PUNC>
+the dow jones industrial average dji tumbled <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all of its <NUM> component stocks in negative territory <PUNC>
+it was the worst percentage decline for the dow since february <NUM> <COMMA> when the index fell <NUM> percent <PUNC>
+it was also its worst point drop since august <PUNC>
+among dow components <COMMA> insurance giant aig aig along with financials stocks american express axp <COMMA> citigroup inc. c and j.p. morgan chase jpm <COMMA> fell the most <PUNC>
+among technology shares <COMMA> yahoo yhoo fell <NUM> percent after banc of america securities analysts downgraded prospective yahoo buyer microsoft msft to neutral from buy <PUNC>
+<PAR>

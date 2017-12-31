@@ -1,0 +1,7 @@
+the dow jones industrial average dji ended <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+among main component stocks of the dow fueling the gains were mcdonald s mcd <COMMA> exxonmobil xom and general electric ge <PUNC>
+the nasdaq composite index rixf was up <NUM> <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> but it was limited by losses in intel intc after a brokerage downgrade of the stock <PUNC>
+intel intc which fell as low as dollar <NUM> recovered and ended at dollar <NUM> after goldman sachs downgraded the chipmaker <COMMA> saying its margins are near peak levels <PUNC>
+alcoa aa rose <NUM> percent to dollar <NUM> after receiving an upgrade to buy from neutral at ubs <PUNC>
+the broker raised its aluminum forecast <COMMA> citing strong energy prices <COMMA> potential chinese taxation and secular demand trends <PUNC>
+<PAR>

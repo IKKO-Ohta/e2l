@@ -1,0 +1,11 @@
+new york dow jones u.s. stocks closed sharply higher friday after a session dominated by the expiration of september futures and options contracts <COMMA> during which the dow jones industrial average got a lift from broker upgrades of intel corp. and exxon mobil corp <PUNC>
+the dow industrials dji closed up <NUM> points <COMMA> or almost <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components in positive territory <PUNC>
+however <COMMA> stocks closed lower for the week <PUNC>
+during the last five trading sessions <COMMA> the dow lost <NUM> percent <COMMA> the s&p <NUM> fell <NUM> percent and the nasdaq shed <NUM> percent of its value <PUNC>
+intel intc closed up <NUM> percent at dollar <NUM> after getting an upgrade to neutral from underperform from cs first boston <COMMA> which said the stock price now adequately discounts concerns over declining market share and eroding average selling prices <PUNC>
+deutsche bank upgraded exxon mobil corp. xom to buy from hold and raised its price target to dollar <NUM> <COMMA> giving the stock a <NUM> percent lift to dollar <NUM> <PUNC>
+the broker said that rex tillerson taking over as chief executive in <NUM> could be a key catalyst <PUNC>
+honeywell hon <COMMA> another dow component <COMMA> rose <NUM> percent to close at dollar <NUM> after a positive note from banc of america <COMMA> which noted recent strength in the commercial aerospace market and solid traffic and capacity trends <PUNC>
+the biggest gainer on the dow <COMMA> mcdonald s mcd <COMMA> rose <NUM> percent to dollar <NUM> <PUNC>
+earlier in the day <COMMA> it rose above dollar <NUM> for the first time since january <NUM> <PUNC>
+<PAR>

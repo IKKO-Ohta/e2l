@@ -1,0 +1,5 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the blue-chip index is up more than <NUM> percent for the year <PUNC>
+eighteen of the dow s <NUM> components declined <COMMA> with boeing co. ba among the hardest hit on worries the manufacturer might again delay its <NUM> dreamliner <PUNC>
+intel corp. intc slid after the wall street journal reported european regulators were looking at the chip manufacturer s proposed acquisition of mcafee inc <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the s&p <NUM> spx lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf slid <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+dow component alcoa aa slipped <NUM> percent after a downgrade from j.p. morgan analysts <PUNC>
+the aluminum giant will kick off second-quarter earnings season on monday with its quarterly report after the bell <PUNC>
+<PAR>

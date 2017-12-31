@@ -1,0 +1,3 @@
+after a three-day decline <COMMA> the dow jones industrial average rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components heading higher <PUNC>
+pfizer inc. led declines on the dow <COMMA> recently off <NUM> percent <PUNC>
+<PAR>

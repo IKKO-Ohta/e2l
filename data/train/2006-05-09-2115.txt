@@ -1,0 +1,14 @@
+u.s. stocks closed mixed tuesday <COMMA> as investors braced for hints on the federal reserve s future course on interest rates <COMMA> but broad-based gains in blue-chip stocks lifted the dow jones industrial average to yet another fresh six-year high <PUNC>
+the dow dji rose <NUM> points to <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+those gains put the blue-chip index at its best levels since january <NUM> and leave it within striking distance of its all-time closing high of <NUM> <PUNC>
+rival hewlett-packard hpq fell nearly <NUM> percent to dollar <NUM> <COMMA> as dell s warning raised questions among some analysts about a broader slowdown in the pc market <PUNC>
+h-p wasn t the only dow component stock in the news <COMMA> as general motors gm rallied <NUM> percent to dollar <NUM> <COMMA> a six-month high <COMMA> after deutsche bank upgraded the carmaker to hold from sell <PUNC>
+the broker said that recent moves have generated a substantial amount of liquidity and that the risk of catastrophic developments has diminished <PUNC>
+alcoa inc. aa <COMMA> also in the dow <COMMA> rose <NUM> percent to dollar <NUM> <COMMA> as it joined in the metals rally <PUNC>
+mcdonald s corp. mcd tacked on <NUM> cents to dollar <NUM> after the fast-food giant said worldwide same-store sales rose <NUM> percent in april <PUNC>
+u.s. same-store sales rose <NUM> percent but europe <COMMA> which has struggled of late <COMMA> posted the strongest growth <COMMA> with same-same stores shooting up <NUM> percent <PUNC>
+same-stores sales in the asia-pacific <COMMA> middle east and africa regions climbed <NUM> percent <PUNC>
+in another development <COMMA> walt disney co. dis has decided to let its exclusive cross-promotional agreement with mcdonald s run out at year s end <COMMA> although it added that it wanted to continue working with the company <PUNC>
+disney s shares rose <NUM> cents to dollar <NUM> <COMMA> as the company prepared to issue financial results after the closing bell <PUNC>
+<PAR>

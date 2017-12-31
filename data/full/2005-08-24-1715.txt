@@ -1,0 +1,8 @@
+new york dow jones u.s. stocks edged higher wednesday as the nasdaq paced gains on modest strength in the technology sector <COMMA> while a rally in shares of general motors kept the dow jones industrial average in positive territory <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> off an early low of <NUM> <PUNC>
+the nasdaq composite index rixf rose <NUM> points to <NUM> <COMMA> while the s&p <NUM> index spx gained <NUM> points to <NUM> <PUNC>
+within the dow industrials <COMMA> general motors corp. gm rallied <NUM> percent to dollar <NUM> on a report in the wall street journal that the united auto workers union is considering helping the world s no <PUNC>
+<NUM> automaker cut costs <PUNC>
+the article is sourced to unidentified people who attended a gathering of union leaders monday <PUNC>
+merck & co. mrk rose <NUM> percent to dollar <NUM> in a modest rebound after suffering steep losses linked to an unfavorable court ruling related to its painkiller vioxx <PUNC>
+<PAR>

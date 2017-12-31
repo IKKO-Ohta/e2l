@@ -1,0 +1,9 @@
+the shocker gave the market a reason to retreat after a nearly uninterrupted seven-week climb that pushed the dow jones industrial average dji on thursday to its highest close since sept. <NUM> <COMMA> <NUM> <PUNC>
+the dow fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it with a weekly gain of <NUM> percent <PUNC>
+the seven-week streak is its longest in nearly three years <PUNC>
+earnings reports in the week ahead may help lure investors who view friday s fall as a chance to buy shares beaten-down shares <PUNC>
+two industry giants and dow components ibm ibm and citigroup inc. c set the stage <COMMA> reporting their quarterly results on monday <PUNC>
+stocks on friday were already mildly lower ahead of the goldman news <COMMA> with the market running out of steam even as general electric co. ge and bank of america corp. bac reported earnings that beat forecasts <PUNC>
+but like many companies in the technology sector <COMMA> adm shares had jumped ahead of releasing its own quarterly results on strong earnings and forecasts mid-week from intel corp. intc <COMMA> which bolstered the tech sector at large <PUNC>
+and the same could be said for financial shares <COMMA> which while slammed on friday <COMMA> were already up substantially after j.p. morgan chase & co. jpm exceeded expectations with a dollar <NUM> billion profit <PUNC>
+<PAR>

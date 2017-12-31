@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> snapping a three-session winning streak <PUNC>
+within the dow industrials <COMMA> home depot inc. hd rose <NUM> percent to dollar <NUM> after broker jefferies & co. upgraded the home-improvement retailer <COMMA> saying it will continue to benefit from the surge in home values <PUNC>
+shares of walt disney co. dis rose <NUM> percent as the wall street journal reported that the media giant is looking to spin off its radio-station network group <PUNC>
+intel intc edged into positive territory <COMMA> up <NUM> percent <COMMA> helped by broad strength in the technology sector <PUNC>
+in line with the strength in tech stocks <COMMA> fellow dow components international business machines ibm <COMMA> hewlett-packard co. hpq and microsoft corp. msft all traded higher <PUNC>
+<PAR>

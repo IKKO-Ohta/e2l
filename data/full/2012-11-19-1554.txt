@@ -1,0 +1,4 @@
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all of its <NUM> components rising <PUNC>
+dow component cisco systems inc. csco rose <NUM> percent after it said sunday that it would acquire meraki inc. for dollar <NUM> billion <PUNC>
+intel corp. intc shares were up <NUM> percent after the semiconductor manufacturer and dow component said ceo paul otellini would retire in may after nearly <NUM> years with the company <PUNC>
+<PAR>

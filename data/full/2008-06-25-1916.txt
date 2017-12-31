@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by the likes of citigroup inc. c <COMMA> up <NUM> percent <COMMA> home depot inc. hd <COMMA> ahead <NUM> percent <COMMA> and general electric co. ge <COMMA> up <NUM> percent <PUNC>
+a downgrade by goldman sachs sent dow component boeing co. ba down <NUM> percent <PUNC>
+shares of american express co. axp were off <NUM> percent in the wake of an agreement that has amex dropping an antitrust lawsuit against mastercard inc. ma <COMMA> which gained <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent to <NUM> <COMMA> in recent trading <PUNC>
+among the measure s top performers <COMMA> dupont dd rose <NUM> percent <COMMA> cisco systems inc. csco rose <NUM> percent and boeing co. ba added <NUM> percent <PUNC>
+boeing s gain came after thai airways international s board approved plans to buy eight boeing 777-300er aircraft as the national carrier seeks to modernize its fleet <PUNC>
+caterpillar inc. cat rose <NUM> percent <COMMA> as a release from the company of its retail sales of machines by marketing region showed while the industrial giant has experienced weakness in europe <COMMA> africa and the middle east <COMMA> there is still strength in asia <PUNC>
+in that region <COMMA> caterpillar posted a <NUM> percent jump for may machine sales from a year earlier <PUNC>
+that helped encourage investors about growth in asia <COMMA> especially in china <COMMA> where efforts to put the brakes on growth have prompted worries about demand <COMMA> especially for materials <PUNC>
+<PAR>

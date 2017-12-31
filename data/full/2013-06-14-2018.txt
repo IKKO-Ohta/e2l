@@ -1,0 +1,3 @@
+after climbing <NUM> points and falling <NUM> <COMMA> the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+down <NUM> percent for the week <COMMA> the dow on friday made its fourth consecutive triple-digit move <PUNC>
+<PAR>

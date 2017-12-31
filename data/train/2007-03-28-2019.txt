@@ -1,0 +1,11 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+it earlier fell over <NUM> points shortly after bernanke s speech <PUNC>
+altria group inc. mo was one of a few rising blue-chips <COMMA> gaining <NUM> percent after goldman sachs added the stock to its conviction buy list <PUNC>
+and citigroup inc. c rose <NUM> percent <COMMA> even after bank of america upgraded the stock to buy from neutral <COMMA> citing valuation <PUNC>
+among technology shares <COMMA> apple inc. aapl fell <NUM> percent as the ctia wireless industry conference showcases rival products to apple s soon-to-be-launched iphone <PUNC>
+meanwhile <COMMA> at&t s chief operating officer told the financial times that one million at&t t customers have expressed interest in the iphone <PUNC>
+among blue chips <COMMA> exxon mobil corp. xom rose <NUM> percent <PUNC>
+among blue chips <COMMA> general motors gm fell <NUM> percent after a report in the times of london said the automaker won t participate in the first round of bidding for the chrysler unit of daimlerchrysler dcx <PUNC>
+wal-mart stores wmt dropped <NUM> percent after news it has shelved its plan to open a new york city store <COMMA> the new york times reported <COMMA> citing a meeting ceo lee scott had with editors and reporters of the newspaper <PUNC>
+microsoft corp. msft <COMMA> meanwhile <COMMA> rose <NUM> percent <COMMA> after the wall street journal reported that the software gian is one of several current potential suitors for doubleclick <COMMA> which was acquired by a private equity firm in <NUM> for dollar <NUM> billion <PUNC>
+<PAR>

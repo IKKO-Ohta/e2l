@@ -1,0 +1,6 @@
+u.s. stocks rallied broadly thursday afternoon <COMMA> pushing the dow jones industrial average back near the <NUM> level after a drop in weekly jobless claims and optimistic comments about the economy from cisco systems chief executive <PUNC>
+the dow dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all <NUM> of its components trading higher <PUNC>
+after pushing above <NUM> for the first time in a year in mid-october <COMMA> the index faced some selling pressure to close out the month <PUNC>
+as the calendar has turned to november <COMMA> however <COMMA> some of the buying has returned <COMMA> and the dow was up in two of the last three sessions coming into thursday <PUNC>
+the markets drew support from cisco csco as chief executive john chambers made upbeat remarks about the outlook for technology spending <PUNC>
+<PAR>

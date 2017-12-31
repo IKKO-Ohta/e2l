@@ -1,0 +1,8 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> after reversing an earlier triple-digit climb <PUNC>
+limiting the measure s losses <COMMA> technology stocks rose after the semiconductor industry association said global chip sales rose <NUM> percent in september from a month earlier <PUNC>
+intel corp. intc gained <NUM> percent <COMMA> while hewlett-packard co. hpq rose <NUM> percent <PUNC>
+the market s climb cooled when financial stocks slid into the red after a propublica report said the u.s. securities and exchange commission is investigating whether j.p. morgan chase jpm allowed magnetar capital <COMMA> a hedge fund <COMMA> to improperly select assets for a dollar <NUM> billion deal backed by subprime mortgages <PUNC>
+j.p. morgan shed <NUM> percent <COMMA> while other financials tumbled <PUNC>
+fortinet ftnt shares rose <NUM> percent after the company disputed a bloomberg news report from late friday that international business machines ibm has approached the network-security systems maker about a possible takeover <PUNC>
+the company said on monday it isn t in acquisition talks with ibm <PUNC>
+<PAR>

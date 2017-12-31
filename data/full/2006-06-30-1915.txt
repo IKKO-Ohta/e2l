@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up about <NUM> points at <NUM> <PUNC>
+with slightly over an hour of trade left <COMMA> the dow is on track to post a <NUM> percent gain for the quarter <COMMA> which would give it its best second-quarter performance since <NUM> <COMMA> when it rose <NUM> percent <PUNC>
+general motors corp. gm was up <NUM> percent at dollar <NUM> after kerkorian s latest sally on the company <PUNC>
+<PAR>

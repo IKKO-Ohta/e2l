@@ -1,0 +1,15 @@
+the dow industrials dji was last up <NUM> point at <NUM> after spending most of the session above the <NUM> mark <PUNC>
+aside from pfizer and coca-cola <COMMA> other notable gainers included altria group mo while both at&t t and verizon communications vz rallied on upbeat commentary from broker lehman bros <PUNC>
+honeywell international inc. hon was the biggest percentage decliner on the blue-chip index <COMMA> down <NUM> percent on concerns over its earnings outlook <PUNC>
+bankers bkx and brokers xbd struggled as citigroup c and bank of america bac weighed on the sector <PUNC>
+citigroup c fell <NUM> percent to dollar <NUM> as some analysts expressed disappointment over its earnings and revenue performance in the latest quarter <COMMA> notably a decline in revenue at its corporate and investment banking division <PUNC>
+pfizer pfe shares gained about <NUM> percent to dollar <NUM> after the drugs giant reported a large jump in quarterly earnings <COMMA> due to hefty charges absorbed in the year ago period <PUNC>
+earnings beat expectations <PUNC>
+coca cola ko gained <NUM> percent to dollar <NUM> after the company s earnings and revenue exceeded expectations <PUNC>
+meanwhile <COMMA> shares in honeywell international inc. hon tumbled more than <NUM> percent <PUNC>
+the company s third-quarter profit was higher than analysts expected <COMMA> but when combined with the increase in its full-year view <COMMA> it suggests an implied fourth-quarter outlook that would be less than wall street observers had estimated <PUNC>
+advanced micro devices amd fell more than <NUM> percent to dollar <NUM> <PUNC>
+late wednesday the company said its quarterly profit rose <NUM> percent from a year ago <COMMA> but the stock was pressured by the company s report of lower profit margins and average selling prices for its chips <PUNC>
+that news signaled to some investors that rival intel corp. s intc attack may be taking its toll <PUNC>
+wal-mart stores inc. wmt rose <NUM> cents to dollar <NUM> after the world s largest retailer said it will expand its dollar <NUM> generic prescription program to <NUM> more states <PUNC>
+<PAR>

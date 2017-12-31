@@ -1,0 +1,3 @@
+notching another record close <COMMA> the dow jones industrial average dji rose as much as <NUM> points <COMMA> and ended with a gain of <NUM> points at <NUM> <COMMA> with all but four of its <NUM> components rising <PUNC>
+the advance had the dow jones industrial average extending its tuesday winning streak to a 20th session <COMMA> the longest tuesday winning streak ever <COMMA> according to ryan detrick <COMMA> senior technical strategist at schaeffer s investment <PUNC>
+<PAR>

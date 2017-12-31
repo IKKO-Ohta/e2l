@@ -1,0 +1,9 @@
+the dow jones industrial average was on course to post its biggest one-day decline in nearly four months <PUNC>
+hewlett-packard <COMMA> however <COMMA> was a bright spot within the dow industrials <COMMA> after the computer and printer maker posted strong quarterly earnings <PUNC>
+the dow dji was last down <NUM> points at <NUM> <COMMA> after falling more than <NUM> points to a session low of <NUM> <PUNC>
+the benchmark is looking at its biggest one-day drop since jan. <NUM> and is languishing at a one-month low <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to losses. <PUNC>
+hewlett-packard co. hpq was the only dow component posting gains <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
+the company reported a <NUM> percent rise in its second-quarter profit as the technology giant saw strong sales at its personal-computer and printing and imaging divisions <PUNC>
+the company s earnings also beat wall street expectations <PUNC>
+<PAR>

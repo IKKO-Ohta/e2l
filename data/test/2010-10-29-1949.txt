@@ -1,0 +1,9 @@
+the dow jones industrial average dji shed <NUM> points to <NUM> <COMMA> in recent trading as component stocks chevron and merck led to the downside <PUNC>
+chevron cvx fell <NUM> percent after the oil major s third-quarter earnings and revenue missed analysts expectations <PUNC>
+merck mrk dropped <NUM> percent as the company s earnings excluding items topped wall street estimates <COMMA> but revenue fell short of forecasts <PUNC>
+microsoft msft was among the dow s best performers with a <NUM> percent rise <PUNC>
+the software giant s fiscal first-quarter profit climbed <NUM> percent <COMMA> benefiting from a continued strong response to the windows <NUM> operating system and office <NUM> <PUNC>
+microsoft is also the dow s best performer this month <COMMA> up <NUM> percent over the period <PUNC>
+friday <COMMA> which marks the 81st anniversary of the crash of <NUM> known as black tuesday <COMMA> is the final trading day of what has been a strong october for stocks <PUNC>
+coming into friday s session <COMMA> the dow was up <NUM> percent for the month and the s&p <NUM> was up <NUM> percent for october <COMMA> the dow s best october since <NUM> and the s&p <NUM> s best october since <NUM> <PUNC>
+<PAR>

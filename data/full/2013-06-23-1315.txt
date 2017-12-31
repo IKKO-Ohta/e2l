@@ -1,0 +1,3 @@
+the central bankers also could share what they think of the market reaction to their decision <PUNC>
+the dow jones industrial average dji endured its worst two-day loss since <NUM> after the fed news <COMMA> resulting in a weekly loss of <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,11 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> wiping out an early decline <COMMA> as the consumer-confidence reading raised expectations about future economic activity <PUNC>
+on the final day of august <COMMA> key indexes are on track for a month of steep losses <PUNC>
+the dow has shed nearly <NUM> percent this month <COMMA> its first down august in five years <PUNC>
+this month is on track to be the blue-chip measure s worst august since <NUM> <PUNC>
+the nasdaq composite rixf edged up <NUM> percent to <NUM> <PUNC>
+technology stocks took a hit after technology researcher gartner cut its <NUM> projection for world-wide personal-computer shipments <COMMA> saying the second half won t be a strong as it previously expected <PUNC>
+intel intc fell <NUM> percent <COMMA> while cisco systems csco shed <NUM> percent <PUNC>
+flash-memory device maker sandisk sndk fell <NUM> percent <PUNC>
+the dow was recently up <NUM> percent to <NUM> <COMMA> boosted by a <NUM> percent rise in caterpillar cat <PUNC>
+pfizer pfe <COMMA> the measure s top performer this month as of monday s close <COMMA> rose <NUM> percent tuesday after an experimental blood-thinning drug it developed with bristol-myers squibb cut the rate of strokes among people with abnormal heartbeats by more than <NUM> percent versus aspirin <COMMA> and didn t significantly increase major bleeding <COMMA> according to a study <PUNC>
+<PAR>

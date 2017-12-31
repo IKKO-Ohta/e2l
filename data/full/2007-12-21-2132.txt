@@ -1,0 +1,3 @@
+hitting new highs for the week <COMMA> the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with the blue-chip index tallying a weekly advance of <NUM> percent <PUNC>
+of the dow s components <COMMA> all <NUM> ended higher <COMMA> led by at&t inc. t <COMMA> which gained <NUM> percent <PUNC>
+<PAR>

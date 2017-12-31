@@ -1,0 +1,5 @@
+the dow jones industrial average dji closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <COMMA> with merck & co. mrk leading the gains <PUNC>
+merck & co. mrk rose <NUM> percent after it reported higher-than-expected earnings <PUNC>
+gogo inc. gogo shares slid <NUM> percent after at&t inc. t said monday it would launch in-flight <COMMA> high-speed internet service on airlines <COMMA> competing with the company <PUNC>
+the slide triggered the short-sale circuit breaker on the nasdaq omx exchange <PUNC>
+<PAR>

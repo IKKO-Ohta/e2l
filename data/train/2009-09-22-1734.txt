@@ -1,0 +1,4 @@
+on wall street <COMMA> energy and financial shares fared the best as the major indexes advanced <NUM> percent and more <PUNC>
+the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx added <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf rose <NUM> points to <NUM> <PUNC>
+<PAR>

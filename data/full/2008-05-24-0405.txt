@@ -1,0 +1,5 @@
+down <NUM> points <COMMA> or <NUM> percent <COMMA> since the start of the year <COMMA> the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> on friday <PUNC>
+general motors corp. gm led blue-chip losses <COMMA> falling <NUM> percent after the automaker said it anticipates taking a dollar <NUM> billion hit in the second quarter and further cutting production <PUNC>
+<PAR>
+for the week <COMMA> the dow industrials lost <NUM> percent <COMMA> the s&p <NUM> <NUM> percent and the nasdaq <NUM> percent <PUNC>
+<PAR>

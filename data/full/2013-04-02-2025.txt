@@ -1,0 +1,6 @@
+u.s. stocks gained tuesday <COMMA> with the dow jones industrial average and s&p <NUM> hitting record closing highs <COMMA> as health insurers rallied on medicare-reimbursement news and u.s. factory orders rose in february <PUNC>
+after rising <NUM> points to an all-time intraday high of <NUM> <COMMA> the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> its loftiest close ever <PUNC>
+unitedhealth group inc. unh led gains among all but seven of the benchmark s <NUM> components <PUNC>
+the health insurer rallied <NUM> percent <PUNC>
+hewlett-packard co. shares hpq slumped <NUM> percent after goldman sachs downgraded the high-tech giant to sell from neutral <PUNC>
+<PAR>

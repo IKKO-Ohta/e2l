@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> the s&p <NUM> spx down <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf down <NUM> points at <NUM> <PUNC>
+altria group mo rose <NUM> percent after a federal judge in tennessee today dismissed a lawsuit challenging philip morris usa s wholesale leaders program <PUNC>
+separately <COMMA> a missouri appellate court upheld a lower court decision to grant class-action status to a lawsuit filed against the company s philip morris usa unit by a group of light cigarette smokers <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+down more than <NUM> points early on <COMMA> the dow jones industrial average dji was more recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components hit with losses <PUNC>
+the dow s hard-hit included alcoa inc. aa <COMMA> recently down <NUM> percent <COMMA> and home depot inc. hd <COMMA> off <NUM> percent <PUNC>
+another blue chip <COMMA> citigroup inc. c recovered from early losses <COMMA> recently up <NUM> percent <COMMA> despite its downgrade by moody s investors service in response to citi s plan to move about dollar <NUM> billion in assets from structured investment vehicles onto its balance sheet <PUNC>
+<PAR>
+the dow s other advancing stocks included boeing co. ba <COMMA> up <NUM> percent <COMMA> and microsoft corp. msft <COMMA> ahead <NUM> percent <PUNC>
+coca-cola co. ko also gained <COMMA> up <NUM> percent <PUNC>
+off the dow <COMMA> shares of black & decker corp. bdk were off <NUM> percent after the power-tool maker warned business conditions and an anticipated recall would dent current-quarter results <PUNC>
+u.s. stocks remained under pressure thursday <COMMA> closing mixed <COMMA> though honeywell international inc. s hon earnings forecasts helping lift sentiment on industrials <PUNC>
+the dow industrials ended up <NUM> points <COMMA> while the nasdaq ended the day down <NUM> points <PUNC>
+<PAR>

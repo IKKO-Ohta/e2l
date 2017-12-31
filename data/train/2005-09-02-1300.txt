@@ -1,0 +1,10 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> off an intraday high of <NUM> <PUNC>
+shares of boeing co. ba felll <NUM> percent to dollar <NUM> in pre-market trading on instinet after the airplane manufacturer s 18,000-strong machinists union rejected its offer and authorized a strike set to start september <NUM> <PUNC>
+american international group aig <COMMA> drew an upgrade to buy from hold from a.g. edwards <PUNC>
+the broker said the insurer s earnings have remained strong in the face of regulatory probes <PUNC>
+on thursday <COMMA> the stock ended up <NUM> percent to dollar <NUM> <PUNC>
+merrill lynch meanwhile reiterated a buy rating on industrial bellwether general electric co. ge <PUNC>
+we believe that ge should begin to outperform in the fourth quarter against a backdrop of strong fundamentals and favorable historical trading patterns <PUNC>
+moreover <COMMA> ge may accelerate its share repurchase program in the fourth quarter which could also provide incremental share price support <COMMA> the broker said <PUNC>
+on thursday <COMMA> the stock closed out the session <COMMA> down <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

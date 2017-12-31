@@ -1,0 +1,8 @@
+u.s. stocks extended steep losses at monday s opening <COMMA> with the dow jones industrial average shedding more than <NUM> points <COMMA> on signs that trouble in the housing market is having a negative impact on the u.s. economy at large <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
+on friday <COMMA> u.s. stocks dropped sharply on the 20th anniversary of black monday in reaction to disappointing results and earnings outlooks from blue chips honeywell international inc. hon <COMMA> 3m co. mmm and caterpillar inc. cat <PUNC>
+though the 367-point plunge in the dow on friday and the safe haven rally in bonds implies fears we re on the road to ruin <COMMA> data have suggested the problems may only be speed bumps along a still healthy growth path <COMMA> said the action economics analysts <PUNC>
+on the earnings front <COMMA> schering-plough corp. sgp reported a doubling of earnings <COMMA> merck company inc. mrk lifted its <NUM> earnings guidance and hasbro inc. has reported a <NUM> percent profit rise <PUNC>
+in retailing <COMMA> wal-mart stores inc. wmt said it s pulling animal toy sets from its shelves after discovering excessive amounts of lead <PUNC>
+the retailer and dow component also said it would buy the remaining <NUM> percent of japanese retailer seiyu that it doesn t already own <PUNC>
+<PAR>

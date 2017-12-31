@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components rose <COMMA> led by general motors corp. gm <PUNC>
+u.s. stocks took a heavy hit on friday due to nervousness about a combination of rising treasury yields <COMMA> global interest rates and whether subprime lending woes have further to unwind <PUNC>
+the dow industrials dropped <NUM> points <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the s&p <NUM> spx lost <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with the energy sector leading the losses <PUNC>
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf defied the general trend and finished the session <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+shares in boeing company ba rose <NUM> percent after the aircraft maker confirmed an order to provide <NUM> of its <NUM> max airplanes to ryanair ryaay <PUNC>
+<PAR>

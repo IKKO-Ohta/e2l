@@ -1,0 +1,4 @@
+on friday <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+but as the month of september draws to a close <COMMA> the market remains higher for the month so far <COMMA> with the dow up <NUM> percent <COMMA> the s&p up <NUM> percent <COMMA> and the nasdaq up <NUM> percent <PUNC>
+<PAR>

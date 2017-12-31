@@ -1,0 +1,4 @@
+the dow jones industrial average was up <NUM> points at <NUM> <COMMA> off an intraday high of <NUM> hit early on <PUNC>
+the s&p <NUM> index climbed <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
+information technology and consumer discretionary paced sector gains <COMMA> while health-care shares led losses <PUNC>
+<PAR>

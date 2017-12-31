@@ -1,0 +1,9 @@
+all this bad news should be adding up to a triple-digit loss for the dow <COMMA> but there is already a lot of bad news priced into the market <COMMA> and you get to the point where you price in enough bad news and you get to have an opposite day <COMMA> said art hogan <COMMA> chief market strategist at jefferies & co <PUNC>
+listen to hogan <PUNC>
+after falling early on <COMMA> the dow jones industrial average dji switched gears <COMMA> climbing <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <PUNC>
+the blue-chip advance was led by ibm ibm <COMMA> up nearly <NUM> percent after the tech giant raised its <NUM> earnings forecast due to the positive impact of a dollar <NUM> billion stock buyback plan <PUNC>
+<PAR>
+blue-chip laggards included bank of america corp. bac <COMMA> boeing co. ba <COMMA> general electric co. ge and microsoft corp. msft <COMMA> all off less than <NUM> percent <PUNC>
+in other earnings <COMMA> home depot inc. hd reported a <NUM> percent profit decline a day after smaller rival lowe s cos. low unveiled a <NUM> percent profit plunge <PUNC>
+home depot expects <NUM> adjusted earnings per share to slide as much as <NUM> percent on a <NUM> percent sales drop <PUNC>
+<PAR>

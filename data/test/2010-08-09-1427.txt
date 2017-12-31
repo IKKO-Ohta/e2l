@@ -1,0 +1,5 @@
+with the dow jones industrial average dji up about <NUM> points in recent trading <COMMA> the market is attempting to recover from friday s weak jobs report that sent stocks lower and added to concerns over the sustainability of the economic recovery <PUNC>
+investors are now shifting their focus to a tuesday meeting of the federal reserve with cautious optimism that the weak employment environment could prompt the central bank to take further measures to stimulate the economy <PUNC>
+mcdonald s corp. mcd led the dow s gains with a <NUM> percent jump after the fast-food giant posted a <NUM> percent increase in global same-store sales for july <COMMA> its highest monthly gain since january <NUM> <PUNC>
+keeping the dow s gains in check <COMMA> hewlett-packard co. hpq shares sank to the bottom of the dow with a <NUM> percent drop <COMMA> after the friday resignation of chief executive mark hurd following a probe into a sexual-harassment claim against him made by former contractor jodie fisher <PUNC>
+<PAR>

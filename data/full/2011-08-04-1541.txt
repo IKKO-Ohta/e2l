@@ -1,0 +1,3 @@
+after sliding as much as <NUM> points <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all but one of its <NUM> components trading lower <PUNC>
+the sole survivor of the session s battering among blue-chips proved to kraft foods inc. kft <COMMA> its shares rising <NUM> percent after the food giant said it would split into two publicly trading companies <PUNC>
+<PAR>

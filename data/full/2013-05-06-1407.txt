@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with two thirds of <NUM> components falling <PUNC>
+intel corp. intc shares held steady after the chip manufacturer s mcafee security unit offered to purchase finland s stonesoft oyj for dollar <NUM> million <PUNC>
+stocks finished last week with a blockbuster session <COMMA> with the dow industrials finishing at a record close of <NUM> <COMMA> a gain of <NUM> points <COMMA> while the standard & poor s <NUM> index spx for the first time closed above <NUM> <PUNC>
+also <PUNC> see lessons from past dow milestones <PUNC>
+<PAR>

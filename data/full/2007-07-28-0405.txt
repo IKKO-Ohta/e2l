@@ -1,0 +1,13 @@
+u.s. stocks will continue to fall next week <COMMA> in continuation of a sell-off that saw the dow jones industrial average experience its worst week in over four years <COMMA> due to nervousness that the easy-money binge of the last few years has come to an end <PUNC>
+stocks stumbled over the past week <COMMA> with the dow jones industrial average dji losing <NUM> percent on the week after experiencing two successive sell-off sessions <NUM> points on thursday <COMMA> and <NUM> points on friday <PUNC>
+that was the worst week for the dow since march <NUM> <COMMA> and it ended up leaving the blue-chip average down <NUM> percent for the month so far <COMMA> just one week after it closed above <NUM> for the first time <PUNC>
+the dow still sits on a gain of <NUM> percent for the year <PUNC>
+next week <COMMA> investors will sift through earnings from dow components verizon communications inc. vz on monday <COMMA> general motors corp. gm on tuesday <COMMA> walt disney co. dis on wednesday and procter & gamble co. pg on friday <PUNC>
+away from the dow <COMMA> investors will await earnings from tech bellwether sun microsystems inc. sunw on monday <COMMA> as well as from electronic data systems eds on wednesday <PUNC>
+big telecom firms including qwest communications international q <COMMA> citizens communications czn and alltel corp. at also report wednesday <PUNC>
+firms seeking to finance the leverage buy-outs of a majority of daimlerchrysler ag s dcx unit chrysler and of general motors corp. gm unit allison transmission had to delay the deals this week as credit markets refused to provide them with the expected advantageous terms <PUNC>
+investors will be keen to see whether there is any progress on either deal next week <PUNC>
+in addition <COMMA> some companies such as dow component home depot inc. hd may run into trouble when they try to raise money for already announced stock buy backs <COMMA> according to john atkins <COMMA> corporate bond analyst at ideaglobal <PUNC>
+among dow components <COMMA> boeing co. ba and merck & co. mrk beat estimates by a wide margin last week <COMMA> while exxon mobil corp. xom disappointed <PUNC>
+3m co. mmm <COMMA> at&t inc. t and american express axp just beat expectations by a slight margin <PUNC>
+<PAR>

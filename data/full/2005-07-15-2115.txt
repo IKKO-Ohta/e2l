@@ -1,0 +1,8 @@
+the dow jones industrial average dji ended up <NUM> points at <NUM> <COMMA> a four-month high <PUNC>
+for the week <COMMA> the benchmark index rose <NUM> percent <PUNC>
+within the dow <COMMA> shares of ge ge bounced off lows to trade down just <NUM> percent after the industrial conglomerate issued a third-quarter outlook that fell short of analyst expectations <PUNC>
+there was better news out of mcdonald s mcd <COMMA> however <COMMA> as the fast-food s giant s stock rallied <NUM> percent on an upbeat second-quarter outlook <PUNC>
+also in the dow <COMMA> hewlett-packard hpq climbed <NUM> percent amid media reports that it s close to announcing significant layoffs as part of a major restructuring plan <PUNC>
+shares of hewlett-packard hpq gained on media reports that the computer and printer maker is set to announce a major restructuring plan as early as next week <PUNC>
+also <COMMA> procter & gamble pg overcame another hurdle in its bid to seal its purchase of gillette co. g as european antitrust regulators approved the acquisition <COMMA> with only minimum conditions <PUNC>
+<PAR>

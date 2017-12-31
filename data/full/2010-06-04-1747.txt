@@ -1,0 +1,5 @@
+the dow jones industrial average dji darted below <NUM> points after the euro cur_eurusd fell below dollar <NUM> around midday <COMMA> bouncing around that level in choppy trading <PUNC>
+the index was recently trading down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the dow had previously dipped below the <NUM> level last week before climbing back above it <PUNC>
+all <NUM> of its components were lower <COMMA> including declines of more than <NUM> percent each in caterpillar cat <COMMA> general electric ge and american express axp <PUNC>
+<PAR>

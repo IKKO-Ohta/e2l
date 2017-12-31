@@ -1,0 +1,8 @@
+the dow jones industrial average dji shed early losses near midday <COMMA> rising <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> as the trading session wound down <PUNC>
+alcoa inc. aa led gainers <COMMA> up <NUM> percent <PUNC>
+bank of america corp. bac <COMMA> earlier the dow s biggest advancer as shares stretched over dollar <NUM> <COMMA> turned lower to lead blue-chip losses <PUNC>
+out of <NUM> components <COMMA> <NUM> were higher <PUNC>
+some tech bellwethers slid <COMMA> limiting index gains <PUNC>
+microsoft corp. msft was down <NUM> percent and hewlett-packard hpq lost <NUM> percent <PUNC>
+if you were managing some large portfolio for dividend stocks <COMMA> and you had ibm ibm <COMMA> microsoft or others <COMMA> now you have the chance to buy apple <COMMA> said david rolfe <COMMA> chief investment officer with wedgewood partners and manager of the riverpark/wedgewood fund rwgfx <PUNC>
+<PAR>

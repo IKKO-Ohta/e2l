@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+dupont dd rose <NUM> percent <COMMA> while mcdonald s mcd gained <NUM> percent and boeing ba rose <NUM> percent <PUNC>
+technology components lagged <COMMA> with intel intc down <NUM> percent and cisco systems csco off <NUM> percent <PUNC>
+<PAR>

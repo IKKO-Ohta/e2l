@@ -1,0 +1,7 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> advancing further into record territory <PUNC>
+of the dow s <NUM> component stocks <COMMA> <NUM> advanced <COMMA> led by the likes of united technologies utx <COMMA> dupont dd <COMMA> mcdonald s mcd and at&t inc. t <PUNC>
+bucking the positive trend <COMMA> shares of citigroup inc. c fell <NUM> percent <PUNC>
+wachovia s purchase of a.g. edwards pushed it past citigroup as the second largest retail brokerage firm in the u.s. behind merrill lynch mer <PUNC>
+u.s. stocks had rallied on wednesday after overcoming morning jitters about a sharp shanghai stock market decline <PUNC>
+the dow industrials managed a 111-point gain and the nasdaq shot up <NUM> points <PUNC>
+<PAR>

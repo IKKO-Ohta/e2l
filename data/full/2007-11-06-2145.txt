@@ -1,0 +1,6 @@
+wall street on tuesday retrieved an earlier bounce and rallied into the close <COMMA> as exxon mobil corp. helped lead the dow industrials higher <COMMA> with the oil giant buoyed as crude-oil prices rallied to new highs <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+exxon xom was among the bigger gainers <COMMA> up <NUM> percent <PUNC>
+not all of the blue-chip financials followed suit <COMMA> however <PUNC>
+citigroup inc. c saw its shares move down <NUM> percent amid reports that the same executive who steered its role in the rescue of collapsed hedge fund long-term capital management has been tapped to run a new dedicated subprime unit <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+dow industrials component american international group inc. aig rose <NUM> percent in pre-open trade after it said first-quarter net income jumped <NUM> percent while revenue in the period rose <NUM> percent <PUNC>
+revenue was dollar <NUM> billion <COMMA> up from dollar <NUM> billion a year ago <PUNC>
+<PAR>

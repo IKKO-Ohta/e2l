@@ -1,0 +1,6 @@
+u.s. stocks rallied on tuesday <COMMA> with the dow average notching its best day in five weeks <COMMA> as investors focused on reports germany was considering a rescue package for debt-strapped greece <PUNC>
+the dow jones industrial average dji finished up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> its best one-day gain in both point and percentage terms since jan. <NUM> <COMMA> the year s first trading session <PUNC>
+at its intraday high just after midday <COMMA> the blue-chip average posted a gain of <NUM> points <PUNC>
+the dow was led by a <NUM> percent jump in caterpillar inc. cat <COMMA> which was upgraded along with several other industrial names by analysts at morgan stanley <PUNC>
+coca-cola co. ko was also a big gainer among the blue chips <COMMA> up <NUM> percent after reporting a <NUM> percent gain in fourth-quarter profit <PUNC>
+<PAR>

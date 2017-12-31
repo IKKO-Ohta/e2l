@@ -1,0 +1,3 @@
+on tuesday <COMMA> consumer discretionary shares fell the most as wall street wavered mostly lower after a two-day drop that had the dow jones industrial average dji losing more than <NUM> points <PUNC>
+the dow industrials were recently up <NUM> points at <NUM> <PUNC>
+<PAR>

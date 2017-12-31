@@ -1,0 +1,4 @@
+u.s. stocks were mixed monday <COMMA> with the dow jones industrial average paring earlier losses <COMMA> as a slide in crude oil prices helped ease inflationary worries sparked by a june economic report a day ahead of the federal reserve s decision on interest rates <PUNC>
+the dow jones industrial average was up <NUM> points at <NUM> <COMMA> bouncing back from an earlier low of <NUM> <PUNC>
+out of the dow s <NUM> component stocks <COMMA> <NUM> advanced <COMMA> with gains in citigroup inc. and pfizer inc. offsetting selling pressure in shares of alcoa and exxon mobil corp. <PUNC>
+<PAR>

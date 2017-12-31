@@ -1,0 +1,5 @@
+u.s. stocks opened higher wednesday <COMMA> sending the dow jones industrial average back above the key <NUM> level after a greek official said the international monetary fund is considering boosting its loan to greece <PUNC>
+the dow dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
+caterpillar cat was its best performer <COMMA> up <NUM> percent <COMMA> recovering a bit from its tuesday tumble <PUNC>
+the dow s financial components were also strong <COMMA> with j.p. morgan jpm up <NUM> percent and bank of america bac up <NUM> percent <PUNC>
+<PAR>

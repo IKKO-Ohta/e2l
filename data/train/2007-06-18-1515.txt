@@ -1,0 +1,9 @@
+the dow jones industrial average dji was down about <NUM> points at <NUM> in morning action <COMMA> while the s&p <NUM> spx fell <NUM> points to <NUM> and the nasdaq composite rixf dropped nearly <NUM> points to stand at <NUM> <PUNC>
+shares of alcoa aa rose <NUM> percent <PUNC>
+a report in the times of london newspaper said bhp billiton ltd. bhp is reviewing plans to make an offer for the aluminum producer <PUNC>
+boeing co. ba was in focus as the paris air show began <COMMA> its stock down <NUM> percent at dollar <NUM> <PUNC>
+rounding out the blue chips <COMMA> wal-mart stores inc. wmt nosed <NUM> percent higher <PUNC>
+the giant retailer has asked a state court in michigan to dismiss the lawsuit filed by fired advertising executive julie roehm <COMMA> contending that she lives in arkansas <PUNC>
+in another deal-related development <COMMA> shares of dow jones & co. dj <COMMA> publisher of this report <COMMA> lost <NUM> percent <PUNC>
+general electric co. ge and pearson pso <COMMA> publisher of the financial times <COMMA> are in talks about potentially making a joint bid for the publishing company <COMMA> according to the wall street journal <PUNC>
+<PAR>

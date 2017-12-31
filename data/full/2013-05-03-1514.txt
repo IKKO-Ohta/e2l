@@ -1,0 +1,5 @@
+u.s. stocks leapt on friday <COMMA> lifting the s&p <NUM> index above <NUM> and the dow industrials above <NUM> for the first time <COMMA> as the u.s. economy added more jobs than projected in april and the jobless rate fell to a four-year low <PUNC>
+the dow jones industrial average dji hit a record intraday high of <NUM> <COMMA> its first time above <NUM> <COMMA> and was lately up <NUM> points at <NUM> <COMMA> with all but two of its <NUM> components in positive turf <PUNC>
+it s more psychological <COMMA> that level of <NUM> points <PUNC>
+the same with the dow at <NUM> <PUNC> they ve never made landmarks together <COMMA> said silverblatt of the milestones <COMMA> reached by the s&p <NUM> at the open and the latter of which was hit an hour later <PUNC>
+<PAR>

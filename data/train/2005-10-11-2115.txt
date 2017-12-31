@@ -1,0 +1,8 @@
+new york dow jones u.s. stocks closed mixed tuesday <COMMA> with only the dow industrials eking out a gain <COMMA> after strength in energy futures stoked underlying nervousness about inflation and dented early investor enthusiasm for positive earnings news <PUNC>
+the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> well below an earlier high of <NUM> <PUNC>
+stocks opened higher on positive response to earnings from alcoa aa and biotechnology bellwether genentech inc. dna but the market later weakened <PUNC>
+shares of general motors corp. gm <COMMA> also in the dow <COMMA> rose <NUM> percent to dollar <NUM> after the stock lost <NUM> percent of its value monday in the wake of the bankruptcy filing of its former unit <COMMA> delphi <PUNC>
+dow component <COMMA> exxon mobil corp. xom advanced <NUM> percent to dollar <NUM> <COMMA> as the energy futures shot higher <PUNC>
+the cboe oil index oix rose almost <NUM> percent <PUNC>
+international business machines corp. ibm ended up <NUM> percent at dollar <NUM> after credit suisse first boston upgraded that dow component to an outperform rating <COMMA> citing improving margins in some divisions <PUNC>
+<PAR>

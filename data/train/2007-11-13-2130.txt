@@ -1,0 +1,8 @@
+u.s. stocks surged higher tuesday as beleaguered financial stocks fronted a rally that sparked the dow s biggest single-day jump in eight weeks after goldman sachs outlook helped appease market jitters about the credit crisis <PUNC>
+snapping an extended four-day losing streak <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but one of its <NUM> components ending higher <COMMA> led by financials <COMMA> including jpmorgan chase jpm <COMMA> up <NUM> percent <PUNC>
+drug stocks also moved higher <COMMA> as nektar therapeutics nktr jumped nearly <NUM> percent following news pfizer inc. pfe would pay nektar dollar <NUM> million for discontinuing sales of their jointly developed insulin product exubera <COMMA> which has posted anemic sales <PUNC>
+down earlier on <COMMA> shares of exxon mobil corp. xom finished up <NUM> percent <PUNC>
+home depot inc. hd reported third-quarter income dropped an expected <NUM> percent amid ongoing weakness in the housing market <PUNC>
+the nation s biggest home improvement retailer also cut its forecast for the year <PUNC>
+stocks were due for a reversal after a volatile session monday <COMMA> which had the dow moving up more than <NUM> points before closing below the <NUM> level for the first time since the middle of august <PUNC>
+<PAR>

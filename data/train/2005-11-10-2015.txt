@@ -1,0 +1,6 @@
+the dow jones industrial average dji rallied as much as <NUM> points <PUNC>
+general motors gm fell as much as <NUM> percent <COMMA> adding to the pressure on the dow <PUNC>
+the world s largest automaker announced it will restate earnings for <NUM> because an accounting error led it to overstate the year s profit by up to dollar <NUM> million <PUNC>
+on wednesday <COMMA> gm s stock hit a 13-year low <PUNC>
+fellow dow component intel intc gained up as much as <NUM> percent after its buyback and dividend news <PUNC>
+<PAR>

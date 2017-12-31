@@ -1,0 +1,5 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> to <NUM> <COMMA> in early trading <PUNC>
+verizon vz was the dow s worst performer <COMMA> dropping <NUM> percent after reporting a fourth-quarter loss as a result of charges related to job cuts in the period <PUNC>
+johnson & johnson jnj was among the measure s worst performers after reporting fourth-quarter earnings of <NUM> cents a share <COMMA> below analysts estimates <PUNC>
+travelers companies trv led the dow <COMMA> with the insurer rising <NUM> percent after its fourth-quarter earnings jumped <NUM> percent to its highest quarterly profit since going public in <NUM> <PUNC>
+<PAR>

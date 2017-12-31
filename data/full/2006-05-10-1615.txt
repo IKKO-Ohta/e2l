@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> in midday trading <COMMA> after having ended the prior session at a more than six-year high <PUNC>
+walt disney co. dis added <NUM> cents to dollar <NUM> after the media giant surprised analysts with better-than-expected earnings <PUNC>
+gains at its espn sports-television channel helped overcome a lackluster performance turned in by its consumer-products and studio divisions <PUNC>
+the auto sector saw broad gains <COMMA> with general motors corp. gm rising as much as <NUM> percent to dollar <NUM> <COMMA> a move one analyst said was likely triggered by the company s 10-q filing <PUNC>
+<PAR>

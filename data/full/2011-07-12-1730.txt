@@ -1,0 +1,8 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or less than <NUM> percent <COMMA> at <NUM> <PUNC>
+shares of cisco systems inc. csco led with a <NUM> percent gain on speculation the tech company may cut <NUM> jobs <PUNC>
+lagging on the dow were shares of intel corp. intc <COMMA> which fell <NUM> percent <PUNC>
+shares of dow component alcoa inc. aa moved down <NUM> percent after reporting financial results late monday <PUNC>
+excluding charges <COMMA> the aluminum producer s second-quarter income from continuing operations was a penny short of expectations <PUNC>
+u.s. stocks looked to be stabilizing after a rocky monday session as soaring bond yields in spain as well as italy posed the risk that a potential default by greece would create a mass exodus from other european countries debt <PUNC>
+the dow lost <NUM> points monday to close at <NUM> <COMMA> its lowest close since june <NUM> <PUNC>
+<PAR>

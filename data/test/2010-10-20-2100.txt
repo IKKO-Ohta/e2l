@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the standard & poor s 500-stock index spx rose by <NUM> points to <NUM> and the nasdaq composite rixf gained <NUM> points to <NUM> <PUNC>
+transport stocks also leapt <COMMA> with the dow jones transport average djt gaining <NUM> percent after a trio of airlines reported strong earnings <PUNC>
+boeing ba added <NUM> percent to lead the dow components after the aerospace company said it swung to a quarterly profit from a year-ago loss and lifted its outlook <PUNC>
+intel gained <NUM> percent after it said it would invest up to dollar <NUM> billion over several years to upgrade its manufacturing plants in the u.s. and build a new research facility in oregon <PUNC>
+<PAR>

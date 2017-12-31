@@ -1,0 +1,4 @@
+recovering earlier losses <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> while the s&p <NUM> spx moved down <NUM> points at <NUM> and the nasdaq composite rixf lost <NUM> points at <NUM> <PUNC>
+news from the philadelphia fed that its manufacturing survey index rose to <NUM> in august from <NUM> in july helped the major averages pare their losses and sent the dow benchmark into positive territory <PUNC>
+on the rise was altria group mo <COMMA> shares of which shot up <NUM> percent after the illinois supreme court tossed out a billion-dollar verdict in a consumer-fraud suit <COMMA> giving a possible preview of its stance in a somewhat similar case involving the food-and-tobacco titan <PUNC>
+<PAR>

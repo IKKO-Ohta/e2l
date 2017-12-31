@@ -1,0 +1,6 @@
+the dow jones industrial average dji was off <NUM> points at <NUM> in early afternoon trade <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by mcdonald s corp. mcd <COMMA> which advanced <NUM> percent <PUNC>
+the technology sector maintained some of its early gains <COMMA> with dow component intel corp. intc up <NUM> percent after the chipmaker lifted its third-quarter revenue guidance. <PUNC>
+dow component home depot inc. hd fell <NUM> percent after the home-improvement retailer said it bought back about dollar <NUM> billion in stock under a dutch auction tender <PUNC>
+shares of walt disney co. dis dipped <NUM> percent following the company s statement that it would test some of its toys to ensure they meet safety standards <PUNC>
+yahoo inc. yhoo will likely hold onto the web-search-advertising businesses that it had considered outsourcing to google inc. goog or microsoft corp. msft <COMMA> the wall street journal reported <PUNC>
+<PAR>

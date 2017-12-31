@@ -1,0 +1,2 @@
+dialing back from a more than 300-point drop <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
+<PAR>

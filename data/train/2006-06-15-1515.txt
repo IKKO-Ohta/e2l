@@ -1,0 +1,7 @@
+u.s. stocks rallied thursday <COMMA> with the dow jones industrial average tapping a triple-digit gain for a second session <COMMA> as hopes rose that heavy selling over the last month fueled by inflation concerns may have finally exhausted itself <PUNC>
+gains for dow component caterpillar inc. cat on the back of an upbeat outlook from its chief executive underpinned gains on the blue-chip index <PUNC>
+the dow industrials dji were up <NUM> points at <NUM> after rising more than <NUM> points in the prior session for the first time in more than a month <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+caterpillar inc. cat shares rallied <NUM> percent to dollar <NUM> after chairman and chief executive james w. owens told shareholders at the company s annual meeting that <NUM> is shaping up to be the company s third year in a row of record earnings <PUNC>
+owens reaffirmed the company s <NUM> profit outlook of earnings between dollar <NUM> and dollar <NUM> a share <PUNC>
+<PAR>

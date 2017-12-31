@@ -1,0 +1,12 @@
+the dow jones industrial average dji fell to a session low of <NUM> before trimming losses <PUNC>
+the benchmark index was last down <NUM> points at <NUM> <PUNC>
+within the dow industrials <COMMA> general motors corp. gm briefly climbed to a session high of dollar <NUM> after its financial services subsidiary <COMMA> general motors acceptance corp. <COMMA> said monday afternoon it has agreed to sell up to dollar <NUM> billion in u.s. car loans to the bank of nova scotia s bns scotia capital over five years <PUNC>
+the carmaker s gains however were short lived <COMMA> with the stock now trading <NUM> cents at dollar <NUM> <PUNC>
+exxon mobil corp. xom was one of the biggest percentage gainers <COMMA> up <NUM> percent at dollar <NUM> <COMMA> buoyed by the spike in crude-oil prices <PUNC>
+elsewhere on the dow <COMMA> wal-mart stores inc. wmt traded lower for the sixth session in a row as investors remained nervous about the holiday shopping season following mixed reports on sales over the thanksgiving holiday <PUNC>
+the stock was last off <NUM> percent at dollar <NUM> <PUNC>
+shares in boston scientific corp. bsx fell as much as <NUM> percent to dollar <NUM> before staging a recovery <COMMA> after the medical-equipment maker came in with a late bid to acquire guidant corp. gdt <COMMA> in an attempt to swoop in and grab the company from johnson & johnson <PUNC>
+jnj <PUNC>
+verizon communications vz rose as high as dollar <NUM> before turning lower <COMMA> after the telecom operator said it will sell or spin off its directories unit valued at more than dollar <NUM> billion <PUNC>
+the stock was last off <NUM> cents at dollar <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+u.s. stocks dropped steeply at friday s start <COMMA> knocking more than <NUM> points off the dow industrials <COMMA> as write-downs for american express co. and reportedly merrill lynch & co. weighed heavily on the equities market <PUNC>
+the dow jones industrial average dji was recently off <NUM> points at <NUM> <COMMA> with just four of its <NUM> components remaining higher <PUNC>
+u.s. stocks jumped thursday <COMMA> buoyed by comments from federal reserve chairman ben bernanke suggesting aggressive rates action as well as talk that bank of america was in talks to buy countrywide financial corp <PUNC>
+the dow industrials closed with a 117-point advance <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite tacked on nearly <NUM> points <PUNC>
+in other deal-related developments <COMMA> dow component j.p. morgan chase co. jpm has had preliminary talks with washington mutual inc. wm about acquiring the mortgage giant <COMMA> cnbc television reported friday morning <PUNC>
+american express axp followed in capital one s footsteps <COMMA> warning it will have to take a charge of dollar <NUM> million before tax in the fourth quarter to cover higher delinquencies and loan write-offs <PUNC>
+<PAR>

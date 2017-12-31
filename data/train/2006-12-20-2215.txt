@@ -1,0 +1,4 @@
+the dow jones industrial average dji finished down <NUM> points at <NUM> <COMMA> with <NUM> of <NUM> components contributing to losses <PUNC>
+the dow had been up as much as <NUM> points at an all-time high of <NUM> earlier in the session <COMMA> stopping just short of the psychologically-significant level of <NUM> <PUNC>
+exxon mobil corp. xom fell <NUM> percent and was one of several issues weighing down the blue-chip average <PUNC>
+<PAR>

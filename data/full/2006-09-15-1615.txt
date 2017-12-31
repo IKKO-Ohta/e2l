@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> in morning action <PUNC>
+friday s gains place the blue-chip barometer within striking distance of its all-time high <PUNC>
+the dow reached an all-time intraday high of <NUM> on jan. <NUM> <COMMA> <NUM> <COMMA> while the all-time closing high of <NUM> occurred the same day <PUNC>
+<PAR>

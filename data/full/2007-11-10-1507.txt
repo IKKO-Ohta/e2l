@@ -1,0 +1,6 @@
+stocks experienced another slide on friday <COMMA> with the dow jones industrial average dji finishing off <NUM> points at <NUM> <COMMA> capping a week of pain that shaved <NUM> percent from the blue chip index <PUNC>
+helping take the pulse of u.s. and global consumers <COMMA> wal-mart stores wmt and home depot inc. hd will also report earnings on tuesday <COMMA> followed by jc penney jcp on thursday <PUNC>
+a litany of financial companies continued to reveal the pain inflicted on their books by bad home loans made during the heydays of the housing bubble <PUNC>
+just on friday <COMMA> more woes were either announced or speculated on not only at u.s. banks wachovia wb and state street stt <COMMA> insurance giant aig aig and wall street firm morgan stanley ms <COMMA> but also at the uk s barclays and canada s cibc <PUNC>
+the likes of cisco and microsoft msft <COMMA> who make so much money overseas <COMMA> can benefit from a weaker dollar <COMMA> but the rest of the story is still linked to the economy <COMMA> windham s mendelsohn said <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+futures for the dow jones industrial average djh5 rose <NUM> points to <NUM> <COMMA> while those for the s&p <NUM> index sph5 added <NUM> points to <NUM> <PUNC>
+futures for the nasdaq <NUM> index ndh5 gained <NUM> points to <NUM> <PUNC>
+stocks to watch <PUNC> goldman sachs group inc. gs said late monday it is selling its metal-warehousing unit to reuben brothers <PUNC>
+<PAR>

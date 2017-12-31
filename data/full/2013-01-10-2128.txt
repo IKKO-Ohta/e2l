@@ -1,0 +1,4 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+bank of america corp. bac led blue-chip gains <COMMA> which included <NUM> of the dow s <NUM> components <PUNC>
+microsoft corp. msft fell <NUM> percent after morgan stanley downgraded the globe s biggest software manufacturer to equalweight from underweight <PUNC>
+<PAR>

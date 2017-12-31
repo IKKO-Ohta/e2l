@@ -1,0 +1,10 @@
+new york dow jones u.s. stocks were off their highs <COMMA> with the dow jones industrial average in negative territory <COMMA> late wednesday after crude futures logged record intraday and closing highs <PUNC>
+with less than a half hour of trade left <COMMA> the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> after rallying <NUM> points to a 5-month intraday high of <NUM> <PUNC>
+although many dow components were lower <COMMA> exxonmobil was up <NUM> cents at dollar <NUM> after the crude news <PUNC>
+among the <NUM> dow components <COMMA> american international group rose <NUM> percent after the insurer reported better-than-expected quarterly results <PUNC>
+among the losers <COMMA> walt disney dis fell <NUM> percent after the company s fiscal third-quarter results and a legal victory in a suit dealing with its compensation of former exec michael ovitz disappointed wall street <PUNC>
+disney dis fell <NUM> percent to dollar <NUM> following its report of generally positive earnings <COMMA> although <COMMA> the company did fall short of revenue estimates and there were concern about its film studio s prospects <PUNC>
+american express axp rose <NUM> percent to dollar <NUM> after getting an upgrade to equal-weight from morgan stanley <PUNC>
+the brokerage cited operating leverage at its travel related services unit <PUNC>
+american international group aig moved <NUM> percent higher to dollar <NUM> <COMMA> after unveiling better-than-expected earnings <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+u.s. stocks rallied tuesday <COMMA> with the dow jones industrial average approaching a four-month high <COMMA> helped by strong earnings out of goldman sachs and upbeat sales from mcdonald s <PUNC>
+the dow industrials dji were last up <NUM> points at <NUM> <PUNC>
+the benchmark index is hovering around its best levels since may <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+shares of hewlett-packard hpq gained <NUM> percent at dollar <NUM> after chairman patricia dunn said she would step down from her post in january <NUM> <PUNC>
+chief executive mark hurd will replace her as chairman of the blue-chip technology bellwether at that date <PUNC>
+back on the dow <COMMA> mcdonald s corp. mcd saw its shares soar to their best levels since may <NUM> after the fast-food giant said august same-store sales rose <NUM> percent <COMMA> buoyed by strength in europe and the introduction of its new snack wrap <PUNC>
+the stock was up <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with bank of america corp. bac up <NUM> percent and j.p. morgan chase & co. jpm up <NUM> percent <PUNC>
+<PAR>

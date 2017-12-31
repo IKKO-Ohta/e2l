@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+the dow was on track to post a <NUM> percent gain for the month of january <PUNC>
+the blue-chip average was boosted by strong gains in the shares of boeing co. ba <COMMA> which rose <NUM> percent after posting better-than-expected earnings and raising its <NUM> earnings forecast <PUNC>
+fellow dow component altria group inc. mo fell <NUM> percent after posting earnings that beat expectations <COMMA> while raising its guidance for <NUM> <PUNC>
+it earlier announced the spin-off of its unit kraft foods inc. will be on march <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> on friday <PUNC>
+the blue-chip index surged <NUM> percent last month <COMMA> marking its best september performance since <NUM> and rallied <NUM> percent in the third quarter <COMMA> its best quarterly performance in a year <PUNC>
+alcoa aa was the dow s biggest percentage gainer <COMMA> up <NUM> percent <PUNC>
+3m mmm rose <NUM> percent and walt disney dis gained <NUM> percent <PUNC>
+among stocks in focus <COMMA> hewlett-packard hpq fell <NUM> percent after the firm said late thursday that leo apotheker has been appointed as chief executive officer and president <PUNC>
+apotheker previously served as ceo of sap sap <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+in yet another triple-digit move <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
+<PAR>

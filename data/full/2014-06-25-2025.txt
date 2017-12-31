@@ -1,0 +1,2 @@
+the s&p <NUM> index spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> while the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
+<PAR>

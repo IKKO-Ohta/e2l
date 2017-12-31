@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> after a record closing high in the prior session <PUNC>
+johnson & johnson jnj gained <NUM> percent to dollar <NUM> after the pharmaceutical and medical products maker announced a nearly <NUM> percent jump in quarterly sales <PUNC>
+it also had earnings per share that exceeded wall street forecasts <PUNC>
+united technologies utx was off a penny at dollar <NUM> <PUNC>
+aerospace contracts allowed the company to report a <NUM> percent rise in profits and lift its outlook for the full year <PUNC>
+earnings per share exceeded analysts estimates <PUNC>
+<PAR>

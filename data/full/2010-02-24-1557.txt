@@ -1,0 +1,5 @@
+the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+hewlett-packard co. hpq was the measure s top performer <COMMA> up <NUM> percent <PUNC>
+walt disney co. dis was also strong <COMMA> up <NUM> percent <COMMA> after disney unit abc news announced it would reduce its work force by <NUM> to <NUM> employees by the end of the year in a major restructuring <PUNC>
+alcoa inc. aa was the dow s worst performer <COMMA> down <NUM> percent <PUNC>
+<PAR>

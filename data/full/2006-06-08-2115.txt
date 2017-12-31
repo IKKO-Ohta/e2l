@@ -1,0 +1,12 @@
+after trading sharply lower for most of the session <COMMA> u.s. stocks staged a late-day rebound thursday <COMMA> with the dow jones industrial average breaking a four-day losing streak sparked by fears about further increases in u.s. interest rates <PUNC>
+the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> well off a session low of <NUM> <PUNC>
+procter & gamble co. pg was the biggest percentage gainer on the dow <COMMA> rising <NUM> percent to dollar <NUM> after the consumer-products behemoth backed its fiscal fourth-quarter sales and earnings forecast late wednesday <PUNC>
+shares in intel corp. intc fell <NUM> percent to dollar <NUM> after citigroup cut its earnings estimates for the chip giant and its rival advanced micro devices inc. amd <COMMA> citing pricing concerns <PUNC>
+the broker also slashed amd s price target by dollar <NUM> to dollar <NUM> <COMMA> but left intel s price target unchanged at dollar <NUM> <PUNC>
+amd shares closed down <NUM> percent at dollar <NUM> <PUNC>
+general motors corp. gm closed down <NUM> percent at dollar <NUM> <PUNC>
+the wall street journal reported that the automaker <COMMA> delphi corp. and their unions have made substantial progress in restructuring delphi s workforce <PUNC>
+the newspaper <COMMA> citing people familiar with the talks <COMMA> said that a deal soon could be reached to offer thousands of delphi workers lump-sum payments of dollar <NUM> to dollar <NUM> to leave their jobs and health-care benefits behind <PUNC>
+mcdonald s corp. mcd said global systemwide sales rose <NUM> percent in may <COMMA> while total worldwide comparable sales were up <NUM> percent <PUNC>
+the oak brook <COMMA> ill.-based hamburger giant said that same-store sales at its u.s. locations increased <NUM> percent for the month <COMMA> driven by longer hours <COMMA> new products like its asian salad and premium-chicken sandwich line and the success of its breakfast menu following the launch of a premium-coffee blend <PUNC>
+<PAR>

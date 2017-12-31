@@ -1,0 +1,7 @@
+earlier <COMMA> the major u.s. stock indexes struggled for direction <COMMA> with coca-cola co. ko weighing on the dow jones industrial average after the beverage giant s quarterly revenue growth came in below analyst estimates <PUNC>
+the dow industrials dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of <NUM> components trading in positive territory <PUNC>
+coca-cola was the biggest decliner in the dow <PUNC>
+its shares dropped <NUM> percent after the company said fourth-quarter revenue increased <NUM> percent to dollar <NUM> billion <COMMA> which was below expectations <PUNC>
+the world s largest beverage company also saw weakness in europe and china <PUNC>
+on the other hand <COMMA> bank of america corp. bac led the dow higher with a <NUM> percent gain <PUNC>
+<PAR>

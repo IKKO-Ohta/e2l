@@ -1,0 +1,6 @@
+u.s. stocks monday were on track for their worst day in seven weeks <COMMA> with the dow industrials at one point falling more than <NUM> points <COMMA> after data pointing to a china slowdown battered commodities and cyclical stocks <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> after having been down more than <NUM> points <PUNC>
+the s&p <NUM> spx sank <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf sank <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+on the dow <COMMA> heavy-equipment maker caterpillar inc. cat fell the most <COMMA> followed by other blue chips considered heavily exposed to china or global resource demand <PUNC> oil major chevron corp. cvx <COMMA> alcoa corp. aa <COMMA> exxon mobil corp. xom <PUNC>
+<PAR>

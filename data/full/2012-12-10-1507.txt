@@ -1,0 +1,2 @@
+the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with technology companies <COMMA> led by hewlett-packard co. <COMMA> hpq leading gains among its <NUM> components <PUNC>
+<PAR>

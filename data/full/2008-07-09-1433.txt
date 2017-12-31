@@ -1,0 +1,5 @@
+u.s. stocks cast off opening gains wednesday morning <COMMA> with the dow industrials failing to extend the blue-chip index s largest jump in nearly a month as rising oil prices dampened cheer over alcoa inc. s better-than-forecast results <PUNC>
+the dow jones industrial average dji was off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components losing ground <PUNC>
+american express co. axp was among the bigger laggards <COMMA> its stock off <NUM> percent <PUNC>
+alcoa axp fronted the dow s gains <COMMA> up <NUM> percent <COMMA> with the aluminum producer s stock bolstered by alcoa s earnings report late tuesday <PUNC>
+<PAR>

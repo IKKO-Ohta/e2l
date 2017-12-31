@@ -1,0 +1,2 @@
+the dow jones industrial average dji surged <NUM> points to <NUM> <COMMA> with all but three of its <NUM> components gaining <COMMA> led by aluminum maker alcoa inc. aa and bank of america corp. bac <COMMA> both up nearly <NUM> percent <PUNC>
+<PAR>

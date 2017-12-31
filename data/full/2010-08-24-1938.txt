@@ -1,0 +1,7 @@
+u.s. stocks fell tuesday <COMMA> sending the dow industrials briefly below <NUM> for the first time since early july <COMMA> after dismal data on the housing market intensified worries about the global economic recovery <PUNC>
+down for a fourth consecutive session <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+it briefly fell as low as <NUM> earlier <COMMA> its first dip below the <NUM> mark since the first week of july <PUNC>
+of the blue-chip index s <NUM> components <COMMA> all but six were in the red <COMMA> with boeing co. ba down the most <COMMA> off <NUM> percent <PUNC>
+kraft foods inc. kft and wal-mart stores inc. wmt rose the most <COMMA> the former up <NUM> percent and the latter gaining <NUM> percent <PUNC>
+shares of 3par inc. par gained <NUM> percent after bloomberg news reported dell inc. dell was preparing to increase its bid for the data-storage provider after hewlett-packard co. hpq topped its prior offer <PUNC>
+<PAR>

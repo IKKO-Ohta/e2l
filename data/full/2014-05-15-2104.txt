@@ -1,0 +1,6 @@
+the s&p <NUM> spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the dow jones industrial average dji dropped more than <NUM> points at one point and closed off session lows <COMMA> down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf ended the day down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+wal-mart wmt shares fell <NUM> percent after the company s first-quarter profit and sales missed expectations <PUNC>
+shares of cisco systems inc. csco were up <NUM> percent after the computer equipment giant topped wall street estimates for earnings and sales <PUNC>
+<PAR>

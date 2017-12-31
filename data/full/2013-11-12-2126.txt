@@ -1,0 +1,7 @@
+u.s. stocks ended with modest losses on tuesday <COMMA> with the dow industrials retreating from the previous session s record close <PUNC>
+the s&p <NUM> spx slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> while the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+* what s the trend:with tuesday s losses <COMMA> the s&p <NUM> and dow halted a two-day winning streak <PUNC>
+the decline follows a mild move up on monday <COMMA> when the dow achieved a record close <COMMA> and friday s big jump after a stronger-than-expected october jobs report <PUNC>
+last week <COMMA> the s&p <NUM> and dow posted their fifth up week in a row <PUNC>
+they have gained about <NUM> percent and <NUM> percent so far this year <COMMA> respectively <PUNC>
+<PAR>

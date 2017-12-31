@@ -1,0 +1,6 @@
+editor s note <PUNC> a prior version of this story contained an incorrect tuesday close for the dow industrials <COMMA> and also gave an incorrect reporting day for citigroup inc <PUNC>
+the dow jones industrial average closed at a record level on wednesday for the 15th time this year <COMMA> as better-than-expected corporate earnings and deal talk lifted broader markets <PUNC>
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+intel corp. intc jumped <NUM> percent after the technology maker reported market-pleasing results late tuesday <COMMA> while disappointment over yahoo inc. s yhoo results left those shares down <NUM> percent <PUNC>
+<PAR>

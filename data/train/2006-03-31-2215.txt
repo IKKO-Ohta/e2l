@@ -1,0 +1,12 @@
+the dow industrials dji gave up morning gains to close down <NUM> points at <NUM> <COMMA> off an early high of <NUM> <PUNC>
+for the first quarter <COMMA> the dow had its best first quarter since <NUM> <COMMA> scoring a <NUM> percent quarterly gain <PUNC>
+the nasdaq composite rose <NUM> percent during the period <COMMA> marking its best first quarter since <NUM> <PUNC>
+the s&p <NUM> increased <NUM> percent <COMMA> its best quarterly gain since the first quarter of <NUM> <PUNC>
+gm gm shares initially fell as much as <NUM> percent on the news before turning higher and closing up <NUM> cents at dollar <NUM> <PUNC>
+germany s sap sap declined to comment on trader speculation that international business machines ibm is preparing an offer for the software company <PUNC>
+u.s.-listed shares of sap closed up <NUM> cents at dollar <NUM> <PUNC>
+ibm shares finished down <NUM> cents at dollar <NUM> <PUNC>
+citigroup inc. c was charged by the australian securities regulator with insider trading <COMMA> over buying shares of patrick corp. one day before one of the bank s clients <COMMA> toll holdings <COMMA> launched a takeover bid for the company <PUNC>
+citigroup denied the charges <PUNC>
+the bank s shares finished down <NUM> cents at dollar <NUM> <PUNC>
+<PAR>

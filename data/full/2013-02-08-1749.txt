@@ -1,0 +1,6 @@
+stocks on wall street rose friday <COMMA> sending the dow industrials back above <NUM> <COMMA> following strong trade data from china and the u.s <PUNC>
+the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after touching an intraday high of <NUM> earlier <PUNC>
+twenty-three out of <NUM> components of the dow were trading higher with hewlett-packard co. hpq leading the way with a <NUM> percent gain <PUNC>
+in corporate news <COMMA> mcdonald s corp. mcd said its global comparable sales in january fell <NUM> percent <PUNC>
+shares rose <NUM> percent <PUNC>
+<PAR>

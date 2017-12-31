@@ -1,0 +1,4 @@
+the dow jones industrial average was lately up <NUM> points to stand at <NUM> <PUNC>
+the s&p <NUM> index gained <NUM> points to <NUM> <COMMA> after running past the 800-level for the first time since feb. <NUM> <PUNC>
+the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
+<PAR>

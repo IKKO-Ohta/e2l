@@ -1,0 +1,9 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> after falling to <NUM> in morning trade <PUNC>
+the dow was supported by the likes of alcoa inc. aa <COMMA> boeing co. ba <COMMA> caterpillar inc. cat <COMMA> and hewlett-packard co. hpq <PUNC>
+blue chips were still weighed by the likes of american express axp <COMMA> coca-cola co. ko <COMMA> citigroup inc. c and at&t inc. t <PUNC>
+separately <COMMA> exxon mobil corp. xom said wednesday that the oil and gas producer is planning to start up more than <NUM> new projects in the next three years that are expected to add <NUM> million oil-equivalent barrels per day to its volumes <PUNC>
+the project inventory at the end of <NUM> is expected to develop <NUM> billion oil-equivalent barrels net <COMMA> the company said <PUNC>
+the stock rose <NUM> percent <PUNC>
+on tuesday <COMMA> stocks had their best one-day performance since july <COMMA> with the dow industrials jumping <NUM> points <COMMA> as investors cheered a recovery in asian markets and the dollar <PUNC>
+those gains followed last week s sell-off in global stock markets that wiped out trillions of dollars in market capitalization <PUNC>
+<PAR>

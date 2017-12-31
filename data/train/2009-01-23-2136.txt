@@ -1,0 +1,5 @@
+on friday <COMMA> quarterly reports including results from bellwether general electric co. ge weighed on equities <COMMA> with a rally in energy shares and hopes for more government help for banks offsetting the declines <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> off <NUM> percent for the week <PUNC>
+the s&p <NUM> spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> posting a weekly drop of <NUM> percent <PUNC>
+the nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> down <NUM> percent from the prior friday s finish <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the dow industrials hit fresh records in tandem with the dow transports and dow utilities <PUNC>
+a rare occurrence <COMMA> dubbed dow trifecta has happened only <NUM> times in the history of the averages <PUNC>
+the last time this happened was on april <NUM> <COMMA> <NUM> <COMMA> according to factset <PUNC>
+<PAR>

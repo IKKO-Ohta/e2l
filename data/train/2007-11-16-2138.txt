@@ -1,0 +1,4 @@
+after trading in a 160-point range on either side of neutral <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> a daily advance of <NUM> percent <COMMA> to close <NUM> <COMMA> giving the blue chips a <NUM> percent gain for the week <PUNC>
+of the blue-chip index s <NUM> components <COMMA> <NUM> closed with gains <COMMA> led by hewlett-packard hpq <COMMA> up <NUM> percent following its upgrade to overweight from equal-weight by morgan stanley <PUNC>
+on thursday <COMMA> further worries about the financial sector hit stocks <COMMA> with the dow falling <NUM> points <COMMA> marking its sixth down day in the past seven sessions <PUNC>
+<PAR>

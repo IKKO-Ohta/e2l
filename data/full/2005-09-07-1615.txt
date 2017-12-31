@@ -1,0 +1,8 @@
+new york dow jones - u.s. stocks traded mixed wednesday as the dow jones industrial average outperformed on broker upgrades for components hewlett-packard <COMMA> j.p. morgan chase and mcdonald s <PUNC>
+the dow industrials dji were last up <NUM> points at <NUM> <COMMA> after surging more than <NUM> on tuesday <COMMA> its biggest one-day gain in nearly two months <PUNC>
+shares of mcdonald s mcd rose <NUM> percent to dollar <NUM> after bear stearns upgraded the fast-food giant to outperform from peer perform <PUNC>
+the firm cited improved valuation and the belief that mcd s u.s. performance will continue to be positive <PUNC>
+ubs raised its view on hewlett-packard hpq to buy from neutral on hopes that cost cutting and better execution can continue to deliver earnings-per-share upside <PUNC>
+meanwhile <COMMA> jp morgan chase jpm tacked on <NUM> cents to dollar <NUM> after piper jaffray upgraded the investment bank to outperform from market perform <PUNC>
+the firm cited an attractive valuation on expectations that merger cost savings will continue and that the capital markets will enjoy a solid turnaround in the second half of <NUM> <PUNC>
+<PAR>

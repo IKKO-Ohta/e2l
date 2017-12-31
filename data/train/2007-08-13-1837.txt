@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> after climbing more than <NUM> points earlier on <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> posted gains <COMMA> led by alcoa inc. aa <COMMA> which was up nearly <NUM> percent <PUNC>
+and the financial times reported citigroup inc. c had lost more than dollar <NUM> million in credit business in recent weeks <PUNC>
+its stock fell <NUM> percent <PUNC>
+shares of j.p. morgan chase co. jpm fell <NUM> percent after an initial rise after an upgrade from deutsche banc to buy from hold <PUNC>
+<PAR>

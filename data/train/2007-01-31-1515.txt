@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+the blue-chip average was boosted by strong gains in shares of boeing co. ba <COMMA> which posted better-than-expected earnings and raised its <NUM> earnings forecast <PUNC>
+fellow dow component altria group inc. mo dropped <NUM> percent ahead of its quarterly results <PUNC>
+falling crude oil prices were weighing on energy shares <COMMA> including exxon mobil corp. xom <COMMA> and the broad market <PUNC>
+<PAR>

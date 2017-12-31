@@ -1,0 +1,5 @@
+the dow jones industrial average fell <NUM> points to <NUM> <PUNC>
+on capitol hill <COMMA> treasury secretary henry paulson is readying to update lawmakers on the financial rescue package at 10:30 a.m. eastern <COMMA> while democratic leaders said they ll push legislation to use the dollar <NUM> billion bailout fund to rescue general motors corp. gm and chrysler <PUNC>
+u.s. stocks dropped for a second straight day on tuesday as outlooks from luxury home builder toll brothers inc. tol and coffee retailer starbucks corp. sbux illustrated softening consumer spending <PUNC>
+the dow industrials fell <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite dropped <NUM> points <PUNC>
+<PAR>

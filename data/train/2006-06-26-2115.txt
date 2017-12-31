@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> just off its high for the session of <NUM> <PUNC>
+meanwhile <COMMA> pfizer inc. pfe stock strengthened <NUM> percent to dollar <NUM> <PUNC>
+johnson & johnson jnj agreed to buy pfizer s consumer products unit <COMMA> which produces such products as listerine mouthwash <COMMA> nicorette anti-smoking treatments <COMMA> rolaids antacid <COMMA> benadryl allergy medicine <COMMA> rogaine baldness treatment and the antacid zantac <PUNC>
+johnson & johnson stock was off <NUM> percent <PUNC>
+general motors corp. gm rose <NUM> percent to dollar <NUM> <PUNC>
+the car maker is slated to announce the result of its labor buyout program about one hour after the market closes <PUNC>
+<PAR>

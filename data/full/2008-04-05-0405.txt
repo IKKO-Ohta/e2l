@@ -1,0 +1,4 @@
+on friday <COMMA> the dow jones industrial average dji closed down <NUM> points to <NUM> <COMMA> but it sat on a weekly gain of <NUM> percent <PUNC>
+the market s recovery <COMMA> however <COMMA> might be challenged by the first-quarter earnings season <COMMA> which officially kicks off next week with alcoa inc. s aa results monday <PUNC>
+other than alcoa s results <COMMA> general electric co. s ge report friday will be parsed <COMMA> given the conglomerate s broad-based involvement in global businesses <PUNC>
+<PAR>

@@ -1,0 +1,12 @@
+the dow industrials managed to close on their first week of gains in five <PUNC>
+the broad s&p <NUM> index and the nasdaq composite index posted weekly gains after three straight weeks of declines <PUNC>
+on friday <COMMA> the dow jones industrial average dji finished down <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+but for the week <COMMA> the dow rose <NUM> percent <COMMA> the s&p gained <NUM> percent <COMMA> and the nasdaq advanced <NUM> percent <PUNC>
+the week started with a relief rally in stock markets around the world <COMMA> after european and u.s. leaders agreed to take massive actions to help stem the global financial meltdown of the previous three weeks <PUNC>
+the dow jumped more than <NUM> points for its biggest point gain on record and the other main u.s. indexes rallied by <NUM> percent <PUNC>
+the market s optimism began to fade tuesday as investors turned their attention to the economic damage being wrought by the yearlong credit crisis <PUNC>
+by wednesday <COMMA> the dow slumped more than <NUM> points for its second-worst drop on record <PUNC>
+on monday <COMMA> credit card giant american express co. axp is due to report quarterly results <COMMA> along with chip maker texas instruments inc. txn and apple inc. aapl <PUNC>
+tuesday brings reports from equipment-maker caterpillar inc. cat <COMMA> chemical firm dupont dd <COMMA> mining giant freeport mcmoran fcx <COMMA> diversified industrial firm 3m co. mmm and web portal yahoo inc. yhoo <COMMA> along with pharmaceutical companies pfizer inc. pfe and schering-plough corp. sgp <PUNC>
+on wednesday <COMMA> reports are expected from online retailer amazon.com inc. amzn <COMMA> aircraft maker boeing co. ba <COMMA> oil giant conocophillips cop <COMMA> personal-care products maker kimberly-clark corp. kmb <COMMA> fast-food giant mcdonald s corp. mcd <COMMA> drug maker merck & co. mrk <COMMA> home builder pulte homes inc. phm <COMMA> telecom bellwether at&t inc. t and banking group wachovia corp. wb <PUNC>
+<PAR>

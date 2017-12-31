@@ -1,0 +1,4 @@
+after dropping more than <NUM> points during the session <COMMA> the dow industrial average dji was more recently off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> led by home depot inc. hd <COMMA> down <NUM> percent <PUNC>
+the blue-chip index s financials stocks fell as well <COMMA> with citigroup inc. c down <NUM> percent <COMMA> j.p. morgan chase co. jpm off <NUM> percent <COMMA> and american express co. axp <COMMA> down <NUM> percent <PUNC>
+merck & co. mrk was another sliding dow component <COMMA> recently down <NUM> percent <COMMA> after the drugmaker s childhood vaccines were recalled on concern they might be contaminated <PUNC>
+<PAR>

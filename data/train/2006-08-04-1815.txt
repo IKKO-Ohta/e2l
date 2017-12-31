@@ -1,0 +1,4 @@
+the dow jones industrial average dji was <NUM> points lower at <NUM> <COMMA> with <NUM> of its <NUM> components in positive territory <PUNC>
+j.p. morgan chase & co. jpm rose <NUM> percent to dollar <NUM> <PUNC>
+the blue-chip brokerage and investment bank restated its <NUM> earnings <COMMA> at the request of authorities <COMMA> to account for investments in mortgages <PUNC>
+<PAR>

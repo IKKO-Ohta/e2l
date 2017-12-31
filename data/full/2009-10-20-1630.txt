@@ -1,0 +1,2 @@
+on wall street <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> while the s&p <NUM> index spx declined <NUM> points to <NUM> and the nasdaq composite index rixf lost <NUM> points to <NUM> <PUNC>
+<PAR>

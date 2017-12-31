@@ -1,0 +1,8 @@
+u.s. stocks ended higher wednesday as stabilizing long-term interest rates <COMMA> strong morgan stanley earnings and a labor deal at general motors corp. lifted the dow jones industrial average to its best level in nearly five years <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> the best closing level for the benchmark index since may <NUM> <PUNC>
+gm gm rose as much as <NUM> percent to dollar <NUM> after the car manufacturer <COMMA> the uaw and delphi corp. dphiq agreed on a plan to buy out <NUM> hourly workers with a maximum of dollar <NUM> in payments each <PUNC>
+the stock <COMMA> however <COMMA> pared gains as the session wore on <COMMA> ending up just a penny at dollar <NUM> <PUNC>
+microsoft msft ended down <NUM> percent at dollar <NUM> <PUNC>
+late tuesday the company had said the next version of its windows operating system wouldn t be available to consumers until january <COMMA> thereby missing the key holiday season <PUNC>
+the delay is expected to have some negative effect on the main personal-computer companies such as dell dell <COMMA> hewlett-packard hpq and gateway gtw <COMMA> according to analysts <PUNC>
+<PAR>

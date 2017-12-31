@@ -1,0 +1,5 @@
+alcoa shares aa rose <NUM> percent <PUNC>
+the aluminum producer and dow component is slated to release its quarterly results after the market close <PUNC>
+after climbing as much as <NUM> points <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with bank of america corp. bac leading a rise that included <NUM> of its <NUM> members <PUNC>
+chip maker intel corp. intc led blue-chip decliners <COMMA> with its shares down <NUM> percent amid downgrades by a trio of analysts <PUNC>
+<PAR>

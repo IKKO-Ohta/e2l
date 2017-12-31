@@ -1,0 +1,4 @@
+the s&p <NUM> edged up to another record close on monday <COMMA> but the dow industrials snapped a seven-session winning streak <PUNC>
+the dow jones industrial average dji dipped <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+the blue-chip gauge <COMMA> up <NUM> percent so far in <NUM> <COMMA> pulled back from a record close achieved friday <PUNC>
+<PAR>

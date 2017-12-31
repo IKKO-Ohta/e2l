@@ -1,0 +1,9 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <COMMA> while the standard & poor s 500-stock index spx slipped six points to <NUM> and the nasdaq composite rixf was off two points at <NUM> <PUNC>
+earnings reports were also contributing to market moves wednesday <COMMA> with procter & gamble pg rising <NUM> percent after the consumer-products giant posted strong volume gains <COMMA> though quarterly earnings fell <NUM> percent <PUNC>
+conocophillips cop fell <NUM> percent to lead a broad decline in energy stocks <COMMA> despite posting third-quarter earnings that more than doubled <COMMA> buoyed by higher commodities prices and improved refining margins <PUNC>
+exxon mobil xom and chevron cvx both fell by more than <NUM> percent <PUNC>
+financial stocks were the only sector in positive territory wednesday morning <COMMA> with bank of america bac gaining <NUM> percent to lead the dow components <PUNC>
+j.p. morgan jpm rose <NUM> percent and american express axp added <NUM> percent <PUNC>
+u.s. equities eked out small gains on tuesday <COMMA> buoyed by strong earnings from ford motor f <COMMA> which posted a <NUM> percent jump in third-quarter profit <COMMA> and a rise in the conference board s consumer-confidence gauge <PUNC>
+the dow jones industrial average rose <NUM> points to close at <NUM> <COMMA> its highest level since april <NUM> <PUNC>
+<PAR>

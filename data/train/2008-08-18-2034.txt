@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with all of its <NUM> components falling <PUNC>
+the benchmark index was pulled lower by aig aig <COMMA> off <NUM> percent <COMMA> citigroup c <COMMA> down <NUM> percent <COMMA> and general motors corp. gm <COMMA> off <NUM> percent <PUNC>
+the struggling automaker said it will roll out new incentives this week <PUNC>
+the dow industrials other financial stocks american express axp <COMMA> bank of america bac <COMMA> citigroup c and j.p. morgan chase jpm also dragged down the blue-chip index <PUNC>
+<PAR>

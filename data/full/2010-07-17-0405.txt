@@ -1,0 +1,7 @@
+on friday <COMMA> stocks were battered by less-than-expected revenue from bank of america corp. bac and general electric co. ge <COMMA> while a slide in a gauge of consumer confidence fell to an 11-month low <PUNC>
+the flow of companies reporting widens in the days ahead <COMMA> one of the peak weeks for the second-quarter earnings season <COMMA> as <NUM> components of the dow jones industrial average dji are scheduled to release results along with <NUM> s&p <NUM> spx companies <PUNC>
+the calendar is fullest on tuesday and wednesday and includes names recently in the news <COMMA> namely apple inc. aapl and goldman sachs group inc. <COMMA> along with gs <COMMA> harley-davidson inc. hog <COMMA> johnson & johnson jnj <COMMA> yahoo inc. yhoo and at&t inc. t <PUNC>
+after halting a seven-session winning stretch the prior day <COMMA> the dow jones industrial average dji on friday lost <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+the first day of the week brings results from halliburton co. hal <COMMA> hasbro inc. has <COMMA> international business machines ibm <COMMA> texas instruments inc. txn and zions bancorp zion <PUNC>
+xerox corp. xrx <COMMA> united parcel service inc. ups and union pacific corp. unp are among those slated to report results thursday <COMMA> while mcdonald s corp. mcd <COMMA> ford motor co. f and honeywell international inc. hon are among those listed for friday <PUNC>
+<PAR>

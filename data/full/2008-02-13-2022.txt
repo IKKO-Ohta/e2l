@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> gaining <NUM> percent to <NUM> <PUNC>
+twenty-three of its <NUM> components moved higher <COMMA> led by american express co. axp <COMMA> shares of which gained <NUM> percent <PUNC>
+blue chip coca-cola co. ko reported <NUM> percent quarterly profit growth and said that it expects to enjoy a good <NUM> <COMMA> but its shares were among the dow s laggards <COMMA> recently down <NUM> percent <PUNC>
+stocks in the technology sector posted broad gains <PUNC>
+shares of microsoft corp. msft gained <NUM> percent after reports that google inc. goog was backing off from a possible search-outsourcing deal with yahoo inc. yhoo <COMMA> which microsoft is seeking to acquire <PUNC>
+<PAR>

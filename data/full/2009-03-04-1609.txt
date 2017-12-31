@@ -1,0 +1,4 @@
+following rallies overseas <COMMA> u.s. stocks climbed wednesday after five straight days of losses <COMMA> with the dow jones industrial average up <NUM> points at <NUM> <PUNC>
+the s&p <NUM> index gained <NUM> points to <NUM> <PUNC>
+the nasdaq composite rixf rose <NUM> points to <NUM> <PUNC>
+<PAR>

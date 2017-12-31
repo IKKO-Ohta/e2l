@@ -1,0 +1,4 @@
+one day after finishing at a four-month high <COMMA> the dow jones industrial average dji meandered on either side of the neutral zone and was recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
+the standard & poor s <NUM> index spx was fractionally lower <COMMA> at <NUM> <COMMA> with natural-resources firms the greatest laggard among its <NUM> industry groups <COMMA> and industrial companies faring the best <PUNC>
+the nasdaq composite index rixf was down nearly a point at <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components traded in the red <PUNC>
+the dow earlier fell to a low of <NUM> <PUNC>
+financial stocks aig aig <COMMA> american express co. axp <COMMA> citigroup inc. c <COMMA> and j.p. morgan chase & co. jpm led the blue-chips lower <PUNC>
+merck & co. mrk <COMMA> also a dow component <COMMA> saw its shares drop <NUM> percent <PUNC>
+the drug maker backed its <NUM> earnings target and said it expects adjusted profit for <NUM> to be in a range of dollar <NUM> to dollar <NUM> a share <PUNC>
+analysts had been forecasting earnings of dollar <NUM> for <NUM> <PUNC>
+away from the dow <COMMA> nokia nok shares dropped <NUM> percent after the handset maker predicted margins for the next few years would be about in line with market expectations <PUNC>
+financial and technology stocks paced a decline for stocks on monday <COMMA> with the dow industrials losing <NUM> points <COMMA> the s&p <NUM> falling <NUM> points and the nasdaq composite losing <NUM> points <PUNC>
+treasury prices jumped <COMMA> as did interbank lending rates <COMMA> reflecting the continued nervousness in markets <PUNC>
+<PAR>

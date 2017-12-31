@@ -1,0 +1,5 @@
+the stock market has for weeks been dogged by talk of trouble lurking in commercial real estate <COMMA> yet investors focused on the dow jones real estate index must not have gotten the memo <PUNC>
+on friday <COMMA> the dow jones u.s. real estate index iyr rose <NUM> percent to <NUM> <COMMA> up <NUM> percent from its march <NUM> close of <NUM> <PUNC>
+the dow jones industrial average dji up <NUM> points at <NUM> <PUNC>
+the s&p <NUM> spx added <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf shed <NUM> points to <NUM> <PUNC>
+<PAR>

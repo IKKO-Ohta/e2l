@@ -1,0 +1,5 @@
+the dow jones industrial average dji has clocked a <NUM> percent gain this year <PUNC>
+it had a rocky week during which it dropped more than <NUM> points two days in a row <PUNC>
+nike inc. nke takes the mantle as the first blue-chip component to report quarterly earnings after alcoa inc aa was dropped from the dow jones industrial average <PUNC>
+nike is scheduled to report its quarterly results on thursday <PUNC>
+<PAR>

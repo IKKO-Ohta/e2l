@@ -1,0 +1,7 @@
+u.s. stocks ended higher wednesday <COMMA> with the dow jones industrial average setting a new record close <COMMA> after investors concluded that little market-moving legislation is likely to come out of the new democratic party-controlled house of representatives and a senate whose leadership remains uncertain <PUNC>
+the dow jones industrial average dji rose <NUM> points to set its new record at <NUM> <COMMA> after earlier touching a session low of <NUM> <PUNC>
+exxon mobil corp. xom was the biggest percentage gainer on the dow <COMMA> rallying <NUM> percent on a rise in the price of oil <PUNC>
+gains for altria group inc. mo <COMMA> dupont dd and mcdonald s mcd lent further support <PUNC>
+within the dow <COMMA> shares of merck & co. mrk led the decliners <COMMA> closing down <NUM> percent after a news report said the drug maker has disclosed four separate tax disputes in canada and the united states with potential liabilities totaling dollar <NUM> billion <PUNC>
+fellow blue-chip components pfizer inc. pfe and johnson & johnson jnj also came under pressure on concern congressional control by the democratic party could lead to more government intervention in the negotiation of drug prices for its vast medicare drug program <PUNC>
+<PAR>

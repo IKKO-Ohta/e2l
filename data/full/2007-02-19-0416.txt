@@ -1,0 +1,7 @@
+san francisco dow jones u.s. stocks are expected to drift lower next week <COMMA> as a light lineup of economic data and a dwindling number of corporate earnings reports leaves investors searching for direction after a week of record highs for the dow jones industrial average <COMMA> strategists said <PUNC>
+the only way the market could advance substantially next week would be if a significant development such as a very big buyout deal occurred <COMMA> said paul mendelsohn <COMMA> chief investment strategist at windham financial services <PUNC>
+he said the market this past week fed off of speculation about possible mergers <COMMA> such as deals involving alcoa inc. aa and daimlerchrysler dcx <PUNC>
+one exception to an otherwise quiet week will be tuesday <COMMA> when dow jones industrial average components hewlett-packard co. hpq <COMMA> wal-mart stores inc. hpq <COMMA> and home depot inc. hd report quarterly results <PUNC>
+the dow finished friday up <NUM> points <COMMA> enough to bring it to its third record closing high this week <PUNC>
+the dow ended at <NUM> for a gain of <NUM> percent for the week <PUNC>
+<PAR>

@@ -1,0 +1,11 @@
+the dow jones industrial average dji gained more than <NUM> points and recently traded up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+a rush of corporate quarterly reports helped the measure extend its gains from the previous day <COMMA> when the dow added <NUM> points <PUNC>
+mcdonald s corp. mcd rose <NUM> percent after its third-quarter earnings rose <NUM> percent <COMMA> topping analysts forecasts <COMMA> and the company s chief executive predicted same-store sales would rise between <NUM> percent and <NUM> percent in october <COMMA> as momentum continues from the previous quarter <PUNC>
+home depot hd was also strong <COMMA> climbing <NUM> percent <PUNC>
+travelers co. trv added <NUM> percent after its third-quarter earnings and revenue topped wall street estimates and the property-casualty insurance firm raised its full-year guidance <PUNC>
+caterpillar inc. cat edged up <NUM> percent after its third-quarter profit surged <NUM> percent <COMMA> revenue exceeded analysts expectations and the company raised its <NUM> earnings estimates <PUNC>
+however <COMMA> caterpillar also cautioned that the world s developed economies won t grow enough next year to alleviate persistently high unemployment levels <PUNC>
+bank of america corp. bac was among the dow s worst performers <COMMA> shedding <NUM> percent as investors continued to worry over banks liabilities connected to investigations into nationwide foreclosure practices <PUNC>
+at&t corp. t lost <NUM> percent after its third-quarter earnings nearly quadrupled <COMMA> but concerns remained over how the company will fare when it is no longer the sole u.s. carrier to offer iphone service <PUNC>
+verizon communications shed <NUM> percent <PUNC>
+<PAR>

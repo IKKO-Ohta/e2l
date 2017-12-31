@@ -1,0 +1,8 @@
+the dow jones industrial average dji climbed <NUM> points to <NUM> in early trade <COMMA> with <NUM> of its <NUM> components gaining at the start <PUNC>
+the dow s advance was bolstered in part by ibm ibm <COMMA> up <NUM> percent <COMMA> in the wake of its quarterly earnings report <COMMA> which had ibm posting a <NUM> percent earnings growth <PUNC>
+also adding to blue-chip gains <COMMA> general electric ge advanced <NUM> percent after the industrial bellwether reported a fourth-quarter profit rise of <NUM> percent <PUNC>
+<PAR>
+dow decliners included american international group inc. aig <COMMA> off <NUM> percent <COMMA> and merck co. inc. mrk <COMMA> down <NUM> percent <PUNC>
+on thursday <COMMA> stocks were hammered <COMMA> with financial shares especially hard hit <COMMA> as worries about the global economy prevailed <PUNC>
+the dow shed more than <NUM> points <COMMA> or <NUM> percent <PUNC>
+<PAR>

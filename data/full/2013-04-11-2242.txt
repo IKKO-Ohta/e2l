@@ -1,0 +1,8 @@
+after an early fall <COMMA> the dow jones industrial average dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> also a record close <PUNC>
+pfizer inc. pfe led gains that included all but five of the dow s <NUM> members <PUNC>
+for the s&p <NUM> <COMMA> it was the index s second straight day of record closes <PUNC>
+for the dow <COMMA> it was the index s third straight record finish <PUNC>
+the three computer-related components on the dow average were among the handful of losers on the index <COMMA> with hewlett-packard co. hpq <COMMA> microsoft corp. msft and intel corp. intc all sliding <PUNC>
+the stock market s record-setting rise has the dow industrials up more than <NUM> percent for the year <COMMA> the s&p <NUM> gaining almost <NUM> percent so far in <NUM> and the nasdaq composite adding <NUM> percent <PUNC>
+wall street rose for a third straight day on wednesday <COMMA> with both the dow industrials and the s&p <NUM> index marking their best sessions in six weeks <PUNC>
+<PAR>

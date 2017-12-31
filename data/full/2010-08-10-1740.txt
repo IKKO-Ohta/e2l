@@ -1,0 +1,5 @@
+recovering some from a drop of more than <NUM> points <COMMA> the dow jones industrial average dji was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but one of its <NUM> components losing ground <PUNC>
+the s&p <NUM> index spx declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+natural-resource firms were down the most <PUNC>
+cliffs natural resources inc. clf and alcoa inc. aa were among the hardest hit <COMMA> as shares of each fell nearly <NUM> percent <PUNC>
+<PAR>

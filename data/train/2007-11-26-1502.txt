@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components advanced <PUNC>
+however <COMMA> financial stocks aig aig <COMMA> american express aig <COMMA> citigroup inc. c and jp morgan chase & co. jpm weighed on the blue chip index <PUNC>
+on friday <COMMA> u.s. stocks rallied in a shortened session <COMMA> with the dow industrials adding <NUM> points <PUNC>
+on the financial front <COMMA> hsbc holdings hbc said it would move two of its structured investment vehicles onto its balance sheet and provide up to dollar <NUM> billion in funding <PUNC>
+the move comes as citigroup c is under pressure in some quarters to move dollar <NUM> billion in off-balance sheet securities onto its balance sheet <COMMA> according to a report in the wall street journal on monday <PUNC>
+<PAR>

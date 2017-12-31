@@ -1,0 +1,5 @@
+in recent action <COMMA> the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> but were off opening lows <COMMA> which had the index initially down over <NUM> points <PUNC>
+a better-than-expected report on u.s. manufacturing helped provide a brief reprieve <COMMA> but the data couldn t prevent the dow industrials from slipping into bear-market territory <COMMA> with the blue-chip index having now lost over <NUM> percent from its oct. <NUM> high of <NUM> <PUNC>
+of the dow components <COMMA> <NUM> of <NUM> were in the red <COMMA> led lower by shares of general motors corp. gm <COMMA> home depot inc. gm <COMMA> and caterpillar inc. cat <PUNC>
+u.s. stocks closed out the second quarter monday with steep losses <COMMA> as the dow lost <NUM> percent in june <COMMA> <NUM> percent in the second quarter and <NUM> percent for the year to date <PUNC>
+<PAR>

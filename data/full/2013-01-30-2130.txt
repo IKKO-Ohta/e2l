@@ -1,0 +1,4 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with general electric co. ge and exxon mobil corp. xom both falling <NUM> percent and leading decliners in the blue-chip index <PUNC>
+the dow has gained <NUM> percent for the month to date <COMMA> putting it on track for its best january in <NUM> years <PUNC>
+boeing co. ba was among blue-chip gainers wednesday after the aircraft maker reported quarterly earnings and revenue that beat wall street s estimates <PUNC>
+<PAR>

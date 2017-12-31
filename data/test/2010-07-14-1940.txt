@@ -1,0 +1,3 @@
+after six consecutive sessions of gains <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
+intel intc shares were up <NUM> percent after the company reported its largest quarterly profit in a decade as businesses invested in technology <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points to close at <NUM> <PUNC>
+the benchmark index is sitting at a three-month high <PUNC>
+in other news <COMMA> shares of boeing co. ba could come under pressure in morning trading after the aerospace giant lost a dollar <NUM> billion air canada order for its <NUM> and <NUM> jets <PUNC>
+the cancellation comes after members of the carrier s pilots union rejected a cost-cutting deal that would have cleared the way for the purchase <PUNC>
+boeing shares ended friday s session up <NUM> percent at dollar <NUM> <PUNC>
+general motors corp. gm and ford motor co. f could get an early boost after bank of america upgraded the two car makers to neutral from sell on hopes the united auto workers union will agree to healthcare concessions <PUNC>
+<PAR>

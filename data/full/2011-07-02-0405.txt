@@ -1,0 +1,6 @@
+on friday <COMMA> the dow jones industrial average dji capped a run of winning sessions to settle at <NUM> <COMMA> a gain of <NUM> percent on the week <PUNC>
+the top gainer among the blue chips was caterpillar cat <COMMA> which added <NUM> percent <COMMA> but none of them finished out of the money <COMMA> although wal-mart wmt only eked out a tepid <NUM> percent rise <PUNC>
+in the post-war era <COMMA> july has seen the dow gain <NUM> percent on average <COMMA> he said <PUNC>
+while this increase pales in comparison to gains seen in <COMMA> say <COMMA> april or december <COMMA> it comes in the middle of a terrible five month stretch for equities <PUNC>
+the worst july ever was in <NUM> <COMMA> with the dow down <NUM> percent while the best <COMMA> a <NUM> percent gain <COMMA> hit exactly <NUM> years later <PUNC>
+<PAR>

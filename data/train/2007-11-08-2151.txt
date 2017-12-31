@@ -1,0 +1,6 @@
+a late surge in financial stocks helped trim losses <COMMA> with the dow jones industrial average dji off <NUM> points to close at <NUM> <COMMA> with <NUM> of its <NUM> components lower <PUNC>
+american international group inc. aig and ibm ibm fronted the day s slide <COMMA> with both blue chips closing lower <COMMA> aig off <NUM> percent and ibm down <NUM> percent <PUNC>
+and within the dow <COMMA> aig s shares fell to lows not seen for more than a year <PUNC>
+late wednesday <COMMA> the insurance giant reported a <NUM> percent drop in third-quarter net income <COMMA> with fallout from the subprime mortgage crisis pushing its results below expectations <PUNC>
+wal-mart stores inc. wmt reported same-store sales rose <NUM> percent in october <COMMA> less than the <NUM> percent hike anticipated by analysts <PUNC>
+<PAR>

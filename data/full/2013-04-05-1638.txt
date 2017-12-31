@@ -1,0 +1,4 @@
+after falling <NUM> points <COMMA> the dow jones industrial average dji was recently off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> off <NUM> percent for the week <PUNC>
+all but two of the blue-chip index s <NUM> components lost ground <COMMA> including alcoa inc. aa <COMMA> which unofficially starts the first-quarter earnings-reporting season on monday <COMMA> after the market close <PUNC>
+both the dow and s&p are in line for their biggest weekly losses since the week ending dec. <NUM> <COMMA> <NUM> <COMMA> while the nasdaq is looking at its biggest weekly drop since the period ending nov. <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

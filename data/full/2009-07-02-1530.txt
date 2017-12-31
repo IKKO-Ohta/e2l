@@ -1,0 +1,10 @@
+the sudden contraction in u.s. consumer spending and global liquidity that brought some of america s most revered companies to their knees has made the dow jones industrial average - meant to represent the country s leading companies - more an index of laggards <PUNC>
+steep slides in general motors corp. us-gm and citigroup <COMMA> inc. c shares weighed on the dow s performance earlier this year <PUNC>
+they ve since left the index <PUNC>
+but even with new entrants travelers cos. trv and cisco systems csco <COMMA> the dow may fail to catch up as a recovering economy favors smaller companies that that don t sell much of their wares overseas <PUNC>
+plus <COMMA> he anticipates that u.s. dollar has ended its slide and will strengthen versus the euro <PUNC>
+a stronger dollar puts more domestic-oriented companies at the advantage to larger multinationals - the type of companies like mcdonald s corp. mcd and general electric co. ge that make up the dow <PUNC>
+the dow industrials fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> sank <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> points <PUNC>
+the nasdaq composite lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

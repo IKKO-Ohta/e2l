@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> led by a <NUM> percent decline in hewlett-packard inc. hpq shares <PUNC>
+alcoa inc. aa shares lost <NUM> percent <PUNC>
+and hewlett-packard co. hpq <COMMA> releasing results a day earlier than planned <COMMA> cut its forecast for the current quarter and full year <PUNC>
+<PAR>

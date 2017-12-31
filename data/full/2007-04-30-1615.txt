@@ -1,0 +1,7 @@
+still <COMMA> the dow jones industrial average dji overcame early hesitations to gain <NUM> points to <NUM> <COMMA> as its <NUM> components were evenly split between rising and declining issues <PUNC>
+the blue-chip average received some support from the likes of 3m co. mmm <COMMA> and procter & gamble pg <PUNC>
+leading the gains <COMMA> citigroup c rose <NUM> percent after the financial times reported that the bank may become the target of activist hedge funds <COMMA> who may seek to break it up <PUNC>
+meanwhile <COMMA> verizon communications vz whose earnings and revenue topped wall street expectations rose <NUM> percent <PUNC>
+stocks rode a four-session winning streak to close friday at another record high <PUNC>
+the dow has gained ground in <NUM> of the last <NUM> sessions <COMMA> and in <NUM> of the last <NUM> <PUNC>
+<PAR>

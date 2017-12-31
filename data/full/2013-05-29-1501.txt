@@ -1,0 +1,4 @@
+u.s. stocks fell sharply on wednesday <COMMA> with the dow jones industrial average retreating from a record high <COMMA> on worries over global-growth prospects and fears the federal reserve will begin to scale back its bond-buying program <PUNC>
+on the run after tuesday s triple-digit rise <COMMA> the dow jones industrial average dji on wednesday morning was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
+the dow industrials dji hit another record close on tuesday <COMMA> finishing with a gain of <NUM> points to <NUM> <COMMA> while the s&p <NUM> index spx rose <NUM> points to <NUM> <PUNC>
+<PAR>

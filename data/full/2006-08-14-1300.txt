@@ -1,0 +1,4 @@
+the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
+ford motor co. f rose <NUM> percent to dollar <NUM> before the opening <PUNC>
+bear stearns upgraded the company to an outperform from an underperform rating <COMMA> while lowering its rating on general motors gm to an underperform from a peer perform rating <PUNC>
+<PAR>

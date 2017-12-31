@@ -1,0 +1,4 @@
+u.s. stocks climbed thursday <COMMA> with the dow industrials bouncing back after their largest hit in four weeks <COMMA> as another report cast a positive light on the u.s. housing market <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components advancing <PUNC>
+dow member alcoa inc. aa fell <NUM> percent after moody s investors service reduced its rating on the aluminum manufacturer s debt to one notch below investment grade <PUNC>
+<PAR>

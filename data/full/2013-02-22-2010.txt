@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in afternoon trade <COMMA> with h-p hpq leading the gains a day after the company projected a second-quarter profit and reported quarterly revenue that topped estimates <PUNC>
+shares of h-p surged more than <NUM> percent <COMMA> accelerating gains in afternoon trade <PUNC>
+friday s rise follows two straight days of declines that had the dow industrials losing <NUM> points <COMMA> or <NUM> percent <COMMA> its biggest two-day drop since late december <PUNC>
+the dow is currently on track to finish the week unchanged <COMMA> erasing weekly losses <PUNC>
+<PAR>

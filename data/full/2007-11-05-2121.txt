@@ -1,0 +1,7 @@
+down more than <NUM> points earlier on <COMMA> the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components lower <PUNC>
+citigroup c led the dow s declines <COMMA> its stock slumping <NUM> percent <COMMA> after it stirred investor discontent with its announcement that charles prince would step down as chairman and chief executive of the largest u.s. bank <COMMA> which is also looking at writing off up to dollar <NUM> billion more of the dollar <NUM> billion in subprime-related securities it holds <PUNC>
+<PAR>
+the ism data was a little bit better than estimates and helps a little bit <COMMA> said owen fitzpatrick <COMMA> head of the u.s. equity group at deutsche bank <PUNC>
+industrials bounced the most <COMMA> and some of the rails are up <COMMA> said fitzpatrick <COMMA> pointing to united technologies corp. utx <COMMA> which more recently was up <NUM> percent <PUNC>
+and shares of petrochina co. ptr more than doubled in their shanghai debut <COMMA> giving the oil giant a dollar <NUM> trillion market capitalization and easily passing exxon mobil corp. xom as the world s largest company <PUNC>
+<PAR>

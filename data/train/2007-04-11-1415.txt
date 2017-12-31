@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+among blue chips <COMMA> citigroup c fell <NUM> percent <PUNC>
+the bank said it was cutting <NUM> jobs worldwide in a bid to save dollar <NUM> billion a year by <NUM> <PUNC>
+on tuesday <COMMA> the new york times reported that the bank might cut or reassign <NUM> positions <PUNC>
+alcoa aa shares rose <NUM> percent after it kicked off the first-quarter earnings season after the close on tuesday with a <NUM> percent rise in profits and an upbeat outlook for the year <PUNC>
+<PAR>

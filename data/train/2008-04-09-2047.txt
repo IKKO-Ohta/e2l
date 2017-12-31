@@ -1,0 +1,6 @@
+off an earlier low of <NUM> <COMMA> the dow jones industrial average dji closed down <NUM> points to <NUM> <COMMA> with <NUM> out of its <NUM> components in the red <PUNC>
+among rising dow components <COMMA> citigroup inc. c gained <NUM> percent to dollar <NUM> <COMMA> following a report in the wall street journal that citi plans to sell dollar <NUM> billion in debt for nearly <NUM> cents on the dollar <PUNC>
+<PAR>
+also supporting the blue-chip average <COMMA> boeing co. ba gained <NUM> percent <PUNC>
+the aircraft manufacturer said that a delay in delivery of its <NUM> dreamliner to later this year doesn t change its <NUM> outlook <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+after hovering close to the flat line in the morning <COMMA> the dow jones industrial average rose <NUM> points to <NUM> in afternoon trading <PUNC>
+alcoa aa led the measure <COMMA> up <NUM> percent <PUNC>
+dupont dd was also a strong performer <COMMA> up <NUM> percent <PUNC>
+home depot hd was down <NUM> percent <PUNC>
+<PAR>

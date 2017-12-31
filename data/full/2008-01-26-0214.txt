@@ -1,0 +1,9 @@
+despite the drop <COMMA> the dow jones industrial average dji and s&p <NUM> index spx eked out slight gains for the week <COMMA> the dow gaining <NUM> percent and the s&p advancing <NUM> percent <COMMA> while the nasdaq composite index rixf finished with a weekly drop of <NUM> percent <PUNC>
+after earlier climbing more than <NUM> points <COMMA> the dow jones industrial average dji ended <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> finished in the red <COMMA> led by intel corp. intc <COMMA> down <NUM> percent <PUNC>
+drug manufacturer merck & co. mrk also fell <NUM> percent <PUNC>
+shares of honeywell hon shares ended up <NUM> percent <PUNC>
+late thursday <COMMA> the blue-chip conglomerate reported an <NUM> percent profit increase for the fourth quarter <PUNC>
+microsoft msft fell <NUM> percent after the software giant posted an <NUM> percent surge in quarterly profit <PUNC>
+caterpillar cat stock gained <NUM> percent after posting fourth-quarter earnings that grew about <NUM> percent <PUNC>
+<PAR>

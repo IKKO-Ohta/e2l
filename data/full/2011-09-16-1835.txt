@@ -1,0 +1,2 @@
+after rising as much as <NUM> points and sliding <NUM> points <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <PUNC>
+<PAR>

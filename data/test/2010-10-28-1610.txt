@@ -1,0 +1,8 @@
+the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
+exxon mobil xom <COMMA> led the earnings parade thursday morning <PUNC>
+the oil giant s third-quarter earnings rose a bigger-than-expected <NUM> percent as it benefited from stronger commodities prices and refining margins in the first full quarter that included its june acquisition of natural-gas producer xto energy <PUNC>
+shares rose <NUM> percent <PUNC>
+3m mmm was among the dow s worst performers <COMMA> falling <NUM> percent after its earnings report disappointed investors <PUNC>
+the consumer and industrial manufacturer s third-quarter profit jumped <NUM> percent on higher sales at a bulk of its operating divisions <PUNC>
+but 3m merely narrowed its <NUM> profit target due to the impact of acquisitions made in recent months <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the s&p <NUM> spx flat at <NUM> <PUNC>
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
+with the dow jones brushing the 200-day moving average for the first time since the end of january <COMMA> there will be a lot of nervous bulls out there <COMMA> said chris beauchamp <COMMA> market analyst at ig <COMMA> in a note <PUNC>
+read more on why stocks are down in wednesday s need to know <PUNC>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with all but one of its <NUM> components striking early gains <COMMA> fronted by at&t inc. t <COMMA> up <NUM> percent <PUNC>
+the dow s sole early laggard was hewlett-packard co. hpq <COMMA> its shares off nearly <NUM> percent <PUNC>
+u.s. stocks ended monday s session in a muted tone <COMMA> with the dow industrials falling <NUM> points <COMMA> the s&p <NUM> losing <NUM> points and the nasdaq composite adding <NUM> points <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+after finishing lower on monday and snapping a three-day winning streak <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+twenty-four of the dow s <NUM> components gained <COMMA> led by equipment manufacturer caterpillar inc. cat <COMMA> up <NUM> percent <PUNC>
+on tuesday <COMMA> 3m co. mmm hiked its earnings outlook for <NUM> <COMMA> with the industrial conglomerate and dow component saying it also expected to expand through further acquisitions <PUNC>
+<PAR>

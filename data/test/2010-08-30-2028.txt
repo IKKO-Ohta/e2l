@@ -1,0 +1,9 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> near session lows <PUNC>
+the dow is currently off <NUM> percent for august <COMMA> with only one trading session left in the month <PUNC>
+all but one of the dow s <NUM> components traded lower <PUNC>
+intel corp. intc dropped <NUM> percent after the world s largest computer-chip manufacturer said it would pay about dollar <NUM> billion to acquire infineon technologies ag s wireless unit <PUNC>
+<PAR>
+also weighing on the dow <COMMA> shares of 3m co. mmm were off <NUM> percent after the company said it would buy cogent inc. cogt <PUNC>
+<PAR>
+hewlett-packard co. hpq was the sole blue-chip gainer <COMMA> up <NUM> percent <COMMA> with shares of the technology titan bolstered by a share-repurchase plan amid its pursuit of a deal to acquire 3par par <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+on friday <COMMA> stocks see-sawed between gains and losses <COMMA> with telecommunication services fronting the declines and financial shares pacing the gains <PUNC>
+the dow jones industrial average dji was lately up <NUM> points at 8,137.94.86 <PUNC>
+the s&p <NUM> index spx added <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf dipped <NUM> points to <NUM> <PUNC>
+<PAR>

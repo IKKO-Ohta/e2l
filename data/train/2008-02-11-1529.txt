@@ -1,0 +1,6 @@
+u.s. stocks dropped monday <COMMA> with the dow industrials down about <NUM> points <COMMA> after insurer american international group inc. pointed to potential trouble with the valuation of its credit-default swap portfolio <COMMA> fueling new worries about the financial sector <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with aig aig leading the declines <COMMA> its stock off <NUM> percent <PUNC>
+other blue-chip financials fell as well <COMMA> with citigroup inc. c off <NUM> percent <PUNC> american express co. axp down <NUM> percent and j.p. morgan chase jpm off <NUM> percent <PUNC>
+ahead of the opening bell <COMMA> dow jones & co. disclosed plans to replace dow industrials components altria group inc. mo and honeywell international inc. hon with bank of america corp. bac and chevron corp. cvx <COMMA> effective feb. <NUM> <PUNC>
+yahoo yhoo rejected microsoft s takeover bid as inadequate <COMMA> while microsoft msft is expected to take its offer directly to shareholders as its next move <PUNC>
+<PAR>

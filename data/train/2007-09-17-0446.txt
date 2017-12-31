@@ -1,0 +1,4 @@
+the dow jones industrial average dji finished up <NUM> points at <NUM> on friday <COMMA> for a strong weekly gain of <NUM> percent <PUNC>
+the s&p <NUM> index spx rose fractionally to <NUM> friday and was up <NUM> percent on the week <PUNC>
+the nasdaq composite index rixf advanced <NUM> percent and gained <NUM> percent for the week <PUNC>
+<PAR>

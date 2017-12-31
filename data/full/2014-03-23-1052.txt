@@ -1,0 +1,3 @@
+on the week <COMMA> the dow jones industrial average dji finished up <NUM> percent <COMMA> the s&p <NUM> index spx closed up <NUM> percent <COMMA> and the nasdaq composite index rixf finished <NUM> percent higher <COMMA> even though all three indexes closed lower on friday <PUNC>
+a handful of companies report earnings this week including walgreen co. wag <COMMA> carnival corp. ccl <COMMA> accenture plc acn <COMMA> red hat inc. rht <COMMA> paychex inc. payx <COMMA> and gamestop corp. gme first-quarter earnings season won t be in full swing until mid-april when j.p. morgan chase & co. jpm reports <PUNC>
+<PAR>

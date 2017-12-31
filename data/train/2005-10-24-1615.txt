@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose more than <NUM> points <PUNC>
+the s&p <NUM> spx and the nasdaq composite rixf also hit new session highs <PUNC>
+merck mrk also was supported by earnings news <PUNC>
+the company reported reported third-quarter earnings of dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> up from a year-ago profit of dollar <NUM> billion <COMMA> or <NUM> cents a share <PUNC>
+but sales dipped <NUM> percent <PUNC>
+american express axp moved higher as investors awaited its midday report <PUNC>
+<PAR>

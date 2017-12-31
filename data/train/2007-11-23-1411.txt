@@ -1,0 +1,7 @@
+futures for the dow jones industrial average dji were up <NUM> points at 12,918.s&p <NUM> index spx futures gained <NUM> points to <NUM> <COMMA> while those for the nasdaq <NUM> gained <NUM> points to <NUM> <PUNC>
+u.s. stocks tumbled on wednesday <COMMA> with the dow falling <NUM> points <COMMA> as worries about bad home loans <COMMA> a slumping dollar and oil near dollar <NUM> a barrel led traders to take money out of the market ahead of the holiday <PUNC>
+on friday <COMMA> bank stocks were posting early gains with both citigroup inc. c and jp morgan chase jpm both up <NUM> percent <PUNC>
+the bruised financial sector saw gains in overseas trading <COMMA> with shares of wells fargo wfc <COMMA> bank of america bac and american international group aig advancing in frankfurt trade <PUNC>
+gmac <COMMA> <NUM> percent held by general motors gm and majority held by cerberus capital management <COMMA> said in a filing to the securities and exchange commission late on wednesday that it was considering the sale of part of residential capital and also was considering the purchase of an international lender <COMMA> widely believed to be britain s northern rock <PUNC>
+pfizer pfe shares rose <NUM> percent in pre-open deals <PUNC>
+<PAR>

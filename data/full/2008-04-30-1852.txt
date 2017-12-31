@@ -1,0 +1,7 @@
+after the fed s announcement <COMMA> the dow jones industrial average rose to an intraday high of <NUM> <COMMA> its first time above the <NUM> level since jan. <NUM> <PUNC>
+the dow jones industrial average dji more recently was up <NUM> points at <NUM> <COMMA> with all but three of its <NUM> components trading higher <PUNC>
+the blue-chip advance was led by gm gm <COMMA> recently up <NUM> percent after the automaker reported a first-quarter net loss of dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> compared with net income of dollar <NUM> million a year earlier <PUNC>
+its adjusted loss of <NUM> cents a share <COMMA> however <COMMA> was well ahead of the dollar <NUM> -a-share loss analysts were expecting <PUNC>
+also bolstering the dow <COMMA> shares of proctor & gamble pg climbed <NUM> percent after the consumer-products giant reported earnings that topped forecasts <PUNC>
+citigroup inc. c led blue-chip declines <COMMA> its stock off <NUM> percent <PUNC>
+<PAR>

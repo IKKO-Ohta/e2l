@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the standard & poor s 500-stock index spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> as material and energy stocks rose <PUNC>
+consumer staples was the only sector trading in negative territory <PUNC>
+<PAR>

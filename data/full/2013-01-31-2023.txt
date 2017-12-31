@@ -1,0 +1,2 @@
+the dow jones industrial average dji lost <NUM> points <COMMA> or less than <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <COMMA> led by intel corp. intc <COMMA> off <NUM> percent <PUNC>
+<PAR>

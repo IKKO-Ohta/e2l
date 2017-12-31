@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end friday at <NUM> for the week the blue-chip index was off <NUM> percent <PUNC>
+all but one of the dow s <NUM> components finished with gains on friday <COMMA> including intel corp. intc <COMMA> up <NUM> percent after the computer-chip maker cut its sales forecast <PUNC>
+<PAR>
+the sole decliner among the blue chips proved to be hewlett-packard co. hpq <COMMA> with shares of the tech giant declining after it raised its offer for 3par inc. par to dollar <NUM> billion <COMMA> once more beating dell inc. s dell offer for the data-storage company <PUNC>
+<PAR>

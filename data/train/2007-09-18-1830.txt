@@ -1,0 +1,5 @@
+up more than <NUM> points before the fed s move <COMMA> the dow jones industrial average dji added more than <NUM> points in its aftermath <PUNC>
+the dow was more recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components ahead <COMMA> led by the likes of caterpillar inc. cat <COMMA> which gained <NUM> percent <COMMA> and american express co. axp <COMMA> up <NUM> percent after its agreement to sell its international banking unit in a deal worth about dollar <NUM> billion. <PUNC>
+after leading the dow s losses earlier on <COMMA> general motors corp. gm was up <NUM> percent in the wake of a downgrade by goldman sachs <COMMA> which shifted the automaker s shares to neutral from buy <COMMA> saying likely union concessions are priced in <PUNC>
+procter & gamble co. pg reiterated quarterly profit and sales forecasts <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+down about <NUM> points ahead of the fed decision <COMMA> the dow jones industrial average dji rallied nearly <NUM> points before retrenching as the closing bell neared to finish <NUM> points lower to <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> closed with losses <PUNC>
+another blue chip <COMMA> boeing co. ba <COMMA> rose <NUM> percent in the wake of its fourth-quarter earnings climb of <NUM> percent <PUNC>
+merck & co. mrk was down the most <COMMA> <NUM> percent <COMMA> after the pharmaceutical company reported fourth-quarter losses of dollar <NUM> billion <COMMA> pegged in part to its vioxx lawsuit settlement and restructuring charges <PUNC>
+the recent spree of fed action <COMMA> beginning with the fed s emergency <NUM> basis-point cut eight days ago <COMMA> has helped the equities market recover its footing <COMMA> with the dow gaining more than <NUM> points <COMMA> or <NUM> percent <COMMA> since the three-day weekend that preceded tuesday s unexpected fed cut <PUNC>
+<PAR>

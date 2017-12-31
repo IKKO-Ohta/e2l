@@ -1,0 +1,7 @@
+u.s. stocks sprinted higher friday <COMMA> with the dow adding more than <NUM> points yet still positioned for a weekly loss <COMMA> following the federal reserve s move to cut its discount interest rate in an attempt to ease concerns over liquidity <PUNC>
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but four of its <NUM> components ahead <COMMA> led by exxon mobil corp. xom <COMMA> which was up <NUM> percent amid a rise in the price of oil <PUNC>
+bank stocks <COMMA> hit hard by the relentless credit market upheaval <COMMA> were also among the dow s larger gainers <COMMA> with jp morgan chase co. jpm ahead <NUM> percent and citicorp inc. c up <NUM> percent <PUNC>
+dupont & co. inc. dd was among the few dow stocks losing ground <COMMA> with its stock off <NUM> percent <PUNC>
+general motors corp. gm and mcdonald s corp. mcd also edged lower <PUNC>
+u.s. stocks experienced a dramatic reversal in the final hour of trade thursday <COMMA> helping the dow industrials recoup much of a 340-point deficit to finish only slightly lower <PUNC>
+<PAR>

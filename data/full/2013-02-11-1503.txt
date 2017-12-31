@@ -1,0 +1,5 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with only eight of its <NUM> components trading in positive territory <PUNC>
+shares of retailer wal-mart stores inc. wmt dropped <NUM> percent <COMMA> posting the biggest decline in the dow <PUNC>
+bulls have been reassured <COMMA> however <COMMA> by strong earnings growth from consumer companies in the nearly completed earnings season <PUNC>
+results from coca-cola co. ko <COMMA> pepsico inc. pep and kraft foods group krft are among those expected this week <PUNC>
+<PAR>

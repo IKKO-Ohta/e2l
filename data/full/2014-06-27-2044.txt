@@ -1,0 +1,5 @@
+the dow jones industrial average dji ticked up <NUM> points to <NUM> <PUNC>
+the weekly loss was <NUM> percent <PUNC>
+nike inc. nke <PUNC> the maker of sporting apparel and gear reported stronger-than-expected earnings for the fiscal fourth quarter <COMMA> as revenue grew across almost all its main markets <PUNC>
+shares rose <NUM> percent <PUNC>
+<PAR>

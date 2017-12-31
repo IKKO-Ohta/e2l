@@ -1,0 +1,5 @@
+the dow jones industrial average dji was recently ahead <NUM> points at <NUM> <COMMA> despite <NUM> of its <NUM> components trading lower <COMMA> with walt disney co. dis fronting the blue-chip s decline <COMMA> its stock off <NUM> percent <PUNC>
+technology shares were among the dow s gainers <COMMA> with international business machine corp. ibm up <NUM> percent and intel corp. intc ahead <NUM> percent <PUNC>
+u.s. stocks closed a choppy session with gains on tuesday <COMMA> with best buy and adobe systems closing higher after quarterly reports <PUNC>
+the dow industrials rose <NUM> points <COMMA> the s&p <NUM> ended <NUM> points higher and the nasdaq composite tacked on <NUM> points <PUNC>
+<PAR>

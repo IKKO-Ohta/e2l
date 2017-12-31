@@ -1,0 +1,3 @@
+on friday <COMMA> general electric co. ge reported quarterly results that met expectations <COMMA> but also warned of a difficult year ahead <COMMA> fueling worries that had the major u.s. stock indexes opening sharply lower to extend the prior day s losses <PUNC>
+scaling dramatically back from a more than 200-point loss early on <COMMA> the dow jones industrial average dji was recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components posting afternoon gains <PUNC>
+<PAR>

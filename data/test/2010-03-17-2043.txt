@@ -1,0 +1,3 @@
+u.s. stocks finished ahead on wednesday <COMMA> propelling the dow jones industrial average to its longest winning streak since august <NUM> <COMMA> as wall street rejoiced over the federal reserve s prior-session decision to hold rates steady <COMMA> which should keep banks borrowing costs at record lows for much of the year <PUNC>
+the dow industrials dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components gaining <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+u.s. stocks dipped tuesday as a looming interest-rate decision from the federal reserve made for cautious trading <COMMA> with dupont pressuring the dow jones industrial average after france s vivendi sold its stake in the chemicals giant <PUNC>
+the dow industrials dji were down <NUM> points at <NUM> <PUNC>
+general motors gm stock was last down <NUM> percent at dollar <NUM> after rising <NUM> percent in the prior session <PUNC>
+late monday the auto maker said <NUM> of its workers agreed to buyout packages <PUNC>
+shares of dupont dd fell <NUM> percent to dollar <NUM> after vivendi v sold its <NUM> million shares of the chemicals giant for dollar <NUM> million <COMMA> or dollar <NUM> a share <PUNC>
+the sale was expected after vivendi said earlier in the month that it had resolved a dispute with the u.s. internal revenue service over a <NUM> sale of dupont shares <PUNC>
+intel corp. intc was up <NUM> percent to dollar <NUM> after it sold its struggling communications-chip unit to marvell technology group ltd. for dollar <NUM> million in cash as it looks to focus on chips for personal computers and servers amid stiffer competition <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+on monday <COMMA> stocks ended mixed as investors juggled positive manufacturing data with a fresh spike in oil prices <PUNC>
+the dow jones industrial average drifting lower on weakness in shares of home depot <COMMA> merck and others <PUNC>
+the dow industrials dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+j.p morgan jpm has reportedly been talking to dozens of u.s. banks to gauge their interest in potential acquisitions <COMMA> according to the wall street journal <COMMA> citing executives and others familiar with the conversations <PUNC>
+two weeks ago <COMMA> chief executive james dimon hinted that a large acquisition could be on the cards as early as next year <PUNC>
+on monday <COMMA> the stock rose <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

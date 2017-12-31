@@ -1,0 +1,2 @@
+up <NUM> percent for the week <COMMA> the dow jones industrial average on friday fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving the blue-chip index up <NUM> percent for the week <COMMA> and giving it its first consecutive weekly gains since the period ending may <NUM> <COMMA> <NUM> <COMMA> when it rose three weeks straight <PUNC>
+<PAR>

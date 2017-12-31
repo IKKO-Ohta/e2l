@@ -1,0 +1,7 @@
+the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> with <NUM> of its <NUM> components in positive territory <PUNC>
+ahead of the opening bell <COMMA> blue-chip dupont dd <COMMA> the nation s second-largest chemical maker <COMMA> said its earnings rose <NUM> percent in the third quarter <COMMA> bolstered by international and agriculture growth <PUNC>
+another dow component <COMMA> american express co. axp <COMMA> also reported solid results <COMMA> with the credit-card and travel-services company tallying an <NUM> percent rise in profits for the third quarter <PUNC>
+other companies reporting earnings include at&t inc. t <COMMA> which matched expectations <PUNC>
+<PAR>
+on monday <COMMA> wall street bounced back <COMMA> with technology shares leading the way <COMMA> with the dow adding <NUM> points <COMMA> the nasdaq gaining <NUM> points and the s&p rising <NUM> points <PUNC>
+<PAR>

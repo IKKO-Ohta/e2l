@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+bank of america corp. bac was the greatest laggard on the dow <COMMA> off <NUM> percent <PUNC>
+general motors corp. gm led gains on the dow <COMMA> rallying <NUM> percent after a deutsche bank analyst said scales are tipping in favor of a federal bailout for the ailing automaker <PUNC>
+off the dow <COMMA> shares of toyota motor corp. tm slid <NUM> percent after fitch ratings slapped a rare downgrade on the japanese automaker s pristine credit rating <COMMA> citing the climate that has driven u.s. rivals ever closer to bankruptcy <PUNC>
+<PAR>
+also bolstering the dow <COMMA> citigroup inc. c rose <NUM> percent <PUNC>
+<PAR>

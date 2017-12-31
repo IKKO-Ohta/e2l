@@ -1,0 +1,5 @@
+u.s. stocks declined on friday <COMMA> handing the dow jones industrial average its worst week this year <COMMA> with investors on uncertain footing as longer-term treasury yields rose to two-year highs <PUNC>
+the dow dji slid <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> while the s&p <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <PUNC>
+for the week <COMMA> the dow lost <NUM> points <COMMA> or <NUM> percent <COMMA> suffering its biggest weekly percentage drop and point loss of <NUM> <PUNC>
+it was the blue-chip index s worst weekly percentage slide since may <NUM> <COMMA> and its largest point decline since june <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+after triple-digit rises and falls <COMMA> the dow jones industrial average dji declined <NUM> to <NUM> <COMMA> with <NUM> of its <NUM> components posting late afternoon losses <COMMA> recently led by hewlett-packard co. hpq <COMMA> off <NUM> percent <PUNC>
+aerospace company boeing co. ba led the limited dow gains <COMMA> up <NUM> percent <PUNC>
+u.s. stocks fell to more than five-year lows on wednesday <COMMA> with the dow industrials closing more than <NUM> points lower <PUNC>
+<PAR>

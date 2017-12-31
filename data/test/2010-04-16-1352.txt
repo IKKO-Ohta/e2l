@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> in early trading <PUNC>
+general electric ge was the measure s worst performer <COMMA> slipping <NUM> percent after its first-quarter earnings fell <NUM> percent <COMMA> dragged down by a loss from discontinued operations and a sharply smaller tax benefit at its financial arm <COMMA> as well as slower sales at its big industrial divisions <PUNC>
+bank of america bac was also weak <COMMA> down <NUM> percent after the bank s dollar <NUM> billion profit exceeded analysts expectations but declined from a year earlier <PUNC>
+the company s investment banking revenue helped boost its bottom line <COMMA> but other businesses struggled <PUNC>
+helping to offset some of the losses <COMMA> coca-cola ko rose <NUM> percent <PUNC>
+wal-mart stores wmt gained <NUM> percent after its u.k. supermarket chain asda paid a fee to the u.k. office of fair trading for unlawful price fixing of tobacco products <COMMA> but the fines were reduced as the company cooperated with regulators <PUNC>
+<PAR>

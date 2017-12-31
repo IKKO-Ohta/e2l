@@ -1,0 +1,4 @@
+stocks climbed tuesday <COMMA> with the dow industrials bolstered by solid august sales by fast-food goliath mcdonald s corp. and word from general motors corp. <COMMA> the largest u.s. automaker <COMMA> that it is enticing buyers with fewer incentives <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <COMMA> led by gm gm <COMMA> up <NUM> percent after it said it was spending less on incentives for newly released crossover vehicles <COMMA> and mcdonald s mcd <COMMA> up <NUM> percent on a strong rise in august sales <PUNC>
+the retail sector gained along with the broader market <COMMA> with shares of dow member wal-mart stores inc. wmt almost <NUM> percent higher after it revised its second-quarter profit lower by dollar <NUM> million late monday <PUNC>
+<PAR>

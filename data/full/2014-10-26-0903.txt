@@ -1,0 +1,2 @@
+the broader market comes off a big week with the dow jones industrial average dji finishing up <NUM> percent <COMMA> the s&p <NUM> index spx having its best gain of <NUM> with a <NUM> percent advance <COMMA> and the nasdaq composite index rixf closing up <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrials average dji ended down <NUM> points at <NUM> <COMMA> after flitting back and forth between positive and negative territory many times <PUNC>
+however <COMMA> dow components alcoa aa <COMMA> dupont dd and american express co. axp locked in solid gains <PUNC>
+dow component boeing ba closed down <NUM> percent at dollar <NUM> <PUNC>
+the aerospace company reported higher third-quarter earnings <COMMA> but its sales fell <NUM> percent due largely to a strike <PUNC>
+wal-mart stores wmt <COMMA> also in the dow <COMMA> shook off early losses and closed up <NUM> cents at dollar <NUM> <PUNC>
+the new york times reported that its executive vice president for benefits suggested in a memo that the retailer hire more part-time workers and discourage unhealthy people from working at its stores in an effort to rein in benefits costs <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+citigroup c <COMMA> the biggest u.s. bank <COMMA> set aside dollar <NUM> million in the fourth quarter to cover job cuts announced and yet to come <COMMA> ceo vikram pandit told a conference call tuesday morning <PUNC>
+on monday <COMMA> u.s. stocks rallied <COMMA> with the dow chalking up its largest gain yet this year <COMMA> as an oversold market cheered solid results from international business machines corp. ibm <PUNC>
+<PAR>

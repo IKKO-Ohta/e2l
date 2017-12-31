@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+diebold inc. dbd shares jumped <NUM> percent on news united technologies corp. utx had offered to buy the maker of atm and voting machines <PUNC>
+u.s. stocks plunged on friday <COMMA> with the dow industrials losing <NUM> points <COMMA> the s&p <NUM> dropping <NUM> points and the nasdaq composite losing <NUM> points <PUNC>
+american international group led the downturn after posting its largest loss in almost <NUM> years of business <PUNC>
+<PAR>

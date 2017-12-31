@@ -1,0 +1,6 @@
+u.s. stocks shot lower wednesday <COMMA> pushing the dow back below the <NUM> mark <COMMA> after the federal reserve s delayed move to funnel more cash into the banking system offered only mild appeasement for wall street s credit-frayed nerves <PUNC>
+the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with <NUM> of the dow s <NUM> stocks trading in the red <PUNC>
+financials clung to some gains after an earlier advance <COMMA> with american express co. axp up nearly <NUM> percent <COMMA> citicorp c slipping <NUM> percent and j.p. morgan jpm ahead <NUM> percent <PUNC>
+the dow shifted gears along amid contrarian words from the new york fed over its repurchases <COMMA> with the fed in the end saying it would take dollar <NUM> billion in a repo <COMMA> where it buys securities from dealers <COMMA> who then put the funds into commercial banks <PUNC>
+stocks slid on tuesday <COMMA> with the dow falling more than <NUM> points <COMMA> amid further signs that trouble in the subprime mortgage market is prompting a tightening of credit <PUNC>
+<PAR>

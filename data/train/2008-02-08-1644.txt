@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points to <NUM> <COMMA> off opening lows that had the blue-chip index sliding more than <NUM> points <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> posted gains <COMMA> led by mcdonald corp. mcd <COMMA> up <NUM> percent <COMMA> in the wake of january sales results <PUNC>
+another blue chip <COMMA> coca-cola co. ko <COMMA> climbed <NUM> percent after its upgrade to outperform from peer perform at bear stearns <COMMA> with the broker citing solid results at pepsico pep and other consumer companies with a global reach <PUNC>
+other stocks advancing on the blue-chip index included technology shares <COMMA> with microsoft corp. msft up <NUM> percent and hewlett-packard co. hpq up <NUM> percent <PUNC>
+<PAR>

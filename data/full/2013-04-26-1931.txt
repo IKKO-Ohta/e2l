@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with hewlett-packard co. hpq up <NUM> percent <COMMA> leading gainers in the 30-stock blue-chip index <PUNC>
+chevron corp. cvx was another gainer in the dow <COMMA> rising <NUM> percent <PUNC>
+the oil major said its first-quarter earnings fell to dollar <NUM> billion <COMMA> or dollar <NUM> per share <COMMA> from dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> in the same period a year ago <COMMA> but the results still exceeded analyst expectations <PUNC>
+3m co. mmm and united technologies corp. utx were the biggest decliners in the dow <COMMA> dropping <NUM> percent <PUNC>
+<PAR>

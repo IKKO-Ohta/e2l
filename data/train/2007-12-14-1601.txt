@@ -1,0 +1,6 @@
+down more than <NUM> points early on <COMMA> the dow jones industrial average dji was more recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components hit with early losses <COMMA> including intel corp. intc <COMMA> which slid <NUM> percent <COMMA> and home depot inc. hd <COMMA> off <NUM> percent <PUNC>
+another blue-chip <COMMA> citigroup inc. c recovered from early losses <COMMA> recently up <NUM> percent <PUNC>
+advancing stocks on the dow included boeing co. ba <COMMA> up <NUM> percent and microsoft corp. msft <COMMA> ahead <NUM> percent <PUNC>
+u.s. stocks remained under pressure thursday <COMMA> closing mixed <COMMA> though honeywell international s hon earnings forecasts helping lift sentiment on industrials <PUNC>
+the dow ended up <NUM> points <COMMA> while the nasdaq composite index ended the day down <NUM> points <PUNC>
+<PAR>

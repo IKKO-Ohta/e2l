@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+verizon vz led the measure s gains with a <NUM> percent jump <PUNC>
+alcoa aa was also strong <COMMA> up <NUM> percent <COMMA> and j.p. morgan chase jpm added <NUM> percent <PUNC>
+keeping the gains in check <COMMA> intel fell <NUM> percent <COMMA> wal-mart stores wmt slipped <NUM> percent and merck mrk dropped <NUM> percent <PUNC>
+<PAR>

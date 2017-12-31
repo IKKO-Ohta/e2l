@@ -1,0 +1,8 @@
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <COMMA> falling below the key resistance level of <NUM> to its lowest close since mid-november <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent to <NUM> <COMMA> recording its fifth triple-digit loss this month <PUNC>
+the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <PUNC>
+boeing ba reported better-than-expected fourth-quarter earnings <COMMA> as profits rose from the same period a year ago <PUNC>
+however <COMMA> the company s outlook for <NUM> was below expectations <PUNC>
+shares slid <NUM> percent <PUNC>
+shares of at&t t fell <NUM> percent in the wake of late-tuesday earnings <PUNC>
+<PAR>

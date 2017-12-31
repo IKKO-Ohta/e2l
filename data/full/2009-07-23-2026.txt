@@ -1,0 +1,2 @@
+on thursday <COMMA> the dow jones industrial average dji rallied <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with the blue-chip benchmark breaking through the <NUM> level for the first time since january <PUNC>
+<PAR>

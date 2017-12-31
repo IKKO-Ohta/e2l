@@ -1,0 +1,7 @@
+the dow jones industrial average dji <COMMA> which fell briefly as bernanke s comments were released <COMMA> was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> recently <PUNC>
+the dow closed below <NUM> on thursday for the first time since early july <COMMA> due in part to jitters ahead of friday morning s report on gross domestic product <PUNC>
+shortly before bernanke s comments were released <COMMA> intel intc cut its third-quarter revenue and gross-margin targets because of weaker-than-expected demand for consumer personal computers in developed markets <PUNC>
+intel s shares were halted for the announcement <COMMA> but edged higher in recent trading <PUNC>
+most of the dow s <NUM> components rose friday <PUNC>
+hewlett-packard co. hpq led the few decliners <COMMA> off <NUM> percent <COMMA> as its fight with dell inc. dell over 3par intensified <PUNC>
+<PAR>

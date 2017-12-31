@@ -1,0 +1,7 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+we ve just come off a very big quarter and so we have to digest some of those gains <COMMA> said jim awad <COMMA> chairman of awad asset management <PUNC>
+in the first quarter <COMMA> ended friday <COMMA> the nasdaq composite rose <NUM> percent <COMMA> while the dow jones industrials and the s&p <NUM> both advanced <NUM> percent <PUNC>
+citigroup inc. c has been given the green light to hit the acquisition trail after new york federal reserve chief william rutledge lifted a year-old ban on big mergers <PUNC>
+3m shares mmm were up <NUM> percent at dollar <NUM> after the diversified industrial group said it was seeking strategic alternatives for its branded pharmaceutical business <PUNC>
+merck shares mrk were up <NUM> cents at dollar <NUM> after the pharmaceutical company said it expects its first-quarter earnings to come in higher than expected <COMMA> while reaffirming its <NUM> full-year outlook <PUNC>
+<PAR>

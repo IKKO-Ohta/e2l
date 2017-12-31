@@ -1,0 +1,6 @@
+the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> stepping back after its biggest three-day percentage gain since march <NUM> <PUNC>
+bank of america corp. bac shares <COMMA> off <NUM> percent <COMMA> led losses among <NUM> of the index s <NUM> components <PUNC>
+stocks fell to session lows <COMMA> with the dow off as much as <NUM> points <COMMA> after french president nicolas sarkozy said france and germany would propose a financial-transaction tax next month <COMMA> according to media reports <PUNC>
+discount retailer wal-mart stores inc. wmt hiked its <NUM> profit outlook <COMMA> with shares of the dow component up <NUM> percent <PUNC>
+also bolstering the blue-chip index <COMMA> home depot inc. hd rose <NUM> percent after the home-improvement retailer raised its yearly profit forecast as second-quarter earnings topped expectations <PUNC>
+<PAR>

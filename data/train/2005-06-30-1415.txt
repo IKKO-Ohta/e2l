@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in the opening minutes of trade while the nasdaq composite index rixf lifted <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and the s&p <NUM> spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+boeing ba was the dow s biggest gainer <COMMA> rallying <NUM> percent on news it picked jim mcnerney <COMMA> ceo of fellow blue chip 3m co. mmm as its new chief executive <PUNC>
+3m <COMMA> conversely <COMMA> was the biggest loser <COMMA> sliding <NUM> percent on the news <PUNC>
+home depot hd was another notable blue chip gainer <COMMA> rising <NUM> percent after lehman bros. boosted its recommendation on the shares to overweight <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+off more than <NUM> points early on <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting early declines <COMMA> with financials leading the way lower <PUNC>
+early broker action had oppenheimer & co. cutting first-quarter profit forecasts for u.s. banks on average by <NUM> percent <COMMA> led by citigroup inc. c <COMMA> its stock was recently off <NUM> percent <PUNC>
+<PAR>

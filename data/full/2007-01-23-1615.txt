@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+on the dow <COMMA> shares of united technologies utx were up <NUM> percent <COMMA> posting the best gains among blue chips <COMMA> after its results came ahead of expectations <PUNC>
+but dupont dd <COMMA> whose results met expectations <COMMA> fell <NUM> percent and weighed heavily on the blue-chip average.likewise <COMMA> johnson & johnson jnj <COMMA> which posted better than expected results <COMMA> fell nearly <NUM> percent <PUNC>
+disappointments over the earnings outlook from the likes of tech-heavyweights apple inc. aapl <COMMA> ibm ibm and intel corp. intc had soured sentiment <PUNC>
+with corporations still full of cash <COMMA> many analysts expect that corporate spending on technology upgrades <COMMA> such as microsoft corp. s msft new operating system vista <COMMA> will be a boon for tech companies this year <PUNC>
+<PAR>

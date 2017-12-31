@@ -1,0 +1,4 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components striking early gains <PUNC>
+u.s. stocks ended mixed friday but up on the week <COMMA> due in part to better results than predicted from banks including wells fargo & co. wfc <COMMA> j.p. morgan chase & co. jpm and citigroup inc. c <PUNC>
+shares of retail banking giant bank of america bac rose <NUM> percent after it reported a <NUM> percent profit decline for the second quarter <COMMA> but still exceeded wall street s estimates <PUNC>
+<PAR>

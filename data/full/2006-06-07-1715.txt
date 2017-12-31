@@ -1,0 +1,9 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> just shy of its session high of <NUM> <PUNC>
+since the may <NUM> meeting <COMMA> the nasdaq rixf has fallen <NUM> percent <COMMA> the dow dji has lost <NUM> percent and the s&p <NUM> spx is down <NUM> percent as of tuesday s close <PUNC>
+dupont dd shares fell <NUM> percent to dollar <NUM> after deutsche bank lowered its rating on the blue-chip company as part of broader downgrade of the sector <PUNC>
+the broker cited concern over the negative impact of a slowing u.s. economy <PUNC>
+back within the dow <COMMA> shares of pfizer inc. pfe rose <NUM> percent to dollar <NUM> after chief executive hank mckinnell said on cnbc that the company has received numerous <COMMA> very strong bids for its consumer-products unit <PUNC>
+target tgt said it expects consolidated gross-margin rate to be slightly greater this year than its <NUM> record of <NUM> percent <PUNC>
+the discount retailer s stock rallied <NUM> percent at dollar <NUM> <PUNC>
+rival wal-mart s wmt stock rose <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

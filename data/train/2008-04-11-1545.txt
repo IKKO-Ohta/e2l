@@ -1,0 +1,7 @@
+the dow jones industrial average dji shed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
+general electric ge fronted the blue chips losses <COMMA> its shares suffering their worst one-day percentage drop in share value since october <NUM> <PUNC>
+the shares were recently off <NUM> percent <PUNC>
+u.s. stocks finished thursday with gains <COMMA> as a broker s upgrade of several microchip stocks including intel corp. as well as an improved earnings forecast from wal-mart stores helped set a positive tone <PUNC>
+the dow industrials ended up <NUM> points <COMMA> the tech-heavy nasdaq composite rose <NUM> points and the s&p <NUM> added <NUM> points <PUNC>
+the fact that the dow was up more than <NUM> points during thursday s session only to lose most of its momentum by the close is a telling sign that the market is currently lacking any type of follow-through or conviction <COMMA> said robert pavlik <COMMA> chief investment officer with oaktree asset management <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+the dow jones industrial average was up <NUM> points at <NUM> near midday <COMMA> while the s&p <NUM> index gained <NUM> points to <NUM> and the nasdaq composite rixf rallied <NUM> points to <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+the s&p <NUM> spx closed up nearly <NUM> points on friday to <NUM> to mark its third straight new high this week <PUNC>
+at the same time <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> and the nasdaq composite rixf picked up <NUM> points to end at <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+after a 195-point slide <COMMA> the dow jones industrial average dji was lately off <NUM> points at <NUM> <COMMA> with b. of a <PUNC>
+bac pacing the index s declines that had all but two of its <NUM> components in the red <PUNC>
+caterpillar inc. cat was down <NUM> percent after macquarie downgraded the construction-equipment maker to neutral from outperform <PUNC>
+<PAR>

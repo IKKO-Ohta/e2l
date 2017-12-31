@@ -1,0 +1,9 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+the s&p <NUM> spx was up almost <NUM> points at <NUM> and the nasdaq composite rixf up <NUM> points at <NUM> <PUNC>
+we ve had a huge bull run on the s&p <NUM> <COMMA> the dow and the nasdaq <COMMA> said alec young <COMMA> equity market strategist at standard & poor s <PUNC>
+but last week we started to see some softer economic data <PUNC>
+microsoft corp. msft was in focus after a wsj.com report that it is leveraging personal and search information gleaned from its hotmail e-mail program and its live search engine in a worldwide effort to target ads at users of its sites <PUNC>
+the method <COMMA> called behavioral targeting <COMMA> is designed to enable advertisers to more efficiently reach exactly the people they want to reach <PUNC>
+the new york times is also reporting that verizon wireless vz will enable placement of banner ads on internet sites that its customers visit via their mobile phones <PUNC>
+advertisers have been spending more on mobile ads even as experts question effectiveness of that advertising channel <COMMA> the newspaper reported <PUNC>
+<PAR>

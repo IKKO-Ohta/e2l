@@ -1,0 +1,6 @@
+after several fits and starts lower and higher <COMMA> the dow jones industrial average dia fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting midmorning losses <PUNC>
+u.s. stocks closed their worst month in <NUM> years with a big rally last week <PUNC> the dow industrials rose <NUM> percent <COMMA> the s&p <NUM> added <NUM> percent and the nasdaq composite rose <NUM> percent <COMMA> as investors looked past the gloom from corporate profits and economic indicators and at signs showing thaws in the credit crunch <PUNC>
+monthly auto sales also are on tap <COMMA> with blue chip general motors corp. gm seen registering a drop in sales of up to <NUM> percent <PUNC>
+gm shares gained <NUM> percent <PUNC>
+two dow industrial components saw rating changes <COMMA> as wal-mart stores inc. wmt was upped to overweight by j.p. morgan <COMMA> while boeing corp. ba was downgraded to conviction sell by goldman sachs <PUNC>
+<PAR>

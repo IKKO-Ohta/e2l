@@ -1,0 +1,10 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx up <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf up <NUM> points at <NUM> <PUNC>
+the market also drew support from an announcement by wal-mart stores wmt that its june sales would be higher than the company s initial forecast <COMMA> according to joe battipaliga <COMMA> chief investment officer at ryan <COMMA> beck & co <PUNC>
+battipaglia noted that the wal-mart news followed general motors gm announcement on friday of a sharp hike in monthly car sales linked to employee discounts <PUNC>
+the two stories make clear that there is still buying power out there <COMMA> he said <PUNC>
+wal-mart stores wmt was <NUM> percent higher <COMMA> trading up dollar <NUM> at dollar <NUM> <COMMA> on its announcement that it expects u.s. june same-store sales to be up <NUM> percent from year-earlier levels <PUNC>
+previously <COMMA> the company forecast an increase in the range of <NUM> percent to <NUM> percent <PUNC>
+boston scientific bsx zoomed ahead <NUM> percent <COMMA> rising dollar <NUM> to dollar <NUM> <COMMA> after a jury friday concluded that johnson & johnson jnj infringed on a boston scientific heart stent <PUNC>
+johnson & johnson stock was down <NUM> cents at dollar <NUM> <PUNC>
+procter & gamble pg was down <NUM> cents at dollar <NUM> and gillette co g down <NUM> cents at dollar <NUM> after a news report that the european commission s review of the companies proposed merger could be extended due to concerns about competition <PUNC>
+<PAR>

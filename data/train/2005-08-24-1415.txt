@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> point at <NUM> <PUNC>
+within the dow industrials <COMMA> general motors corp. gm rallied <NUM> percent to dollar <NUM> on a report in the wall street journal that says the united auto workers union is considering helping the world s no <PUNC>
+<NUM> auto maker cut costs <PUNC>
+the article is sourced to unidentified people who attended a gathering of union leaders on monday <PUNC>
+merck mrk rose <NUM> percent to dollar <NUM> in a modest rebound after suffering steep losses linked to an unfavorable court ruling on its painkiller drug vioxx <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+u.s. stocks ended higher thursday as strong april sales results for retailers and a drop in crude-oil prices to a one-month low lifted the dow jones industrial average to its best level in more than six years <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <COMMA> its best closing level since jan. <NUM> <PUNC>
+of the <NUM> dow components <COMMA> <NUM> contributed to gains. <PUNC>
+wal-mart stores inc. wmt set the pace with a <NUM> percent rise in same-store sales <COMMA> buoyed by brisk sales of toys <COMMA> games and candy for the easter holiday <PUNC>
+sales matched the company s own forecast and handily outpaced the <NUM> percent average again expected by analysts <PUNC>
+<PAR>

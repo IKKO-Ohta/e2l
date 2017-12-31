@@ -1,0 +1,10 @@
+after jumping right out of the gates <COMMA> the dow jones industrial average dji quickly lost some steam and fell in afternoon trade <COMMA> losing <NUM> points to <NUM> in recent action <PUNC>
+the dow was still on track for a <NUM> percent gain for the week <PUNC>
+blue chips remained supported by the likes of of alcoa inc. aa <COMMA> boeing co. ba <COMMA> dupont dd and mcdonald s corp. mcd <PUNC>
+however <COMMA> <NUM> of the dow s <NUM> components were firmly in the red <COMMA> including general motors corp. gm <COMMA> hewlett-packard co. hpq and wal-mart stores inc. wmt <PUNC>
+among dow components <COMMA> procter & gamble co. pg fell <NUM> percent <PUNC>
+the company affirmed its previous third-quarter earnings projection of <NUM> to <NUM> cents a share <PUNC>
+at&t corp. t dropped <NUM> percent <PUNC>
+the telecom company and yahoo inc. yhoo are negotiating potentially sweeping changes that could scale back their partnership <COMMA> according to a report in the wall street journal <PUNC>
+the report said the changes could cost millions in revenue to yahoo <COMMA> whose shares fell <NUM> percent <PUNC>
+<PAR>

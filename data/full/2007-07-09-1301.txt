@@ -1,0 +1,9 @@
+alcoa inc. aa <COMMA> traditionally the first dow component to release its earnings <COMMA> will issue its report after the close of trade <PUNC>
+the futures contract for the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
+shares of alcoa aa were <NUM> percent higher at dollar <NUM> in premarket electronic trade <PUNC>
+the aluminum producer s report is expected to benefit from demand in the aerospace sector <COMMA> which should compensate for weakness from u.s. housing <PUNC>
+boeing co. ba <COMMA> also a dow component <COMMA> was <NUM> percent higher at dollar <NUM> before the bell <PUNC>
+over the weekend the company unveiled its <NUM> dreamliner and received orders for the plane from air berlin and aviation lease and finance company of kuwait and an increased order from qantas airways <PUNC>
+another dow component <COMMA> home depot inc. hd was upgraded to buy from neutral at goldman sachs <PUNC>
+the broker cited changes in management and culture as well as an improved business mix and capital structure <PUNC>
+<PAR>

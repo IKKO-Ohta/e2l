@@ -1,0 +1,5 @@
+on friday <COMMA> the dow jones industrial average dji finished at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <COMMA> for the session <PUNC>
+alcoa inc. aa <COMMA> which kicks off the unofficial start of reporting season after the close of trading monday <COMMA> earlier this week said it planned to cut <NUM> jobs <COMMA> close plants and chop capital spending by <NUM> percent <PUNC>
+intel corp. intc <COMMA> another blue-chip stock often used as a barometer for both the tech sector and the economy <COMMA> will report earnings on thursday <PUNC>
+in just the past week <COMMA> low-cost retailer wal-mart stores <COMMA> inc. wmt <COMMA> luxury handbag maker coach <COMMA> inc. coh and commercial printer rr donnelly rrd have slashed their forecasts on the recently completed quarter <PUNC>
+<PAR>

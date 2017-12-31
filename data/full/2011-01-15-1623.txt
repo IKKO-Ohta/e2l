@@ -1,0 +1,4 @@
+with the u.s. financial markets closed monday for martin luther king jr. day <COMMA> wall street s holiday-shortened week will start tuesday <COMMA> with iphone maker apple aapl and dow component international business machines ibm among the companies slated to report <PUNC>
+the first major tech company to report fourth-quarter results <COMMA> chip manufacturer intel corp. intc late thursday reported a <NUM> percent jump in profit in the fourth quarter <COMMA> and it also offered a rosy outlook for early <NUM> <PUNC>
+the scenario was lately illustrated by j.p. morgan chase & co. jpm in earnings released friday <COMMA> and it could well be replayed in coming days with bank of america corp. bac and wells fargo & co. wfc scheduled to report <COMMA> the latter on wednesday and the former on friday <PUNC>
+<PAR>

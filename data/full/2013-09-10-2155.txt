@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose as many as <NUM> points <COMMA> and ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+in coming weeks <COMMA> the dow industrials are in for a dramatic makeover <PUNC>
+as of the open on sept. <NUM> <COMMA> goldman sachs group inc. gs will replace bank of america corp. bac <COMMA> visa inc. v is evicting hewlett-packard co. hpq <COMMA> and nike inc. nke will bump alcoa inc. aa <COMMA> s&p dow jones indices said on tuesday <PUNC>
+read a blog post about the dow etf <PUNC>
+<PAR>

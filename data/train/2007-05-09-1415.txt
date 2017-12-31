@@ -1,0 +1,9 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with its <NUM> components evenly divided between advancing and declining issues <PUNC>
+weighing on blue chips <COMMA> walt disney & co. dis dropped <NUM> percent after the entertainment giant didn t generate as much revenue as analysts had forecast <COMMA> though its <NUM> percent profit rise came in ahead of forecast <PUNC>
+international business machines ibm <COMMA> also a dow component <COMMA> rose <NUM> percent after being upgraded to buy from neutral at goldman sachs after the technology giant s buyback move <PUNC>
+investors are also consolidating some of the market s record gains of the past two months <PUNC>
+through monday s close <COMMA> the dow industrials had matched a 80-year old record of advancing in <NUM> out of <NUM> sessions <PUNC>
+the average fell back on tuesday <PUNC>
+the rio tinto gains come amid a number of consolidation moves in the metals sector <COMMA> including alcoa s aa dollar <NUM> billion hostile bid for rival aluminum producer alcan al <PUNC>
+previously there has been speculation that rio or bhp may try to buy alcoa <PUNC>
+<PAR>

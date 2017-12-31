@@ -1,0 +1,7 @@
+wall street has been on a wild ride since the dow jones industrial average plunged over <NUM> points exactly three weeks ago amid concerns about global financial liquidity and a meltdown in the u.s. subprime mortgage market <PUNC>
+in recent action <COMMA> the dow industrials dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in positive territory <PUNC>
+caterpillar inc. cat and wal-mart stores inc. wmt were the biggest gainers among blue chips <COMMA> while decliners included and hewlett-packard co. hpq <PUNC>
+among other dow components <COMMA> citigroup inc. c rose <NUM> percent after ag edwards assumed coverage of the stock with a buy rating <PUNC>
+speculation about other deals also emerged on tuesday <PUNC>
+prudential plc puk was up <NUM> percent amid market speculation <COMMA> as reported by the reuters news service <COMMA> that american international group aig is set to launch a bid for the u.k. insurer <PUNC>
+<PAR>

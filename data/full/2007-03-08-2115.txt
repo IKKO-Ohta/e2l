@@ -1,0 +1,10 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of the average s <NUM> components posting gains <PUNC>
+earlier the dow was as high as <NUM> <PUNC>
+seven dow stocks registered gains exceeding <NUM> percent <COMMA> including at&t t up <NUM> percent on an upgrade <COMMA> verizon communications vz up <NUM> percent <COMMA> general motors corp. gm <COMMA> up <NUM> percent <COMMA> and coca-cola ko <COMMA> up <NUM> percent <PUNC>
+dow component wal-mart stores wmt stock reversed early losses to trade up <NUM> cents at dollar <NUM> <PUNC>
+the company s february same-store sales rose <NUM> percent <COMMA> falling beneath the <NUM> percent gain projected by thomson financial <PUNC>
+but wal-mart also lifted its dividend by <NUM> percent <PUNC>
+mcdonald s corp. mcd was <NUM> percent higher at dollar <NUM> <PUNC>
+the fast food giant reported a <NUM> percent gain in global comparable store sales <COMMA> amid strong demand for its breakfast and late-night menu <PUNC>
+a.g. edwards upgraded at&t corp. t to buy from hold on valuation grounds <PUNC>
+<PAR>

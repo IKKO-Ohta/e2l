@@ -1,0 +1,5 @@
+the dow jones industrial average dji ended down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> giving back some of monday s 208.44-point gain <PUNC>
+investors also had to reconcile disappointing earnings reports from procter & gamble pg and dow chemical dow <COMMA> which stood in contrast to the relatively strong corporate results that drove stocks broadly higher in july <PUNC>
+however <COMMA> health-care stocks climbed <COMMA> boosted by pfizer pfe <COMMA> which jumped <NUM> percent <PUNC>
+the drug maker posted a <NUM> percent increase in second-quarter earnings <COMMA> with adjusted earnings and revenue topping analysts estimates <PUNC>
+<PAR>

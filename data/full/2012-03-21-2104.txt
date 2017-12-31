@@ -1,0 +1,5 @@
+u.s. stocks closed mostly lower wednesday with energy shares hit by baker hughes inc. s weak forecast and hewlett-packard co. s restructuring plans dragging on the dow average <PUNC>
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> led lower by h-p. shares in the company fell <NUM> percent as investors expressed skepticism about a decision to combine its printing and personal computing lines into a single unit <PUNC>
+in addition to apple inc. <COMMA> its shares up nearly <NUM> percent so far this year <COMMA> microsoft corp. msft started to do well over the last few months and international business machines corp. ibm continues to do well <COMMA> said nolte <PUNC>
+that is really what has been leading the overall market higher <COMMA> said nolte of the three technology companies <COMMA> which in addition to exxon mobil corp. xom <COMMA> represent the four biggest weights on the s&p <NUM> <PUNC>
+<PAR>

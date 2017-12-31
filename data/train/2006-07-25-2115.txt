@@ -1,0 +1,15 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+over the last two sessions <COMMA> the benchmark index has logged a gain of more than <NUM> points <PUNC>
+dow component at&t inc. s stock t surged to an intraday three-and-a-half year high of dollar <NUM> after the company said net income climbed <NUM> percent in the second quarter <PUNC>
+the profit was driven by wireless gains <COMMA> cost reductions and the acquisition of old ma bell <COMMA> at&t corp <PUNC>
+the stock ended up <NUM> percent to dollar <NUM> <PUNC>
+altria group inc. mo <COMMA> the parent of philip morris <COMMA> rose <NUM> cents to dollar <NUM> <PUNC>
+the company reported a higher second-quarter profit <COMMA> helped by an increase in domestic tobacco market share and strength in its food business <PUNC>
+it also raised its annual profit projection <PUNC>
+dupont dd ended up <NUM> cents at dollar <NUM> after the chemicals group unveiled lower quarterly profit and sales <COMMA> hit by rising raw material costs and a weaker market for its agricultural products <PUNC>
+it did <COMMA> however <COMMA> affirm its full-year outlook and said it expects a significantly better second half than it had in <NUM> <PUNC>
+mcdonald s mcd fell <NUM> cents to dollar <NUM> <PUNC>
+the fast-food empire had a nearly <NUM> percent increase in quarterly profit <COMMA> due to across-the-board growth in the u.s. and the best european results in more than a decade <PUNC>
+conglomerate 3m co. mmm fell as much as <NUM> percent to a three-year low of dollar <NUM> after the company <COMMA> also a dow component <COMMA> reported higher profit and affirmed its yearly outlook but expressed concern about margins in some of its divisions <PUNC>
+the stock ended the session <COMMA> down <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

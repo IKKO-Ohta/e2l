@@ -1,0 +1,5 @@
+the dow jones industrial average dji rallied <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by bank of america corp. bac <COMMA> which rose <NUM> percent after morgan stanley upgraded its shares to overweight from equal weight <PUNC>
+travelers companies inc. trv rose <NUM> percent after the dow member and insurer reported a jump in first-quarter profit <PUNC>
+dupont co. dd said first-quarter earnings more than doubled as drought conditions prompted farmers to buy more drought-resistant seeds and other products to protect crops from the chemicals maker <PUNC>
+united technologies corp. utx shares gained after the diversified manufacturer on tuesday reported a better-than-estimated profit <COMMA> with its chief executive in part crediting the company s <NUM> purchase of goodrich <COMMA> which makes parts for airplanes <PUNC>
+<PAR>

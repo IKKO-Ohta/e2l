@@ -1,0 +1,12 @@
+the dow jones industrial average dji fell back under the <NUM> level <COMMA> falling <NUM> points in recent trading <PUNC>
+minutes of the central bank s august meeting wiped out a slender rally <COMMA> fueled by slightly better-than-expected housing <COMMA> manufacturing and consumer confidence data <PUNC>
+the dow fell <NUM> percent to <NUM> <COMMA> while the standard & poor s 500-share index spx shed <NUM> percent to <NUM> <PUNC>
+the nasdaq composite rixf lost <NUM> percent to <NUM> <PUNC>
+key indexes are on track for a month of steep losses as investors lowered their expectations for economic growth in response to a flood of weak data in august <PUNC>
+the dow has shed more than <NUM> percent this month <COMMA> its first down august in five years <PUNC>
+this month is on track to be the blue-chip measure s worst august since <NUM> <PUNC>
+technology stocks took a hit after technology researcher gartner cut its <NUM> projection for world-wide personal-computer shipments <COMMA> saying the second half won t be a strong as it previously expected <PUNC>
+intel fell <NUM> percent <COMMA> while cisco systems csco shed <NUM> percent <PUNC>
+flash-memory device maker sandisk sndk fell <NUM> percent <PUNC>
+checking some of the dow s losses <COMMA> j.p. morgan chase jpm <COMMA> which had been one of the dow s worst performers in august <COMMA> rose <NUM> percent on tuesday <PUNC>
+<PAR>

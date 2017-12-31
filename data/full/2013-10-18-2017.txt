@@ -1,0 +1,3 @@
+morgan stanley ms jumped <NUM> percent after reporting earnings nearly doubled in the third quarter <COMMA> and shares of general electric co. ge rose <NUM> percent <COMMA> as the manufacturer reported a backlog in orders for jet engines <COMMA> turbines and locomotives <PUNC>
+up <NUM> percent from last friday s finish <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> on friday <COMMA> with general electric pacing gains that included <NUM> of its <NUM> components <PUNC>
+<PAR>

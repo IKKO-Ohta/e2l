@@ -1,0 +1,10 @@
+u.s. stocks rallied to a sharply higher close tuesday <COMMA> with the dow jones industrial average gaining <NUM> points after a report alcoa inc. may be a takeover target and news that 3m co. plans a large stock buyback <PUNC>
+with the flurry of upbeat news for blue chips <COMMA> the dow jones industrial average dji jumped higher right out of the gate and closed up <NUM> points at <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> closed in positive territory <COMMA> with ibm ibm and johnson & johnson jnj the only stocks bucking the uptrend <PUNC>
+leading the way <COMMA> alcoa aa surged <NUM> percent after a report in the times of london that bhp billiton ltd. bhp and rio tinto plc rtp are each considering launching an offer for the giant aluminum producer <PUNC>
+at the same time <COMMA> 3m mmm announced plans to buy back up to dollar <NUM> billion of its own shares over the next two years <COMMA> its biggest buyback plan ever <PUNC>
+the move led 3m shares <NUM> percent higher <PUNC>
+also boosting the dow <COMMA> shares of gm gm rose <NUM> percent after merrill lynch upgraded the stock by two notches to buy from sell <COMMA> on the belief that the automaker will use its liquidity and assets <COMMA> specifically in its pension fund <COMMA> to affect positive change <PUNC>
+away from the dow <COMMA> the s&p <NUM> spx rose <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf gained <NUM> points to <NUM> <PUNC>
+johnson & johnson jnj lost <NUM> percent after the company late monday said it told federal prosecutors and regulators that units outside the u.s. are believed to have made improper payments in two small-market countries <PUNC>
+<PAR>

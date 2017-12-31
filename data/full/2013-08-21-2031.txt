@@ -1,0 +1,3 @@
+extending losses into a sixth session <COMMA> the dow industrials dji fell as much as <NUM> points in the immediate of the fed release <COMMA> only to repeal those losses and then resume them <PUNC>
+finishing below <NUM> for the first time since july <NUM> <COMMA> the dow ended at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> vs. a pre-fed level of around <NUM> <PUNC>
+general motors corp. gm shares were up <NUM> cents at dollar <NUM> after the car maker <COMMA> in a widely anticipated move <COMMA> said it is laying off several hundred u.s. salaried workers as part of an unfolding plan to bring its north american operations back to profitability <PUNC>
+citigroup inc. c and the national bank of greece are battling to win control of a turkish bank <COMMA> the wall street journal reported <PUNC>
+should citigroup secure control of finansbank in a deal expected to be valued at more than dollar <NUM> billion <COMMA> it would mark the company s biggest deal since chuck prince became chief executive <PUNC>
+citigroup shares were off <NUM> cents at dollar <NUM> <PUNC>
+<PAR>

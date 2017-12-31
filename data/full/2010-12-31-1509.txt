@@ -1,0 +1,8 @@
+the dow jones industrial average dji slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+j.p. morgan chase & co. jpm led the measure s decline with a <NUM> percent drop <PUNC>
+the dow came into friday s session with an <NUM> percent gain for the year <COMMA> its second-straight annual gain <COMMA> with almost half of the <NUM> gain having come this month <PUNC>
+the measure s <NUM> percent jump this month represents its best december since <NUM> <PUNC>
+among stocks in focus <COMMA> imax corp. imax jumped <NUM> percent after u.k. newspaper the daily mail said sony corp. sne is considering a dollar <NUM> -a-share bid for big-screen movie company <COMMA> with walt disney co. dis interested as well <PUNC>
+imax chief executive richard gelfond and chairman bradley wechsler are thought to be pushing for a sale to sony <COMMA> according to the report <PUNC>
+u.s. shares of sony shed <NUM> percent while disney declined <NUM> percent <PUNC>
+<PAR>

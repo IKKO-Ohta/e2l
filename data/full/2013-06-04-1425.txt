@@ -1,0 +1,4 @@
+u.s. stocks rose as the dow industrials appeared on track for their 21st consecutive tuesday gain <COMMA> as wall street looked for further clues as to whether the federal reserve will begin trimming its monthly bond purchases <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with coca-cola co. ko rising the most of its <NUM> components <PUNC>
+if the dow industrials finish higher on tuesday <COMMA> it will mark the 21st straight tuesday win <COMMA> the longest trend of its kind since at least <NUM> <PUNC>
+read more about the tuesday phenomenon <PUNC>

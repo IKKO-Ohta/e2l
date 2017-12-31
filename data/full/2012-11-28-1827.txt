@@ -1,0 +1,3 @@
+after an 112-point slide <COMMA> the dow jones industrial average dji rose as much as <NUM> points <COMMA> and was lately ahead by <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+top executives from u.s. companies including caterpillar inc. cat <COMMA> goldman sachs group inc. gs and deloitte llp were meeting wednesday with president obama to talk about the nation s fiscal troubles <PUNC>
+<PAR>

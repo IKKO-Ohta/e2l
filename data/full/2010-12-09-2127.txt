@@ -1,0 +1,4 @@
+the dow jones industrial average dji end off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+weighing on the blue chips <COMMA> dupont co. dd shares fell <NUM> percent after the company projected <NUM> earnings that could miss wall street s expectations <PUNC>
+conversely <COMMA> bank of america corp. bac led blue-chip gains <COMMA> up <NUM> percent <PUNC>
+<PAR>

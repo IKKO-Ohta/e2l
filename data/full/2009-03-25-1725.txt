@@ -1,0 +1,6 @@
+industrial and resource firms <COMMA> as well as homebuilders <COMMA> made strong advances on the reports <PUNC>
+aluminum producer alcoa s aa shares jumped nearly <NUM> percent <COMMA> u.s. steel corp. x gained nearly <NUM> percent and general electric co. ge rose nearly <NUM> percent <PUNC>
+homebuilder lennar corp. len rallied more than <NUM> percent <PUNC>
+in early afternoon trading <COMMA> the dow jones industrial average rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> index gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

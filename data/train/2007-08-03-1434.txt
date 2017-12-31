@@ -1,0 +1,6 @@
+after shedding more than <NUM> points <COMMA> the dow jones industrial average dji trimmed its losses to <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+dow loss leaders include alcoa inc. aa <COMMA> which fell <NUM> percent <PUNC>
+merrill lynch & co. inc. mer fell <NUM> percent <COMMA> while dow component american express co. axp was off <NUM> percent <PUNC>
+shares of dow component procter & gamble co. pg fell <NUM> percent <PUNC>
+the company reported a <NUM> percent gain in quarterly profit due to some new products and also said it will buy back up to dollar <NUM> billion of its stock <PUNC>
+<PAR>

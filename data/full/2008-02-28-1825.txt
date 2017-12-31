@@ -1,0 +1,4 @@
+the dow jones industrial average dji dropped <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <COMMA> the declines led by american international group inc. aig <COMMA> off more than <NUM> percent <PUNC>
+the dow s advancing stocks were led by verizon communications inc. vz and at&t inc. t <COMMA> each up more than <NUM> percent <PUNC>
+blue-chip energy stocks also gained <COMMA> with chevron corp. cvx and exxon mobil corp. xom both edging higher <COMMA> as the sector overall traded mixed <PUNC>
+<PAR>

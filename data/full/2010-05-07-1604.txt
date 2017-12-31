@@ -1,0 +1,8 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> while the standard & poor s <NUM> spx fell <NUM> percent to <NUM> <PUNC>
+earlier the dow was down as much as <NUM> points <PUNC>
+the moves follow a volatile thursday when the dow fell nearly <NUM> points mid-afternoon <COMMA> before closing off <NUM> percent <PUNC>
+in the dow <COMMA> hewlett-packard hpq led decliners <COMMA> off <NUM> percent <COMMA> followed by american express axp <COMMA> down <NUM> percent <COMMA> and general electric ge <COMMA> off <NUM> percent <PUNC>
+kraft kft led gainers <COMMA> up <NUM> percent <COMMA> with verizon vz up <NUM> percent and alcoa aa <COMMA> up <NUM> percent <PUNC>
+u.s. stocks ended with steep losses thursday after an afternoon meltdown lopped nearly <NUM> points off the dow its biggest intraday drop on a point basis ever before a partial recovery <PUNC>
+the dow finished the day down <NUM> points <COMMA> or <NUM> percent <PUNC>
+<PAR>

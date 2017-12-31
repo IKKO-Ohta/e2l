@@ -1,0 +1,2 @@
+in position for a monthly gain of <NUM> percent <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> which was about <NUM> points from its all-time closing high of <NUM> <COMMA> set on oct. <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

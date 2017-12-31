@@ -1,0 +1,9 @@
+u.s. stocks closed lower friday <COMMA> with both the dow jones industrial average and the s&p <NUM> breaking three-week winning streaks <COMMA> after a session spent trying to diagnose the uncertain health of the economy <PUNC>
+the dow jones industrial average dji closed down <NUM> points at <NUM> and the s&p <NUM> spx finished down <NUM> points <NUM> <PUNC>
+during the week <COMMA> the dow lost <NUM> percent <COMMA> the s&p <NUM> fell <NUM> percent and the nasdaq composite dropped <NUM> percent <PUNC>
+cyclical industrial stocks also were under pressure <COMMA> hit by the worries of economic slowing <COMMA> the dow jones transport index <NUM> ended <NUM> percent lower at <NUM> <COMMA> as caterpillar inc. cat fell <NUM> percent to dollar <NUM> <PUNC>
+general motors gm <COMMA> a dow component <COMMA> ended <NUM> percent lower at dollar <NUM> <PUNC>
+rick wagoner <COMMA> the struggling automaker s chief executive <COMMA> late thursday said the company will slow the production pace of its new lineup of full-size sport utility vehicles during the second half in an effort to cope with rising inventories <PUNC>
+citigroup inc. c <COMMA> also in the dow <COMMA> fell nearly <NUM> percent to dollar <NUM> <PUNC>
+the banking giant s retail-brokerage unit was fined dollar <NUM> million for its supposed role in a plot to improperly waive mutual-fund sales charges <PUNC>
+<PAR>

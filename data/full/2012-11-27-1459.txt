@@ -1,0 +1,2 @@
+the dow jones industrial average dji was off half a point at <NUM> <PUNC>
+<PAR>

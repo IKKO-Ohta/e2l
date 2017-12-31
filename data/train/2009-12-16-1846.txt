@@ -1,0 +1,8 @@
+the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite index rixf rose <NUM> percent <PUNC>
+the standard & poor s <NUM> index spx added <NUM> percent <COMMA> led by a <NUM> percent gain in its energy category <PUNC>
+utilities <COMMA> which tend to suffer when fuel costs go up <COMMA> were the only sector in the index trading lower <COMMA> off <NUM> percent <PUNC>
+the dow s gains were held in check by boeing co. ba and intel corp. intc <PUNC>
+boeing fell <NUM> percent a day after its dreamliner made its first flight <COMMA> setting up the challenge of churning out large numbers of the cutting-edge aircraft <PUNC>
+intel dropped <NUM> percent as the u.s. federal trade commission sued the chip maker <COMMA> alleging the company engaged in a decade-long campaign to stifle competition <PUNC>
+<PAR>

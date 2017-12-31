@@ -1,0 +1,4 @@
+there were scant premarket quotes for citigroup inc. c <COMMA> but the dow component could be active later <PUNC>
+the french magazine le nouvel observateur reported that a large u.s. bank has contacted the french government about the possibility of making an offer for a bank in that country <PUNC>
+the magazine believes it to be citigroup <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> having recovered from a 35-point drop earlier in the session <PUNC>
+however <COMMA> the measure is still down <NUM> percent for the week <PUNC>
+the slump came on weak economic data pointing to a slowdown in the economy recovery <COMMA> which reignited investors fears of a double-dip recession <PUNC>
+international business machines ibm agreed to acquire unica for about dollar <NUM> million <COMMA> a move aimed to help the technology giant offer customers tools to create more-targeted marketing campaigns <PUNC>
+unica shares more than doubled <COMMA> while ibm edged down <NUM> percent <PUNC>
+<PAR>

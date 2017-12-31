@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> well off an early high of <NUM> <PUNC>
+both wal-mart and home depot are part of the blue-chip barometer <PUNC>
+home depot hd saw its shares drop about <NUM> percent <COMMA> changing hands lately at about dollar <NUM> <PUNC>
+the home-improvement retailer reported a <NUM> percent decrease in third-quarter profit on <NUM> percent revenue growth <COMMA> with both profit and sales missing analyst estimates <PUNC>
+shares of wal-mart stores inc. wmt rose as the world s largest retailer turned in an <NUM> percent jump in quarterly profit <COMMA> although the company did trim its forecast for the full year <PUNC>
+<PAR>

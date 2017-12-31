@@ -1,0 +1,10 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+3m s outlook did not help <COMMA> said jay suskind <COMMA> director of trading at ryan <COMMA> beck & co. 3m shares mmm slumped nearly <NUM> percent to a more than three-month low after the industrial conglomerate said it expects earnings excluding items for the second quarter to miss its previous outlook due to lower than expected sales volumes and higher than anticipated new capacity start-up costs in its optical systems division <PUNC>
+shares in advanced micro devices inc. amd tumbled <NUM> percent to dollar <NUM> after the semiconductor maker warned second-quarter revenue would not meet its earlier forecast due to worse-than-expected demand for chips used in personal computers <PUNC>
+the company s downbeat outlook weighed on rival intel corp. intc <COMMA> which saw its stock fall <NUM> percent <PUNC>
+general motors corp. gm was in focus as a board meeting gets underway to look at the possibility of the automaker joining an alliance with renault saand nissan motor co.. analysts have given a mixed reception to the idea <COMMA> floated by gm s influential minority shareholder kirk kerkorian <PUNC>
+deutsche bank <COMMA> however <COMMA> upgraded gm to hold from sell <COMMA> saying an alliance could have significant strategic implications <PUNC>
+the stock was up <NUM> percent at dollar <NUM> <COMMA> and up more than <NUM> percent since the start of the year <PUNC>
+verizon communications vz <COMMA> meanwhile <COMMA> filed with the securities and exchange commission to spin off its directories unit arm <PUNC>
+the stock <COMMA> a dow component <COMMA> was up 95cents at dollar <NUM> <PUNC>
+<PAR>

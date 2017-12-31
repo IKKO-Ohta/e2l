@@ -1,0 +1,8 @@
+the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent lower <COMMA> at <NUM> <PUNC>
+of the <NUM> dow components <COMMA> <NUM> traded lower <PUNC>
+for the week <COMMA> the dow jones industrials lost <NUM> percent <COMMA> the nasdaq caved in <NUM> percent and the s&p <NUM> dropped <NUM> percent <PUNC>
+resuming their recent run <COMMA> shares of general motors corp. gm rose <NUM> percent to close at dollar <NUM> <PUNC>
+yahoo inc. yhoo gave up early gains to close <NUM> cents lower at dollar <NUM> <PUNC>
+chairman and chief executive terry semel said at a syracuse university question-and-answer session that the company turned down an offer from microsoft corp. msft to buy a stake <COMMA> according to the financial times <PUNC>
+microsoft shares were off <NUM> percent <PUNC>
+<PAR>

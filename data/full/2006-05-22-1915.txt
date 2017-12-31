@@ -1,0 +1,9 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> but off a low of <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to losses <PUNC>
+last week <COMMA> stocks lost ground and the dow industrials posted their biggest one-day point drop in more than three years <PUNC>
+wal-mart stores inc. wmt said it s selling its south korean unit to local retailer shinsegae for dollar <NUM> million <PUNC>
+shinsegae <COMMA> korea s largest discount retailer <COMMA> operates <NUM> e-mart discount stores <PUNC>
+wal-mart s <NUM> south korean stores will continue to operate under the e-mart name <PUNC>
+wal-mart s stock was up <NUM> cents at dollar <NUM> <PUNC>
+elsewhere <COMMA> alcoa inc. aa was the biggest percentage decliner on the dow <COMMA> sliding <NUM> percent to dollar <NUM> as the mining and aluminum-products concern fell victim to the commodities market fall from grace <PUNC>
+<PAR>

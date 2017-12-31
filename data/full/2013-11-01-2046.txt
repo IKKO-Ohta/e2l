@@ -1,0 +1,6 @@
+the dow jones industrial average dji climbed <NUM> points <COMMA> or nearly <NUM> percent <COMMA> to finish at <NUM> <PUNC>
+chevron corp. cvx slid <NUM> percent and fared worst among blue chips after its earnings report <PUNC>
+the dow advanced <NUM> percent for the week <PUNC>
+stocks had climbed to session highs after the ism report <COMMA> with the dow up more than <NUM> points <COMMA> then pared much of those gains <PUNC>
+but stocks recovered and closed not far off session highs <PUNC>
+<PAR>

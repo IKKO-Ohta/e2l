@@ -1,0 +1,5 @@
+u.s. stocks rose friday <COMMA> catapulting both the dow jones industrial average and the s&p <NUM> to three-and-a-half month highs <COMMA> after news that wage inflation was tamer than expected last month <COMMA> while other data showed that u.s. consumers stayed in an optimistic frame of mind and that factory activity remained healthy <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> its highest standing since may <NUM> <PUNC>
+dow component intel corp. intc is expected to announce between <NUM> to <NUM> job cuts as early as next week <COMMA> according to the wall street journal <PUNC>
+the stock was <NUM> cents higher at dollar <NUM> <COMMA> continuing a recent rally for the chipmaker <PUNC>
+<PAR>

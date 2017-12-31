@@ -1,0 +1,4 @@
+down nine of the last <NUM> trading days <COMMA> the dow jones industrial average dji fell <NUM> points to stand at <NUM> <COMMA> with <NUM> of its <NUM> components tallying early losses <PUNC>
+shares of j.p. morgan chase jpm advanced <NUM> percent after it reported an <NUM> percent profit drop analysts had forecast a loss while coca-cola ko shares gained <NUM> percent after it increased its profit by <NUM> percent <PUNC>
+intel intc rose <NUM> percent after it said its third-quarter profit rose <NUM> percent and gave a cautious outlook on the fourth quarter <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> putting it on track for a record close <PUNC>
+the dow earlier fell to a morning low <NUM> <PUNC>
+citigroup inc. c dropped <NUM> percent <COMMA> weighing on blue-chips <COMMA> after a.g. edwards downgraded the stock to hold from buy <COMMA> citing its recent price appreciation <PUNC>
+the stock gained <NUM> percent and touched an all-time high on monday <COMMA> following a merrill lynch upgrade <PUNC>
+but the dow was helped by exxon mobil corp. xom <COMMA> which rose <NUM> percent as crude oil advanced <PUNC>
+pfizer inc. pfe was up <NUM> percent <PUNC>
+the company late monday said its board raised the drugmaker s dividend and said elected chief executive jeffrey kindler to serve as chairman <PUNC>
+<PAR>

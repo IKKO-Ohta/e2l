@@ -1,0 +1,7 @@
+after seesawing during the session <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+gains in shares of pfizer inc. pfe <COMMA> up <NUM> percent <COMMA> and microsoft corp. msft <COMMA> up <NUM> percent <COMMA> led the way <PUNC>
+meanwhile <COMMA> consumer shares weighed <COMMA> with home depot inc. hd off <NUM> percent <COMMA> while procter & gamble co. pg fell <NUM> percent and coca-cola co. ko fell <NUM> percent <PUNC>
+for the week <COMMA> the dow gained <NUM> percent <COMMA> the s&p rose <NUM> percent and the nasdaq advanced <NUM> percent <PUNC>
+crude-oil futures slipped below dollar <NUM> a barrel <COMMA> helping push down energy stocks <PUNC>
+chevron corp. cvx fell <NUM> percent and exxon mobil corp. xom fell <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,12 @@
+the dow jones industrial average dji ended up <NUM> points <COMMA> at <NUM> <COMMA> as <NUM> of its <NUM> stocks advanced <COMMA> led by the likes of general electric co. ge <COMMA> procter & gamble co. pg <COMMA> at&t inc. t and verizon corp. vz <PUNC>
+leading the gains among blue chips <COMMA> shares of merck mrk jumped <NUM> percent <PUNC>
+the pharmaceutical company lifted its annual earnings forecast and its quarterly results exceeded wall street s expectations <PUNC>
+away from the dow <COMMA> rival pharmaceutical giant schering-plough corp. sgp was off nearly <NUM> percent after initial gains after its revenue and earnings per share both beat expectations <PUNC>
+after the close <COMMA> dow component american express co. axp reported a second quarter profit of dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> from dollar <NUM> million <COMMA> or <NUM> cents a share <COMMA> a year earlier <PUNC>
+investment bank goldman sachs group gs was off <NUM> percent <COMMA> reversing course from its earlier climb <PUNC>
+jp morgan chase co. jpm also declined <NUM> percent <COMMA> also after rising early on <PUNC>
+citigroup inc. c was up <NUM> percent <COMMA> while lehman brothers holdings inc. leh rose almost <NUM> percent <PUNC>
+hewlett-packard co. hpq is buying opsware inc. opsw <COMMA> which makes automation software <COMMA> for about dollar <NUM> billion <PUNC>
+the computer company said the deal will enhance its portfolio of business technology optimization software <PUNC>
+in other news <COMMA> wal-mart stores inc. wmt said it will slash prices on <NUM> items this week in preparation for the crucial back-to-school shopping season <COMMA> and plans to roll out an advertising campaign to address how to save money amid still-high gas prices <PUNC>
+<PAR>

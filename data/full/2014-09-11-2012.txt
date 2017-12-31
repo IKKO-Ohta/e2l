@@ -1,0 +1,5 @@
+the s&p <NUM> spx ended <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <COMMA> as utilities and telecoms led the gains <PUNC>
+the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf tacked on <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the russell <NUM> rut added <NUM> points <COMMA> or <NUM> percent <COMMA> to preliminary <NUM> <PUNC>
+<PAR>

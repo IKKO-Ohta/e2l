@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+wal-mart stores inc. wmt tacked on <NUM> percent to dollar <NUM> after the world s largest retailer said over the weekend that it expects july same-store sales to have grown at a <NUM> percent rate <COMMA> which is at the high end of its previous estimate of <NUM> percent to <NUM> percent <PUNC>
+in other broker moves <COMMA> j.p. morgan chase upgraded oil giant exxon mobil corp. xom to overweight from neutral <COMMA> citing an improved outlook for production growth and the stock s defensive characteristics in the face of downside risks surrounding crude oil prices <PUNC>
+the dow component edged up <NUM> percent to dollar <NUM> on inet <PUNC>
+<PAR>

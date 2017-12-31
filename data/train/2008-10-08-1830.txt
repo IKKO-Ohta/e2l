@@ -1,0 +1,11 @@
+a day ahead of the one-year anniversary of the dow jones industrial average s record close of <NUM> <COMMA> the market is facing record losses over the past year <PUNC>
+the dow has dropped nearly <NUM> percent from the peak <COMMA> while the market value of the dow jones wilshire <NUM> has seen more than dollar <NUM> trillion of its value wiped out <PUNC>
+after rising and falling 200-plus points <COMMA> the dow dji was recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components gaining ground <COMMA> with the advance fronted by jp morgan chase jpm <COMMA> up <NUM> percent <PUNC>
+general electric co. ge and hewlett-packard co. hpq were among the blue-chips gaining <COMMA> with ge up <NUM> percent and hp up <NUM> percent <PUNC>
+the biggest laggard among the blue chips was aluminum giant alcoa inc. aa <COMMA> which fell <NUM> percent after kicking off the third-quarter earnings season with a gloomy assessment of its past three months <PUNC>
+<PAR>
+bank of america corp. bac shares fell <NUM> percent after the company priced a secondary offering of common stock below its closing price <COMMA> with the move diluting existing shares by about <NUM> percent <PUNC>
+<PAR>
+off the dow <COMMA> shares of metlife inc. met also took a hit <COMMA> down <NUM> percent <COMMA> after the insurer s late tuesday announcement that it would sell <NUM> million shares to bolster its capital <PUNC>
+metlife also withdrew its prior forecast <COMMA> saying current conditions make projections difficult <PUNC>
+<PAR>

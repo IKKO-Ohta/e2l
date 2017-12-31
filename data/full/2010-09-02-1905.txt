@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
+the nasdaq composite rixf advanced <NUM> percent to <NUM> and the standard & poor s 500-stock index spx gained <NUM> percent to <NUM> <PUNC>
+meanwhile <COMMA> computer maker dell dell withdrew from the bidding war for 3par surrendering the storage maker to rival hewlett-packard hpq after the tech giant lifted its offer to dollar <NUM> billion <PUNC>
+3par par <COMMA> which makes storage products used in cloud computing <COMMA> accepted h-p s offer <COMMA> valuing the company at dollar <NUM> a share <PUNC>
+h-p edged up <NUM> percent <COMMA> while dell rose <NUM> percent and 3par climbed <NUM> percent <PUNC>
+<PAR>

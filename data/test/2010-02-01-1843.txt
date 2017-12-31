@@ -1,0 +1,6 @@
+the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> led by a <NUM> percent gain in exxon <COMMA> which reported reported fourth-quarter earnings above analysts estimates <PUNC>
+other commodity producers rallied <PUNC>
+alcoa aa was up <NUM> percent <PUNC>
+us steel x gained <NUM> percent <PUNC>
+freeport-mcmoran copper & gold fcx rose <NUM> percent <PUNC>
+<PAR>

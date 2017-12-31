@@ -1,0 +1,6 @@
+the coming week has <NUM> dow components and <NUM> s&p <NUM> companies scheduled to announce results <COMMA> including high-flying tech company apple inc. aapl <COMMA> international business machines corp. ibm and financial giant citigroup inc. c <PUNC>
+read more about apple in marketwatch s earnings preview <PUNC>
+earnings aside <COMMA> bank stocks declined sharply in recent days on concerns mishandled mortgages would hike costs for lenders <COMMA> with shares of bank of america corp. bac and citigroup inc. c among those hammered by investors <PUNC>
+but disappointing quarterly revenue by conglomerate general electric co. ge weighed on the dow jones industrial average dji <COMMA> which lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving it a <NUM> percent weekly rise <PUNC>
+shares of general electric fell <NUM> percent <PUNC>
+<PAR>

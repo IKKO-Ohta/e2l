@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> its highest standing since may <NUM> <PUNC>
+autos were in focus after general motors corp. gm slashed its fourth-quarter production plans by <NUM> percent <PUNC>
+dow component intel corp. intc is expected to announce between <NUM> to <NUM> job cuts as early as next week <COMMA> according to the wall street journal <PUNC>
+the stock was <NUM> percent higher at dollar <NUM> <COMMA> continuing a recent rally for the chipmaker <PUNC>
+<PAR>

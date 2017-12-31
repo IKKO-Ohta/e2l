@@ -1,0 +1,7 @@
+the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
+intel intc also succombed to selling pressure <COMMA> down <NUM> percent ahead of the chip giant s third-quarter results due after the close <PUNC>
+investors are also looking ahead to third-quarter earnings reports <COMMA> with results from bellwether companies including j.p. morgan jpm <COMMA> google goog and general electric ge set to come later this week following intel s report due tuesday afternoon <PUNC>
+j.p. morgan rose <NUM> percent while google added <NUM> percent and ge tacked on <NUM> percent <PUNC>
+among other stocks in focus <COMMA> pfizer pfe fell <NUM> percent after the drug giant said it will buy king pharmaceuticals kg for dollar <NUM> billion <COMMA> the latest move by a big drug company to swallow up a rival as the industry faces patent-expiration woes <PUNC>
+king pharmaceuticals jumped <NUM> percent <PUNC>
+<PAR>

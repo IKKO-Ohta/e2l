@@ -1,0 +1,4 @@
+recently <COMMA> the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the index was paced higher by alcoa inc. aa <COMMA> united technologies corp. utx <COMMA> home depot inc. hd and mcdonald s inc. mcd <COMMA> which each rose more than <NUM> percent <PUNC>
+the standard & poor s <NUM> index spx increased <NUM> points to <NUM> <COMMA> while the nasdaq composite index rixf tacked on <NUM> points to <NUM> <PUNC>
+<PAR>

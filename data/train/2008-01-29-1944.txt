@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <COMMA> with telecommunications stocks among the blue chips posting strong gains <PUNC>
+at&t inc. t was up <NUM> percent <COMMA> and verizon communications vz rose <NUM> percent <PUNC>
+american express co. axp was up <NUM> percent after it reported a <NUM> percent decline in fourth-quarter net income after monday s close <COMMA> with the credit-card company setting aside more money to cover loan losses <PUNC>
+<PAR>

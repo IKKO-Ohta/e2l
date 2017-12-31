@@ -1,0 +1,11 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+on wednesday <COMMA> the dow first fell by over <NUM> points and briefly dipped below <NUM> before rebounding in the afternoon to close up <NUM> points <PUNC>
+on thursday <COMMA> investors went to buy the likes of altria group inc. mo <COMMA> citigroup inc. c <COMMA> dupont dd and jp morgan chase & co. jpm <PUNC>
+also among blue-chips alcoa inc. aa was up <NUM> percent after reports that an aluminum smelter it jointly operates with the government of ghana will shut down indefinitely due to power shortages <PUNC>
+aluminum prices received a boost on the prospect of reduced supply <PUNC>
+wal-mart stores inc. wmt fell <NUM> percent <PUNC>
+its planned foray into banking emerged as the wall street journal and the new york times both published details about the company s leases <COMMA> which allow the retailer to offer mortgages <COMMA> debit cards <COMMA> investment and insurance products <PUNC>
+the whole financial sector had been punished since last week as the carnage in the subprime mortgage market revealed a growing list of victims <COMMA> including new century financial <COMMA> accredited home lenders lend <COMMA> h&r block hrb and general motors corp. s gm financing unit gmac <PUNC>
+the dow industrials dropped as much as <NUM> points in early trading on wednesday <COMMA> but buyers came back in and sent the blue-chip index up by the close <PUNC>
+the s&p <NUM> climbed <NUM> points and the nasdaq composite climbed <NUM> points <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+after surging about <NUM> points <COMMA> the dow jones industrial average dji ended at <NUM> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+all but one of its <NUM> components posted gains <COMMA> led by citigroup c <COMMA> up <NUM> percent <COMMA> after losing more than <NUM> percent of its market capitalization last week <PUNC>
+a late-hour rally pushed u.s. stocks to huge gains friday <COMMA> with the dow industrials jumping <NUM> points <COMMA> the nasdaq rising <NUM> points <COMMA> and the s&p <NUM> surging <NUM> points <PUNC>
+the surge came on reports that obama would nominate geithner for treasury secretary <PUNC>
+after the close <COMMA> hewlett-packard co. hpq and analog devices inc. adi are scheduled to report earnings <PUNC>
+<PAR>

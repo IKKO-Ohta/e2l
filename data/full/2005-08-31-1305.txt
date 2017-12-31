@@ -1,0 +1,4 @@
+the dow jones industrial average dji ended down <NUM> points at <NUM> <COMMA> but it recovered from its low point for the session at <NUM> <PUNC>
+in a bid to expand its internet telephone offering <COMMA> microsoft corp. msft said late tuesday it has acquired privately-held teleo <COMMA> inc. a provider of voice over internet protocol software and services <PUNC>
+financial terms of the deal were not disclosed <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+disappointing earnings from amazon.com inc. and mattel inc. set the downbeat tone early in the session <PUNC>
+the s&p <NUM> and the dow jones industrial average finished january with the steepest monthly declines since may <NUM> <PUNC>
+the dow jones industrial average dji closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+the blue-chip index <COMMA> which suffered six triple-digit losses this month <COMMA> ended the week <NUM> percent lower and recorded a <NUM> percent decline for january <PUNC>
+wal-mart stores inc wmt shares closed mostly flat even as the world s largest retailer cut its fourth-quarter earnings forecast <PUNC>
+wal-mart warned the sales impact from the reduction in the u.s. government food stamps was greater than expected <PUNC>
+chevron cvx shares fell <NUM> percent as the oil company reported lower profit and revenues than expected <PUNC>
+<PAR>

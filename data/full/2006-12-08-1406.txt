@@ -1,0 +1,4 @@
+the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
+there were few premarket quotes for 3m co. stock mmm <COMMA> but it could be active after the opening <PUNC>
+prudential downgraded the manufacturing conglomerate to a neutral from an overweight rating <COMMA> noting concerns about valuation and the company s optical film business <PUNC>
+<PAR>

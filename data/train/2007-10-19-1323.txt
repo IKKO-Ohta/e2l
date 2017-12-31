@@ -1,0 +1,6 @@
+futures for the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+ahead of friday s open <COMMA> honeywell international inc. hon reported a <NUM> percent rise in third-quarter earnings and raised its outlook for the full year <PUNC>
+dow member mcdonald s corp. mcd posted a <NUM> percent hike in quarterly profits <COMMA> with the fast-food chain s bottom line supported by strong sales in asia and the weak dollar <PUNC>
+another blue chip <COMMA> caterpillar inc. cat cut its <NUM> profit target <COMMA> citing severe weakness in key u.s. markets <PUNC>
+the equipment maker reported a <NUM> percent rise in third-quarter earnings <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+u.s. stocks fell friday after a mixed jobs report prompted some investors to lock in profits in a week where a slide in oil prices and increasing optimism over the economy propelled the dow jones industrial average to a new all-time high <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> weighed by the sharp downturn in shares of general motors corp. gm <PUNC>
+caterpillar inc. cat <COMMA> intel intc and jp morgan chase jpm were other notable decliners <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to losses <PUNC>
+among blue-chip gainers <COMMA> dupont dd rose <NUM> percent on an upbeat broker note <PUNC>
+at these levels <COMMA> the dow industrials would post a weekly gain of around <NUM> percent while the nasdaq composite is up about <NUM> percent <PUNC>
+the s&p <NUM> <COMMA> meanwhile <COMMA> is set for a rise of about <NUM> percent on the week <PUNC>
+shares in general motors corp. gm fell as much as <NUM> percent after jerome york <COMMA> a close adviser and ally of activist billionaire shareholder kirk kerkorian resigned from the auto maker s board of directors <PUNC>
+<PAR>

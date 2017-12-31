@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+shares in boston scientific corp. bsx gave up <NUM> percent to trade at dollar <NUM> after guidant corp. gdt agreed to be acquired by the company <COMMA> walking away from a lower bid from johnson & johnson <PUNC>
+jnj <PUNC>
+sap s results gave a boost to rival software makers <PUNC>
+oracle corp. orcl shares rose <NUM> percent to dollar <NUM> while shares of microsoft corp. msft tacked on <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

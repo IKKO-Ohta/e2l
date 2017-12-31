@@ -1,0 +1,7 @@
+u.s. stocks rallied monday <COMMA> lifting the dow jones industrial average by <NUM> points <COMMA> as a boost from asian and european markets overnight and a flurry of merger news including talk of a big merger between two european banks helped investors set aside recent concerns about the subprime mortgage market <PUNC>
+but investors cheered rallying overseas markets and deal-making news monday <COMMA> helping lift the dow jones industrial average dji by <NUM> points to <NUM> <PUNC>
+there were <NUM> of the dow s <NUM> components in positive territory <COMMA> including strong gains for the likes of caterpillar inc. cat <COMMA> mcdonald s corp. mcd and united technologies utx were among the biggest gainers <PUNC>
+financial shares on the dow american express co. axp <COMMA> citigroup inc. c and jp morgan chase & co. jpm also provided support <PUNC>
+also among blue chips <COMMA> walt-disney co. dis rose <NUM> percent <PUNC>
+the company said late friday a probe into its unit pixar revealed that options had been backdated but that no one currently associated with the firm had engaged in any intentional or deliberate misconduct <PUNC>
+<PAR>

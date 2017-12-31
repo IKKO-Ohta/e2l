@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <PUNC>
+technology components weighed on the measure <COMMA> with cisco systems down <NUM> percent <COMMA> intel off <NUM> percent <COMMA> and hewlett-packard down <NUM> percent <PUNC>
+merck was also weak <COMMA> sliding <NUM> percent <PUNC>
+<PAR>

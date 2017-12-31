@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
+among blue chips <COMMA> microsoft msft fell <NUM> percent after saying it s back in talks with internet portal yahoo yhoo on a deal that would not involve a full acquisition <PUNC>
+microsoft had pulled its offer for yahoo just two weeks ago <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <COMMA> with blue-chip technology shares among the largest gainers <PUNC>
+international business machines corp. ibm climbed <NUM> percent and intel corp. intc gained <NUM> percent <PUNC>
+computer bellwether hewlett-packard hpq reported a stronger-than-forecast <NUM> percent profit rise late monday <COMMA> as well as forecasting current-quarter earnings ahead of wall street estimates <COMMA> helping lift the blue chips <PUNC>
+<PAR>

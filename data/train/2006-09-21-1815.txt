@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> well off an earlier high of <NUM> <PUNC>
+of the dow industrials <NUM> components <COMMA> <NUM> contributed to losses. <PUNC>
+dow component hewlett-packard hpq fell <NUM> percent to dollar <NUM> <PUNC>
+on friday <COMMA> the company will hold a press briefing at which ceo hurd will address the company s investigation of leaks from its boardroom <PUNC>
+elsewhere <COMMA> shares of drug retailers were knocked lower after dow member wal-mart wmt said it would sell nearly <NUM> generic drugs at dollar <NUM> per prescription beginning in florida this week and spreading to as many states as possible in <NUM> <PUNC>
+<PAR>

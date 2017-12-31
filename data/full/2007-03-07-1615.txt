@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> weighed by the likes of american express axp <COMMA> coca-cola co. ko <COMMA> citigroup inc. c and at&t inc. t <PUNC>
+blue chips were still supported by the likes of alcoa inc. aa <COMMA> boeing co. ba and caterpillar inc. cat <PUNC>
+likewise <COMMA> oil shares such as exxon mobil corp. xom advanced <COMMA> with crude oil futures rallying on bullish supply data <PUNC>
+crude for april delivery was last up <NUM> cents at dollar <NUM> a barrel <PUNC>
+on tuesday <COMMA> stocks had their best one-day performance since july <COMMA> with the dow industrials jumping <NUM> points <COMMA> as investors cheered a recovery in asian markets and the dollar <PUNC>
+those gains followed last week s sell-off in global stock markets that wiped out trillions of dollars in market capitalization <PUNC>
+<PAR>

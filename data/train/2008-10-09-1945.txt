@@ -1,0 +1,11 @@
+one year to the day after climbing to its peak of <NUM> <COMMA> the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> pushing the blue-chip index under the <NUM> level to under <NUM> for the first time since august <NUM> <PUNC>
+the dow s late-afternoon level has it down more than <NUM> points <COMMA> or <NUM> percent <COMMA> from its year-ago high <PUNC>
+all but three of the dow s <NUM> components posted losses in late afternoon trade <PUNC>
+with standard & poor s threatening a possible downgrade <COMMA> general motors corp. gm was the heaviest weight on the dow industrials <PUNC>
+the stock fell <NUM> percent <COMMA> making its first dip below dollar <NUM> a share since <NUM> <PUNC>
+off the dow <COMMA> shares of ford motor co. f slid <NUM> percent <PUNC>
+among the blue-chip index s bright spots <COMMA> ibm ibm advanced <NUM> percent after the industry bellwether released its third-quarter earnings ahead of schedule <COMMA> reporting a <NUM> percent profit rise and reiterating its <NUM> outlook <PUNC>
+<PAR>
+the stock market s continued decline comes one day after the u.s. federal reserve <COMMA> european central bank <COMMA> bank of england and other central banks made coordinated rate cuts <PUNC>
+the moves seemed to make little impact on wednesday with the dow industrials dropping <NUM> points <COMMA> the nasdaq composite falling <NUM> points and the s&p <NUM> shedding <NUM> points <PUNC>
+<PAR>

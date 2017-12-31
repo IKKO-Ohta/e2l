@@ -1,0 +1,15 @@
+new york marketwatch - u.s. stocks remained lower thursday afternoon <COMMA> while downgrades for coca-cola co. and j.p. morgan chase hurt the dow jones industrial average and rising energy prices and earnings uncertainty undermined sentiment <PUNC>
+the dow industrials dji were down <NUM> points at <NUM> <PUNC>
+the s&p <NUM> spx was <NUM> points lower at <NUM> and the nasdaq composite rixf down <NUM> points at <NUM> <PUNC>
+in addition <COMMA> rising energy prices are creating a new test of whether the dow can hold above the <NUM> level <COMMA> he said <PUNC>
+as the fourth-quarter earnings season gets underway <COMMA> there also is nervousness about the strength of upcoming reports <PUNC>
+investors were given pause earlier in the week when dow industrials components alcoa inc. aa and dupont dd had negative earnings news <PUNC>
+the market is just giving back a bit <COMMA> leone said <PUNC>
+people are trying to figure out if the dow is going to go up to the <NUM> level or back down again <PUNC>
+a lot of people are just sitting on the fence for now <PUNC>
+the biggest gainer on the dow was caterpillar cat <COMMA> which rose <NUM> percent to dollar <NUM> <PUNC>
+credit suisse first boston said the company s fourth-quarter earnings should exceed expectations <COMMA> due to strong european sales <PUNC>
+shares of fellow dow component coca-cola co. ko were down <NUM> cents at dollar <NUM> after goldman sachs reduced its rating on the soft drink maker to in-line from outperform <COMMA> urging investors not to put fresh money into the stock <PUNC>
+j.p. morgan chase jpm fell <NUM> percent to dollar <NUM> <PUNC>
+the bank was cut to market perform at piper jaffray <COMMA> which thinks that synergy benefits from the bank one merger are fully priced into the stock <PUNC>
+<PAR>

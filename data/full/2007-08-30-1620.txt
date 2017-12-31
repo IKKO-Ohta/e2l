@@ -1,0 +1,8 @@
+u.s. stocks were mixed in volatile trading thursday <COMMA> as the market remained jittery ahead of federal reserve chairman ben bernanke s speech tomorrow <COMMA> with wal-mart stores leading the dow lower after the retailer s shares were cut to sell by merrill lynch <PUNC>
+the dow jones industrial average dji fell <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
+the dow hit an intraday low of <NUM> earlier in the session <PUNC>
+leading the dow s declines <COMMA> shares of wal-mart wmt fell <NUM> percent after merrill lynch cut them to sell <COMMA> citing margin erosion at the company s core u.s. division <PUNC>
+shares of international business machines ibm rose <NUM> percent <COMMA> intel corp. intc was up <NUM> percent and hewlett-packard co. hpq gained <NUM> percent <PUNC>
+on wednesday <COMMA> u.s. stocks rallied <COMMA> boosted by strong gains in technology and energy shares as well as particularly light trading volume <COMMA> with the dow surging nearly <NUM> points <PUNC>
+in contrast <COMMA> the dow tumbled <NUM> points tuesday <PUNC>
+<PAR>

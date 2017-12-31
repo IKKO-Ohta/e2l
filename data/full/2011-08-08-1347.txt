@@ -1,0 +1,2 @@
+after falling as much as <NUM> points in the early going monday <COMMA> the dow jones industrial average dji was more recently down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+<PAR>

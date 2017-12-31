@@ -1,0 +1,2 @@
+the dow jones industrial average dji also took a hit <COMMA> falling <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <PUNC>
+<PAR>

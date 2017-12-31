@@ -1,0 +1,8 @@
+the s&p <NUM> spx was up <NUM> points at <NUM> <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> falling for the second day in a row <PUNC>
+the nasdaq composite rixf was the best performing index <COMMA> gaining <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its highest level since july <NUM> <COMMA> <NUM> <PUNC>
+the tech-heavy index gained in five out of last six trading days and is the only measure with year-to-date gains <PUNC>
+disappointing results from ibm <COMMA> the second-highest-priced dow component <COMMA> weighed on blue chips <PUNC>
+shares of ibm ibm skidded <NUM> percent after the company reported fourth-quarter revenue that fell short of estimates and disappointed with its earnings outlook <PUNC>
+shares of united technologies utx rose <NUM> percent after it reported fourth-quarter earnings fell <NUM> percent despite stronger revenue <PUNC>
+<PAR>

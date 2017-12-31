@@ -1,0 +1,3 @@
+u.s. stocks turned higher friday <COMMA> with the dow industrials and the s&p <NUM> scaling back on their first weekly drop in seven after reuters reported the european central bank was considering yield targets in a bond-buying program <PUNC>
+the dow industrials dji were up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+<PAR>

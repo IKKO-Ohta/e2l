@@ -1,0 +1,5 @@
+the dow jones industrial average rose nearly <NUM> points and finished up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> its best performance in more than eight weeks <PUNC>
+caterpillar inc. cat led gains that included all but one of the blue-chip index s <NUM> members after the chinese government reported exports rose <NUM> percent in august from the year-earlier period <COMMA> topping forecasts for a <NUM> percent rise <PUNC>
+there s excitement about the apple product announcement tomorrow <COMMA> said lazard s hogan <PUNC>
+and volumes are low and participation is still timid <COMMA> so any moves get exaggerated <COMMA> very much like we saw in the volatility on friday <COMMA> he said of the end-of-week session <COMMA> which had the dow average crossing zero <NUM> times <PUNC>
+<PAR>

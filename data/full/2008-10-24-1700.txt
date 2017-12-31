@@ -1,0 +1,8 @@
+after dropping <NUM> points <COMMA> the dow jones industrial average dji trimmed its decline <COMMA> recently off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> far off an intraday low of <NUM> hit two fridays ago <COMMA> and setting it up for a weekly drop of <NUM> percent <PUNC>
+all but one of the blue-chip index s <NUM> components posted midday declines <COMMA> with microsoft corp. msft digging out of negative terrain <COMMA> recently up <NUM> percent following its report of a small profit gain for the september quarter <PUNC>
+<PAR>
+general motors corp. gm fell the most <COMMA> down nearly <NUM> percent <PUNC>
+the dow s decline <COMMA> while steep under normal circumstances <COMMA> proved far less severe than some had feared after stock futures plummeted to their daily limits in preopen trades <PUNC>
+so-called circuit-breakers kick in should the dow industrials fall <NUM> points before <NUM> p.m. eastern time <COMMA> freezing trading for an hour <PUNC>
+a 2,200-point plunge before <NUM> p.m. could stop trading for two hours <COMMA> and a 3,350-point drop would shutter trades for the rest of the day <PUNC>
+<PAR>

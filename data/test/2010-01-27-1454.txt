@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the s&p <NUM> spx was flat <PUNC>
+the nasdaq composite index rixf was up <NUM> percent <COMMA> helped by a <NUM> percent gain in yahoo yhoo after it announced better-than-expected earnings <PUNC>
+the dow has fallen in four of the last five full trading sessions <COMMA> shedding <NUM> percent over that timeframe <PUNC>
+it also came into wednesday s action down <NUM> percent for january a perhaps troublesome harbinger for the rest of the year <PUNC>
+mr. frelich said major averages have recently broken through key technical levels <COMMA> suggesting a pullback that may take the dow below <NUM> in the near term <PUNC>
+<PAR>

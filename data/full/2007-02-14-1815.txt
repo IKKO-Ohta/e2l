@@ -1,0 +1,11 @@
+u.s. stocks rallied wednesday <COMMA> sending the dow jones industrial average to a new record high <COMMA> as investors cheered soothing words from federal reserve chairman ben bernanke on inflation <COMMA> easing concerns that the fed would hike interest rates later this year <PUNC>
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> just off a new intraday record high of <NUM> <PUNC>
+the dow added more than <NUM> points after the fed released bernanke s prepared remarks to congress <PUNC>
+the blue-chip average was boosted by the likes of caterpillar inc. cat <COMMA> microsoft corp. msft <COMMA> intel corp. intc and verizon inc. vz <PUNC>
+rate-sensitive financial stocks on the dow <COMMA> such as american express co. axp <COMMA> citigroup inc. c and j.p. morgan chase & co. jpm <COMMA> also posted significant gains <PUNC>
+among other dow components <COMMA> ibm ibm rose <NUM> percent <PUNC>
+the company has claimed a breakthrough in developing circuitry to store data on future microprocessor chips <COMMA> according to a report in the wall street journal <PUNC>
+coca-cola ko <COMMA> another dow component <COMMA> fell <NUM> percent <PUNC>
+the company said fourth-quarter net income dropped <NUM> percent <COMMA> hurt by an impairment charge for coca-cola enterprises <PUNC>
+results excluding the charge still beat forecasts <PUNC>
+<PAR>

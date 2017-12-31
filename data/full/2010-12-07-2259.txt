@@ -1,0 +1,5 @@
+but by then end of the day <COMMA> the dow jones industrial average dji ended down <NUM> points at <NUM> <COMMA> more than <NUM> points off its high for the day <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were higher <COMMA> led by general electric co. ge <COMMA> up <NUM> percent <PUNC>
+3m led decliners in the index <COMMA> ending off <NUM> percent <PUNC>
+on tuesday <COMMA> 3m co. mmm hiked its earnings forecast for <NUM> <COMMA> with the industrial conglomerate and dow component saying it also expects to expand through acquisitions <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+still <COMMA> the dow jones industrial average dji recovered from early weakness to gain <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> stocks advanced <COMMA> led by the likes of intel corp. intc <COMMA> 3m co. mmm <COMMA> microsoft corp. msft and exxon mobil corp. xom <PUNC>
+leading the gains on the dow <COMMA> merck & co. inc. mrk gained <NUM> percent after the pharmaceutical giant said that its hiv drug isentress was granted a priority review status by the food and drug administration <PUNC>
+<PAR>

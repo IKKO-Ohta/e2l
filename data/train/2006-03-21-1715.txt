@@ -1,0 +1,7 @@
+the dow jones industrial average dji was sitting just off its high for the session <COMMA> up <NUM> points at <NUM> <PUNC>
+general motors corp. gm was the biggest percentage gainer on the dow industrials <COMMA> up <NUM> percent at dollar <NUM> <COMMA> on reports that the struggling automaker is closing in on a deal with the united auto workers and delphi corp dphiq <COMMA> its main auto parts supplier <PUNC>
+the three parties have been in talks to stave off a strike at bankrupt delphi <COMMA> which would severely impact gm s supply chain <PUNC>
+delphi previously set a deadline of march <NUM> for reaching a new labor contract <PUNC>
+merck & co. mrk tacked on <NUM> cents to dollar <NUM> <PUNC>
+the company agreed to license technology to make anti-hypertension drugs from french biotech nicox <COMMA> in return for up to dollar <NUM> million in milestone payments as well as other payments <PUNC>
+<PAR>

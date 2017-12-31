@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx up <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf up <NUM> points at <NUM> <PUNC>
+merck mrk <COMMA> which dropped <NUM> percent on friday on news of a texas jury award to the widow of a patient who died taking vioxx <COMMA> received an upgrade from credit suisse first boston <COMMA> which cited valuation <PUNC>
+the share was <NUM> percent lower in early trade <PUNC>
+dow component procter & gamble pg was <NUM> percent higher after receiving a favorable mention in barron s <COMMA> saying the stock is undervalued <PUNC>
+<PAR>

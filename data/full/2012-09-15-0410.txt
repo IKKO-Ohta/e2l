@@ -1,0 +1,2 @@
+the announcement triggered a rally in the stock market <COMMA> with the s&p <NUM> index spx and the dow jones industrial average dji both closing at 52-week highs on friday <PUNC>
+<PAR>

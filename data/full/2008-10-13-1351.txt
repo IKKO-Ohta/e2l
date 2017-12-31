@@ -1,0 +1,4 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all <NUM> of its components trading higher <COMMA> led by general motors corp. gm <COMMA> up <NUM> percent <PUNC>
+<PAR>
+u.s. stocks closed mostly lower on friday <COMMA> with the dow industrials falling <NUM> points <COMMA> or <NUM> percent <COMMA> for the week <COMMA> its worst ever in its 112-year history <PUNC>
+<PAR>

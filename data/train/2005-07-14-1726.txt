@@ -1,0 +1,5 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> after rallying more than <NUM> points to a high of <NUM> in early trading <PUNC>
+within the dow <COMMA> general motors corp. gm rose <NUM> percent to dollar <NUM> after lehman raised its recommendation on the company as a part of a broader upgrade of the auto and auto-parts sector <PUNC>
+shares of general motors corp. gm rose after lehman <PUNC>
+upgraded the company to equal weight from underweight <PUNC>
+<PAR>

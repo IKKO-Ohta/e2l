@@ -1,0 +1,2 @@
+the dow jones industrial average dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> led by a <NUM> percent rise in j.p. morgan chase co. jpm shares and a <NUM> percent gain in bank of america corp. bac <PUNC>
+<PAR>

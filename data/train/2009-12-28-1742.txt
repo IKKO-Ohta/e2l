@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> recently <PUNC>
+a handful of technology companies climbed <COMMA> boosted by initial reports of a slightly stronger-than-expected holiday shopping season <PUNC>
+ibm ibm was among the measure s strongest performers <COMMA> up <NUM> percent <PUNC>
+general electric ge <COMMA> down <NUM> percent <COMMA> weighed on the dow <PUNC>
+<PAR>

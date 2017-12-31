@@ -1,0 +1,9 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite index rixf slid <NUM> percent and the standard & poor s <NUM> index spx fell <NUM> percent with all of its sectors in the red <PUNC>
+financial stocks were off after the u.s. senate voted to allow the federal reserve to regulate fees on debit card transactions <PUNC>
+the measure will also allow retails more leverage in negotiating with credit card firms and banks over the fees for card transactions <PUNC>
+visa inc. v tumbled <NUM> percent <COMMA> while mastercard inc. ma fell <NUM> percent <PUNC>
+american express axp slid <NUM> percent <COMMA> while bank of america corp. bac fell <NUM> percent <PUNC>
+technology companies also weakened <COMMA> as investors shunned riskier stocks <PUNC>
+intel corp. intc slipped <NUM> percent <COMMA> while hewlett-packard co. hpq fell <NUM> percent and cisco systems inc. csco dropped <NUM> percent <PUNC>
+<PAR>

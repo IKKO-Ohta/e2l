@@ -1,0 +1,8 @@
+u.s. stocks were higher in afternoon trade <COMMA> with the dow jones industrial average on track to take its first six-session string of gains in more than four months <COMMA> although price action was restrained and volume exceptionally light ahead of the three-day easter holiday <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+if the average finishes higher <COMMA> it would mark the first six-session winning streak since november <NUM> <PUNC>
+the s&p <NUM> spx was up <NUM> points at <NUM> and the nasdaq composite rixf rose almost <NUM> points to <NUM> <PUNC>
+if the nasdaq ends higher <COMMA> it will mark its first six-session winning run since february <NUM> <PUNC>
+dow component general motors gm was <NUM> percent higher at dollar <NUM> after billionaire investor switched his sights from reshaping the company to focus on its rival chrysler <PUNC>
+the first-quarter earnings season will begin in earnest next week <COMMA> with results from aluminum producer alcoa inc. aa <PUNC>
+<PAR>

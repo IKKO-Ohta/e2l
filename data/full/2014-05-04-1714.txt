@@ -1,0 +1,13 @@
+stocks finished higher last week <COMMA> and the dow jones industrial average dji set its first record close of the year <PUNC>
+the s&p <NUM> index spx passed into record close territory but couldn t finish there <PUNC>
+the nasdaq composite index rixf closed up <NUM> percent on the week <COMMA> though it s still down <NUM> percent for the year <PUNC>
+the workings of the dow suggest hope is driving prices rather than the bottom line <PUNC>
+sales and profit trends aren t looking so hot <COMMA> nor are corporate outlooks <PUNC>
+the <NUM> out of <NUM> blue-chip companies that have already reported are showing a <NUM> percent decline in first-quarter earnings <COMMA> setting up the third year-over-year decline in earnings out of the past four quarters <COMMA> says factset data <PUNC>
+similarly <COMMA> revenue is on track to rise <NUM> percent for the first quarter <COMMA> which would be the seventh straight quarter of sub-1 percent growth <PUNC>
+yet <COMMA> over the past <NUM> months <COMMA> the dow is up more than <NUM> percent <PUNC>
+only two dow components report this week <PUNC> pfizer inc. pfe on monday <COMMA> and walt disney co. dis on tuesday <PUNC>
+nearly <NUM> companies in s&p <NUM> companies will report with much of the weighting in media stocks and insurers <PUNC>
+also <COMMA> the limelight shifts to other investing titans with the close of warren buffett s berkshire hathaway shareholder meeting <PUNC>
+on sunday <COMMA> billionaire activist investor carl icahn criticized buffett for not voting against coca-cola co. s ko executive pay proposal <COMMA> which icahn characterized as excessive <PUNC>
+<PAR>

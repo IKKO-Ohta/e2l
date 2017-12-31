@@ -1,0 +1,2 @@
+down more than <NUM> points ahead of the latest economic data <COMMA> the dow industrial average dji was more recently ahead <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+<PAR>

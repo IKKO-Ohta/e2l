@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+the technology sector maintained some of its early gains <COMMA> with dow component intel corp. intc <COMMA> up nearly <NUM> percent after the chip maker lifted its third-quarter revenue guidance <PUNC>
+yahoo inc. yhoo likely to hold onto the web-search-advertising businesses that it had considered outsourcing to google inc. goog or microsoft corp msft <COMMA> the wall street journal reported <PUNC>
+<PAR>

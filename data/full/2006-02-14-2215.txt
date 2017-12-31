@@ -1,0 +1,10 @@
+u.s. stocks rallied to a sharply higher close tuesday <COMMA> after a surge in january retail sales and a drop in crude-oil prices to a six-week low lifted the dow jones industrial average above the psychologically key <NUM> mark for the first time since january <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> marking the average s largest one-day point gain since jan. <NUM> <PUNC>
+the last time the dow closed above <NUM> was on january <NUM> <PUNC>
+coca-cola co. ko closed almost <NUM> percent higher at dollar <NUM> <COMMA> weathering a decision by financial investment guru warren buffett and j. pedro reinhard not to run for reelection to the company s board <PUNC>
+elsewhere on the dow <COMMA> shares of 3m mmm rose <NUM> percent to dollar <NUM> after the industrial group raised its quarterly cash dividend and approved a share buyback of dollar <NUM> billion <PUNC>
+other dow components underpinning the rally in the blue-chip index include alcoa inc. aa <COMMA> dupont dd <COMMA> the home depot inc. hd ,at&t t and caterpillar inc. cat <PUNC>
+shares of target corp. tgt erased early losses to close up <NUM> percent at dollar <NUM> <PUNC>
+ahead of the bell <COMMA> the discount retailer lowered the top end of its february same-store sales forecast <COMMA> attributing the revised outlook to lower customer traffic in the northeast due to a heavy snowstorm over the weekend <PUNC>
+rival wal-mart stores inc. wmt climbed 2.% to dollar <NUM> <PUNC>
+<PAR>

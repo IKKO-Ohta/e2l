@@ -1,0 +1,5 @@
+dow component and aluminum giant alcoa inc. aa reports its first-quarter results on tuesday <COMMA> the unofficial start of the earnings season <PUNC>
+on monday <COMMA> stocks declined for the first day in five sessions amid renewed worries about large banks <COMMA> and after reports that international business machines corp. s ibm proposed deal for sun microsystems inc. java had fallen through <PUNC>
+with the price of crude oil sliding for a second straight session <COMMA> energy companies led sector declines as the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> spx declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the technology-laden nasdaq composite shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

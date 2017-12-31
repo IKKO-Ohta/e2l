@@ -1,0 +1,2 @@
+tallying another triple-digit rise <COMMA> its first such two-day streak since july <COMMA> the dow jones industrial average dji finished at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+<PAR>

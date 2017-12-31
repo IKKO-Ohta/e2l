@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with bank of america corp. bac leading the losses that included <NUM> of its <NUM> components <PUNC>
+while the s&p <NUM> and the dow industrials on tuesday closed at all-time highs <COMMA> market breadth on the nyse was a slight negative and trading volume slight <COMMA> leaving the market gasping for air at its current high altitude level with buyers reluctant to step in and drive prices meaningfully higher on heavy trading volume <COMMA> fred dickson <COMMA> chief investment strategist at davidson companies <COMMA> said in emailed research <PUNC>
+read a blog on stock-market trends investors should really worry about <PUNC>
+corporate america starts reporting first-quarter results next week <COMMA> with alcoa inc. aa slated to release its earnings for the period on monday <PUNC>
+<PAR>

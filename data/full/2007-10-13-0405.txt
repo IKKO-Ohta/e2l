@@ -1,0 +1,8 @@
+among the highlights of the week be earnings from banking giant citigroup inc. c on monday <COMMA> followed by tech bellwether intel corp. c on tuesday <PUNC>
+given worries about the slowing u.s. economy <COMMA> stronger than expected september retail sales enabled stocks to close higher on friday and to advance modestly for the week <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> on friday <COMMA> ending with a weekly gain of <NUM> percent <PUNC>
+the dow still managed to reached new record high of <NUM> on thursday <COMMA> along with the s&p <NUM> index spx <COMMA> which touched a record high of <NUM> on the same day <COMMA> before finishing the week on a gain of <NUM> percent <PUNC>
+among the big banks <COMMA> wells fargo co. wfc will report on tuesday <COMMA> followed by jpmorgan chase & co. jpm <COMMA> washington mutual inc. wm and northern trust ntrs on wednesday <PUNC>
+bank of america corp. bac <COMMA> bank of new york bk and pnc financial pnc report on thursday <COMMA> followed by wachovia corp. wb friday <PUNC>
+among dow industrials components due to report next week are citigroup on monday <COMMA> intel and johnson & johnson jnj on tuesday <COMMA> j.p. morgan <COMMA> coca-cola co. ko <COMMA> altria group mo and united technologies corp. utx on wednesday <COMMA> followed by caterpillar inc. cat <COMMA> honeywell international inc. hon and 3m co. mmm on friday <PUNC>
+<PAR>

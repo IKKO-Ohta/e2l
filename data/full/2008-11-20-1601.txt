@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
+among dow components <COMMA> general motors corp. gm plunged nearly <NUM> percent <PUNC>
+amid concerns about a possible bankruptcy for the auto giant <COMMA> gm s financing unit gmac applied to become a bank holding company to access emergency cash from the government <PUNC>
+citigroup inc. c also plunged <COMMA> off <NUM> percent <COMMA> even after saudi investor prince alaweed said he would raise his stake in the bank to <NUM> percent <PUNC>
+stocks were crushed to 5-1/2-year lows wednesday <COMMA> with credit market-led fears and citigroup s dollar <NUM> billion balance sheet addition punishing markets <PUNC>
+the dow jones industrial average dropped <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite fell <NUM> points <PUNC>
+<PAR>

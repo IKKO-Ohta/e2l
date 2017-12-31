@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points to close at <NUM> <PUNC>
+the benchmark index has now risen for seven sessions in a row <COMMA> a feat not equaled since march <NUM> <PUNC>
+it now sits at a three-month high after rising <NUM> percent on the week <PUNC>
+within the dow <COMMA> exxon mobil corp. xom was up <NUM> percent <COMMA> buoyed by the resurgent strength in crude-oil prices <PUNC>
+alcoa inc. aa rallied for a second straight session <COMMA> up <NUM> percent <COMMA> amid broad strength in the metals markets <PUNC>
+caterpillar cat climbed <NUM> percent <COMMA> helped by positive analyst comment after the maker of industrial equipment reported a <NUM> percent rise in machinery sales in may <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+up four of the past five trading days <COMMA> the dow jones industrial average dji seesawed in and out of positive territory before adopting a firmer tone <COMMA> recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components pulling higher <PUNC>
+<PAR>

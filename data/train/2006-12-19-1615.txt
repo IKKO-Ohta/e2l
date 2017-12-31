@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+pfizer inc. pfe was down <NUM> cents at dollar <NUM> <PUNC>
+the company late monday raised its divided and said it jas elected chief executive jeffrey kindler to serve as chairman <PUNC>
+<PAR>

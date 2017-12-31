@@ -1,0 +1,7 @@
+investors <COMMA> who pushed the dow jones industrial average past the 10,720-point mark just after the start of the year <COMMA> have grown skeptical about the strength of the global economic rebound <PUNC>
+the u.s. stock market has endured three straight weekly losses <PUNC>
+in january <COMMA> the dow jones industrial average dji and the s&p <NUM> index spx both slid more than <NUM> percent <PUNC>
+the nasdaq composite index rixf fell more than <NUM> percent in january <PUNC>
+the dow closed friday at <NUM> <COMMA> the s&p at <NUM> and the nasdaq at <NUM> <PUNC>
+technology bellwether cisco systems inc. csco <PUNC> exxon mobil corp. xom <PUNC> ups inc. ups <PUNC> time warner inc. twx <PUNC> and pfizer inc. pfe are among the high-profile companies issuing reports <PUNC>
+<PAR>

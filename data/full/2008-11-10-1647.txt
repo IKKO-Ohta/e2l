@@ -1,0 +1,8 @@
+u.s. stocks scaled back strong gains monday <COMMA> with the dow jones industrial average flirting with the <NUM> level <COMMA> as enthusiasm over china s economic stimulus package was partially offset by ongoing worries about u.s. companies <PUNC>
+up more than <NUM> points early on <COMMA> the dow jones industrial average dji was more recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+gains were led by aluminum producer alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
+general motors corp. gm weighed the most on the blue-chip index <COMMA> falling <NUM> percent after deutsche bank said shares of the automaker were likely worthless and that gm might not be able to fund its u.s. business past december without the government s help <PUNC>
+mcdonald corp. mcd reported another month of strong sales <COMMA> and starbucks sbux is due to report quarterly results after the close <PUNC>
+u.s. stocks had ended with strong gains on friday as investors looked past a report showing <NUM> jobs lost in october and big quarterly losses at general motors and ford motor co. f <PUNC>
+but over the past week <COMMA> the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq composite each lost about <NUM> percent <PUNC>
+<PAR>

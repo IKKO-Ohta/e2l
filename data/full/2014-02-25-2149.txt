@@ -1,0 +1,4 @@
+the dow jones industrial average dji ended the session <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+home depot inc. hd shares rose <NUM> percent after the company reported fiscal fourth-quarter earnings that beat forecasts <PUNC>
+the retailer also lifted its dividend <NUM> percent <PUNC>
+<PAR>

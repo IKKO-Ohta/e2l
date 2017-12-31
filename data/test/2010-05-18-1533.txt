@@ -1,0 +1,3 @@
+drawing back from a roughly 90-point rise <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components gaining <PUNC>
+wal-mart stores inc. wmt shares led the index <COMMA> up <NUM> percent after the world s largest retailer said its profit climbed a better-than-expected <NUM> percent in the first quarter <PUNC>
+<PAR>

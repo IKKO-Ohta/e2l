@@ -1,0 +1,9 @@
+u.s. stocks fell tuesday after the latest producer-price report raised concerns about inflation <COMMA> and prompted some investors to lock in profits in the wake of rally that has lifted the dow jones industrial average to record highs <PUNC>
+the dow industrials dji fell <NUM> points to <NUM> after a record closing high in the prior session <PUNC>
+a <NUM> percent slide in shares of intel corp. intc <COMMA> sparked by a broker downgrade ahead of its quarterly earnings release weighed heavily on the blue-chip index <PUNC>
+johnson & johnson jnj gained <NUM> percent to dollar <NUM> after the pharmaceutical and medical products maker announced a nearly <NUM> percent jump in quarterly sales <PUNC>
+it also had earnings per share that exceeded wall street forecasts <PUNC>
+united technologies utx was off <NUM> percent at dollar <NUM> <PUNC>
+aerospace contracts allowed the company to report a <NUM> percent rise in profits and lift its outlook for the full year <PUNC>
+earnings per share exceeded analysts estimates <PUNC>
+<PAR>

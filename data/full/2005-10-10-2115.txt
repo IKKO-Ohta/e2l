@@ -1,0 +1,9 @@
+new york dow jones u.s. stocks closed sharply lower monday <COMMA> with general motors corp. shares forfeiting nearly <NUM> percent of their value in the wake of delphi corp. s bankruptcy filing and both the dow jones industrial average and s&p <NUM> index skidding to five-month lows <PUNC>
+the dow industrials dji closed down <NUM> points at <NUM> <COMMA> marking a five-month low <PUNC>
+on an historical note <COMMA> three years ago monday <COMMA> both the nasdaq composite and s&p <NUM> indexes ended their respective bear markets <COMMA> or began their current bull markets <PUNC>
+the dow industrials bottomed out a day later at <NUM> <PUNC>
+the dow jones u.s <PUNC>
+automobiles and parts index dj_ato ended own about <NUM> percent at <NUM> <PUNC>
+shares of delphi s former parent <COMMA> general motors gm <COMMA> a dow component <COMMA> ended <NUM> percent lower at dollar <NUM> after s&p downgraded the company s long- and short-term debt <PUNC>
+international business machines corp. ibm rose almost <NUM> percent to dollar <NUM> after citigroup upgraded the dow component to buy from hold <COMMA> saying the company is gaining market share in the midrange and high-end server market <PUNC>
+<PAR>

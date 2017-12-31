@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> extending three straight weeks of gains <PUNC>
+entering the month s final week of trading <COMMA> the dow is up <NUM> percent for october <COMMA> buoyed by hopes that the central bank will take further steps to stimulate the economy at its meeting next week <PUNC>
+alcoa aa was the measure s strongest performer <COMMA> up <NUM> percent <PUNC>
+<PAR>

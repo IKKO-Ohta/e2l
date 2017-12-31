@@ -1,0 +1,6 @@
+the dow jones industrial average dji closed up <NUM> points at <NUM> <PUNC>
+micron mu closed <NUM> percent higher at dollar <NUM> <PUNC>
+merrill lynch upgraded the share to a buy rating <COMMA> noting the nand flash-memory venture with intel intc <COMMA> which ended <NUM> percent higher at dollar <NUM> <PUNC>
+dow component general motors corp. gm closed off its lows <COMMA> down <NUM> percent at dollar <NUM> <COMMA> after suffering sharp falls monday after it announced a new set of restructuring actions <PUNC>
+among other dow stocks registering sharp gains <COMMA> altria group mo rose <NUM> percent to dollar <NUM> and wal-mart stores wmt increased <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

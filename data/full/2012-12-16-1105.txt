@@ -1,0 +1,4 @@
+all three major u.s. indexes finished down for the week <PUNC>
+the dow jones industrial average dji fell <NUM> percent <COMMA> and the s&p <NUM> index spx shed <NUM> percent <COMMA> snapping a streak of three weeks of gains for both <PUNC>
+the nasdaq composite index rixf declined <NUM> percent <PUNC>
+<PAR>

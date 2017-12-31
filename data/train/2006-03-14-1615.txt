@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+procter & gamble pg was the biggest decliner on the dow <COMMA> sliding <NUM> percent to dollar <NUM> <COMMA> after it said it now expects organic sales growth excluding the impact of acquisitions <COMMA> divestitures and foreign exchange of <NUM> percent to <NUM> percent <COMMA> at the low end of its earlier forecast of <NUM> percent to <NUM> percent growth <PUNC>
+american international group <COMMA> aig tacked on <NUM> cents to dollar <NUM> after broker merrill lynch reiterated its buy rating on the insurer <COMMA> and added it to its focus <NUM> list <PUNC>
+chipotle mexican grill inc. cmg rose <NUM> percent to dollar <NUM> after the recent mcdonald s spin-off mcd posted a forecast-beating fourth-quarter <PUNC>
+<PAR>

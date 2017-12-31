@@ -1,0 +1,8 @@
+the dow jones industrial average dji was recently up <NUM> points to stand at <NUM> <COMMA> with <NUM> of its <NUM> components in the green <PUNC>
+gains were led by bank of america corp. bac <COMMA> up <NUM> percent <COMMA> and the coca-cola co. ko <COMMA> recently <NUM> percent ahead <PUNC>
+and chemical giant dupont dd rose <NUM> percent reported a <NUM> percent rise in second-quarter net income <COMMA> while raising its profit outlook for the year <PUNC>
+<PAR>
+american express axp was among those weighing on the blue-chip index <COMMA> with the credit-card company s shares dropping <NUM> percent after it said it would not meet earnings targets until the economy improves <PUNC>
+merck & co. inc. mrk weighed on the dow for a second day <COMMA> falling <NUM> percent after the drug giant reported a modest earnings rise on what amounted to flat sales <PUNC>
+on monday <COMMA> u.s. stock indexes sustained minor losses after better-than-expected quarterly earnings from bank of america corp. bac offset losses in the technology <COMMA> pharmaceutical and consumer discretionary sectors <PUNC>
+<PAR>

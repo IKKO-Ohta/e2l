@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+wal-mart stores inc. wmt shares were <NUM> percent lower at dollar <NUM> <PUNC>
+the retailer over the weekend said its comparable-store sales for june would be up about <NUM> percent <PUNC>
+earlier wal-mart had projected a <NUM> percent -to-3 percent increase <PUNC>
+general motors gm was <NUM> percent higher at dollar <NUM> <PUNC>
+banc of america upgraded the stock to neutral from sell <COMMA> citing the value of a potential transaction with renault and nissan <PUNC>
+nsany analyst ron tadross also raised his stock price target on gm to dollar <NUM> from dollar <NUM> <PUNC>
+<PAR>

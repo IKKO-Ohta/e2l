@@ -1,0 +1,8 @@
+u.s. stock indexes ended lower on monday <COMMA> with the dow jones industrial average briefly falling below <NUM> ahead of the closing bell as investors debated whether a record rally has become overextended <PUNC>
+the s&p <NUM> index fell <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> while the dow jones industrial average lost <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+among blue chips <COMMA> 3m co. weighed on the dow <COMMA> dropping more than <NUM> percent to become the largest decliner <PUNC>
+analysts at morgan stanley lowered their rating on the stock to underweight <PUNC>
+stocks enter the final month of the year on a tear <COMMA> with the s&p <NUM> up more than <NUM> percent for <NUM> <PUNC>
+the s&p and the dow have both set a string of record highs over the course of the year <COMMA> with pullbacks tending to be shallow and far between <PUNC>
+while that has some investors fearing a potential bubble <COMMA> others argue that the rally appears to be in strong hands <PUNC>
+<PAR>

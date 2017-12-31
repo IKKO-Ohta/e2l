@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose about <NUM> points to <NUM> <COMMA> after falling as much as <NUM> points earlier <PUNC>
+shares of walt disney co. rose over <NUM> percent following the media giant s earnings late tuesday <PUNC>
+hewlett-packard co. hpq added <NUM> percent after quartz reported on tuesday that h-p s board is studying a breakup of the technology company <PUNC>
+<PAR>

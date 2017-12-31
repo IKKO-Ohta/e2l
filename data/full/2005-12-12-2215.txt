@@ -1,0 +1,15 @@
+the dow jones industrial average dji rose as high as <NUM> before turning lower near midday <PUNC>
+the benchmark index was down <NUM> <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+within the dow industrials <COMMA> merck shares mrk were down <NUM> percent to dollar <NUM> <PUNC>
+the nasdaq composite index rixf held above water even as the dow dipped <PUNC>
+it rose just more than <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx was up just more than <NUM> point to <NUM> <PUNC>
+shares of honeywell international inc. hon rallied more than <NUM> percent before trimming gains to close to <NUM> percent up <NUM> cents <COMMA> at dollar <NUM> <PUNC>
+the diversified industrial company lifted its quarterly dividend by <NUM> percent <PUNC>
+wal-mart stores inc. wmt tacked on <NUM> percent to dollar <NUM> after it reiterated that it expects same-store sales to rise between <NUM> percent and <NUM> percent in december <PUNC>
+shares in united technologies utx finished up <NUM> cents or <NUM> percent <COMMA> to dollar <NUM> <PUNC>
+the stock was off earlier highs seen after brokerage morgan stanley upgraded the company to overweight from equal weight <COMMA> saying the conglomerate isn t getting the recognition it deserves for the aerospace cycle <PUNC>
+intel corp. intc gained <NUM> percent to dollar <NUM> <COMMA> clawing its way back up after the stock fell more than <NUM> percent last week <PUNC>
+also on the deal front <COMMA> viacom inc. s viab via paramount pictures agreed to buy dreamworks skg for dollar <NUM> billion <COMMA> thwarting rival nbc universal s ge five-month long courtship to acquire the independent movie studio <PUNC>
+viacom shares rose <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

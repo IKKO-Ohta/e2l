@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with alcoa inc. aa pacing the declines that included <NUM> of its <NUM> components <PUNC>
+a 20-session-long tuesday win streak for the dow industrials was derailed <COMMA> with the index falling <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+fears over when the federal reserve will begin to pull back on its bond-buying program weighed on sentiment <PUNC>
+<PAR>

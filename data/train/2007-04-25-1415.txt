@@ -1,0 +1,6 @@
+u.s stocks open higher on wednesday <COMMA> sending the dow jones industrial average above the key <NUM> level <COMMA> as news of better-than-expected orders for durable goods in march and surging profits at amazon.com boosted sentiment <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> crossing the key level for the first time at the open <COMMA> as <NUM> of its <NUM> components advanced <PUNC>
+alcoa inc. aa led the gains <COMMA> rising <NUM> percent after saying it plans to explore the disposition of its packaging and consumer businesses <PUNC>
+shares of ibm ibm and hewlett packard co. hpq also rose solidly after their rival sun microsystems inc. sunw reported quarterly sales that fell short of expectations <PUNC>
+boeing co. ba <COMMA> which reported earnings wednesday <COMMA> played a big part in the march gains <COMMA> as orders for civilian aircraft zoomed <NUM> percent higher <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> gaining nearly <NUM> percent to <NUM> <PUNC>
+twenty-two of its <NUM> components moved higher <COMMA> led by alcoa inc. aa <COMMA> shares of which traded up <NUM> percent <PUNC>
+blue chip coca-cola co. ko reported <NUM> percent quarterly profit growth and said it expects to enjoy a good <NUM> <COMMA> but its shares were unmoved <PUNC>
+<PAR>
+stocks in the technology sector posted broad gains <PUNC>
+shares of microsoft corp. msft gained more than <NUM> percent after reports that google inc. goog was backing off from a possible search-outsourcing deal with yahoo inc. yhoo <COMMA> which microsoft is seeking to acquire <PUNC>
+<PAR>

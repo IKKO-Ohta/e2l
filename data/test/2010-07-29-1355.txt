@@ -1,0 +1,12 @@
+the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
+leading the measure <COMMA> walt disney dis gained <NUM> percent amid speculation that the company was close to signing abc family president paul lee to fix its ailing abc network <COMMA> people familiar with the matter told the wall street journal <PUNC>
+exxon mobil xom gained <NUM> percent after its second-quarter earnings jumped a bigger-than-expected <NUM> percent <PUNC>
+the oil giant rebounded from the prior year s weak performance on higher commodities prices and improved refining margins <PUNC>
+drug companies also strengthened <PUNC>
+pfizer pfe gained <NUM> percent <COMMA> while merck mrk advanced <NUM> percent <PUNC>
+astra zeneca azn <COMMA> not a dow component <COMMA> rose <NUM> percent after lifting its full-year financial targets and doubled its <NUM> share buyback programme after reporting second-quarter profits that beat forecasts <PUNC>
+however <COMMA> procter & gamble pg slid <NUM> percent <COMMA> following disappointing quarterly reports from several other consumer-oriented companies <PUNC>
+colgate-palmolive cl slid <NUM> percent after its second-quarter earnings rose <NUM> percent <COMMA> but sales missed analysts expectations <PUNC>
+kellogg s k second-quarter profit fell <NUM> percent on weakness in cereal sales in the u.s. and u.k. and impacts from a recent recall <PUNC>
+the cereal maker also cut its <NUM> growth target <COMMA> sending shares down <NUM> percent <PUNC>
+<PAR>

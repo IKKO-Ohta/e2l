@@ -1,0 +1,2 @@
+the dow jones industrial average was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components opening down <COMMA> weighed by the likes of citigroup inc. <COMMA> bank of america <COMMA> and j.p. morgan chase <PUNC>
+<PAR>

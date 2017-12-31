@@ -1,0 +1,8 @@
+after declining about <NUM> points after the open <COMMA> the dow jones industrial average dji was more recently ahead <COMMA> rising <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> with financial stocks fronting the advance <PUNC>
+citigroup inc. c gained <NUM> percent <COMMA> while american express co. axp up <NUM> percent <PUNC>
+declines on the dow were led by drug manufacturer merck & co. inc. mrk <COMMA> off more than <NUM> percent <PUNC>
+among shares on the move <COMMA> amgen inc. amgn and johnson & johnson jnj both lost ground after a study published late tuesday in the journal of the american medical association showed that treating anemia with erythropoiesis-stimulating agents increases the risk of certain blood clots and death among cancer patients <PUNC>
+microsoft corp. msft was fined <NUM> million euros dollar <NUM> billion by the european commission for failing to comply with its <NUM> antitrust ruling <PUNC>
+it brings the fines levied by e european regulators for alleged anti-competitive activity to <NUM> billion euros <PUNC>
+on tuesday <COMMA> a dollar <NUM> billion stock buyback plan from international business machines corp. ibm helped trigger the second-straight surge in u.s. stocks <PUNC>
+<PAR>

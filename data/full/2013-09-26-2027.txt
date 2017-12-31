@@ -1,0 +1,2 @@
+after a five-session losing streak <COMMA> the dow jones industrial average dji rallied as much as <NUM> points <COMMA> and ended with a gain of <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+on wednesday <COMMA> ford shares rose <NUM> percent on a news report that the company may be interested in joining a renault-nissan alliance if talks with general motors corp. gm don t pan out <PUNC>
+chairman and chief executive bill ford jr. said it has not been approached by another automaker about a possible alliance <COMMA> but the company is open to all options <PUNC>
+shares of mcdonald s corp. mcd dipped <NUM> percent to dollar <NUM> <PUNC>
+mike roberts <COMMA> the fast-food giant s well-regarded president and chief operating officer resigned after nearly three decades with the company and is to be replaced by ralph alvarez <COMMA> head of its north american operations <PUNC>
+<PAR>

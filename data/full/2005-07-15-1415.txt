@@ -1,0 +1,12 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> after hitting a four-month high in the prior session <PUNC>
+within the dow <COMMA> shares of general electric ge fell <NUM> percent after the industrial conglomerate issued a third-quarter profit warning <PUNC>
+there was better news out of fellow dow component mcdonald s mcd as the fast food s giant s stock rallied <NUM> percent on an upbeat second quarter outlook <PUNC>
+hewlett-packard hpq climbed <NUM> percent amid media reports it is close to announcing significant lay-offs as part of a major restructuring plan <PUNC>
+the core rate of inflation of inflation at the wholesale level fell <NUM> percent <COMMA> the agency said <PUNC>
+economists had expected the producer price index to rise <NUM> percent in june <COMMA> according to the dow jones survey <PUNC>
+core inflation was expected to rise <NUM> percent <PUNC>
+general electric co s stock ge fell in morning trading as the industrial conglomerate s in-line second quarter failed to inspire investors <COMMA> while its third quarter profit outlook came in below wall street expectations <PUNC>
+shares of mcdonald s mcd <COMMA> another dow member <COMMA> rose in early trading after the restaurant giant said second-quarter earnings should exceed wall street s target <PUNC>
+shares of hewlett-packard co. hpq gained <NUM> percent on media reports the computer and printer maker is set to announce a major restructuring plan as early as next week <PUNC>
+procter & gamble pg looks close to overcoming another hurdle in its bid to seal its purchase of gillette co. g after people close to the deal said european antitrust regulators are close to approving the acquisition <COMMA> with only minimum conditions <PUNC>
+<PAR>

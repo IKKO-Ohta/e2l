@@ -1,0 +1,4 @@
+u.s. stocks shifted around unchanged wednesday as wall street took a breather from recent volatility highlighted by 300-point swings on the dow to consider reduced odds of another federal reserve interest-rate cut in light of positive economic data that included a mild <COMMA> <NUM> percent rise in retail sales and benign wholesale inflation <PUNC>
+the tentative trade makes sense <COMMA> given tuesday s climb <COMMA> which had the dow making its biggest single-day jump in eight weeks <COMMA> said marc pado <COMMA> u.s. market strategist at cantor fitzgerald <PUNC>
+up more than <NUM> points early on <COMMA> the dow jones industrial average dji was more recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+<PAR>

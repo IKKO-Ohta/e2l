@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+within the dow industrials <COMMA> mcdonald s stock mcd rose <NUM> percent as the fast-food giant posted increases in both its total and same-store sales for august <COMMA> with its performance in the u.s. getting a lift from an enthusiastic response to its premium chicken sandwiches <COMMA> extended business hours and a robust breakfast business <PUNC>
+boeing co. ba rose <NUM> percent to dollar <NUM> on a wall street journal report it is a negotiating a settlement with the justice department in which it could be required to pay up to dollar <NUM> million but would avoid prosecution in two federal probes <PUNC>
+intel corp shares intc fell <NUM> percent to dollar <NUM> amid some disappointment the chip maker did not raise its sales outlook in its mid-quarter trading update after the bell thursday <PUNC>
+prior to the update <COMMA> the stock ran up a gain of <NUM> cents <PUNC>
+exxon mobil shares xom gained <NUM> percent to dollar <NUM> as the oil giant continued to benefit from high crude prices <PUNC>
+<PAR>

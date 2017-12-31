@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components traded in the red <COMMA> with general motors corp. fronting the dow s declines <COMMA> its stock down <NUM> percent <PUNC>
+financial stocks aig aig <COMMA> american express co. axp <COMMA> citigroup inc. c <COMMA> and j.p. morgan chase & co. jpm also weighed on the blue chips <PUNC>
+shares of merck & co. mrk <COMMA> also a dow component <COMMA> increased <NUM> percent <PUNC>
+the drugmaker backed its <NUM> earnings target and said it expects adjusted profit for <NUM> to be in a range of dollar <NUM> to dollar <NUM> a share <PUNC>
+analysts had been forecasting earnings of dollar <NUM> for <NUM> <PUNC>
+away from the dow <COMMA> nokia nok shares dropped <NUM> percent after the handset maker predicted margins for the next few years would be about in line with market expectations <PUNC>
+<PAR>

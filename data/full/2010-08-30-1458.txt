@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+hewlett-packard co. hpq was the blue-chip s biggest gainer <COMMA> up <NUM> percent after the technology titan announced a share-repurchase plan <PUNC>
+<PAR>
+some individual stocks rallied in the wake of corporate developments <COMMA> which had genzyme corp. genz rising after the company rejected sanofi-aventis sa s dollar <NUM> billion takeout offer <COMMA> while cogent inc. cogt climbed <NUM> percent on news that it will be purchased by 3m co. mmm <PUNC>
+<PAR>

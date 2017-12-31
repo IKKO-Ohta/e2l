@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+general electric ge shares fell <NUM> percent to dollar <NUM> after merrill lynch downgraded the diversified industrial group to neutral from buy <COMMA> saying the stock at dollar <NUM> a share was trading at its historic multiple to the broader market <PUNC>
+merrill still sees double-digit profit growing in the next couple of years but calls the shares essentially defensive in assigning a neutral rating <PUNC>
+fellow dow component <COMMA> home depot inc. hd fell <NUM> percent to dollar <NUM> after goldman sachs lowered its rating on the home improvement retailer to neutral from buy <COMMA> citing recent management departures <PUNC>
+the broker prefers rival lowe s cos. low <COMMA> which it upgraded to a buy <PUNC>
+lowe s shares were up <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+u.s. stocks climbed <COMMA> with the dow jones industrial average and the s&p <NUM> both closing at new highs <COMMA> after the release of federal reserve commentary cemented thinking of another interest-rate cut ahead <PUNC>
+the dow jones industrial average dji ended <NUM> points ahead <COMMA> at <NUM> <COMMA> a record close <COMMA> after hitting an all-time intraday high of <NUM> earlier on <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> closed in positive turf <PUNC>
+dow component alcoa aa advanced <NUM> percent ahead of its post-close results <COMMA> with the company expected to report a profit of <NUM> cents a share for the third quarter <COMMA> according to the average estimate of analysts who follow the aluminum producer <PUNC>
+on the broker front <COMMA> deutsche bank downgraded dow component coca-cola co. ko to hold from buy <COMMA> citing valuation <PUNC>
+shares of coca-cola closed <NUM> percent up <PUNC>
+<PAR>

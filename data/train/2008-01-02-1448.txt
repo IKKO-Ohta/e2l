@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <PUNC>
+shares of citigroup inc. c gained <NUM> percent after a punk <COMMA> ziegel & co. analyst advised clients to buy its stock <PUNC>
+on monday <COMMA> stocks fell amid worries about economic growth <COMMA> with the dow industrials losing <NUM> points <COMMA> the nasdaq composite shedding <NUM> points and the s&p <NUM> losing <NUM> points <PUNC>
+the credit crunch continued to take its toll <COMMA> with phh corp. phh <COMMA> a mount laurel <COMMA> n.j. <COMMA> provider of residential-mortgage and vehicle-fleet-management services <COMMA> saying it has called off its plan to be acquired by general electric co. s ge ge capital financing unit <COMMA> for dollar <NUM> billion <COMMA> or dollar <NUM> a share <PUNC>
+<PAR>

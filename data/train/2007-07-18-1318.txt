@@ -1,0 +1,10 @@
+u.s. stocks were set for a lower opening on wednesday <COMMA> a day after the dow jones industrial average first breached the key <NUM> level <COMMA> as woes from the subprime mortgage market resurfaced while earnings reports from intel corp. <COMMA> pfizer inc. <COMMA> and yahoo inc. <COMMA> disappointed investors <PUNC>
+futures for the dow jones industrial average dji were down <NUM> points at <NUM> <PUNC>
+among dow components <COMMA> intel intc <NUM> percent before the open <PUNC>
+the chip giant s second-quarter earnings were in line with analysts expectations <COMMA> but its profit margins fell short of the company s own targets <PUNC>
+pfizer inc. pfe dropped <NUM> percent in electronic trade <PUNC>
+the pharmaceutical firm posted a worse-than-forecast <NUM> percent decline in profits <PUNC>
+altria group inc. mo <COMMA> which posted a better-than-expected drop in earnings <COMMA> still fell <NUM> percent before the open <PUNC>
+and j.p. morgan chase jpm <COMMA> which posted a better-than-expected <NUM> percent rise in earnings <COMMA> also fell <NUM> percent <COMMA> amid broad weakness among brokerage stocks <PUNC>
+international business machines ibm <COMMA> a dow component <COMMA> and ebay ebay <COMMA> will also be in focus ahead of their earnings after the close <PUNC>
+<PAR>

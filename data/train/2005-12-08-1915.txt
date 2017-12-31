@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> after earlier gaining more than <NUM> points <PUNC>
+mcdonald s mcd <COMMA> a dow component <COMMA> was down <NUM> cent at dollar <NUM> <PUNC>
+the fast-food company said its global same-restaurant sales rose <NUM> percent in november <COMMA> citing its breakfast menu and extended hours <PUNC>
+however <COMMA> sales were flat in europe <PUNC>
+intel intc shares was up <NUM> cent at dollar <NUM> ahead of its late afternoon business update <PUNC>
+<PAR>

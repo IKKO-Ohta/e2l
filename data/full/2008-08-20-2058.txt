@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with <NUM> of its <NUM> components ending higher <PUNC>
+wednesday s gains followed a two-session slide for the dow and the broad market <PUNC>
+hewlett-packard hpq <COMMA> a blue-chip stock <COMMA> rose <NUM> percent after the company posted an <NUM> percent rise in profit and issued an earnings outlook that topped analyst estimates <PUNC>
+the dow s financial components still rebounded from early weakness <COMMA> with aig aig up <NUM> percent <COMMA> american express axp up <NUM> percent <COMMA> citigroup inc. c up <NUM> percent and j.p. morgan chase jpm up <NUM> percent <PUNC>
+<PAR>

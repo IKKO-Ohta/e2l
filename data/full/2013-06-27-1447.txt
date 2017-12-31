@@ -1,0 +1,2 @@
+the dow jones industrial average dji rallied <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with hewlett-packard co. hpq pacing gains that included all <NUM> of the blue-chip index s components <PUNC>
+<PAR>

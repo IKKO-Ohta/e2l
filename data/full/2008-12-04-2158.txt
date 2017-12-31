@@ -1,0 +1,10 @@
+after two days of gains <COMMA> the dow jones industrial average dji offered tepid rises only to lapse again <COMMA> piling up its losses as the session neared an end <PUNC>
+after rapidly falling more than <NUM> points <COMMA> the index recovered a bit to close down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+of the blue-chip index s <NUM> components <COMMA> <NUM> finished in the red <COMMA> with general motors corp. gm down the most <COMMA> falling <NUM> percent <PUNC>
+j.p. morgan chase jpm and mcdonald s corp. mcd proved the blue-chip index s biggest gainers <COMMA> both climbing more than <NUM> percent <PUNC>
+chemical giant dupont dd slashed its fourth-quarter earnings forecast and said it would dismiss <NUM> employees <PUNC>
+<PAR>
+at&t t also said it would cut <NUM> jobs <COMMA> or <NUM> percent of its workforce <COMMA> as it adjusts to a weakened economy <PUNC>
+<PAR>
+wal-mart stores inc. wmt proved the exception <COMMA> with sales last month up <NUM> percent at the discount retailer as lower gasoline prices boosted consumers discretionary spending <PUNC>
+<PAR>

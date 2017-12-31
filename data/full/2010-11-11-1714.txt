@@ -1,0 +1,3 @@
+after an opening drop of <NUM> points <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
+shares of tech giant cisco csco tumbled <NUM> percent <COMMA> on pace for their worst one-day performance in <NUM> years <PUNC>
+<PAR>

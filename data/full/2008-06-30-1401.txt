@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components <COMMA> in positive territory <PUNC>
+after falling more than <NUM> points on thursday an extending losses on friday <COMMA> the dow finished last week <NUM> percent lower at <NUM> <PUNC>
+the closely tracked average is down nearly <NUM> percent on the month <COMMA> which would mark its biggest june fall since <NUM> <PUNC>
+worse still <COMMA> the dow has now lost nearly <NUM> percent since its oct. <NUM> <COMMA> <NUM> <COMMA> record high of <NUM> <PUNC>
+a <NUM> percent drop typically signifies the start of a bear market <PUNC>
+<PAR>

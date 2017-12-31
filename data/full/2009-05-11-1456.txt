@@ -1,0 +1,4 @@
+on monday <COMMA> energy and financial shares fronted the losses as investors retreated from last week s solid advance <PUNC>
+at 10:40 a.m. eastern <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx shed <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf pulled fractionally higher to stand at <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with bank of america corp. bac leading the declines that included all but three of the index s <NUM> components <PUNC>
+<PAR>

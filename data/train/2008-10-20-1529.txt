@@ -1,0 +1,5 @@
+off earlier highs <COMMA> the dow jones industrial average dji was lately up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+oil giants chevron corp. cvx and exxon mobil corp. xom led the gainers <COMMA> up <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
+also bolstering the dow <COMMA> shares of general motors corp. gm gained <NUM> percent amid varying reports on the status of talks between the auto maker and chrysler <PUNC>
+on friday <COMMA> u.s. stocks slipped <COMMA> with the dow jones industrial average falling <NUM> points <COMMA> the nasdaq composite dropping <NUM> points and the s&p <NUM> losing <NUM> points <PUNC>
+<PAR>

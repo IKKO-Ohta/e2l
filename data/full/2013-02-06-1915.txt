@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in recent activity <COMMA> with <NUM> out of <NUM> components gaining <COMMA> after being down as much as <NUM> points and as much as <NUM> points higher earlier <PUNC>
+shares of walt disney co. dis rose more than <NUM> percent following the media conglomerate s earnings late tuesday <PUNC>
+hewlett-packard co. hpq added <NUM> percent after a media report said tuesday that h-p s board is studying a breakup of the technology company <PUNC>
+<PAR>

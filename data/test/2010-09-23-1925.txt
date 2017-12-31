@@ -1,0 +1,2 @@
+after a mild rise <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with all but four of its <NUM> components declining <PUNC>
+<PAR>

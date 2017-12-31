@@ -1,0 +1,10 @@
+both the dow jones industrial average and the dow jones transportation average topped their january highs on friday <COMMA> a bullish signal for the market for followers of the more-than-a-century-old dow theory <PUNC>
+the dow industrials dji had actually already topped its january highs back in july <COMMA> but its transportation counterpart only caught up on friday <COMMA> after the better-than-expected july jobs report <PUNC>
+according to the dow theory <COMMA> this signals a new primary uptrend and is a bullish indicator for the market <COMMA> said mary ann bartels <COMMA> technical research analyst at bank of america-merrill lynch <COMMA> in a note <PUNC>
+for followers of the theory <COMMA> therefore <COMMA> gains in the dow industrials should be matched by those on the transportation average <PUNC>
+on friday <COMMA> the dow transports djt closed at <NUM> <COMMA> topping its january <NUM> closing high of <NUM> <PUNC>
+the dow industrials closed at <NUM> <COMMA> also above its january closing high of <NUM> <PUNC>
+the dow industrials fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the dow transports fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+since july <NUM> <COMMA> when the dow industrials first broke through their january highs <COMMA> raymond james market strategist jeffrey saut had warned that should the transports fail to follow suit <COMMA> it would create a giant upside non-confirmation <COMMA> that is <COMMA> a reason to turn bearish <PUNC>
+<PAR>

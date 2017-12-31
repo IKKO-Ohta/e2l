@@ -1,0 +1,4 @@
+the dow jones industrial average dji added <NUM> points to <NUM> <PUNC>
+the nasdaq composite index rixf climbed <NUM> points to <NUM> <PUNC>
+saut recommends investors consider buying the following yield-oriented shares <PUNC> allstate corp. all <COMMA> automatic data processing inc. adp <COMMA> chevron corp. cvx <COMMA> digital realty trust inc. dlr <COMMA> republic services inc. rsg and inergy lp nrgy <PUNC>
+<PAR>

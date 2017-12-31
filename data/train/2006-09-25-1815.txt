@@ -1,0 +1,8 @@
+meanwhile <COMMA> altria group inc. mo shares sank as the company and other tobacco makers faced a fresh lawsuit alleging they minimized the dangers of cigarette smoking by branding some of their products as light or low tar <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+of the <NUM> components <COMMA> <NUM> contributed to gains <PUNC>
+dow component altria group inc. mo fell <NUM> percent to dollar <NUM> after a federal <PUNC>
+hewlett-packard co. hpq rose <NUM> percent to dollar <NUM> after chief executive officer mark hurd said late friday he would immediately assume the role of chairman after chairwoman patricia dunn resigned from the board over a spying scandal <PUNC>
+dunn had already said she would be stepping down as chairwoman <COMMA> but not until january <NUM> <PUNC>
+the company s stock has lost about <NUM> percent of its value since late last week when wal-mart stores inc. wmt said it would slash prices on hundreds of generic drugs <PUNC>
+<PAR>

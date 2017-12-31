@@ -1,0 +1,7 @@
+the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> as the blue-chip barometer achieved a <NUM> percent gain for the week <PUNC>
+the nasdaq composite rixf finished up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the tech-heavy index climbed <NUM> percent for the week <PUNC>
+movers & shakers <PUNC> procter & gamble pg shares climbed <NUM> percent for one of the best performances among dow components <PUNC>
+the consumer-goods heavyweight said it plans to get out of its duracell battery business and posted adjusted quarterly earnings that matched expectations <PUNC>
+microsoft corp. msft <COMMA> the dow s biggest gainer on friday <COMMA> picked up <NUM> percent after the tech titan posted quarterly profit and revenue that topped forecasts <PUNC>
+<PAR>

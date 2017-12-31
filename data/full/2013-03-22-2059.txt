@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> with seven of its <NUM> components in negative terrain <COMMA> for a weekly loss of less than <NUM> percent <PUNC>
+the dow snapped a four-week winning streak <PUNC>
+shares of hewlett-packard co. hpq led the charge higher friday <COMMA> finishing up <NUM> percent for the day <PUNC>
+<PAR>

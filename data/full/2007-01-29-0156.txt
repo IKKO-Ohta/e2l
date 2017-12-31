@@ -1,0 +1,8 @@
+exxon mobil xom is expected by analysts polled by thomson financial to report a <NUM> percent fall in fourth-quarter profit to dollar <NUM> per share on revenue of dollar <NUM> billion <PUNC>
+a decline in earnings would reflect the pressure of lower commodity prices and a rise in exploration costs for the oil industry <PUNC>
+results from p&g pg <COMMA> the world s largest consumer-products company <COMMA> are due tuesday <PUNC>
+analysts are looking for earnings of <NUM> cents a share on sales of dollar <NUM> billion <COMMA> up from last year s earnings of <NUM> cents a share on sales of dollar <NUM> billion <PUNC>
+its sales will likely benefit from weakness in the u.s. dollar <PUNC>
+this week <COMMA> better-than-expected results from microsoft corp. msft <COMMA> ebay inc. ebay <COMMA> and texas instruments inc. txn helped investors regain some confidence in the tech sector <COMMA> whose leadership role in the market since the start of the year began to hit bumps after disappointing forecasts from apple inc. and international business machines ibm two weeks ago <PUNC>
+but concerns about future interest rate hikes left the dow jones industrial average dji down <NUM> points at <NUM> and the s&p <NUM> down about <NUM> points at <NUM> <PUNC>
+<PAR>

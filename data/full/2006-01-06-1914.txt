@@ -1,0 +1,9 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+the benchmark index is on track to post a weekly gain of around <NUM> percent <PUNC>
+shares in microsoft corp. msft slipped <NUM> cents to dollar <NUM> after credit suisse first boston downgraded the computer software giant to neutral from outperform <COMMA> saying the stock is unlikely to outperform its peers in <NUM> <PUNC>
+wal-mart stores inc. wmt was lower for a second straight session <COMMA> down <NUM> percent at dollar <NUM> <COMMA> as the repercussions over its disappointing fourth-quarter profit outlook continued to reverberate <PUNC>
+exxon mobil corp. xom jumped <NUM> cents to dollar <NUM> on the rise in crude <PUNC>
+separately <COMMA> yahoo inc. unveiled a suite of services for mobile phones <COMMA> tv and desktop applications <PUNC>
+yahoo go <COMMA> as the product offering will be known <COMMA> will allow consumers direct access to yahoo content <PUNC>
+the company will be working with at&t t <COMMA> cingular wireless <COMMA> nokia corp nok and motorola mot to launch the service <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to stand at <NUM> <COMMA> with <NUM> of its <NUM> components sliding into the red <PUNC>
+u.s. equities on monday declined <COMMA> bringing to an end a three-session winning streak <COMMA> with the dow shedding <NUM> points to <NUM> <COMMA> off nearly <NUM> percent from its record close hit on oct. <NUM> <COMMA> <NUM> <PUNC>
+the s&p <NUM> and the nasdaq composite both gave up <NUM> points <PUNC>
+<PAR>

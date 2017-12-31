@@ -1,0 +1,4 @@
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent to <NUM> but was <NUM> percent lower over the week <PUNC>
+the s&p <NUM> spx closed down <NUM> point at <NUM> <COMMA> and finished the week with a <NUM> percent loss <PUNC>
+both indexes were down for the second week <COMMA> the first series of such losses since early october <PUNC>
+<PAR>

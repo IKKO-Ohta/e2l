@@ -1,0 +1,3 @@
+after a triple-digit slide and brief stab at turning positive <COMMA> the dow jones industrial average dji finished at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <PUNC>
+twenty-five of the dow s <NUM> components posted declines <COMMA> with citigroup inc. c proving to be the heaviest weight <COMMA> its shares falling <NUM> percent <PUNC>
+<PAR>

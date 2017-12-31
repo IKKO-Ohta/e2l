@@ -1,0 +1,2 @@
+off about <NUM> points from its session high <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <PUNC>
+<PAR>

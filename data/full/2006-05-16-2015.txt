@@ -1,0 +1,11 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> and has seesawed around the flat line throughout the session <PUNC>
+retailers rlx were one of the most notable decliners as investors digested mixed earnings reports from wal-mart stores wmt and home depot <PUNC>
+hd <PUNC>
+wal-mart stores wmt tacked on <NUM> percent to dollar <NUM> <PUNC>
+the retail giant had a stronger-than-expected <NUM> percent increase in first-quarter profit on sales <COMMA> in line with wall street s consensus estimate <PUNC>
+the company attributed its strong performance to keeping inventory in check and to its new-fashioned merchandise <PUNC>
+home depot inc hd shares fell <NUM> percent to a three-month low of dollar <NUM> as the home improvement retailer s reported a <NUM> percent increase in first-quarter profit <COMMA> but sales fell short of analyst expectations <PUNC>
+chief executive bob nardelli blamed bad weather and <PUNC>
+hewlett-packard co. s shares hpq were off <NUM> percent in afternoon trading <PUNC>
+the company is set to report sharply higher quarterly earnings and sales after the market closes on expectations it has boosted its share of the market for consumer electronics as well as its mainstay business in personal computers <PUNC>
+<PAR>

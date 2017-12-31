@@ -1,0 +1,8 @@
+stocks are coming off another rough week with the dow jones industrial average dji off <NUM> percent <COMMA> the s&p <NUM> index spx down <NUM> percent <COMMA> and the nasdaq composite index rixf sliding <NUM> percent <PUNC>
+in the financial sector <PUNC> j.p. morgan chase & co. jpm <COMMA> wells fargo & co. wfc <COMMA> and citigroup inc. c report on tuesday <PUNC>
+bank of america corp. bac <COMMA> american express co. axp <COMMA> and blackrock inc. blk post results on wednesday <PUNC>
+on thursday <COMMA> goldman sachs group inc. gs reports <COMMA> with morgan stanley ms on friday <PUNC>
+big tech names reporting include intel corp. intc on tuesday <COMMA> netflix inc. nflx and ebay inc. ebay on wednesday <COMMA> and google inc. goog on thursday <PUNC>
+in health care-related stocks johnson & johnson inc. jnj reports tuesday <COMMA> and unitedhealth group inc. unh reports thursday <PUNC>
+capping the week for dow components <COMMA> general electric co. ge reports friday <PUNC>
+<PAR>

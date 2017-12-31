@@ -1,0 +1,2 @@
+after starting higher <COMMA> the dow jones industrial average dji slid <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components losing ground <PUNC>
+<PAR>

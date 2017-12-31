@@ -1,0 +1,12 @@
+u.s. stocks traded higher thursday <COMMA> with the dow jones industrial average seeing triple-digit gains <COMMA> bolstered by the likes of general motors corp. <COMMA> which drew an analyst upgrade <COMMA> and mcdonald s corp. <COMMA> which doubled its anticipated dividend <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by gm gm <PUNC>
+pharmaceutical stocks continued their recent gains <COMMA> with merck & co. mrk drawing support after an upgrade by banc of america to buy from neutral <PUNC>
+the blue-chip stock climbed <NUM> percent . <PUNC>
+on wednesday <COMMA> wall street saw a mixed finish <COMMA> with the dow industrials down <NUM> points and the s&p <NUM> off <NUM> points <PUNC>
+the nasdaq composite ended fractionally higher <PUNC>
+shares of mcdonald s mcd climbed <NUM> percent <PUNC>
+the fast-food giant late wednesday raised by <NUM> percent its cash dividend for common shareholders. <PUNC>
+microsoft corp. msft saw more modest gains as the software goliath lifted its quarterly dividend by a penny <COMMA> to <NUM> cents a share <PUNC>
+shares of microsoft rose <NUM> percent <PUNC>
+outside the dow <COMMA> target corp. tgt gained <NUM> percent after the discount retailer said it had hired banking advisors to explore a possible sale of dollar <NUM> billion in credit-card receivables <PUNC>
+<PAR>

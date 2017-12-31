@@ -1,0 +1,9 @@
+the dow jones industrial average dji finished with a gain of <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> on friday <PUNC>
+it was the blue-chip index s best day in more than two weeks <PUNC>
+walt disney co. dis and boeing co. ba showed the largest gains among dow components <COMMA> rising <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
+for the week <COMMA> however <COMMA> the dow fell <NUM> percent <PUNC>
+this was the second straight week of losses for both the dow and s&p <NUM> <PUNC>
+the nasdaq composite rixf closed up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the tech-heavy index scored a weekly gain of <NUM> percent <COMMA> helped by microsoft msft advancing <NUM> percent for the week <PUNC>
+it was the nasdaq s fifth straight up week <COMMA> as it trades near levels last seen in september <NUM> <PUNC>
+<PAR>

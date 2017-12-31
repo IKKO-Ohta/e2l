@@ -1,0 +1,9 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the measure was weighed down by kraft foods inc. kft <COMMA> which fell <NUM> percent <PUNC>
+the food giant posted an <NUM> percent decline in third-quarter profit as higher taxes <COMMA> jumps in advertising spending and costs for integrating cadbury weighed on its shares <PUNC>
+also <COMMA> starbucks corp. sbux plans to discontinue its arrangement to use kraft as a distributor for its coffee products <PUNC>
+the small gains on friday <COMMA> which represents the 100-year anniversary of the drafting of legislation for the creation of the federal reserve <COMMA> came at the conclusion of a strong week that saw the dow surge to its highest level since early september <NUM> <COMMA> prior to the collapse of lehman brothers <PUNC>
+the dow climbed <NUM> percent during the week <COMMA> while the s&p <NUM> rose <NUM> percent over the period <PUNC>
+the financial sector was the strongest on reports that the fed is poised to allow healthy banks to increase dividend payments for the first time since the financial crisis <COMMA> an anxiously awaited set of instructions that could provide a boost to bank stocks <PUNC>
+bank of america corp. bac shares rose <NUM> percent while j.p. morgan chase & co. shares jpm climbed <NUM> percent <PUNC>
+<PAR>

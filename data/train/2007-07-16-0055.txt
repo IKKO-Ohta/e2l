@@ -1,0 +1,11 @@
+new york dow jones u.s. stocks will edge higher next week <COMMA> continuing a rally that sent the dow jones industrial average surging to record highs <COMMA> as earnings kicks into high-gear with11 blue chips including coca-cola co. and intel corp. slated to report quarterly results <PUNC>
+malone said he will particularly watch out for a number of financial companies posting earnings next week <COMMA> including merrill lynch & co. mer <COMMA> and jp morgan chase & co. jpm <PUNC>
+u.s. stocks surged to record highs last week <COMMA> with the dow industrials dji closing in on the <NUM> level <PUNC>
+the dow gained <NUM> percent for the week as investors actively sought the stock of industrials and multinationals <PUNC>
+ge is a good proxy for some of the economically sensitive companies <COMMA> fitzpatrick said of general electric co. ge <COMMA> which on friday reported a <NUM> percent hike in second-quarter earnings <PUNC>
+the economy also slowed to <NUM> percent in the first quarter <COMMA> but investors remain optimistic that global growth will help multinational companies <COMMA> which are heavily represented on the dow industrials <COMMA> to continue fueling earnings growth <PUNC>
+the second week of earnings season will feature dow components including coca-cola ko <COMMA> intel corporation intc and johnson and johnson jnj on tuesday <PUNC>
+on wednesday <COMMA> jp morgan chase jpm <COMMA> united technologies utx <COMMA> altria group mo and pfizer pfe will report <PUNC>
+honeywell international inc hon and microsoft corp. msft are due to report on thursday and citigroup c and caterpillar cat on friday <PUNC>
+away from the dow <COMMA> yahoo inc. s results yhoo will also be closely watched <PUNC>
+<PAR>

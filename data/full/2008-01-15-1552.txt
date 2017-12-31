@@ -1,0 +1,5 @@
+the dow industrial average dji <COMMA> which has shed about <NUM> percent of its value since the year began <COMMA> was down <NUM> points over <NUM> percent at <NUM> in midmorning trade <PUNC>
+financials paved the way as all but one of the dow s <NUM> components traded lower <PUNC>
+citigroup c shares fell <NUM> percent <PUNC> j.p. morgan chase jpm shares declined <NUM> percent and american express co. axp dropped <NUM> percent <PUNC>
+u.s. stocks had rallied monday <COMMA> with the dow chalking up its largest gain yet this year <COMMA> as an oversold market cheered solid results from international business machines corp. ibm <PUNC>
+<PAR>

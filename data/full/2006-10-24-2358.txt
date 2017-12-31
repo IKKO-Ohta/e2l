@@ -1,0 +1,9 @@
+new york dow jones u.s. stocks closed mixed tuesday <COMMA> with investors awaiting an upcoming federal reserve decision on interest rates <COMMA> as the dow jones industrial average set a new closing high amid strong gains for its components dupont <COMMA> general motors and honeywell inc <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <COMMA> reaching yet another record <PUNC>
+limiting the dow s rise <COMMA> altria group inc. mo declined a day ahead of the release of its quarterly results <PUNC>
+in a note to clients <COMMA> morgan stanley said it is highly unlikely the company will use its earnings as a forum to announce the spin-off of its stake in kraft foods inc. kft <PUNC>
+on the dow <COMMA> shares of dupont dd rose <NUM> percent to dollar <NUM> after the chemical giant s third-quarter earnings topped wall street expectations <COMMA> with results benefiting from higher sales volume and lower fixed costs <PUNC>
+fellow dow component pfizer inc. pfe fell about <NUM> percent to dollar <NUM> after ubs downgraded the pharmaceutical group to neutral from buy <COMMA> citing a number of setbacks including the further delay in the u.s. launch of its diabetes drug exubera <COMMA> uncertainty over a food and drug administration filing for asenapine <COMMA> a treatment for bipolar disorder <COMMA> as well as pricing pressures and access challenges in the european union <PUNC>
+there were sharp gains for auto makers general motors gm <COMMA> which rose <NUM> percent <PUNC>
+and ford motor inc. f <COMMA> which closed up <NUM> percent <PUNC>
+<PAR>

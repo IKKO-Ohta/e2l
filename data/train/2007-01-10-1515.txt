@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+general motors corp. gm <COMMA> which rose strongly over the past two sessions amid enthusiasm over its new electric vehicles <COMMA> was down <NUM> percent <COMMA> the biggest loss among blue chips <PUNC>
+ibm ibm was down <NUM> percent <COMMA> after ag edwards downgraded the stock <PUNC>
+alcoa inc. aa was the biggest gainer <COMMA> rising <NUM> percent after it posted better than expected earnings after the close on tuesday <PUNC>
+and in a now familiar pattern <COMMA> exxon mobil corp. xom fell <NUM> % as crude oil prices continued to slide <COMMA> with a barrel recently losing <NUM> cents <COMMA> or <NUM> percent <COMMA> to dollar <NUM> <PUNC>
+news that crude inventories rose in the latest week added to the downside <PUNC>
+<PAR>

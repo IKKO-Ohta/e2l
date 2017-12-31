@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components advancing <COMMA> including caterpillar inc. cat <COMMA> at&t inc. t <COMMA> verizon communications vz and exxon mobil corp. xom <PUNC>
+leading the gains among blue chips <COMMA> alcoa inc. aa rose <NUM> percent after announcing late thursday it will withdraw its bid for alcan inc. in light of rio tinto s higher offer <PUNC>
+alcoa could also become the center of a bidding war <PUNC>
+general electric co. ge rose <NUM> percent <PUNC>
+the conglomerate reported in-line earnings and also announced that it is exiting its u.s. subprime mortgage business <PUNC>
+on thursday the market staged a major rally that sent the dow jones industrials to a new record high and put the average within striking distance of the <NUM> mark <PUNC>
+the average posted biggest percentage gain in nearly four years <PUNC>
+<PAR>

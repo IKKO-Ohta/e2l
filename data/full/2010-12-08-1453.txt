@@ -1,0 +1,2 @@
+the dow jones industrial average dji added <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the dow jones industrial average dji was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and had fallen as low as <NUM> <PUNC>
+all <NUM> of its components were in the red <COMMA> led by alcoa aa <COMMA> which dropped <NUM> percent <COMMA> and caterpillar cat <COMMA> which fell <NUM> percent <PUNC>
+this is an interesting twist <COMMA> and we don t know whether this will be just a blip or a big concern <COMMA> said deborah danielson <COMMA> president of danielson financial group <PUNC>
+she added that <COMMA> as of wednesday s close <COMMA> when the dow hit a new 13-month closing high <COMMA> everything seemed to be pretty much ok and better than expected <PUNC>
+on wall street <COMMA> chevron cvx and exxon mobil xom were among the energy stocks that fell <COMMA> while ak steel aks and freeport-mcmoran copper & gold fcx were among the metals decliners <PUNC>
+according to data from the federal energy information administration <COMMA> the united arab emirates was the world s eighth-largest oil producer in <NUM> <PUNC>
+it is also believed to hold a sizable official reserve of gold <PUNC>
+<PAR>

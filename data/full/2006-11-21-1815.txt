@@ -1,0 +1,9 @@
+u.s. stocks were slightly higher in afternoon trade tuesday with gains by boeing co. providing support for the dow jones industrial average and helping offset the impact of higher crude prices and light volumes ahead of thursday s thanksgiving holiday <PUNC>
+the dow industrials dji was last up <NUM> points at <NUM> <PUNC>
+dow component boeing co. ba rose <NUM> percent to dollar <NUM> after winning a dollar <NUM> billion order for <NUM> planes from korean air co <PUNC>
+aig aig <COMMA> another dow component <COMMA> lost <NUM> cents to dollar <NUM> <PUNC>
+it had opened higher after banc of america initiated coverage of the insurer s stock with a buy rating and an dollar <NUM> price target <PUNC>
+among other blue chips <COMMA> general motors corp. gm and intel corp. intc both lost over <NUM> percent <PUNC>
+on monday u.s. stocks closed mixed <COMMA> with the dow snapping a six-day winning streak <PUNC>
+verizon communications vz rose <NUM> percent to dollar <NUM> after being upgraded to outperform from neutral at credit suisse <COMMA> which cited the belief that the company was setting itself up for earnings growth as dilution from its fios internet service reaches its peak <PUNC>
+<PAR>

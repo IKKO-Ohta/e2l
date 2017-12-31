@@ -1,0 +1,6 @@
+the dow jones industrial average dji solidified its gains after a volatile morning session <COMMA> rising <NUM> points to end at <NUM> <PUNC>
+the blue-chip index closed march with a slight monthly gain of <NUM> percent <COMMA> but down <NUM> percent for the quarter <COMMA> its second consecutive quarterly decline <PUNC>
+of the dow s <NUM> components <COMMA> all but five closed with gains <COMMA> with financials fronting the advance <COMMA> with citigroup c up <NUM> percent after the banking giant unveiled a restructuring of its global business into four regional units <COMMA> and said that it would break out its credit-card business from its broader consumer-banking segment <PUNC>
+<PAR>
+losses on the blue-chip index were led by merck & co. mrk <COMMA> off <NUM> percent <COMMA> as both its shares and shares of schering-plough corp. sgp were hit after data showed their drug vytorin to be no more effective in treating heart disease than less-costly generic alternatives <PUNC>
+<PAR>

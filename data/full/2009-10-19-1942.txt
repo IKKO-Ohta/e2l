@@ -1,0 +1,8 @@
+a like trend could be found in looking at the <NUM> components on the dow jones industrial average dji <COMMA> according to nicholas colas <COMMA> chief market strategist <COMMA> bny convergex group <PUNC>
+in looking to the fourth quarter of <NUM> <COMMA> the dow <NUM> stocks are now expected to show a <NUM> percent improvement on average <COMMA> with non-financial firms tallying a <NUM> percent increase <COMMA> colas said <PUNC>
+it is no exaggeration to say that the dow s recent rally to the <NUM> mark was in large part driven by this shift in expectations <COMMA> said colas <PUNC>
+on monday <COMMA> energy and utilities paced the broad-market gains as stocks turned solidly higher after indecisive trade earlier on <PUNC>
+the dow industrials rose <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index gained <NUM> points to <NUM> <COMMA> while the nasdaq composite index rixf added <NUM> points to <NUM> <PUNC>
+last week <COMMA> j.p. morgan chase & co. jpm <COMMA> citigroup inc. c and goldman sachs group inc. gs all came through with positive earnings surprises <COMMA> while bank of america corp. bac disappointed <PUNC>
+<PAR>

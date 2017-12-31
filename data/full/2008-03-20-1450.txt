@@ -1,0 +1,4 @@
+the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+blue-chip gains were led by financials <COMMA> with american express co. axp and citigroup inc. c both up <NUM> percent <PUNC>
+shares of j.p. morgan chase & co. jpm advanced <NUM> percent and american international group inc. aig rose <NUM> percent <PUNC>
+<PAR>

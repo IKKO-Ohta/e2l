@@ -1,0 +1,12 @@
+the u.s. stock market will try to reclaim its footing in the week ahead after a shellacking that brought the dow jones industrial average back to its lowest level since the midterm elections <PUNC>
+on friday <COMMA> the dow dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving the blue chips down <NUM> percent for the week <PUNC>
+the nasdaq was especially hard hit by cisco systems inc. s csco disappointing outlook <COMMA> with investors trying to gauge the implications of the forecast from the industry bellwether <PUNC>
+the dow <COMMA> the dow transports djt <COMMA> the nasdaq and the russell <NUM> index rut have all broken above their spring <NUM> highs in recent weeks <COMMA> sheldon commented <PUNC>
+volume has picked up <COMMA> and there s been a significant increase in the number of new 52-week highs as the market headed higher in november <PUNC>
+the one fly in the ointment is sentiment has gotten a bit rich <COMMA> and may have gotten ahead of itself <PUNC>
+monday brings a trio of retailers <PUNC> nordstrom inc. jwn <COMMA> lowe s companies inc. low and urban outfitters inc. urbn <COMMA> while tuesday s calendar includes dow stocks home depot inc. hd and wal-mart stores inc. wmt <COMMA> along with abercrombie & fitch co. anf <COMMA> jacobs engineering group inc. jec and tjx companies inc. tjx <PUNC>
+<NUM> <PUNC>
+cisco systems inc. csco <COMMA> off <NUM> percent <PUNC>
+<NUM> <PUNC>
+boeing co. ba <COMMA> off <NUM> percent <PUNC>
+<PAR>

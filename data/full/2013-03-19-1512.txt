@@ -1,0 +1,3 @@
+the fed s ongoing bond purchases are seen as a primary contributor to wall street s advance <COMMA> which had the dow jones industrial average dji rising to a record-high close last week and the s&p <NUM> spx up <NUM> percent so far this year <PUNC>
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with bank of america corp. bac leading gains among <NUM> of the index s <NUM> components <PUNC>
+<PAR>

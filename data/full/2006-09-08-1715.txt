@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+if the market were to close at current levels <COMMA> the dow industrials would log a loss of <NUM> percent for the week <PUNC>
+the nasdaq composite would post a weekly loss of about <NUM> percent while the s&p <NUM> would be off about <NUM> percent <PUNC>
+<PAR>

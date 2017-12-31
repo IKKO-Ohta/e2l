@@ -1,0 +1,5 @@
+the u.s. stock market s fall on thursday had investors steering clear of three-month intraday lows tested earlier in the week <COMMA> with the bear-market bottom called by some in november holding for now yet in the final hour of trading <COMMA> the dow jones industrial average readied for its lowest close since october <COMMA> <NUM> <PUNC>
+the dow jones industrial average dji on thursday wavered between positive and negative territory <COMMA> but fell to session lows with the trading session in its final hour <PUNC>
+the dow was lately off <NUM> points at <NUM> <COMMA> with the blue-chip on track to its lowest close since october <NUM> <PUNC>
+while the dow and s&p broke their mid-january lows earlier in the week <COMMA> the nasdaq offered an encouraging sign by holding above its comparable level <COMMA> according to marc pado <COMMA> u.s. market strategist at cantor fitzgerald <PUNC>
+<PAR>

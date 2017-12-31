@@ -1,0 +1,10 @@
+u.s. stocks closed higher thursday <COMMA> with the dow jones industrial average setting another record high <COMMA> bolstered by a caterpillar inc. share buyback and merger news <COMMA> and by remarks from federal reserve chairman ben bernanke that lifted investors confidence in the economy <PUNC>
+the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> a new closing high but off an intraday record of <NUM> <PUNC>
+thursday was the second consecutive day that the average took a new closing record <PUNC>
+the dow was lifted by only <NUM> of its <NUM> components <PUNC>
+leading the dow s gains <COMMA> caterpillar cat rose <NUM> percent after its board announced a dollar <NUM> billion stock-repurchase plan <PUNC>
+fellow blue chip microsoft corp. msft rose <NUM> percent <COMMA> as the company conducted a meeting on strategic direction with wall street analysts <PUNC>
+the report cited major firms such as powerhouses merrill lynch & co. mer and j.p. morgan chase & co. jpm <COMMA> as well as hsbc holdings plc hbc <COMMA> which spooked the market last week when it issued a profit warning due to bad loans <PUNC>
+conversely <COMMA> energy shares including exxon mobil corp. xom <COMMA> marathon oil corp. mro and occidental petroleum corp. oxy were under pressure <PUNC>
+and in the oil-services sector <COMMA> baker hughes inc. bhi skidded <NUM> percent after reporting a slower-than-forecast rise in fourth-quarter net income <PUNC>
+<PAR>

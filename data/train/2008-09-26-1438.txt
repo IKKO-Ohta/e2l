@@ -1,0 +1,6 @@
+after dropping more than <NUM> points at the start <COMMA> the dow jones industrial average dji at last check was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+blue-chip declines were fronted by american express co. axp <COMMA> off <NUM> percent <PUNC>
+given the dow s recent triple-digit moves <COMMA> mostly to the downside <COMMA> the current session decline appeared modest in contrast <PUNC>
+on thursday <COMMA> word that a tentative bailout deal had been reached unleashed a full-scale stock rally <COMMA> with the dow closing nearly <NUM> points higher and breaking a three-day losing streak <PUNC>
+adding urgency to the financial sector s dire straits was the move on washington mutual wm <COMMA> with regulators seizing and then selling the bank to j.p. morgan chase & co. jpm for dollar <NUM> billion <PUNC>
+<PAR>

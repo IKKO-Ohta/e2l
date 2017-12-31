@@ -1,0 +1,4 @@
+the u.s. stock market rose in may by the most in three months <COMMA> sending both the s&p <NUM> and the dow jones industrial average to record levels <PUNC>
+but it s hard to side-step a trend <COMMA> stovall also notes <COMMA> and the trend is up <PUNC>
+the s&p <NUM> spx closed at a record level for the 14th time this year on friday <COMMA> and the dow jones industrial average dji also closed at an all-time high <COMMA> its fifth record close this year <PUNC>
+<PAR>

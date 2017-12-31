@@ -1,0 +1,5 @@
+the dow jones industrial average snapped a four-day winning streak on thursday <COMMA> after the federal reserve made official its plans to end the last round of its recession-era stimulus program <PUNC>
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+the nasdaq composite index <COMMA> which was already under pressure from internet stocks rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+meanwhile <COMMA> the dow industrials dji ended down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+<PAR>

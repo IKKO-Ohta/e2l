@@ -1,0 +1,11 @@
+new york dow jones u.s. stocks closed higher thursday <COMMA> as strength in technology <COMMA> energy and metals shares helped the dow jones industrial average gain ground for the sixth consecutive session <PUNC>
+the dow dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> taking the benchmark index to a three-month high <PUNC>
+not since december <NUM> has the blue-chip average had such a long winning streak <PUNC>
+within the dow <COMMA> shares of alcoa inc. aa rose <NUM> percent <COMMA> buoyed by broad strength in the metals markets <PUNC>
+shares of general motors corp. gm fell <NUM> percent after reports that the united auto workers would resist making health-care concessions <PUNC>
+pfizer pfe gained <NUM> percent in the wake of its dollar <NUM> billion offer for vicuron pharmaceuticals <PUNC>
+micu <PUNC>
+after two days of solid gains <COMMA> shares of general motors gm slid amid concern about the carmaker s efforts to impose cutbacks on health-care benefits <PUNC>
+pfizer inc. pfe shares edged higher after the drug giant said it would acquire vicuron pharmaceuticals inc. micu for dollar <NUM> billion in cash in a bid to boost its antibiotics research capabilities <PUNC>
+vicuron s stock jumped dollar <NUM> <COMMA> or <NUM> percent <COMMA> to dollar <NUM> <PUNC>
+<PAR>

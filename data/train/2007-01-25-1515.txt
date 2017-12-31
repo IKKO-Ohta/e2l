@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
+among blue-chips <COMMA> at&t t rose <NUM> percent after its earnings topped analysts forecasts.but microsoft corp. msft dropped fractionally ahead of its earnings report after the close of trading <PUNC>
+on wednesday stocks closed with broad gains <COMMA> allowing the dow industrials to achieve a new record close and the s&p <NUM> to finish at its best level in more than <NUM> years <COMMA> amid upbeat news from yahoo inc. yhoo and sun microsystems inc. sunw <PUNC>
+<PAR>

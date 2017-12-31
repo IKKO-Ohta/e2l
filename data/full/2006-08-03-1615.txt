@@ -1,0 +1,8 @@
+the dow jones industrial average dji threw off opening weakness to trade about <NUM> points higher at <NUM> <PUNC>
+dow component wal-mart stores wmt stock was <NUM> percent higher at dollar <NUM> <PUNC>
+the retailer s july same-store sales rose <NUM> percent <COMMA> in line with its own prediction and outstripping the forecasts of wall street analysts polled by thomson first call <PUNC>
+ford motor co. f dropped <NUM> percent to dollar <NUM> <PUNC>
+late wednesday the auto maker doubled its previously reported second-quarter loss <PUNC>
+rival general motors corp gm <COMMA> a dow component <COMMA> was down <NUM> percent at dollar <NUM> <PUNC>
+international business machines corp. ibm <COMMA> also in the dow <COMMA> was <NUM> cents lower at dollar <NUM> after announcing it will buy mro software inc. mroi for dollar <NUM> million <PUNC>
+<PAR>

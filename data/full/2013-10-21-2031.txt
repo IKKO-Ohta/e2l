@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or less than <NUM> percent <COMMA> to <NUM> <PUNC>
+mcdonald s corp. mcd fell <NUM> percent after the fast-food chain reported sales below expectations <PUNC>
+another dow component <COMMA> at&t inc. <COMMA> t climbed <NUM> percent after the telecommunication company agreed to sell or lease <NUM> wireless towers <PUNC>
+j.p. morgan chase & co. jpm lost almost <NUM> percent after the bank reportedly agreed to pay dollar <NUM> billion to halt u.s. civil investigations into its mortgage-bond sales <PUNC>
+<PAR>

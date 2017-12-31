@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> giving the blue chips a weekly rise of <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> advanced <COMMA> led by citigroup inc. c <COMMA> up <NUM> percent <PUNC>
+another dow component <COMMA> general motors corp. gm also advanced <COMMA> up <NUM> percent <COMMA> with the detroit automaker beating its rivals in january sales <PUNC>
+<PAR>
+while helping bolster sentiment across the broader market <COMMA> the bid by microsoft msft weighed on its stock <COMMA> with shares of the technology titan off <NUM> percent in the wake of its dollar <NUM> -a-share offer for yahoo yhoo <PUNC>
+<PAR>

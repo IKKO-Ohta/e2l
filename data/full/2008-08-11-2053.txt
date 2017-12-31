@@ -1,0 +1,9 @@
+after an opening drop and then a triple-digit rise <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> posted gains <COMMA> led by general motors corp. gm <COMMA> with shares of the auto giant up <NUM> percent <COMMA> and home depot inc. hd <COMMA> which finished <NUM> percent ahead <PUNC>
+telecommunications firms also were among those gaining on the dow <COMMA> with verizon communications inc. vz and at&t inc. t both up more than <NUM> percent <PUNC>
+the gains came in the wake of a labor agreement between verizon and two unions representing <NUM> workers <PUNC>
+<PAR>
+in addition <COMMA> bloomberg news reported that gatx corp. gmt has offered general electric co. ge more than dollar <NUM> billion for its rail-services unit <PUNC>
+u.s. stocks had ended sharply higher friday as strength in the dollar triggered losses for commodities <COMMA> notably oil <PUNC>
+transport and housing stocks led the advance <COMMA> in which the dow industrials rallied <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq added <NUM> points <PUNC>
+<PAR>

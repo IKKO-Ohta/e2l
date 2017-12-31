@@ -1,0 +1,4 @@
+the dow jones industrial average dji shed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components on the slide <PUNC>
+in corporate deal-making <COMMA> technology giant dell inc. dell said data-storage maker 3par inc. par had accepted its takeout offer of dollar <NUM> billion <PUNC>
+the sweetened offer came after rival hewlett-packard co. s hpq made an unsolicited bid <PUNC>
+<PAR>

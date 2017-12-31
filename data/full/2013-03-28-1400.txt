@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+u.s. stocks have had a torrid run in the first quarter <PUNC>
+the dow jones industrial average dji hit the latest in a string of closing highs on tuesday <PUNC>
+the s&p <NUM> index spx saw a fractional loss wednesday <COMMA> which left it just <NUM> points from its all-time closing high <PUNC>
+<PAR>

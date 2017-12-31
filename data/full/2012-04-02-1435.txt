@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> point to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
+<PAR>

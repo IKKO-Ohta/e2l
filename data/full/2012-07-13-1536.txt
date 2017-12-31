@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components climbing <COMMA> led by j.p. morgan chase jpm <COMMA> up <NUM> percent after the bank reported a dollar <NUM> billion profit in the second quarter <COMMA> which included a dollar <NUM> billion loss on synthetic credit derivatives <PUNC>
+<PAR>
+the sole blue-chip decliner <COMMA> hewlett-packard co. hpq fell <NUM> percent after a j.p. morgan analyst reiterated an underweight rating on shares of the maker of personal computers and printers <PUNC>
+a warning late thursday from printer manufacturer lexmark international inc. lxk that it would miss second-quarter expectations did not help h-p s cause <PUNC>
+<PAR>

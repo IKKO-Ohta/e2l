@@ -1,0 +1,7 @@
+the dow jones industrial average dji ended down <NUM> points at <NUM> <COMMA> but it recovered from its low point for the session at <NUM> <PUNC>
+among components of the dow industrials <COMMA> shares of wal-mart stores wmt fell <NUM> percent to dollar <NUM> <PUNC>
+the company closed as many as <NUM> stores in the area affected by hurricane katrina so that it could assess storm damage <PUNC>
+mcdonald s mcd was the dow s biggest percentage decliner <COMMA> sliding <NUM> percent to dollar <NUM> <COMMA> as investors worried consumers would cut back on discretionary spending in order to compensate for higher gasoline prices <PUNC>
+boeing ba fell <NUM> percent to dollar <NUM> as the aerospace giant made a new contract offer to its 18,000-strong machinists union <PUNC>
+the current machinists contract expires on sept. <NUM> <PUNC>
+<PAR>

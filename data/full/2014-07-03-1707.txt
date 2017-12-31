@@ -1,0 +1,4 @@
+the dow jones industrial average dji closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at the preliminary <NUM> and gained <NUM> percent over the week <PUNC>
+the s&p <NUM> spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and was <NUM> percent higher on the week <PUNC>
+the nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and finished the week with a <NUM> percent gain <COMMA> its third weekly gain in a row <PUNC>
+<PAR>

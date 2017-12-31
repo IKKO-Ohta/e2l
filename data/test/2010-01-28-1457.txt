@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> in early trading <PUNC>
+american express axp was the dow s worst performer <COMMA> down <NUM> percent <PUNC>
+procter & gamble pg led the measure <COMMA> with the consumer-goods company up <NUM> percent after its second-quarter profit dropped <NUM> percent <COMMA> but earnings were higher than expected and sales grew <PUNC>
+at&t t dropped <NUM> percent after its fourth-quarter earnings rose <NUM> percent on fewer charges as the company added the second-most wireless subscribers during a quarter in its history <PUNC>
+and consumer-goods maker colgate-palmolive cl gained <NUM> percent after its fourth-quarter earnings rose <NUM> percent <COMMA> benefitting from higher prices <COMMA> stronger margins and increased sales volume <PUNC>
+after the close <COMMA> microsoft msft and amazon.com amzn will report earnings <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points to <NUM> in recent trading <PUNC>
+technology components intel intc and microsoft corp. msft were the dow s best performers <COMMA> up <NUM> percent each ahead of intel s earnings release due after thursday s close <PUNC>
+international business machines ibm was also strong <COMMA> up <NUM> percent <PUNC>
+consumer stocks wal-mart stores inc. wmt <COMMA> walt disney co. dis and mcdonald s corp. mcd kept the dow s gains in check as the commerce department reported an unexpected drop in u.s. retail sales in december from the previous month <PUNC>
+wal-mart dropped <NUM> percent <COMMA> while walt disney fell <NUM> percent and mcdonald s slipped <NUM> percent <PUNC>
+a disappointing report from alcoa inc. aa earlier this week started the fourth-quarter reporting season off on a sour note <COMMA> but money managers said they are holding out hope for intel s report <COMMA> along with results expected friday from banking giant j.p. morgan chase jpm <PUNC>
+<PAR>

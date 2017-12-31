@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+johnson and johnson jnj declined <NUM> percent after the largest provider of health-care products offered a full-year forecast beneath estimates <PUNC>
+dupont dd rose <NUM> percent after reporting four-quarter profit that exceeded expectations <PUNC>
+boeing co. ba slid <NUM> percent after the aerospace manufacturer stopped deliveries of its <NUM> dreamliner that s been grounded by regulators looking into whether its batteries are safe <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the dow jones industrial average dji bucked the trend and closed higher friday <COMMA> thanks primarily to gains in american express co. and visa inc <PUNC>
+the blue-chip index added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and eked out a <NUM> percent gain over the week <COMMA> its first weekly gain this year <PUNC>
+an earnings miss as well as disappointing revenue outlook from intel corp. intc late thursday sent its shares down <NUM> percent <PUNC>
+general electric co. ge reported fourth-quarter results before the bell which met forecasts from analysts polled by factset <PUNC>
+but the shares fell <NUM> percent on concerns over the lower level of ge capital dividend payouts <PUNC>
+american express co. axp shares gained <NUM> percent after the credit card company said its fourth-quarter earnings more than doubled <PUNC>
+shares in rival visa inc. v rose <NUM> percent <PUNC>
+<PAR>

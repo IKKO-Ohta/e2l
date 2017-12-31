@@ -1,0 +1,9 @@
+u.s. stocks ended higher friday <COMMA> trimming weekly losses <COMMA> while shares of international business machines corp. fell sharply <COMMA> pressuring the dow jones industrial average <PUNC>
+the s&p <NUM> was off <NUM> percent for the week <COMMA> its biggest such hit since november <COMMA> while the dow industrials lost <NUM> percent and the nasdaq composite was down <NUM> percent on the week <PUNC>
+after spending much of the session in the red <COMMA> the dow jones industrial average dji added <NUM> points to <NUM> <COMMA> slammed in large part by ibm ibm <COMMA> which dropped <NUM> percent a day after the computer-services provider missed wall street forecasts for quarterly revenue and earnings <PUNC>
+read why ibm is a key indicator for markets during earning season <PUNC>
+shares of microsoft corp. msft climbed <NUM> percent after the software maker reported third-quarter income that topped wall street s projections <PUNC>
+general electric co. ge fell <NUM> percent after the jet-engine manufacturer reported profit in line with estimates <PUNC>
+mcdonald s corp. mcd slid after the fast-food chain reported first-quarter profit that missed estimates <PUNC>
+friday also marks one of the more volatile weeks on wall street in recent memory <COMMA> with the dow industrials making triple-digit moves on each of the first three days <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+in a matter of seconds <COMMA> the dow jones industrial average dji lost about <NUM> points <COMMA> briefly down nearly <NUM> points on the day <COMMA> before springing back <PUNC>
+at last check <COMMA> the dow industrials were up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> including bank of america corp. bac <COMMA> up <NUM> percent after morgan stanley upgraded its shares to overweight from equal weight <PUNC>
+travelers companies inc. trv rose <NUM> percent after the dow member and insurer reported a jump in first-quarter profit <PUNC>
+dupont co. dd said first-quarter earnings more than doubled as drought conditions prompted farmers to buy more of its drought-resistant seeds and other products to protect crops <PUNC>
+united technologies corp. utx shares gained after the diversified manufacturer on tuesday reported a better-than-estimated profit <PUNC>
+its chief executive in part credited the company s <NUM> purchase of goodrich <COMMA> which makes parts for airplanes <PUNC>
+<PAR>

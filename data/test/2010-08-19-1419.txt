@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent to <NUM> <COMMA> and recently traded off <NUM> points <PUNC>
+the nasdaq composite rixf fell <NUM> percent to <NUM> <PUNC>
+the standard & poor s 500-share index spx fell <NUM> percent to <NUM> <PUNC>
+on the dow <COMMA> intel corp. intc shares led decliners with a drop of <NUM> percent after the chip giant agreed to pay dollar <NUM> billion to acquire computer-security software maker mcafee inc. mfe <COMMA> whose shares soared <NUM> percent <PUNC>
+the acquisition was the latest high-profile announcement in a week marked by a resurgence in deal activity <PUNC>
+<PAR>

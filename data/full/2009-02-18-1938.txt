@@ -1,0 +1,4 @@
+the tour into positive territory proved short-lived <COMMA> however <COMMA> with the stock indexes meandering back into the red in late afternoon trade <PUNC>
+the dow jones industrial average dji lately was off <NUM> points at <NUM> <PUNC>
+if the housing plan works <COMMA> the housing sector and ancillary sectors including home improvement and construction would stand to benefit <COMMA> said greenhaus <COMMA> pointing to home depot inc. hd and lowe s cos. low <PUNC>
+<PAR>

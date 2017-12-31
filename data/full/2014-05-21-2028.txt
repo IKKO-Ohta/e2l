@@ -1,0 +1,4 @@
+the s&p <NUM> index spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> the best percentage gain in <NUM> weeks <PUNC>
+the nasdaq composite rixf ended the day up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+<PAR>

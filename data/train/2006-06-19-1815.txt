@@ -1,0 +1,11 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+of the <NUM> dow components <COMMA> <NUM> contributed to losses. <PUNC>
+on the dow <COMMA> shares of intel corp. intc rose <NUM> percent to dollar <NUM> after ubs upgraded the world s largest chipmaker to buy from neutral <COMMA> citing lower operational spending and increased competitiveness <PUNC>
+the broker also lifted its price target on the company to dollar <NUM> from dollar <NUM> <PUNC>
+over the past four sessions <COMMA> the chipmaker s stock has rallied <NUM> percent <PUNC>
+procter & gamble pg <COMMA> meanwhile <COMMA> climbed as much as <NUM> percent before gains faded in line with the pullback in the market <PUNC>
+lehman brothers upgraded the household-products giant to overweight from equal weight <COMMA> citing valuation <PUNC>
+with the energy sector seeing a broad pullback <COMMA> exxon mobil corp. xom was one of the biggest decliners <COMMA> down <NUM> percent at dollar <NUM> <PUNC>
+metals prices were also sharply lower sending alcoa inc. aa tumbling <PUNC>
+the stock was off <NUM> percent <PUNC>
+<PAR>

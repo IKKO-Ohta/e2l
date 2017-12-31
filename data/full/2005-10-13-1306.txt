@@ -1,0 +1,5 @@
+the futures contract for the dow jones industrial average last was flat at <NUM> <PUNC>
+in premarket trade dow component mcdonald s corp. mcd last was up <NUM> percent at dollar <NUM> after the fast food chain reported strong september sales and offered profit projections that outpaced wall street s expectations <COMMA> partly due to a rebound in europe <PUNC>
+dupont dd <COMMA> also in the dow <COMMA> was up <NUM> cents at dollar <NUM> before the opening <PUNC>
+the company confirmed plans to repatriate dollar <NUM> billion by the end of the year and said it will spend dollar <NUM> million to replace equipment damaged by hurricane katrina <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+u.s. stocks surged on wednesday <COMMA> positioning the dow industrials for their best first session of a new year since <NUM> <COMMA> as wall street welcomed an 11th-hour deal to avoid steep spending cuts and tax increases and pondered deficit moves still ahead <PUNC>
+after a 273-point climb <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with hewlett-packard co. hpq and caterpillar inc. cat leading gains that included all but one of its <NUM> components <PUNC>
+<PAR>

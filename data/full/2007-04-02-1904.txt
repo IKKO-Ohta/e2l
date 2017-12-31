@@ -1,0 +1,9 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> after earlier falling to a low of <NUM> and rising to a high of <NUM> <PUNC>
+rising shares on the dow included altria group inc. mo <COMMA> which gained <NUM> percent as it started trading separately from kraft foods inc. kft <PUNC>
+also <COMMA> merck co. inc. mrk gained <NUM> percent <PUNC>
+the dow was still under pressure from its financial components american express co. axp <COMMA> citigroup inc. c and jp morgan chase & co. jpm <PUNC>
+among other blue-chips <COMMA> at&t inc. t surrendered early gains to trade down <NUM> percent <PUNC>
+at&t and mexican wireless operator america movil amx said they were in talks to buy a stake in telecom italia ti <PUNC>
+telecom italia shares were up nearly <NUM> percent <PUNC>
+u.s. stocks finished a volatile friday on a mixed note <COMMA> mirroring a likewise volatile and mixed performance in the first quarter <COMMA> which has left the dow industrials in negative territory for the year <COMMA> while other indices held on to meager gains. <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+stocks finished slightly higher this past week near all-time highs with the dow jones industrial average dji rising <NUM> percent <COMMA> the s&p <NUM> index spx finishing up <NUM> percent <COMMA> and the nasdaq composite index rixf up <NUM> percent <COMMA> after the federal reserve indicated rate hikes were not just around the corner and scotland voted to remain part of the united kingdom <PUNC>
+nike inc. nke <COMMA> the first of the dow <NUM> industrials components to report earnings this season <COMMA> reports earnings on thursday <PUNC>
+the athletic apparel and gear giant could be a litmus test for earnings season as it has considerable exposure to foreign markets and represents what s expected to be one of the weakest sectors this season <PUNC> consumer discretionary <PUNC>
+<PAR>

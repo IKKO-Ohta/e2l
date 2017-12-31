@@ -1,0 +1,6 @@
+after sliding below <NUM> for the first time in a week <COMMA> the dow jones industrial average dji was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+both apple aapl and ibm corp. ibm reported third-quarter results late monday <COMMA> with each beating earnings forecasts <COMMA> but investors found something to pan in both reports <PUNC>
+on tuesday <COMMA> bank of america bac said its unexpected quarterly loss stemmed from a one-time hit related to credit-card reform legislation passed earlier in the year <PUNC>
+<PAR>
+the major indexes advanced monday <COMMA> with the dow industrials ending at their highest level since may <NUM> <COMMA> a level that suskind said inspired some profit-taking tuesday <PUNC>
+<PAR>

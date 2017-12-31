@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in recent trading <PUNC>
+walt disney co. dis was its best performer <COMMA> up <NUM> percent <PUNC>
+the dow s materials components were also strong <COMMA> despite declines in metals futures <PUNC>
+dupont co. dd climbed <NUM> percent <COMMA> while alcoa inc. aa rose <NUM> percent <PUNC>
+the dow s financial components led its decliners <PUNC>
+american express co. axp fell <NUM> percent <COMMA> while bank of america corp. bac fell <NUM> percent <PUNC>
+the sector s slump came after bank of america-merrill lynch cut its fourth-quarter earnings estimates for u.s. brokerages <COMMA> citing trading deceleration starting in mid-november <PUNC>
+<PAR>

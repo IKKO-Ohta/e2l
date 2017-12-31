@@ -1,0 +1,11 @@
+the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
+on monday u.s. stocks closed mixed <COMMA> with the dow jones industrial average snapping a six-day winning streak <PUNC>
+there was some disappointment among investors that a spate of merger deals didn t produce more vigorous gains and there were discussion as to whether the recent rally has run its course <PUNC>
+boeing co. ba was <NUM> percent higher at dollar <NUM> before the opening <PUNC>
+korean air co. ordered <NUM> aircraft from boeing <PUNC>
+verizon communications vz was upgraded to outperform from neutral at credit suisse <COMMA> which cited the belief that the company was setting itself up for earnings growth as dilution from its fios internet service reaches its peak <PUNC>
+the stock rose <NUM> cents to dollar <NUM> before the bell <PUNC>
+american international group inc. aig gained <NUM> cents to dollar <NUM> <PUNC>
+banc of america started coverage of the insurer with a buy rating and am dollar <NUM> price target <PUNC>
+we never thought aig would be a turnaround story <COMMA> but in the last two years it has been just that <COMMA> the broker said <PUNC>
+<PAR>

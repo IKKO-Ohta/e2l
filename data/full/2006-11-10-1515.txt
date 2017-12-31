@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+shares of walt disney co. dis tumbled <NUM> percent to dollar <NUM> <PUNC>
+the media giant s fourth-quarter net income more than doubled <COMMA> powered by strong box-office results and growth in its amusement parks and media networks <PUNC>
+shares of american international group inc. aig rose <NUM> percent to dollar <NUM> after the company reported a surge in third-quarter net income after the insurance giant avoided the big hurricane losses that dented results last year <PUNC>
+also on the dow <COMMA> boeing co. shares ba rose <NUM> percent to dollar <NUM> after the u.s. air force selected the aerospace manufacturer to provide the u.s. military s next generation of combat search and rescue helicopters <COMMA> an order the company said is worth up to dollar <NUM> billion <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> while the dow jones industrial average dji closed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its third consecutive drop <PUNC>
+* today s movers & shakers <PUNC> facebook inc. rose <NUM> percent following news of the company s inclusion in the s&p <NUM> <PUNC>
+lululemon athletica inc. shares fell <NUM> percent after quarterly results showed earnings per share of <NUM> cents on net revenue of dollar <NUM> million but warned of flat fourth-quarter sales <COMMA> well below analysts expectations <PUNC>
+the biggest gainer on the s&p <NUM> was southwest airlines inc <COMMA> rising <NUM> percent after bank of america upgraded the stock to buy from neutral <PUNC>
+hilton worldwide holdings rallied <NUM> percent on its first trading day <PUNC>
+procter & gamble company and cisco systems inc. were the laggards on the dow <PUNC>
+read more in the movers & shakers column <PUNC>
+<PAR>

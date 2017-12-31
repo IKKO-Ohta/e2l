@@ -1,0 +1,6 @@
+the stock market ended a wild ride solidly higher <COMMA> with the dow adding more than <NUM> points in the final hour of trade <COMMA> capping a day of indecision fueled by discomfort over the shaky housing and credit markets <PUNC>
+the market s been faced with fear and panic <COMMA> said peter bookvar <COMMA> equity strategist at miller tabak <COMMA> of the market volatility <COMMA> which had the dow rising from a loss of more than <NUM> points to close with a 150-point gain <PUNC>
+the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> ended ahead <PUNC>
+on tuesday u.s. stocks rallied in the morning <COMMA> but took heavy afternoon losses <COMMA> with the dow jones industrials tumbling <NUM> points <COMMA> the nasdaq composite losing <NUM> points and the s&p <NUM> falling <NUM> points <PUNC>
+<PAR>

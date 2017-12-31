@@ -1,0 +1,9 @@
+u.s. stocks traded flat to lower monday <COMMA> with gains for exxon mobil and home depot among others helping the dow jones industrial average put a floor on declines <COMMA> but a negative write-up of google inc. in financial weekly barron s weighed on the technology sector <PUNC>
+the dow jones industrial average dji traded back and forth across the flatline <COMMA> and was last down <NUM> points at <NUM> <PUNC>
+folks are still probably leaning toward the belief that large-cap stocks are going to outperform the small and mid-cap stocks <COMMA> and maybe that s why the dow is holding up <COMMA> said robert pavlik <COMMA> portfolio manager at oaktree asset management <PUNC>
+in the article <COMMA> barron s warns the company s shares could be cut in half over the next year on competition from microsoft msft and yahoo inc. yhoo <COMMA> pricing pressures for online ad sales and mounting concern over click fraud <PUNC>
+elsewhere in the sector <COMMA> j.p. morgan chase s jpm worldwide securities services unit bought the middle and back-office operations of paloma partners management co. for an undisclosed sum <PUNC>
+j.p. morgan was up <NUM> cents at dollar <NUM> <PUNC>
+also on the deal front <COMMA> home depot inc. hd is in talks to buy a <NUM> percent stake in china s orient home <COMMA> one of the mainland s leading do-it-yourself chains <COMMA> for more than dollar <NUM> million <COMMA> the financial times reported monday <COMMA> citing people close to the situation <PUNC>
+home depot was up <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

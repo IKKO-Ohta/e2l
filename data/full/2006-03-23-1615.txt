@@ -1,0 +1,5 @@
+the dow jones industrial average dji was last down <NUM> points at <NUM> after climbing to its best level in nearly <NUM> years in the previous session <PUNC>
+shares of general motors corp. gm rose <NUM> percent to dollar <NUM> after the carmaker completed a deal to sell a majority stake in gmac commercial holding corp <PUNC>
+the company said its gmac unit sold <NUM> percent of its equity in gmac commercial holding corp. for more than dollar <NUM> billion <PUNC>
+the company had previously said it was targeting the sale of a <NUM> percent stake <PUNC>
+<PAR>

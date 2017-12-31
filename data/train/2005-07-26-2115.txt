@@ -1,0 +1,5 @@
+the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the s&p <NUM> spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> and the nasdaq composite rixf ended up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+tuesday was one of the busiest days of the second-quarter earnings season <COMMA> featuring reports from dow components verizon communications vz and dupont dd <COMMA> lockheed martin lmt <COMMA> international paper ip and texas instruments txn <COMMA> among others <PUNC>
+the dow was in negative territory for most of the session following lower-than-expected earnings at dupont <PUNC>
+<PAR>

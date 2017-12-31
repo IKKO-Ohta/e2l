@@ -1,0 +1,7 @@
+u.s. stocks rallied tuesday <COMMA> propelling the dow to triple-digit gains <COMMA> after the federal reserve offered wall street what it has been clamoring for <COMMA> cutting benchmark interest rates for the first time in more than four years <PUNC>
+up more than <NUM> points before the fed s move <COMMA> the dow jones industrial average dji quickly climbed into the triple-digits in its aftermath <PUNC>
+the dow jones industrial average was more recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components ahead <PUNC>
+caterpillar inc. cat <COMMA> led the dow s advance <COMMA> up <NUM> percent <COMMA> and american express co. axp <COMMA> up <NUM> percent after its agreement to sell its international banking unit in a deal worth about dollar <NUM> billion. <PUNC>
+after leading the dow s losses earlier on <COMMA> general motors corp. gm was up <NUM> percent in the wake of a downgrade by goldman sachs <COMMA> which shifted the automaker s shares to neutral from buy <COMMA> saying likely union concessions are priced in <PUNC>
+procter & gamble co. pg reiterated quarterly profit and sales forecasts <PUNC>
+<PAR>

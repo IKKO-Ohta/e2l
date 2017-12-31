@@ -1,0 +1,6 @@
+continuing a recent trend of triple-digit swings <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> readying it for a <NUM> percent rise from the prior week s close <PUNC>
+the u.s. stock market is closed friday <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were trading higher <COMMA> with blue-chip gains led by the financials <PUNC>
+american express co. axp was ahead <NUM> percent and citigroup inc. c gained almost <NUM> percent <PUNC>
+shares of jpmorgan chase & co. jpm advanced <NUM> percent and american international group inc. aig rose almost <NUM> percent <PUNC>
+<PAR>

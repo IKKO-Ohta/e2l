@@ -1,0 +1,8 @@
+back above <NUM> <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with alcoa aa and caterpillar inc. cat pacing the gains <PUNC>
+shares of both companies traded up more than <NUM> percent <PUNC>
+the first of the dow s <NUM> components to report results <COMMA> alcoa is expected to swing to a profit amid higher aluminium prices and increased demand <PUNC>
+<PAR>
+other big names this week on the earnings calendar include blue chips intel corp. intc <COMMA> bank of america corp. bac and general electric co. ge <COMMA> <PUNC>
+on friday <COMMA> u.s. stock benchmarks climbed to close out a sixth consecutive week of gains <COMMA> taking the dow industrials above <NUM> for the first time since late in september <NUM> <PUNC>
+the dow didn t <COMMA> however <COMMA> close above the psychologically significant level <PUNC>
+<PAR>

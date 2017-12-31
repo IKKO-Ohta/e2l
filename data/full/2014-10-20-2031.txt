@@ -1,0 +1,7 @@
+monday s positive movement in the dow industrial comes even as one of its major components <COMMA> ibm <COMMA> posted disappointing quarterly results <COMMA> pushing shares of the tech giant lower and dragging down the broader index <PUNC>
+the dow jones industrial average dji closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+the blue-chip index is down <NUM> percent since the start of the year <PUNC>
+after choppy trading periods in the early part of last week <COMMA> the major indices now have registered consecutive days of gains <PUNC>
+that s two straight positive trading days for the dow industrials and three for the s&p <NUM> and the nasdaq <PUNC>
+ibm disappoints <PUNC> ibm ibm s earnings missed analysts expectations <COMMA> and shares skidded <NUM> percent <COMMA> making it the biggest decliner among the dow and the s&p <NUM> constituents <PUNC>
+<PAR>

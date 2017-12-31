@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up about <NUM> points prior to the fed rate committee s latest policy announcement wednesday afternoon <COMMA> but it soon tumbled and closed with a 10.88-point loss <COMMA> off <NUM> percent <COMMA> at <NUM> <PUNC>
+among other stocks to watch <COMMA> boeing inc. ba fell <NUM> percent a day after its dreamliner made its first flight <COMMA> setting up the challenge of churning out large numbers of the cutting-edge aircraft <PUNC>
+<PAR>
+intel corp. intc dropped <NUM> percent as the u.s. federal trade commission sued the chip maker <COMMA> alleging the company engaged in a decade-long campaign to stifle competition <PUNC>
+<PAR>

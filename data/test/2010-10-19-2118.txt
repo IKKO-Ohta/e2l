@@ -1,0 +1,13 @@
+u.s. stocks fell sharply tuesday <COMMA> sending the dow industrials to its worst day in two months <COMMA> as investors became unnerved by a surprise rate hike in china <COMMA> disappointing earnings <COMMA> and fresh concerns about the impact bad mortgages could have on banks <PUNC>
+the dow jones industrial average dji sank <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> ending below <NUM> for the first time in more than a week <PUNC>
+blue-chip losses were led by shares of bank of america bac <COMMA> which fell <NUM> percent after a report the bank might be forced to repurchase bad mortgages <PUNC>
+that was the dow s worst drop since early august <PUNC>
+the move also follows big gains for stocks in september <PUNC>
+the market was also disappointed with results from tech-industry giants apple aapl and ibm corp. ibm <PUNC>
+and lofty expectations that were not realistic <COMMA> said pado <COMMA> noting that so-called whisper numbers had shares of both hitting historic highs during monday s session <PUNC>
+and <PUNC>
+on tuesday <COMMA> bank of america bac said its quarterly loss stemmed from a one-time hit related to credit-card-reform legislation passed earlier in the year <PUNC>
+<PAR>
+shares of ibm <COMMA> which said it signed less service deals than anticipated in the third quarter <COMMA> fell <NUM> percent even as the dow component reported robust profits and hiked its <NUM> outlook <PUNC>
+the major indexes had advanced monday <COMMA> with the dow industrials ending at their highest level since may <NUM> <COMMA> a level that also helped inspire some profit taking early tuesday <PUNC>
+<PAR>

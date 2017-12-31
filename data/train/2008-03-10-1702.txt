@@ -1,0 +1,8 @@
+down more than <NUM> points earlier <COMMA> the dow jones industrial average dji was more recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components on the decline and financials fronting the slide <PUNC>
+citigroup inc. c fell <NUM> percent <PUNC> american express co. axp dropped <NUM> percent and j.p. morgan chase jpm declined <NUM> percent <PUNC>
+blue-chip gains were led by mcdonald s corp. mcd <COMMA> up <NUM> percent <COMMA> after the world s largest fast-food chain reported same-store sales climbed <NUM> percent in february from a year ago <PUNC>
+off the dow <COMMA> other financial stocks surrendered as well <COMMA> with large declines by ambac inc. abk and countrywide financial corp. cfc pressuring the overall market <PUNC>
+<PAR>
+stocks took another hit on friday after news that the u.s. economy lost <NUM> jobs in february <COMMA> the largest drop since march <NUM> <PUNC>
+for the week <COMMA> the dow industrials lost <NUM> percent <COMMA> the s&p <NUM> declined <NUM> percent and the nasdaq composite sank <NUM> percent <PUNC>
+<PAR>

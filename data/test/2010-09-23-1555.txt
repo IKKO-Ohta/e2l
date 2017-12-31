@@ -1,0 +1,2 @@
+after an 80-point fall <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> with <NUM> of its <NUM> components gaining <PUNC>
+<PAR>

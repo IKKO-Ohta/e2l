@@ -1,0 +1,8 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <COMMA> led by home depot inc. hd <COMMA> up <NUM> percent <PUNC>
+energy stocks were among those on the rise <COMMA> with sector leader and dow component exxon mobil corp. xom advancing <NUM> percent <PUNC>
+<PAR>
+general motors corp. gm was among those weighing on the dow <COMMA> its stock off <NUM> percent <COMMA> after deutsche bank lowered its ratings for the automaker <COMMA> along with that of borgwarner bwa <COMMA> on fears the cyclical north american downturn may last longer than previously expected <PUNC>
+blue-chip laggards included financial stocks <COMMA> with citigroup inc. c off <NUM> percent <COMMA> j.p. morgan chase jpm down <NUM> percent and american express co. axp down <NUM> percent <PUNC>
+visa said it could raise nearly dollar <NUM> billion in an initial public offering <COMMA> adding it was ahead of mastercard ma and american express axp in terms of dollar volume and transactions in <NUM> <PUNC>
+the recent volatility in the stock market is likely to continue for the foreseeable future <COMMA> with 150-point swings in the dow likely <COMMA> said nolte <PUNC>
+<PAR>

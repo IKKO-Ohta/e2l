@@ -1,0 +1,6 @@
+new york dow jones - u.s. stocks turned higher wednesday <COMMA> with the dow jones industrial average pacing gains after broker upgrades for blue-chip components hewlett-packard <COMMA> j.p. morgan chase and mcdonald s corp <COMMA> in a market that continues to mull the outlook for interest rates in the wake of hurricane katrina <PUNC>
+the dow industrials dji was last up <NUM> points at <NUM> <COMMA> after surging more than <NUM> points on tuesday <COMMA> its biggest one-day gain in nearly two months <PUNC>
+shares of mcdonald s corp. mcd rose <NUM> percent to dollar <NUM> after bear stearns upgraded the fast-food giant to outperform from peer perform <COMMA> citing improved valuation and the belief that its u.s. performance will continue to be positive <PUNC>
+ubs raised its view on hewlett-packard hpq to buy from neutral on hopes that cost cutting and better executive can continue to deliver earnings per share upside <PUNC>
+meanwhile <COMMA> jp morgan chase jpm tacked on <NUM> cents to dollar <NUM> after piper jaffray upgraded the investment bank to outperform from market perform <COMMA> citing an attractive valuation on expectations merger cost savings will continue and that the capital markets will enjoy a solid turnaround in the second half of <NUM> <PUNC>
+<PAR>

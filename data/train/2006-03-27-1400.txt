@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose nearly <NUM> points to <NUM> <PUNC>
+on the week <COMMA> the benchmark index was flat <PUNC>
+general motors corp. gm is likely to be back in focus after the detroit news reported delphi corp. dphiq <COMMA> its main auto parts supplier <COMMA> will propose a gradual reduction in wages and benefits instead of abrupt pay cuts <PUNC>
+the offer would be contingent on gm subsidizing the wages for a time <PUNC>
+on friday <COMMA> gm shares fell nearly <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

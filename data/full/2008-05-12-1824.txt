@@ -1,0 +1,5 @@
+the dow jones industrial average dji climbed <NUM> points to <NUM> at last check <COMMA> with <NUM> of its <NUM> components posting gains <PUNC>
+the blue-chip gains were broad based <COMMA> led by caterpillar inc. cat <COMMA> up <NUM> percent <COMMA> and wal-mart stores inc. wmt <COMMA> ahead <NUM> percent <PUNC>
+u.s. stocks dropped sharply on friday <COMMA> after hefty losses from blue-chip insurance giant aig aig and another record high for oil prices <PUNC>
+on monday <COMMA> aig was among the stocks weighing on the dow <COMMA> recently off a further <NUM> percent <PUNC>
+<PAR>

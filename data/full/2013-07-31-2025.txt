@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the blue-chip index had risen as high as <NUM> <COMMA> clearing intraday and closing records reached tuesday of last week <PUNC>
+the dow rose <NUM> percent for july <COMMA> its eighth monthly rise in nine <PUNC>
+<PAR>

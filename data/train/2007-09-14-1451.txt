@@ -1,0 +1,5 @@
+down more than <NUM> points early on <COMMA> the dow jones industrial average dji curbed its declines after a monthly survey by reuters and the university of michigan pointed to a rebound in consumer sentiment in september <COMMA> with an index rising to <NUM> in september from <NUM> in august <COMMA> above a forecasted rise to <NUM> <PUNC>
+the dow was more recently up <NUM> points at <NUM> with <NUM> of its <NUM> components trading higher <COMMA> with alcoa inc. aa leading the advance <COMMA> up <NUM> percent <PUNC>
+american express co. axp led the dow s decline <COMMA> its stock off <NUM> percent <PUNC>
+dow component intel corp. intc fell <NUM> percent after its downgrade to neutral from buy by merrill lynch <COMMA> which cited the valuation of the world s biggest chipmaker <PUNC>
+<PAR>

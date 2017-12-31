@@ -1,0 +1,6 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> after posting a triple-digit gain earlier that saw the benchmark index hit a session-high of <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+the nasdaq has underperformed the other major indexes since the start of the year <PUNC>
+the tech-rich index is down more than <NUM> percent compared to gains of <NUM> percent for the dow industrials and more than <NUM> percent for the s&p <NUM> <PUNC>
+ford motor co. f rallied as much as <NUM> percent to dollar <NUM> <COMMA> the shares highest in nearly four months <COMMA> after bear stearns upgraded the automaker to an outperform from an underperform rating while lowering its rating on general motors gm to underperform from peer perform <PUNC>
+<PAR>

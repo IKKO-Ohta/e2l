@@ -1,0 +1,7 @@
+the dow jones industrial average dji climbed to a session-high of <NUM> before paring gains <PUNC>
+it was last up <NUM> points at <NUM> <PUNC>
+by sector <COMMA> retailers rlx rallied after solid earnings from wal-mart stores wmt and lowe s cos. low <PUNC>
+wal-mart stores inc. wmt led the way <COMMA> with the retail behemoth s shares tacking on <NUM> cents to dollar <NUM> after it posted third-quarter results that matched analyst estimates <PUNC>
+the company <COMMA> however <COMMA> booked one-time costs of dollar <NUM> million linked to hurricanes katrina <COMMA> rita and wilma <PUNC>
+home depot hd <COMMA> which is set to report on tuesday <COMMA> benefited from the strength in its competitor s results <COMMA> gaining as much as <NUM> percent to dollar <NUM> in late morning trading <PUNC>
+<PAR>

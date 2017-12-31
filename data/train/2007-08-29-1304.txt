@@ -1,0 +1,4 @@
+futures for the dow jones industrial average dji rose <NUM> points at <NUM> <PUNC>
+futures for the s&p <NUM> index spx gained <NUM> points to <NUM> and nasdaq <NUM> futures rose <NUM> points at <NUM> <PUNC>
+dow component <COMMA> altria group <COMMA> mo was in focus with speculation that the tobacco giant may announce that it s spinning off philip morris international division following a board meeting <PUNC>
+<PAR>

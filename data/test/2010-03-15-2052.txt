@@ -1,0 +1,8 @@
+the dow jones industrial average dji traded in negative territory most of the day before ending with a 17.46-point gain <COMMA> up <NUM> percent <COMMA> at <NUM> <PUNC>
+the 30-component index of large <COMMA> established u.s. companies has edged up <NUM> percent over its five-day rally <PUNC>
+the dow s strongest component by far was wal-mart wmt <COMMA> up <NUM> percent after citigroup upgraded the retail giant to buy from hold <COMMA> predicting more aggressive pricing <PUNC>
+the s&p <NUM> spx was up <NUM> percent <COMMA> led by a <NUM> percent gain in its consumer-staples sector <PUNC>
+the index s financial category was off more than <NUM> percent at its intraday low but managed to finish almost flat <COMMA> off just <NUM> percent <PUNC>
+on the dow <COMMA> bank of america corp. bac closed flat <COMMA> while j.p. morgan chase inc. jpm shares came off session lows <PUNC>
+the u.s. dollar index dxy rose <NUM> percent <COMMA> while the dow jones-ubs commodity index fell <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,11 @@
+u.s. stocks rose slightly on tuesday <COMMA> sending the dow jones industrial average to a record high <COMMA> as reassuring comments from federal reserve governor susan bies <COMMA> along with upbeat results from wal-mart stores inc. and merger news <COMMA> helped offset disappointing earnings from home depot inc <PUNC>
+after falling by as much as <NUM> points earlier <COMMA> the dow jones industrial average dji recently was up <NUM> points at <NUM> <COMMA> just off of a new record high of <NUM> <PUNC>
+the dow was lifted by wal-mart stores inc. wmt <COMMA> which rose <NUM> percent as the giant retailer s latest quarterly earnings came in ahead of expectations <PUNC>
+other blue-chip leaders included american international group inc. aig <COMMA> honeywell international inc. hon <COMMA> mcdonalds corp. mcd <COMMA> and jp morgan chase jpm <PUNC>
+investors also kept an eye on hewlett-packard hpq <COMMA> a dow component and one of the leaders of the tech sector <COMMA> which will post earnings after the close of trading <PUNC>
+analysts polled by thomson financial expect the company to report fiscal first-quarter earnings of <NUM> cents a share on sales of dollar <NUM> billion <PUNC>
+hp was last up <NUM> percent <PUNC>
+among other blue-chips <COMMA> home depot hd fell <NUM> percent <PUNC>
+the retailer s latest report showed it is being impacted by waning activity in the home-building sector <COMMA> leading to a <NUM> percent year-over-year decline in fourth-quarter profit and an earnings miss <PUNC>
+on friday <COMMA> the dow managed to set another record close <COMMA> but the broader market had a mixed closing <COMMA> pressured by data that suggested economic weakness <COMMA> including a big drop in housing starts and falling consumer confidence <PUNC>
+<PAR>

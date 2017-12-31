@@ -1,0 +1,7 @@
+the dow jones industrial average dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> after falling as much as <NUM> points at midday and spending most of the session lower <PUNC>
+late in the session <COMMA> the justice department announced a dollar <NUM> million settlement with b. of a <PUNC>
+bac over alleged discriminatory lending practices by its countrywide financial corp. unit <COMMA> putting an end to one legal issue hanging over the company <PUNC>
+b. of <PUNC>
+a. ended <NUM> percent higher <PUNC>
+on tuesday <COMMA> equities rallied on upbeat economic news from europe and a jump in new-home construction in the united states <COMMA> with the dow rising <NUM> points <COMMA> its best performance so far this month <PUNC>
+<PAR>

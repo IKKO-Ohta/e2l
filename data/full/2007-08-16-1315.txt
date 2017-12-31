@@ -1,0 +1,5 @@
+futures for the dow jones industrial average dji were down <NUM> points at <NUM> <PUNC>
+exxon xom fell <NUM> percent in frankfurt on reports it suffered a contractual setback to increase output from the world s second-largest offshore field in abu dhabi <PUNC>
+late-day volatility again exerted downward pressure on u.s. stocks on wednesday <COMMA> with the s&p <NUM> losing entire year s gains <PUNC>
+the dow industrials fell <NUM> points <COMMA> the s&p <NUM> fell <NUM> points and the nasdaq composite dropped <NUM> points <PUNC>
+<PAR>

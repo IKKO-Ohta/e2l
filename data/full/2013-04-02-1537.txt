@@ -1,0 +1,4 @@
+u.s. stocks surged on tuesday <COMMA> with the dow jones industrial average hitting an intraday record and the s&p <NUM> not far behind <COMMA> as health insurers rallied on positive news about medicare reimbursement rates and u.s. factory orders rose in february <PUNC>
+after rising to an all-time intraday high of <NUM> <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in late morning trade <COMMA> with unitedhealth group inc. unh leading the gains among all but five of its <NUM> components <PUNC>
+hewlett-packard co. shares hpq slumped <NUM> percent after goldman sachs downgraded the high-tech giant to sell from neutral <PUNC>
+<PAR>

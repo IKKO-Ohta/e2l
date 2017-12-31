@@ -1,0 +1,5 @@
+the futures contract for the dow jones industrial average was up just <NUM> point at <NUM> <COMMA> the contract for the s&p <NUM> down <NUM> at <NUM> <COMMA> and the nasdaq <NUM> contract down <NUM> at <NUM> <PUNC>
+later in the session american express axp will report <COMMA> while texas instruments txn is scheduled to release its profit news after the close of trade <PUNC>
+existing home sales numbers for june will be released in midmorning <PUNC>
+the dow jones prediction <COMMA> based on a poll of economists <COMMA> is for <NUM> million sales <COMMA> down slightly from <NUM> million in may <PUNC>
+<PAR>

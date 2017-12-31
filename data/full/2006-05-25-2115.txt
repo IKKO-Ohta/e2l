@@ -1,0 +1,6 @@
+the dow jones industrial average dji closed at its high for the day and week <COMMA> up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of <NUM> components contributing to gains <PUNC>
+shares in wal-mart stores inc. wmt rose almost <NUM> percent to close at dollar <NUM> after bank of america upgraded the world s largest retailer to buy from neutral <PUNC>
+the broker said the change in recommendation reflected early success from the company s current merchandise initiatives <COMMA> hopes for slowing future square footage growth and improved margin expectations <PUNC>
+also on the dow <COMMA> shares of general motors corp. gm rose <NUM> percent to close at dollar <NUM> <COMMA> after hitting a seven-month high of dollar <NUM> in intraday trade <PUNC>
+on wednesday gm soared more than <NUM> percent <PUNC>
+<PAR>

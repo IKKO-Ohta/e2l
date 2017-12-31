@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the nasdaq composite index rixf was down <NUM> points to <NUM> while the s&p <NUM> index spx dropped <NUM> points to <NUM> <PUNC>
+intel corp intc narrowed its third-quarter sales forecast <COMMA> but reiterated that it expects sales to grow by at least <NUM> percent this year over <NUM> <COMMA> driven by strong demand for laptop computers <PUNC>
+<PAR>

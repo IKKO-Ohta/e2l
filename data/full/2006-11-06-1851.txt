@@ -1,0 +1,9 @@
+u.s. stocks rallied monday as upbeat fed-official remarks on the economy and a string of deals led by a dollar <NUM> billion takeover offer for four season hotels inc. propelled the dow jones industrial average to a triple-digit gain <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <PUNC>
+mcdonald s corp. mcd <COMMA> united technologies corp. utx <COMMA> american express axp and general motors corp gm were some of the most significant advancers <PUNC>
+home depot inc. hd was one of just a few dow decliners <COMMA> dipping <NUM> percent after ubs downgraded the home improvement retailer <COMMA> citing concern over the impact of a weak u.s. housing market on its earnings <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+the dow has ended lower for the last six sessions and closed under <NUM> for the first time in over two weeks on friday <PUNC>
+shares of home depot inc. hd fell <NUM> percent at dollar <NUM> while lowe s cos. low was down <NUM> percent at dollar <NUM> after ubs downgraded the home improvement chains to reduce from neutral <PUNC>
+the broker said it is increasingly concerned that the weakness in the u.s. housing market will weigh significantly on their third-quarter results <PUNC>
+<PAR>

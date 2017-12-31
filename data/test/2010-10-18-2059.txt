@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> its highest close since may <PUNC>
+the blue-chip average s highest close this year was <NUM> on april <NUM> <PUNC>
+leading gains on the dow <COMMA> bank of america corp. bac rose <NUM> percent and j.p. morgan chase & co. jpm gained <NUM> percent <PUNC>
+results were due from two large technology names <PUNC> ibm corp. ibm and apple inc. aapl <PUNC>
+<PAR>

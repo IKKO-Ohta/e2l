@@ -1,0 +1,7 @@
+u.s. stocks wobbled up wednesday <COMMA> with the dow back above the <NUM> level <COMMA> after the federal reserve s delayed move to funnel additional cash into the banking system appeased <COMMA> at least for now <COMMA> the credit-frayed nerves of investors <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> off an earlier low of <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were in positive turf <COMMA> with financials paving the way <COMMA> with citicorp c <COMMA> up <NUM> percent and j.p. morgan jpm ahead <NUM> percent <PUNC>
+dow component home depot hd gained <NUM> percent <PUNC>
+the dow shifted gears along amid contrarian words from the new york fed over its repurchases <COMMA> with the fed in the end saying it would take dollar <NUM> billion in a repo <COMMA> where it buys securities from dealers <COMMA> who then put the funds into commercial banks <PUNC>
+stocks slid on tuesday <COMMA> with the dow falling more than <NUM> points <COMMA> amid further signs that trouble in the subprime mortgage market is prompting a tightening of credit <PUNC>
+<PAR>

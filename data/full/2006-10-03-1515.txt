@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+by sector <COMMA> energy stocks xoi fell sharply as crude prices logged a fresh decline <PUNC>
+among dow stocks <COMMA> exxon mobil corp. xom was the biggest percentage decliner <COMMA> down <NUM> percent at dollar <NUM> <PUNC>
+automakers will be in focus with the release of september sales figures <COMMA> with the chrysler unit of daimlerchrysler dcx expected to show the worst performance <PUNC>
+sales of general motors corp. gm are seen roughly flat compared to last year <PUNC>
+<PAR>

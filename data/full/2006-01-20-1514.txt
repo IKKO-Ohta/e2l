@@ -1,0 +1,5 @@
+the dow jones industrial average dji was just off an early low of <NUM> <COMMA> down <NUM> points at <NUM> <PUNC>
+shares in general electric co. ge were down <NUM> percent to dollar <NUM> after the industrial conglomerate s quarterly revenue fell shy of analyst expectations <COMMA> but an upward revision to the bottom end of its <NUM> outlook was helping put a floor on losses <PUNC>
+citigroup inc. c <COMMA> another dow component <COMMA> was off <NUM> percent at dollar <NUM> after the new york banking and financial services group posted earnings from continuing operations that missed wall street estimates <PUNC>
+the bank noted a challenging interest rate environment and competitive pricing conditions <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the dow industrials dji were down <NUM> points at <NUM> <PUNC>
+on wednesday <COMMA> stocks surged <COMMA> with the dow jones industrial average adding more than <NUM> points on congressional testimony from the federal reserve chairman that suggested the long-term inflation outlook was improving <COMMA> raising hopes of an end to interest-rate increases <PUNC>
+intel corp. intc was the most prominent earnings casualty <COMMA> with its shares down <NUM> percent at dollar <NUM> <PUNC>
+the world s largest chipmaker offered a weaker-than-expected sales forecast as current quarter profit tumbled <NUM> percent from a year ago on lower sales <PUNC>
+dow component honeywell international inc. hon saw early gains fade as the market turned lower <PUNC>
+the aerospace and control technologies raised its <NUM> profit view <PUNC>
+pfizer inc. pfe <COMMA> another member of the dow <COMMA> was up <NUM> percent at dollar <NUM> as investors cheered a higher <NUM> profit forecast <PUNC>
+<PAR>

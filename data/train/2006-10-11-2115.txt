@@ -1,0 +1,7 @@
+the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> but had been down as much as <NUM> points immediately after news of the crash <PUNC>
+earlier in the session <COMMA> the dow industrials reached a high of <NUM> <COMMA> just shy of the all-time high of <NUM> seen in tuesday s session <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> closed with gains <PUNC>
+one stock <COMMA> ibm ibm <COMMA> closed unchanged <PUNC>
+a sharp loss in the shares of alcoa inc. aa after a disappointing third-quarter report <COMMA> as well as declines in exxon mobil xom and caterpillar cat <COMMA> offset advances in the shares of altria mo <COMMA> general motors corp. gm <COMMA> and mcdonald s mcd . <PUNC>
+the dow jones internet index dj_9535 was under some pressure as cnet networks inc. cnet fell <NUM> percent after the online media firm announced an executive shake-up <COMMA> lowered its third-quarter and full-year revenue expectations and disclosed the results of a stock-options backdating investigation <PUNC>
+<PAR>

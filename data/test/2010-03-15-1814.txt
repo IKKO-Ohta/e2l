@@ -1,0 +1,6 @@
+the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> hurt by declines of about <NUM> percent each in exxon mobil xom <COMMA> and chevron cvx <PUNC>
+caterpillar cat <COMMA> which also tends to be volatile anytime investors recovery hopes shift <COMMA> was off <NUM> percent <PUNC>
+the u.s. dollar index dxy rose <NUM> percent a move that effectively makes commodities and other items traded in dollar terms less expensive to buyers using the greenback <PUNC>
+the dow jones-ubs commodity index was off <NUM> percent <PUNC>
+wal-mart stores wmt rose <NUM> percent after citigroup c upgraded its investment rating on the retail giant s stock to buy from hold <COMMA> predicting pricing will get more aggressive as the discounter tries to keep the price-sensitive customers it won in the recession <PUNC>
+<PAR>

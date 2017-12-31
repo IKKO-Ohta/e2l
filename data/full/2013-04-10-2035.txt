@@ -1,0 +1,5 @@
+u.s. stocks on wednesday rose for a third straight day <COMMA> with the dow jones industrial average and s&p <NUM> index having their best sessions in six weeks <PUNC>
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> also closing at a record and after setting an intraday record of <NUM> during the session <PUNC>
+it was its best point gain since feb. <NUM> and its best percentage gain since march <NUM> <PUNC>
+like the s&p <NUM> <COMMA> technology and health-care stocks led gains with intel corp. intc <COMMA> cisco systems inc. csco pfizer inc. pfe <COMMA> and merck & co. mrk the best performers on the 30-company index <PUNC>
+<PAR>

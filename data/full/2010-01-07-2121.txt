@@ -1,0 +1,8 @@
+the dow jones industrial average dji ended <NUM> points higher <COMMA> up <NUM> percent <COMMA> at <NUM> <COMMA> led by a <NUM> percent jump in general electric ge <PUNC>
+bank of america bac rose <NUM> percent after credit suisse upgraded its investment rating on the stock <COMMA> calling the shares the cheapest among large-cap banks <PUNC>
+alcoa was the dow s worst performer <COMMA> off <NUM> percent as metals futures slipped <COMMA> hurt by an uptick in the dollar <PUNC>
+since monday s session <COMMA> which saw a brisk rally to begin <NUM> <COMMA> the dow has risen <NUM> points <COMMA> wavering between gains and losses each day <PUNC>
+some traders are holding their breath in anticipation of friday s u.s. jobs data and the start of fourth-quarter earnings season next week <COMMA> beginning with alcoa s announcement on monday <PUNC>
+the u.s. dollar index dxy was up <NUM> percent <COMMA> while the dow jones-ubs commodity index was off <NUM> percent <PUNC>
+oil futures slipped <NUM> cents to dollar <NUM> a barrel in new york <COMMA> snapping a 10-day winning streak in which the commodity had leapt nearly <NUM> percent <PUNC>
+<PAR>

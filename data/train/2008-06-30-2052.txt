@@ -1,0 +1,9 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> enough to keep the blue-chip index within just a hair of official bear market territory <PUNC>
+the dow has now fallen <NUM> percent from its october <NUM> high of <NUM> <COMMA> while it would need a <NUM> percent decline to be in bear-market market territory <PUNC>
+the dow lost <NUM> percent in june <COMMA> <NUM> percent in the second quarter and <NUM> percent year to date <PUNC>
+stocks sold off last week <COMMA> with oil topping dollar <NUM> a barrel and continued worries about financials and the economy sending the dow industrials on track for a <NUM> percent decline from its <NUM> highs <COMMA> the official mark of a bear market <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> advanced <COMMA> led by shares of at&t t <COMMA> up <NUM> percent and verizon vz up <NUM> percent <PUNC>
+the telecom firm s latest wireless phones will be able to download songs from subscription-music site rhapsody <COMMA> which said it will start selling unprotected songs online <PUNC>
+general motors corp. gm <COMMA> another blue-chip stock <COMMA> dipped <NUM> percent <COMMA> while rival ford motor co. f slumped <NUM> percent <COMMA> ahead of reporting june vehicle sales on tuesday <PUNC>
+on monday <COMMA> shares of yahoo inc. yhoo were down <NUM> percent after the firm <COMMA> in an official filing <COMMA> detailed why it rejected a dollar <NUM> billion takeover offer from microsoft corp. msft <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+u.s. stocks rallied thursday afternoon <COMMA> with the dow jones industrial average on course to post its highest close since early june <COMMA> as investors grew hopeful that the upcoming july employment report will convince the federal reserve to soften its monetary policy <PUNC>
+the dow jones industrial average dji threw off opening weakness to trade up <NUM> points at <NUM> <PUNC>
+earlier the dow was down as much as <NUM> points <PUNC>
+of the dow industrials <NUM> components <COMMA> <NUM> contributed to gains <PUNC>
+dow component wal-mart stores inc. wmt was <NUM> percent higher at dollar <NUM> <PUNC>
+the retailer s july same-store sales rose <NUM> percent <COMMA> in line with its own prediction and outstripping the forecasts of wall street analysts polled by thomson first call <PUNC>
+ford motor co. f overcame weakness to rise <NUM> cents to dollar <NUM> <PUNC>
+late wednesday <COMMA> the automaker doubled its previously reported second-quarter loss <PUNC>
+but rival general motors corp gm <COMMA> a dow component <COMMA> was down <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

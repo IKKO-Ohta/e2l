@@ -1,0 +1,4 @@
+the dow jones industrial average rose <NUM> percent for the week <COMMA> <NUM> percent for the month and scored a record close on wednesday <PUNC>
+the nasdaq composite gained <NUM> percent for the week and <NUM> percent for november <COMMA> finishing above <NUM> on tuesday for the first time since september <NUM> <PUNC>
+read more <PUNC> putting nasdaq <NUM> in perspective <PUNC>
+<PAR>

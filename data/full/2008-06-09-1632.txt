@@ -1,0 +1,5 @@
+the dow jones industrial average was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components advancing <PUNC>
+the bounce remained timid <COMMA> however <COMMA> relative to the dow industrials nearly 400-point drop on friday <PUNC>
+the slide came after news that the u.s. jobless rate jumped up to <NUM> percent <COMMA> just as oil surged nearly dollar <NUM> to approach dollar <NUM> a barrel <PUNC>
+leading the gains on the dow <COMMA> shares of mcdonald s rose <NUM> percent after reporting same-store sales rose <NUM> percent in may <PUNC>
+<PAR>

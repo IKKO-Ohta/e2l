@@ -1,0 +1,2 @@
+the dow jones industrial average dji ?retreated <NUM> points <COMMA> or less than <NUM> percent <COMMA> at <NUM> <PUNC>
+<PAR>

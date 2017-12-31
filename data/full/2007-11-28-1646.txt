@@ -1,0 +1,6 @@
+u.s. stocks surged higher for a second day wednesday <COMMA> with the dow industrials up more than <NUM> points <COMMA> after a federal reserve official s speech bolstered thinking that another interest-rate cut is coming in the weeks ahead <PUNC>
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <COMMA> led by the recently battered financial sector <PUNC>
+of the blue chips <COMMA> citigroup inc. c was up <NUM> percent and american international group inc. aig climbed <NUM> percent <PUNC>
+u.s. stocks bounced back on tuesday <COMMA> with a dollar <NUM> billion injection by an abu dhabi investment fund into citigroup giving a boost to the financial sector <PUNC>
+the dow industrials rose <NUM> points <COMMA> the nasdaq composite rose <NUM> points and the s&p <NUM> gained <NUM> points <PUNC>
+<PAR>

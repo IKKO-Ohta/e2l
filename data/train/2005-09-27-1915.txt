@@ -1,0 +1,5 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+within the dow <COMMA> boeing co. ba gained dollar <NUM> to dollar <NUM> <COMMA> extending a prior-session gain of <NUM> percent as the aerospace giant continued to benefit from news of a tentative agreement with its machinists union that could end a strike by more than <NUM> workers <PUNC>
+exxon mobil xom <COMMA> another dow component <COMMA> was off <NUM> cents at dollar <NUM> on a combination of lower oil and a downgrade from jp morgan <PUNC>
+the broker s downgrade comes as part of a wider ratings reshuffle on a number of oil stocks <PUNC>
+<PAR>

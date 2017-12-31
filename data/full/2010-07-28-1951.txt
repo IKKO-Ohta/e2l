@@ -1,0 +1,3 @@
+after a 70-point drop <COMMA> the dow jones industrial average dji scaled back its decline <COMMA> lately off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components on the decline <PUNC>
+aerospace giant boeing co. ba was among the laggards after it reported results that beat profit expectations but missed on revenue <PUNC>
+<PAR>

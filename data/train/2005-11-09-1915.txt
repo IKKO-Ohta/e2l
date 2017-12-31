@@ -1,0 +1,7 @@
+the dow jones industrial average rallied dji <COMMA> with <NUM> of its <NUM> components in the plus category <PUNC>
+gm gm fell by nearly <NUM> percent at one point <COMMA> hitting a 13-year low <COMMA> after a negative research note from deutsche bank raised questions about how the auto manufacturer would fare if parts supplier delphi dphiq suffers a strike <PUNC>
+another dow component <COMMA> home depot hd stock advanced more than <NUM> percent after receiving the piper jaffray upgrade <PUNC>
+and shares of american international group aig threw off weakness to trade higher <PUNC>
+the insurer revealed it will have to restate its financial results again and will delay its 10-q filing by five days <COMMA> after finding errors <PUNC>
+but the restatement will make the results stronger <PUNC>
+<PAR>

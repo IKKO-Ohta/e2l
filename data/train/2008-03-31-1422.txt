@@ -1,0 +1,2 @@
+up and down in early trade <COMMA> the dow jones industrial average dji was recently off <NUM> points at <NUM> <COMMA> with the blue-chip index looking at quarterly losses of roughly <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
+the benchmark index was pulled lower by general motors corp. gm <COMMA> aig aig and hewlett packard hpq <PUNC>
+the dow s other financial stocks american express axp <COMMA> bank of america bac <COMMA> citigroup c and j.p. morgan chase jpm each lost more than <NUM> percent <PUNC>
+<PAR>

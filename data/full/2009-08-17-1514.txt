@@ -1,0 +1,5 @@
+on the dow jones industrial average dji <COMMA> pharmaceutical giant pfizer inc. was the best-performing stock <COMMA> up nearly <NUM> percent <PUNC>
+the dow industrials were off <NUM> points at <NUM> <PUNC>
+the s&p <NUM> index spx fell <NUM> points to <NUM> <PUNC>
+and the nasdaq composite rixf declined <NUM> points to <NUM> <PUNC>
+<PAR>

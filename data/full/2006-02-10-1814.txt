@@ -1,0 +1,5 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> but had been down as much as <NUM> points at a session low of <NUM> <PUNC>
+of the index s <NUM> components <COMMA> <NUM> contributed to losses <PUNC>
+see <PUNC>
+shares of pfizer inc. pfe were down <NUM> percent at dollar <NUM> after the pharmaceutical giant said it expects <NUM> adjusted earnings of about dollar <NUM> a share <COMMA> slightly shy of analysts estimates <PUNC>
+<PAR>

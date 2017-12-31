@@ -1,0 +1,9 @@
+down more than <NUM> points earlier on <COMMA> the dow jones industrial average dji was more recently off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
+ibm corp. ibm proved an exception <COMMA> with big blue shares climbing <NUM> percent ahead of the company s third-quarter financial results <COMMA> due out after the market close <PUNC>
+other technology companies due to report after the close include yahoo inc. yhoo and dow component intel corp. intc <PUNC>
+on monday <COMMA> stocks posted their biggest drop in more than a month <PUNC>
+oil prices probed uncharted territory and citigroup c warned the credit crunch could dent fourth-quarter results after driving earnings of the nation s largest bank down <NUM> percent for the third quarter <PUNC>
+citigroup s shares <COMMA> part of the dow industrials <COMMA> surrendered another <NUM> percent in tuesday s action <PUNC>
+dow component johnson & johnson jnj saw its shares dip nearly <NUM> percent <PUNC>
+the world s biggest health-care products company reported a lower third-quarter profit <COMMA> but revenue came in above wall street expectations <PUNC>
+<PAR>

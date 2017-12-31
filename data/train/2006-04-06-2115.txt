@@ -1,0 +1,15 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of <NUM> components contributing to losses. <PUNC>
+wal-mart stores inc. wmt managed to post march same-store sales numbers that squeezed past its own recent forecast <COMMA> helped by strength at its sam s clubs chain <PUNC>
+shares in merck & co. mrk were down <NUM> percent at dollar <NUM> after a jury in new jersey delivered a split decision in the cases of two men who said they suffered heart attacks after taking vioxx <PUNC>
+there was better news for fellow dow component 3m <PUNC>
+mmm <PUNC>
+the diversified technology company <COMMA> perhaps best-known for its post-it notes <COMMA> raised its forecast for the first quarter <PUNC>
+3m shares rose to their best level in a year <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
+american express co. axp said it s restating <NUM> and <NUM> results for reclassifications of certain revenue <COMMA> expense items <PUNC>
+american express said the move won t hurt earnings in those years <COMMA> but the revised figures reduce <NUM> revenue by dollar <NUM> million and reduce <NUM> revenue by dollar <NUM> million <PUNC>
+the stock fell <NUM> cents to dollar <NUM> <PUNC>
+boeing co. shares ba gained <NUM> cents to dollar <NUM> after spanish airline air europa converted purchase rights into orders for <NUM> boeing next-generation 737-800 airplanes <PUNC>
+outside the dow <COMMA> shares of martha stewart omnimedia inc. mso rallied as much as <NUM> percent to dollar <NUM> <PUNC>
+federated department stores inc. fd said it was teaming up with home-decorating guru martha stewart to roll out a line of merchandise for macy s stores <PUNC>
+also <COMMA> shares in apple computer inc. aapl rose <NUM> percent to dollar <NUM> <COMMA> buoyed by positive analyst comment following its release wednesday of software that will enable its intel-based macs to operate microsoft s msft windows xp operating system <PUNC>
+<PAR>

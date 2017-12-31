@@ -1,0 +1,4 @@
+the kickoff of holiday shopping is seen as crucial for many merchants <COMMA> especially those looking to turn business positive for the year <PUNC>
+the season kicks into full force following a week in which the dow jones industrial average dji fell <NUM> percent and the nasdaq composite index rixf rose less than that <PUNC>
+expectations are high going into the holiday-shopping season <COMMA> according to sean kraus <COMMA> chief investment officer with citizens trust <COMMA> in pasadena <COMMA> calif. <COMMA> adding that retailers such as toys r us <COMMA> target corp. tgt and wal-mart stores inc. wmt already have been discounting toys and other goods much earlier to increase traffic <PUNC>
+<PAR>

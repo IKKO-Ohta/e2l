@@ -1,0 +1,8 @@
+the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
+on wednesday stocks closed with broad gains <COMMA> allowing the dow jones industrials to achieve a new record close and the s&p <NUM> to finish at its best level in more than <NUM> years <PUNC>
+the major averages all benefited from positive developments from yahoo inc. yhoo and sun microsystems inc. sunw <PUNC>
+at&t t rose <NUM> percent to dollar <NUM> before the start of trade <PUNC>
+the telecom posted a <NUM> percent rise in fourth-quarter earnings <COMMA> bolstered by strength in its wireless business <COMMA> amid a <NUM> percent increase in revenue <PUNC>
+microsoft corp. msft gained <NUM> cents to dollar <NUM> in early doings <PUNC>
+the company will release its earnings report after the close of trade <PUNC>
+<PAR>

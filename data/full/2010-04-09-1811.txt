@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> recently <COMMA> moving closer to the <NUM> level for the third time this week <PUNC>
+on the dow <COMMA> walt disney & co. dis was the measure s best performer <COMMA> up <NUM> percent <PUNC>
+chevron corp. cvx was also strong <COMMA> up <NUM> percent <COMMA> after the oil giant said it expects first-quarter profit to be higher than the previous quarter <COMMA> driven by higher earnings from its production and exploration operations <COMMA> which are benefiting from higher commodity prices <PUNC>
+exxon mobil corp. cvx shares climbed <COMMA> up <NUM> percent <PUNC>
+however <COMMA> alcoa inc. aa was the dow s weakest component <COMMA> down <NUM> percent <COMMA> after j.p. morgan chase cut its investment rating on the stock to neutral from overweight <PUNC>
+the firm cited lower earnings expectations based on a lower aluminum price forecast <PUNC>
+<PAR>

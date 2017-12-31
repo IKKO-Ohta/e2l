@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> stocks on the rise <COMMA> led by pharmaceutical giant merck & co. inc. mrk <COMMA> which gained nearly <NUM> percent <PUNC>
+the dow s losses were led by financial services giant american international group inc. aig <PUNC>
+its stock fell nearly <NUM> percent <PUNC>
+also dipping was the stock of honeywell international inc. hon <COMMA> slid more than <NUM> percent <PUNC>
+on tuesday u.s. stocks rallied in the morning <COMMA> but took heavy afternoon losses <COMMA> with the dow jones industrials tumbling <NUM> points <COMMA> the nasdaq composite losing <NUM> points and the s&p <NUM> falling <NUM> points <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> but had been up as much as <NUM> points earlier in the session <PUNC>
+of the dow industrials <NUM> components <COMMA> <NUM> contributed to losses. <PUNC>
+shares in dow component general motors corp. gm rose <NUM> percent to dollar <NUM> after merrill lynch upgraded the auto maker to buy from neutral <PUNC>
+the broker said the revised rating is based on expectations around <NUM> of the company s workers will accept its buyout program <COMMA> a number that would represent a significant acceleration in gm s restructuring plan <PUNC>

@@ -1,0 +1,11 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+boston scientific noted its bid represents a premium of dollar <NUM> billion <COMMA> or dollar <NUM> per share <COMMA> over the competing offer of johnson & johnson jnj <PUNC>
+boston said its amended offer expires at <NUM> p.m. eastern on tuesday unless its offer is declared superior by guidant s board <COMMA> a condition that would move the offer s expiration back to jan. <NUM> <PUNC>
+mcdonald s corp. mcd was one of only a handful of dow industrials components moving higher <COMMA> climbing as much as <NUM> percent to dollar <NUM> after the fast-food giant said it expects fourth-quarter earnings of <NUM> cents a share <COMMA> a penny above the current consensus as measured by thomson first call <PUNC>
+the company also reported a <NUM> percent jump in december sales from restaurants open at least a year <COMMA> known as same-store sales <PUNC>
+caterpillar inc. cat reversed course to trade higher as investors juggled two opposing broker views on the outlook for industrial and farm equipment maker <PUNC>
+after the close <COMMA> blue chips intel corp. intc and international business machines ibm are set to report their quarterly results <PUNC>
+investors are hoping strong earnings from these two companies will help erase last week s disappointing results out of fellow dow member alcoa inc. aa and a profit warning from dupont dd <COMMA> also part of the dow <PUNC>
+away from the dow <COMMA> yahoo yhoo is also slated to report after the bell <PUNC>
+the internet company s stock erased early losses to trade up <NUM> cents at dollar <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+among dow components <COMMA> shares of alcoa aa slipped more than <NUM> percent <COMMA> after the aluminum producer said it lost dollar <NUM> billion in the fourth quarter <PUNC>
+worries about earnings also hit financial shares on the dow <COMMA> with citigroup inc. c down <NUM> percent and bank of america bac off <NUM> percent <PUNC>
+but <NUM> of the dow s <NUM> components traded higher <COMMA> led by exxon mobil corp. xom and chevron corp. cvx <COMMA> with both stocks up more than <NUM> percent <COMMA> as crude oil futures rose dollar <NUM> <COMMA> or <NUM> percent <COMMA> to trade dollar <NUM> a barrel <COMMA> after falling sharply in recent sessions <PUNC>
+earnings worries <COMMA> notably in the financials sector <COMMA> pushed u.s. stocks to lows for the year so far on monday <PUNC>
+the dow jones industrial average dropped <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite dropped <NUM> points <PUNC>
+<PAR>

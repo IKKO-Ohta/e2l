@@ -1,0 +1,4 @@
+the dow jones industrial average dji also closed at a record level <COMMA> having hit an intraday high in morning session <PUNC>
+the blue-chip index rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and recorded its biggest weekly gain in nearly two years <PUNC>
+the dow swung wildly during october - moving triple-digits <NUM> times out of <NUM> <COMMA> but still ended the month higher <PUNC>
+<PAR>

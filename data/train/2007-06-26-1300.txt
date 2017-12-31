@@ -1,0 +1,5 @@
+the futures contract for the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
+on monday stocks closed a volatile session with losses amid continued nervousness about the subprime lending sector and two bear stearns hedge funds that have exposure to it <PUNC>
+the dow industrials dropped <NUM> points <COMMA> the s&p <NUM> fell <NUM> points and the nasdaq composite finished <NUM> points worse <PUNC>
+dow component altria group inc. mo will take a charge of dollar <NUM> million <COMMA> or <NUM> cents a share <COMMA> in its second quarter to shutter its 2,500-employee philip morris cigarette factory in cabarrus <COMMA> n.c. by <NUM> in a move to cut costs <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+completing its first five-week winning streak since october <NUM> <COMMA> the dow jones industrial average dji surged <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> up <NUM> percent for the week <PUNC>
+the s&p <NUM> index spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a <NUM> percent weekly climb <COMMA> while the nasdaq composite rixf climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a weekly rise of <NUM> percent <PUNC>
+<PAR>

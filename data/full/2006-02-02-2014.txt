@@ -1,0 +1,5 @@
+the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
+shares in wal-mart stores inc. wmt saw early gains fade in line with the pullback in the broader market <COMMA> even as the world s largest retailer put in its best monthly sales performance during its entire fiscal year <PUNC>
+in other news <COMMA> shares of general motors corp. gm fell <NUM> percent to dollar <NUM> <COMMA> hurt by a ubs downgrade to reduce on valuation grounds and concern over rising inventories that could lead to production cuts down the road for the carmarker and its rival <COMMA> ford motor co. f <PUNC>
+ford shares were down <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

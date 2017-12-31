@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> rebounding from a morning low of <NUM> <PUNC>
+nineteen of the blue-chip index s <NUM> components posted gains <PUNC>
+general motors corp. gm led gains among dow component stocks <COMMA> rallying more than <NUM> percent after a deutsche bank analyst said scales are tipping in favor of a federal bailout for the ailing automaker <PUNC>
+citigroup inc. c rose <NUM> percent <COMMA> continuing to climb after the government threw the ailing bank a fresh lifeline on monday <PUNC>
+bank of america corp. bac was the greatest laggard among the dow <NUM> <COMMA> off <NUM> percent <PUNC>
+<PAR>

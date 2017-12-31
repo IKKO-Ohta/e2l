@@ -1,0 +1,6 @@
+the s&p <NUM> spx closed near session highs <COMMA> up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf ended the day up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the setting of new records on a daily basis for the dow and s&p suggest a summer higher trading range is unfolding <PUNC>
+on the other hand <COMMA> from a technical perspective <COMMA> the market may be overly complacent and small pullbacks should be expected as the bull trend remains in place <COMMA> cardillo wrote <PUNC>
+<PAR>

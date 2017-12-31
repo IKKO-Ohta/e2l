@@ -1,0 +1,12 @@
+the dow jones industrial average ended at a four-month low friday in a week where the market succumbed to heavy losses on concerns over inflation <COMMA> rising global interest rates and slowing economic growth <PUNC>
+the dow industrials dji fell <NUM> points to <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to losses <PUNC>
+the dow fell <NUM> percent <COMMA> its worst weekly performance in more than a year <PUNC>
+the last time the index posted a bigger weekly loss was the week ending april <NUM> when it lost <NUM> percent <PUNC>
+the nasdaq composite tumbled <NUM> percent while the s&p <NUM> posted a weekly loss of <NUM> percent <PUNC>
+since may <NUM> <COMMA> the dow has fallen <NUM> percent <COMMA> the nasdaq composite has given up <NUM> percent while the s&p <NUM> has shed <NUM> percent <PUNC>
+alcoa inc. aa added <NUM> cents to dollar <NUM> after prudential upgraded the maker of aluminum products to neutral weight from underweight on valuation grounds <PUNC>
+coca-cola ko rose <NUM> cents to dollar <NUM> after it received an upgrade by bear stearns to outperform from peer perform <PUNC>
+the broker cited weakness in the dollar and improved results from germany <COMMA> mexico and brazil <PUNC>
+rotation into more defensive stocks also should favor the dow component <PUNC>
+<PAR>

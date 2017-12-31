@@ -1,0 +1,5 @@
+u.s. stocks on friday rose to record heights the dow industrials above <NUM> and the s&p <NUM> index above <NUM> as wall street celebrated the april jobs report <PUNC>
+up <NUM> percent from the week-ago close <COMMA> the dow jones industrial average dji hit a record intraday high of <NUM> <COMMA> and was lately up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in positive turf <PUNC>
+it s more psychological <COMMA> that level of <NUM> points <PUNC>
+the same with the dow at <NUM> <PUNC> they ve never made landmarks together <COMMA> said silverblatt of the milestones <COMMA> reached by the s&p <NUM> at the open and by the dow an hour later <PUNC>
+<PAR>

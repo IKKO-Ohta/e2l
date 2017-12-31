@@ -1,0 +1,4 @@
+up more than <NUM> points at the start <COMMA> the dow jones industrial average dji at midday was more recently off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
+case in point <PUNC> bank of america corp. s bac dividend reduction from dollar <NUM> to <NUM> cents <COMMA> a slashing that brings the s&p <NUM> payout and yield down by <NUM> percent <COMMA> according to silverblatt s calculations <PUNC>
+in afternoon trade <COMMA> shares of bank of america were down more than <NUM> percent <COMMA> proving the heaviest weight on the dow <PUNC>
+<PAR>

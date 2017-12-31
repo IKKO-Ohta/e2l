@@ -1,0 +1,8 @@
+the past week had started on a hopeful note that stocks had stabilized <COMMA> with the dow industrials rallying more than <NUM> points monday as federal reserve chairman ben bernanke backed more fiscal stimulus to boost the economy <PUNC>
+the dow dji slumped more than <NUM> points on wednesday <COMMA> and after a brief respite thursday <COMMA> it joined a sell-off in asian and european stock markets friday to lost another <NUM> points and finish the week at <NUM> <PUNC>
+on friday <COMMA> futures for the dow industrials were halted after they plunged more than <NUM> points as global markets skidded <PUNC>
+some in the market hoped for the market to experience capitulation <COMMA> when selling first reaches a climax that eventually leads to a bottoming out process <PUNC>
+other strategists <COMMA> such as johnson <COMMA> believe market lows were already made after near-panic selling on oct. <NUM> <COMMA> when the dow plunged to an intraday low of <NUM> <PUNC>
+next week brings another peak week for earnings <COMMA> with <NUM> s&p <NUM> companies reporting <PUNC>
+those dow components verizon vz on monday <COMMA> procter & gamble pg on wednesday <COMMA> exxon mobil xom on thursday <COMMA> and chevron cvx on friday <PUNC>
+<PAR>

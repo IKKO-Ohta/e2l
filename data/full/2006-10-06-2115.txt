@@ -1,0 +1,12 @@
+u.s. stocks fell friday after a mixed jobs report prompted some investors to lock in profits in a week where a slide in oil prices and increasing optimism over the economy propelled the dow jones industrial average to a new all-time high <PUNC>
+the dow industrials broke through a previous record high of <NUM> reached on jan. <NUM> <COMMA> <NUM> to set a new all-time high of <NUM> in intraday trading thursday <PUNC>
+on that day <COMMA> the blue-chip index also logged a record close of <NUM> <PUNC>
+in friday trading <COMMA> the dow dji fell <NUM> points to <NUM> <COMMA> weighed by a <NUM> percent slump in shares of general motors corp gm after a key adviser of one the carmaker s largest and most influential shareholders resigned from the board <PUNC>
+honeywell hon and jp morgan chase jpm were other notable decliners <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to losses <PUNC>
+among blue-chip gainers <COMMA> dupont dd shot up <NUM> percent on an upbeat broker note <PUNC>
+on the week <COMMA> the dow posted a gain of <NUM> percent <COMMA> the nasdaq composite rose <NUM> percent <COMMA> while the s&p <NUM> index added <NUM> percent <PUNC>
+it was a week in which the market caught a bout of recorditis <COMMA> said sam stovall <COMMA> senior investment strategist at standard & poor s <PUNC>
+the focus was on pushing the dow above its january <NUM> levels <PUNC>
+shares in general motors corp. gm fell as much as <NUM> percent after jerome york <COMMA> a close adviser and ally of activist billionaire shareholder kirk kerkorian resigned from the auto maker s board of directors <PUNC>
+<PAR>

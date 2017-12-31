@@ -1,0 +1,9 @@
+on tuesday <COMMA> johnson & johnson s jnj quarterly sales fell short of expectations <COMMA> with results from the health-care products maker leaving investors with little to cheer <PUNC>
+<PAR>
+but investor sentiment brightened after the market close <COMMA> with quarterly results from chip maker intel intc exceeding wall street s expectations <PUNC>
+<PAR>
+the major stock indexes were up more than <NUM> percent as the dow jones industrial average dji came within <NUM> points to topping <NUM> <COMMA> a level not breached since early october of last year <PUNC>
+the dow more recently stood at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+the s&p <NUM> index spx climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite index rixf advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+shortly after the opening bell <COMMA> the dow jones industrial average dji traded up <NUM> points at <NUM> <PUNC>
+earlier <COMMA> the dow had traded off about <NUM> points before paring its declines quickly <PUNC>
+financials and consumer companies were the hardest hit with j.p. morgan chase jpm <COMMA> american express axp and walt disney dis pacing the move lower <PUNC>
+both sectors had been at the forefront of a 200-point rally in the dow on thursday <PUNC>
+helping keep the dow in the green <COMMA> general electric ge rose <NUM> percent <PUNC>
+oppenheimer boosted its rating on the stock to outperform from perform <COMMA> saying the group s financial portfolio is stabilizing <PUNC>
+<PAR>

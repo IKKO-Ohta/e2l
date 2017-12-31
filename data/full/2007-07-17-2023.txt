@@ -1,0 +1,11 @@
+u.s. stocks closed mixed tuesday <COMMA> with upbeat earnings sending the dow jones industrial average to a record high finish <COMMA> but just shy of <NUM> <COMMA> a level it breached earlier in the day <PUNC>
+the dow industrials dji ended <NUM> points ahead <COMMA> at <NUM> <COMMA> after reaching <NUM> during the session <PUNC>
+the dow jones industrial average dji closed <NUM> points ahead <COMMA> at <NUM> <COMMA> after earlier reaching a high of <NUM> <PUNC>
+among the dow s <NUM> stocks <COMMA> <NUM> closed higher <COMMA> led by the likes of dupont dd <COMMA> microsoft corp. msft and intel corp. intc <PUNC>
+leading the gains among blue chips <COMMA> american express axp jumped <NUM> percent after being upgraded to buy from neutral at goldman sachs <PUNC>
+we believe that its network business is currently undervalued <COMMA> the brokerage said <PUNC>
+goldman sachs also upped the price target to dollar <NUM> from dollar <NUM> <PUNC>
+coca-cola co. ko fell <NUM> percent <COMMA> even after its second-quarter earnings exceeded expectations <PUNC>
+the stock had risen strongly since last week and hit a new high on monday <PUNC>
+johnson & johnson jnj fell <NUM> percent after earnings topped estimates but investors grew concerns over the future sales of its drug-coated coronary stents and the anemia therapy procrit/eprex <PUNC>
+<PAR>

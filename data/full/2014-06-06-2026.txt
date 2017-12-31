@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving the blue-chip index its second straight record close and a <NUM> percent weekly gain <PUNC>
+it has notched eight closing records so far this year <PUNC>
+the dow s weekly rise was also its strongest since april <NUM> <PUNC>
+the s&p <NUM> and the dow have each seen three straight weekly gains <PUNC>
+<PAR>

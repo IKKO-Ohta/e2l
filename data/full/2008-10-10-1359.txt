@@ -1,0 +1,5 @@
+u.s. stocks on friday started sharply lower <COMMA> with the dow jones industrial average sliding under <NUM> for the first time in more than five years <COMMA> as fears escalated that the trauma in the credit markets could pave the way to a global recession <PUNC>
+stocks retained their losses after general electric co. ge reported a third-quarter profit that met street expectations <COMMA> and said it was on pace to meet its revised projections for <NUM> <PUNC>
+in the first minutes of trade <COMMA> the dow industrials first plunged nearly <NUM> points to trade below the <NUM> mark for the first time since april <NUM> <COMMA> <NUM> <PUNC>
+but the dow quickly bounced back and was recently down <NUM> points at <NUM> <PUNC>
+<PAR>

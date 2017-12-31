@@ -1,0 +1,8 @@
+the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> a bit above its intraday low of <NUM> <PUNC>
+only three dow components ended the session in positive territory <PUNC>
+general motors corp. gm and wal-mart both lost <NUM> percent <PUNC>
+competitor ford motor co. f fell <NUM> percent after saying it would borrow about dollar <NUM> billion by the end of <NUM> to address its short- and medium-term needs <COMMA> fund its restructuring and provide a cushion against the possibility of a recession <PUNC>
+but dow component wal-mart wmt over the weekend said u.s. same-store sales in november fell <NUM> percent <COMMA> the first such monthly drop for the giant retailer since <NUM> <PUNC>
+banc of america also lifted its price target on home depot inc. hd <COMMA> a dow component <COMMA> to dollar <NUM> from dollar <NUM> previously <PUNC>
+lowe s gained <NUM> percent while home depot lost <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+u.s. stocks rose on monday <COMMA> the dow up for a fourth session straight <COMMA> with investors riding a wave of optimism sparked by tuesday s expected interest-rate cut and financial shares getting a lift from a hefty investment in swiss banking giant ubs ag <PUNC>
+up about <NUM> points earlier on <COMMA> the dow jones industrial average dji was more recently ahead <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of the blue-chip index s <NUM> components ahead <COMMA> led by caterpillar inc. cat <COMMA> up <NUM> percent <PUNC>
+the dow s financial shares also gained <COMMA> with j.p. morgan chase jpm up <NUM> percent <COMMA> and citigroup inc. c up <NUM> percent <PUNC>
+elsewhere on the dow <COMMA> shares of mcdonald s corp. mcd were up <NUM> percent after the fast-food chain reported an <NUM> percent jump in global sales at restaurants open a year or more <PUNC>
+<PAR>
+blue-chip laggards include american international group inc. aig <COMMA> off <NUM> percent <COMMA> and merck company inc. mrk and home depot inc. hd <COMMA> both down <NUM> percent <PUNC>
+<PAR>

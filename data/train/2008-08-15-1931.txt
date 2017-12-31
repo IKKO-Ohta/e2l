@@ -1,0 +1,4 @@
+after climbing nearly <NUM> points <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> readying the blue-chip index for a weekly loss of <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> posted late-afternoon gains <COMMA> recently led by procter & gamble co. pg <COMMA> up <NUM> percent <PUNC>
+chevron corp. cvx fronted declines among the blue chips <COMMA> with shares of the oil giant down <NUM> percent <PUNC>
+<PAR>

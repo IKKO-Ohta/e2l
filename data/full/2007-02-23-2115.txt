@@ -1,0 +1,4 @@
+the dow jones industrial average dji <COMMA> though off earlier lows <COMMA> remained down <NUM> points at <NUM> <COMMA> and was on track to post losses for the week <PUNC>
+on friday <COMMA> the dow was weighed by the likes of j.p. morgan chase jpm <COMMA> general motors corp. gm and pfizer inc. pfe <PUNC>
+microsoft msft also pressured the blue-chip average <COMMA> losing <NUM> percent <PUNC>
+<PAR>

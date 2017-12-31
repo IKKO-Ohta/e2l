@@ -1,0 +1,9 @@
+u.s. stocks rallied in afternoon trading friday <COMMA> with the dow jones industrial average posting a triple-digit gain on strong quarterly results from microsoft and procter & gamble <COMMA> and better-than-expected housing data <PUNC>
+the dow industrials dji were last up <NUM> points at <NUM> <PUNC>
+the stock market has been up four days out of five this week as it recovered from last friday s rout <COMMA> which saw the dow industrials plunge more than <NUM> points <PUNC>
+microsoft msft shares shot up as much as <NUM> percent to a more than seven-week high of dollar <NUM> on a strong fiscal second-quarter performance <PUNC>
+dow industrials component procter & gamble pg moved <NUM> percent higher to dollar <NUM> after the world s largest consumer-products company lifted its <NUM> profit estimate in the wake of quarterly results that topped analysts forecasts <PUNC>
+pfizer pfe shares rose <NUM> percent to dollar <NUM> <COMMA> as the drug giant s stock weathered a communications slip-up by chief executive hank mckinnell <PUNC>
+elsewhere in the dow industrials <COMMA> shares in wal-mart stores inc. wmt fell <NUM> cents to dollar <NUM> after j.p. morgan downgraded the retail giant to neutral from overweight <PUNC>
+the brokerage cited possible turbulence over the next <NUM> to <NUM> months with a new field organization structure and upscale merchandise and marketing initiatives <PUNC>
+<PAR>

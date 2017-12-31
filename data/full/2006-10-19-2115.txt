@@ -1,0 +1,16 @@
+u.s. stocks ended higher thursday <COMMA> with the dow jones industrial average closing above <NUM> for the first time after a raft of upbeat earnings reports led by apple computer inc. <COMMA> ebay inc and the coca-cola co. eased concerns about a slowing economy <PUNC>
+the record close came on the 19th anniversary of the stock market crash of <NUM> <COMMA> in which the dow fell <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> led by gains for coca-cola ko and altria group mo while both at&t t and verizon communications vz rallied on upbeat commentary from broker lehman bros <PUNC>
+honeywell international inc. hon was the biggest percentage decliner on the blue-chip index <COMMA> down <NUM> percent on concerns over its earnings outlook <PUNC>
+bankers bkx and brokers xbd struggled as citigroup c and bank of america bac weighed on the sector <PUNC>
+citigroup c fell <NUM> cents to dollar <NUM> as some analysts expressed disappointment over its earnings and revenue performance in the latest quarter <COMMA> notably a decline in revenue at its corporate and investment banking division <PUNC>
+pfizer pfe reported a dramatic jump in third-quarter earnings <COMMA> due largely to hefty charges taken during last year s quarter for its purchase of biotech group vicuron <COMMA> but also announced that its top-line isn t expected to grow again until <NUM> <PUNC>
+the stock fell <NUM> percent to dollar <NUM> <PUNC>
+coca cola ko gained <NUM> percent to dollar <NUM> after the company s earnings and revenue exceeded expectations <PUNC>
+meanwhile <COMMA> shares in honeywell international inc. hon tumbled <NUM> percent to dollar <NUM> <PUNC>
+the company s third-quarter profit was higher than analysts expected <COMMA> but when combined with the increase in its full-year view <COMMA> it suggests an implied fourth-quarter outlook that would be less than wall street observers had estimated <PUNC>
+advanced micro devices amd fell more than <NUM> percent to dollar <NUM> <PUNC>
+late wednesday the company said its quarterly profit rose <NUM> percent from a year ago <COMMA> but the stock was pressured by the company s report of lower profit margins and average selling prices for its chips <PUNC>
+that news signaled to some investors that rival intel corp. s intc attack may be taking its toll <PUNC>
+wal-mart stores inc. wmt rose <NUM> cents to dollar <NUM> after the world s largest retailer said it will expand its dollar <NUM> generic prescription program to <NUM> more states <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+the better-than-expected data initially helped the market recover some after the prior day s battering <COMMA> which had the dow jones industrial average dji losing <NUM> points the largest point drop since late <NUM> <PUNC>
+after leaping <NUM> points <COMMA> the dow was lately off <NUM> points at <NUM> <PUNC>
+<PAR>

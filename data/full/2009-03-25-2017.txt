@@ -1,0 +1,4 @@
+after trading higher for most of the day <COMMA> u.s. stocks reversed course lower <COMMA> only to stage another turn higher in the final moments of trade <COMMA> with financial shares pacing the gains <PUNC>
+the dow jones industrial average climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
+the s&p <NUM> index added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

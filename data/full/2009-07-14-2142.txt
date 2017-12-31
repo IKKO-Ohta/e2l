@@ -1,0 +1,3 @@
+on tuesday <COMMA> much better-than-expected earnings from goldman sachs group gs helped lift the market slightly <PUNC>
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+<PAR>

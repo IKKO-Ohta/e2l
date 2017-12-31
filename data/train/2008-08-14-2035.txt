@@ -1,0 +1,4 @@
+after an opening slide <COMMA> the dow jones industrial average dji reversed course <COMMA> climbing more than <NUM> points before shaving its advance to end at <NUM> <COMMA> up <NUM> points <PUNC>
+of the blue-chip index s <NUM> components <COMMA> <NUM> ended in the green <COMMA> fronted by automaker general motors corp. gm <COMMA> up <NUM> percent <PUNC>
+ahead of the economic data <COMMA> stock futures had posted modest gains after wal-mart stores inc. wmt reported a <NUM> percent rise in second-quarter profit <PUNC>
+<PAR>

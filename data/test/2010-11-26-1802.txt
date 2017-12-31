@@ -1,0 +1,10 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
+alcoa aa and dupont dd were hit the hardest <COMMA> falling <NUM> percent and <NUM> percent respectively <PUNC>
+friday s early drop puts the dow off about <NUM> percent for the week <COMMA> following its negative trend for the week of thanksgiving seen in recent years <PUNC>
+still <COMMA> retail shares were mixed <PUNC>
+wal-mart stores wmt fell <NUM> percent <PUNC> amazon.com amzn slipped <NUM> percent and tjx co. tjx shed <NUM> percent <COMMA> but gamestop gme jumped <NUM> percent <COMMA> big lots big climbed <NUM> percent and best buy bby added <NUM> percent <PUNC>
+ba fell <NUM> percent <PUNC>
+the company is making changes to the new <NUM> dreamliner s electrical system and the software that runs it after an in-flight fire and subsequent power failure aboard one of the planes more than two weeks ago <PUNC>
+the company did not say how long it would take to finish designing the changes and then implement them <PUNC>
+friday s drop which puts the dow off about <NUM> percent for the week <COMMA> following its negative trend for the week of thanksgiving seen in recent years came as the euro zone s sovereign debt crisis continued to escalate <COMMA> with the market homing in on spain as another potential weak spot <PUNC>
+<PAR>

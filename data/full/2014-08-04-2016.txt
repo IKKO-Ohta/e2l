@@ -1,0 +1,4 @@
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <COMMA> its first gain in three sessions <PUNC>
+the dow jones industrial average dji added as much as <NUM> points during the session <COMMA> before finishing the day <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> and snapping a four-day losing streak <PUNC>
+the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
+<PAR>

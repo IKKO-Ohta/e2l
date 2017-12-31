@@ -1,0 +1,7 @@
+the dow jones industrial average dji is off nearly <NUM> percent for the month <PUNC>
+since <NUM> <COMMA> the dow has gained an average <NUM> percent in the month of january <COMMA> for an average yearly gain of <NUM> percent <PUNC>
+the dow recently fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> while the nasdaq composite was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+a survey by the university of michigan and reuters showed consumer confidence rose in january <COMMA> but not as much as expected <PUNC>
+and consumer-products maker procter & gamble pg slumped more than <NUM> percent after warning its sales were slowing <PUNC>
+<PAR>

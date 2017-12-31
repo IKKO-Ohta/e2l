@@ -1,0 +1,6 @@
+the dow jones industrial average dji last was down <NUM> points at <NUM> <PUNC>
+i m nervous about this market <COMMA> said ken tower <COMMA> chief market strategist at cybertrader <COMMA> noting that the dow industrials earlier this week came within striking distance of its record closing high of <NUM> <COMMA> reached jan. <NUM> <COMMA> <NUM> <PUNC>
+makers of equipment used by heavy industry were hurt by the slowdown concerns <COMMA> including dow components caterpillar inc. cat <COMMA> shares of which moved down <NUM> percent <COMMA> and honeywell international inc. hon <COMMA> off <NUM> percent <PUNC>
+dow industrials component hewlett-packard hpq traded off <NUM> percent <PUNC>
+at&t inc t rose <NUM> percent to dollar <NUM> <COMMA> after earlier touching its best level since june <COMMA> <NUM> <COMMA> as bellsouth corp. bls rose <NUM> percent to dollar <NUM> <COMMA> after it struck its highest price since february <COMMA> <NUM> in intraday action <PUNC>
+<PAR>

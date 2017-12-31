@@ -1,0 +1,8 @@
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+six dow industrials components reported ahead of the market open <PUNC>
+coca-cola ko shares fell <NUM> percent after the beverage giant reported second-quarter sales that fell short of forecasts <COMMA> while profit topped estimates <PUNC>
+mcdonald s mcd shares dropped <NUM> percent after the fast-food restaurant chain reported earnings that came in below expectations <PUNC>
+microsoft msft also reports after the markets close <PUNC>
+also read <PUNC> apple <COMMA> microsoft to awaken comfortably numb markets <PUNC>
+<PAR>

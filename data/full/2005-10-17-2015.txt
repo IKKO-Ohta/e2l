@@ -1,0 +1,12 @@
+new york dow jones - u.s. stocks turned higher in the final half-hour of trading monday <COMMA> with the dow jones industrial average outperforming <COMMA> as altria surged on a favorable legal ruling and general motors rallied on the back of a union deal to cut health-care costs <PUNC>
+the dow industrials dji rallied to a morning high of <NUM> points in the wake of the altria ruling <PUNC>
+general motors corp. gm gained as much as <NUM> percent in early trading <COMMA> buoyed by news that it has reached agreement with the united auto workers union to reduce health-care costs for retirees by dollar <NUM> billion and cut its annual employee health-care expenses by about dollar <NUM> billion a year <PUNC>
+the car maker <COMMA> a member of the dow industrials <COMMA> also said it is exploring the sale of gmac <COMMA> its financing unit and is planning to cut <NUM> jobs or more to restore profitability <PUNC>
+fellow dow component altria group inc mo rallied to a record high after the u.s. supreme court rejected the u.s. government s appeal on a tobacco-settlement payout <PUNC>
+rival tobacco companies reynolds american rai and loews corp ltr also rose <PUNC>
+citigroup inc c shares came off a morning high of dollar <NUM> as analysts gave a lukewarm reception to the the banking giant s quarterly results <PUNC>
+international business machines ibm releases results after the market close <PUNC>
+the company is expected to earn dollar <NUM> a share on revenue of dollar <NUM> billion <PUNC>
+wal-mart stores wmt reiterated over the weekend that it expects to report an increase of <NUM> percent to <NUM> percent for october sales at locations open for at least one year <PUNC>
+meanwhile <COMMA> the leasing unit of american international group aig has ordered <NUM> boeing <NUM> dreamliner jets <COMMA> the wall street journal reported <PUNC>
+<PAR>

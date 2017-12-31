@@ -1,0 +1,8 @@
+u.s. stocks ended higher for a third day thursday <COMMA> as a more than <NUM> percent gain for caterpillar inc. lifted the dow jones industrial average to a new all-time record close <COMMA> and helped offset a fall in shares of wal-mart stores inc sparked by weak september sales <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> as caterpillar cat rallied after merrill lynch said it was one of <NUM> u.s. companies that would best benefit from strong sources of economic growth outside of the u.s. <COMMA> helping it to better weather the slowdown in the economy here <PUNC>
+other dow components on the list include altria group inc. mo <COMMA> coca-cola ko <COMMA> mcdonald s corp. mcd and united technologies utx <PUNC>
+discount retailers <COMMA> however <COMMA> struggled in september <PUNC>
+shares in wal-mart stores inc. wmt tumbled <NUM> percent to dollar <NUM> as a prior warning from the retailer that its sales would come in weaker than expected did little to take the sting out of the announcement <PUNC>
+sales in september at stores open at least a year rose just <NUM> percent <COMMA> far short of an analyst average estimate of a rise of <NUM> percent <COMMA> as compiled by thomson first call <PUNC>
+hewlett-packard co. hpq fell <NUM> cents to dollar <NUM> after california attorney general bill lockyer filed criminal charges against former chairwoman patricia dunn and four others tied to the company s investigation into boardroom leaks <PUNC>
+<PAR>

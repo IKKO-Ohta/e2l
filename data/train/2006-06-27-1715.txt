@@ -1,0 +1,8 @@
+u.s. stocks fell tuesday <COMMA> with weakness in the technology sector pacing the decline <COMMA> but a pullback in shares of general motors corp. and dupont also weighed heavily on the dow jones industrial average <PUNC>
+the dow industrials dji were last down <NUM> points at <NUM> <PUNC>
+general motors gm stock was last down <NUM> percent at dollar <NUM> after rising <NUM> percent in the prior session ahead of its announcement that <NUM> of its workers had agreed to buyout packages <PUNC>
+although workforce reductions will result in cost savings for the struggling auto maker <COMMA> analysts remain cautious about the outlook for the company <PUNC>
+shares of dupont dd fell <NUM> percent to dollar <NUM> after vivendi v sold its <NUM> million shares of the chemicals giant for dollar <NUM> million <COMMA> or dollar <NUM> a share <PUNC>
+the sale was expected after vivendi said earlier in the month that it had resolved a dispute with the u.s. internal revenue service over a <NUM> sale of dupont shares <PUNC>
+intel corp. intc was up <NUM> percent to dollar <NUM> after it sold its struggling communications-chip unit to marvell technology group ltd. for dollar <NUM> million in cash as it looks to focus on chips for personal computers and servers amid stiffer competition <PUNC>
+<PAR>

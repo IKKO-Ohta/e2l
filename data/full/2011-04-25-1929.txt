@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
+earnings scheduled for release later this week include ford motor co. f and exxon mobil corp. xom <PUNC>
+the u.s. market was closed for the good friday holiday <PUNC>
+on thursday <COMMA> u.s. stock indexes ended higher after robust results from corporations including apple inc. aapl <COMMA> with the dow industrials finishing at their highest level since june <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

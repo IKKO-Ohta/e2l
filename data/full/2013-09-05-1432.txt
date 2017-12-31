@@ -1,0 +1,4 @@
+after an early 35-point retreat <COMMA> the dow jones industrial average dji rose as much as <NUM> points and finished up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+intel corp. intc set the pace as <NUM> of the dow s <NUM> components rose <PUNC>
+leading blue-chip losses <COMMA> microsoft corp. msft fell <NUM> percent after morgan stanley cut its rating on the software maker following its deal to acquire nokia corp. s nok devices business <PUNC>
+<PAR>

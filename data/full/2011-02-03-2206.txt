@@ -1,0 +1,4 @@
+shaking off weakness that dogged the major indexes for much of the session <COMMA> the dow jones industrial average dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components climbing <PUNC>
+it was the highest close for the dow since mid-2008 and marked its fourth straight session of gains <PUNC>
+cisco systems inc. csco <COMMA> at&t inc. t and bank of america corp. bac all ended more than <NUM> percent higher <COMMA> leading blue-chip gainers <PUNC>
+<PAR>

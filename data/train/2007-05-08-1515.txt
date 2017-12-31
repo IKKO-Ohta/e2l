@@ -1,0 +1,5 @@
+the dow jones industrial average has advanced in <NUM> of the last <NUM> sessions <COMMA> marking its longest winning streak since <NUM> <PUNC>
+the dow industrials dji were down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components were in negative territory <COMMA> led by general motors corp. gm <PUNC>
+bucking the trend among dow components <COMMA> hewlett-packard co. hpq rose <NUM> percent after the computer maker raised its earnings and revenue outlook for the second quarter <PUNC>
+also <COMMA> walt disney & co. dis rose <NUM> percent ahead of its quarterly results after the close <PUNC>
+<PAR>

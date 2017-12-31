@@ -1,0 +1,6 @@
+the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> but rang up a weekly loss of <NUM> percent <PUNC>
+the blue-chip index moved more than <NUM> points in each of the five sessions this week <PUNC>
+nike s <NUM> percent jump on better-than-expected results added <NUM> points to the dow industrials <PUNC>
+meanwhile <COMMA> nike nke shares jumped <NUM> percent after the athletic apparel and gear maker late thursday posted better-than-expected earnings <PUNC>
+also read <PUNC> after <NUM> years as a public company <COMMA> nike is still a growth stock <PUNC>
+<PAR>

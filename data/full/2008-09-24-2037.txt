@@ -1,0 +1,4 @@
+the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> after bouncing between positive and negative territory throughout the session <PUNC>
+seventeen of the dow s <NUM> components ended in the red <COMMA> the losses led by citigroup inc. c <COMMA> down <NUM> percent <PUNC>
+merck & co. mrk led the minority advance among the blue chips <COMMA> up <NUM> percent <PUNC>
+<PAR>

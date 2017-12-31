@@ -1,0 +1,4 @@
+after falling nearly <NUM> points at the start <COMMA> the dow jones industrial average dji was down <NUM> points in midday trade to <NUM> <COMMA> with <NUM> of its <NUM> components posting declines <PUNC>
+blue-chip financials were among those hit <COMMA> with citigroup inc. c down <NUM> percent <COMMA> and american international group inc. aig off nearly <NUM> percent <PUNC>
+but shares of j.p. morgan chase jpm led the dow s advancing stocks <COMMA> its shares up <NUM> percent <PUNC>
+<PAR>

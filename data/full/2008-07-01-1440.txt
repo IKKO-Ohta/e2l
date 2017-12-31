@@ -1,0 +1,4 @@
+a better-than-expected report on u.s. manufacturing helped provide a brief reprieve <COMMA> but couldn t prevent the dow jones industrial average from slipping into bear-market territory <COMMA> with the blue-chip index having now lost over <NUM> percent from its october <NUM> high of <NUM> <PUNC>
+in recent action <COMMA> the dow industrials dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <COMMA> led lower by shares of general motors corp. gm <COMMA> home depot inc. gm <COMMA> and caterpillar inc. cat <PUNC>
+u.s. stocks on monday closed out the second quarter with steep losses <COMMA> with the dow losing <NUM> percent in june <COMMA> <NUM> percent in the second quarter and <NUM> percent for the year to date <PUNC>
+<PAR>

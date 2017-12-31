@@ -1,0 +1,10 @@
+u.s. stocks on thursday lapsed into a third day of losses <COMMA> pushing the dow below <NUM> <COMMA> after surprisingly soft data on the business climate in the mid-atlantic region stoked fresh worries about the nation s economy <PUNC>
+dipping below <NUM> for a second day <COMMA> the dow jones industrial average dji was recently off <NUM> points to stand at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+financials were well represented among the battered blue chips <COMMA> with citigroup inc. c off <NUM> percent and american express co. axp down <NUM> percent <PUNC>
+conversely <COMMA> the sector drew some help from a citigroup analyst lifting his view of american international group inc. aig <COMMA> upgrading the insurance giant and dow component to a buy <PUNC>
+also among the blue chips <COMMA> general motors corp. gm weighed <COMMA> with shares of the automaker recently down <NUM> percent <PUNC>
+gm said it would divert more of its capital toward the development and production of smaller cars <PUNC>
+<PAR>
+u.s. stocks had another tough session wednesday as fedex s outlook <COMMA> morgan stanley s earnings and fifth third bancorp s dividend cut all took a toll <PUNC>
+the dow industrials closed at a three-month low <PUNC>
+<PAR>

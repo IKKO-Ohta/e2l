@@ -1,0 +1,10 @@
+u.s. stocks rallied thursday <COMMA> pushing the dow jones industrial average back above the <NUM> level <COMMA> after the government said the economy shrank less than forecast in the third quarter <PUNC>
+the rampant market volatility continued <PUNC>
+after rising <NUM> points <COMMA> the dow jones industrial average dji gave much of it back <COMMA> only to then pick up steam again as the afternoon progressed to close <NUM> points ahead <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+all but five of the blue-chip index s <NUM> components ended in the green <COMMA> led by intel corp. intc <COMMA> up <NUM> percent <COMMA> and walt disney co. dis <COMMA> ahead <NUM> percent <PUNC>
+american express co. axp also bolstered the dow industrials <COMMA> its shares rising <NUM> percent after the financial-services company said it would slash <NUM> percent of its workforce <PUNC>
+<PAR>
+oil giant exxon mobil corp. xom <COMMA> another dow component <COMMA> edged <NUM> percent up after it reported nearly dollar <NUM> million in profit for the third quarter in what is a likely swan song for groundbreaking profit tied to this past summer s triple-digit prices for crude oil <PUNC>
+<PAR>
+on wednesday <COMMA> u.s. stocks staged another last-ditch turnaround to end mostly lower <COMMA> pushing the dow industrials back below the <NUM> level after the federal reserve cut its federal funds target rate as anticipated <PUNC>
+<PAR>

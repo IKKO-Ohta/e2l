@@ -1,0 +1,3 @@
+after six consecutive sessions higher <COMMA> the dow jones industrial average dji on monday fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components on the decline <PUNC>
+after the market closes on wednesday <COMMA> cisco systems inc. csco reports its fiscal first-quarter results <COMMA> with the globe s biggest maker of computer-networking equipment viewed as a bellwether for business investment <PUNC>
+<PAR>

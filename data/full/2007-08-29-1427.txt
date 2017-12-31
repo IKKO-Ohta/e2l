@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points at <NUM> points <COMMA> with <NUM> of the <NUM> dow components in positive territory <PUNC>
+leading the dow s gains <COMMA> general motors corp. gm and intel corp. intc rose <NUM> percent <PUNC>
+altria group mo rose <NUM> percent amid speculation that the tobacco giant may announce that it s spinning off its philip morris international division following a board meeting <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+on wall street <COMMA> financials fronted the losses as the market indexes dropped sharply as the session neared an end <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> leaving it poised for its third triple-digit decline this week <PUNC>
+the s&p <NUM> index spx dropped <NUM> points to <NUM> <COMMA> while the nasdaq composite index rixf declined <NUM> points to <NUM> <PUNC>
+<PAR>

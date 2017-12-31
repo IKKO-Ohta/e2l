@@ -1,0 +1,6 @@
+the dow jones industrial average dji <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <COMMA> fell <NUM> percent to <NUM> <COMMA> weighed by a <NUM> percent decline in manufacturing giant 3m co. mmm and aluminum producer alcoa inc. aa <PUNC>
+hewlett-packard s hpq profit climbed <NUM> percent on higher worldwide sales in its fiscal third-quarter <COMMA> the technology giant s final quarter with mark hurd at its helm <PUNC>
+but shares lost <NUM> percent <COMMA> as investors have been skittish about h-p since hurd left the company two weeks ago <COMMA> during which the stock has lost about <NUM> percent of its value <PUNC>
+the market s glum reaction to the two tech giants earnings did little to shake the market out of its recent gloom <PUNC>
+on thursday the dow slid <NUM> points and the s&p <NUM> fell nearly <NUM> percent after a weaker-than-expected jobs and business conditions data <PUNC>
+<PAR>

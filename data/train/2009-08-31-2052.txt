@@ -1,0 +1,2 @@
+after falling as much as <NUM> points early on <COMMA> the dow jones industrial average dji finished at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <COMMA> leaving the blue chips with an august rise of <NUM> percent <PUNC>
+<PAR>

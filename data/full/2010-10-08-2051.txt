@@ -1,0 +1,7 @@
+u.s. stocks ended firmly higher on friday <COMMA> with the dow industrials ending above <NUM> for the first time in five months <COMMA> after a worse-than-expected jobs report lifted expectations the federal reserve will soon boost monetary stimulus <PUNC>
+the dow dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> its first close above <NUM> since may <NUM> <COMMA> just days before the may <NUM> flash crash <PUNC>
+the dow gained <NUM> percent this week and is now up <NUM> percent year-to-date <PUNC>
+alcoa <COMMA> inc. aa shares led the blue-chip index <COMMA> jumping <NUM> percent after kicking off earnings season late thursday with results that exceeded analysts expectations <PUNC>
+the company also lifted its forecast for global aluminum demand in <NUM> <PUNC>
+read more on alcoa <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+up more than <NUM> points early on <COMMA> the dow jones industrial average dji lapsed <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> tallied losses <PUNC>
+bank of america corp. bac fronted blue-chip losses <COMMA> with shares of the financial institution off <NUM> percent <PUNC>
+other laggards included american express co. axp <COMMA> falling <NUM> percent <COMMA> and citigroup inc. c <COMMA> down <NUM> percent <PUNC>
+dow gains were led by coca-cola co. ko <COMMA> up <NUM> percent . <COMMA> and mcdonald s corp. mcd <COMMA> up <NUM> percent <PUNC>
+the nasdaq composite index rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with the tech sector pressured after yahoo inc. yhoo on saturday rejected a new offer from microsoft corp. msft and activist investor carl icahn <PUNC>
+<PAR>

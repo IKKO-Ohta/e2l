@@ -1,0 +1,7 @@
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <COMMA> with all <NUM> main sectors gaining <PUNC>
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+read the recap of our stock market live blog <PUNC>
+cisco systems inc. csco fell <NUM> percent after the networking-equipment company late wednesday said its fiscal second-quarter profit fell <PUNC>
+read <PUNC> cisco cfo <PUNC> there s been a slowdown <COMMA> and it s very abrupt <PUNC>
+<PAR>

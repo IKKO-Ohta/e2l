@@ -1,0 +1,4 @@
+word of aig s loss <COMMA> along with the government hiking its stake in the battered insurance giant <COMMA> helped push stocks down monday <PUNC>
+trading below <NUM> for the first time since oct. <NUM> <COMMA> <NUM> <COMMA> the dow jones industrial average dji was lately down <NUM> points at <NUM> <PUNC>
+the s&p <NUM> spx fell <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf shed <NUM> points to <NUM> <PUNC>
+<PAR>

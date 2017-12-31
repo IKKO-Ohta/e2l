@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> component stocks in negative territory <PUNC>
+among dow components <COMMA> insurance giant aig aig along with financials stocks american express axp <COMMA> citigroup inc. c and jp morgan chase jpm <COMMA> fell the most <PUNC>
+it earlier fell over <NUM> percent after banc of america securities downgraded prospective yahoo buyer microsoft msft to neutral from buy <PUNC>
+even if yahoo shareholders approve a deal with microsoft <COMMA> we believe the acquisition could face significant regulatory hurdles in the u.s. and particularly in the eu <COMMA> which could delay the acquisition from closing for quite some time <PUNC>
+u.s. stocks suffered a downbeat session monday <COMMA> with the dow industrials falling <NUM> points <COMMA> the s&p <NUM> dropping <NUM> points and the nasdaq composite retreating <NUM> points <PUNC>
+<PAR>

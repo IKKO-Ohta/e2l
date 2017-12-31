@@ -1,0 +1,4 @@
+more than <NUM> points off its session high <COMMA> however <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+twenty-three of the dow s <NUM> components gained <COMMA> led by general electric co. ge <COMMA> up <NUM> percent <PUNC>
+on tuesday <COMMA> 3m co. mmm hiked its earnings forecast for <NUM> <COMMA> with the industrial conglomerate and dow component saying it also expects to expand through acquisitions <PUNC>
+<PAR>

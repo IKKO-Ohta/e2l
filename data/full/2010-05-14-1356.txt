@@ -1,0 +1,7 @@
+the dow jones industrial average fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <PUNC>
+financial components sank after the u.s. senate approved measures opposed by credit- and debit-card issuers <PUNC>
+american express axp slid <NUM> percent while bank of america bac fell <NUM> percent <PUNC>
+j.p. morgan jpm also slid <NUM> percent <PUNC>
+technology components also weakened <COMMA> as investors shunned riskier stocks <PUNC>
+intel intc slipped <NUM> percent <COMMA> while hewlett-packard hpq fell <NUM> percent and cisco systems csco dropped <NUM> percent <PUNC>
+<PAR>

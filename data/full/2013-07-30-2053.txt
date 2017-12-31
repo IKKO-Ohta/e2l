@@ -1,0 +1,5 @@
+after a 72-point gain and a 43-point drop <COMMA> the dow jones industrial average dji ended off <NUM> points at <NUM> <PUNC>
+pfizer inc. pfe rose <NUM> percent after the drug maker and dow component posted second-quarter results <PUNC>
+j.p. morgan chase & co. jpm agreed to pay a dollar <NUM> million penalty and disgorge dollar <NUM> million to settle allegations of energy-market manipulation in california and the midwest <PUNC>
+shares of the dow component were off <NUM> percent <PUNC>
+<PAR>

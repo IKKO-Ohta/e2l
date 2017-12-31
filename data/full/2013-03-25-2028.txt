@@ -1,0 +1,2 @@
+after rising as much as <NUM> points and then falling <NUM> points <COMMA> the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+<PAR>

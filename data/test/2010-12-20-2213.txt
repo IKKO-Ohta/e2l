@@ -1,0 +1,8 @@
+u.s. stocks mostly rose on monday <COMMA> extending gains into a fourth week <COMMA> but the dow jones industrial average fell after concerns over proposed debit-card rules hit component american express co <PUNC>
+drifting between gains and losses for much of the session <COMMA> the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+of the index s <NUM> components <COMMA> <NUM> ended lower <PUNC>
+american express axp led dow decliners with a <NUM> percent drop <PUNC>
+stifel nicolaus & co. downgraded the charge-card issuer to hold from buy <COMMA> citing a drag from the federal reserve s plans to force reduction in debit-card interchange fees <PUNC>
+boeing co. ba was the second hardest hit among the blue chips <COMMA> with shares falling <NUM> percent <COMMA> on concern the aerospace manufacturer might again delay its <NUM> dreamliner <PUNC>
+and intel corp. intc slid <NUM> percent after the wall street journal reported that european regulators were reviewing the chip maker s proposed acquisition of mcafee inc <PUNC>
+<PAR>

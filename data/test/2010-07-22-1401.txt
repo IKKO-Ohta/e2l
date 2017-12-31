@@ -1,0 +1,6 @@
+at the same time <COMMA> a pack of encouraging corporate earnings figures from corporate america cheered the market <COMMA> helping the dow jones industrial average dji gain <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+dow components caterpillar cat and 3m mmm rose <NUM> percent and <NUM> percent respectively <COMMA> as the two economically-sensitive bellwethers reported soaring earnings numbers <COMMA> beating analyst expectations <PUNC>
+at&t t advanced <NUM> percent after it beat earnings forecast and issued strong guidance <COMMA> though it disappointed on revenues <PUNC>
+in the technology sector <COMMA> microsoft msft and amazon.com amzn will report results after the market closes <PUNC>
+microsoft gained <NUM> percent while amazon advanced <NUM> percent in trading <PUNC>
+<PAR>

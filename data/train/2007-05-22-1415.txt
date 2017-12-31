@@ -1,0 +1,2 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components advanced <COMMA> led by alcoa inc. aa <COMMA> intel corp. intc <COMMA> and merck & co. inc. mrk <PUNC>
+<PAR>

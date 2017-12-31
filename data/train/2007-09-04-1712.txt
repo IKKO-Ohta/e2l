@@ -1,0 +1,10 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components moving higher <PUNC>
+the blue-chip advance was led by verizon communications vz <COMMA> shares of which were up nearly <NUM> percent <PUNC>
+home depot hd led the dow s declining stocks <COMMA> dropping more than <NUM> percent and pacing a slide in retail-sector shares as well <PUNC>
+gaining along with the dow <COMMA> the s&p <NUM> spx was up <NUM> points at <NUM> and the nasdaq composite rixf was ahead <NUM> points at <NUM> <PUNC>
+ford was among the first as automakers geared up to report sales in the u.s. for last month <COMMA> with analysts expecting the lowest levels of sales since a strike at general motors gm nearly a decade ago <PUNC>
+pharmaceuticals traded actively <COMMA> including dow component merck & co. inc. mrk after positive results released sunday on its experimental cholesterol drug <PUNC>
+another study released during the weekend indicated drug-coated heart stents <COMMA> such as those made by boston scientific bsx and johnson & johnson jnj <COMMA> may not increase the risk of blood clots as much as previously thought <PUNC>
+shares of dow component intel intc traded up <NUM> percent <PUNC>
+banc of america securities increased its price target to dollar <NUM> from dollar <NUM> <COMMA> citing strong demand for notebook computers <PUNC>
+<PAR>

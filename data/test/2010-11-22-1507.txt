@@ -1,0 +1,7 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+dupont dd led the broad decline with a <NUM> percent <PUNC>
+intel intc was also weak <COMMA> off <NUM> percent <COMMA> and chevron cvx fell <NUM> percent <PUNC>
+hewlett-packard hpq was among just a few dow components that managed to climb <PUNC>
+h-p added <NUM> percent ahead of the company s quarterly earnings report due after the close <PUNC>
+investors will be keen to see what the technology giant s new chief executive <COMMA> leo apotheker <COMMA> says about the company s outlook following a cautious view from cisco csco earlier in the month <PUNC>
+<PAR>

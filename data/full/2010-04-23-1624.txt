@@ -1,0 +1,11 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> paring some of its quick climb after new home sales data showed a bigger-than-expected improvement <PUNC>
+american express co. axp was the measure s top performer <PUNC>
+shares rose <NUM> percent after the credit-card company reported its first-quarter profit doubled <COMMA> handily topping analysts expectations on tumbling loan-loss provisions and a <NUM> percent jump in card-member spending <PUNC>
+home depot inc. hd strengthened after the housing data <COMMA> up <NUM> percent <PUNC>
+microsoft msft was the measure s worst performer <COMMA> down <NUM> percent <PUNC>
+the company s quarterly profit rose <NUM> percent <COMMA> largely due to sales of the latest version of its windows operating system <COMMA> as corporate technology buyers began to join consumers in demand for personal computers <PUNC>
+but investors grew concerned over a lower-than-expected figure on total deferred revenue <PUNC>
+travelers cos. trv slipped <NUM> percent as an improvement in investment income at the insurer was wiped out by the insurer s worst-ever first quarter for natural disasters <COMMA> as snowstorms on the u.s. east coast and the earthquake in chile caused catastrophe costs to spike <PUNC>
+verizon communications vz was also weak <COMMA> down <NUM> percent <PUNC>
+goldman sachs cut its investment rating on the stock to neutral from buy <COMMA> noting the telecommunications giant s first-quarter report reflected continued pressure on the wireline business and pension- and storm-related costs <PUNC>
+<PAR>

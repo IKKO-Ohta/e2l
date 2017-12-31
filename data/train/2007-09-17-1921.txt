@@ -1,0 +1,7 @@
+at 3:20 p.m. eastern <COMMA> the dow jones industrial average dji was off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+coca-cola co. ko was leading the decline <COMMA> with its stock off <NUM> percent <PUNC>
+shares of dow component microsoft corp. msft slid <NUM> percent after a european court rejected the software giant s appeal of a <NUM> million euro dollar <NUM> million fine. <PUNC>
+general motors corp. gm was among the dow s few advancers <COMMA> its stock up <NUM> percent <COMMA> as the automaker continued contract talks with the united auto workers <PUNC>
+financial stocks <COMMA> including american express co. axp <COMMA> citigroup inc. c and jp morgan chase co. jpm were also trading lower on expectations the fed would cut the key rate only <NUM> basis points <COMMA> as opposed to <NUM> <COMMA> as some had hoped <PUNC>
+shares of business objects bobj gained <NUM> percent following reports the french-american business-intelligence software maker is looking for a buyer <COMMA> with germany s sap ag sap and ibm corp. ibm among the potential buyers <PUNC>
+<PAR>

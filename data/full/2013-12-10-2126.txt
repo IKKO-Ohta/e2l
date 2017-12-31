@@ -1,0 +1,4 @@
+the s&p <NUM> spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <PUNC>
+the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> while the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> as those two indexes also snapped two-day winning streaks <PUNC>
+the dow closed below its milestone level of <NUM> after finishing above it on monday and friday <PUNC>
+<PAR>

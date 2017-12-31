@@ -1,0 +1,3 @@
+after little more than an hour of trade <COMMA> a rally was underway <COMMA> with the dow jones industrial average dji standing at <NUM> <COMMA> up <NUM> <PUNC>
+the s&p <NUM> index spx rose <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf gained <NUM> points to stand at <NUM> <PUNC>
+<PAR>

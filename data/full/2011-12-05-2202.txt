@@ -1,0 +1,4 @@
+after rising <NUM> points <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+the session had both the s&p <NUM> and the nasdaq rejoining the dow industrials in positive turf for <NUM> <PUNC>
+by the closing bell <COMMA> the s&p <NUM> was back in negative territory for the year <COMMA> although just barely <PUNC>
+<PAR>

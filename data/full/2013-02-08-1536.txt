@@ -1,0 +1,4 @@
+stocks on wall street rose friday <COMMA> sending the dow industrials back above <NUM> <COMMA> following strong trade data from china and the u.s <PUNC>
+the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and the standard & poor s <NUM> index spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+in corporate news <COMMA> mcdonald s corp. mcd said its global comparable sales in january fell <NUM> percent <PUNC>
+<PAR>

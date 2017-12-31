@@ -1,0 +1,3 @@
+recently <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+of the index s <NUM> components <COMMA> <NUM> traded in the green <COMMA> led by merck & co. mrk <COMMA> walt disney co. dis and alcoa inc. aa <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+intel corp. intc and j.p morgan chase & co. jpm led the gains as the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+twenty-two of the dow s <NUM> components climbed <COMMA> led by j.p morgan <COMMA> up <NUM> percent <PUNC> bank of america corp. bac <COMMA> ahead <NUM> percent <PUNC> and intel <COMMA> which advanced <NUM> percent <PUNC>
+the portfolio manager recommended big large-cap companies that look cheap <COMMA> a list that for ward would include microsoft corp. msft <COMMA> which at <NUM> times earnings is still not a name the hot money has gravitated to <COMMA> he said <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components ahead <COMMA> with cyclical stocks among those advancing <COMMA> with alcoa inc. aa up <NUM> percent and caterpillar inc. cat ahead <NUM> percent <PUNC>
+verizon corp. vz led the dow s gains <COMMA> rising more than <NUM> percent <PUNC>
+ubs upgraded the telecom operator to buy from neutral <COMMA> citing improving fundamentals <PUNC>
+fellow dow component gm gm rose <NUM> percent after the automaker said it swung to a quarterly profit from a year-earlier loss <COMMA> while tobacco giant altria group inc. mo climbed <NUM> percent <PUNC>
+and johnson & johnson jnj gained <NUM> percent after the healthcare giant said it would cut costs in a sweeping restructuring plan that involves cutting up to <NUM> percent of its global workforce <PUNC>
+the dow was on track for modest gains for july <COMMA> while the s&p and the nasdaq were headed for monthly declines <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+wavering between modest gains and losses <COMMA> the dow jones industrial average dji was lately up <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx tacked on less than <NUM> point to <NUM> <COMMA> and the nasdaq composite index rixf added <NUM> points to <NUM> <PUNC>
+<PAR>

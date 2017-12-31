@@ -1,0 +1,3 @@
+the dow jones industrial average dji gyrated between positive and negative territory <COMMA> and was last up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components retreated <COMMA> weighed by the likes of home depot inc. hd <COMMA> honeywell international inc. hon <COMMA> jp morgan chase & co. jpm and microsoft corp. msft <PUNC>
+on the upside were shares of alcoa inc. aa <COMMA> citigroup inc. c <COMMA> intel corp. intc <COMMA> and merck & co. inc. mrk <PUNC>
+<PAR>

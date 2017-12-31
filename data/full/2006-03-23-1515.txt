@@ -1,0 +1,9 @@
+u.s. stocks traded little changed thursday after strong gains in the prior session took the dow jones industrial average to a fresh multi-year high <COMMA> but general motors corp. rallied after an investor group bought a majority stake in its gmac commercial unit in a deal valued at dollar <NUM> billion <PUNC>
+the dow jones industrial average dji was last down <NUM> point at <NUM> after climbing to its best level in nearly <NUM> years in the previous session <PUNC>
+since the beginning of the year <COMMA> the dow industrials are up more than <NUM> percent while the s&p <NUM> has climbed around <NUM> percent <PUNC>
+the nasdaq s gains have been a little more modest for the year <COMMA> with the tech-rich index up <NUM> percent <PUNC>
+this is due in part to the semiconductor sector sox <COMMA> which has risen only <NUM> percent over the last three months <PUNC>
+shares of general motors corp. gm rose <NUM> percent to dollar <NUM> after the carmaker completed a deal to sell a majority stake in gmac commercial holding corp <PUNC>
+the company said its gmac unit sold <NUM> percent of its equity in gmac commercial holding corp. for more than dollar <NUM> billion <PUNC>
+the company had previously said it was targeting the sale of a <NUM> percent stake <PUNC>
+<PAR>

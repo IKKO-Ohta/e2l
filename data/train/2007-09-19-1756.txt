@@ -1,0 +1,4 @@
+after scoring triple-digit gains on tuesday <COMMA> the dow jones industrial average dji on wednesday added <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <PUNC>
+alcoa inc. aa led the dow s rise <COMMA> gaining <NUM> percent <COMMA> followed by caterpillar inc. cat <COMMA> up <NUM> percent <COMMA> and honeywell international inc. hon <COMMA> ahead <NUM> percent <PUNC>
+proctor & gamble pg and ibm corp. ibm fronted the dow s declines <COMMA> with p&g s stock off <NUM> percent and ibm off <NUM> percent <PUNC>
+<PAR>

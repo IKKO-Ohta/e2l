@@ -1,0 +1,5 @@
+u.s. stocks surged thursday <COMMA> with the dow industrials looking at a possible close above where it stood just ahead of the collapse of lehman brothers <COMMA> with investors around the globe embracing the federal reserve s dollar <NUM> billion plan to stoke the economy <PUNC>
+after rising more than <NUM> points <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+the blue-chip index earlier hit an intraday high of <NUM> <COMMA> bringing it above the level where it finished sept. <NUM> <COMMA> <NUM> <PUNC>
+the dow fell <NUM> points on sept. <NUM> <COMMA> <NUM> <COMMA> the day of lehman s bankruptcy filing <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+procter & gamble pg was the dow s worst performer with a <NUM> percent drop <PUNC>
+the consumer-products giant s fiscal fourth-quarter sales jumped nearly <NUM> percent as the company launched new offerings and promoted its brands more heavily <COMMA> but the lower prices nicked results and sales grew less than the company had projected <PUNC>
+still <COMMA> pfizer pfe was a bright spot <PUNC>
+the drug company s stock leapt to the top of the dow <COMMA> jumping <NUM> percent <COMMA> after it posted a <NUM> percent increase in second-quarter earnings <PUNC>
+adjusted earnings and revenue beat analysts estimates <COMMA> with revenue boosted by pfizer s acquisition of wyeth <COMMA> and sales of its flagship drugs rose <PUNC>
+<PAR>

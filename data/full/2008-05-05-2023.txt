@@ -1,0 +1,7 @@
+the dow jones industrial average dji slid <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components settling in the red <PUNC>
+shares of general motors corp. gm led blue-chip declines <COMMA> with its stock down <NUM> percent <COMMA> followed by american insurance group inc. aig <COMMA> off <NUM> percent <PUNC>
+also weighing on the dow <COMMA> shares of bank of america bac fell <NUM> percent <COMMA> retreating after friedman billings ramsey & co. analyst paul miller said the bank was likely to negotiate a sharply lower price for countrywide but should just consider walking away <COMMA> as countrywide s loan portfolio will prove a drag on earnings <PUNC>
+blue-chip gains were led by alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
+elsewhere on the dow <COMMA> microsoft msft reversed earlier gains <COMMA> closing down <NUM> percent <COMMA> in the wake of its weekend decision to pull the plug on its takeover attempt of internet portal yahoo yhoo <PUNC>
+outside the dow <COMMA> shares of yahoo were down <NUM> percent <PUNC>
+<PAR>

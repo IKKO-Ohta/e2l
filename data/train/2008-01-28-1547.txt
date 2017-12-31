@@ -1,0 +1,10 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+u.s. stocks closed a turbulent week on friday with losses <COMMA> with the dow industrials falling <NUM> points <COMMA> the s&p <NUM> down <NUM> points and the nasdaq composite losing <NUM> points <PUNC>
+shares of mcdonald s corp. mcd fell <NUM> percent in the wake of the fast-food giant fourth-quarter results <PUNC>
+another blue chip <COMMA> verizon communications inc. vz <COMMA> declined <NUM> percent after it reported fourth-quarter earnings <PUNC>
+<PAR>
+shares of general motors gm gained <NUM> percent after a bankruptcy judge approved delphi s dphiq reorganization plan <PUNC>
+however <COMMA> deutsche bank warned that lenders have not signed up for delphi s dollar <NUM> billion financing package that would help it to exit bankruptcy proceedings <PUNC>
+over the weekend <COMMA> new york attorney general andrew cuomo launched a probe into merck mrk and schering-plough sgp over the timing of a release of a negative study into their cholesterol drug vytorin <PUNC>
+ubs upgraded merck to buy <COMMA> saying the sell-off on the trial s results was too steep <PUNC>
+<PAR>

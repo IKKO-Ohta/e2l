@@ -1,0 +1,2 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <COMMA> led by cisco systems inc. csco <COMMA> the globe s biggest maker of networking equipment <COMMA> up <NUM> percent <PUNC>
+<PAR>

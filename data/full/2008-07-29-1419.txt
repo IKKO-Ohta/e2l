@@ -1,0 +1,2 @@
+the dow jones industrial average rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> with the gains led by general motors corp. <COMMA> up <NUM> percent <PUNC>
+<PAR>

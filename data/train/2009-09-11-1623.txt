@@ -1,0 +1,4 @@
+after wobbling up and down during the morning <COMMA> stock indexes most recently were lower <COMMA> with consumer discretionary shares down the most <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx fell <NUM> points to stand at <NUM> <COMMA> while the nasdaq composite rixf declined nearly <NUM> point to <NUM> <PUNC>
+<PAR>

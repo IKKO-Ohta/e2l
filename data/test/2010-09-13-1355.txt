@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> continuing september s strong rally as the blue-chip index has risen in seven out of the last eight sessions and is up <NUM> percent this month <PUNC>
+financial components led the dow higher <COMMA> with bank of america bac up <NUM> percent and j.p. morgan chase jpm rising <NUM> percent <PUNC>
+among stocks in focus <COMMA> hewlett-packard hpq slightly rose <NUM> percent after agreeing to buy security-software maker arc sight for about dollar <NUM> billion <PUNC>
+meanwhile <COMMA> shares of arc sight arst soared <NUM> percent <PUNC>
+<PAR>

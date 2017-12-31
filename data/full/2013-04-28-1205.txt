@@ -1,0 +1,5 @@
+since the traditional start of earnings season on april <NUM> <COMMA> stocks are higher with the dow jones industrial average dji up <NUM> percent <COMMA> while the s&p <NUM> index spx has advanced <NUM> percent <COMMA> and the nasdaq composite index rixf has climbed <NUM> percent <PUNC>
+read where to find bargains in the top-performing sectors <PUNC>
+much of that gain came in the past week <COMMA> with the dow industrials rising <NUM> percent <COMMA> the s&p <NUM> up <NUM> percent <COMMA> and the nasdaq up <NUM> percent <PUNC>
+notable companies reporting include aetna inc. aet <COMMA> pfizer inc. pfe <COMMA> time warner inc. twx <COMMA> cvs caremark corp. cvs <COMMA> comcast corp. cmcsa <COMMA> merck & co. mrk <COMMA> cbs corp. cbs <COMMA> mastercard inc. ma <COMMA> viacom inc. via <COMMA> visa inc. v <COMMA> metlife inc. met and american international group inc. aig <PUNC>
+<PAR>

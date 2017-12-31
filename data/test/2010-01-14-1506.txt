@@ -1,0 +1,7 @@
+the dow jones industrial average dji added <NUM> points to <NUM> in early trading <PUNC>
+merck & co. mrk was the dow s top performer <COMMA> up <NUM> percent <COMMA> extending wednesday s gains <PUNC>
+verizon communications inc. vz weighed on the index <COMMA> as the telecommunications giant slipped <NUM> percent <PUNC>
+investors will be closely watching when intel corp. intc <COMMA> the world s largest microchip maker <COMMA> reports its fourth-quarter earnings after the market closes thursday <PUNC>
+j.p. morgan chase jpm will release its earnings friday <PUNC>
+while alcoa inc. s aa report earlier this week and disappointing employment and retail data may have dampened expectations <COMMA> investors will still be looking for companies to post higher revenue <COMMA> not just cut costs <PUNC>
+<PAR>

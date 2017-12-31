@@ -1,0 +1,6 @@
+stocks ended a wild ride solidly higher wednesday <COMMA> with the dow adding more than <NUM> points in the final hour as bargain-hunters flocked to an oversold market after a choppy day fueled by discomfort over the shaky housing and credit markets <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> ended ahead <PUNC>
+the market s been faced with fear and panic <COMMA> said peter bookvar <COMMA> equity strategist at miller tabak <COMMA> of the market volatility <COMMA> which had the dow rising from a loss of more than <NUM> points to close with a 150-point gain <PUNC>
+on tuesday u.s. stocks rallied in the morning <COMMA> but took heavy afternoon losses <COMMA> with the dow jones industrials tumbling <NUM> points <COMMA> the nasdaq composite losing <NUM> points and the s&p <NUM> falling <NUM> points <PUNC>
+<PAR>

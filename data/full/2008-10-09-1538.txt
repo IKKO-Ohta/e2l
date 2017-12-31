@@ -1,0 +1,9 @@
+after adding about <NUM> points early on <COMMA> the dow jones industrial average dji was recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+general motors corp. gm was the heaviest weight on the dow industrials <COMMA> the stock falling <NUM> percent to dollar <NUM> <COMMA> its first dip below dollar <NUM> a share since <NUM> <PUNC>
+off the dow <COMMA> shares of ford motor co. f slid <NUM> percent <PUNC>
+up about <NUM> percent at the start <COMMA> bank of america corp. bac erased its gains to trade lower <COMMA> recently down <NUM> percent <PUNC>
+the dow jones industrial average hit its peak of <NUM> exactly one year ago and has since lost nearly <NUM> percent of its value <PUNC>
+ibm ibm was among the shares shedding early gains <COMMA> with cheer fading even after the industry bellwether released its third-quarter earnings ahead of schedule <COMMA> reporting a <NUM> percent profit rise and reiterating its <NUM> outlook <PUNC>
+the stock market s advance comes one day after the u.s. federal reserve <COMMA> european central bank <COMMA> bank of england and other central banks made coordinated rate cuts <PUNC>
+the moves seemed to make little impact on wednesday with the dow industrials dropping <NUM> points <COMMA> the nasdaq composite falling <NUM> points and the s&p <NUM> shedding <NUM> points <PUNC>
+<PAR>

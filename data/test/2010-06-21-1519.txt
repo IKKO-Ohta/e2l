@@ -1,0 +1,4 @@
+u.s. stocks stepped solidly higher monday <COMMA> with the dow industrials up for a fifth consecutive session <COMMA> after china said it would let its currency appreciate against the dollar <COMMA> boosting hopes for u.s. manufacturers and other exporters <PUNC>
+after rising <NUM> points <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with aluminum maker alcoa inc. aa up <NUM> percent <COMMA> fronting the gains that included <NUM> of its <NUM> components <PUNC>
+the largest laggard was discount retailer wal-mart stores inc. wmt <COMMA> off <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+after falling more than <NUM> points early on <COMMA> the dow jones industrial average was more recently up <NUM> points at <NUM> <COMMA> near its session highs <COMMA> with <NUM> of its <NUM> components posting gains <COMMA> led by home depot inc. <COMMA> up almost <NUM> percent <PUNC>
+telecommunications firms also were among those gaining on the dow <COMMA> with verizon communications inc. and at&t inc. both up nearly <NUM> percent <PUNC>
+the gains came in the wake of a labor agreement between verizon and two unions representing <NUM> workers <PUNC>
+<PAR>
+u.s. stocks had ended sharply higher friday as strength in the dollar triggered losses for commodities <COMMA> notably oil <PUNC>
+transport and housing stocks led the advance <COMMA> in which the dow industrials rallied <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq added <NUM> points <PUNC>
+<PAR>

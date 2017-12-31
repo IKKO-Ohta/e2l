@@ -1,0 +1,10 @@
+u.s. stocks attempted to rebound on monday <COMMA> with the dow jones industrial average bouncing into positive territory led by technology socks <COMMA> while the broad market remained in the red amid fresh jitters in global markets overnight and concerns in the distressed subprime mortgage market <PUNC>
+after dropping more than <NUM> points right at the open <COMMA> the dow industrials dji was last up <NUM> points at <NUM> <COMMA> lifted by the likes of hewlett packard hpq <COMMA> ibm ibm and honeywell inc. hon <PUNC>
+news that the nonmanufacturing sector of the u.s. economy expanded at a slower pace in february - and was slower than economists expected - first sent the dow further in negative territory <PUNC>
+but the market seemed to find a floor right after the data <PUNC>
+the blue-chip average was still weighed by the likes of alcoa inc. aa <COMMA> jp morgan chase jpm and united technologies corp. utx <PUNC>
+on friday stocks ended lower <COMMA> with the dow posting its largest weekly percentage decline since march <NUM> <PUNC>
+equities last week were battered by the japanese yen s rally against the dollar <COMMA> more bad news for mortgage lenders and global anxieties <PUNC>
+alltel at also saw some gains <PUNC>
+the wall street journal reported that at&t corp. t is considering buying it <PUNC>
+<PAR>

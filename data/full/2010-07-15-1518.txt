@@ -1,0 +1,5 @@
+u.s. stocks slid sharply thursday <COMMA> derailing a seven-day climb for the dow industrials <COMMA> as economic data illustrated a slowing recovery <PUNC>
+the reports dimmed enthusiasm over strong earnings from financial powerhouse j.p. morgan chase & co <PUNC>
+after seven consecutive sessions of gains <COMMA> the dow jones industrial average dji fell more than <NUM> points <COMMA> and was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+all but one of the dow s <NUM> components tallied losses <COMMA> with bank of america corp. bac the greatest laggard <COMMA> off <NUM> percent <PUNC>
+<PAR>

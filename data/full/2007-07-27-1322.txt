@@ -1,0 +1,4 @@
+the futures contract for the dow jones industrial average dji last was off <NUM> points at <NUM> <PUNC>
+thursday s trading featured a 311-point loss for the dow and major losses for the other major averages <PUNC>
+numerous postponements and cancellations of loan deals <COMMA> weak housing data and poor results from home builders contributed to the tumult <PUNC>
+<PAR>

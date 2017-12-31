@@ -1,0 +1,2 @@
+down more than <NUM> points earlier on <COMMA> the dow jones industrial average dji was climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by home depot inc. hd <COMMA> up <NUM> percent <COMMA> and american express co. axp up <NUM> percent <PUNC>
+<PAR>

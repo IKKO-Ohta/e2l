@@ -1,0 +1,9 @@
+after a 67-point fall during the day <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+twenty-one of its <NUM> components finished in positive terrain <COMMA> led by bank of america corp. bac <COMMA> coca-cola co. ko and walt disney co. dis <PUNC>
+pharmaceutical giant johnson & johnson jnj led blue-chip decliners <COMMA> off <NUM> percent following a downgrade to neutral from overweight at j.p. morgan <PUNC>
+after the close <COMMA> alcoa inc. aa became the first member of the dow jones industrial average to release results for the first quarter when the aluminum producer reports its results <PUNC>
+lufkin industries inc. lufk rallied <NUM> percent after the general electric co. ge said it would acquire the manufacturer of oil-well pumps for about dollar <NUM> billion <COMMA> or dollar <NUM> a share <PUNC>
+the biggest earnings of the week will come from j.p. morgan chase & co. jpm and wells fargo & co. wfc <COMMA> which both report on friday <PUNC>
+<PAR>
+read <PUNC> earnings are first big stock test since market high <PUNC>
+<PAR>

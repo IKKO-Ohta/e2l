@@ -1,0 +1,9 @@
+new york dow jones u.s. stock prices closed higher friday <COMMA> as the dow jones industrial average posted its first gain for the month of september in seven years and all three major averages realized gains for the third quarter <PUNC>
+the dow industrials dji closed up <NUM> points at <NUM> <COMMA> up <NUM> percent for the month and up <NUM> percent from the second quarter <PUNC>
+it was the blue chip index s first quarterly gain of the year <PUNC>
+dow component boeing ba rose <NUM> percent to dollar <NUM> <COMMA> after the company s machinists union approved a new three-year contract thursday <PUNC>
+the move ends a strike and restarts the global aerospace giant s jetliner production after almost a month of inactivity <PUNC>
+tobacco stocks were in focus after canada s supreme court ruled that the country s provinces may sue the industry for smoking-related health risks <PUNC>
+altria group inc. mo was closed <NUM> cents higher at dollar <NUM> <PUNC>
+in toronto trade shares of canada s rothmans inc were down as much as <NUM> percent <PUNC>
+<PAR>

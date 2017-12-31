@@ -1,0 +1,4 @@
+the dow jones industrial average dji <COMMA> which has posted a 106-point gain in the last two sessions combined <COMMA> was recently up <NUM> points to <NUM> <COMMA> within <NUM> points of its 14-month closing high set dec. <NUM> <PUNC>
+boeing co. ba was the measure s best performer <COMMA> up <NUM> percent after it acquired alenia north america s <NUM> percent stake in global aeronautica llc <PUNC>
+boeing is trying to get more control over the sprawling global supply chain that led to problems and delays of its <NUM> dreamliner aircraft <PUNC>
+<PAR>

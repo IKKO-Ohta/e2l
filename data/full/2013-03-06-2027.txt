@@ -1,0 +1,7 @@
+u.s. stocks on wednesday tallied mild gains <COMMA> while the dow jones industrial average remained on track to close at a record high for a second session <PUNC>
+a day after closing at an all-time high <COMMA> the dow jones industrial average dji furthered its gains <COMMA> rising as much as <NUM> points and lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+read a commentary piece by the charles schwab ceo on whether it s time to get into the market or get out <PUNC>
+on tuesday <COMMA> the dow industrials surpassed their closing high reached on oct. <NUM> <COMMA> <NUM> <COMMA> just ahead of the global financial meltdown <PUNC>
+the index rallied <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> sailing past its all-time intraday high of <NUM> set on oct. <NUM> <COMMA> <NUM> <PUNC>
+see <PUNC> u.s. stock rally lifts dow to record finish <PUNC>
+<PAR>

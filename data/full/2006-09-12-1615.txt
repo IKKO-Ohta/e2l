@@ -1,0 +1,9 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+hewlett-packard co. hpq was up <NUM> percent at dollar <NUM> after chairman patricia dunn said she would step down from her post in january <NUM> <PUNC>
+h-p s chief executive officer mark hurd will replace her as chairman at that date <PUNC>
+on the dow <COMMA> mcdonald s corp. mcd said u.s. sales at restaurants open at least one year rose <NUM> percent in august <PUNC>
+europe same-restaurant sales increased <NUM> percent for the month <COMMA> and same-store sales in asia/pacific <COMMA> middle east & africa rose <NUM> percent <PUNC>
+systemwide sales for mcdonald s restaurants worldwide increased <NUM> percent in august <COMMA> or <NUM> percent in constant currencies <PUNC>
+the stock was up <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

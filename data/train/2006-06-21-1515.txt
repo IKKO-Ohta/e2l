@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up almost <NUM> points at <NUM> <COMMA> with only at&t t in negative territory among the blue-chip barometer s <NUM> components <PUNC>
+among technology stocks seeing buying interest <COMMA> hewlett-packard hpq moved nearly <NUM> percent higher at dollar <NUM> <PUNC>
+the company said it plans to grant more autonomy to its three business groups <PUNC>
+robert baird reiterated an outperform rating on the blue-chip bellwether <COMMA> citing the company s plan to restructure some bureaucratic activities <PUNC>
+fellow dow industrials component intel inc. intc rose <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

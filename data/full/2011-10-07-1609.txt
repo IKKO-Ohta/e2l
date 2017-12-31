@@ -1,0 +1,4 @@
+extending gains into a fourth day and up <NUM> percent for the nearly finished week <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by pfizer inc. pfe and merck & co. inc. mrk <COMMA> the former up <NUM> percent and the latter <NUM> percent <PUNC>
+blue-chip laggards involved a trio of financial companies <COMMA> with bank of america corp. bac off <NUM> percent and jpmorgan chase & co. jpm down <NUM> percent <PUNC>
+sprint this week joined rivals at&t inc. t and verizon wireless in offering the iphone <COMMA> with the latest version available for pre-order friday morning <PUNC>
+<PAR>

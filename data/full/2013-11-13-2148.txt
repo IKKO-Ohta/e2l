@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> besting monday s record close <PUNC>
+each index also scored an all-time intraday high <COMMA> with the s&p <NUM> finishing at that intraday high of <NUM> <COMMA> according to factset data <PUNC>
+* choppiness before yellen <PUNC> stocks have been choppy ahead of a senate confirmation hearing on thursday for yellen <PUNC>
+u.s. stocks closed lower on tuesday <COMMA> breaking a two-day run for both the dow industrials and the s&p <NUM> after some fed officials delivered fresh warnings about potential reduction in stimulus <PUNC>
+<PAR>

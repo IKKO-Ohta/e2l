@@ -1,0 +1,9 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+all of the dow s <NUM> components were in negative territory <PUNC>
+among the biggest decliners was citigroup c <COMMA> whose shares fell <NUM> percent to dollar <NUM> <PUNC>
+on wednesday <COMMA> u.s. stocks finished with mild gains amid concerns over holiday retail sales and downbeat housing data <PUNC>
+the dow industrials rose <NUM> points <COMMA> the nasdaq composite rose <NUM> points and the s&p <NUM> added a point <PUNC>
+shares of citigroup c fell <NUM> percent after goldman sachs analysts said the financial-services giant may be forced to cuts its dividend by <NUM> percent due to write-downs now estimated at dollar <NUM> billion in the fourth quarter <PUNC>
+goldman is also forecasting write-offs pegged at dollar <NUM> billion for merrill lynch & co. mer and dollar <NUM> billion for j.p. morgan jpm <PUNC>
+shares of the other two banks also declined <PUNC>
+<PAR>

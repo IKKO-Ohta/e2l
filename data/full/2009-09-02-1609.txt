@@ -1,0 +1,4 @@
+on wednesday <COMMA> the major indexes wavered between gains and losses <COMMA> with utilities recently weighing the most <COMMA> and the material sector fronting gains <PUNC>
+the dow jones industrial average dji was up <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx stood at <NUM> <COMMA> up less than <NUM> point <COMMA> and the nasdaq composite index rixf added <NUM> points to <NUM> <PUNC>
+<PAR>

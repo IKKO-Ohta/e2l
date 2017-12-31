@@ -1,0 +1,3 @@
+after shedding more than <NUM> points <COMMA> the dow industrials dji was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components lower <COMMA> led by chip manufacturer intel corp. intc <COMMA> which shed <NUM> percent <PUNC>
+dow component boeing co. ba reported a steep hike in third-quarter profits <COMMA> but trimmed its revenue forecast for next year <PUNC>
+<PAR>

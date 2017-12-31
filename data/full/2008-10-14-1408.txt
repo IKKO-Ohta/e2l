@@ -1,0 +1,9 @@
+the dow jones industrial average dji surged as much as <NUM> points before backing off <COMMA> more recently up <NUM> points at <NUM> <PUNC>
+general motors corp. gm surged more than <NUM> percent after reports the auto giant had contemplated a merger <PUNC>
+the dow industrials rose <NUM> points <COMMA> the s&p <NUM> added <NUM> points and the nasdaq composite put on <NUM> points <PUNC>
+attention on tuesday turned to the u.s. government plan to inject capital into several top institutions <COMMA> including blue chips citigroup inc. c <COMMA> j.p. morgan chase jpm and bank of america corp. bac <PUNC>
+banking guru skeptical of treasury plan <PUNC>
+but pharmaceutical giant johnson & johnson jnj nudged its <NUM> earnings outlook higher on solid sales growth for its consumer products and a favorable foreign-exchange rate <PUNC>
+<PAR>
+fell dow component intel corp. intc reports quarterly results after tuesday s close <PUNC>
+<PAR>

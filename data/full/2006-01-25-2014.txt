@@ -1,0 +1,9 @@
+the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> off a morning high of <NUM> <PUNC>
+shares of boston scientific corp. bsx gave up <NUM> percent to trade at dollar <NUM> after guidant corp. gdt agreed to be acquired by the company <COMMA> walking away from a lower bid from johnson & johnson jnj <PUNC>
+caterpillar inc. cat was the biggest percentage gainer on the dow <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
+the industrial and farm equipment maker is set to report quarterly results ahead of the bell thursday <PUNC>
+sap s results gave a boost to rival software makers shares <PUNC>
+oracle corp. orcl rose <NUM> percent to dollar <NUM> while microsoft corp. msft tacked on <NUM> cents to dollar <NUM> <PUNC>
+shares of 3m co. mmm fell <NUM> cents to dollar <NUM> on a downgrade from longbow research to neutral from buy <PUNC>
+the broker cited a slowing earnings and revenue outlook <COMMA> in the wake of the company s fourth-quarter results released on tuesday <PUNC>
+<PAR>

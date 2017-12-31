@@ -1,0 +1,3 @@
+on monday <COMMA> stocks slumped to 12-year lows <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> marking its lowest close since may of <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+last week <COMMA> intel corp. intc <COMMA> the world s biggest chip maker <COMMA> unnerved the market when it lowered its revenue forecast <PUNC>
+intel shares were last down <NUM> cents at dollar <NUM> <PUNC>
+qwest communications international q fell <NUM> percent to dollar <NUM> after citigroup cut its rating on the stock to sell from hold <COMMA> citing possible negative fallout from at&t corp. s t new agreement to buy bellsouth corp <PUNC>
+legg mason lm was in the spotlight after financial-services giant citigroup c said it plans to sell <NUM> million shares of the baltimore-based mutual-funds company <PUNC>
+legg mason s stock was down <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

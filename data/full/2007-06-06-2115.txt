@@ -1,0 +1,5 @@
+u.s. stocks fell sharply wednesday <COMMA> with the dow jones industrial average posting a loss of more than <NUM> points <COMMA> after news that unit labor costs jumped in the first quarter fueled concerns over inflation <COMMA> interest rates and rising bond yields <PUNC>
+the dow industrials dji closed down almost <NUM> points at <NUM> <COMMA> after earlier trading as low as <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> retreated <COMMA> including dupont dd <COMMA> home depot inc. hd <COMMA> ibm ibm <COMMA> intel corp. intc <COMMA> and united technologies utx <PUNC>
+on tuesday <COMMA> the dow industrials fell <NUM> points <COMMA> after data showing improving sentiment in the service sector and remarks from federal reserve chairman ben bernanke who continued to highlight the fed s concerns over inflation <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+with the market finding its footing on wednesday when the dow jones industrial average rebounded after falling below <NUM> many investors who bet that stocks would fall further were forced to buy back shares to cover their positions <PUNC>
+after rising in early trade <COMMA> the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
+among blue chips <COMMA> hewlett-packard co. hpq rose <NUM> percent after its board authorized an additional dollar <NUM> billion in its share buyback plan <PUNC>
+microsoft corp. msft fell up <NUM> percent <COMMA> even after news that it has won a partial victory in its ongoing patent dispute with alcatel-lucent alu <PUNC>
+wal-mart stores inc. wmt gained <NUM> percent after news that it s abandoning plans to launch an industrial loan company <PUNC>
+<PAR>

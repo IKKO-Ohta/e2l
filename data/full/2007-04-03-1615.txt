@@ -1,0 +1,7 @@
+u.s. stocks rallied on tuesday <COMMA> lifting the dow jones industrial average by over <NUM> points <COMMA> as investors cheered a drop in crude oil prices amid easing tensions between the uk and iran <COMMA> and with sentiment lifted by a rise in pending homes sales in february <PUNC>
+the dow jones industrial average dji rallied <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components rose <PUNC>
+it earlier reached a 5-week high of <NUM> <PUNC>
+leading the gains on the dow were shares of altria group inc. mo <COMMA> home depot inc. hd and wal-mart stores inc. wmt <PUNC>
+exxon mobil corp. xom was the only blue-chip stock falling <COMMA> as crude oil prices fell over <NUM> percent to below dollar <NUM> a barrel <PUNC>
+auto sales reports for march from ford motor co. f <COMMA> general motors corp gm and daimlerchrysler ag dcx u.s. unit chrysler corp will dribble out throughout the day and are expected to show that the domestic auto industry is still having trouble selling to consumers <PUNC>
+<PAR>

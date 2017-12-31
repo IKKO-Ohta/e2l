@@ -1,0 +1,2 @@
+the dow jones industrial average lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components lower <COMMA> led by a <NUM> percent drop in shares of american international group <PUNC>
+<PAR>

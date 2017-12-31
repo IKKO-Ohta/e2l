@@ -1,0 +1,4 @@
+while crude s climb on friday had it rallying to its highest point yet for the year <COMMA> a barrel of oil remains roughly half of where it stood at its height last summer <COMMA> when crude-oil futures on july <NUM> hit an intraday high of dollar <NUM> <COMMA> with the dow industrials shed <NUM> points that day <PUNC>
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the s&p <NUM> index spx climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite index rixf also rose <COMMA> up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

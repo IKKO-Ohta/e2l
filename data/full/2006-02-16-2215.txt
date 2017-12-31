@@ -1,0 +1,9 @@
+u.s. stocks closed sharply higher thursday <COMMA> as the dow jones industrial average strode to a new 4-1/2-year high <COMMA> bolstered by robust data and better-than-expected earnings in the technology sector <PUNC>
+the dow jones industrial average dji closed up <NUM> points at <NUM> <PUNC>
+the benchmark index is at its best standing since may <COMMA> <NUM> <PUNC>
+shares in dow component hewlett-packard co hpq closed <NUM> percent higher at dollar <NUM> <COMMA> after earlier touching a near five-year high of dollar <NUM> <PUNC>
+the computer and printer maker posted forecast-beating results <PUNC>
+its first-quarter profit shot up <NUM> percent over year-ago levels <COMMA> buoyed by higher personal-computer sales and the implementation of a major restructuring of the company <PUNC>
+in other news <COMMA> a consortium led by cerberus capital management and citigroup s c private-equity arm is the front-runner to buy a majority stake in general motors acceptance corp. <COMMA> the financing arm of general motors corp. gm <COMMA> according to a report in the wall street journal <PUNC>
+gm shares closed up more than <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

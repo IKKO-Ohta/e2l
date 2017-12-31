@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent to <NUM> <COMMA> in recent trading <PUNC>
+caterpillar cat was among the measure s top performers <COMMA> up <NUM> percent <COMMA> after the industrial giant posted a <NUM> percent year-over-year jump in machine sales in asia for may <PUNC>
+that encouraged optimism about asia <COMMA> and especially china <COMMA> where efforts to put the brakes on growth have prompted worries about demand <PUNC>
+<PAR>

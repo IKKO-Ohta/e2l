@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+the university of michigan s december consumer sentiment survey came in with a reading of <NUM> <PUNC>
+the dow jones forecast <COMMA> based on a poll of economists <COMMA> was for an unchanged reading of <NUM> <PUNC>
+<PAR>

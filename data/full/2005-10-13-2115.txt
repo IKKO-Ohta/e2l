@@ -1,0 +1,7 @@
+the dow jones industrial average dji lost less than a point <COMMA> closing down <NUM> at <NUM> <COMMA> well off an intraday low of <NUM> <PUNC>
+the s&p <NUM> spx ended down <NUM> point at <NUM> <PUNC>
+the nasdaq composite rixf <COMMA> breaking from the pack <COMMA> ended <NUM> points higher at <NUM> <PUNC>
+mcdonald s corp. mcd closed up <NUM> percent at dollar <NUM> <COMMA> after the fast-food chain reported strong september sales and served up profit projections that outpaced wall street s expectations <COMMA> partly due to a rebound in europe <PUNC>
+dupont dd <COMMA> also among the dow <NUM> <COMMA> fell <NUM> percent to dollar <NUM> after confirming plans to repatriate dollar <NUM> billion by the end of the year and said it would spend dollar <NUM> million to replace equipment damaged by hurricane katrina <PUNC>
+johnson & johnson jnj rose <NUM> percent at dollar <NUM> after a generally favorable mention in a press report <PUNC>
+<PAR>

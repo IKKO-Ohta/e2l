@@ -1,0 +1,7 @@
+the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> bouncing between small gains and losses <PUNC>
+american express axp weighed on the dow with a drop of <NUM> percent on concerns that the company is seeing weak demand for new loans <COMMA> with lending volumes still below pre-recessionary levels <PUNC>
+verizon communications vz dropped <NUM> percent on disappointment over slowing subscriber growth in its wireless arm <PUNC>
+read more on american express <PUNC>
+despite friday s choppy trading <COMMA> the dow and the s&p <NUM> are set to close the week in positive territory <COMMA> on pace for their third-straight week in the black and seventh weekly gain out of the last eight weeks <PUNC>
+this week s advance has come as third-quarter earnings have topped expectations <PUNC>
+<PAR>

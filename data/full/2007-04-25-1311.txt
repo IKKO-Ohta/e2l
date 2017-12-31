@@ -1,0 +1,5 @@
+u.s stocks were set for a higher open on wednesday <COMMA> sending the dow jones industrial average towards the key <NUM> level <COMMA> as news of better-than-expected orders for durable goods in march and surging profits at amazon.com boosted sentiment <PUNC>
+futures for the dow jones industrial average dji were up <NUM> points at <NUM> <COMMA> while those for the s&p <NUM> spx gained <NUM> points to <NUM> <PUNC>
+boeing co. ba <COMMA> which reported earnings wednesday <COMMA> played a big part in the march gains <COMMA> as orders for civilian aircraft zoomed <NUM> percent higher <PUNC>
+investors will again pay attention to the dow s climb towards the psychologically-key <NUM> mark <PUNC>
+<PAR>

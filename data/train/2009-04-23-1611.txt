@@ -1,0 +1,3 @@
+general motors gm was among the components weighing on the dow jones industrial average dji on thursday <COMMA> its shares lately off <NUM> percent <PUNC>
+the dow fell <NUM> points to <NUM> <COMMA> the s&p <NUM> index spx shed <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf declined <NUM> points to <NUM> <PUNC>
+<PAR>

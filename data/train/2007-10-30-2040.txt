@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to end at <NUM> <COMMA> with <NUM> of its <NUM> components ending in the red <PUNC>
+p&g pg fronted the dow s decline <COMMA> with its stock off <NUM> percent <PUNC>
+blue-chip microsoft corp. msft was among the technology stocks climbing in the wake of word from apple inc. aapl that it sold <NUM> million copies of its leopard operating system since releasing the product on friday <PUNC>
+<PAR>

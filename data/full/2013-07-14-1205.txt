@@ -1,0 +1,6 @@
+in the past week <COMMA> the dow jones industrial average dji <COMMA> the s&p <NUM> index spx <COMMA> and the nasdaq composite index rixf all surpassed non-inflation adjusted highs last seen in late may <COMMA> a seven-week grind where stocks recovered from a <NUM> percent pullback <PUNC>
+with j.p. morgan & co. jpm and wells fargo & co. wfc earnings coming in pretty strong on friday <COMMA> financials are serving as an interesting bellwether <PUNC>
+banks are starting to lend more and provide capital <COMMA> according to mcmillan <PUNC>
+mcmillan said he ll be looking at outlooks from citigroup inc. c on monday and dow component bank of america corp. bac on wednesday in particular <PUNC>
+dow components reporting earnings this week include coca-cola co. ko <COMMA> johnson & johnson inc. jnj on tuesday <PUNC> international business machines corp. ibm <COMMA> american express co. axp <COMMA> and intel corp. intc on wednesday <PUNC> microsoft corp. msft <COMMA> unitedhealth group inc. unh <COMMA> and verizon communications inc. vz on thursday <PUNC> and general electric co. ge on friday <PUNC>
+<PAR>

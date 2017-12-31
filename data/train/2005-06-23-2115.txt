@@ -1,0 +1,6 @@
+new york dow jones u.s. stocks ended sharply lower thursday <COMMA> with the dow jones industrial average falling to a five-week low <COMMA> as oil s stab at dollar <NUM> raised concern about the drag on the economy by rising energy prices <PUNC>
+the dow jones industrial average dji ended down <NUM> points <COMMA> or <NUM> percent at <NUM> <PUNC>
+within the dow <COMMA> merck shares mrk fell <NUM> percent on a associated press report the drugmaker s scientists had already been looking to reformulate its controversial vioxx drug in <NUM> in an effort to reduce its now well-publicized cardiovascular risks <PUNC>
+meanwhile <COMMA> shares of general electric ge dropped <NUM> percent as the industrial conglomerate announced it would reorganize from <NUM> businesses into six in a move that the company said would yield dollar <NUM> million to dollar <NUM> million in cost savings <PUNC>
+ge also affirmed its <NUM> earnings outlook of dollar <NUM> to dollar <NUM> a share <PUNC>
+<PAR>

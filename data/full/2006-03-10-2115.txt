@@ -1,0 +1,6 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> after posting a triple-digit gain that took the benchmark index to a session high of <NUM> <PUNC>
+the dow remains on course for a weekly gain <PUNC>
+citigroup inc. c was up <NUM> percent at dollar <NUM> <PUNC>
+the french magazine le nouvel observateur reported that a large u.s. bank has contacted the french government about the possibility of making an offer for a bank in that country <PUNC>
+the magazine believes it to be citigroup <COMMA> with shares of societe generalemoving higher in paris <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+u.s. stocks lost ground monday as a sharp drop in crude-oil prices led a sell-off in commodities and sent shares of energy and mining companies lower <COMMA> most notably exxon mobil and alcoa on the dow jones industrial average <PUNC>
+the dow industrials dji were off <NUM> points at <NUM> <PUNC>
+by sector <COMMA> energy stocks xoi tumbled on the slide in crude prices <PUNC>
+oil giant and dow component exxon mobil corp. xom was a notable decliner <COMMA> off <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

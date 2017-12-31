@@ -1,0 +1,3 @@
+futures for the dow jones industrial average dji were down <NUM> points at <NUM> <COMMA> while those for the s& p <NUM> spx dropped <NUM> points to <NUM> <COMMA> <PUNC>
+dow component general electric ge might sell its japanese consumer-finance unit <COMMA> according to the nikkei business daily <PUNC>
+<PAR>

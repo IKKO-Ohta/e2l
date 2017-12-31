@@ -1,0 +1,9 @@
+the dow jones industrial average dji rallied more than <NUM> points at one point <PUNC>
+the s&p <NUM> spx and the nasdaq composite rixf traded near session highs <PUNC>
+dow component merck mrk also was supported by earnings news <PUNC>
+the company reported reported third-quarter earnings of dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> up from a year-ago profit of dollar <NUM> billion <COMMA> or <NUM> cents a share <PUNC>
+but sales dipped <NUM> percent <PUNC>
+a number of other dow components supported gains greater than <NUM> percent <COMMA> including alcoa aa <COMMA> caterpillar cat and <COMMA> general motors gm <PUNC>
+another dow component <COMMA> american express axp got a boost of more than <NUM> percent after the company reported a sharp year-over-year rise in quarterly earnings to <NUM> cents a share <COMMA> excluding a special accounting charged <COMMA> up from <NUM> cents a share <PUNC>
+the thomson first call average analysts estimate was for <NUM> cents a share <PUNC>
+<PAR>

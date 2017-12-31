@@ -1,0 +1,5 @@
+the dow jones industrial average dji was down less than <NUM> point <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the s&p <NUM> spx was up <NUM> point at <NUM> <PUNC>
+the nasdaq composite rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+a close lower for the dow and s&p <NUM> would be the indexes fourth straight loss and push weekly losses <COMMA> of <NUM> percent and <NUM> percent <COMMA> respectively <COMMA> to their worst since mid-december <PUNC>
+<PAR>

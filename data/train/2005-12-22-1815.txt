@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+in the dow <COMMA> caterpillar cat trotted <NUM> percent higher to dollar <NUM> <PUNC>
+credit suisse first boston called the stock its top large-cap machinery choice for <NUM> <PUNC>
+aig <COMMA> also in the dow <COMMA> gained <NUM> percent to dollar <NUM> after merrill lynch named the stock ones of its favorite large-cap insurance stocks <PUNC>
+<PAR>

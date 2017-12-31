@@ -1,0 +1,6 @@
+down more than <NUM> points early on <COMMA> the dow jones industrial average dji was more recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components hit with early losses <COMMA> including intel corp. intc <COMMA> which slid <NUM> percent <COMMA> and home depot inc. hd <COMMA> off <NUM> percent <PUNC>
+another blue-chip <COMMA> citigroup inc. c <COMMA> was down <NUM> percent following its downgrade by moody s investors service in the wake of citi s plan to move about dollar <NUM> billion in assets from structured investment vehicles onto its balance sheet <PUNC>
+<PAR>
+u.s. stocks remained under pressure thursday <COMMA> closing mixed <COMMA> though honeywell international s hon earnings forecasts helping lift sentiment on industrials <PUNC>
+the dow ended up <NUM> points <COMMA> while the nasdaq composite index ended the day down <NUM> points <PUNC>
+<PAR>

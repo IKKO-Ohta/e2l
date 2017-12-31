@@ -1,0 +1,4 @@
+this was the best news the markets could hope for and it is likely the reason for the rally in stocks <COMMA> said giddis of last week s trade <COMMA> which on friday had the dow industrials closing at their highest level since early november <PUNC>
+information technology and consumer shares feed the declines as the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> index spx declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite s <PUNC> comp shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

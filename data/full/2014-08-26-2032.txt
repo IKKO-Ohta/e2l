@@ -1,0 +1,6 @@
+the dow jones industrial average dji advanced by <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+the blue-chip index achieved an intraday record of <NUM> <COMMA> but then finished <NUM> percent off its july <NUM> record close at <NUM> <PUNC>
+the nasdaq composite rixf tacked on <NUM> points <COMMA> or <NUM> percent <COMMA> to end <NUM> <COMMA> yet again nabbing its highest close since march <NUM> <COMMA> <NUM> <PUNC>
+today s economic data <PUNC> an august reading on consumer confidence came in at <NUM> <COMMA> above forecasts for <NUM> <COMMA> and a separate report said u.s. home prices rose <NUM> percent in june <PUNC>
+orders for u.s. durable goods skyrocketed a record <NUM> percent in july because of a surge in contracts for boeing co. ba aircraft <COMMA> but bookings actually fell for most other industries <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+after falling nearly <NUM> points and rising <NUM> <COMMA> the dow jones industrial average dji was lately up nearly a point at <NUM> <PUNC>
+alcoa aa shares edged lower a day after the aluminum producer reported results that marked the unofficial start of the earnings season <PUNC>
+read more about how alcoa earnings could boost the market <PUNC> <PUNC>

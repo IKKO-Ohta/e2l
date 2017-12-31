@@ -1,0 +1,10 @@
+the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> but at one point it was as low as <NUM> <PUNC>
+a late session recovery in the technology sector allowed dow components microsoft msft and intel corp. intc to end a bit higher <PUNC>
+among the biggest losers for dow component stocks were honeywell international inc. hon <COMMA> home depot inc. hd <COMMA> 3m co. mmm and verizon communications <PUNC>
+vz <PUNC>
+shares of citigroup inc. c fell <NUM> percent <COMMA> after the wall street journal reported that the bank s executives are putting the finishing touches to a restructuring plan that will involve around <NUM> job cuts out of <NUM> employees <PUNC>
+but the market has made up much of its losses over the past few weeks <PUNC>
+last week <COMMA> the dow industrials finished with a <NUM> percent climb <COMMA> the s&p <NUM> gained <NUM> percent and the nasdaq composite added <NUM> percent <PUNC>
+saudi basic industries corp. may bid up to dollar <NUM> billion for the plastics unit of general electric ge <COMMA> according to a report from the financial times <PUNC>
+both private-equity firms and trade companies have expressed interest in the ge division <COMMA> which was put on the block in january <PUNC>
+<PAR>

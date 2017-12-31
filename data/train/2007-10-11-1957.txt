@@ -1,0 +1,7 @@
+u.s. stocks saw a dramatic reversal on thursday <COMMA> with the dow first sitting at record highs on a gain of over <NUM> points <COMMA> before plunging to a loss of over <NUM> points <COMMA> with traders citing profit-taking in technology shares as the main culprit <PUNC>
+after gaining over <NUM> points and hitting an all-time high of <NUM> <COMMA> the dow jones industrial average dji fell sharply to lose over <NUM> points <COMMA> and recently traded down <NUM> points at <NUM> <PUNC>
+investors earlier pushed the dow to record highs <COMMA> ignoring downbeat monthly sales from major retailers <COMMA> while cheering upbeat results at wal-mart stores inc. wmt <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were trading in the red <COMMA> led by boeing co. ba which fell <NUM> percent in another day of fallout after wednesday s disclosure of delivery delays in the aircraft manufacturer s new widebody jet <PUNC>
+the dow s advancing stocks were led by general motors corp. gm <COMMA> which climbed nearly <NUM> percent to near three-year highs after the united auto workers said its members approved a contract with the company <PUNC>
+another blue chip <COMMA> wal-mart wmt <COMMA> advanced <NUM> percent after the discount retailer raised its outlook more than analysts expected <PUNC>
+<PAR>

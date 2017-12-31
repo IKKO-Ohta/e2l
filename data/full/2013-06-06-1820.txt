@@ -1,0 +1,3 @@
+after falling as much as <NUM> points <COMMA> the dow jones industrial average dji was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+oil major chevron corp. cvx fell <NUM> percent <COMMA> making it the biggest decliner in the blue-chip index <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+opening the day ominously <COMMA> the dow jones industrial average dji was off <NUM> points at its morning low <COMMA> and it ended the shortened post-thanksgiving session down <NUM> points <COMMA> off <NUM> percent <COMMA> at <NUM> <PUNC>
+the dow <COMMA> which entered friday s session at a 13-month high <COMMA> ended the week down <NUM> percent <COMMA> snapping a three-week winning streak <PUNC>
+on wall street <COMMA> chevron cvx and exxon mobil xom were among the energy stocks that fell <COMMA> while ak steel aks and freeport-mcmoran copper & gold fcx were among the metals decliners <PUNC>
+according to data from the federal energy information administration <COMMA> the united arab emirates was the world s eighth-largest oil producer in <NUM> <PUNC>
+it is also believed to hold a sizable official reserve of gold <PUNC>
+<PAR>

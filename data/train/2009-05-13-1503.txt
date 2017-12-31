@@ -1,0 +1,4 @@
+on wednesday <COMMA> consumer discretionary shares led the losses after the government reported disappointing retail sales for april <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx shed <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf declined <NUM> points to <NUM> <PUNC>
+<PAR>

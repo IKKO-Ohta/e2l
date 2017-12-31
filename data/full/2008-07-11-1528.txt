@@ -1,0 +1,2 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but one of its <NUM> components trading lower <COMMA> the losses led by financials <COMMA> with american international group inc. aig plunging <NUM> percent <PUNC>
+<PAR>

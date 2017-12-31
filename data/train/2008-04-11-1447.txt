@@ -1,0 +1,4 @@
+the dow jones industrial average dji shed <NUM> points to 12,433.79.8 <COMMA> with all but four of its <NUM> components trading in the red <COMMA> the losses fronted by general electric ge <COMMA> hit with its worst one-day percentage drop in share value since october <NUM> <PUNC>
+u.s. stocks finished thursday with gains <COMMA> as a broker s upgrade of several microchip stocks including intel corp. as well as an improved earnings forecast from wal-mart stores helped set a positive tone <PUNC>
+the dow industrials ended up <NUM> points <COMMA> the tech-heavy nasdaq composite rose <NUM> points and the s&p <NUM> added <NUM> points <PUNC>
+<PAR>

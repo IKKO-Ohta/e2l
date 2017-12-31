@@ -1,0 +1,4 @@
+the dow jones industrial average dji dropped <NUM> points to <NUM> in opening trade <COMMA> with <NUM> of its <NUM> components posting losses <COMMA> led by general electric corp. ge <COMMA> off <NUM> percent <COMMA> and at&t inc. t <COMMA> off <NUM> percent <PUNC>
+in other earnings <COMMA> home depot hd reported a <NUM> percent profit fall a day after smaller rival lowe s low unveiled a <NUM> percent profit fall <PUNC>
+home depot expects <NUM> adjusted earnings per share to fall as much as <NUM> percent on a <NUM> percent sales fall <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+among the companies expected to report next week are metlife inc. met <COMMA> yum brands inc. yum <COMMA> walt disney co. dis <COMMA> visa inc. v and railroad operator louisiana-pacific corp. lpx <PUNC>
+share price gains for valero energy corp. vlo and pfizer inc. pfe after better-than-expected quarterly results helped push the stock market higher last week <PUNC>
+the dow jones industrial average dji is now above the <NUM> level for the first time since late <NUM> <PUNC>
+the dow also notched its best january performance since <NUM> and the s&p <NUM> index had its strongest january advance since <NUM> <PUNC>
+<PAR>

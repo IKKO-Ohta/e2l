@@ -1,0 +1,4 @@
+after being up-and-down much of the session <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <COMMA> with the losses led by the likes of chevron corp. cvx <COMMA> which is off <NUM> percent <COMMA> and exxon mobil corp. xom <COMMA> down <NUM> percent <PUNC>
+blue-chip gains were fronted by jpmorgan chase & co. jpm <COMMA> up <NUM> percent <PUNC>
+on tuesday <COMMA> the dow industrials rose <NUM> points <COMMA> the s&p <NUM> added <NUM> points and the nasdaq composite rose <NUM> points after lehman brothers holdings inc. leh and goldman sachs group gs offered relief on earnings and the federal reserve cut interest rates by three-quarters of a percentage point <PUNC>
+<PAR>

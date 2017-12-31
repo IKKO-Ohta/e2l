@@ -1,0 +1,2 @@
+at <NUM> a.m. eastern <COMMA> the dow jones industrial average was at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent the s&p <NUM> index gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

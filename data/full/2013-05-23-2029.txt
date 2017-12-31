@@ -1,0 +1,3 @@
+after dropping as much as <NUM> points <COMMA> the dow jones industrial average dji finished down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with only nine of its <NUM> components in positive territory <PUNC>
+the blue-chip index was helped by a <NUM> percent jump by hewlett-packard co. hpq following the computer maker s earnings report <PUNC>
+<PAR>

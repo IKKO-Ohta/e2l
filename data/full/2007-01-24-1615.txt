@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+shares of at&t inc. t were leading the advance on the dow <COMMA> rising <NUM> percent after its wireless unit cingular reported better-than-expected earnings.mcdonald s corp. mcd weighed the most <COMMA> falling <NUM> percent after its posted in-line earnings <PUNC>
+tech shares <COMMA> which had led the market s advance since the start of the year <COMMA> took a beating last week after disappointing earnings outlooks from tech leaders apple inc. aapl <COMMA> intel corp. intc and ibm ibm <PUNC>
+<PAR>

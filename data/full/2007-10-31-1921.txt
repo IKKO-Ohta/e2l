@@ -1,0 +1,5 @@
+up as much as <NUM> points ahead of the fed s 2:15 p.m. decision <COMMA> the dow jones industrial average dji first dipped after the move <COMMA> before rallying back <COMMA> last gaining <NUM> points to 13,895.5. <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were trading higher <COMMA> led by software giant microsoft corp. msft <COMMA> up <NUM> percent <PUNC>
+another blue chip <COMMA> verizon communications inc. vz <COMMA> rose <NUM> percent in the wake of reports that the wireless carrier is in talks with google inc. goog about teaming up on a product to compete with apple inc. s aapl iphone <PUNC>
+the dow s declining issues included wal-mart stores inc. wmt <COMMA> down slightly after the world s largest retailer said that it would start its holiday discounting early <PUNC>
+<PAR>

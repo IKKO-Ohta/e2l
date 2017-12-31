@@ -1,0 +1,9 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
+pfizer pfe was the measure s worst performer with a drop of <NUM> percent <PUNC>
+the drug company said it would suspend osteoarthritis trials of its pain drug tanezumab after a small number of reports that patients ailments worsened to the point of needing joint replacement <PUNC>
+the company said the suspension followed a request by the food and drug administration <PUNC>
+the dow s financial components were also particularly weak <PUNC>
+j.p. morgan chase jpm dropped <NUM> percent and bank of america bac declined <NUM> percent <PUNC>
+the measure s top decliners also included home depot hd <COMMA> which fell <NUM> percent <COMMA> and alcoa aa <COMMA> which dropped <NUM> percent <PUNC>
+just two of the dow s <NUM> components managed to eke out gains <PUNC> microsoft msft rose <NUM> percent and united technologies utx edged up <NUM> percent <PUNC>
+<PAR>

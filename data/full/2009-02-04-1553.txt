@@ -1,0 +1,4 @@
+after an opening lapse into negative territory <COMMA> stocks pulled higher for a second straight day <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+the s&p <NUM> spx gained <NUM> points to <NUM> and the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
+<PAR>

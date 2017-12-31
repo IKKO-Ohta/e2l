@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+on wednesday <COMMA> the dow fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> taking its biggest single-day hit since aug. <NUM> <PUNC>
+investors withdrew to the sidelines amid trepidation over the evolving nuclear crisis in earthquake-ravaged japan <PUNC>
+<PAR>

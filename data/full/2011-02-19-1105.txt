@@ -1,0 +1,3 @@
+the standard & poor s <NUM> index spx recently marked a doubling from its 12-year low hit in march <NUM> <COMMA> while the dow jones industrial average dji continued its advance in february <COMMA> a month during which the blue-chip index has fallen on only three days <PUNC>
+wall street will resume business tuesday after monday s presidents day holiday with fourth-quarter results from discount retailer wal-mart stores inc. wmt scheduled before the market s open <PUNC>
+<PAR>

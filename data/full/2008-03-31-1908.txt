@@ -1,0 +1,7 @@
+the dow jones industrial average dji solidified its gains in afternoon trade after a volatile morning session <COMMA> recently up <NUM> points to <NUM> <PUNC>
+the blue-chip index was set for slight monthly gains <COMMA> but quarterly losses of about <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> all but three were posting gains <COMMA> led by general motors corp. gm <COMMA> up <NUM> percent <PUNC>
+financials also bolstered the dow <COMMA> with j.p. morgan chase & co. jpm up <NUM> percent and citigroup inc. c up <NUM> percent after the banking giant unveiled a restructuring of its global business into four regional units <COMMA> and said it would break out its credit-card business from its broader consumer-banking segment <PUNC>
+<PAR>
+losses on the blue-chip index were led by merck & co. inc. mrk <COMMA> off <NUM> percent <COMMA> as both its shares and shares of schering-plough corp. sgp were hit after data showed their drug vytorin to be no more effective in treating heart disease than less-costly generic alternatives <PUNC>
+<PAR>

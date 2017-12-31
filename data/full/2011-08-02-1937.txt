@@ -1,0 +1,4 @@
+extending its longest losing streak into an eighth session <COMMA> a lower close would mark the longest down stretch for the dow jones industrial average dji since an eighth-session bout of declines ending oct. <NUM> <COMMA> <NUM> <PUNC>
+at last check the blue-chip index was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+it was off as much as <NUM> points during the session <PUNC>
+<PAR>

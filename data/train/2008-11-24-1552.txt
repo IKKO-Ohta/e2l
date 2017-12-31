@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> with all <NUM> of its components posting mid-morning gains <COMMA> led by citi c <COMMA> <NUM> percent <PUNC>
+a late-hour rally pushed u.s. stocks to huge gains friday <COMMA> with the dow jones industrial average jumping <NUM> points <COMMA> the nasdaq composite rising <NUM> points <COMMA> and the s&p <NUM> rising <NUM> points <PUNC>
+the surge higher came after news leaked that president-elect barack obama would nominate new york federal reserve president timothy geithner for treasury secretary <PUNC>
+after the close <COMMA> hewlett-packard co. hpq and analog devices inc. adi are scheduled to report earnings <PUNC>
+<PAR>

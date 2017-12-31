@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+intel corp. intc paced the blue-chip decliners <COMMA> falling <NUM> percent after the world s largest computer-chip manufacturer said it would pay about dollar <NUM> billion to acquire infineon technologies ag s wireless unit <PUNC>
+hewlett-packard co. hpq ranked as the blue chips biggest gainer <COMMA> lately up <NUM> percent after the technology titan announced a share-repurchase plan amid its pursuit of a deal to acquire 3par par <PUNC>
+some individual stocks rallied in the wake of corporate developments <COMMA> which had genzyme corp. genz rising after the company rejected sanofi-aventis sny and its dollar <NUM> billion takeout offer <COMMA> while cogent inc. cogt climbed <NUM> percent on news that it will be purchased by dow component 3m co. mmm <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <COMMA> with the declines led by dupont co. dd <COMMA> off <NUM> percent after the chemicals company forecast weakness in the u.s. construction and automotive markets to dent growth <PUNC>
+two other dow components mcdonald s corp. mcd and at&t inc. t reported results before tuesday s bell <PUNC>
+wall street ended narrowly mixed on monday <COMMA> with the dow industrials losing <NUM> points and the s&p <NUM> down <NUM> points as oil prices hit new record highs and bank of america reported a <NUM> percent profit decline <PUNC>
+the tech-heavy nasdaq composite rose <NUM> points <PUNC>
+<PAR>

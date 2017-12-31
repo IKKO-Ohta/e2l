@@ -1,0 +1,3 @@
+in recent trade <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> while the s&p <NUM> spx declined <NUM> points to <NUM> <PUNC>
+the nasdaq composite rixf shed <NUM> points to <NUM> <PUNC>
+<PAR>

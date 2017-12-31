@@ -1,0 +1,10 @@
+the dow jones industrial average dji closed up <NUM> points at <NUM> <PUNC>
+alcoa inc. aa ended <NUM> percent higher at dollar <NUM> <PUNC>
+j.p. morgan in a note last week said it believes that foreign rivals rio tinto rtp and bhp billiton bhp both have the deep pockets to make it possible to mull a takeover of alcoa and its <NUM> percent -owned australian unit <COMMA> alumina ltd <PUNC>
+wal-mart stores inc. wmt shares closed <NUM> percent lower at dollar <NUM> <PUNC>
+the retailer over the weekend said comparable-store sales for june would be up about <NUM> percent <PUNC>
+earlier wal-mart had projected a <NUM> percent -to-3 percent increase <PUNC>
+however <COMMA> general motors gm gave up early gains to close down <NUM> percent at dollar <NUM> <PUNC>
+banc of america upgraded the stock to neutral from sell <COMMA> citing the value of a potential three-way transaction with renault and nissan nsany <PUNC>
+analyst ron tadross also raised his stock price target on gm to dollar <NUM> from dollar <NUM> <PUNC>
+<PAR>

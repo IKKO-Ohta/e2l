@@ -1,0 +1,8 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> in a choppy session for the benchmark index <PUNC>
+within the dow <COMMA> shares of alcoa inc. aa rose <NUM> percent <COMMA> buoyed by broad strength in the metals markets <PUNC>
+shares of general motors corp gm fell <NUM> percent on a wall street journal report that one of the unions representing auto workers is resisting health-care concessions <PUNC>
+pfizer pfe slipped two cents to dollar <NUM> in the wake of its dollar <NUM> billion offer for vicuron pharmaceuticals <PUNC>
+micu <PUNC>
+after two days of solid gains <COMMA> shares of general motors corp gm slid amid concern the carmaker is meeting resistance from its unions over health care cuts <PUNC>
+pfizer inc. pfe shares dipped after the drug giant said it is buying vicuron pharmaceuticals inc. micu for dollar <NUM> billion in cash in a bid to boost its anti-infective drug research capabilities <PUNC>
+<PAR>

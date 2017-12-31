@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points to close at <NUM> <COMMA> with <NUM> of its <NUM> components ahead <PUNC>
+gm s shares set the pace <COMMA> up <NUM> percent <COMMA> followed by alcoa inc. aa <COMMA> up nearly <NUM> percent <PUNC>
+boeing co. ba <COMMA> the world s largest aerospace company <COMMA> fronted the dow s declines <COMMA> its stock off <NUM> percent <PUNC>
+technology bellwether hewlett-packard co. hpq joined the dow s declining components <COMMA> its stock off <NUM> percent <PUNC>
+<PAR>

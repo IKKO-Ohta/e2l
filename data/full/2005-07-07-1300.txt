@@ -1,0 +1,5 @@
+in recent trades <COMMA> futures contracts for the dow jones industrial average <COMMA> s&p <NUM> and the nasdaq <NUM> were all pointing to a sharp drop in prices at the opening <PUNC>
+however <COMMA> the contracts were off their worst levels <PUNC>
+wal-mart stores wmt affirmed its second-quarter earnings view after reporting solid monthly net and same-store sales <PUNC>
+the world s largest retailer said june same-store sales rose <NUM> percent <COMMA> helped by sales of seasonal merchandise such as air conditioners and summer clothes <PUNC>
+<PAR>

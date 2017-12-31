@@ -1,0 +1,7 @@
+the dow jones industrial average dji <COMMA> after climbing as high as <NUM> <COMMA> ended down <NUM> points at <NUM> <PUNC>
+shares in general electric co. ge rose <NUM> percent to dollar <NUM> after morgan stanley said it believes the stock could double in three years <COMMA> citing expected improvements in margins and returns on invested capital <PUNC>
+the firm also lifted its price target on the conglomerate by dollar <NUM> to dollar <NUM> <PUNC>
+general motors corp. gm closed <NUM> percent lower at dollar <NUM> <PUNC>
+the troubled car maker is discussing the sale of its stake in isuzu motors that is worth about dollar <NUM> million <PUNC>
+the wall street journal reported that gm has moved closer to selling a <NUM> percent stake in its gmac financing arm after agreeing the broad structure of a deal with investors led by cerberus capital management <PUNC>
+<PAR>

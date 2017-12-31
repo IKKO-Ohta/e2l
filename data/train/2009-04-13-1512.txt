@@ -1,0 +1,4 @@
+stocks slumped on monday as investors took investors took some money off the table following thursday s 246-point surge on the dow jones industrial average dji <PUNC>
+the blue-chip index on monday fell <NUM> points to <NUM> <PUNC>
+the s&p <NUM> spx declined <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf shed <NUM> points to 1,633.33. <PUNC>
+<PAR>

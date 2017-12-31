@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+wal-mart stores inc. wmt and costco wholesale corp. cost <COMMA> both beneficiaries of consumer moves toward cheaper goods <COMMA> reported respective rises of <NUM> percent and <NUM> percent in same-store sales during june <PUNC>
+bank of america corp. bac ceo kenneth lewis said the company saw no need to cut its dividend or raise capital <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+u.s. stocks plunged tuesday <COMMA> led by a <NUM> percent drop in shares of countrywide financial corp. amid swirling bankruptcy speculation <COMMA> leading the dow industrials to have their worst first five trading days of the year ever <PUNC>
+up more than <NUM> points during the session <COMMA> the dow jones industrial average dji ended <NUM> points lower to <NUM> <COMMA> with <NUM> of its <NUM> components declining <COMMA> led by at&t t <COMMA> down <NUM> percent <COMMA> after the phone giant said its broadband business was softening <PUNC>
+following tuesday s performance <COMMA> the dow has now lost <NUM> points since the start of the year <COMMA> marking its worst performance ever for the first five trading days of the year <PUNC>
+percentage wise <COMMA> the dow has lost <NUM> percent <COMMA> its worst drop since <NUM> <COMMA> when the blue-chip index lost <NUM> percent <PUNC>
+blue-chip financials weighed on the index <COMMA> with american express co. axp down <NUM> percent <COMMA> citigroup inc. c <COMMA> off <NUM> percent <COMMA> and j.p. morgan chase jpm also falling <NUM> percent <PUNC>
+other blue-chip losses included shares of microsoft corp. msft <COMMA> off <NUM> percent <COMMA> after the technology giant s announcement it would pay dollar <NUM> billion to acquire norwegian software developer fast search & transfer <PUNC>
+<PAR>
+the dow jones wilshire <NUM> index of small-cap stocks fell <NUM> percent tuesday <COMMA> marking a <NUM> percent drop since the start of the year <COMMA> also its worst performance ever for the first five trading days of the year <PUNC>
+<PAR>

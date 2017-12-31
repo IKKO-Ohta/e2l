@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> point at <NUM> <COMMA> after rising more than <NUM> points to a morning high of <NUM> <PUNC>
+some of the dow s technology components ibm ibm and microsoft msft provided support for blue chips <PUNC>
+but financial components aig aig <COMMA> american express axp <COMMA> citigroup inc. c and j.p. morgan chase jpm weighed on the dow after more evidence of the damage of the credit crisis surfaced <PUNC>
+u.s. stocks had ended mixed wednesday after a volatile day that featured mixed signals on the credit crisis <COMMA> with a potential downgrade of bond insurers dulling a mostly positive auction of funds to banks by the federal reserve <PUNC>
+the dow industrials fell <NUM> points <COMMA> the s&p <NUM> slipped nearly <NUM> points while the nasdaq composite rose nearly <NUM> points <PUNC>
+<PAR>

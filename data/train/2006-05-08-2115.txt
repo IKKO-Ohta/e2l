@@ -1,0 +1,10 @@
+the dow jones industrial average dji closed up <NUM> points at <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> gained ground <PUNC>
+both the dow industrials and the s&p <NUM> ended friday s session at multi-year highs <PUNC>
+intel shares intc rallied <NUM> percent to dollar <NUM> after two brokers upgraded the chip maker <PUNC>
+caris & co raised its recommendation on the company to above average from average <COMMA> citing a solid forecast for next generation processor sales and increased confidence in the company s second-half outlook <PUNC>
+american technology research upgraded intel to buy from hold <COMMA> saying sentiment surrounding the company has already been priced into the stock <PUNC>
+shares in coca-cola co. ko rose <NUM> percent to dollar <NUM> after bank of america told investors the beverage giant s earnings will benefit from sustained organic growth as currency headwinds fade <PUNC>
+the broker said the company is seeing an improving product balance in <NUM> <COMMA> with non-carbonated beverages making up more than <NUM> percent of its volume mix <PUNC>
+in addition <COMMA> the broker expects coke to improve its bottling performance and grow volume <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+u.s. stock indexes declined friday <COMMA> with the dow jones industrial average halting its longest weekly winning streak since august of last year <PUNC>
+the dow jones industrial average dji halted a six-week winning stretch <COMMA> its longest since one that ended aug. <NUM> <COMMA> <NUM> <PUNC>
+it declined as many as <NUM> points friday <COMMA> but ended with a loss of <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> leaving it down <NUM> percent on the week <PUNC>
+in the coming week <COMMA> <NUM> s&p <NUM> companies are expected to report quarterly earnings <COMMA> with dow components cisco systems inc. csco and wal-mart stores inc. wmt among them <PUNC>
+<PAR>

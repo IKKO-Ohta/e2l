@@ -1,0 +1,5 @@
+the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
+general motors corp. gm and ford motor co. f are in focus ahead of their release of june s auto tallies <PUNC>
+both companies have been struggling with weak sales at a time when toyota motor corp. tm has roared forward <PUNC>
+among dow components <COMMA> caterpillar inc. cat last was <NUM> percent lower at dollar <NUM> <COMMA> but merck & co. mrk rose <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

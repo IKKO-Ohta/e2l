@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> snapping a seven-session run of gains <COMMA> a feat not equaled since march <NUM> <PUNC>
+<PAR>

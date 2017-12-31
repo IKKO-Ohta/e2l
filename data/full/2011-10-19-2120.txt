@@ -1,0 +1,7 @@
+the decline <COMMA> which solidified in the latter part of the session <COMMA> marks the ninth straight session the dow jones industrial average dji has closed in a different direction from the prior trading day <PUNC>
+the dow industrials ended down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> after rising nearly <NUM> points and falling as much as <NUM> points <PUNC>
+the index had been higher before the federal reserve s afternoon release of regional indicators <COMMA> known as the beige book <PUNC>
+alcoa inc. aa and bank of america corp. bac led dow decliners <COMMA> falling more than <NUM> percent <PUNC>
+on the positive side of the market <COMMA> travelers cos. trv shares rallied <NUM> percent <COMMA> leading the blue-chip gains <COMMA> after the insurer s earnings report included progress on raising prices signaling the industry may be on the mend <PUNC>
+intel corp. intc shares also provided support to the dow <COMMA> adding <NUM> percent after the semiconductor maker reported a <NUM> percent jump in quarterly earnings late tuesday <PUNC>
+<PAR>

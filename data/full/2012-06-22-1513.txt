@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+morgan stanley ms rose <NUM> percent after moody s cut its rating by two levels <COMMA> less than the three threatened <PUNC>
+also rising were bank of america corp. bac and citigroup inc. c <COMMA> both of which were cut to within two notches of junk <PUNC>
+<PAR>

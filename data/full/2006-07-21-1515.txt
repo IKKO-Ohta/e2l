@@ -1,0 +1,10 @@
+the dow jones industrial average dji saw early gains fade to trade lower <COMMA> lately down by <NUM> points at <NUM> <PUNC>
+the company now sees earnings of <NUM> to <NUM> cents a share for the july period on revenue of about dollar <NUM> billion <COMMA> far short of consesnsus estimates as compiled by thomson first call <PUNC>
+dell s stock was last off <NUM> percent at dollar <NUM> <PUNC>
+rival hewlett-packard hpq saw its shares trade off <NUM> percent <PUNC>
+shares of caterpillar inc. cat fell <NUM> percent to dollar <NUM> <COMMA> in line with the broad pullback in the market <PUNC>
+the heavy-equipment maker <COMMA> however <COMMA> lifted its profit forecast for the year after reporting a <NUM> percent jump in second-quarter earnings <PUNC>
+the blue-chip company attributed the strong quarter to better prices for its products and higher sales volume <PUNC>
+in other news <COMMA> microsoft corp. msft <COMMA> the world s largest software maker <COMMA> rose as much as <NUM> percent to a more than two-month high of dollar <NUM> after it issued an upbeat financial forecast for the upcoming fiscal year and announced plans to buy back up to dollar <NUM> billion worth of its own stock via a dollar <NUM> billion tender offer and a five-year share-repurchase program <PUNC>
+the stock was last up <NUM> percent <PUNC>
+<PAR>

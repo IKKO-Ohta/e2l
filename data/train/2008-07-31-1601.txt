@@ -1,0 +1,6 @@
+the dow jones industrial average was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components retreating <PUNC>
+among blue chips <COMMA> shares of dow component exxon mobil corp. fell <NUM> percent after the oil giant s earnings surged <NUM> percent but still missed analysts expectations <PUNC>
+away from the dow <COMMA> royal dutch shell fell after also missing expectations <PUNC>
+u.s. stocks closed sharply higher on wednesday <COMMA> continuing a rally from the previous session after a stronger-than-expected private-sector jobs report helped offset a rebound in crude-oil prices <PUNC>
+the dow industrials rose <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite added <NUM> points <PUNC>
+<PAR>

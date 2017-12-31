@@ -1,0 +1,3 @@
+after briefly retrieving its position above the <NUM> level <COMMA> the dow jones industrial average dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the blue-chip average had lost nearly <NUM> points on monday <COMMA> the steepest drop of the year <PUNC>
+<PAR>

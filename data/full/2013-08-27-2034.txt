@@ -1,0 +1,3 @@
+u.s. stocks fell hard on tuesday <COMMA> with the dow ending at a two-month low <COMMA> as unease over possible u.s. action against syria shook global markets <PUNC>
+the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with bank of america corp. bac and microsoft corp. msft pacing declines that included all but two of its <NUM> components <PUNC>
+<PAR>

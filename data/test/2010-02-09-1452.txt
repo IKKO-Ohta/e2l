@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in early trading <PUNC>
+all but one of its components were in the black <PUNC>
+caterpillar cat was the measure s strongest performer <COMMA> rising <NUM> percent after morgan stanley upgraded the heavy-machinery company to overweight from underweight <COMMA> calling for a boost in industrials thanks to sharply rising order books and lower costs <COMMA> among other boons <PUNC>
+alcoa aa also surged <COMMA> with the aluminum giant up <NUM> percent <PUNC>
+mcdonald s mcd was the only component in the red <COMMA> with the fast-food giant down less than one point <COMMA> after its u.s. same-store sales dropped <NUM> percent in january <COMMA> though sales were stronger overseas <PUNC>
+company earnings were mixed on tuesday <PUNC>
+coca-cola ko rose <NUM> percent after strong sales of its namesake soda in developing countries pushed coca-cola s fourth-quarter profit up <NUM> percent and earnings met expectations <COMMA> but its north american business suffered from tepid consumer spending <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+after falling nearly <NUM> points during the session <COMMA> the dow jones industrial average dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with the blue-chip index finishing the week with a loss of <NUM> percent <COMMA> marking its fourth consecutive weekly fall <PUNC>
+year-to-date <COMMA> the dow industrials are down <NUM> percent <PUNC>
+<PAR>

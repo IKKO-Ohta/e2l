@@ -1,0 +1,6 @@
+u.s. stocks surged sharply higher tuesday <COMMA> with the dow jones industrial up more than <NUM> points <COMMA> on above-forecast earnings from dow component general motors corp. and benign inflation data <PUNC>
+the dow jones industrial average dji was <NUM> points ahead at <NUM> <COMMA> with <NUM> of its <NUM> stocks making gains <COMMA> with cyclical stocks among the early leaders <COMMA> with alcoa inc. aa up <NUM> percent and caterpillar inc. cat up <NUM> percent <PUNC>
+gm gm led the dow s advanced <COMMA> rising <NUM> percent after the automaker said it swung to a quarterly profit from a year-earlier loss <PUNC>
+fellow dow component johnson & johnson jnj also gained nearly <NUM> percent after the healthcare giant said it would cut costs in a sweeping restructuring plan that involves cutting up to <NUM> percent of its global workforce <PUNC>
+ubs upgraded telecom operator verizon communications vz to buy from neutral <COMMA> citing improving fundamentals <PUNC>
+<PAR>

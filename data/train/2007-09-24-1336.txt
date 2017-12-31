@@ -1,0 +1,4 @@
+the dow jones industrial average dji advanced <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+stocks likely to be active include general motors corp. gm <COMMA> which appears to be on track to a new contract with the united auto workers <COMMA> even as the union set a strike deadline of <NUM> a.m. eastern <COMMA> the wall street journal reported <PUNC>
+also in the news is fellow dow member wal-mart stores inc. wmt <COMMA> which disclosed a pilot project to measure energy used throughout its supply chain as it looks to be more energy efficient <PUNC>
+<PAR>

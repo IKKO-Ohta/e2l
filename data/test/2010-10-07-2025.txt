@@ -1,0 +1,3 @@
+after rising to within a few points of the psychologically significant <NUM> level <COMMA> the dow jones industrial average dji ended off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+shares of alcoa aa fronted blue-chip losses <COMMA> falling <NUM> percent ahead of the aluminum giant s earnings after the close <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji shot up <NUM> points to <NUM> <COMMA> and the s&p <NUM> spx gained <NUM> points at <NUM> <PUNC>
+the market opened lower <COMMA> pressured by disappointing earnings reports from general motors gm intel intc and yahoo yhoo <PUNC>
+a. g. edwards equities strategist al goldman said the market was more focused on second-quarter earnings reports <PUNC>
+results from dow components honeywell international hon and altria group mo helped carry the market higher <PUNC>
+j.p. morgan chase & co. jpm swung to a profit and posted adjusted results that were ahead of forecast <PUNC>
+the shares lost early gains to trade down <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

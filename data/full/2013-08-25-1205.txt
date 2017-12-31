@@ -1,0 +1,4 @@
+u.s. stocks ended higher on friday <COMMA> allowing the s&p <NUM> spx and the nasdaq composite rixf to snap two-week losing streaks <PUNC>
+the s&p rose <NUM> percent last week <COMMA> while the nasdaq jumped <NUM> percent <COMMA> aided as microsoft corp. msft led a friday surge in the wake of chief executive steve ballmer s plan to retire within the <NUM> months <PUNC>
+the dow jones industrial average dji <COMMA> however <COMMA> logged a third consecutive week of declines despite friday s higher finish <COMMA> marking its longest weekly losing streak since nov. <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

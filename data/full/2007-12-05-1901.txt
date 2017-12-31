@@ -1,0 +1,4 @@
+up more than <NUM> points earlier on <COMMA> the dow jones industrial average dji trimmed its gains after moody s investors service warned bond insurer mbia inc. mbi might be more likely to face a capital shortfall than previously thought <PUNC>
+the dow more recently gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+another blue chip on the rise was intel corp. intc <COMMA> recently up <NUM> percent <COMMA> after the chip giant s stock drew an upgrade on expectations of a robust personal computer market in <NUM> <PUNC>
+<PAR>

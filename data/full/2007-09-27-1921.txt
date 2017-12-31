@@ -1,0 +1,6 @@
+with less than an hour to go before the close <COMMA> the dow jones industrial average dji advanced <NUM> points to <NUM> <COMMA> after rising as high as <NUM> earlier on <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were trading higher <COMMA> with alcoa inc. aa leading the advance with a <NUM> percent gain <PUNC>
+general motors corp. gm fronted the dow s losses <COMMA> with shares of the automaker slipping <NUM> percent <PUNC>
+shares of echostar communications corp. dish climbed <NUM> percent on talk at&t inc. t might acquire the company <COMMA> said ruffy <PUNC>
+oppenheimer analysts went so far as to say that it is a matter of when <COMMA> not if <COMMA> at&t buys the provider of satellite television <COMMA> the analyst said <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> during early afternoon trading <PUNC>
+the blue-chip index closed below the psychologically important <NUM> level on thursday <PUNC>
+investors were also able to move beyond some lackluster corporate news during the session <PUNC>
+intel intc edged higher to dollar <NUM> after it warned that weakening consumer demand for computers will hurt sales during the third quarter <PUNC>
+boeing ba rose <NUM> percent to dollar <NUM> after the airplane manufacturer again delayed deliveries for its <NUM> dreamliner jet <PUNC>
+among stocks in focus <COMMA> data-storage company 3par par soared <NUM> percent as the bidding war for the company escalated <PUNC>
+hewlett-packard hpq raised its offer <NUM> percent above dell s dell bid made only hours before <PUNC>
+h-p on friday lifted its bid to dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> topping dell s most recent offer of dollar <NUM> made before the start of trading friday <PUNC>
+shares of dell jumped <NUM> percent <COMMA> while h-p shares slipped <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+after a volatile start <COMMA> the dow jones industrial average dji was recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components pulling higher <PUNC>
+j.p. morgan chase jpm led the dow s advancing stocks <COMMA> recently up <NUM> percent <COMMA> after the bank reported a <NUM> percent decline in fourth-quarter profit in another subprime-related hit <PUNC>
+the mortgage exposure at the third largest u.s. bank proved much less than that at citigroup inc. c and others <PUNC>
+<PAR>
+intel corp. intc led declines among the blue chips <COMMA> sliding <NUM> percent <PUNC>
+the technology bellwether late tuesday reported a <NUM> percent jump in net profit <COMMA> but the results still came in shy of expectations and the company offered a disappointing forecast <PUNC>
+<PAR>
+off the dow <COMMA> wells fargo & co. wfc reported fourth-quarter net income fell <NUM> percent <COMMA> with the financial-services giant braced for a consumer slowdown in <NUM> <PUNC>
+<PAR>

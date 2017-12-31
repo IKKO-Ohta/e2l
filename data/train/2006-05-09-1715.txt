@@ -1,0 +1,15 @@
+u.s. stocks traded mixed tuesday as the technology sector came under pressure after a profit warning from dell inc. sent the pc maker s shares to a three-year low <COMMA> but a broker upgrade for general motors and strong april sales for mcdonald s corp. lifted the dow jones industrial average to a six-year high <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+shares of blue-chip rival hewlett-packard hpq were off <NUM> percent at dollar <NUM> <COMMA> as dell s warning raised questions among some analysts about a broader slowdown in the pc market <PUNC>
+h-p wasn t the only dow industrials stock in focus <COMMA> as general motors gm rallied as much as <NUM> percent to a six-month high of dollar <NUM> after deutsche bank upgraded the carmaker to hold from sell <PUNC>
+the broker said that recent moves have generated a substantial amount of liquidity and that the risk of catastrophic developments has diminished <PUNC>
+in addition <COMMA> deutsche bank said there appears to be a reasonably good chance that an agreement on delphi can be reached within the next <NUM> days <PUNC>
+the stock was last up <NUM> percent at dollar <NUM> <PUNC>
+in addition <COMMA> mcdonald s corp. mcd tacked on <NUM> cents to dollar <NUM> after the fast-food giant said worldwide same-store sales rose <NUM> percent in april <PUNC>
+u.s. same-store sales rose <NUM> percent but europe <COMMA> which has struggled of late <COMMA> posted the strongest growth <COMMA> with same-same stores shooting up <NUM> percent <PUNC>
+same-stores sales in the asia/pacific <COMMA> middle east and africa regions climbed <NUM> percent <PUNC>
+in another development <COMMA> walt disney co. dis has decided to let its exclusive cross-promotional agreement with mcdonald s run out at year s end <COMMA> although it added that it wanted to continue working with the company <PUNC>
+back among the blue chips <COMMA> verizon communications vz reportedly made an offer of dollar <NUM> billion to buy the <NUM> percent it doesn t already own of verizon wireless <COMMA> only to see vodafone group vod demand dollar <NUM> billion more <COMMA> according to u.k. newspaper the daily telegraph <PUNC>
+on monday <COMMA> verizon shares were off <NUM> cents at dollar <NUM> while u.s.-listed shares of vodafone rose <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

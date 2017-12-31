@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> climbing back above the <NUM> level in a morning of jumpy trading <PUNC>
+stocks erased earlier losses after a reading of consumer confidence came in better than expected <PUNC>
+the dow rose <NUM> percent to <NUM> <PUNC>
+heading into the final day of august <COMMA> the key indexes are still on track for a month of steep losses <PUNC>
+the dow has lost <NUM> percent this month <COMMA> the s&p <NUM> is down <NUM> percent and the nasdaq composite has sunk <NUM> percent <PUNC>
+<PAR>

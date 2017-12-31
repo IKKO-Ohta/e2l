@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+with alcoa inc. aa traditionally kicking off the earnings season with its quarterly results set to be released after the market closes <COMMA> the next few weeks will all be about company profits living up to investor expectations <COMMA> according to marc pado <COMMA> u.s. market strategist at cantor fitzgerald <PUNC>
+the question is <COMMA> will earnings beat expectations and will that be sufficient to move stocks higher still? <COMMA> said pado <PUNC>
+with the dow at a record high <COMMA> the s & p at a bull-market high <COMMA> and the nasdaq back to the level from which the index broke down <COMMA> it will take some serious numbers to move this market higher <PUNC>
+alcoa inc. aa was up <NUM> percent at dollar <NUM> <COMMA> with the company expected to post a strong rise in third-quarter profits as it benefits from a big gain in aluminum prices from the year-earlier period <PUNC>
+analysts <COMMA> however <COMMA> will be paying close attention to its forward-looking commentary as the price of aluminum has dropped sharply since spring <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+u.s. stocks soared on thursday <COMMA> with the dow jones industrial average notching its best one-day point gain since december <NUM> <COMMA> after house republican leaders proposed a temporary extension of the nation s debt ceiling <PUNC>
+closing above <NUM> for the first time in four days <COMMA> and making its biggest point leap since dec. <NUM> <COMMA> <NUM> <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with aerospace manufacturer boeing co. ba pacing gains that included all of its <NUM> components <PUNC>
+<PAR>

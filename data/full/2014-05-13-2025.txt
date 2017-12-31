@@ -1,0 +1,4 @@
+the s&p <NUM> spx finished less than a point higher at <NUM> <PUNC>
+the dow jones industrial average dji rose for the fifth consecutive session and closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+in corporate news <COMMA> shares of coffee-machine maker keurig green mountain inc. gmcr jumped <NUM> percent after an sec filing showed that coca-cola co. ko increased its stake in keurig to <NUM> percent from <NUM> percent <PUNC>
+<PAR>

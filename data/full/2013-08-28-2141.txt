@@ -1,0 +1,4 @@
+chevron corp. cvx and exxon mobil corp. xom were among the leaders on the dow jones industrial average dji <COMMA> helping the index rise <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+on tuesday <COMMA> the dow industrials fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the blue-chip index is currently positioned for a <NUM> percent monthly drop <COMMA> leaving it up more than <NUM> percent on the year <PUNC>
+<PAR>

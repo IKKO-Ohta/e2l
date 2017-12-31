@@ -1,0 +1,4 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> putting the benchmark index on course to post its eighth session of gains in a row <PUNC>
+boeing co. ba fell <NUM> percent after the aerospace giant lost a dollar <NUM> billion air canada order for its <NUM> and <NUM> jets <PUNC>
+the cancellation came after members of the carrier s pilots union rejected a cost-cutting deal that would have cleared the way for the purchase <PUNC>
+<PAR>

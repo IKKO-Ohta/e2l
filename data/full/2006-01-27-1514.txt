@@ -1,0 +1,6 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+microsoft msft shares shot up <NUM> percent to dollar <NUM> out of the gate <PUNC>
+dow member procter & gamble pg moved <NUM> percent higher to dollar <NUM> after the world s largest consumer-products company lifted its <NUM> profit outlook in the wake of quarterly results that topped analyst forecasts <PUNC>
+pfizer pfe shares rose <NUM> percent to dollar <NUM> <COMMA> as the drug giant s stock weathered a communications slip-up by its chief executive hank mckinnel <PUNC>
+elsewhere on the dow <COMMA> shares in wal-mart stores inc. wmt dipped <NUM> cents to dollar <NUM> after j.p. morgan downgraded the retail giant to neutral from overweight <COMMA> with the broker citing possible turbulence over the next <NUM> to <NUM> months with a new field organizational structure and upscale merchandise and marketing initiatives <PUNC>
+<PAR>

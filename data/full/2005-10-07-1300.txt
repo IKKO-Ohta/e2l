@@ -1,0 +1,5 @@
+on thursday <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> its weakest since july <NUM> <PUNC>
+time warner inc. twx and microsoft corp. msft have resumed discussions about forming an alliance of their internet units <COMMA> the wall street journal reported <PUNC>
+the companies are exploring ways to combine msn s search engine technology with aol s web content <COMMA> the report said <PUNC>
+on thursday <COMMA> time warner shares fell <NUM> cents to dollar <NUM> while shares of microsoft gained <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

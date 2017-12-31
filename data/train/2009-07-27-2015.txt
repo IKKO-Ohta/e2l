@@ -1,0 +1,4 @@
+this was the best news the markets could hope for and it is likely the reason for the rally in stocks <COMMA> said giddis of last week s trade <COMMA> which on friday had the dow industrials closing at their highest level since early november <PUNC>
+financials and consumer discretionary shares fronted the late-session turn higher as the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+the s&p <NUM> index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its highest closing level since the broad-market gauge topped the <NUM> mark on nov. <NUM> <COMMA> <NUM> <COMMA> while the nasdaq composite s <PUNC> comp rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

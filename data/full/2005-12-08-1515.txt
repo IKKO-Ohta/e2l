@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+the dow did break last week s low of <NUM> <COMMA> but managed to rally back above that level before the close on wednesday <COMMA> said marc pado <COMMA> u.s. market strategist at cantor fitzgerald <PUNC>
+mcdonald s mcd <COMMA> a dow component <COMMA> was down <NUM> cents at dollar <NUM> <PUNC>
+the fast-food company said its global same-restaurant sales rose <NUM> percent in november <COMMA> citing its breakfast menu and extended hours <PUNC>
+however <COMMA> sales were flat in europe <PUNC>
+intel intc shares fell <NUM> cents to dollar <NUM> ahead of its late afternoon business update <PUNC>
+<PAR>

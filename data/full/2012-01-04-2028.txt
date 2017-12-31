@@ -1,0 +1,3 @@
+after a 60-point drop <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+on tuesday <COMMA> stocks rallied to start the new trading year <COMMA> with the dow jones industrial average rising <NUM> points to close at a five-month high <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the u.s. stock market ended monday with best gains in nearly a month that sent both the s&p <NUM> and the dow jones industrial average to record levels <PUNC>
+four consecutive days of gains sent the dow jones industrial average dji to an intraday high <PUNC>
+the blue-chip index closed near session highs <COMMA> gaining <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the dow jones transportation average djt also closed at record high <COMMA> after adding <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+according to the dow theory <COMMA> when transports rally in tandem with the industrials <COMMA> the broader markets are set for more gains <PUNC>
+<PAR>

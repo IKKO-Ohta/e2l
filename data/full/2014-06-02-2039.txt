@@ -1,0 +1,5 @@
+marginal gains on the s&p <NUM> helped the benchmark close at a record level for the 15th time while the dow closed at a record for the sixth time this year <PUNC>
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf ended the day down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+<PAR>

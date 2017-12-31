@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> weighed by the sharp downturn in gm s shares <PUNC>
+caterpillar inc. cat <COMMA> intel intc and jp morgan chase jpm were other notable decliners <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to losses <PUNC>
+among blue-chip gainers <COMMA> dupont dd rose <NUM> percent on an upbeat broker note <PUNC>
+friday s losses come after three days of gains that lifted the dow industrials to an all-time high and took the s&p <NUM> to its best level in more than <NUM> 1/2 years <PUNC>
+shares in general motors corp. gm fell as much as <NUM> percent after jerome york <COMMA> a close adviser and ally of activist billionaire shareholder kirk kerkorian resigned from the auto maker s board of directors <PUNC>
+<PAR>

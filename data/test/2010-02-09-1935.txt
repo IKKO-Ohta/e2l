@@ -1,0 +1,4 @@
+the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> on track for its biggest one-day gain in both point and percentage terms since nov. <NUM> <PUNC>
+the indicator was led by a <NUM> percent jump in caterpillar inc. cat <COMMA> which was upgraded along with several other industrial names by analysts at morgan stanley <PUNC>
+coca-cola co. ko was also a big gainer among the blue chips <COMMA> up <NUM> percent after reporting a <NUM> percent gain in fourth-quarter profit <PUNC>
+<PAR>

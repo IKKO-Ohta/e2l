@@ -1,0 +1,6 @@
+pado said the major indexes broke through key support levels wednesday <PUNC>
+he sees new support for the s&p <NUM> index at around <NUM> to <NUM> while the nasdaq composite index has good support in the <NUM> to <NUM> region <PUNC>
+for the dow jones industrial average <COMMA> pado sees a floor at around <NUM> <PUNC>
+the dow industrials dji fell <NUM> points to <NUM> <COMMA> its lowest closing level since july <NUM> <PUNC>
+general electric co. ge said it has agreed to pay dollar <NUM> billion for a <NUM> percent stake in turkish bank garanti bank as <COMMA> confirming an earlier wall street journal report <PUNC>
+<PAR>

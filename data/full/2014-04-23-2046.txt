@@ -1,0 +1,8 @@
+the s&p <NUM> spx ended the day <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+the dow jones industrial average dji closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+defying the general trend <COMMA> the dow transportation index rose <NUM> percent to <NUM> <COMMA> closing at record level for the second day in a row <PUNC>
+boeing co. ba reported an <NUM> percent rise in first-quarter sales ahead of the open <COMMA> sending shares up <NUM> percent <PUNC>
+at&t inc. t dropped <NUM> percent after the telecom late tuesday reported a first-quarter profit of dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> compared with dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> a year ago <PUNC>
+procter & gamble co. pg said its third-quarter profit rose <NUM> percent as expenses fell <COMMA> though sales also dropped slightly <PUNC>
+shares inched <NUM> percent lower <PUNC>
+<PAR>

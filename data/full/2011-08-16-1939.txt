@@ -1,0 +1,5 @@
+stepping back after its biggest three-day percentage gain since march <NUM> <COMMA> the dow jones industrial average dji fell as much as <NUM> points <COMMA> but lately was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components losing ground <PUNC>
+bank of america corp. bac led losses with a <NUM> percent drop <PUNC>
+discount retailer wal-mart stores inc. wmt hiked its <NUM> profit outlook <COMMA> with shares of the dow component up <NUM> percent <COMMA> helping to limit the index s decline <PUNC>
+also bolstering the blue-chip index <COMMA> home depot inc. hd rose <NUM> percent after the home-improvement retailer raised its yearly profit forecast as second-quarter earnings topped expectations <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+for friday s session <COMMA> the dow jones industrial average dji ended near its session lows <COMMA> off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+all <NUM> of its components fell <COMMA> including declines of more than <NUM> percent each in j.p morgan chase jpm <COMMA> caterpillar cat <COMMA> american express axp <COMMA> and general electric ge <PUNC>
+friday s loss helped push stocks to weekly losses <PUNC>
+the dow ended down <NUM> percent <COMMA> breaking a string of <NUM> weekly gains <PUNC>
+the s&p <NUM> spx fell <NUM> percent <COMMA> while the nasdaq composite rixf lost <NUM> percent for the week <PUNC>
+<PAR>

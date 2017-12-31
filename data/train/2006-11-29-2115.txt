@@ -1,0 +1,8 @@
+the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> a bit below an intraday high of <NUM> <PUNC>
+dow component intel corp. intc rose <NUM> percent after ubs reiterated a buy on the stock <COMMA> citing a positive meeting with intel chief executive paul otellini <PUNC>
+verizon communications vz gained <NUM> percent after ag edwards upgraded the stock to buy from hold <COMMA> citing increased confidence in the company s deployment of its fiber optic internet service and the recent sale of its phone directories business <PUNC>
+general motors corp. gm turned around <COMMA> losing <NUM> percent <COMMA> after competitor ford motor co. f said that half of its blue collar workforce has accepted buyout offers <PUNC>
+ford rose <NUM> percent <PUNC>
+boeing co. ba rose <NUM> percent after prudential raised its price target on the stock to dollar <NUM> from dollar <NUM> <PUNC>
+new york times co. nyt advanced <NUM> percent after a report in the new york post said that hank greenberg <COMMA> the former head of american international group inc. aig <COMMA> is buying huge blocks of the stock in a bid to break the sulzberger family s control <PUNC>
+<PAR>

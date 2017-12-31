@@ -1,0 +1,2 @@
+the dow jones industrial average dji reversed higher <COMMA> adding <NUM> points to <NUM> <PUNC>
+<PAR>

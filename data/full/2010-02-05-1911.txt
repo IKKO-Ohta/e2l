@@ -1,0 +1,6 @@
+the dow jones industrial average dji was recently off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> led by a <NUM> percent decline in general electric co. ge <PUNC>
+the nasdaq composite index rixf was down <NUM> percent <PUNC>
+the s&p <NUM> spx fell <NUM> percent <COMMA> with every sector trading lower <PUNC>
+the dow seems poised for its first close below <NUM> in three months <PUNC>
+the blue-chip measure first crossed <NUM> in <NUM> <COMMA> but it has since proven to be one of the toughest round-number levels for the average to maintain in its history <PUNC>
+<PAR>

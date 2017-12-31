@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components behind <PUNC>
+and in the unofficial start of third-quarter earnings season <COMMA> dow component alcoa aa is expected to report a profit of <NUM> cents a share for the third quarter <COMMA> according to the average estimate of analysts who follow the aluminum producer <PUNC>
+this would be up about <NUM> percent from the year-ago period <PUNC>
+on the broker front <COMMA> deutsche bank downgraded dow component coca-cola co. ko to hold from buy <COMMA> citing valuation <PUNC>
+shares of coca-cola slid <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji ended up <NUM> point <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> pushing the index up for its sixth straight gain <PUNC>
+of the <NUM> components <COMMA> <NUM> ended higher <PUNC>
+caterpillar inc. cat offered the biggest lift among the blue chips <COMMA> with shares rising <NUM> percent after the equipment-maker hiked its <NUM> forecast <PUNC>
+<PAR>
+the dow industrials on friday finished higher for an eighth week in a row the index s longest-winning stretch since january <NUM> <PUNC>
+<PAR>

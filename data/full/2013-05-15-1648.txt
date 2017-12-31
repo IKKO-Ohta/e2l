@@ -1,0 +1,5 @@
+wednesday s mild gains come a day after another record-setting rally that had the dow jones industrial average dji and the s&p <NUM> index spx closing at all-time highs <PUNC>
+the market s bull run <COMMA> now in a fifth year <COMMA> comes amid continuing stimulus from the u.s. federal reserve as well as monetary easing by central banks around the globe <COMMA> along with better-than-expected corporate earnings <PUNC>
+erasing opening losses <COMMA> the dow industrials added <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+dow component cisco systems inc. shares csco edged lower ahead of the networking giant reporting third-quarter earnings <COMMA> projected to come in at <NUM> cents a share <PUNC>
+<PAR>

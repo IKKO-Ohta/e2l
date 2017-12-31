@@ -1,0 +1,8 @@
+up <NUM> points early on <COMMA> the dow jones industrial average dji fell more than <NUM> points in the final hour of trade only to recover as the session neared the close <PUNC>
+the dow closed <NUM> points higher at <NUM> <COMMA> with <NUM> of its <NUM> components ending ahead <PUNC>
+at&t inc. t fronted the advance <COMMA> its stock ending up <NUM> percent in a second day of gains after the telecommunications giant painted a rosier picture of future growth in a meeting with analysts <PUNC>
+of the blue chip s laggards <COMMA> citigroup inc. c dropped the most <COMMA> its stock off <NUM> percent <PUNC>
+boeing co. ba <COMMA> another dow component <COMMA> fell <NUM> percent after its downgrade to equal-weight from overweight at morgan stanley <PUNC>
+financial shares also declined after bank of america corp. bac warned of larger fourth-quarter losses than previously projected <PUNC>
+the bank was among the institutions to draw a downgrade by merrill lynch <COMMA> with the broker also cutting its ratings on j.p. morgan chase co. jpm and wachovia corp. wb <PUNC>
+<PAR>

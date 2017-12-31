@@ -1,0 +1,5 @@
+a day after closing at a record high <COMMA> the dow jones industrial average dji on wednesday lost as many as <NUM> points <COMMA> and was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+twenty-two of the dow s <NUM> components were in the red <COMMA> led by j.p. morgan chase & co. jpm <COMMA> off <NUM> percent <PUNC>
+wal-mart stores inc. wmt was among the dow components rising <COMMA> a day after the discount retailer said in a securities filing it would likely take a loss from bribery probes being done internally as well as by government agencies <PUNC>
+upbeat data on durable-goods orders and house prices helped lift u.s. stocks on tuesday <COMMA> with the dow industrials hitting a record and the s&p <NUM> closing less than two points away from its all-time closing high <PUNC>
+<PAR>

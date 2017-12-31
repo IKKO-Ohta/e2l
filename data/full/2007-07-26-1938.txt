@@ -1,0 +1,10 @@
+new york dow jones - stocks plunged thursday as anxiety about shaky credit markets and the troubled housing sector swept wall street <COMMA> pushing the dow jones industrial average down more than <NUM> points <COMMA> its largest single-day drop this year <COMMA> before recouping a chunk of its losses <PUNC>
+the dow jones industrials dji was off <NUM> points to <NUM> <COMMA> with all but one of its <NUM> stocks in the red <PUNC>
+the dow earlier fell to a low of <NUM> <PUNC>
+there s nothing new <PUNC>
+it s everything the market has been living with <COMMA> and living beyond <COMMA> for five months <COMMA> said goldman <COMMA> who chalked up thursday s slide to a very normal and nasty pause to reflect on the recent run-up <COMMA> which drove the dow up over <NUM> <PUNC>
+aluminum producer alcoa inc. aa led the declines <COMMA> its stock off <NUM> percent <COMMA> with fellow dow component exxon mobil corp. xom following suit <COMMA> its stock down <NUM> percent <PUNC>
+on their heels was citicorp inc. c <COMMA> which fell <NUM> percent <PUNC>
+despite setbacks this week for several major debt offerings connected to multi-billion dollar leveraged buyouts for chrysler corp. and others <COMMA> stocks managed to close with solid gains on wednesday <PUNC>
+investors snapped up shares of amazon.com amzn and boeing co. ba following earnings reports from the firms <PUNC>
+<PAR>

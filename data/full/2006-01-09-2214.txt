@@ -1,0 +1,13 @@
+u.s. stocks ended higher monday as a more than <NUM> percent jump in shares of general motors corp. helped the dow jones industrial average close above <NUM> for the first time in <NUM> 1/2-year years <PUNC>
+the dow industrials dji ended up <NUM> points at <NUM> <COMMA> the first time the benchmark index has closed above the psychologically key <NUM> mark since june <NUM> 2001 <PUNC>
+at one stage <COMMA> the dow rose as high as <NUM> <PUNC>
+commenting on the dow hitting <NUM> <COMMA> he said it was psychologically key for the market <PUNC>
+general motors corp. gm shot up <NUM> percent to dollar <NUM> <COMMA> making it the biggest percentage gainer within the dow industrials <PUNC>
+the stock <COMMA> a drag on the dow in <NUM> <COMMA> was upgraded by goldman sachs <COMMA> which said that dwindling concern about a possible bankruptcy-law filing should lift it back to the mid-dollar <NUM> s by mid-year <PUNC>
+after the bell monday <COMMA> alcoa inc. aa kicked off the earnings season with its fourth-quarter results <PUNC>
+shares of j.p. morgan jpm rose <NUM> percent to dollar <NUM> after it and merrill lynch mer were upgraded by prudential equity group <PUNC>
+prudential cited improving merger and acquisition activity and likely growth in their asset-management and private-equity businesses <PUNC>
+merrill shares were up <NUM> percent at dollar <NUM> <PUNC>
+international business machines <COMMA> ibm also in the dow <COMMA> fell <NUM> percent at dollar <NUM> <PUNC>
+the stock was downgraded to neutral from overweight at j.p. morgan <COMMA> with the broker citing risks in services and hardware <PUNC>
+<PAR>

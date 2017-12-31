@@ -1,0 +1,2 @@
+the dow jones industrial average dji advanced <NUM> points to <NUM> <COMMA> with all but one of the blue-chip benchmark s <NUM> components trading higher <PUNC>
+<PAR>

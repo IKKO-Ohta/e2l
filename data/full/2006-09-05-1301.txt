@@ -1,0 +1,4 @@
+the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
+citigroup reduced its ratings for aluminum producers alcoa inc. aa and alcan inc. al to hold from buy <PUNC>
+according to citigroup <COMMA> demand for the metal has peaked <PUNC>
+<PAR>

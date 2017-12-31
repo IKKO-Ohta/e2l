@@ -1,0 +1,4 @@
+u.s. stocks in the days ahead will seek to recover from a bashing that had the dow industrials down for a third week in the past four and joining other benchmarks in negative turf for <NUM> <PUNC>
+on friday <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> leaving it down <NUM> percent for the week and <NUM> percent for the year <PUNC>
+gains evaporated when news arrived that s&p had downgraded belgium <PUNC>
+<PAR>

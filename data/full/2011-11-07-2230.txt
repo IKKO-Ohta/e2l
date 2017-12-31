@@ -1,0 +1,3 @@
+with trading at low volume <COMMA> the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+that left the dow <NUM> points away from the session s highs <COMMA> reached in the final minutes of trading <PUNC>
+<PAR>

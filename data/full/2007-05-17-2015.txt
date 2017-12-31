@@ -1,0 +1,13 @@
+the dow industrials dji were up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components retreated <PUNC>
+the dow bounced off an earlier low of <NUM> <PUNC>
+leading the gains were shares of boeing co. ba and united technologies utx <PUNC>
+caterpillar inc. cat pressured blue chips <COMMA> losing <NUM> percent after stifel nicolaus downgraded the stock from a buy to a hold <COMMA> citing storm clouds for consumer spending that pressure economy-sensitive stocks <PUNC>
+hewlett-packard hpq lost <NUM> percent <PUNC>
+the computer maker reported lower fiscal second-quarter profit <COMMA> but boosted sales by <NUM> percent and raised its full-year forecast <PUNC>
+the dow rallied to close at a new high wednesday <COMMA> leading investors to consolidate their gains on thursday <PUNC>
+yet <COMMA> periods of consolidation have been short-lived in a market rally that has continued with little interruption since mid-march <PUNC>
+while a sustained move higher might revive concerns about the impact of higher gasoline on consumption <COMMA> the move helped lift energy shares such as dow-component exxon mobil corp. xom on thursday <PUNC>
+stocks rallied wednesday <COMMA> sending the dow to a new record high <COMMA> as investors cheered stronger-than-expected industrial production data <COMMA> bausch & lomb inc. s bol buyout by a private equity firm and speculation about a break-up of citigroup inc. c <PUNC>
+on thursday <COMMA> 24/7 real media tfsm rose <NUM> percent before the open after it agreed to be bought by britain s wpp for dollar <NUM> million <COMMA> or dollar <NUM> a share <PUNC>
+microsoft msft was reported to be interested in buying the internet advertising firm <PUNC>
+<PAR>

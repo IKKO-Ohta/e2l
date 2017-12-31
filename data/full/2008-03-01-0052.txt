@@ -1,0 +1,4 @@
+february ended friday with the dow jones industrial average dji sliding <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+insurance giant aig aig led the losses <COMMA> falling more than <NUM> percent after posting its largest loss in almost <NUM> years of business <PUNC>
+after the friday slide <COMMA> the dow industrials were left down <NUM> percent for the week <COMMA> <NUM> percent for february <COMMA> and have now lost <NUM> percent year-to-date <PUNC>
+<PAR>

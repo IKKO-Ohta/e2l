@@ -1,0 +1,3 @@
+on wednesday <COMMA> the dow dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
+on tuesday <COMMA> stocks rallied to start the new trading year <COMMA> with the dow jones industrial average rising <NUM> points to close at a five-month high <PUNC>
+<PAR>

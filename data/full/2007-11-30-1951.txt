@@ -1,0 +1,2 @@
+at last check <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components higher <COMMA> and financial stocks fronting the blue-chip advance <COMMA> including jp morgan chase co. jpm <COMMA> up <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji closed the week at <NUM> <COMMA> up <NUM> percent on the week <PUNC>
+the second-quarter earnings season will get into full swing next week with reports from such closely-watched names as dow component general electric ge <COMMA> and apple computer aapl <PUNC>
+import prices are expected to show a <NUM> percent growth rate for last month <COMMA> contrasting with a drop of <NUM> percent in may <COMMA> according to the dow jones survey <PUNC>
+according to the dow jones survey <COMMA> the empire state manufacturing index should have a reading of <NUM> for this month <COMMA> down a bit from <NUM> in june <PUNC>
+<PAR>

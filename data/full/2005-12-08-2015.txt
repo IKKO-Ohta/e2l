@@ -1,0 +1,7 @@
+the dow jones industrial average dji turned negative for the year <COMMA> falling <NUM> points to <NUM> <COMMA> as commodities surged <PUNC> the blue chip index began <NUM> at <NUM> <PUNC>
+earlier thursday the dow was more than <NUM> points higher <PUNC>
+mcdonald s mcd <COMMA> a dow component <COMMA> was down <NUM> cents at dollar <NUM> <PUNC>
+the fast-food company said its global same-restaurant sales rose <NUM> percent in november <COMMA> citing its breakfast menu and extended hours <PUNC>
+however <COMMA> sales were flat in europe <PUNC>
+intel intc stock last was down <NUM> percent <COMMA> making the fourth day in a row of declines for the stock <COMMA> ahead of its mid-quarter business updates <COMMA> despite predictions by several analysts that it will raise its earnings guidance <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all <NUM> component stocks posting gains <COMMA> led by the likes of united technologies corp. utx and home depot inc. hd <COMMA> both up more than <NUM> percent <PUNC>
+<PAR>

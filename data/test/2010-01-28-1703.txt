@@ -1,0 +1,11 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
+the decline marks the dow s first time below <NUM> since november <PUNC>
+american express axp was dow s measure s worst performer <COMMA> off <NUM> percent <PUNC>
+diversified manufacturer 3m mmm dropped <NUM> percent <COMMA> despite a <NUM> percent surge in its fourth-quarter profit <COMMA> better than the street had forecast <COMMA> and a boost to the company s <NUM> earnings outlook <PUNC>
+the dow s technology components were also particularly weak <PUNC>
+hewlett-packard hpq fell <NUM> percent <COMMA> intel slipped <NUM> percent and cisco csco dropped <NUM> percent <PUNC>
+procter & gamble pg was one of the dow s few gainers <PUNC>
+its shares climbed <NUM> percent after the consumer products company s quarterly earnings came in above estimates <PUNC>
+the standard & poor s 500-share index spx dropped <NUM> percent <COMMA> with its technology sector leading the declines <PUNC>
+just two sectors were in the black <PUNC> telecommunications and consumer staples <PUNC>
+<PAR>

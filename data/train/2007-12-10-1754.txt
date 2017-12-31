@@ -1,0 +1,6 @@
+u.s. stocks climbed monday <COMMA> with the dow making a triple-digit gain <COMMA> as investors rode a wave of optimism sparked by tuesday s likely interest-rate cut and financial shares drawing a lift by a hefty investment in swiss banking giant ubs ag <PUNC>
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components ahead <COMMA> led by financials including j.p. morgan chase jpm <COMMA> up <NUM> percent <COMMA> and citigroup inc. c <COMMA> up <NUM> percent <PUNC>
+elsewhere on the dow <COMMA> shares of mcdonald s corp. mcd were up <NUM> percent after the fast-food chain reported an <NUM> percent jump in global sales at restaurants open a year or more <PUNC>
+<PAR>
+blue-chip laggards include merck company inc. mrk <COMMA> recently off <NUM> percent <COMMA> and home depot inc. hd <COMMA> down <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+after closing tuesday at its highest level since aug. <NUM> <COMMA> <NUM> <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the market this past week overcame periods of consolidation and remained charged by news of impending corporate tie-ups <COMMA> including a dollar <NUM> billion agreement by microsoft corp. msft to acquire aquantive inc. aqnt and daimlerchrysler ag s dcx deal to sell <NUM> percent of its chrysler unit <PUNC>
+renewed speculation of a possible break up of citigroup inc. c also boosted the financial services firm s shares <PUNC>
+almost <NUM> s&p <NUM> companies already have posted results <PUNC>
+the first-quarter earnings growth rate slipped to <NUM> percent from <NUM> percent last week <COMMA> in large part due to revised year-ago results by technology giant hewlett-packard co. hpq <COMMA> according to thomson financial <PUNC>
+efforts by authorities in china to cool down the economy <COMMA> including an interest-rate hike and a widening in the trading band for the yuan <COMMA> didn t prevent u.s. stocks from powering higher on friday <PUNC>
+the dow jones industrial average dji surged <NUM> points to a record of <NUM> <PUNC>
+the blue-chip average rose <NUM> percent for the week <PUNC>
+<PAR>

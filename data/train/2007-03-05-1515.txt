@@ -1,0 +1,7 @@
+after dropping more than <NUM> points right at the open <COMMA> however <COMMA> the dow jones industrial average dji seemed to stabilize quickly <COMMA> and was last down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
+the blue-chip average was still weighed down by the likes of alcoa inc. aa <COMMA> jp morgan chase jpm and walt disney co. dis <PUNC>
+on friday stocks ended lower <COMMA> with the dow jones industrial average posting its largest weekly percentage decline since march <NUM> <PUNC>
+equities last week were battered by the japanese yen s rally against the dollar <COMMA> more bad news for mortgage lenders and global anxieties <PUNC>
+alltel at also saw some gains <PUNC>
+the wall street journal reported that at&t corp. t is considering buying it <PUNC>
+<PAR>

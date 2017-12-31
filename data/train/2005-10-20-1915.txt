@@ -1,0 +1,15 @@
+the dow jones industrial average dji fell to a session low of <NUM> in mid-afternoon trading <PUNC>
+the fall in crude sent energy xoi and oil services stocks osx tumbling <PUNC>
+exxon mobil xom <COMMA> a dow component and the world s largest oil company <COMMA> fell as much as <NUM> percent <PUNC>
+pfizer inc. pfe tumbled as much as <NUM> percent to dollar <NUM> after the world s largest drugmaker posted a <NUM> percent decline in third-quarter profit and lowered its <NUM> outlook <PUNC>
+it also withdrew its forecasts beyond <NUM> <COMMA> citing lower prescription growth and increased competition in the key u.s. market <PUNC>
+fellow dow component mcdonald s corp. mcd saw its shares fall as much as <NUM> percent to dollar <NUM> in morning trading <PUNC>
+its third-quarter profit dipped <NUM> percent year over year as a decline in gross margins offset better-than-expected revenue growth <PUNC>
+coca-cola co. ko <COMMA> another member of the blue-chip index <COMMA> reported earnings and revenue that came in ahead of wall street expectations <PUNC>
+the stock rose as much as <NUM> percent to dollar <NUM> in morning trading <PUNC>
+wrapping up earnings in the dow <COMMA> sbc communications inc sbc booked an adjusted third-quarter profit that topped analyst estimates <PUNC>
+the telecom company said it added a record <NUM> high-speed internet users in the quarter <PUNC>
+the stock gained as much as <NUM> percent in morning trading <PUNC>
+in broker action <COMMA> shares of the home depot inc. hd rose as much as <NUM> percent after bear stearns upgraded the home improvement retailer to outperform from peer perform <COMMA> saying it investments are driving margin expansion opportunities and earnings per share <PUNC>
+the broker added its home depot supply unit will provide the next leg of topline growth <PUNC>
+<PAR>

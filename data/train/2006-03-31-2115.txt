@@ -1,0 +1,12 @@
+the dow jones industrial average is on track to book its best first quarter in four years while the nasdaq composite is looking at its best first-quarter performance since the first quarter of <NUM> <PUNC>
+the dow industrials dji gave up morning gains to trade down <NUM> points at <NUM> <COMMA> off an early high of <NUM> <PUNC>
+for the quarter <COMMA> the dow and the s&p <NUM> are up around <NUM> percent <COMMA> while the nasdaq has surged more than <NUM> percent in the quarter <PUNC>
+gm gm shares initially fell as much as <NUM> percent on the news before turning higher in afternoon trading <PUNC>
+it was last up <NUM> percent at dollar <NUM> <PUNC>
+germany s sap sap declined to comment on trader speculation that international business machines ibm is preparing an offer for the software company <PUNC>
+u.s.-listed shares of sap were up <NUM> cents at dollar <NUM> <PUNC>
+ibm shares were down <NUM> cents at dollar <NUM> <PUNC>
+citigroup inc. c was charged by the australian securities regulator with insider trading <COMMA> over buying shares of patrick corp. one day before one of the bank s clients <COMMA> toll holdings <COMMA> launched a takeover bid for the company <PUNC>
+citigroup denied the charges <PUNC>
+the bank s shares were up <NUM> cents at dollar <NUM> <PUNC>
+<PAR>

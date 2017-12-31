@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+alcoa inc. aa is likely to see active trading as the maker of aluminum products prepares to release its results after the market closes <PUNC>
+the company s results traditionally mark the start of the reporting season for earnings <PUNC>
+on the deal front <COMMA> bank of new york co. <COMMA> bk the oldest bank in the u.s. <COMMA> announced a business-swap agreement with j.p. morgan chase jpm that means the bank is exiting the retail banking business <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji gained <NUM> <COMMA> or <NUM> percent <COMMA> to close at <NUM> <PUNC>
+the blue-chip index had been down by as much as <NUM> points at midday <COMMA> and it also was up by <NUM> points at its session peak <COMMA> according to factset data <PUNC>
+on the earnings front <COMMA> dow component coca-cola ko reported growth in key emerging markets as first-quarter revenue beat forecasts <PUNC>
+shares gained <NUM> percent to lead the dow <PUNC>
+johnson & johnson jnj advanced <NUM> percent after the dow component reported quarterly earnings that beat forecasts and raised its full-year profit guidance <PUNC>
+j&j was the second-best performer in the blue-chip index <PUNC>
+<PAR>

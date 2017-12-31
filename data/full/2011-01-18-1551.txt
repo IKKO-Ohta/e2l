@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components higher <PUNC>
+boeing co. ba led the blue chips <COMMA> its shares rising <NUM> percent after the aerospace manufacturer again delayed the first delivery of its new <NUM> <PUNC>
+the dow on friday finished a seventh straight week higher <COMMA> ending at its highest level since mid-2008 <PUNC>
+u.s. financial markets were closed monday <PUNC>
+<PAR>

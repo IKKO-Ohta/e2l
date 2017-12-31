@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> off nearly <NUM> points <COMMA> or <NUM> percent <COMMA> from where it stood at the end of april <PUNC>
+the dow s slide broke a three-month winning streak and marked its worst may since <NUM> <PUNC>
+also <COMMA> a recall by health-care products maker johnson & johnson jnj was among the sparks enflaming the market s ongoing upheaval <COMMA> according to howard silverblatt <COMMA> senior index analyst at standard & poor s <PUNC>
+<PAR>

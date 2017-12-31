@@ -1,0 +1,6 @@
+but tuesday s round of earnings reports included some disappointments <COMMA> including procter & gamble pg <COMMA> which weighed on the dow jones industrial average dji <PUNC>
+the dow fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+among other dow components <COMMA> pfizer pfe was a bright spot <PUNC>
+the drug company leapt to the top of the dow <COMMA> jumping <NUM> percent <COMMA> after it posted a <NUM> percent increase in second-quarter earnings rose <NUM> percent <COMMA> with adjusted earnings and revenue beating analysts estimates <PUNC>
+the company s revenue was boosted by its acquisition of wyeth <COMMA> and sales of its flagship drugs rose <PUNC>
+<PAR>

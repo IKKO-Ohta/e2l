@@ -1,0 +1,4 @@
+after an early side of nearly <NUM> points <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+shares of general motors corp. gm fell nearly <NUM> percent after another day of hearings on capitol hill that had the big three automakers appealing for dollar <NUM> billion in federal loans <PUNC>
+u.s. stocks on thursday reversed the prior session s gains as jobless claims remained above a half million and heavyweights including at&t inc. t and dupont dd slashed jobs <PUNC>
+<PAR>

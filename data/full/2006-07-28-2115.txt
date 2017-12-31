@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> capping what is the best weekly point gain for the index since november <NUM> <PUNC>
+the benchmark index posted a weekly gain of <NUM> percent <PUNC>
+wal-mart stores inc. wmt rose <NUM> percent to dollar <NUM> as investors welcomed its decision to pull out of germany <COMMA> with the sale of all its <NUM> hypermarkets to metro ag <PUNC>
+the retail giant <COMMA> however <COMMA> will have to take a dollar <NUM> billion charge on the deal in the second quarter <PUNC>
+general motors gm rose <NUM> cents to dollar <NUM> <PUNC>
+the auto maker s global sales were <NUM> million vehicles in the second quarter <COMMA> representing an <NUM> percent sequential gain <PUNC>
+<PAR>

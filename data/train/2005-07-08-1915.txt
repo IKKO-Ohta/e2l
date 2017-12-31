@@ -1,0 +1,6 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> setting the benchmark index up for a weekly gain of around <NUM> percent <PUNC>
+within the dow industrials <COMMA> alcoa inc. shares aa rose <NUM> percent to dollar <NUM> on better-than-expected quarterly results reported after thursday s close <COMMA> marking the unofficial start to earnings season <PUNC>
+also <COMMA> general electric co. ge climbed <NUM> percent to dollar <NUM> <COMMA> buoyed by positive broker comments from morgan stanley and smith barney <PUNC>
+and international business machines ibm gained <NUM> percent to dollar <NUM> amid some positive analyst comments on the company s second-quarter outlook <PUNC>
+away from the dow <COMMA> shares of accenture ltd. acn surged <NUM> percent to dollar <NUM> after the company reported better-than-expected quarterly earnings amid strong demand for consulting and outsourcing services <PUNC>
+<PAR>

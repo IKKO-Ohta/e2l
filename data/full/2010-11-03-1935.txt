@@ -1,0 +1,4 @@
+the major indexes wavering higher and lower after the fed statement <COMMA> and at one point marched decisively upward in the final hour of trading <PUNC>
+the dow jones industrial average dji were last down <NUM> points to <NUM> <PUNC>
+earlier in the day <COMMA> it was poised for its highest finish since september <NUM> <COMMA> just ahead of the climax of the financial crisis <PUNC>
+<PAR>

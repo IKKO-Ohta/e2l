@@ -1,0 +1,14 @@
+the s&p <NUM> spx recovered some of the losses <COMMA> but closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+the dow jones industrial average dji ended the day <NUM> points higher at <NUM> <COMMA> after setting an intraday record in the morning <PUNC>
+the nasdaq composite rixf dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the russell <NUM> rut fell <NUM> points <COMMA> or <NUM> percent <COMMA> to the preliminary <NUM> <PUNC>
+in earnings news <COMMA> j.p. morgan chase jpm reported better-than-expected earnings <PUNC>
+shares rose <NUM> percent <PUNC>
+read the recap of the earnings call with analysts <PUNC>
+goldman sachs gs reported second-quarter earnings of dollar <NUM> a share and revenue of dollar <NUM> billion <COMMA> beating wall street estimates <PUNC>
+goldman shares rose <NUM> percent <PUNC>
+recap <PUNC> goldman sachs cfo says environment mixed with historically low volatility levels <PUNC>
+yahoo inc. yhoo shares rose over <NUM> percent in after-hours trade after reporting second-quarter results that were in line with expectations <PUNC>
+intel corp. intc also rose <NUM> percent after-hours <COMMA> following quarter reports <PUNC>
+read more about the day s notable movers here <PUNC>
+<PAR>

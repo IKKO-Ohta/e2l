@@ -1,0 +1,11 @@
+on tuesday <COMMA> stocks ended lower <COMMA> with the dow jones industrial average falling for a third session in a row <COMMA> hurt by a spike in oil prices to their highest level since late september <COMMA> mixed banking sector earnings and a new set of broker downgrades <PUNC>
+the dow industrials dji fell <NUM> points to <NUM> <PUNC>
+shares in intel corp. intc tumbled <NUM> percent to dollar <NUM> in pre-market trading on instinet as the world s largest maker of semiconductors became the latest dow component to disappoint on earnings <PUNC>
+fellow dow member international business machines ibm managed to eke out a small gain in pre-market dealings <COMMA> helped by a <NUM> percent rise in fourth-quarter profit over year-ago levels <PUNC>
+revenue <COMMA> however <COMMA> fell shy of analyst estimates due in part to lower sales in its global-services business <PUNC>
+the stock tacked on <NUM> cents to dollar <NUM> <PUNC>
+and shares of j.p. morgan chase & co. jpm looked to be heading lower at the open as the bank <COMMA> also a dow component <COMMA> talked of lackluster trading results in the fourth quarter <COMMA> even as earnings adjusted earnings for the period came in a penny ahead of analyst estimates <PUNC>
+the stock was down <NUM> cents at dollar <NUM> in thin pre-market trading <PUNC>
+wednesday s raft of disappointing results on the dow come after last week s weaker-than-expected earnings from alcoa inc. aa and a profit warning from dupont dd <PUNC>
+mcdonald s corp <COMMA> mcd <COMMA> however <COMMA> was a bright spot on the earnings front for the blue-chip index <COMMA> after it said tuesday that its quarterly results would beat analyst forecasts <PUNC>
+<PAR>

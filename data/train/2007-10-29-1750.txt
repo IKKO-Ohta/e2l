@@ -1,0 +1,2 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <COMMA> led by alcoa inc. aa <COMMA> recently up <NUM> percent <PUNC>
+<PAR>

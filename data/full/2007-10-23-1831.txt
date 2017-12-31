@@ -1,0 +1,10 @@
+the dow jones industrial average dji was up <NUM> points in mid-afternoon trade at <NUM> <COMMA> with <NUM> of its <NUM> components in positive territory <PUNC>
+american express co. axp was among the stocks recording the larger gains <COMMA> up <NUM> percent after the credit-card and travel-services company tallied an <NUM> percent rise in profits for the third quarter <PUNC>
+wal-mart wmt <COMMA> a dow component and the nation s biggest retailer <COMMA> said tuesday it plans to trim capital expenditures for the current fiscal year more than forecast <PUNC>
+its stock dropped nearly <NUM> percent <PUNC>
+ahead of the opening bell <COMMA> blue-chip dupont dd <COMMA> the nation s second-largest chemical maker <COMMA> said its earnings rose <NUM> percent in the third quarter <COMMA> bolstered by international and agriculture growth <PUNC>
+other companies reporting earnings include at&t inc. t <COMMA> which matched expectations <PUNC>
+<PAR>
+shares of conglomerate 3m co. mmm led the few dow decliners <COMMA> its stock falling <NUM> percent <PUNC>
+on monday <COMMA> wall street bounced back <COMMA> with technology shares leading the way <COMMA> with the dow adding <NUM> points <COMMA> the nasdaq gaining <NUM> points and the s&p rising <NUM> points <PUNC>
+<PAR>

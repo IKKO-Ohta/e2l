@@ -1,0 +1,5 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+shares of lowe s companies inc. low fell <NUM> percent to dollar <NUM> after the home-improvement retailer s fell shy of analyst expectations <PUNC>
+the company s disappointing earnings had investors worried about the outlook for the home improvement sector in a period of slowing economic growth <PUNC>
+as a result <COMMA> shares of rival home depot inc. hd fell <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

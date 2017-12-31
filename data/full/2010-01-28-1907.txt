@@ -1,0 +1,8 @@
+the dow jones industrial average recently dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> off <NUM> percent for january <PUNC>
+if that loss holds up through friday s close <COMMA> it would represent the biggest decline since a nearly <NUM> percent slide in february <NUM> <COMMA> shortly before the market hit 12-year lows <PUNC>
+the s&p s financial category was recently off <NUM> percent <COMMA> though some big names managed to post gains <PUNC>
+bank of america <COMMA> bac goldman sachs <COMMA> gs and j.p. morgan chase jpm were up more than <NUM> percent each <PUNC>
+however <COMMA> the bulk of this january s declines have come over the past seven days <PUNC>
+the dow reached a new 15-month closing high for the year on jan. <NUM> and has quickly lost some <NUM> points <COMMA> or <NUM> percent <COMMA> since then <PUNC>
+that marks the worst seven-day period for the dow since march <PUNC>
+<PAR>

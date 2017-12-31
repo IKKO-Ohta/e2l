@@ -1,0 +1,5 @@
+after posting modest gains early on <COMMA> the dow jones industrial average dji was recently down <NUM> points midmorning at <NUM> <PUNC>
+two-thirds of the blue-chip index s <NUM> components were trading in the red <COMMA> led by its financial shares <PUNC> american express co. axp fell <NUM> percent <COMMA> while jp morgan chase co. jpm was down <NUM> percent and citigroup inc. c declined <NUM> percent <PUNC>
+at&t t was up <NUM> percent after the telecommunications giant said it s increasing its dividend by <NUM> percent and buying back <NUM> million shares <PUNC>
+blue-chip boeing co. ba said late monday it was increasing its quarterly dividend payment by <NUM> percent to <NUM> cents a share <PUNC>
+<PAR>

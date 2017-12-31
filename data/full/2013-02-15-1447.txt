@@ -1,0 +1,2 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> and the s&p <NUM> index spx edged up <NUM> points to <NUM> <PUNC>
+<PAR>

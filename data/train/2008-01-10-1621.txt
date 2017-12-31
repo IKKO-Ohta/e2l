@@ -1,0 +1,5 @@
+down about <NUM> points early thursday <COMMA> the dow jones industrial average dji was more recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components higher <COMMA> the gains led by boeing co. ba <COMMA> which was up <NUM> percent <PUNC>
+blue-chip decliners were led by american express co. axp <COMMA> off <NUM> percent <PUNC>
+wal-mart stores wmt said profit will feel some pressure from higher interest rates in the fourth quarter <COMMA> but it reaffirmed its fourth-quarter earnings view <PUNC>
+investors also will consider a wall street journal report that citigroup c and merrill lynch & co. mer are both negotiating further capital injections from overseas investors <PUNC>
+<PAR>

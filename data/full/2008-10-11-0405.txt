@@ -1,0 +1,7 @@
+with bank-to-bank lending and credit markets virtually frozen <COMMA> wall street joined a global market rout that lasted for eight straight sessions <PUNC>
+over the past week alone <COMMA> the dow jones industrial average dji lost nearly <NUM> points <COMMA> or <NUM> percent <COMMA> its worst weekly drop on record <PUNC>
+with asian markets tumbling thursday night <COMMA> the dow fell nearly <NUM> points upon friday s open to trade below the <NUM> market for the first time in more than five years <PUNC>
+but in extraordinarily volatile conditions that saw the blue-chip average swing back and forth by more than <NUM> points <COMMA> the dow settled down only <NUM> points at <NUM> <PUNC>
+the s&p <NUM> index spx finished down <NUM> points at <NUM> <COMMA> while the technology-heavy nasdaq composite rixf managed to eke out some gains <COMMA> ending up <NUM> points at <NUM> <PUNC>
+on tap will be intel intc <COMMA> johnson and johnson jnj <COMMA> and pepsico pep tuesday <PUNC> jp morgan chase jpm <COMMA> wells fargo wfc <COMMA> coca cola ko and ebay ebay wednesday <PUNC> merrill lynch mer <COMMA> ibm ibm <COMMA> google goog and advanced micro devices amd thursday <PUNC> and honeywell hon and schlumberger slb on friday <PUNC>
+<PAR>

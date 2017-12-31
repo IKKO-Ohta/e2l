@@ -1,0 +1,3 @@
+the september future for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
+if the dow rises above <NUM> <COMMA> it will turn positive for the year <PUNC>
+<PAR>

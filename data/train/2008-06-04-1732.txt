@@ -1,0 +1,2 @@
+the dow jones industrial average rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> the gains led by american express co. <COMMA> up <NUM> percent <COMMA> and intel corp. <COMMA> recently ahead <NUM> percent <PUNC>
+<PAR>

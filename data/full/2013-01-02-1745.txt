@@ -1,0 +1,2 @@
+after a 273-point climb <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with hewlett-packard co. hpq and caterpillar inc. cat leading gains that included all <NUM> of its components <PUNC>
+<PAR>

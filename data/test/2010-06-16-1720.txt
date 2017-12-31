@@ -1,0 +1,4 @@
+after closing tuesday with a gain of more than <NUM> points for a fifth time this year <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
+twenty-one of its <NUM> components fell <PUNC>
+on wednesday <COMMA> shares of apple were up <NUM> percent after at&t inc. t said it was suspending pre-ordering of the tech titan s iphone <NUM> so it could fill current orders <PUNC>
+<PAR>

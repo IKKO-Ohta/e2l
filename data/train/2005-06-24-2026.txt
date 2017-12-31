@@ -1,0 +1,12 @@
+new york dow jones - u.s. stocks ended lower friday as the dow jones industrial average posted its biggest weekly decline in more than two months amid concern record high oil prices will spark an economic slowdown <PUNC>
+the dow industrials dji fell <NUM> points <COMMA> or <NUM> percent to 10,297.84.the benchmark index closed out the week with back-to-back triple-digit declines to notch a five-session losing streak <COMMA> its worst run of losses in more than six months <PUNC>
+on the week <COMMA> the dow fell <NUM> percent <PUNC>
+within the dow <COMMA> alcoa aa fell <NUM> percent after the aluminum producer said it would take a second-quarter charge of <NUM> cents to <NUM> cents a share and eliminate <NUM> jobs as part of a previously disclosed plan to streamline operations <PUNC>
+merck shares mrk fell <NUM> percent as morgan stanley said litigation over its vioxx painkiller will drive increased volatility in the stock <PUNC>
+economists were expecting orders to rise <NUM> percent <PUNC>
+they were also expecting a big increase in aircraft orders after boeing co ba reported orders soared to <NUM> in may from <NUM> in april <PUNC>
+citigroup c said it ll sell its asset management business in exchange for the broker-dealer business of legg mason inc. lm in a deal valued at dollar <NUM> billion <PUNC>
+the company is currently in the process of being bought by johnson & johnson <PUNC>
+jnj analysts said guidant s problems are unlikely to derail the acquisition <PUNC>
+johnson & johnson shares ended up <NUM> percent <PUNC>
+<PAR>

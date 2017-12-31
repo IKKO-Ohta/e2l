@@ -1,0 +1,7 @@
+the dow jones industrial average dji ran up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with only at&t t <COMMA> pfizer inc. pfe and general electric co. ge in negative territory among the blue-chip barometer s <NUM> component stocks <PUNC>
+there were strong gains for a number of dow components <COMMA> including caterpillar cat <COMMA> which rose <NUM> percent <COMMA> dupont dd <COMMA> up <NUM> percent exxonmobil xom <COMMA> up <NUM> percent <COMMA> and honeywell hon <COMMA> up <NUM> percent <COMMA> <PUNC>
+among technology stocks <COMMA> hewlett-packard hpq <COMMA> also in the dow <COMMA> rose <NUM> percent to dollar <NUM> <PUNC>
+the company <COMMA> which is in the throes of a restructuring plan <COMMA> said it would grant more autonomy to its three business groups <PUNC>
+analysts at robert baird reiterated an outperform rating on the blue-chip bellwether <COMMA> citing the company s plan to restructure some bureaucratic activities <PUNC>
+fellow dow industrials component and technology bellwether intel inc. intc rose <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

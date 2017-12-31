@@ -1,0 +1,4 @@
+about <NUM> points off session lows <COMMA> the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components sinking <PUNC>
+citigroup inc. c fell the most <COMMA> off <NUM> percent <PUNC>
+alcoa inc. aa led the blue-chip index s limited gains <COMMA> with its shares up <NUM> percent <PUNC>
+<PAR>

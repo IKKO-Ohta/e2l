@@ -1,0 +1,8 @@
+the dow jones industrial average dji closed well off its lows <COMMA> down <NUM> points at <NUM> <COMMA> after earlier being more than <NUM> points lower at one point <PUNC>
+on monday the dow and the s&p <NUM> both racked up their largest one-day gains in six months <PUNC>
+dupont dd erased premarket losses to finish <NUM> percent higher at dollar <NUM> <PUNC>
+the chemical giant reported a third-quarter loss of dollar <NUM> million and lowered fourth-quarter earnings estimates <PUNC>
+but it also announced a dollar <NUM> billion buyback <PUNC>
+dow component honeywell hon was upgraded to buy by deutsche bank <COMMA> which said the stock price has been pushed down too much <PUNC>
+the stock rose as much as <NUM> percent <COMMA> but later closed down <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

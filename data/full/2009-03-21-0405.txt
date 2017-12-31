@@ -1,0 +1,4 @@
+stocks <COMMA> for a change <COMMA> reacted positively to the fed s action <PUNC>
+the dow jones industrial average gained <NUM> percent for the week <PUNC>
+the broad s&p <NUM> index rose <NUM> percent and the nasdaq composite index rixf posted a weekly gain of <NUM> percent <PUNC>
+<PAR>

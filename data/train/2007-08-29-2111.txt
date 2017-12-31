@@ -1,0 +1,7 @@
+the dow jones industrial average dji surged <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all <NUM> dow components ending in positive territory <PUNC>
+on tuesday <COMMA> the dow tumbled <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+leading the dow higher <COMMA> intel intc rose <NUM> percent <COMMA> general motors gm gained <NUM> percent and home depot hd rose <NUM> percent <PUNC>
+boosted by a rally in crude-oil prices <COMMA> energy stocks also posted strong gains <COMMA> with dow component exxon mobil corp. xom surging <NUM> percent <PUNC>
+shares of altria group inc. mo closed up <NUM> percent after the company said wednesday that it will pursue a spinoff of its philip morris international unit to its shareholders and the precise timing will be announced in january <PUNC>
+dow components hewlett-packard co. hpq gained <NUM> percent and international business machines corp. ibm rose <NUM> percent <PUNC>
+<PAR>

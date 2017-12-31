@@ -1,0 +1,7 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> after briefly surging to a high of <NUM> in early trade <PUNC>
+shares in general electric co. ge fell <NUM> cents to dollar <NUM> after the industrial conglomerate posted an in-line first-quarter profit and reaffirmed its earnings forecast for <NUM> <PUNC>
+revenue for the quarter <COMMA> however <COMMA> came in just ahead of analyst forecasts <PUNC>
+outside of technology <COMMA> mcdonald s corp. mcd was off <NUM> cents at dollar <NUM> <PUNC>
+the fast-food giant said its u.s. march same-store sales rose <NUM> percent <COMMA> helped by its breakfast menu and extended operating hours <PUNC>
+the fast-food chain also forecast first-quarter earnings of <NUM> cents a share <COMMA> in line with expectations of analysts polled by thomson first call <PUNC>
+<PAR>

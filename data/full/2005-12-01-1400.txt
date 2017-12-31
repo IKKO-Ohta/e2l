@@ -1,0 +1,8 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+for november <COMMA> the benchmark index gained <NUM> percent <PUNC>
+on average <COMMA> the dow industrials has gained <NUM> percent since <NUM> <COMMA> according to the stock trader s almanac <PUNC>
+the nasdaq composite has risen <NUM> percent while the s&p <NUM> ahs gained <NUM> percent <PUNC>
+wal-mart stores inc. wmt said it expects december same-store sales in the range of <NUM> percent to <NUM> percent after november sales came in as expected <PUNC>
+the discount retailer s sam s club chain put in a particularly strong performance <COMMA> posting a <NUM> percent rise in same-store sales while same-stores sales at its namesake chain rose <NUM> percent <PUNC>
+in pre-market trading <COMMA> wal-mart shares rose <NUM> cents to dollar <NUM> on instinet <PUNC>
+<PAR>

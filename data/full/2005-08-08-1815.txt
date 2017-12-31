@@ -1,0 +1,4 @@
+the dow jones industrial average dji last was down <NUM> points at <NUM> and the s&p <NUM> spx was down <NUM> at <NUM> <PUNC>
+exxonmobil xom was up <NUM> percent at dollar <NUM> <COMMA> benefiting from the continued rise of crude prices <PUNC>
+mcdonald s mcd was up <NUM> percent at dollar <NUM> after reporting solid july sales gains <PUNC>
+<PAR>

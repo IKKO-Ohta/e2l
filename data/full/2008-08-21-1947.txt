@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+among dow components <COMMA> oil giants chevron cvx and exxonmobil xom both gained more than <NUM> percent <COMMA> as oil surged nearly <NUM> percent amid rising tensions over russia s military conflict with georgia <PUNC>
+the dow s financial components were mixed <COMMA> with aig aig off <NUM> percent <COMMA> citigroup c off <NUM> percent <COMMA> bank of america bac down <NUM> percent and j.p. morgan chase jpm down <NUM> percent <PUNC>
+<PAR>

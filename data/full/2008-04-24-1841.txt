@@ -1,0 +1,7 @@
+after erasing early losses <COMMA> the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+american international group inc. aig rose <NUM> percent <COMMA> drawing support as property and casualty insurer travelers cos. lifted its profit forecast for the year <PUNC>
+<PAR>
+other blue-chip gains included general motors corp. gm <COMMA> up <NUM> percent <COMMA> following news of a surprise profit at ford motor co. f <PUNC>
+after the closing bell <COMMA> microsoft corp. msft will report results <PUNC>
+u.s. stocks ended higher on wednesday <COMMA> with better-than-forecast results from boeing co. ba helping steer stocks up in a choppy session <PUNC>
+<PAR>

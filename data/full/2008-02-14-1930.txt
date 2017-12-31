@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to stand at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+intel corp. intc <COMMA> the world s biggest chipmaker <COMMA> set the pace for blue-chip decliners <COMMA> its shares down <NUM> percent <COMMA> amid reports goldman sachs had taken the company off its conviction buy list <PUNC>
+financial stocks weighed the dow as well <COMMA> with j.p. morgan chase jpm off <NUM> percent <COMMA> while share of citigroup inc. c slipped <NUM> percent and american express co. axp lost <NUM> percent <PUNC>
+blue-chip component exxon mobil corp. xom gained <NUM> percent <COMMA> while future blue-chip member chevron corp. cvx was up <NUM> percent <PUNC>
+chevron joins the ranks of the dow feb. <NUM> <COMMA> along with bank of america corp. bac <COMMA> ousting cigarette maker altria group inc. mo and diversified manufacturer honeywell international inc. hon <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+alcoa <COMMA> inc. aa gained <NUM> percent <COMMA> leading gains notched by <NUM> of the index s <NUM> components <PUNC>
+on the dow <COMMA> card issuer american express co. axp led decliners with a loss of <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
+the dow industrials posted fourth-quarter gains for the last seven years <PUNC>
+both the nasdaq composite and the s&p <NUM> <COMMA> meanwhile <COMMA> have gained for the last four years in a row <PUNC>
+within the dow <COMMA> wal-mart stores inc. wmt tacked on <NUM> cents to dollar <NUM> after it said it expects september same-store sales to come in at the higher end of a previous forecast range <PUNC>
+the world s largest discount retailer is forecasting <NUM> percent same-store sales growth vs. a previous estimate calling for a <NUM> percent to <NUM> percent sales gain <PUNC>
+also <COMMA> american express axp rose <NUM> cents to dollar <NUM> as nyse trading began in its spin-off ameriprise financial amp <COMMA> shares of which slipped about <NUM> percent <PUNC>
+shares of altria group inc. mo tacked on <NUM> cents to dollar <NUM> after goldman sachs raised its fair-value estimate for the food and tobacco giant by dollar <NUM> <COMMA> to dollar <NUM> <PUNC>
+general motors gm <COMMA> another dow component <COMMA> climbed <NUM> percent to dollar <NUM> as part of a broad advance of the auto sector ahead of monthly domestic vehicle sales data <PUNC>
+separately <COMMA> the u.s. government has calculated gm s pension-fund deficit is dollar <NUM> billion <COMMA> as opposed to the company s view that its pension fund is fully funded <COMMA> according to a new york times report <PUNC>
+<PAR>

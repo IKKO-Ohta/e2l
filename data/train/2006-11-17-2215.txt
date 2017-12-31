@@ -1,0 +1,11 @@
+u.s. stocks closed mixed friday <COMMA> as the dow jones industrial average extended its winning streak to a sixth session and set yet another record high <COMMA> bolstered by a continued slide in crude-oil prices <PUNC>
+for the week <COMMA> the dow rose <NUM> percent <COMMA> the s&p <NUM> gained <NUM> percent <COMMA> and the nasdaq composite climbed <NUM> percent <PUNC>
+the dow dji rose <NUM> points to <NUM> <COMMA> its new record closing level <PUNC>
+the s&p <NUM> index spx rose <NUM> point to <NUM> <COMMA> but the nasdaq composite index rixf lost <NUM> points to <NUM> <COMMA> snapping a winning streak <PUNC>
+however <COMMA> dow component hewlett-packard co. hpq fell <NUM> cents to dollar <NUM> after h-p said that the securities and exchange commission has opened a formal investigation into the corporate-spying scandal that led to the dramatic departure of its board chairwoman <COMMA> patricia dunn <PUNC>
+in other news <COMMA> johnson & johnson jnj gained <NUM> cents to dollar <NUM> after saying it agreed to buy conor medsystems inc. conr <COMMA> a developer of drug-eluting stents <COMMA> for dollar <NUM> a share <COMMA> or dollar <NUM> billion <PUNC>
+conor jumped <NUM> percent <PUNC>
+altria mo rose <NUM> percent to dollar <NUM> after news that a u.s. appeals court will review a lower court ruling that let stand a dollar <NUM> billion class-action lawsuit filed by light cigarette smokers against philip morris usa <PUNC>
+the question is when the market will make a top <COMMA> but we re not there yet <COMMA> ritholtz commented <PUNC>
+people are still playing the trend with the dow only down modestly after the bad housing news <PUNC>
+<PAR>

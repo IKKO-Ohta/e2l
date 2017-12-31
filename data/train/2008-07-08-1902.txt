@@ -1,0 +1,5 @@
+down at the start <COMMA> the dow jones industrial average dji tossed its losses aside within the first <NUM> minutes of trading <COMMA> and then struggled to retain its gains in volatile action <PUNC>
+as the final hour of trade approached <COMMA> the dow was up <NUM> points to <NUM> <PUNC>
+of the blue-chip index s <NUM> components <COMMA> <NUM> posted gains <COMMA> recently led by bank of america corp. bac <COMMA> up <NUM> percent <COMMA> and pfizer inc. pfe <COMMA> up <NUM> percent <PUNC>
+the dow s biggest loser was alcoa inc. aa <COMMA> off <NUM> percent <COMMA> with the aluminum producer due to report on its second quarter after the close <COMMA> in an unofficial kick off of the earnings season <PUNC>
+<PAR>

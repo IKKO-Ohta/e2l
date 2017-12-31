@@ -1,0 +1,5 @@
+a day after its largest point jump since december <NUM> <COMMA> the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a two-week high <PUNC>
+both the dow and the s&p <NUM> posted their first weekly gain in three <COMMA> the former up <NUM> percent for the week and the latter rising <NUM> percent from last friday s close <PUNC>
+j.p. morgan chase & co. jpm reported a quarterly loss <COMMA> its first under chief executive officer jamie dimon <COMMA> and wells fargo & co. wfc reported a <NUM> percent increase in third-quarter profit <COMMA> even as its mortgage banking income declined steeply <PUNC>
+on thursday <COMMA> the dow industrials dji rallied more than <NUM> points <COMMA> and the s&p <NUM> spx tallied its best gain since jan. <NUM> <COMMA> after house republican leaders proposed temporarily raising the nation s debt ceiling <PUNC>
+<PAR>

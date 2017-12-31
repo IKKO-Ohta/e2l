@@ -1,0 +1,6 @@
+on friday <COMMA> the dow jones industrial average dji gained <NUM> points to finish at <NUM> <PUNC>
+the s&p <NUM> spx gained <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf climbed <NUM> points to <NUM> <PUNC>
+the dow rallied a whopping <NUM> percent for the week <COMMA> even as it plunged <NUM> percent for the month <COMMA> its worst october since the stock market crash of <NUM> <PUNC>
+auto sales data for october will also be released that day <PUNC>
+general motors gm is the worst performing stock of dow s <NUM> components <COMMA> having now fallen <NUM> percent year to date <PUNC>
+<PAR>

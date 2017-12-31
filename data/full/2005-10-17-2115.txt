@@ -1,0 +1,17 @@
+new york dow jones u.s. stocks ended higher monday <COMMA> with the dow jones industrial average at its best level in two weeks after altria surged on a favorable court ruling and general motors rallied on the back of a union deal to cut health-care costs <PUNC>
+with monday s gains <COMMA> the dow industrials dji has rallied more than <NUM> points over the last two sessions <PUNC>
+the dow closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the nasdaq composite index rixf ended just off its session high of <NUM> <COMMA> to close up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the s&p <NUM> index spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> but the broad gauge <COMMA> like the dow and the nasdaq <COMMA> is still posting a loss on the year <PUNC>
+general motors corp. gm closed up dollar <NUM> <COMMA> or <NUM> percent <COMMA> at dollar <NUM> after the automaker reached an agreement with the united auto workers to reduce health-care costs for retirees by dollar <NUM> billion and cut its annual employee health-care expenses by about dollar <NUM> billion a year <PUNC>
+gm <COMMA> whose stock is a component of the dow industrials <COMMA> also said it s exploring the sale of gmac <COMMA> its financing unit and is planning to cut <NUM> jobs or more to restore profitability <PUNC>
+altria group mo <COMMA> another dow component <COMMA> touched a record intraday high of dollar <NUM> after the supreme court rejected the u.s. government s appeal on a tobacco-settlement payout <PUNC>
+altria closed up dollar <NUM> <COMMA> or <NUM> percent <COMMA> at dollar <NUM> <PUNC>
+rival tobacco companies reynolds american rai and loews corp ltr also rose <PUNC>
+citigroup inc c shares came off a morning high of dollar <NUM> as analysts gave a lukewarm reception to the banking giant s quarterly results <PUNC>
+the stock closed down <NUM> cents <COMMA> or <NUM> percent <COMMA> at dollar <NUM> <PUNC>
+international business machines ibm posted gains ahead of its third-quarter results after the market close <PUNC>
+big blue reported earnings of <NUM> cents a share on revenue of dollar <NUM> billion <PUNC>
+excluding one-time items <COMMA> the company reported earnings of dollar <NUM> a share <PUNC>
+the first call average estimate was for earnings of dollar <NUM> a share on revenue of dollar <NUM> billion <PUNC>
+<PAR>

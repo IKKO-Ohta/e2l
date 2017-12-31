@@ -1,0 +1,5 @@
+the dow jones industrial average and the s&p <NUM> soared to close at all-time highs <PUNC>
+the dow dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> topping its prior record close on nov. <NUM> <PUNC>
+the s&p <NUM> index spx rose <NUM> points <COMMA> or <NUM> percent to <NUM> <COMMA> surpassing its previous record close on dec. <NUM> <PUNC>
+the nasdaq composite rixf was up <NUM> points or <NUM> percent to <NUM> <PUNC>
+<PAR>

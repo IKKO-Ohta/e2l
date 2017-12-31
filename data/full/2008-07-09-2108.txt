@@ -1,0 +1,7 @@
+the slide halted a failed attempt by blue chips to extend the dow industrials biggest one-day jump in nearly a month <COMMA> with a mild rise in oil prices and worry about the impact of the credit crunch on the financial sector also curbing enthusiasm for equities <PUNC>
+off <NUM> percent from its oct high <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but three of its <NUM> components ending in the red <COMMA> with intel corp. intc <COMMA> off <NUM> percent and american express co. axp off <NUM> percent <PUNC>
+alcoa inc. axp <COMMA> among the stocks to offer limited support much of the day <COMMA> lost steam along with the broader market <PUNC>
+the aluminum producer s stock off <NUM> percent by the finish <COMMA> on the heels of alcoa s earnings report late tuesday <PUNC>
+on the new york mercantile exchange <COMMA> crude gained <NUM> cent to end at dollar <NUM> a barrel <COMMA> with the market only partially supported by a decline in u.s. inventories <PUNC>
+energy stocks such as exxon mobil corp. xom and valero energy corp. vlo fell <PUNC>
+<PAR>

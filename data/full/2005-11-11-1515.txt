@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose by as many as <NUM> points in the early going <PUNC>
+since mid-october the nasdaq composite has risen more than <NUM> percent <COMMA> while the s&p <NUM> and the dow jones industrials both have gained more than <NUM> percent <PUNC>
+merck & co. mrk fell about <NUM> percent <PUNC>
+the wall street journal reported a new jersey judge hearing lawsuits brought against over the company s vioxx drug wants the next <NUM> cases to involve plaintiffs who took the drug for <NUM> months or longer <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+after closing at its highest level since sept. <NUM> <COMMA> <NUM> <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+eighteen of its <NUM> components were in the red <COMMA> the declines led by telecom companies with at&t inc. t and verizon communications inc. vz each down about <NUM> percent <PUNC>
+<PAR>

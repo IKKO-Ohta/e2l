@@ -1,0 +1,6 @@
+futures for the dow jones industrial average djh4 edged up <NUM> points <COMMA> at <NUM> <COMMA> while futures for the s&p <NUM> index sph4 is mostly flat at <NUM> <PUNC>
+futures for the nasdaq-100 ndh4 inched up less than a point to <NUM> <PUNC>
+merck & co. inc. mrk posted a drop in fourth-quarter profit and revenue <PUNC>
+shares rose in premarket <PUNC>
+twitter inc. twtr and walt disney co. dis will release results after the market close <PUNC>
+<PAR>

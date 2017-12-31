@@ -1,0 +1,3 @@
+down for a second day after halting a six-session winning streak on monday <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
+ahead of wall street s start <COMMA> oil company chevron corp. cvx said it would buy natural-gas producer atlas energy inc. atls for dollar <NUM> billion <PUNC>
+<PAR>

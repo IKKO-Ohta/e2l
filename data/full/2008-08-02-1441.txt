@@ -1,0 +1,6 @@
+but worries about jobs and the economy were back to the fore on thursday and friday <PUNC>
+the dow jones industrial average fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> on friday <PUNC>
+news that unemployment ticked up to <NUM> percent <COMMA> while crude oil prices jumped back above dollar <NUM> sapped enthusiasm on the first trading session of august <PUNC>
+for the week <COMMA> the dow lost <NUM> percent <COMMA> while the s&p gained <NUM> percent and the nasdaq finished flat <PUNC>
+similarly <COMMA> the dow eked out a slight <NUM> percent gain for the month of july <COMMA> the s&p fell <NUM> percent while the nasdaq advanced <NUM> percent <PUNC>
+<PAR>

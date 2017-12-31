@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+most blue-chips stocks opened lower straight out of the gate <COMMA> with home depot inc. hd the only rising issue in recent action <PUNC>
+microsoft corp. msft was among the most actively traded stocks <COMMA> losing <NUM> percent after it announced it had extended the warranty on its xbox <NUM> video-game console to one year from <NUM> days in the u.s. and canada <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> off an early high of <NUM> <PUNC>
+shares in alcoa inc. aa surged <NUM> percent to dollar <NUM> <COMMA> their best level since december <NUM> <PUNC>
+the aluminum giant and dow component posted forecast-beating earnings <COMMA> bolstered by a <NUM> percent jump in sales in a market driven by strong demand from the commercial transportation and aerospace sectors <PUNC>
+general motors corp. gm fell <NUM> cents to dollar <NUM> after the troubled auto maker said it would sell its <NUM> percent stake in isuzu motors to the japanese company s strategic partners and major shareholders for around dollar <NUM> million <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+a bad day for u.s. stocks turned worse late monday <COMMA> with the dow jones industrial average falling almost <NUM> points and the nasdaq closing down more than <NUM> percent after federal reserve chairman ben bernanke said that growth in the inflation rate could be worse than expected <PUNC>
+the dow dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> marking its lowest closing level since march <NUM> <PUNC>
+the day s loss was the largest one-day point drop since may <NUM> when the blue chip index gave up <NUM> points <COMMA> also due to inflation worries <PUNC>
+of the dow s <NUM> components <COMMA> only walt disney dis ended higher <PUNC>
+amgen inc. amgn <COMMA> astrazeneca azn <COMMA> bristol-myers squibb bmy <COMMA> glaxosmithkline gsk <COMMA> imclone systems imcl <COMMA> pfizer inc. pfe and wyeth wye are just some of the companies presenting data at the american society of clinical oncology annual meeting <PUNC>
+<PAR>

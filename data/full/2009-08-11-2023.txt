@@ -1,0 +1,3 @@
+after falling more than <NUM> points <COMMA> the dow jones industrial average dji finished at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <PUNC>
+the s&p <NUM> spx shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq rixf dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <PUNC>
+<PAR>

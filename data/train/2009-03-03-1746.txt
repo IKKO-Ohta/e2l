@@ -1,0 +1,7 @@
+on tuesday <COMMA> financials were pacing a slide that came as federal reserve chairman ben bernanke answered questions about the economy and the government s efforts to bolster the financial system <PUNC>
+after rising 70-plus points early on <COMMA> the dow jones industrial average was off <NUM> points at midday <COMMA> at <NUM> <PUNC>
+the s&p <NUM> declined <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf shed <NUM> points to <NUM> <PUNC>
+on monday <COMMA> the dow closed at <NUM> <COMMA> a level not seen since <NUM> <PUNC>
+if nothing else <COMMA> the breach of 12-year lows is unusual <PUNC>
+other than monday s retesting of <NUM> lows <COMMA> such a crossing has occurred only twice before <COMMA> on dec. <NUM> <COMMA> <NUM> <COMMA> and april <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+within the dow industrials <COMMA> american express axp rose <NUM> percent on speculation it could be a takeover target <PUNC>
+uk banking giant hsbc hbc snapped up credit-card issuer metris mxt for dollar <NUM> billion <COMMA> leaving american express and capital one as the only two stand-alone credit card companies in the u.s. metris shares were off <NUM> percent in afternoon trading <PUNC>
+home depot hd fell <NUM> cents to dollar <NUM> as the home improvement giant fell victim to investor disappointment over thursday s string of same-store sales reports <PUNC>
+even wal-mart stores <COMMA> wmt <COMMA> which posted in-line same-store sales <COMMA> saw its shares slip <NUM> percent in line with the pullback in the retail sector <PUNC>
+exxon mobil xom slipped <NUM> percent after the company announced lee r. raymond <COMMA> its longtime chairman and chief executive <COMMA> would be stepping down at the end of the year <PUNC>
+the oil giant said his likely replacement will be rex tillerson <COMMA> the company s current president <PUNC>
+wal-mart stores wmt reported a <NUM> percent rise in same-store sales for the month <COMMA> in line with forecasts <PUNC>
+on the earnings front <COMMA> gillette co. g <COMMA> which is in the process of being acquired by procter & gamble pg <COMMA> posted forecast-beating second-quarter results <PUNC>
+<PAR>

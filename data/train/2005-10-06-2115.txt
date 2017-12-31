@@ -1,0 +1,11 @@
+new york dow jones u.s. stocks closed sharply lower thursday <COMMA> with the dow jones industrial average and the s&p <NUM> marking four consecutive lower closes in a market unnerved by inflation worries <COMMA> as well as fears over the course of interest rates and energy prices <PUNC>
+the dow industrials dji closed down <NUM> points at <NUM> <COMMA> its weakest close since july <NUM> <PUNC>
+dow component merck & co. mrk gave up initial strong gains due to the heavy selloff <COMMA> closing down <NUM> cents at dollar <NUM> <PUNC>
+initially <COMMA> the stock was lifted by news of a study that indicated a company anticervical-cancer vaccine is effective <PUNC>
+ge co. ge got a <NUM> percent boost to end at dollar <NUM> after the company said third-quarter earnings will come in near the top of its forecast range <COMMA> and also increased its range for <NUM> earnings <PUNC>
+megaretailer wal-mart stores inc. wmt <COMMA> also in the dow <COMMA> closed nearly <NUM> percent higher at dollar <NUM> <PUNC>
+the company reported a <NUM> percent rise in september same-store sales <COMMA> meeting its own weekend forecast <PUNC>
+outside the dow <COMMA> target corp. tgt ended <NUM> percent higher at dollar <NUM> <PUNC>
+the retailer reported same-store sales near the top end of estimates for september <PUNC>
+j.p. morgan chase jpm rose almost <NUM> cents to dollar <NUM> <COMMA> and morgan stanley mwd gained <NUM> cents to dollar <NUM> after prudential equity group in a research note raised the possibility that the two brokerages would merge <COMMA> reuniting the long-severed house of morgan <PUNC>
+<PAR>

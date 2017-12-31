@@ -1,0 +1,6 @@
+the u.s. stock market on monday begins in a humbler place <COMMA> with the dow jones industrial average back under <NUM> and the euro <COMMA> the market s gauge of europe s ability to stem its debt <COMMA> at a four-year low <PUNC>
+the pileup of worries on friday had the major u.s. stock indexes finishing down for the year <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> off <NUM> percent for the week <PUNC>
+the third biggest point loss of the year snapped a two-session winning streak <COMMA> the first for the dow in more than a month <PUNC>
+that includes large cap technology firms with exposure to europe saying they haven t seen any impact yet said ward <COMMA> who pointed to cisco systems inc. csco ceo john chambers as voicing the most optimism in years <PUNC>
+<PAR>

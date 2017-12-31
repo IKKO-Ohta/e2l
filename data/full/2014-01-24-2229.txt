@@ -1,0 +1,7 @@
+the s&p <NUM> and the dow jones industrial average recorded their worst weekly losses in more than a year while volumes on wall street on thursday and friday were significantly higher than their 30-day averages <PUNC>
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and lost <NUM> percent over the week <COMMA> its worst weekly percentage decline since <NUM> <PUNC>
+the last time the blue chip index had two consecutive days of triple digit losses were in dec <NUM> and dec <NUM> <PUNC>
+procter & gamble corp. s pg profit fell <COMMA> but its core earnings beat expectations <PUNC>
+shares in procter & gamble rose <NUM> percent <PUNC>
+shares of microsoft msft msft bucked a weaker tech tone <COMMA> up <NUM> percent after the company beat wall street estimates with fourth-quarter results released after the market close on thursday <PUNC>
+<PAR>

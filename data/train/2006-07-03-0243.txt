@@ -1,0 +1,8 @@
+stocks ended the second quarter mixed <PUNC>
+the dow jones industrial average dji eked out a <NUM> percent gain <PUNC>
+but the nasdaq composite index rixf and the s&p <NUM> index spx logged their first quarterly losses since the first quarter of <NUM> <PUNC>
+the signal that the fed s rate-tightening cycle may be nearing an end spurred a rally <COMMA> during which the dow posted its biggest one-day point gain since april <NUM> <PUNC>
+nollenberger capital s clark said that the start of the second-quarter earnings season on july <NUM> when alcoa inc. aa reports results also will drive the market <PUNC>
+the dow ended the session down <NUM> points at <NUM> <PUNC>
+the s&p <NUM> finished <NUM> points lower <COMMA> at <NUM> <COMMA> and the nasdaq dipped <NUM> points <COMMA> to <NUM> <PUNC>
+<PAR>

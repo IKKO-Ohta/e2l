@@ -1,0 +1,9 @@
+u.s. stocks on tuesday blasted skyward <COMMA> with the dow rocketing to its fourth-largest point gain ever after earnings from goldman sachs group and lehman brothers holdings inc. proved better than expected and a rate cut by the federal reserve <PUNC>
+the dow jones industrial average dji rallied <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> topping last tuesday s rise of <NUM> points and chalking up its biggest point gain since july <NUM> <COMMA> <NUM> <COMMA> when it climbed <NUM> points <PUNC>
+blue-chip financials scored solid gains <COMMA> with citigroup inc. c up <NUM> percent and j.p. morgan chase & co. jpm rose <NUM> percent <PUNC>
+other standouts included general motors corp. gm <COMMA> up <NUM> percent <COMMA> and pharmaceutical conglomerate merck & co. mrk <COMMA> ahead <NUM> percent <PUNC>
+off the dow <COMMA> shares of goldman sachs group gs and lehman brothers holdings inc. leh both gained <COMMA> with goldman rising <NUM> percent and lehman leaping <NUM> percent <PUNC>
+the large investment firms reported before the market open that their respective profits fell less than analysts had forecast <PUNC>
+another dow component <COMMA> exxon mobil corp. xom <COMMA> added <NUM> percent as crude futures gained ground after monday s slide <PUNC>
+helping support the tech sector <COMMA> shares of yahoo inc. yhoo were up <NUM> percent after the online giant reaffirmed its belief that future growth is ahead and that microsoft corp. msft is grossly underestimating the company in offering to buy it for dollar <NUM> a share <PUNC>
+<PAR>

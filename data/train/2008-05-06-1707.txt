@@ -1,0 +1,4 @@
+after triple-digit losses early on <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the green <PUNC>
+alcoa inc. aa was among the dow s gainers <COMMA> up <NUM> percent <PUNC>
+after the close <COMMA> walt disney co. dis and cisco systems inc. csco are slated to report quarterly financials <PUNC>
+<PAR>

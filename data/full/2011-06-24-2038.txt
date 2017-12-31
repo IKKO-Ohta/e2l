@@ -1,0 +1,4 @@
+u.s. stocks finished lower friday <COMMA> with the dow industrials marking a third-straight session of losses <COMMA> a day after moody s investors service put ratings of more than a dozen italian banks on review and oracle corp. reported disappointing results <PUNC>
+also off for a third consecutive session <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> down <NUM> percent for the week <PUNC>
+all but three of its <NUM> components declined <COMMA> led by cisco systems inc. <COMMA> off <NUM> percent <PUNC>
+<PAR>

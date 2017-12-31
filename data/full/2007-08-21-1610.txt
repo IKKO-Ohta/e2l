@@ -1,0 +1,4 @@
+the dow jones industrial average dji was ahead <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> stocks higher <PUNC>
+dow component general electric ge might sell its japanese consumer-finance unit <COMMA> according to the nikkei business daily <PUNC>
+its shares were up <NUM> percent <PUNC>
+<PAR>

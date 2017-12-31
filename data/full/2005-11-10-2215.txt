@@ -1,0 +1,7 @@
+the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+general motors gm <COMMA> one of the components of the dow jones industrial average <COMMA> fell <NUM> percent to close at dollar <NUM> <COMMA> a new 13-year low <PUNC>
+the world s largest automaker announced it will restate earnings for <NUM> because an accounting error led it to overstate the year s profit by up to dollar <NUM> million <PUNC>
+intel intc <COMMA> another dow component <COMMA> gained <NUM> percent to dollar <NUM> after announcing a new buyback and lifting its dividend <PUNC>
+the weakness in crude futures hurt many oil stocks <PUNC>
+exxonmobil xom <COMMA> a dow component <COMMA> fell more than <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

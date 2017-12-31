@@ -1,0 +1,5 @@
+the futures contract for the dow jones industrial average last was up just <NUM> points at <NUM> <PUNC>
+dow component merck co. inc. mrk was down <NUM> cent at dollar <NUM> in premarket electronic trade <PUNC>
+the pharmaceutical company s federal trial in the vioxx case is set to begin tuesday in houston <PUNC>
+wal-mart stores wmt <COMMA> also in the dow <COMMA> last was <NUM> cent higher at dollar <NUM> before the opening as holiday shopping gets underway <PUNC>
+<PAR>

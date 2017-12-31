@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to losses <PUNC>
+on thursday <COMMA> stocks ended sharply higher <COMMA> with the dow jones industrial average having its best two-day run since november <NUM> <COMMA> as the market recovered from a month and a half of losses fueled by inflation fears <PUNC>
+the nasdaq composite index and the s&p <NUM> logged their best one-day point gains since march <NUM> <PUNC>
+microsoft corp. shares msft fell <NUM> percent to dollar <NUM> <PUNC>
+the software giant said late thursday that gates is immediately handing over his role as chief software architect to chief technology officer ray ozzie and will end his current role at the world s largest software company over a two-year transition period <PUNC>
+<PAR>

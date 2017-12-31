@@ -1,0 +1,4 @@
+by thursday s close <COMMA> stocks had largely lost their grip on an early rally <COMMA> with the dow jones industrial average dji ending at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <COMMA> and leaving the blue-chip index with a <NUM> percent april rise <PUNC>
+the s&p <NUM> index spx fell fractionally <COMMA> or <NUM> percent to <NUM> <COMMA> translating into a <NUM> percent climb for the month <COMMA> its best monthly rise since march <NUM> and the nasdaq composite rixf gained <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> up <NUM> percent from its march <NUM> close <PUNC>
+the energy sector was hit as exxon mobil corp. xom <COMMA> reported first-quarter profits that fell below expectations <COMMA> with shares of the oil giant slipping <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the dow jones industrial average dji slid <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <PUNC>
+the measure s technology components were among its worst performers <COMMA> with intel intc down <NUM> percent <COMMA> microsoft msft off <NUM> percent <COMMA> and hewlett-packard hpq down <NUM> percent <PUNC>
+verizon communications vz also weakened <COMMA> dropping <NUM> percent after its chief executive ivan seidenberg said he is concerned the proposed national broadband plan could lead to an overreach of regulation that could cut into private investment <PUNC>
+helping to offset some of the slide <COMMA> bank of america bac climbed <NUM> percent <PUNC>
+tuesday s drops cut into gains from the previous session <PUNC>
+on monday <COMMA> the dow surged to an intraday high of <NUM> <COMMA> nearly brushing the <NUM> level it has not closed above since sept. <NUM> <COMMA> <NUM> <PUNC>
+yields on the benchmark 10-year treasury notes reached <NUM> percent for the first time since june <COMMA> as investors seized on strengthening jobs and housing data to bet on an economic recovery <PUNC>
+<PAR>

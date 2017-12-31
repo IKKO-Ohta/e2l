@@ -1,0 +1,14 @@
+the dow jones industrial average received a further boost from a rally in shares of boeing <PUNC>
+the aerospace giant gained on a broker upgrade <COMMA> an aircraft order and production problems for its rival <COMMA> airbus <PUNC>
+the dow industrials dji were up <NUM> points at <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+on tuesday <COMMA> stocks ended a seesaw session with a sharp late-day sell-off <COMMA> with the dow industrials wiping out all its gains for the year and the nasdaq composite suffering its second eight-session losing streak in a month <PUNC>
+traders expressed concern that a combination of higher inflation <COMMA> rising interest rates and slowing economic growth would hurt corporate profits. <PUNC>
+u.s. stocks have been selling off since may <NUM> when the federal reserve last raised interest rates and left the door open for further increases <PUNC>
+since then <COMMA> the dow has fallen <NUM> percent <PUNC> the nasdaq composite has dropped <NUM> percent <COMMA> while the s&p <NUM> is off <NUM> percent <PUNC>
+a retreat of more than <NUM> percent is widely viewed as a correction <PUNC>
+covello also upgraded dow component intel intc to outperform from in line <COMMA> and recommended buying the stock after an imminent earnings disappointment given that margins have likely bottomed <COMMA> market share is expected to gain and valuation is attractive <PUNC>
+the stock rallied <NUM> percent <PUNC>
+boeing co. shares ba surged <NUM> percent to dollar <NUM> after goldman upgraded the company to in line from underperform <COMMA> citing an increased outlook for aircraft deliveries <PUNC>
+the broker also lifted its earnings estimates on the aerospace giant <PUNC>
+<PAR>

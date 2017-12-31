@@ -1,0 +1,2 @@
+the dow industrials dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

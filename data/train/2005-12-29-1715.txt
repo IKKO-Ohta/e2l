@@ -1,0 +1,4 @@
+the dow jones industrials average dji tacked on <NUM> points to <NUM> <COMMA> with <NUM> of <NUM> components contributing to gains <PUNC>
+within the dow industrials <COMMA> merck mrk rose <NUM> percent after morgan stanley raised its price target on the stock to reflect recent cost cutting moves by management and improved clarity on the outlook for its new products <PUNC>
+meanwhile <COMMA> general motors gm fell as much as <NUM> percent to its lowest price since october <NUM> earlier in the session before rebounding slightly after cs first boston said it expected the automaker to report december light vehicle sales that are <NUM> percent to <NUM> percent below year-earlier levels <COMMA> vs. an expected industry decline of <NUM> percent to <NUM> percent <PUNC>
+<PAR>

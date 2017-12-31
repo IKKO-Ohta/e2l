@@ -1,0 +1,6 @@
+stocks crawled back from earlier steep losses friday after the federal reserve and other major central banks intervened in an attempt to jump-start stalled credit markets <COMMA> with the dow ending up <NUM> points <COMMA> or <NUM> percent higher <COMMA> for the week <PUNC>
+after erasing triple-digit losses <COMMA> the dow jones industrial average dji closed <NUM> points lower at <NUM> <COMMA> with <NUM> of its <NUM> components still in the red <PUNC>
+for the week <COMMA> the dow finished up <NUM> percent <COMMA> the s&p gained <NUM> percent and the nasdaq rose <NUM> percent <PUNC>
+blue chips citigroup inc. c and j.p. morgan chase jpm were among the shares leading the slight rebound friday <PUNC>
+u.s. stocks tumbled on thursday <COMMA> sending the dow industrials down by nearly <NUM> points <COMMA> as credit-related anxiety was revived after bnp paribas <COMMA> france s largest bank <COMMA> said it had halted three funds with exposure to bad u.s. home loans <PUNC>
+<PAR>

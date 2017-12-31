@@ -1,0 +1,7 @@
+u.s. stocks rallied on monday <COMMA> lifting the dow jones industrial average by over <NUM> points <COMMA> with sentiment boosted by upbeat earnings from blue-chip stock citigroup inc. and by a dollar <NUM> billion leveraged buyout of educational lender sallie mae <PUNC>
+the dow jones industrial average dji gained <NUM> points at <NUM> <COMMA> after earlier gaining over <NUM> points to a high of <NUM> <PUNC>
+the dow has now resurfaced above its february <NUM> level <COMMA> when it took a 416-point plunge and weakened further through early march <PUNC>
+the blue-chip average was lifted by a <NUM> percent gain in shares of citigroup c <COMMA> whose operating earnings beat analysts forecasts <PUNC>
+citigroup s upbeat results also lifted other financial shares on the dow such as american express co. axp and jp morgan chase & co. jpm <PUNC>
+on friday stocks posted gains on the day and week <COMMA> benefiting from upbeat earnings and forecasts from blue-chip stocks <COMMA> including merck & co. <COMMA> mrk general electric co. ge and mcdonald s corp. mcd <PUNC>
+<PAR>

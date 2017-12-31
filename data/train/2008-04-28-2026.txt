@@ -1,0 +1,7 @@
+the dow jones industrial average dji ended down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components ending in the red <COMMA> led lower by microsoft corp. msft <COMMA> dupont dd and aig aig <PUNC>
+verizon communications inc. vz was amongst the biggest gainers among blue chips <COMMA> rising <NUM> percent after reporting a <NUM> percent profit rise <COMMA> helped by the performance of its verizon wireless unit <COMMA> in which it holds a <NUM> percent stake <PUNC>
+general motors corp. gm rose <NUM> percent <PUNC>
+shares of gm rival ford motor co. f gained <NUM> percent <COMMA> after kirk kerkorian s tracinda announced it planned to offer dollar <NUM> per share for up to <NUM> million of its shares <PUNC>
+away from the dow <COMMA> shares of wrigley wwy jumped <NUM> percent to dollar <NUM> lifting the consumer-staples sector and <COMMA> earlier <COMMA> the broader market <PUNC>
+privately held mars and warren buffett s berkshire hathaway brka said they would buy the chewing-gum maker for about dollar <NUM> billion <COMMA> or dollar <NUM> a share <PUNC>
+<PAR>

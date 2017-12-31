@@ -1,0 +1,7 @@
+u.s. stocks ended higher on tuesday <COMMA> with the dow jones industrial average and the s&p <NUM> rising to record closes after an upbeat report on durable-goods orders <PUNC>
+in a holiday-shortened session <COMMA> the dow dji recorded its 49th record close this year after rising for five consecutive days <PUNC>
+the blue-chip average rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> spx also reached a record level after three consecutive days of gains <PUNC>
+the benchmark index closed <NUM> points higher <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+on monday <COMMA> both the dow and the s&p <NUM> closed at record highs after upbeat consumer-spending data added to the perception that the u.s. economic recovery is poised to accelerate in <NUM> <PUNC>
+<PAR>

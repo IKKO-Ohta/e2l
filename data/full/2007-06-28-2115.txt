@@ -1,0 +1,4 @@
+the dow jones industrial average dji finished down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components advanced <PUNC>
+gainers included alcoa inc. aa and at&t inc. t <COMMA> while disney dis and hewlett packard hpq fell <PUNC>
+leading the gains among blue chips <COMMA> general motors corp. gm rose <NUM> percent after news that it would sell its allison transmission business for dollar <NUM> billion to carlyle group and onex corp. and intel corp. intc rose <NUM> percent after lehman brothers upgraded the stock <COMMA> predicting that its second-quarter sales will reach the top end of forecasts <PUNC>
+<PAR>

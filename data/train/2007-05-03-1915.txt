@@ -1,0 +1,9 @@
+the market has been staging a seemingly unstoppable advance over the past two months <COMMA> with the dow jones industrial average rising in <NUM> out of the last <NUM> sessions <COMMA> its longest winning streak since <NUM> <PUNC>
+the dow industrials dji was up <NUM> points at <NUM> <COMMA> lifted by gains in shares of intel corp. intc <COMMA> exxon mobil corp. xom <COMMA> microsoft corp. msft <COMMA> pfizer inc. pfe <PUNC>
+leading the advance <COMMA> verizon corp. vz rose <NUM> percent after competitor vonage holdings corp. vg was denied a request for a retrial in the patent-infringement it brought against verizon <PUNC>
+elsewhere on the dow <COMMA> gm gm fell <NUM> percent after its quarterly results widely missed forecasts <PUNC>
+ibm ibm <COMMA> also in the dow <COMMA> gained <NUM> percent after saying it has used a nanotechnology process to make computer chips for the first time in a production setting <COMMA> advancing the race to boost the power and energy efficiency of semiconductors <PUNC>
+on wednesday stocks rallied <COMMA> lifting the dow jones industrial average to a record <COMMA> thanks to deal speculation in the media sector <COMMA> stronger-than-expected factory data <COMMA> and time warner inc. s twx earnings report <PUNC>
+in addition <COMMA> a fire forced the partial closure of an exxon mobil xom refinery with a capacity of <NUM> barrels a day <PUNC>
+the june gold futures contract rose dollar <NUM> to dollar <NUM> an ounce <PUNC>
+<PAR>

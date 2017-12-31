@@ -1,0 +1,9 @@
+the s&p <NUM> spx ended the session <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <COMMA> after briefly venturing into positive territory in late trade <PUNC>
+the dow jones industrial average dji closed down for the fifth-straight session <PUNC>
+the blue-chip index opened higher <COMMA> buoyed by upbeat earnings and forecast from caterpillar inc <COMMA> but closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+upbeat results from caterpillar inc. initially lifted the dow <COMMA> but gains were capped amid broad-based selling <PUNC>
+shares of caterpillar inc. cat <COMMA> seen as an economic bellwether for global activity <COMMA> rose <NUM> percent <PUNC>
+the company posted fourth-quarter earnings per share of dollar <NUM> <COMMA> topping forecasts <COMMA> and a <NUM> percent profit gain <PUNC>
+cost cutting offset a sales drop of <NUM> percent <PUNC>
+caterpillar gave a forecast that beat analysts estimates for the year <COMMA> and said it expects a dollar <NUM> billion buyback in the first quarter of this year <PUNC>
+<PAR>

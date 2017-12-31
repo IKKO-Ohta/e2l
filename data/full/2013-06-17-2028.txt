@@ -1,0 +1,4 @@
+u.s. stocks surged monday <COMMA> with the dow industrials extending their triple-digit moves into a fifth session <COMMA> as investors latched onto any clues ahead of wednesday s monetary-policy decision by the federal open market committee <PUNC>
+the dow jones industrial average dji has made a triple-digit move in <NUM> of the <NUM> sessions that followed bernanke s may <NUM> briefing to congress <PUNC>
+after rallying as much as <NUM> points <COMMA> the dow finished up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components advancing <COMMA> including boeing co. ba <COMMA> which said general electric co. s ge aircraft-leasing arm had pledged to buy <NUM> of its <NUM> jets <PUNC>
+<PAR>

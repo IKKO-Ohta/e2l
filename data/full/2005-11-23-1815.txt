@@ -1,0 +1,4 @@
+the dow jones industrial average dji was just off a session high of <NUM> <COMMA> up <NUM> points at <NUM> <PUNC>
+mcdonald s mcd gained after launching a major u.s. media blitz for its arch card <COMMA> its latest twist on gift certificates <PUNC>
+though the card was introduced into restuarants earlier this year <COMMA> the fast-food chain waited until the holiday season to pull out the gift-giving marketing <PUNC>
+<PAR>

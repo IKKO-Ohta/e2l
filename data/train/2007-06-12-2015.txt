@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> after rising to a high of <NUM> and fall to a low of <NUM> <PUNC>
+out of the dow s <NUM> components <COMMA> <NUM> stocks retreated <COMMA> led by at&t inc. t <COMMA> american express axp <COMMA> citigroup inc. c <COMMA> general motors corp. gm <COMMA> hewlett-packard co. hpq <COMMA> disney dis and wal-mart stores inc. wmt <PUNC>
+in other technology developments <COMMA> apple inc. aapl is planning to launch a new version of its safari browser <COMMA> according to reports <PUNC>
+the browser will run on microsoft corp. s msft windows operating system <PUNC>
+youtube <COMMA> which is being bought by google inc. goog <COMMA> is going to test video fingerprinting technology to identify clips by companies like time warner inc. twx and walt disney co. dis <PUNC>
+<PAR>

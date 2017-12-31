@@ -1,0 +1,7 @@
+on friday <COMMA> citigroup inc. c <COMMA> fannie mae fnm <COMMA> freddie mac fre <COMMA> cit group inc. cit and bank of america corp. bac topped the new york stock exchange s list of most actively traded <COMMA> with stocks of all five on the rise <COMMA> with cit group gaining almost <NUM> percent and freddie mac up more than <NUM> percent <PUNC>
+the major stock indexes brushed off earlier gains to turn firmly lower after a survey of consumer confidence fell to a four-month low <PUNC>
+of the s&p s <NUM> industry groups <COMMA> only information technology remained higher <COMMA> bolstered by earnings reports by tech giants intel corp. intc and dell inc. dell <PUNC>
+at 2:15 p.m. eastern <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the s&p <NUM> index spx declined <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> while the technology-laden nasdaq composite rixf shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+on wednesday <COMMA> citigroup <COMMA> fannie mae <COMMA> freddie mac and bank of america bac topped the list of most actively traded stocks <COMMA> with american international group aig also qualifying as a regular on the list this month <COMMA> according to the wall street journal <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+down about <NUM> points earlier on <COMMA> the dow jones industrial average dji was more recently off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading in negative territory <PUNC>
+blue-chip losses were fronted by alcoa inc. aa <COMMA> off <NUM> percent <COMMA> and exxon mobil corp. xom <COMMA> down <NUM> percent <PUNC>
+financials were among the dow stocks gaining <COMMA> with jpmorgan chase & co. jpm <COMMA> up <NUM> percent and citigroup inc. c up <NUM> percent <PUNC>
+pfizer inc. pfe gained nearly <NUM> percent after lifting its <NUM> outlook and topping fourth-quarter expectations <PUNC>
+on tuesday <COMMA> the dow fell at one point by more than <NUM> points before recovering to close with more modest losses <COMMA> after the fed surprised investors by cutting its main interest-rate target by <NUM> basis points <COMMA> to <NUM> percent <COMMA> with the move coming one week ahead of the fed s scheduled monetary-policy meeting <PUNC>
+<PAR>

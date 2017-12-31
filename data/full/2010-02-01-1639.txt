@@ -1,0 +1,6 @@
+the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+aluminum giant alcoa aa led the dow <COMMA> up <NUM> percent <PUNC>
+exxon mobil xom also gained <COMMA> up <NUM> percent after reporting fourth-quarter earnings of dollar <NUM> per share that topped analysts estimate of dollar <NUM> per share <PUNC>
+monday s gains erase some of the u.s. stock market s heavy losses last week <COMMA> when the dow closed out january down <NUM> percent for the month <PUNC>
+sentiment improved monday after the private institute for supply management reported that manufacturing activity in u.s. factories moved to <NUM> in january <COMMA> its highest reading since august <NUM> <PUNC>
+<PAR>

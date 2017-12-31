@@ -1,0 +1,3 @@
+after struggling in positive territory at the start <COMMA> the dow jones industrial average dji was more recently off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> with the losses led by general motors corp. gm <COMMA> off <NUM> percent <PUNC>
+on the dow <COMMA> citigroup inc. c fell <NUM> percent <COMMA> while j.p. morgan chase & co. jpm shed <NUM> percent <PUNC>
+<PAR>

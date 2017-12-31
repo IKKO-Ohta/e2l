@@ -1,0 +1,5 @@
+on monday <COMMA> led by energy and materials shares <COMMA> the major u.s. stock indexes all headed lower <PUNC>
+stocks <COMMA> though <COMMA> remained poised for monthly gains <PUNC>
+at 10:50 a.m. eastern time <COMMA> the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the s&p <NUM> index spx had shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+<PAR>

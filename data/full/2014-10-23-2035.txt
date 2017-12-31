@@ -1,0 +1,9 @@
+strong quarterly results from components caterpillar inc. and 3m sent the dow jones industrial average dji higher by as much as <NUM> points during the session <PUNC>
+the blue-chip index closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+caterpillar and 3m shares <COMMA> in fact <COMMA> were together responsible for one-third of the dow s rally <PUNC>
+also pushing higher were the dow transports djt <COMMA> which jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+earnings <PUNC> shares of caterpillar cat surged <NUM> percent after the heavy-equipment maker raised its earnings outlook for the year <PUNC>
+3m mmm <COMMA> reported third-quarter earnings that came in above expectations <PUNC>
+shares of the maker of post-it notes and other industrial goods rose <NUM> percent <PUNC>
+after the bell <COMMA> seattle-based notables amazon.com inc. amzn and microsoft corp. msft released their financial reports <COMMA> with amazon paying a significant price for underperforming expectations and microsoft rallying in the after hours <PUNC>
+<PAR>

@@ -1,0 +1,11 @@
+as with the broader market <COMMA> shares of citigroup c turned higher <COMMA> up <NUM> percent as word circulated that the breakup of the company is likely to go beyond a widely expected brokerage joint venture with morgan stanley ms <PUNC>
+<PAR>
+the dow jones industrial average dji ended at <NUM> <COMMA> losing <NUM> points <COMMA> or <NUM> percent <COMMA> and down for a fifth straight session <PUNC>
+sixteen of the dow s <NUM> components finished lower <COMMA> the declines led by bank of america corp. bac <COMMA> off <NUM> percent <PUNC>
+also weighing <COMMA> alcoa inc. aa shares fell <NUM> percent after the aluminum producer late monday said it lost dollar <NUM> billion in the fourth quarter <PUNC>
+elsewhere on the dow <COMMA> shares of general electric co. ge slumped <NUM> percent after barclays said the firm s quarterly results could be at the lower end of estimates and that moody s could then cut its ratings outlook on ge s debt to negative <PUNC>
+shares of j.p. morgan chase jpm <COMMA> rose <NUM> percent <PUNC>
+the bank said late monday it plans to report quarterly results on thursday <COMMA> almost a week ahead of schedule <PUNC>
+earnings worries <COMMA> notably in the financials sector <COMMA> pushed u.s. stocks to <NUM> lows on monday <PUNC>
+the dow jones industrial average dropped <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite fell <NUM> points <PUNC>
+<PAR>

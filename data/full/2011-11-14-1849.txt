@@ -1,0 +1,4 @@
+the dow jones industrial average dji slid <NUM> points to <NUM> <COMMA> with banks j.p. morgan chase & co. jpm and bank of america corp. bac leading the losses that included <NUM> of the dow s <NUM> components <PUNC>
+leading advancers on the blue-chip index <COMMA> boeing co. ba climbed <NUM> percent after the airplane manufacturer snagged a dollar <NUM> billion order from oman air <COMMA> the flagship carrier of the sultanate of oman <PUNC>
+also stemming blue-chip losses <COMMA> international business machines corp. ibm edged up after warren buffett said berkshire hathaway inc. brka bought about dollar <NUM> billion of its shares <PUNC>
+<PAR>

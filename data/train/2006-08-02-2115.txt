@@ -1,0 +1,8 @@
+the dow jones industrial average dji closed up <NUM> points at <NUM> <PUNC>
+the dow was up as much as <NUM> points at its peak <COMMA> as p&g pg tacked on more than <NUM> percent <PUNC>
+of the dow industrials <NUM> components <COMMA> <NUM> contributed to gains. <PUNC>
+dow component procter & gamble pg rose <NUM> percent to dollar <NUM> <PUNC>
+the world s largest consumer products company said its fourth-quarter net income rose <NUM> percent <COMMA> as new products drove better-than-expected sales growth and gillette products helped fatten profit margins <PUNC>
+general motors corp. gm <COMMA> also in the dow <COMMA> late tuesday revised its second-quarter results to show a loss that was dollar <NUM> million wider than its original figure <COMMA> to reflect a tax matter related to a sale of a stake in general motors acceptance corp <PUNC>
+microsoft msft <COMMA> a dow component <COMMA> traded up <NUM> percent at dollar <NUM> after merrill lynch upgraded the stock to a buy from a neutral rating <PUNC>
+<PAR>

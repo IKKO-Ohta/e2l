@@ -1,0 +1,8 @@
+the dow jones industrial average dji last was up <NUM> points at <NUM> <COMMA> with only five of the average s <NUM> components in negative territory <PUNC>
+dow component procter & gamble pg was <NUM> percent higher after receiving a favorable mention in barron s <COMMA> which said the stock is undervalued <PUNC>
+a number of other dow components had gains greater than <NUM> percent <COMMA> including intel intc <COMMA> which rose <NUM> percent <COMMA> benefiting from news late friday of a solid book-to-bill ratio in the latest semiconductor industry survey <PUNC>
+boeing ba <COMMA> also a dow component <COMMA> was up <NUM> percent <PUNC>
+s.w <PUNC>
+bach s cardillo said that boeing appeared to be advancing on hopes the aerospace maker will reach an accord with its machinists <PUNC>
+bucking the trend <COMMA> dow component merck mrk <COMMA> which dropped <NUM> percent on friday on news of a texas jury award to the widow of a patient who died taking vioxx <COMMA> was down <NUM> percent <COMMA> the company monday received an upgrade from credit suisse first boston <COMMA> which cited valuation <PUNC>
+<PAR>

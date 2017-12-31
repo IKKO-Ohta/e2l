@@ -1,0 +1,5 @@
+on wednesday <COMMA> hopes for additional stimulus as well as a possible fdic-run bank to soak up toxic assets had financials leading a broad-market rally <PUNC>
+equities maintained their gains after the federal open market committee said it would hold rates steady and affirmed its readiness to help financial markets <PUNC>
+the dow jones industrial average dji was lately up <NUM> points to <NUM> <PUNC>
+the s&p <NUM> spx rose <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
+<PAR>

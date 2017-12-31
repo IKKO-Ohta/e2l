@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+american express co. weighed on the dow <COMMA> its shares off <NUM> percent <COMMA> after stifel nicolaus & co. downgraded the credit-card issuer to hold from buy <PUNC>
+boeing co. ba was the second hardest hit among the blue chips on concern the aerospace manufacturer might again delay its <NUM> dreamliner <PUNC>
+and intel corp. intc slid after the wall street journal reported that european regulators were reviewing the chip maker s proposed acquisition of mcafee inc <PUNC>
+<PAR>

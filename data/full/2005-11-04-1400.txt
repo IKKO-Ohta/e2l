@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+shares in honeywell international hon are likely to get a boost in early trading after the diversified industrial group said it would buy back as much as dollar <NUM> billion of its common stock <PUNC>
+the transaction would represent a bit less than <NUM> percent of the company s <NUM> million shares outstanding on sept. <NUM> <PUNC>
+on thursday <COMMA> the company <COMMA> a member of the dow <COMMA> saw its shares rise <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

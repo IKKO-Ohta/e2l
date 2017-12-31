@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components gaining ground <COMMA> led by the likes of alcoa aa <COMMA> exxon mobil xom and coca cola ko <PUNC>
+shares of general motors corp. gm led the gains among blue chips <COMMA> rising <NUM> percent <PUNC>
+year to date <COMMA> the dow industrials have lost <NUM> percent <COMMA> the s&p <NUM> heavily weighed by financials is down <NUM> percent <COMMA> and the nasdaq composite is down <NUM> percent <PUNC>
+on wednesday <COMMA> u.s. stocks finished higher after a shortened pre-holiday trading session <COMMA> gaining ground as data on consumer spending and durable goods orders for november came in better than expected <PUNC>
+the dow gained <NUM> points <COMMA> good enough for a <NUM> percent advance to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+<PAR>

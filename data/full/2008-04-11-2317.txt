@@ -1,0 +1,11 @@
+among earnings highlights will be j.p. morgan chase jpm <COMMA> merrill lynch mer <COMMA> citigroup c <COMMA> washington mutual wm <COMMA> intel intc <COMMA> ibm ibm and google goog <PUNC>
+on friday <COMMA> ge ge disappointed wall street after reporting profit that fell <NUM> percent in the latest quarter and lowering its forecasts <PUNC>
+the diversified industrial giant said its financial businesses took a hit from the credit crisis <COMMA> while its other u.s. businesses were hurt by a slowing economy <PUNC>
+the dow jones industrial average dji plunged <NUM> dji points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the broad s&p <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+for the week <COMMA> the dow and s&p both finished down more than <NUM> percent while the nasdaq slid <NUM> percent <PUNC>
+key earnings for the market next week will come from intel <COMMA> washington mutual and johnson & johnson jnj on tuesday <PUNC>
+wednesday will see results from j.p. morgan chase <COMMA> ibm <COMMA> coca cola co. ko <COMMA> ebay inc. ebay and wells fargo co. wfc <PUNC>
+on thursday <COMMA> the market s attention will turn to results from merrill lynch <COMMA> google inc. and pfizer inc. pfe <PUNC>
+on friday <COMMA> all eyes will be on reports from citigroup inc. <COMMA> caterpillar inc. cat <COMMA> honeywell inc. hon and wachovia corp. wb <PUNC>
+<PAR>

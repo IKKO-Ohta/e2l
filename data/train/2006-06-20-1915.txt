@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> off a session high of <NUM> <PUNC>
+of the <NUM> dow-component stocks <COMMA> <NUM> contributed to gains <PUNC>
+caterpillar inc. shares cat were up <NUM> percent at dollar <NUM> after the heavy-equipment maker said sales of engines to dealers rose in the three months ended in may <COMMA> with demand especially noteworthy in the marine and oil and gas industries <PUNC>
+<PAR>

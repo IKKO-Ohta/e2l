@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components were in negative territory <PUNC>
+walt disney co. dis was the worst performer on the dow <COMMA> while microsoft corp. msft was gaining the most <PUNC>
+on tuesday <COMMA> stocks staged a vigorous rally <COMMA> with the dow industrials rising nearly <NUM> points to a five-week high. <PUNC>
+<PAR>

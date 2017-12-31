@@ -1,0 +1,5 @@
+that s done little to move the market <PUNC>
+the s&p <NUM> index spx has shed about <NUM> percent since earnings season kicked off july <NUM> <PUNC>
+over the past week <COMMA> the s&p <NUM> fell <NUM> percent to close at <NUM> <PUNC> the dow shed <NUM> percent to close at <NUM> <PUNC> and the nasdaq composite index rixf rose <NUM> percent to close at <NUM> <PUNC>
+that trend made big headlines in the past week with bhp billiton s bhp dollar <NUM> billion hostile bid for potash corp. pot <PUNC> intel corp. s intc dollar <NUM> billion bid for mcafee inc. mfe <PUNC> and rank group s dollar <NUM> billion bid for pactiv corp. ptv <PUNC>
+<PAR>

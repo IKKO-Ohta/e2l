@@ -1,0 +1,6 @@
+u.s. stocks tumbled tuesday <COMMA> yielding to pressure from slumping retail sales in december and from large losses sustained by blue chip citigroup inc. <COMMA> as the dow jones industrial average shed as much as <NUM> points <PUNC>
+the dow industrials dji <COMMA> which has shed about <NUM> percent of its value since the year began <COMMA> was down <NUM> points more than <NUM> percent at <NUM> <PUNC>
+with its three financial stocks paving the way <COMMA> all but one of the dow s <NUM> components traded lower <PUNC>
+share of citigroup c fell <NUM> percent <COMMA> while j.p. morgan chase & co. jpm declined <NUM> percent and american express co. axp dropped <NUM> percent <PUNC>
+international business machines corp. ibm proved to be the sole dow stock still in the green <COMMA> lately up less than <NUM> percent <COMMA> after disclosing solid preliminary results on monday <COMMA> helping fuel a rally in the oversold u.s. equities market <PUNC>
+<PAR>

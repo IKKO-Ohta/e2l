@@ -1,0 +1,10 @@
+upbeat earnings and forecasts from blue chips general electric co. ge <COMMA> merck & co inc. mrk <COMMA> and mcdonald s corp. mcd also helped boost sentiment <PUNC>
+futures for the dow jones industrial average dji were up <NUM> points at <NUM> <COMMA> while those for the s&p <NUM> index spx advanced <NUM> points to <NUM> <PUNC>
+general electric co. ge rose <NUM> percent before the open after the bellwether s first-quarter results came in line with analysts expectations <PUNC>
+ge also reaffirmed its earnings guidance for <NUM> <PUNC>
+merck & co. mrk rose <NUM> percent after lifting its profit forecast for the year <COMMA> citing strong performance across its product lines <PUNC>
+goldman sachs upgraded merck to neutral from sell on the back of its raised forecasts <COMMA> and said the drug company has handled issues over the expiry of patents better than some of its rivals <PUNC>
+mcdonald s corp. mcd said worldwide same-store sales rose <NUM> percent and said it expects first-quarter earnings of <NUM> cents <COMMA> including a 1-cent gain from foreign currency translation <PUNC>
+analysts polled by thomson financial on average expect first-quarter earnings of <NUM> cents per share <PUNC>
+analysts estimates usually exclude items <PUNC>
+<PAR>

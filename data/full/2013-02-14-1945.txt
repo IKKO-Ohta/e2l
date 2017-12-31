@@ -1,0 +1,6 @@
+the dow jones industrial average dji was the exception <PUNC>
+the benchmark fell <NUM> points <COMMA> or less than <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> out of <NUM> components declining <PUNC>
+the dow had been down as much as <NUM> percent earlier in the session <PUNC>
+cisco systems inc. csco <COMMA> weighed on the index with shares down <NUM> percent <PUNC>
+cisco late wednesday reported a small gain in earnings for its fiscal second quarter <PUNC>
+<PAR>

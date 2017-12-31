@@ -1,0 +1,10 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+among blue-chips <COMMA> j.p. morgan chase & co. jpm led the gains <COMMA> adding <NUM> percent after morgan stanley upgraded the stock to overweight from equal weight and raised its price target on the stock to dollar <NUM> from dollar <NUM> <PUNC>
+dupont dd gained <NUM> percent after it lifted its <NUM> earnings forecast and said it would cut <NUM> jobs worldwide <PUNC>
+dow component johnson & johnson jnj dropped <NUM> percent <PUNC>
+the firm is expected to be one of several to may make an offer for medical devices company biomet inc. bmet <COMMA> according to the financial times <PUNC>
+citigroup inc. c gained <NUM> percent after u.k. press reports over the weekend identified it as having made an unsolicited offer for egg internet bank <COMMA> part of u.k. insurer prudential plc puk <PUNC>
+american international group inc. aig rose <NUM> percent after the insurance giant said one of its units will pay an undisclosed amount to buy the u.s. ports operations of dubai ports world <PUNC>
+home depot inc. hd dropped <NUM> percent after a report said the company is going to pay dollar <NUM> million for a majority stake in china s homeway <PUNC>
+at&t inc. t gained <NUM> percent after bear stearns said in a note that the telecom company will likely complete its merger with bellsouth by year end <PUNC>
+<PAR>

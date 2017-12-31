@@ -1,0 +1,2 @@
+the dow industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+<PAR>

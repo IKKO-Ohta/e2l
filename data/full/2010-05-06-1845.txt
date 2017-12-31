@@ -1,0 +1,3 @@
+u.s. stocks caved on thursday <COMMA> with the dow industrials down more than <NUM> points and poised for their second triple-digit drop in three days <COMMA> as investors pondered the implications of europe s financial troubles on wall street <PUNC>
+the dow jones industrial average dji was off more than <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> with all <NUM> components on the decline <COMMA> led by bank of america corp. bac <COMMA> off <NUM> percent <COMMA> and caterpillar inc. cat <COMMA> off <NUM> percent <PUNC>
+<PAR>

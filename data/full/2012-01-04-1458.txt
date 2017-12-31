@@ -1,0 +1,3 @@
+u.s. stocks began wednesday slightly off after the previous session s strong advance left the dow jones industrial average at a five-month high <PUNC>
+on wednesday <COMMA> the dow dji fell <NUM> points to <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+fewer than <NUM> points from its highest close so far this year <COMMA> the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by j.p. morgan chase & co. jpm <COMMA> up <NUM> percent <PUNC>
+after the close <COMMA> the market will get results from two large technology names <PUNC> ibm corp. ibm and apple inc. aapl <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
+futures contracts for the s&p <NUM> and the nasdaq <NUM> also were pointing toward mildly higher prices <PUNC>
+on friday the dow industrials gave up more than <NUM> points and the nasdaq composite lost <NUM> points <COMMA> driven down by surging crude price and weak earnings for some dow components <PUNC>
+dow component citirgroup inc. c fell <NUM> cents to dollar <NUM> in premarket trade <PUNC>
+ubs downgraded the stock to neutral from buy <COMMA> saying it will have trouble realizing earnings growth this year <PUNC>
+<PAR>

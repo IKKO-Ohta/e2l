@@ -1,0 +1,9 @@
+new york dow jones - u.s. stocks were mixed in midday trading tuesday <COMMA> with a disappointing december sales update from wal-mart and a price target cut on general motors corp weighing on the dow jones industrial average <PUNC>
+the dow jones industrial average dji was off a morning high of <NUM> <COMMA> down <NUM> points at <NUM> <PUNC>
+he holds a conservative year-end <NUM> target of <NUM> for the s&p <NUM> and <NUM> for the dow <PUNC>
+shares in wal-mart stores inc. wmt slipped <NUM> cents to dollar <NUM> after the world s largest retailer warned december same-store sales would come in at the lower end of its forecast range <PUNC>
+general motors corp. gm was under pressure <COMMA> down <NUM> percent to dollar <NUM> <COMMA> after banc of america cuts its price target on the beleaguered car maker to dollar <NUM> from dollar <NUM> <PUNC>
+johnson & johnson jnj was up <NUM> percent at dollar <NUM> <COMMA> buoyed by a j.p morgan upgrade to overweight from neutral <PUNC>
+the broker expects its <NUM> outlook to be a positive catalyst for the stock <COMMA> with a strong drug pipeline likely to lend further support <PUNC>
+exxon mobil corp. xom was the biggest percentage gainer on the dow <COMMA> up <NUM> percent at dollar <NUM> <COMMA> buoyed by the surge in crude-oil prices <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average fell <NUM> points to <NUM> <PUNC>
+stock indexes futures had fallen earlier on after wal-mart stores inc. wmt <COMMA> the world s largest retailer <COMMA> projected earnings that will likely fall below analysts forecasts <PUNC>
+<PAR>
+activity on the m&a front also bolstered market sentiment <COMMA> with hewlett-packard co. hpq saying it would acquire electronic data systems corp. eds for dollar <NUM> billion to better compete with ibm ibm <PUNC>
+<PAR>

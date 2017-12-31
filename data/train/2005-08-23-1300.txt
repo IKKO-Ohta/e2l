@@ -1,0 +1,4 @@
+the future contracts for the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq <NUM> are all pointing toward losses in the early minutes of trade <PUNC>
+the dow jones forecast <COMMA> based on a survey of economists <COMMA> is for <NUM> million home sales last month <COMMA> which would represent a decline from <NUM> million in june <PUNC>
+shares of citigroup c could be active after news that marge magner <COMMA> a prot&#195;&#169;g&#195;&#169 <PUNC> of sandy weill s who ran citigroup s consistently profitable consumer division <COMMA> will step down at the end of september <PUNC>
+<PAR>

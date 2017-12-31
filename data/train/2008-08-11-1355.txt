@@ -1,0 +1,4 @@
+the dow jones industrial average fell <NUM> points in early morning action to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+u.s. stocks had ended higher friday as strength in the dollar triggered losses for commodities <COMMA> notably oil <PUNC>
+transport and housing stocks led the advance <COMMA> while the dow industrials rallied <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite added <NUM> points <PUNC>
+<PAR>

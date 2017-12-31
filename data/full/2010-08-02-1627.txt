@@ -1,0 +1,13 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in midmorning trade <COMMA> with all of its components in the black <COMMA> in august s first trading session <PUNC>
+last month <COMMA> the dow gained <NUM> percent <COMMA> its biggest monthly climb since july <NUM> <PUNC>
+companies with significant global exposure led the dow s climb as confidence mounted in the overseas economic recovery <PUNC>
+alcoa aa jumped <NUM> percent <COMMA> while dupont dd gained <NUM> percent <PUNC>
+technology components climbed <PUNC>
+hewlett-packard hpq gained <NUM> percent <COMMA> cisco systems csco rose <NUM> percent and intel intc climbed <NUM> percent <PUNC>
+energy stocks jumped as crude-oil prices climbed above dollar <NUM> a barrel and investors scurried toward riskier assets <PUNC>
+exxon mobil xom rose <NUM> percent and chevron cvx gained <NUM> percent <PUNC>
+anadarko petroleum apc jumped <NUM> percent after western gas partners wes agreed to acquire anadarko s natural-gas assets in northeastern colorado in a deal valued at dollar <NUM> million <PUNC>
+telecommunications stocks also strengthened as blackberry maker research in motion s rimm decline boosted rivals <PUNC>
+research in motion s shares fell <NUM> percent in early trading after the united arab emirates announced sunday that it plans to block the firm s blackberry services starting in october because of a dispute over the way the smartphone maker handles electronic data <PUNC>
+meanwhile <COMMA> sprint nextel us-s climbed <NUM> percent <COMMA> at&t t gained <NUM> percent and verizon vz advanced <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+the dow industrials dji were down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all of its <NUM> components suffering declines <PUNC>
+alcoa inc. aa led the dow s losses <COMMA> off <NUM> percent <PUNC>
+among the disappointing profit reports <COMMA> boeing co. ba said a machinist strike helped push its third-quarter earnings down <NUM> percent <PUNC>
+another dow component bucked the negative trend <COMMA> with fast-food giant mcdonald s corp. mcd posting an <NUM> percent rise in third-quarter profit <PUNC>
+pharmaceutical giant merck & co. inc. mrk announced <NUM> job cuts <COMMA> boeing ba said earnings fell <NUM> percent and wachovia wb reported a dollar <NUM> billion loss as wells fargo wfc prepared to buy the charlotte <COMMA> n.c. <COMMA> bank <PUNC>
+at&t inc. t reported a <NUM> percent profit rise <COMMA> helped by 3g iphone sales <PUNC>
+u.s. stocks closed lower tuesday on cautious earnings outlooks <COMMA> as well as profit-taking from monday s surge <PUNC>
+the dow jones industrial average dropped <NUM> points <COMMA> the nasdaq composite lost <NUM> points and the s&p <NUM> dropped <NUM> points <PUNC>
+<PAR>

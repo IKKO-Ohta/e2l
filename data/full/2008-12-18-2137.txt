@@ -1,0 +1,7 @@
+after falling almost <NUM> points during the session <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
+shares of dow component general electric co. ge fell <NUM> percent after standard & poor s lowered the rating outlook on the company s financial-services arm to negative from stable <COMMA> citing its reliance on confidence-sensitive wholesale funding <PUNC>
+s&p affirmed its aaa-long-term and a-1+ short-term counterparty credit ratings on ge <PUNC>
+among blue-chip issues <COMMA> general motors corp. gm was the biggest loser <COMMA> off <NUM> percent after the wall street journal reported gm and chrysler have reopened merger talks <PUNC>
+the dow jones industrial average lost <NUM> points on wednesday to close at <NUM> <PUNC>
+the s&p <NUM> fell <NUM> points and the nasdaq lost <NUM> points <PUNC>
+<PAR>

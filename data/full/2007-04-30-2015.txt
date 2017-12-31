@@ -1,0 +1,9 @@
+after hovering over the flat line for most of the session <COMMA> the dow jones industrial average dji fell back <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components retreated <PUNC>
+falling the hardest were the likes of alcoa aa <COMMA> american express axp <COMMA> honeywell hon <COMMA> home depot hd and intel intc <PUNC>
+on the upside <COMMA> procter & gamble pg rose <NUM> percent ahead of its earnings on tuesday <PUNC>
+citigroup c gained <NUM> percent after the financial times reported that the bank may become the target of activist hedge funds <COMMA> who may seek to break it up <PUNC>
+verizon communications vz whose earnings and revenue topped wall street expectations rose <NUM> percent <PUNC>
+the blue-chip average also received support from ibm ibm and 3m co. mmm <PUNC>
+stocks rode a four-session winning streak to close friday at another record high <PUNC>
+the dow has gained ground in <NUM> of the last <NUM> sessions <COMMA> and in <NUM> of the last <NUM> <PUNC>
+<PAR>

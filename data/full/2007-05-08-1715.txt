@@ -1,0 +1,7 @@
+the dow jones industrial average has advanced in <NUM> of the last <NUM> sessions <COMMA> marking its longest winning streak since <NUM> <PUNC>
+the dow industrials dji were down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components were in negative territory <COMMA> led by general motors corp. gm <COMMA> coca cola co. ko <COMMA> at&t inc. t <COMMA> and united technologies corp. utx <PUNC>
+bucking the trend among dow components <COMMA> hewlett-packard co. hpq rose <NUM> percent after the computer maker raised its earnings and revenue outlook for the second quarter <PUNC>
+also <COMMA> walt disney & co. dis rose <NUM> percent ahead of its quarterly results after the close <PUNC>
+crude-oil futures rose dollar <NUM> to dollar <NUM> a barrel <COMMA> helping higher some oil <COMMA> including dow component exxon mobil corp. xom <PUNC>
+but occidental petroleum corp. oxy and conocophillips cop remained lower <PUNC>
+<PAR>

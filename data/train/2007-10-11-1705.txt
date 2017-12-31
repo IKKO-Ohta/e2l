@@ -1,0 +1,5 @@
+after hitting an all-time high of <NUM> <COMMA> the dow jones industrial average dji was more recently up <NUM> points at <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> advanced <COMMA> led by general motors corp. gm <COMMA> which climbed <NUM> percent to near three-year highs after the united auto workers said its members approved a contract with the company <PUNC>
+another blue chip <COMMA> wal-mart wmt <COMMA> advanced <NUM> percent after the discount retailer raised its outlook more than analysts expected <PUNC>
+of the dow s declining stocks <COMMA> boeing co. ba dropped the most <COMMA> falling <NUM> percent <COMMA> in another day of fallout after wednesday s disclosure of delivery delays in the aircraft manufacturer s new widebody jet <PUNC>
+<PAR>

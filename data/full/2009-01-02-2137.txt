@@ -1,0 +1,9 @@
+u.s. stocks rallied friday to lock in solid weekly gains <COMMA> with the dow jones industrial average ending above the <NUM> mark for the first time since nov. <NUM> <COMMA> as investors shelved one of the most bruising years on record to ponder moves by the new administration <PUNC>
+up for a third consecutive session <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> leaving the blue-chip index up more than <NUM> points <COMMA> or <NUM> percent <COMMA> for the week <PUNC>
+all of the dow s <NUM> components closed friday in the green <PUNC>
+shares of general motors corp. gm jumped <NUM> percent on word that lender gmac llc had changed its financial-services pact with the struggling auto giant to give it more flexibility in offering loans <PUNC>
+also bolstering the dow <COMMA> shares of citigroup inc. c gained <NUM> percent after chief executive vikram pandit said in a wednesday memo that he and chairman win bischoff would not take bonuses for <NUM> and will trim pay and severance packages for executives <PUNC>
+<PAR>
+u.s. stocks had rallied wednesday <COMMA> the final session of <NUM> <COMMA> with the dow jones industrial average striking its best last-day-of-the year performance in percent terms since <NUM> <PUNC>
+the dow jones industrial average gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end down <NUM> percent for the year <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+new york dow jones u.s. stocks made early gains friday <COMMA> sending the dow jones industrial average back above the <NUM> level after a downward revision to second-quarter economic growth came in not as bad as feared <PUNC>
+the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the blue-chip benchmark closed below the psychologically important <NUM> mark on thursday for the first time since early july <COMMA> due in part to jitters ahead of friday morning s report on gross domestic product <PUNC>
+all but one of the dow s <NUM> components rose friday <PUNC>
+hewlett-packard co. hpq was the lone decliner <COMMA> off <NUM> percent <COMMA> as its fight with dell inc. dell over 3par continues <PUNC>
+dell edged up <NUM> percent <COMMA> while 3par par jumped <NUM> percent <PUNC>
+<PAR>

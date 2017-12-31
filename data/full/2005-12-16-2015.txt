@@ -1,0 +1,11 @@
+the dow jones industrial average dji was off its morning highs <COMMA> up <NUM> points at <NUM> <PUNC>
+among dow components <COMMA> united technologies utx rallied as much as <NUM> percent on a cibc upgrade <COMMA> at one point hitting a record high of dollar <NUM> <PUNC>
+meanwhile <COMMA> caterpillar inc. cat rose by up to <NUM> percent on news of stronger machines sales <PUNC>
+general motors corp. gm <COMMA> also in the dow <COMMA> lost early gains to trade as much as <NUM> percent lower <PUNC>
+rick wagoner <COMMA> the automaker s chairman and chief executive <COMMA> told revelers at a holiday party that the company s revenue will improve <PUNC>
+another dow member <COMMA> johnson & johnson jnj rose as much as <NUM> percent <PUNC>
+the company agreed to buy insulin pump maker animas corp. pump for dollar <NUM> million <PUNC>
+outside the dow <COMMA> oracle was down as much as <NUM> percent <PUNC>
+merrill lynch upgraded oracle to buy following earnings results <COMMA> while william blair downgraded it <PUNC>
+wal-mart wmt was down about <NUM> cents at dollar <NUM> and rival target tgt down <NUM> percent <PUNC>
+<PAR>

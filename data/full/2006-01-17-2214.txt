@@ -1,0 +1,20 @@
+u.s. stocks ended lower tuesday <COMMA> with the dow jones industrial average falling for a third session in a row <COMMA> hurt by a spike in oil prices to their highest level since late september <COMMA> mixed banking sector earnings and a new set of broker downgrades <PUNC>
+the dow industrials dji backed off a session low of <NUM> <COMMA> but still ended down <NUM> points at <NUM> <PUNC>
+after the close of regular markets and ahead of a <NUM> p.m. eastern deadline <COMMA> guidant said boston scientific s revised bid <COMMA> which represents a premium of dollar <NUM> billion or dollar <NUM> per share <COMMA> was superior to johnson & johnson s jnj competing offer <PUNC>
+mcdonald s corp. mcd was one of only a handful of dow industrials components moving higher <COMMA> climbing as much as <NUM> percent to dollar <NUM> after the fast-food giant said it expects fourth-quarter earnings of <NUM> cents a share <COMMA> a penny above the current consensus as measured by thomson first call <PUNC>
+the company also reported a <NUM> percent jump in december sales from restaurants open at least a year <COMMA> known as same-store sales <PUNC>
+the stock pared gains to end up just <NUM> cents at dollar <NUM> <PUNC>
+general motors gm was the biggest percentage decliner on the dow <COMMA> falling <NUM> percent to dollar <NUM> amid continuing concern over the outlook for the carmaker <PUNC>
+the stock has now fallen for four straight sessions <PUNC>
+caterpillar inc. cat reversed course to trade higher as investors juggled two opposing broker views on the outlook for industrial and farm equipment maker <PUNC>
+exxon mobil xom <COMMA> another dow component <COMMA> rose <NUM> cents to dollar <NUM> <COMMA> buoyed by the rise in oil prices <PUNC>
+also on the blue-chip index <COMMA> alcoa inc. aa gained <NUM> cents to dollar <NUM> after the aluminum producer said late monday most salaried workers joining its ranks after march <NUM> will be offered a <NUM> k retirement plan instead of a defined benefit pensions plan <PUNC>
+the move aims to limit long-term liabilities faced by the company as pension costs and the number of retirees swell <PUNC>
+after the close <COMMA> blue chips intel corp. intc and international business machines ibm posted quarterly results <PUNC>
+intel shares fell over <NUM> percent in late trading after it said fourth-quarter profit rose <NUM> percent <COMMA> but sales fell short of analysts forecasts due to lower-than-expected shipments of desktop computer chips <PUNC>
+shares ended tuesday s session down <NUM> percent at dollar <NUM> <PUNC>
+investors were hoping strong earnings from these two companies will help erase last week s disappointing results out of fellow dow member alcoa inc. aa and a profit warning from dupont dd <COMMA> also part of the dow <PUNC>
+away from the dow <COMMA> yahoo yhoo also reported after the bell <PUNC>
+shares sank over <NUM> percent in late trading after the internet company s posted fourth quarter earnings of <NUM> cents a share excluding items <COMMA> versus expectations of <NUM> cents a share <PUNC>
+shares closed up <NUM> cents at dollar <NUM> <PUNC>
+<PAR>

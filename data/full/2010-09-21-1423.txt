@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points in early trading to <NUM> <PUNC>
+3m dropped <NUM> percent <COMMA> microsoft msft fell <NUM> percent and travelers trv declined <NUM> percent <PUNC>
+the blue-chip index has risen in <NUM> of the previous <NUM> sessions and is up <NUM> percent this month <COMMA> on track for its best september performance since <NUM> <PUNC>
+shares of hewlett-packard hpq rose <NUM> percent and oracle orcl shares fell <NUM> percent after the two companies agreed to settle a legal dispute over the hiring of mark hurd <PUNC>
+<PAR>

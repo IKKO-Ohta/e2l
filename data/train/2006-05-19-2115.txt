@@ -1,0 +1,11 @@
+the dow jones industrial average dji closed up <NUM> points to <NUM> <PUNC>
+earlier it was up as much as <NUM> points and down as much as <NUM> points in intraday trading <PUNC>
+for the week <COMMA> the dow lost <NUM> percent <COMMA> the nasdaq took a <NUM> percent loss and the s&p <NUM> lost <NUM> percent of its strength <COMMA> after nervousness about inflation inspired some heavy selloffs earlier in the week <PUNC>
+intel corp. intc shares fell as much as <NUM> percent to a three-year low of dollar <NUM> <COMMA> but later closed <NUM> cents lower at dollar <NUM> <PUNC>
+advanced micro devices inc. amd closed off its highs <COMMA> up <NUM> percent at dollar <NUM> after dell inc. dell said it would begin using chips from amd in some of its high-end servers <PUNC>
+the announcement represents a major switch for dell <COMMA> which had used microprocessors from intel exclusively <PUNC>
+dell s move to diversify its chip suppliers came as it reported an <NUM> percent drop in fiscal first-quarter profit <PUNC>
+sales of its flagship desktop personal computers fell amid aggressive price competition from hewlett-packard co. hpq and other rivals <PUNC>
+the results were in line with wall street expectations and matched a reduced forecast given by the company on may <NUM> <PUNC>
+the company also announced a major restructuring plan <PUNC>
+<PAR>

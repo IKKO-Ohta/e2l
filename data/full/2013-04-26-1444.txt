@@ -1,0 +1,4 @@
+the dow jones industrial average <COMMA> dji however <COMMA> rose <NUM> points to <NUM> <COMMA> with hewlett-packard co. hpq leading gainers in the 30-stock blue-chip index <PUNC>
+chevron corp. cvx said its first-quarter earnings fell to dollar <NUM> billion <COMMA> or dollar <NUM> per share <COMMA> from dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> in the same period a year ago <PUNC>
+still <COMMA> the oil major s shares rose <NUM> percent <PUNC>
+<PAR>

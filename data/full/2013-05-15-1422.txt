@@ -1,0 +1,4 @@
+the dow jones industrial average dji lost <NUM> points to <NUM> on wednesday morning <PUNC>
+the s&p <NUM> index spx fell <NUM> points to <NUM> <COMMA> with energy and industrials the laggards and consumer shares faring best among its <NUM> industry groups <PUNC>
+cisco systems inc. shares csco fell <NUM> percent ahead of the networking giant reporting third-quarter earnings <COMMA> projected to come in at <NUM> cents a share <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+with <NUM> minutes before the closing bell <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> positioning it for a weekly loss of about <NUM> percent <PUNC>
+all but one of the dow s <NUM> components were trading lower <COMMA> with financial stocks fronting the losses <COMMA> with american express co. axp seeing its stock fall nearly <NUM> percent <PUNC>
+pharmaceutical giant johnson & johnson jnj was the sole dow stock to trade in positive turf <COMMA> up just <NUM> percent <PUNC>
+<PAR>

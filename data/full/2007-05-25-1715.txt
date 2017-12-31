@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components advanced <COMMA> led by general motors corp. gm <COMMA> honeywell inc. hon <COMMA> boeing co. ba and 3m corp. mmm <PUNC>
+dow component coca-cola ko gained <NUM> percent after saying it s agreed to buy energy brands inc. <COMMA> also known as glaceau <COMMA> for dollar <NUM> billion <PUNC>
+the acquisition will provide coca-cola with energy brands enhanced water products <COMMA> including the vitaminwater and smartwater brand <PUNC>
+<PAR>

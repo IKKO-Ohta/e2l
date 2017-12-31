@@ -1,0 +1,5 @@
+the dow jones industrial average dji was last up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> while the nasdaq composite index rixf rose <NUM> points or <NUM> percent <COMMA> at <NUM> and the s&p <NUM> spx added <NUM> point <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+american international group aig was the best performer on the dow <COMMA> spiking <NUM> percent after it said first-quarter net income jumped <NUM> percent while revenue in the period rose <NUM> percent <PUNC>
+revenue was dollar <NUM> billion <COMMA> up from dollar <NUM> billion a year ago <PUNC>
+offsetting those gains on the blue chip gauge <COMMA> however <COMMA> were losses in united technologies corp. utx <COMMA> exxon mobil corp. xom <COMMA> boeing co. ba and walt disney co. dis <PUNC>
+<PAR>

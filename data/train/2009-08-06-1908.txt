@@ -1,0 +1,4 @@
+in thursday s trade <COMMA> citigroup inc. c and bank america corp. bac alone are <NUM> percent of total consolidated nyse volume <COMMA> bookvar said <PUNC>
+in recent trade <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> while the s&p <NUM> spx declined <NUM> points to <NUM> <PUNC>
+the nasdaq composite rixf shed <NUM> points to <NUM> <PUNC>
+<PAR>

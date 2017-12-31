@@ -1,0 +1,12 @@
+and third-quarter s&p <NUM> earnings are now expected to be down <NUM> percent year on year <COMMA> a slight improvement from expectations of a <NUM> percent last week <COMMA> thanks to upbeat results from jp morgan chase jpm <COMMA> citigroup c and goldman sachs gs <PUNC>
+but after a good start to the week <COMMA> the market took a hit friday after results from bank of america bac <COMMA> ibm ibm and general electric co. ge disappointed investors <PUNC>
+on friday <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> weighed down by drops of more than <NUM> percent in shares of bank of america <COMMA> ibm and ge <PUNC>
+the dow traded above the <NUM> mark on wednesday for the first time since october <NUM> <PUNC>
+for the week <COMMA> the dow still rose <NUM> percent <COMMA> the s&p <NUM> gained <NUM> percent <COMMA> and the nasdaq rose <NUM> percent <PUNC>
+sheldon noted that the strong results from intel intc <COMMA> jp morgan and google goog over the past week were met with moderate enthusiasm <PUNC>
+goldman sachs group <COMMA> however <COMMA> whose results <COMMA> while above expectations <COMMA> didn t beat by as much as in the previous quarter <COMMA> saw its shares pummeled by the market <PUNC>
+tuesday will bring <COMMA> among others <COMMA> coca-cola co. ko <COMMA> dupont dd <COMMA> pfizer inc. pfe and united technologies corp. utx <PUNC>
+wednesday brings results from boeing co. ba <COMMA> freeport mcmoran fcx <COMMA> morgan stanley ms <COMMA> and wells fargo wfc <PUNC>
+on thursday <COMMA> results are expected from 3m co. mmm <COMMA> at&t inc. t <COMMA> credit suisse group cs <COMMA> dow chemical co. dow <COMMA> mcdonald s mcd <COMMA> merck mrk <COMMA> and travelers cos. trv <PUNC>
+on friday <COMMA> results from microsoft corp. msft are due <PUNC>
+<PAR>

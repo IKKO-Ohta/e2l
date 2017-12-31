@@ -1,0 +1,4 @@
+u.s. stocks turned lower wednesday <COMMA> with materials leading declines <COMMA> as investors paused in the wake of an eight-session record climb by the dow jones industrial average <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+on tuesday <COMMA> the dow climbed for an eighth session <COMMA> its longest winning streak in two years <COMMA> and finishing at another all-time high <PUNC>
+<PAR>

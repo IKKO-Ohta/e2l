@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+dow-component hewlett-packard co. hpq fell <NUM> cents to dollar <NUM> after the scandal-tainted computer-market late on thursday posted earnings that topped analysts estimates <PUNC>
+in other news <COMMA> johnson & johnson jnj gained <NUM> cents to dollar <NUM> after saying it agreed to buy conor medsystems conr <COMMA> a developer of drug-eluting stents <COMMA> for dollar <NUM> a share <COMMA> or dollar <NUM> billion <PUNC>
+<PAR>

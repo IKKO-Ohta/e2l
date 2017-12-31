@@ -1,0 +1,8 @@
+the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with insurers unitedhealth group inc. unh and travelers cos. trv leading blue-chip gains <PUNC>
+among individual stock movers <COMMA> boeing co. ba shed <NUM> percent after the aerospace manufacturer stopped deliveries of its <NUM> dreamliner <COMMA> which has been grounded by regulators looking into whether its batteries are safe <PUNC>
+fellow dow component verizon communications inc. vz gained <NUM> percent after its chief financial officer said the telecommunications provider might be able to repurchase shares sooner than expected <PUNC>
+shares of johnson & johnson jnj declined <NUM> percent after the largest provider of health-care products offered a full-year forecast that came in below estimates <PUNC>
+caterpillar inc. cat slipped <NUM> percent <PUNC>
+late last friday <COMMA> the heavy-equipment manufacturer said it would take a dollar <NUM> million writedown <COMMA> cutting fourth-quarter earnings <PUNC>
+dupont dd rose <NUM> percent after fourth-quarter profit exceeded expectations <PUNC>
+<PAR>

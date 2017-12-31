@@ -1,0 +1,6 @@
+all three major indices closed at five-month lows <PUNC>
+the dow jones industrials average dji closed down <NUM> points at <NUM> as the s&p <NUM> spx fell <NUM> points to <NUM> <PUNC>
+the nasdaq composite rixf ended down <NUM> points at <NUM> <PUNC>
+pfizer inc. pfe <COMMA> a dow component <COMMA> shot up <NUM> percent to close at dollar <NUM> <COMMA> benefiting from a favorable uk court ruling for its lipitor patent <PUNC>
+intel intc finished off its lows <COMMA> down <NUM> cents at dollar <NUM> after prudential cut its rating on the chipmaker to underweight from neutral <COMMA> saying a number of challenges will hurt revenue and margins <PUNC>
+<PAR>

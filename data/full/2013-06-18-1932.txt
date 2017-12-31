@@ -1,0 +1,2 @@
+on track for its sixth consecutive triple-digit move <COMMA> the dow jones industrial average dji rose as much as <NUM> points <COMMA> and was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with general electric co. ge pacing gains that included all <NUM> of its components <PUNC>
+<PAR>

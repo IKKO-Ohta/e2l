@@ -1,0 +1,5 @@
+the futures contract for the dow jones industrial average was down <NUM> point at <NUM> <PUNC>
+futures contracts for the s&p <NUM> and the nasdaq <NUM> were unchanged at <NUM> and down <NUM> point at <NUM> <PUNC>
+shares of pfizer inc. pfe were down <NUM> cent at dollar <NUM> before the opening <PUNC>
+the company is expected to tell analysts its earnings expectations for the year and provide an update on its drugs pipeline <PUNC>
+<PAR>

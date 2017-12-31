@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> and the the nasdaq composite rixf up <NUM> points at <NUM> <PUNC>
+the dow jones prediction <COMMA> based on a poll of economists <COMMA> is for a rise in gdp of <NUM> percent for the second quarter <COMMA> which would represent a decline from the <NUM> percent rise seen in the first quarter <PUNC>
+exxonmobil xom gave up early gains to trade down <NUM> cents at dollar <NUM> after the oil giant reported a <NUM> percent increase in net income <PUNC>
+but the company reported a per-share profit a penny shy of analysts expectations and said volumes fell more than <NUM> percent year-over-year. <PUNC>
+honeywell hon rose <NUM> percent to dollar <NUM> after merrill lynch upgraded the industrial conglomerate to buy from neutral <COMMA> and raised earnings estimates for the company <PUNC>
+<PAR>

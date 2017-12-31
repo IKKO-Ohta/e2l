@@ -1,0 +1,13 @@
+the dow jones industrial average dji was up as much as <NUM> points at <NUM> <COMMA> its best level of the day <PUNC>
+the university of michigan s preliminary consumer sentiment survey for december had a reading of <NUM> <PUNC>
+the result was up from <NUM> in november <PUNC>
+the dow jones forecast <COMMA> based on a survey of economists <COMMA> was for a reading of <NUM> <PUNC>
+dow component intel intc shares shook off morning losses to trade up almost <NUM> percent at dollar <NUM> <PUNC>
+late thursday <COMMA> the world s largest maker of computer chips lowered the top end of its sales forecast for the fourth quarter <COMMA> but left the midpoint unchanged <PUNC>
+investors had hoped for a higher top and middle range points <PUNC>
+shares of merck mrk <COMMA> also in the dow <COMMA> dropped as much as <NUM> percent to dollar <NUM> <PUNC>
+the new england journal of medicine is accusing the authors of a merck-sponsored study on the safety of painkiller vioxx of omitting certain negative data about the drug when they published an article on the results in <NUM> <PUNC>
+another dow component <COMMA> international business machines ibm lost <NUM> cents to stand at dollar <NUM> after ubs downgraded the stock to neutral <PUNC>
+elsewhere in the dow <COMMA> general electric ge was <NUM> cents higher at dollar <NUM> after increasing its <NUM> share buyback authorization to dollar <NUM> billion from dollar <NUM> billion <PUNC>
+the company previously said it will repurchase dollar <NUM> billion of its stock by <NUM> <PUNC>
+<PAR>

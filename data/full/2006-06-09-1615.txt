@@ -1,0 +1,10 @@
+the dow industrials dji were up <NUM> points at <NUM> after a volatile session thursday <COMMA> in which the index recovered from a more than 170-point drop to end higher <PUNC>
+on thursday <COMMA> stocks staged a late-day rebound after trading sharply lower for most of the session <COMMA> with the dow jones industrial average breaking a four-day losing streak <PUNC>
+for much of the session <COMMA> concern over rising global interest rates dominated trading <PUNC>
+alcoa inc. aa rose <NUM> percent to dollar <NUM> after prudential upgraded the maker of aluminum products to neutral weight from underweight on valuation grounds <PUNC>
+also in the dow <COMMA> caterpillar inc. cat was the biggest percentage gainer <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
+the heavy-equipment maker s stock has been under pressure since the fed s bernanke said earlier in the week that economic growth appeared to be slowing <PUNC>
+coca-cola ko rose <NUM> cents to dollar <NUM> after it received an upgrade by bear stearns to outperform from peer perform <PUNC>
+the broker cited weakness in the dollar and improved results from germany <COMMA> mexico and brazil <PUNC>
+rotation into more defensive stocks also should favor the dow component <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the reports follow a sixth consecutive week of gains for wall street <COMMA> its longest such stretch in nearly a year <COMMA> with the dow jones industrial dji briefly hurdling <NUM> for the first time since september <NUM> <PUNC>
+the first of the dow s <NUM> components to report results <COMMA> alcoa aa will kick off the unofficial start of the earnings season monday <PUNC>
+tuesday s results are slated to include earnings from intel intc <COMMA> and advanced micro devices inc. amd is scheduled to report on thursday <PUNC>
+bank of america corp. bac and general electric co. ge both report quarterly earnings on friday <PUNC>
+this past friday <COMMA> the dow industrials gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> up <NUM> percent from the prior week s close <PUNC>
+the blue-chip index briefly crossed <NUM> just moments ahead of the market close in an event possibly more important to main street s mind-set than to sentiment among professional investors <PUNC>
+following the pullback to near <NUM> once again <COMMA> we expect a rally to the highs with the dow back over <NUM> by midyear <COMMA> commented kleintop <PUNC>
+<PAR>

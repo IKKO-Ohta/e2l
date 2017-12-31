@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+since the federal reserve raised its fed funds rate to <NUM> percent on may <NUM> and left open the possibility of further rate hikes <COMMA> the stock market has been moving lower <PUNC>
+based on tuesday s close <COMMA> the dow industrials are down <NUM> percent <COMMA> the nasdaq is off <NUM> percent while the s&p <NUM> has fallen <NUM> percent <PUNC>
+<PAR>

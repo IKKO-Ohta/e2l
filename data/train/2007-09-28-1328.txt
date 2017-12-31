@@ -1,0 +1,2 @@
+down nearly <NUM> points ahead of the data <COMMA> futures for the dow jones industrial average dji more recently were <NUM> points off <COMMA> at <NUM> <PUNC>
+<PAR>

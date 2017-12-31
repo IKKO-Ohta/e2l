@@ -1,0 +1,4 @@
+after a 50-point drop <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
+the s&p <NUM> index spx declined <NUM> points to <NUM> <COMMA> with consumer staples the heaviest-weighing sector among the index s <NUM> industry groups <PUNC>
+the nasdaq composite rixf declined <NUM> points to <NUM> <PUNC>
+<PAR>

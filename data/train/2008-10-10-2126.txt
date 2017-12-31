@@ -1,0 +1,8 @@
+u.s. stocks on friday rallied back from stiff losses to end mostly lower after the dow jones industrial average traded in a 1,000-point range in the final session of its worst week ever <COMMA> as shaken investors looked for intervention from a meeting of global finance ministers <PUNC>
+the indexes had lunged sharply lower for an eighth straight day <COMMA> with the dow industrials sliding nearly <NUM> points at the start to fall under <NUM> for the first time since <NUM> as fears escalated that the trauma in the credit markets could be paving the way toward a global recession <PUNC>
+at the close <COMMA> the dow industrials dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> down nearly <NUM> points <COMMA> or <NUM> percent <COMMA> for the week <PUNC>
+all <NUM> of the dow s components closed in the red <COMMA> with shares of alcoa inc. aa pacing the blue-chip declines <COMMA> off <NUM> percent <COMMA> followed by oil giant exxon mobil corp. <COMMA> down <NUM> percent <PUNC>
+among the blue-chip gains was general electric co. ge <COMMA> up <NUM> percent after it reported a third-quarter profit that met street expectations <COMMA> and said it was on pace to meet its recently revised projections for <NUM> <PUNC>
+another blue chip <COMMA> general motors corp. gm <COMMA> rose <NUM> % after falling to below dollar <NUM> a share the prior session for the first time in <NUM> years <COMMA> with standard & poor s putting the auto maker s debt on negative credit watch late thursday <PUNC>
+bank of america corp. bac also bolstered the dow <COMMA> its stock rising <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+over the last four weeks <COMMA> the dow jones industrial average dji has risen <NUM> percent <COMMA> capping the first four-week stretch of positive weeks since the period ending in october <NUM> <COMMA> <NUM> <PUNC>
+the dow s latest percentage gain was the biggest for any four-week winning streak since <NUM> <PUNC>
+on friday <COMMA> stocks ended with modest gains <PUNC>
+the dow added <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> bringing its weekly advance to <NUM> percent <PUNC>
+the dow ended above <NUM> for the first time since feb. <NUM> <COMMA> but it s the broader s&p <NUM> that many market analysts are watching for a turnaround signal <PUNC>
+aluminum giant alcoa inc. aa <COMMA> a dow component <COMMA> will report its first-quarter earnings after the bell on tuesday <PUNC>
+energy behemoth chevron corp. cvx will be on deck late thursday <PUNC>
+the week ahead could also bring announcements of changes to as many as three dow components <COMMA> with many expecting citigroup inc. c <COMMA> bank of america corp. bac and general motors corp. gm to be ousted from the blue-chip index <PUNC>
+<PAR>

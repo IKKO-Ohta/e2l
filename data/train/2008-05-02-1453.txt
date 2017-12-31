@@ -1,0 +1,7 @@
+u.s. stocks moved sharply higher in friday morning trade <COMMA> fueling the dow s rise to highs unseen since early january <COMMA> following a better-than-feared jobs report and a move by the federal reserve to widen funding to banks <PUNC>
+the dow jones industrial average dji had climbed <NUM> points by midmorning to <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <PUNC>
+top gainers on the dow industrials included citigroup inc. c <COMMA> up <NUM> percent <COMMA> and bank of america corp. bac <COMMA> ahead <NUM> percent <PUNC>
+wal-mart stores inc. wmt and procter & gamble co. pg led blue chip declines <COMMA> with each off about <NUM> percent <PUNC>
+in the technology sector <COMMA> microsoft corp. msft and yahoo inc. yhoo were again in the headlines as the wall street journal reported microsoft to be leaning toward a hostile bid for the internet search group <COMMA> which has rejected the unsolicited takeover offer made in january <PUNC>
+yahoo shares rose <NUM> percent <COMMA> while microsoft shares declined <NUM> percent <PUNC>
+<PAR>

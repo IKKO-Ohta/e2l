@@ -1,0 +1,5 @@
+the dow jones industrial average dji recently leapt <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> boosted by gains in <NUM> of its <NUM> components <PUNC>
+if the blue-chip index s gains hold through the bell <COMMA> it would represent the biggest one-day gain in both point and percentage terms since nov. <NUM> <PUNC>
+strategist jack ablin of harris private bank welcomed monday s rally but cautioned against reading too much into it <COMMA> since early-year moves can sometimes be outsized due to the rotation of money by portfolio managers after their clients year-end statements have been mailed <PUNC>
+ablin pointed out that the dow rallied <NUM> points in <NUM> s first trading session <COMMA> but then slid through the end of january <COMMA> ending with a monthly decline of <NUM> percent as the fallout from the financial crisis continued to spread <PUNC>
+<PAR>

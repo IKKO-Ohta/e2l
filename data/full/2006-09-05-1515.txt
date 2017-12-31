@@ -1,0 +1,6 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+the dow industrials have ended higher on the day after labor day nine out of the last eleven sessions <COMMA> according to the stock trader s almanac <PUNC>
+caterpillar inc. cat shares rose <NUM> percent to dollar <NUM> after the heavy equipment maker said it would be raising machinery and engine prices beginning january <NUM> <PUNC>
+procter & gamble s pg stock was off <NUM> percent at dollar <NUM> <PUNC>
+the world s largest consumer- products company affirmed its outlook for fiscal first-quarter earnings and sales <PUNC>
+<PAR>

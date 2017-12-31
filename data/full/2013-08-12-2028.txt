@@ -1,0 +1,6 @@
+the s&p <NUM> spx edged down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and the dow jones industrial average dji dipped <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+the dow had been down as much as <NUM> percent out of the gate <PUNC>
+last week <COMMA> the blue-chip index lost <NUM> percent to snap a six-week winning streak <COMMA> and the s&p <NUM> shed <NUM> percent <PUNC>
+on monday <COMMA> it and telecom stocks were performing best among s&p sectors <COMMA> as energy and utilities fared worst <PUNC>
+caterpillar inc. cat and cisco systems inc. csco did best among dow components <COMMA> while walt disney co. cvx was the biggest decliner <PUNC>
+<PAR>

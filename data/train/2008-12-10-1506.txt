@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components opening higher <PUNC>
+shares of general motors corp. gm gained <NUM> percent to dollar <NUM> <COMMA> while ford motor co. f shares rose <NUM> percent <PUNC>
+leading the gains on the blue-chip average <COMMA> shares of aluminum giant alcoa inc. aa were up <NUM> percent <PUNC>
+among blue-chips <COMMA> chevron corp. cvx gained <NUM> percent <COMMA> while those of exxon mobil corp. xom rose <NUM> percent <PUNC>
+<PAR>

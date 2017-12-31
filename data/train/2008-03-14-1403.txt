@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+early blue-chip gainers included exxon mobil corp. xom <COMMA> up <NUM> percent <COMMA> after its upgrade to outperform from neutral by credit suisse <PUNC>
+also ahead of the opening <COMMA> bear stearns bsc said its liquidity had significantly deteriorated during the past <NUM> hours <COMMA> and j.p. morgan chase jpm said it worked with the federal reserve bank of new york in securing funding to the brokerage firm <PUNC>
+<PAR>
+on thursday <COMMA> u.s. stocks recovered from opening losses <COMMA> and the dow industrials ended up <NUM> points <COMMA> the nasdaq composite advanced <NUM> points and the s&p <NUM> gained <NUM> points <PUNC>
+<PAR>

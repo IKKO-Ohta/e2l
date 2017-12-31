@@ -1,0 +1,18 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in recent trading <PUNC>
+the market wanted an excuse to go lower <COMMA> and we needed to consolidate in any event <COMMA> duessel said <COMMA> noting that a drop in stocks felt overdue following eight straight days of gains in the dow <PUNC>
+she added <COMMA> a far better excuse is what might happen this weekend with health care <PUNC>
+drug-maker merck mrk slipped <NUM> percent after the food and drug administration warned about the increased risk of muscle injury <COMMA> which could happen for those taking an 80-milligram dose of its drug zocor <PUNC>
+on the dow <COMMA> bank of america corp. bac and 3m mmm were the measure s worst performers <COMMA> off <NUM> percent each <PUNC>
+the measure s energy components were also particularly weak as crude-oil futures tumbled below dollar <NUM> a barrel <PUNC>
+exxon mobil corp. xom slipped <NUM> percent while chevron corp. cvx dropped <NUM> percent <PUNC>
+boeing co. ba helped keep the declines in check <PUNC>
+it climbed <NUM> percent after the company announced plans to raise production of its <NUM> and <NUM> aircraft earlier than anticipated amid increasing demand in the airplane industry <PUNC>
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+3m mmm was the measure s worst performer <COMMA> down <NUM> percent <PUNC>
+pfizer pfe also slid <NUM> percent after israel-based drugmaker teva pharmaceutical teva beat out pfizer in a bidding war for germany s generic-drug company ratiopharm group <PUNC>
+the dow s financial components were also weak <COMMA> with american express axp down <NUM> percent <COMMA> bank of america bac down <NUM> percent and j.p. morgan jpm down <NUM> percent as legislation looking to revamp the financial system is debated in washington <PUNC>
+offsetting some of the decline <COMMA> boeing ba rose <NUM> percent after the company announced plans to raise production of its <NUM> and <NUM> aircraft earlier than anticipated amid increasing demand in the airplane industry <PUNC>
+coca-cola ko also gained <COMMA> climbing <NUM> percent <PUNC>
+in a sign that companies are already worrying about the bill s potential impact <COMMA> caterpillar sent a letter to house speaker nancy pelosi saying the legislation would increase the company s health-care costs by more than dollar <NUM> million in the first year alone <PUNC>
+caterpillar cat was recently down <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+a rally in shares of caterpillar inc. <COMMA> boeing co. and others provided a further boost to the dow jones industrial average <PUNC>
+the dow industrials dji were up <NUM> points at <NUM> <PUNC>
+on wednesday <COMMA> the dow rose more than <NUM> points for the first time in more than a month <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+caterpillar cat shares rallied <NUM> percent to dollar <NUM> <PUNC>
+chairman and chief executive james w. owens told shareholders at the annual meeting that <NUM> is shaping up to be the company s third year in a row of record earnings <PUNC>
+owens affirmed the company s <NUM> profit outlook of earnings ranging dollar <NUM> to dollar <NUM> a share <PUNC>
+also on the dow <COMMA> boeing co. ba extended a more than <NUM> percent gain in the previous session <COMMA> sparked in large part by problems at its rival airbus <PUNC>
+the stock was last up <NUM> percent <PUNC>
+<PAR>

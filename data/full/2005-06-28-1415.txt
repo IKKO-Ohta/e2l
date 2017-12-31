@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> while the nasdaq composite index rixf popped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and the s&p <NUM> spx lifted <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+all but two dow components were posting gains <PUNC>
+the advance was led by merck & co. inc. mrk <COMMA> home depot inc. hd <COMMA> general motors corp. gm and wal-mart stores inc. wmt <PUNC>
+exxon mobil corp. xom and boeing co. ba were the only blue chips moving lower <PUNC>
+advanced micro devices amd filed a suit late monday in a delaware federal court alleging that intel corp. intc has used improper subsidies and threatened retaliation against firms using or selling amd products <PUNC>
+ibm ibm <COMMA> meanwhile <COMMA> was targeted by the securities and exchange commission <COMMA> which has opened an informal investigation into disclosures the company made regarding stock option expenses in its first-quarter earnings report <PUNC>
+<PAR>

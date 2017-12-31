@@ -1,0 +1,5 @@
+after rising more than <NUM> points earlier <COMMA> the dow jones industrial average dji finished down <NUM> points at <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> traded lower <COMMA> led by the likes of american express axp <COMMA> bank of america bac <COMMA> hewlett-packard hpq <COMMA> microsoft msft <COMMA> and at&t t <PUNC>
+caterpillar cat <COMMA> also a blue-chip stock <COMMA> remained up <NUM> percent after the construction and equipment manufacturer affirmed its earnings outlook <PUNC>
+on tuesday <COMMA> the dow rallied <NUM> points <COMMA> or <NUM> percent <COMMA> its largest percentage climb since march <NUM> and its fourth biggest point jump <PUNC>
+<PAR>

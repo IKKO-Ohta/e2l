@@ -1,0 +1,2 @@
+the dow jones industrial average dji closed nearly flat <COMMA> down <NUM> point at <NUM> after a choppy performance featuring an early high of <NUM> <PUNC>
+<PAR>

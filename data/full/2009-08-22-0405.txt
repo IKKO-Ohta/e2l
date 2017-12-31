@@ -1,0 +1,5 @@
+helped by much better-than-expected existing home sales in july <COMMA> stocks rallied to fresh highs for the year on friday <PUNC>
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> its highest level since november <PUNC>
+the s&p <NUM> index spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the nasdaq composite rixf advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+for the week <COMMA> the dow industrials rose <NUM> percent <COMMA> the s&p <NUM> gained <NUM> percent <COMMA> and the nasdaq was up <NUM> percent <PUNC>
+<PAR>

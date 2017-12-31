@@ -1,0 +1,8 @@
+after falling in the last four sessions <COMMA> the dow jones industrial average dji turned tail on earlier gains to extend its losing streak <PUNC>
+the blue-chip index finished at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
+just five of the blue-chip index s <NUM> components finished in the black <COMMA> led by alcoa inc. aa <COMMA> up <NUM> percent for the session <PUNC>
+shares of general motors corp. gm and ford motor co. f were each down about <NUM> percent after both automakers drew downgrades from two major ratings agencies after monday s close <PUNC>
+standard & poor s said the risk of bankruptcy remains high <COMMA> regardless of government loans <PUNC>
+<PAR>
+discussions between walt disney co. dis and hong kong officials are under way over the possible expansion of hong kong disneyland <COMMA> which may include adding attractions that would be unique to the hong kong venue <COMMA> the wall street journal reported <PUNC>
+<PAR>

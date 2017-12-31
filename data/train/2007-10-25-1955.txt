@@ -1,0 +1,3 @@
+u.s. stocks veered erratically thursday on a mix of economic data <COMMA> record oil prices <COMMA> corporate earnings and fretting about the economy <COMMA> with the dow industrials recovering late in the day after falling more than <NUM> points earlier on <PUNC>
+the dow industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+<PAR>

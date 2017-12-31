@@ -1,0 +1,7 @@
+the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> after surging nearly <NUM> points to a new record high of <NUM> <PUNC>
+the dow was weighed by the likes of intel corp. intc <COMMA> disney dis <COMMA> and microsoft corp. msft <PUNC>
+among blue chips <COMMA> boeing co. ba gained <NUM> percent <COMMA> bouncing back from the previous session when it affirmed its earnings outlook for <NUM> and <NUM> <PUNC>
+general motors gm fell <NUM> percent <PUNC>
+in a filing with the securities and exchange commission <COMMA> gm said it sees a dollar <NUM> billion exposure from helping delphi get out of bankruptcy <PUNC>
+gm previously said it would cost between dollar <NUM> billion and dollar <NUM> billion <PUNC>
+<PAR>

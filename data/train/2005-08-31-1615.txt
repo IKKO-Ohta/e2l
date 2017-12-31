@@ -1,0 +1,6 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> off an earlier low of <NUM> <PUNC>
+within the dow industrials <COMMA> shares of american international group inc. aig fell <NUM> percent to dollar <NUM> on concern over the company s high exposure to commercial claims resulting from damage caused by hurricane katrina <PUNC>
+shares of general motors corp. gm fell <NUM> percent to dollar <NUM> as investors worried that consumers would rein in discretionary spending on such big-ticket items as cars because of higher gasoline and heating costs down the line <PUNC>
+in a bid to expand its internet telephone offering <COMMA> microsoft corp. msft said late tuesday it has acquired privately-held teleo <COMMA> inc. a provider of voice over internet protocol software and services <PUNC>
+financial terms of the deal were not disclosed <PUNC>
+<PAR>

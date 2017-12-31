@@ -1,0 +1,6 @@
+the dow jones industrial average dji backed off its highs <COMMA> after earlier sporting a gain of more than <NUM> points <PUNC>
+merck mrk also was supported by earnings news <PUNC>
+the company reported reported third-quarter earnings of dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> up from a year-ago profit of dollar <NUM> billion <COMMA> or <NUM> cents a share <PUNC>
+but sales dipped <NUM> percent <PUNC>
+american express axp moved higher as investors awaited its midday report <PUNC>
+<PAR>

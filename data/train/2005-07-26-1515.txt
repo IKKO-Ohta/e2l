@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+the s&p <NUM> spx was up <NUM> at <NUM> <COMMA> and the nasdaq composite rixf up <NUM> at <NUM> <PUNC>
+stocks opened higher tuesday <COMMA> but the dow fell after the conference board reported a decline in its july consumer confidence headline figure to <NUM> from <NUM> <PUNC>
+the result was below the wall street consensus of <NUM> <PUNC>
+tuesday marks one of the busiest days of the second-quarter earnings season <COMMA> featuring reports from international paper ip and dow components verizon communications vz and dupont dd <PUNC>
+<PAR>

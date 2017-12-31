@@ -1,0 +1,8 @@
+trading was light amid a snowstorm in new york city <COMMA> which struck at a time when markets were already overdue for a pause following a volatile run <PUNC>
+five of the last seven full trading sessions have seen triple-digit point moves in the dow jones industrial average dji <PUNC>
+the dow has moved between gains and losses for much of wednesday s session <COMMA> recently posting an eight-point rise <COMMA> up <NUM> percent <COMMA> at <NUM> <PUNC>
+it was held in check by a <NUM> percent slip in walt disney & co. dis after the entertainment giant released disappointing first-quarter earnings <COMMA> weighed by declines in its theme-park and consumer units <PUNC>
+the dow s financial components led the measure <COMMA> with j.p. morgan chase jpm up <NUM> percent and bank of america corp. bac up <NUM> percent <PUNC>
+investors said while tuesday s 150-point rally in the dow came on relief that germany and other european union nations will likely step in to help bail out greece <COMMA> market watchers are now waiting to see more details of how a bailout would work <PUNC>
+concerns about greece s heavy debt load weighed on global markets last week amid fears that its problems could spill over to other markets <PUNC>
+<PAR>

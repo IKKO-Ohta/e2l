@@ -1,0 +1,9 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+earlier the benchmark index climbed as high as <NUM> after the release of better-than-expected housing and consumer confidence data <PUNC>
+the dow has rallied around <NUM> percent since its mid-october lows <PUNC>
+similarly <COMMA> the nasdaq has gained <NUM> percent while the s&p <NUM> has climbed about <NUM> percent <PUNC>
+the data lifted the housing sector hgx and sent shares of home improvement retailers home depot hd and lowe s cos. low higher <PUNC>
+the strength in aircraft orders gave boeing co. ba shares a boost <PUNC>
+its shares ended up the session <COMMA> up <NUM> cents at dollar <NUM> <PUNC>
+shares in wal-mart stores inc. wmt fell <NUM> percent to dollar <NUM> after the discount retailer saturday sales suffered because it sold out of a number of deep-discount sale items on the friday after thanksgiving <PUNC>
+<PAR>

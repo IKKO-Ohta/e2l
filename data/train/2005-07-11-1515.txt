@@ -1,0 +1,9 @@
+new york dow jones - u.s. stocks traded higher monday <COMMA> helped by a drop in oil and a flurry of deals <COMMA> with procter & gamble and dupont in focus as positive broker comment boosted the dow components shares <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> after putting in its best one-day gain in more than two-months in the prior session <PUNC>
+within the dow industrials <COMMA> procter & gamble pg rallied <NUM> percent to dollar <NUM> after prudential equity group upgraded consumer products giant to overweight from neutral weight <COMMA> saying it believes the company will not only become bigger but also stronger when it completes the acquisition of the gillette co. g <PUNC>
+dupont shares dd climbed <NUM> percent to <NUM> after deutsche bank re-iterated its buy rating on the chemical group <COMMA> saying investors are failing to recognize its powerful <COMMA> ongoing transformation into a higher growth <COMMA> higher return company <PUNC>
+merck shares mrk recovered from early weakness to trade up <NUM> percent as jury selection began in texas for the first wrongful death suit filed over the company s discontinued drug vioxx <PUNC>
+merck withdrew vioxx from the market last fall after it was suspected of triggering cardiovascular problems in some patients <PUNC>
+general electric co. ge and caisse de depot et placement du quebec are buying southern star <COMMA> the biggest natural-gas pipeline system in the central u.s. from american international group inc. aig for dollar <NUM> million <COMMA> including debt <PUNC>
+ge shares were last up <NUM> percent <PUNC>
+<PAR>

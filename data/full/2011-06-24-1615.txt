@@ -1,0 +1,2 @@
+down for a third consecutive session <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with all but four of its <NUM> components sliding <COMMA> led by general electric co. ge <COMMA> off <NUM> percent <PUNC>
+<PAR>

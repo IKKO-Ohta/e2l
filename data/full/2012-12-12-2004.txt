@@ -1,0 +1,3 @@
+after an 81-point climb <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+dow gainers included dupont dd <COMMA> up <NUM> percent after the chemicals company said it would repurchase as much as dollar <NUM> billion of its shares in <NUM> and <NUM> profit would come in at the high end of its outlooks <PUNC>
+<PAR>

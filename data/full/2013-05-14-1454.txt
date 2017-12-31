@@ -1,0 +1,4 @@
+u.s. stocks rose <COMMA> as the dow jones industrial average looked to extend its win streak to an 18th consecutive tuesday <COMMA> as wall street adapted to the view of an improving economy <COMMA> even if that growth comes at a slow pace <PUNC>
+the dow industrials dji gained <NUM> points to <NUM> <PUNC>
+interestingly <COMMA> if one takes out those tuesday gains <COMMA> the dow has not done all that much this year <COMMA> noted jeffrey saut <COMMA> chief market strategist at raymond james & associates inc <PUNC>
+<PAR>

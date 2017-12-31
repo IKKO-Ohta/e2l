@@ -1,0 +1,7 @@
+on thursday <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> index rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+gains were fueled by aluminum-giant alcoa inc. aa <COMMA> which kicked off the third-quarter earnings season by turning in a surprise profit <PUNC>
+the results were due to a mix of improved demand and aggressive cost cuts <PUNC>
+aluminum prices have risen since june and demand has ticked higher <COMMA> mostly as china is replenishing its stockpiles <PUNC>
+bny convergex chief market strategist nicholas colas <COMMA> for his part <COMMA> believes that weakness in the dollar should now benefit the dow industrials over the s&p <NUM> <COMMA> given the higher percentage of multinationals represented in the blue-chip average <PUNC>
+<PAR>

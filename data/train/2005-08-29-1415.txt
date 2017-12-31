@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> the s&p <NUM> spx down <NUM> points at <NUM> and the nasdaq composite rixf down <NUM> points at <NUM> <PUNC>
+predictions that the storm will compel gulf coast consumers to buy goods to make their homes safer lent support to home improvement retailers <PUNC>
+home depot hd was <NUM> percent higher and lowes companies low rose <NUM> percent <PUNC>
+<PAR>

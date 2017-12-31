@@ -1,0 +1,6 @@
+u.s. stocks dropped on monday after last week s record high for the dow jones industrial average as data had china s industrial output slowing <PUNC>
+the dow industrials fell <NUM> points to <NUM> and the s&p <NUM> index slipped <NUM> points to <NUM> <PUNC>
+the budget battle didn t dent equities last week <PUNC>
+the dow dji set a string of record closing highs in recent sessions <COMMA> while the s&p <NUM> index spx ended friday at <NUM> <COMMA> just <NUM> points from its record <PUNC>
+see <PUNC> stocks up for week <PUNC> s&p <NUM> near record <PUNC>
+<PAR>

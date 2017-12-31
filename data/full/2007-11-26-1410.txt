@@ -1,0 +1,6 @@
+futures for the dow jones industrial average dji rose <NUM> points to <NUM> and those for the s&p <NUM> index spx gained <NUM> points to <NUM> <PUNC>
+nasdaq <NUM> rose <NUM> points to <NUM> <PUNC>
+on friday <COMMA> u.s. stocks rallied in a shortened session <COMMA> with the dow industrials adding <NUM> points <PUNC>
+on the financial front <COMMA> hsbc holdings hbc said it would move two of its structured investment vehicles onto its balance sheet and provide up to dollar <NUM> billion in funding <PUNC>
+the move comes as citigroup c is under pressure in some quarters to move dollar <NUM> billion in off-balance sheet securities onto its balance sheet <COMMA> according to a report in the wall street journal on monday <PUNC>
+<PAR>

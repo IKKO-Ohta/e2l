@@ -1,0 +1,3 @@
+after declining the last four sessions <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> in the early going <COMMA> with <NUM> of its <NUM> components posting initial gains <PUNC>
+discussions between walt disney co. dis and hong kong officials are under way over the possible expansion of hong kong disneyland <COMMA> which may include adding attractions that would be unique to the hong kong venue <COMMA> the wall street journal reported <PUNC>
+<PAR>

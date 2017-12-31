@@ -1,0 +1,3 @@
+u.s. stocks opened lower tuesday <COMMA> with the dow industrials extending losses into a fifth day <COMMA> as greece s struggle to form a government intensified worry about the region s debt <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components down <PUNC>
+<PAR>

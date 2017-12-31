@@ -1,0 +1,9 @@
+history never repeats itself <PUNC> but it often rhymes <COMMA> mark twain once said <PUNC>
+that s also what many traders and market watchers were left to ponder as the dow industrials slid more than <NUM> points on friday <COMMA> which marked the 20th anniversary of black monday <PUNC>
+on monday <COMMA> oct. <NUM> <COMMA> <NUM> <COMMA> the dow jones industrial average dji <PUNC> - slid some <NUM> points <COMMA> in a broad movement of panic selling which also came on the heels of a big sell-off the preceding friday <PUNC>
+on friday <COMMA> the dow saw its losses accelerate in afternoon trade before finishing down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the pain was just as bad in the broader market <COMMA> with the s&p <NUM> index losing <NUM> percent and the tech-heavy nasdaq composite - down <NUM> percent <PUNC>
+for the week <COMMA> the dow lost <NUM> percent <COMMA> the s&p fell <NUM> percent and the nasdaq slumped <NUM> percent <PUNC>
+but as ugly as the day s performance was <COMMA> it still paled in comparison with the dow s <NUM> percent point drop on the friday preceding black monday <PUNC>
+and that day s <NUM> point-drop represented a <NUM> percent plunge for a dow that hovered above <NUM> back then <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji was recently off <NUM> points at <NUM> <COMMA> which would represent a gain of <NUM> percent for the week <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+one of the dow s bright spots was hewlett-packard hpq <COMMA> up <NUM> percent following its upgrade to overweight from equal-weight by morgan stanley <PUNC>
+on thursday <COMMA> further worries about the financial sector hit stocks <COMMA> with the dow falling <NUM> points <COMMA> marking its sixth down day in the past seven sessions <PUNC>
+<PAR>

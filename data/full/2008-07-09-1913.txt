@@ -1,0 +1,6 @@
+the slide halted a failed attempt by the dow industrials to extend the blue-chip index s largest jump in nearly a month <COMMA> with a mild rise in oil prices helping offset cheer over alcoa inc. s better-than-forecast results <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components losing ground <COMMA> the losses recently led by intel corp. intc <COMMA> off <NUM> percent <PUNC>
+american express co. axp was among the bigger laggards <COMMA> its stock off <NUM> percent <PUNC>
+alcoa axp <COMMA> among the stocks to offer limited support much of the day <COMMA> lost steam along with the broader market <COMMA> with the aluminum producer s stock off <NUM> percent after alcoa s earnings report late tuesday <PUNC>
+energy shares such as exxon mobil corp. xom and valero energy corp. vlo fell <PUNC>
+<PAR>

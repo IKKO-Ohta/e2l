@@ -1,0 +1,10 @@
+u.s. stocks traded higher thursday <COMMA> with the dow jones industrial average hitting a new record high after consumer-price inflation eased last month <COMMA> but bellwether applied materials weighed on technology stocks after earnings missed expectations and it lowered its outlook for the current quarter <PUNC>
+the dow jones industrial average dji rose <NUM> points at midday to <NUM> <COMMA> a new all-time intraday record high <PUNC>
+boeing co. ba was the best performer on the dow <COMMA> gaining <NUM> percent to dollar <NUM> <PUNC>
+it rose <NUM> percent wednesday after a report that the company may see dollar <NUM> billion more in jet business in the near term <PUNC>
+amid broad weakness in technology stocks <COMMA> even dow component intel intc dropped <NUM> cents to dollar <NUM> <COMMA> as investors shrugged off an announcement that it will raise its quarterly dividend by <NUM> percent <PUNC>
+pfizer inc. pfe rose <NUM> cents to dollar <NUM> <PUNC>
+the company said results of a new analysis showed that patients who have heart disease and chronic kidney disease and took <NUM> mg lipitor tablets reduced their risk of heart attack and stroke by <NUM> percent compared with patients taking a <NUM> mg dose <PUNC>
+citigroup inc. c gained <NUM> cents to dollar <NUM> <PUNC>
+after news that guangdong development bank on thursday chose it as the preferred bidder to buy a stake and operate the mid-sized chinese bank <PUNC>
+<PAR>

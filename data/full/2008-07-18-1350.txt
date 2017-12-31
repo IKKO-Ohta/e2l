@@ -1,0 +1,6 @@
+citigroup c reported a quarterly loss of <NUM> cents a share versus consensus estimates of <NUM> cents <PUNC>
+the dow jones industrial average dji fell <NUM> points in early trades to <NUM> <COMMA> erasing its mild gains within minutes following the market s open <PUNC>
+and software juggernaut microsoft msft late thursday reported double-digit second-quarter profit growth but saw its shares come under pressure in after-hours trade on a disappointing outlook for the current quarter <PUNC>
+stocks rallied for the second day thursday <COMMA> with the dow jones industrial average dji gaining <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <PUNC>
+that gave the blue-chip index a gain of <NUM> points since wednesday s opening bell <COMMA> its biggest two-day point gain since last november <PUNC>
+<PAR>

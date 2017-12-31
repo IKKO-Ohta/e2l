@@ -1,0 +1,6 @@
+the dow jones industrial average dji was recently down <NUM> points at <NUM> <COMMA> after earlier rising by over <NUM> points to a morning high of <NUM> <PUNC>
+among blue chips <COMMA> citigroup c rose <NUM> percent after saying it planned to roughly double its china branch network in 2007.. and boeing co. ba gained <NUM> percent after colombia s largest airline <COMMA> avianca sa <COMMA> said it would buy <NUM> of boeing s <NUM> dreamliner aircraft. <PUNC>
+intel intc was flat after saying it would make design changes to boost microchip performance <COMMA> including adopting techniques from rival advanced micro devices amd <PUNC>
+amd fell <NUM> percent <PUNC>
+amid telecom shares <COMMA> at&t inc. t <COMMA> verizon communications inc. vz and qwest communications international inc. q were in focus after the federal government on thursday selected the companies to compete for government contracts worth up to dollar <NUM> billion over <NUM> years <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+new york dow jones - u.s. stocks are gearing up for a higher opening friday <COMMA> with likely strong gains for the dow jones industrial average due to upgrades for intel and exxonmobil <PUNC>
+the december futures contract for the dow jones industrials was up <NUM> points at <NUM> <PUNC>
+the futures contracts for the s&p <NUM> and the nasdaq <NUM> were up <NUM> points at <NUM> <COMMA> and <NUM> points at <NUM> <COMMA> respectively <PUNC>
+intel intc rose <NUM> percent to dollar <NUM> before the bell after getting an upgrade to neutral from underperform from cs first boston <COMMA> which said the stock price now adequately discounts concerns over declining market share and eroding average selling prices <PUNC>
+deutsche bank upgraded exxon mobil corp. xom to buy from hold and raised its price target to dollar <NUM> <COMMA> giving the stock a <NUM> percent lift to dollar <NUM> in premarket action <PUNC>
+the broker said that rex tillerson taking over as chief executive in <NUM> could be a key catalyst <PUNC>
+<PAR>

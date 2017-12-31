@@ -1,0 +1,4 @@
+u.s. stock indexes dropped sharply wednesday <COMMA> with the dow industrials hammered in their worst single-day hit in nearly seven weeks <COMMA> as italy s borrowing costs shot up to levels seen as unsustainable <COMMA> further worsening europe s credit mess <PUNC>
+after falling <NUM> points <COMMA> the dow jones industrial average dji finished with a loss of <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> its biggest single-day drop since sept. <NUM> <COMMA> when it fell <NUM> points <COMMA> or <NUM> percent <PUNC>
+all of its <NUM> components closed lower <COMMA> led by a <NUM> percent drop in j.p.morgan chase & co. jpm shares <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the dow jones industrial average eked out another record close on wednesday <COMMA> but a late selloff cost the s&p <NUM> a fresh mark <PUNC>
+the s&p <NUM> spx erased earlier gains and closed down less than a point at <NUM> in the christmas holiday-shortened session <COMMA> ending its five-day winning streak <PUNC>
+but the dow jones industrial average dji eked out a 6-point gain to <NUM> <COMMA> closing at a record level for the 37th time this year <PUNC>
+the dow closed above <NUM> for the first time ever on tuesday <PUNC>
+over the past five sessions <COMMA> the dow industrials rose <NUM> percent for their best five-day run before christmas in since <NUM> <COMMA> when the dow rose <NUM> percent <PUNC>
+the dow at <NUM> before the end of <NUM> is extremely encouraging <COMMA> considering the so-called january effect or the idea that markets will rally even more when we get in to <NUM> <COMMA> as investors pile back in to the equity market <COMMA> said neal gilbert <COMMA> senior market analyst <COMMA> at forex.com <COMMA> in a tuesday note <PUNC>
+the dow at <NUM> by february may be a stretch <COMMA> but not entirely out of reach <COMMA> said gilbert <PUNC>
+<PAR>

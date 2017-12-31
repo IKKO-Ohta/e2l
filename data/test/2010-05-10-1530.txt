@@ -1,0 +1,6 @@
+scaling back from its roughly 450-point rise <COMMA> the dow jones industrial average dji was up about <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but one of its <NUM> components on the rise <PUNC>
+among the dow s more noteworthy gainers <COMMA> boeing co. ba <COMMA> rose <NUM> percent after goldman sachs group inc. hiked from neutral to conviction buy shares of the commercial-aircraft manufacturer <PUNC>
+the sole laggard among the dow s <NUM> <COMMA> giant retailer wal-mart stores inc. wmt shares were off <NUM> percent <PUNC>
+the dow declined <NUM> percent last week <PUNC>
+the manic period reached its most crazed point on thursday when the dow fell nearly <NUM> points before recovering more than half of the loss before the final bell <PUNC>
+<PAR>

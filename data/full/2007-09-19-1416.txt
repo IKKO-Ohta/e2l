@@ -1,0 +1,2 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by caterpillar inc. cat <COMMA> up <NUM> percent <COMMA> and honeywell international inc. hon <COMMA> ahead <NUM> percent <PUNC>
+<PAR>

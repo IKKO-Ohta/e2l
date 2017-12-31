@@ -1,0 +1,5 @@
+the dow jones industrial average dji closed near session highs <COMMA> adding <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the blue-chip index gained <NUM> percent over the past week <COMMA> ending a two-week losing streak <PUNC>
+the s&p <NUM> spx closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> and recorded a <NUM> percent weekly gain after three straight weeks of losses <PUNC>
+the nasdaq composite rixf ended the day <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <COMMA> gaining <NUM> percent for the week <PUNC>
+<PAR>

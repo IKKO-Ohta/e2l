@@ -1,0 +1,3 @@
+down more than <NUM> points earlier on <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving it a monthly loss of <NUM> percent <COMMA> its worst percentage decline for a january since <NUM> <COMMA> when it fell <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> ended higher <COMMA> led by home depot inc. hd <COMMA> up <NUM> percent <COMMA> and american express co. axp up <NUM> percent <PUNC>
+<PAR>

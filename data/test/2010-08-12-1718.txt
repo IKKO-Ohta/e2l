@@ -1,0 +1,8 @@
+the dow jones industrial average dji gave up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> pushing deeper into the red for the year along with other major u.s. market measures <PUNC>
+the slump in u.s. stocks follows stock declines in asia and europe as a stream of weakening economic measures have reignited fears of a double-dip recession <PUNC>
+the latest economic snapshots showed u.s. weekly jobless claims unexpectedly rose and euro-zone industrial production fell <PUNC>
+cisco csco <COMMA> a technology bellwether seen as a proxy for broad corporate spending <COMMA> reported revenue that fell short of forecasts and offered a gloomy sales outlook <PUNC>
+the dow fell as much as <NUM> points early in thursday s session before recovering some ground by midday <COMMA> but it is still down nearly <NUM> percent for the week <PUNC>
+all three major stock indexes were weighed down by a <NUM> percent drop in cisco <COMMA> which was the worst performer in the dow and the s&p <NUM> <PUNC>
+other technology stocks fell in sympathy with cisco <COMMA> making the technology sector the worst category in the s&p <NUM> and driving the tech-heavy nasdaq s underperformance <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx up <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf up <NUM> points at <NUM> <PUNC>
+<PAR>

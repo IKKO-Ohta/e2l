@@ -1,0 +1,3 @@
+the blue-chip dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with <NUM> of its <NUM> components in positive terrain <PUNC>
+aluminum producer alcoa inc. aa was the biggest decliner in the dow <COMMA> falling <NUM> percent <PUNC>
+<PAR>

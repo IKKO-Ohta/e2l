@@ -1,0 +1,12 @@
+u.s. stocks closed mixed on monday <COMMA> although the dow jones industrial average managed to set another new high <COMMA> after dow component alcoa inc. s dollar <NUM> billion bid for rival alcan inc. and other merger news lifted spirits <PUNC>
+the dow jones industrial average dji rose <NUM> points to close at <NUM> <COMMA> marking its first close above <NUM> <PUNC>
+it was the 24th gain in <NUM> trading sessions for the dow <PUNC>
+prominent dow components gaining ground included boeing co. ba <COMMA> aig aig and united technologies corp. utx <PUNC>
+the blue-chip average matched an 80-year record for the longest streak <PUNC>
+the last time the dow rose <NUM> out of <NUM> sessions was in <NUM> <PUNC>
+leading the gains among blue chips monday <COMMA> alcoa aa rose <NUM> percent <PUNC>
+the aluminum giant has offered dollar <NUM> a share <COMMA> or dollar <NUM> billion <COMMA> in cash and stock for canada s alcan al <PUNC>
+the offer represents a <NUM> percent premium to alcan s average closing price over the past <NUM> days <PUNC>
+weighing on technology shares on the nasdaq <COMMA> yahoo inc. yhoo was the most heavily traded stock <COMMA> losing <NUM> percent <PUNC>
+a report late friday said microsoft corp. msft was no longer holding talks about a possible merger with yahoo <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+the dow jones industrial average rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components tallying opening gains <COMMA> led by american express axp <COMMA> up <NUM> percent after the credit card giant s late thursday report of a less-than-forecast first-quarter profit drop <PUNC>
+<PAR>

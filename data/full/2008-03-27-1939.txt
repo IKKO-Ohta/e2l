@@ -1,0 +1,9 @@
+the dow jones industrial average dji was recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
+decliners on the dow included most technology issues <COMMA> such as hewlett-packard hpq <COMMA> ibm ibm <COMMA> intel intc and microsoft msft <PUNC>
+u.s. stocks dropped on wednesday <COMMA> with worries over a decline in durable-goods orders and worries that the long-pending clear channel deal had hit a roadblock combining to hit stocks <PUNC>
+the dow industrials lost <NUM> points <COMMA> the nasdaq composite shed <NUM> points and the s&p <NUM> fell <NUM> points <PUNC>
+elsewhere <COMMA> shares of general electric ge rose <NUM> percent <PUNC>
+the company said it had reached separate deals with american express axp and banco santander std <COMMA> getting dollar <NUM> billion in cash and an italian banking operation in return for selling its corporate card business and various european personal finance units <PUNC>
+children s place plce said its hoop holdings division filed for chapter <NUM> bankruptcy as it seeks to sell more of its disney store business to walt disney co. dis <PUNC>
+hoop designs <COMMA> contracts to produce <COMMA> and sells merchandise under the disney store brand name via a license from walt disney <PUNC>
+<PAR>

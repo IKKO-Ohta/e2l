@@ -1,0 +1,6 @@
+the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
+among the biggest losers on wednesday were transportation stocks and cyclical shares <COMMA> including heavy industrials <COMMA> which sold off on worries that high energy prices will cut into their profits <PUNC>
+early thursday the dow jones transportation index <NUM> was off <NUM> at 4.155.69 <PUNC>
+dow component international business machines ibm shook off preopening losses to trade <NUM> percent higher at dollar <NUM> <PUNC>
+the company will buy california software developer filenet file for dollar <NUM> billion <PUNC>
+<PAR>

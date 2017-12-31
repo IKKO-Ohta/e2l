@@ -1,0 +1,5 @@
+the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
+futures contracts for the s&p <NUM> and the nasdaq <NUM> were down <NUM> point at <NUM> and down <NUM> point at <NUM> <PUNC>
+mcdonald s mcd <COMMA> a dow component <COMMA> is likely to be active tuesday <PUNC>
+the fast food retailer said worldwide same-store sales rose <NUM> percent in october <COMMA> with u.s. same-store sales racking up a <NUM> percent gain <PUNC>
+<PAR>

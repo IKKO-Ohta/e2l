@@ -1,0 +1,6 @@
+off its earlier lows <COMMA> the dow jones industrial average dji was down <NUM> points at midday to <NUM> <COMMA> with all <NUM> of its components trading in the red <PUNC>
+the blue-chip bleeding was fronted by american international group aig <COMMA> off nearly <NUM> percent in the aftermath of the insurance giant reporting the largest loss in its almost <NUM> years in business <PUNC>
+<PAR>
+outside the dow industrials <COMMA> dell inc. dell fell nearly <NUM> percent after the pc maker reported fourth-quarter profits fell <NUM> percent from a year ago <PUNC>
+the tech sector was among those retreating <COMMA> with declines coming from bellwethers including hewlett-packard co. hpq and ibm corp. ibm <PUNC>
+<PAR>

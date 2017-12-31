@@ -1,0 +1,8 @@
+the dow jones industrial average dji gained <NUM> points to close at <NUM> and rose <NUM> percent for the week <PUNC>
+the s&p <NUM> spx rose <NUM> points to <NUM> <PUNC>
+the broad index gained <NUM> percent for the week <COMMA> its best weekly gain in four years <PUNC>
+general motors corp. gm jumped <NUM> percent as market rumors swirled about potential bidders for daimlerchrysler dcx unit chrysler <COMMA> reducing the likelihood that gm might bid for its rival <PUNC>
+dow component citigroup inc. c was also in focus <PUNC>
+according to the wall street journal <COMMA> a faction within the bank is calling for it to make a bid for abn amro abn <COMMA> the dutch bank holding merger talks with barclays plc <PUNC>
+bcs <PUNC>
+we ve had a good week with four up days in a row for the dow <COMMA> said art hogan <COMMA> chief market strategist at jefferies & co. but this is friday and ... no one wants to hold long positions over the weekend <PUNC>

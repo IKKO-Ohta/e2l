@@ -1,0 +1,3 @@
+u.s. stocks rallied tuesday <COMMA> with the dow industrials poised for their biggest point gain in nearly eight weeks <COMMA> as investors found reason for cheer after may retail sales topped estimates and best buy co. also beat quarterly profit and sales expectations <PUNC>
+poised for its best daily point gain since an <NUM> point rise on april <NUM> <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but five of its <NUM> components rising <PUNC>
+<PAR>

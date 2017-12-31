@@ -1,0 +1,4 @@
+the futures contract for the dow jones industrial average dji last was <NUM> points higher at <NUM> <PUNC>
+stocks finished on a mixed note thursday <COMMA> after the federal reserve held interest rates at <NUM> percent for the eighth straight time and said it wasn t persuaded that inflation s entirely under control <PUNC>
+the dow industrials fell <NUM> points and the s&p <NUM> declined <NUM> of a point <COMMA> while the nasdaq composite rose <NUM> points <PUNC>
+<PAR>

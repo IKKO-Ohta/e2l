@@ -1,0 +1,2 @@
+up <NUM> percent on the week <COMMA> the dow jones industrial average dji advanced as much as <NUM> points <COMMA> and was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with insurer travelers cos. inc. trv leading the pack <COMMA> up <NUM> percent <PUNC>
+<PAR>

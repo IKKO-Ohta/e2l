@@ -1,0 +1,7 @@
+u.s. stocks rallied on tuesday <COMMA> with the dow industrials closing within striking distance of <NUM> and at its highest level since may <COMMA> as u.s. economic data and japan s bid to spur its economy energized wall street <PUNC>
+the dow jones industrial average dji climbed <NUM> points to end at <NUM> <COMMA> its highest close since may <NUM> <PUNC>
+the blue-chip index <COMMA> which last closed above <NUM> also on may <NUM> <COMMA> was lifted by all but one of its <NUM> components <COMMA> led by a <NUM> percent gain in shares of boeing ba <PUNC>
+american express co. axp was the dow s sole laggard <COMMA> its shares off for a second day <COMMA> down <NUM> percent <PUNC>
+its shares slid <NUM> percent monday after the credit-card company declined to join visa inc. v and mastercard inc. ma in agreeing to let merchants direct customers to less costly forms of plastic <PUNC>
+on monday <COMMA> the dow fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its largest point and percentage drop in nearly a month <PUNC>
+<PAR>

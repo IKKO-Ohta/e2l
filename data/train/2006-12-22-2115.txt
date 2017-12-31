@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+most blue-chips stocks opened lower straight out of the gate <COMMA> with home depot inc. hd the only rising issue in recent action <PUNC>
+microsoft corp. msft was among the most actively traded stocks <COMMA> losing <NUM> percent after it announced it had extended the warranty on its xbox <NUM> video-game console to one year from <NUM> days in the u.s. and canada <PUNC>
+another sign of the market s concerns about growth was continued weakness in transportation stocks <COMMA> which are seen as leading indicators of the economic outlook <PUNC>
+the dow jones transporation average <NUM> fell <NUM> percent on friday <COMMA> marking a <NUM> percent drop for the week <COMMA> led lower by the likes of freight transporter c.h <PUNC>
+robinson worldwide inc. chrwd and parcel specialists fedex corp. fdx and united parcel service inc. ups <PUNC>
+<PAR>

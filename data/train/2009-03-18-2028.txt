@@ -1,0 +1,4 @@
+after soaring nearly <NUM> points in the wake of the fed move <COMMA> the dow jones industrial average ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+the s&p <NUM> index gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after running past the 800-level for the first time since feb. <NUM> <PUNC>
+the nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to 1,491.22. <PUNC>
+<PAR>

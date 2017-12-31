@@ -1,0 +1,8 @@
+u.s. stocks closed modestly higher tuesday <COMMA> allowing the dow jones industrial average to score its eighth straight higher close for the first time in four years <PUNC>
+the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> taking its eighth higher close in a row for the first time since march <COMMA> <NUM> <PUNC>
+coca cola co. ko <COMMA> exxon mobil corp. xom <COMMA> and intel corp. intc led the gains <COMMA> while hewlett packard co. hpq was the biggest decliner on the dow <PUNC>
+among blue chips <COMMA> alcoa aa rose <NUM> percent before its results after the close <PUNC>
+alcoa was the best performing dow component during the first quarter <COMMA> and analysts expect the company to have reported a rise in adjusted earnings per share <PUNC>
+citigroup c rose <NUM> percent ahead of a presentation on wednesday on job cuts <PUNC>
+the new york times reported that the bank will cut or reassign <NUM> positions <PUNC>
+<PAR>

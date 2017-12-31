@@ -1,0 +1,5 @@
+u.s. stocks rallied thursday <COMMA> with the dow jones industrial average tapping a new all-time high <COMMA> after a string of upbeat earnings reports led by mcdonald s corp <COMMA> costco wholesale corp. and yum brands <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <COMMA> just off an all-time high of <NUM> <PUNC>
+gains for mcdonald s corp. mcd <COMMA> boeing co. ba <COMMA> intel corp. intc and microsoft corp. msft spurred the advance <PUNC>
+shares in mcdonald s corp. mcd rose <NUM> percent to dollar <NUM> after reporting strong september sales and offering up an upbeat third-quarter profit view <PUNC>
+<PAR>

@@ -1,0 +1,12 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in positive territory <PUNC>
+merck mrk almost single-handedly lifted the dow <PUNC>
+its shares were up <NUM> percent after it lifted its profit forecast for the year <COMMA> citing strong performance across its product lines and sparking a goldman sachs upgrade of the stock <PUNC>
+meanwhile <COMMA> shares of intel corp. intc <COMMA> microsoft corp. msft and ibm ibm weighed on the dow <PUNC>
+general electric co. ge rose <NUM> percent after the bellwether s first-quarter results came in line with analysts expectations <PUNC>
+ge also reaffirmed its earnings guidance for <NUM> <PUNC>
+mcdonald s corp. mcd gained <NUM> percent <PUNC>
+the company said worldwide same-store sales rose <NUM> percent and said it expects first-quarter earnings of <NUM> cents <COMMA> including a 1-cent gain from foreign currency translation <PUNC>
+analysts polled by thomson financial on average expect first-quarter earnings of <NUM> cents per share <PUNC>
+analysts estimates usually exclude items <PUNC>
+among oil majors <COMMA> exxon mobil corp. xom still rose slightly <PUNC>
+<PAR>

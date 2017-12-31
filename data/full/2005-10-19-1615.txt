@@ -1,0 +1,9 @@
+the dow jones industrial average dji fell back from a brief foray into positive territory that took the benchmark index to a session high of <NUM> <PUNC>
+semiconductor stocks sox were under pressure in midday trading after sector giant intel corp intc posted solid third-quarter earnings <COMMA> but offered a fourth-quarter revenue outlook where the mid-point of the range was slightly shy of analyst expectations <PUNC>
+the company <COMMA> a dow component <COMMA> fell as much as <NUM> percent in early trading to sit at a six-month low intraday of dollar <NUM> <PUNC>
+j.p. morgan jpm <COMMA> another dow component <COMMA> saw its shares rise as much as <NUM> cents to dollar <NUM> <COMMA> helping limit the downside on the blue-chip index <PUNC>
+the investment bank posted a forecast-beating <NUM> percent rise in adjusted earnings and announced that jamie dimon will take over as chief executive officer of the company six months early <PUNC>
+shares in honeywell international inc. hon fell as much as <NUM> percent to their lowest level in nearly a year after the company posted quarterly revenue that fell short of wall street expectations <PUNC>
+altria mo shares meanwhile gained as much as a dollar <NUM> to dollar <NUM> as the company s philip morris usa tobacco business saw its retail share climb above <NUM> percent <PUNC>
+outside the dow <COMMA> yahoo inc. shares yhoo climbed to a three-month high of dollar <NUM> as a surge in revenue from online advertising and internet services helped offset a quarterly profit that was nearly unchanged from a year ago <PUNC>
+<PAR>

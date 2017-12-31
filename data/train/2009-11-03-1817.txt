@@ -1,0 +1,4 @@
+word of the deal boosted the dow jones transportation average djt <COMMA> up <NUM> percent lately <COMMA> as well as individual shares of other railways <PUNC>
+about <NUM> points off early lows <COMMA> the dow jones industrial average dji was recently down <NUM> points at <NUM> <PUNC>
+also lower <COMMA> the s&p <NUM> index spx fell <NUM> points at <NUM> as the nasdaq composite index rixf declined <NUM> points to <NUM> <PUNC>
+<PAR>

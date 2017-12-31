@@ -1,0 +1,7 @@
+u.s. stocks rose monday <COMMA> with the dow up triple digits <COMMA> marking its fourth consecutive day of gains <COMMA> amid cheer ahead of tuesday s expected interest-rate cut and financial shares getting a lift from a hefty investment in swiss banking giant ubs ag <PUNC>
+up about <NUM> points earlier on <COMMA> the dow jones industrial average dji finished <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of the blue-chip index s <NUM> components closing ahead <COMMA> led by caterpillar inc. cat <COMMA> up <NUM> percent <PUNC>
+the dow s financial shares also gained <COMMA> with j.p. morgan chase jpm up <NUM> percent <COMMA> and citigroup inc. c up <NUM> percent <PUNC>
+elsewhere on the dow <COMMA> shares of mcdonald s corp. mcd gained <NUM> percent after the fast-food chain reported an <NUM> percent jump in global sales at restaurants open a year or more <PUNC>
+<PAR>
+blue-chip laggards included at&t inc. t <COMMA> which slid <NUM> percent <COMMA> boeing co. ba <COMMA> which closed <NUM> percent lower <COMMA> and pfizer inc. pfe <COMMA> off <NUM> percent <PUNC>
+<PAR>

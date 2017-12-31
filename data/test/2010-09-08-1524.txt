@@ -1,0 +1,4 @@
+within reach of clearing away its red ink for the year <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with all but three of its <NUM> components rising <PUNC>
+business-software titan oracle corp. orcl is offering the ousted hewlett-packard co. hpq ceo mark hurd a salary of dollar <NUM> and a bonus of as much as dollar <NUM> million for fiscal <NUM> <COMMA> plus stock options <COMMA> according to a regulatory filing wednesday <PUNC>
+h-p on tuesday filed suit in an effort to block hurd from joining oracle <COMMA> its rival in the server computer market <COMMA> as a co-president <PUNC>
+<PAR>

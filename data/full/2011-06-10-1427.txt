@@ -1,0 +1,8 @@
+u.s. stocks accelerated their declines friday <COMMA> with the benchmark indexes headed towards a sixth consecutive week of losses <COMMA> which would translate into the longest stretch for the dow average since <NUM> <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> led by a <NUM> percent drop in travelers co. trv shares after the insurer said it was slowing its share buyback program after natural disasters cost the company about dollar <NUM> billion in april and may <PUNC>
+the dow briefly touched the psychologically key level <NUM> <PUNC>
+all components were lower <PUNC>
+for the week <COMMA> the benchmarks have lost more than <NUM> percent <PUNC>
+the last time the dow had six straight weeks of losses was in october <NUM> <PUNC>
+the s&p <NUM> last notched six weeks of losses in july <NUM> <PUNC>
+<PAR>

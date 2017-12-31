@@ -1,0 +1,4 @@
+the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+citigroup inc. s c shares fell <NUM> percent after the bank reported a profit rise that came in under estimates and bank of america corp. bac lost <NUM> percent after the lender reported a <NUM> percent decline in profit <PUNC>
+boeing co. ba shares retreated after u.s. regulators ordered its global fleet of <NUM> dreamliners grounded after one of the planes made an emergency landing <COMMA> the latest in a series of mishaps <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average scaled back from what had been a triple-digit drop dji following the report by the institute for supply management <COMMA> which said its manufacturing index accelerated in february <COMMA> rising to <NUM> percent from <NUM> percent the month before <PUNC>
+read more on ism <PUNC> <PUNC>
+after tumbling <NUM> points and rising <NUM> <COMMA> the dow industrials were last up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

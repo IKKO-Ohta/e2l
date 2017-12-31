@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+unitedhealth group inc. unh performed best among dow components and provided a boost to the blue-chip index after deutsche bank upgraded the company on tuesday to buy from hold <PUNC>
+the dow moved near to its own dec. <NUM> record close of <NUM> <PUNC>
+<PAR>

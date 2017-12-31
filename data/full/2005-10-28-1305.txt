@@ -1,0 +1,5 @@
+the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
+futures contracts for the s&p <NUM> and the nasdaq <NUM> were up <NUM> points at <NUM> and up <NUM> points at <NUM> <PUNC>
+shares of dow component microsoft msft were up <NUM> cents at dollar <NUM> in premarket trade <PUNC>
+the software giant had a <NUM> percent increase in first-quarter profit <COMMA> although it issued a weak forecast <PUNC>
+<PAR>

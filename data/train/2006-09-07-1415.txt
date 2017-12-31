@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+procter & gamble pg tacked on <NUM> cents at dollar <NUM> <PUNC>
+the consumer products maker was upgraded to buy from neutral at suntrust robinson humphrey <COMMA> which cited increasing optimism over current business trends and the gillette acquisition following a recent meeting with management <PUNC>
+<PAR>

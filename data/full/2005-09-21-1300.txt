@@ -1,0 +1,5 @@
+the dow jones industrial average dji ended down <NUM> points at <NUM> <COMMA> while the s&p <NUM> spx fell <NUM> to <NUM> <PUNC>
+the nasdaq composite rixf fell <NUM> points to <NUM> <PUNC>
+merrill lynch upgraded intel inc. intc to buy from neutral <COMMA> due primarily to relative valuation <PUNC>
+while the broker is still concerned about excess manufacturing capacity and competitive pressure from advanced micro devices amd <COMMA> it noted that the stock has fallen about <NUM> percent since the middle of july <COMMA> vs. a virtually flat performance by the philadelphia exchange semiconductor index sox <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji was sitting just off its high for the session <COMMA> up <NUM> points at <NUM> <PUNC>
+citigroup inc. c was up <NUM> cents at dollar <NUM> in morning trading <PUNC>
+the french magazine le nouvel observateur reported that a large u.s. bank has contacted the french government about the possibility of making an offer for a bank in that country <PUNC>
+the magazine believes it to be citigroup <COMMA> with shares of societe generale moving higher in paris <PUNC>
+<PAR>

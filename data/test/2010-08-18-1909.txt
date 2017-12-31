@@ -1,0 +1,5 @@
+the dow industrials dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components gaining <COMMA> led by home depot inc. hd <COMMA> up <NUM> percent <PUNC>
+the home-improvement retailer was also the dow s best performer on tuesday after it reported earnings that fueled hopes that consumer spending might not be as soft as feared <PUNC>
+the move higher comes in the wake of investors first display of enthusiasm for equities in two weeks <COMMA> which had the dow industrials up more than <NUM> points on tuesday after home depot and wal-mart stores inc. wmt reported upbeat results <PUNC>
+oil giant exxon mobil corp. xom paced blue-chip decliners <COMMA> off <NUM> percent after u.s. oil company kosmos energy said it canceled a deal to sell its stake in an oil field in ghana to exxon in the face of strong opposition within the west african nation <PUNC>
+<PAR>

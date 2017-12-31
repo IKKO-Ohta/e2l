@@ -1,0 +1,8 @@
+the s&p <NUM> spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> not far from the all-time closing high of <NUM> set early last week <PUNC>
+the dow jones industrial average dji shook off earlier weakness to advance <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+among blue chips <COMMA> shares of visa inc. v <COMMA> down <NUM> percent <COMMA> and du pont dd <COMMA> down <NUM> percent <COMMA> were the biggest losers <PUNC>
+dupont had gained ground last week after it said it would spin off its performance chemicals unit to existing shareholders <PUNC>
+fellow dow component johnson & johnson jnj fell <NUM> percent after the company said it would pay around dollar <NUM> billion to settle a justice department probe into the marketing of antipsychotic drug riperdal <PUNC>
+the company will plead guilty to a misdemeanor <COMMA> officials said <PUNC>
+exxon mobil corp. xom was the dow s top gainer <COMMA> advancing <NUM> percent and tracking gains in the energy sector <PUNC>
+<PAR>

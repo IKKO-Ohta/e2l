@@ -1,0 +1,10 @@
+the nasdaq composite rixf closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+the biggest component on the index <COMMA> apple inc. aapl <COMMA> gained <NUM> percent to dollar <NUM> <PUNC>
+the s&p <NUM> index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+shares of at&t t fell <NUM> percent after the telecom giant agreed to buy satellite-television provider directv ticker:dtv in a stock-and-cash deal worth dollar <NUM> billion <COMMA> including debt <PUNC>
+directv shares also fell <NUM> percent <PUNC>
+u.s.-listed shares of astrazeneca azn dropped <NUM> percent after the drug maker again rebuffed pfizer s final offer of gbp55 a share dollar <NUM> saying it undervalues the company <PUNC>
+the offer values astrazeneca at about dollar <NUM> billion <COMMA> while the previous offer of gbp50-a-share put the deal at about dollar <NUM> billion <PUNC>
+pfizer pfe shares were up <NUM> percent <PUNC>
+<PAR>

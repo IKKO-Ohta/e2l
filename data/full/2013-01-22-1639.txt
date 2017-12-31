@@ -1,0 +1,8 @@
+the dow jones industrial average dji held steady at <NUM> <PUNC>
+among individual stock movers <COMMA> boeing co. ba slid <NUM> percent after the aerospace manufacturer stopped deliveries of its <NUM> dreamliner that s been grounded by regulators looking into whether its batteries are safe <PUNC>
+verizon communications inc. vz gained <NUM> percent after its chief financial officer said the telecommunications provider might be able to repurchase shares sooner than expected <PUNC>
+johnson and johnson jnj declined <NUM> percent after the largest provider of health-care products offered a full-year forecast beneath estimates <PUNC>
+travelers cos. trv rallied <NUM> percent as the insurer s profit beat estimates <PUNC>
+caterpillar inc. cat slipped <NUM> percent after the heavy-equipment manufacturer said it would take a dollar <NUM> million writedown <COMMA> cutting fourth-quarter earnings <PUNC>
+dupont dd rose <NUM> percent after reporting fourth-quarter profit that exceeded expectations <PUNC>
+<PAR>

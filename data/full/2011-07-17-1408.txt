@@ -1,0 +1,6 @@
+among the companies slated to release results next week are tech giants apple inc. aapl <COMMA> ebay inc. ebay <COMMA> intel corp. intc <COMMA> international business machines corp. ibm <COMMA> microsoft corp. msft and yahoo inc. yhoo <COMMA> along with big financial names including bank of america corp. bac <COMMA> goldman sachs group inc. gs and morgan stanley ms <PUNC>
+several dow components including at&t inc. t <COMMA> caterpillar inc. cat and general electric co. ge are also scheduled for next week <PUNC>
+jensen portfolio invests in <NUM> high-quality companies domiciled in the united states with a 10-year track record of profitability <COMMA> such as 3m co. mmm <COMMA> becton dickinson & co. bdx <COMMA> pepsico inc. pep and procter & gamble co. pg <COMMA> according to mciver <PUNC>
+the dow jones industrial average dji posted a weekly loss of <NUM> percent to <NUM> <PUNC>
+the s&p <NUM> index spx fell <NUM> percent to <NUM> <COMMA> and the nasdaq composite index shed <NUM> percent to <NUM> <PUNC>
+<PAR>

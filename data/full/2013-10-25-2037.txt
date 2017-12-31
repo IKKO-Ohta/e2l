@@ -1,0 +1,5 @@
+pacing gains on the dow jones industrial average dji <COMMA> microsoft msft climbed <NUM> percent <COMMA> a day after the software maker released results that illustrated a solid start to a large revamping of its business <PUNC>
+the dow added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its highest close since sept. <NUM> and leaving it <NUM> percent ahead of last friday s finish <PUNC>
+surpassing its record close set on tuesday <COMMA> the s&p <NUM> index spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a <NUM> percent weekly rise <PUNC>
+both the dow and s&p <NUM> rose for a third consecutive week <PUNC>
+<PAR>

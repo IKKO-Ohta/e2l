@@ -1,0 +1,9 @@
+u.s. stocks on monday sprang back <COMMA> with the dow jones industrial average on track for its largest daily jump ever <COMMA> with shares of general motors corp. buoyed by merger talk amid a widespread global rally after government actions to heal the financial system <PUNC>
+stocks surged at the start <COMMA> and extended their gains in afternoon trade <COMMA> with the dow jones industrial average dji recently ahead <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+auto maker general motors corp. gm led the blue-chip advance <COMMA> its stock up <NUM> percent <PUNC>
+off the dow <COMMA> shares of ford motor co. f gained <NUM> percent amid reports of a possible merger between america s struggling car giants <PUNC>
+<PAR>
+of the dow s <NUM> components <COMMA> just two traded lower <COMMA> with j.p. morgan chase & co. jpm off <NUM> percent and general electric co. ge down <NUM> percent <PUNC>
+rising crude prices helped bolster oil companies <COMMA> with exxon mobil corp. xom and chevron corp. cvx both up <NUM> percent and more <PUNC>
+u.s. stocks closed mostly lower on friday <COMMA> with the dow industrials falling <NUM> points <COMMA> or <NUM> percent <COMMA> for the week <COMMA> its worst ever in its 112-year history <PUNC>
+<PAR>

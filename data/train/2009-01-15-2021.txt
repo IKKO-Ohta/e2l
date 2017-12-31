@@ -1,0 +1,7 @@
+the stock market s late thursday turnaround had the dow jones industrial average snapping its longest losing streak since early october in the wake of lehman brothers holdings inc. s collapse <PUNC>
+on the dow <COMMA> citigroup inc. c and bank of america corp. bac shed an astounding <NUM> percent or more of their market value within the first two hours of trading <PUNC>
+on thursday <COMMA> a triple-digit slide had the dow jones industrial average dji briefly breaching the <NUM> level <COMMA> sliding to an intraday low of <NUM> <PUNC>
+the dow s most recent slide marks the longest losing streak since the eight-day drop that ended oct. <NUM> <PUNC>
+that particular bout of declines ended with the dow rallying more than <NUM> points on monday <COMMA> oct. <NUM> <COMMA> on global government intervention to revive the banking sector <PUNC>
+prior to the october s eight-day run of loses <COMMA> the dow s longest losing streak involved an eight-day drop that ended sept. <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

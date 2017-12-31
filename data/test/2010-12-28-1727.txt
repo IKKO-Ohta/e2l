@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell half a point to <NUM> <COMMA> with <NUM> of its <NUM> components declining <PUNC>
+<PAR>

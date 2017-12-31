@@ -1,0 +1,11 @@
+u.s. stocks were lower on friday <COMMA> sending the dow jones industrial average towards its worst week since april <NUM> <COMMA> with the japanese yen s rally against the dollar and more bad news for mortgage lenders fueling the same anxiety that has sent stocks sliding all week <PUNC>
+we re trying to build a base to retrace the damage from tuesday s decline <COMMA> when the dow jones industrial average fell <NUM> points <COMMA> said michael sheldon <COMMA> market strategist at spencer clarke <PUNC>
+the dow dji zigzagged between positive and negative territory early in the day and was last down <NUM> points at <NUM> <PUNC>
+a full <NUM> of the dow s <NUM> components remained in the red <COMMA> placing the average on track for its worst week in nearly two years <PUNC>
+among the worst performers were financial stocks jp morgan chase & co. jpm <COMMA> citigroup inc. c and american express co. axp <COMMA> along with economically-sensitive issues such as alcoa inc. aa <COMMA> caterpillar inc. cat and dupont dd <PUNC>
+bucking the downward trend <COMMA> american international group <COMMA> inc. aig gained <NUM> percent <PUNC>
+the insurance giant reported a jump in net income and a big share buyback and dividend plan <PUNC>
+for marc pado <COMMA> market strategist at cantor fitzgerald <COMMA> the correction that started on tuesday - when the dow plunged <NUM> points - is not nearly over <PUNC>
+u.s. stock markets declined thursday <COMMA> but finished well off session lows <COMMA> with manufacturing data helping to steady nerves about the broader economy <PUNC>
+the dow industrials dropped <NUM> points <COMMA> the nasdaq composite lost <NUM> points and the s&p <NUM> fell <NUM> points <PUNC>
+<PAR>

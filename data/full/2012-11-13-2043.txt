@@ -1,0 +1,5 @@
+erasing gains <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with microsoft corp. msft pacing dow losses after the software maker said its windows chief was leaving <COMMA> effective immediately <PUNC>
+home depot hd paced the gains that included <NUM> of its <NUM> components after the home-improvement retailer reported profit that topped expectations <PUNC>
+the technology and financial sectors weighed <COMMA> with hewlett-packard co. hpq and citrix systems inc. ctxs among the notable decliners <PUNC>
+shares of mbia inc. mbi fell sharply after bank of america corp. bac offered to buy the insurer s outstanding bonds to block its moves to put space between it and a cash-deprived unit <PUNC>
+<PAR>

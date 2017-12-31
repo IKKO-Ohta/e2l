@@ -1,0 +1,4 @@
+u.s. stocks fell friday <COMMA> with the dow jones industrial average posting its first down week in six <COMMA> after an unexpected drop in the u.s. jobless rate proved a mere blip on the screen for investors focused on europe <PUNC>
+after falling as much as <NUM> points <COMMA> the dow jones industrial average dji ended down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+bank of america corp. bac shares fell <NUM> percent <COMMA> leading declines that included all but five of its <NUM> components <PUNC>
+<PAR>

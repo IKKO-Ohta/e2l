@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+on tuesday <COMMA> it reached an intraday record of <NUM> <PUNC>
+amid broad weakness in technology stocks <COMMA> even dow component intel intc dropped <NUM> cents to dollar <NUM> <COMMA> although it said it will raise its quarterly dividend by <NUM> percent <PUNC>
+pfizer inc. pfe rose <NUM> cents to dollar <NUM> <PUNC>
+the company said results of a new analysis showed that patients who have heart disease and chronic kidney disease and took <NUM> mg lipitor tablets reduced their risk of heart attack and stroke by <NUM> percent compared with patients taking a <NUM> mg dose <PUNC>
+<PAR>

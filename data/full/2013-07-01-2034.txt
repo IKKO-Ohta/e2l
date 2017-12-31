@@ -1,0 +1,4 @@
+the dow jones industrial average dji finished up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> after trading up as much as <NUM> points during the session <PUNC>
+it s the fifth session out of the past <NUM> where the dow has not closed with a triple-digit move <PUNC>
+both the dow industrials and s&p <NUM> have closed higher four out of the past five sessions <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> after the blue-chip index wiped out the bulk of a 117-point intraday drop <PUNC>
+at&t inc. t and verizon communications inc. vz were the biggest losers among blue chips <COMMA> down <NUM> percent and <NUM> percent <COMMA> respectively <COMMA> while cisco systems inc. csco was the biggest winner <COMMA> rising <NUM> percent <PUNC>
+both the dow and the s&p <NUM> snapped two-day winning streaks <PUNC>
+<PAR>

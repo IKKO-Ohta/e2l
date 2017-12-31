@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> while the nasdaq composite rixf added <NUM> points at <NUM> <COMMA> its strongest level in four years <PUNC>
+honeywell hon rose <NUM> percent to dollar <NUM> after merrill lynch upgraded the blue-chip conglomerate to buy from neutral <COMMA> and raised earnings estimates for the company <PUNC>
+but another dow component <COMMA> exxon mobil xom <COMMA> gave up early gains to trade down <NUM> cents at dollar <NUM> <PUNC>
+the oil giant reported a <NUM> percent increase in second-quarter net income but its per-share profit came in a penny shy of analysts expectations as volumes fell more than <NUM> percent on a year-over-year basis <PUNC>
+<PAR>

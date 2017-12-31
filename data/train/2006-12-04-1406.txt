@@ -1,0 +1,9 @@
+the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
+pfizer inc. pfe <COMMA> a component of the dow jones industrial average <COMMA> was <NUM> percent lower at dollar <NUM> in premarket trade <PUNC>
+the drug maker pfizer announced a halt on work on its torcetrapib <COMMA> which was created to raise levels of good hdl cholesterol <COMMA> citing increased deaths and heart problems <PUNC>
+jefferies hogan said that rival drug maker merck & co inc. is likely to benefit from pfizer s latest problem <PUNC>
+merck mrk stock was up <NUM> percent at dollar <NUM> <PUNC>
+before the opening <PUNC>
+home depot inc. hd <COMMA> also in the dow <COMMA> said in a regulatory filing that it has had no discussion about a potential leveraged buyout or recapitalization <PUNC>
+home depot shares rose following reports that two of the largest private-equity firms were preparing a dollar <NUM> billion buyout of the home-improvement giant <PUNC>
+<PAR>

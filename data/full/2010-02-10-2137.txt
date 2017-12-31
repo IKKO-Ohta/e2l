@@ -1,0 +1,8 @@
+the dow jones industrial average dji moved between gains and losses for much of the session before sticking to losses as the session close neared <PUNC>
+the average ended down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+all the dow s financial components posted gains <COMMA> with bank of america corp. bac and j.p. morgan chase & co. jpm up more than <NUM> percent each <PUNC>
+american express & co. axp rose <NUM> percent <COMMA> while travelers cos. trv was up <NUM> percent <PUNC>
+five of the last seven full trading sessions prior to wednesday had seen triple-digit point moves in the dow average <PUNC>
+jitters about any european aid for greece also helped to keep a lid on the market wednesday <PUNC>
+walt disney & co. dis rose <NUM> percent after releasing disappointing first-quarter earnings <COMMA> weighed by declines in its theme-park and consumer units <PUNC>
+<PAR>

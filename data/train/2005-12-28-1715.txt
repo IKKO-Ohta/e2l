@@ -1,0 +1,8 @@
+the dow jones industrials average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of <NUM> components contributing to gains <COMMA> but had been up as much as <NUM> points earlier in the session <PUNC>
+within the dow industrials <COMMA> wal-mart wmt added <NUM> percent and exxon mobil xom tacking on <NUM> percent to pace the gainers <PUNC>
+verizon s vz <NUM> percent skid led the losers <PUNC>
+the curve had inverted on tuesday for the first time in <NUM> years <COMMA> and led to the biggest one-day drop in the dow in <NUM> months <COMMA> as these events usually lead to a recession <PUNC>
+<PAR>
+discount retailing giant target tgt said it sees december same-store sales rising <NUM> percent to <NUM> percent <COMMA> which was in line with prior forecasts <PUNC>
+that follows rival wal-mart s wmt assertion on saturday that december same-store sales would rise in line with previous forecasts of <NUM> percent to <NUM> percent <PUNC>
+<PAR>

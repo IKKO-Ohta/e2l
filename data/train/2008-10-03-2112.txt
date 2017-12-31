@@ -1,0 +1,7 @@
+u.s. stock indexes on friday declined for a third consecutive day <COMMA> with the dow jones industrial average obliterating a more than 300-point gain <COMMA> as fears intensified that the dollar <NUM> billion bank rescue plan won t unfreeze credit markets <PUNC>
+the dow jones industrial average dji hit session highs as house members began to vote <COMMA> rising more than <NUM> points <COMMA> only to scale back as the measure passed <PUNC>
+the dow closed at <NUM> <COMMA> down <NUM> points and tallying a weekly loss of <NUM> percent <PUNC>
+twenty-one of the blue-chip index s components finished in the red <COMMA> with the bleeding led by citigroup inc. c <COMMA> losing <NUM> percent after the surprising announcement that wells fargo & co. wfc would buy wachovia wb <PUNC>
+bank of america corp. bac shed earlier gains to slide <NUM> percent <PUNC>
+merck & co. mrk gained the most <COMMA> up <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <COMMA> <NUM> <PUNC>
+boeing inc. ba <COMMA> part of the dow jones industrial average <COMMA> could advance on news that air berlin plc plans to order more than <NUM> airplanes <PUNC>
+the stock was up <NUM> percent at dollar <NUM> before the opening <PUNC>
+<PAR>

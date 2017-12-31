@@ -1,0 +1,3 @@
+u.s. stocks fell tuesday <COMMA> pushing the dow jones industrial average below <NUM> for the first time since february <COMMA> with wall street echoing market declines around the globe on rising bank costs and tensions in korea <PUNC>
+recovering <NUM> points from its intraday lows <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all <NUM> components declining <PUNC>
+<PAR>

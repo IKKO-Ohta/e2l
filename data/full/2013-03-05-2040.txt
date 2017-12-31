@@ -1,0 +1,7 @@
+the dow jones industrial average leapt to a new high on tuesday <COMMA> surpassing levels reached more than five years ago <COMMA> on indications of an improving u.s. economy <PUNC>
+the dow industrials fell <NUM> percent in <NUM> as the housing bubble burst and the federal government moved to rescue the u.s. banking system <PUNC>
+on tuesday <COMMA> the dow industrials dji were lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> after rising to <NUM> <COMMA> easily topping its all-time intraday high of <NUM> <COMMA> set on october <NUM> <COMMA> <NUM> <PUNC>
+see <PUNC> ibm led gains in dow s return to record territory <PUNC>
+the nasdaq composite rixf climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+see <PUNC> apple s not in the dow <COMMA> thank goodness <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the benchmark s&p <NUM> and the dow jones industrial average broke their three-day run as investors assessed a slew of mixed economic reports and earnings results <PUNC>
+the nasdaq composite defied the trend and closed higher for the third straight day <PUNC>
+the s&p <NUM> spx ended the day less than a point lower at <NUM> <PUNC>
+the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> retreating from the record closing level reached on wednesday <PUNC>
+the nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
+<PAR>

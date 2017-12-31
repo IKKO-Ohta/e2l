@@ -1,0 +1,5 @@
+after rising more than <NUM> points at the start only to dip into negative territory <COMMA> the dow jones industrial average dji again reversed course <COMMA> climbing more than <NUM> points <PUNC>
+at last check <COMMA> the dow industrials were down <NUM> percent <COMMA> or <NUM> points at <NUM> <PUNC>
+among the dow s gainers were the blue-chip index s oil giants <COMMA> with chevron corp. cvx up <NUM> percent and exxon mobil corp. xom ahead <NUM> percent <PUNC>
+u.s. stocks fell to more than five-year lows on wednesday <COMMA> with the dow industrials closing more than <NUM> points lower <PUNC>
+<PAR>

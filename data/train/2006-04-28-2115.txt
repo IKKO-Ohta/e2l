@@ -1,0 +1,9 @@
+the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> off an early low of <NUM> <PUNC>
+the benchmark index rose <NUM> percent in april <PUNC>
+microsoft corp. msft slumped <NUM> percent to close at dollar <NUM> after the software giant reported quarterly profit that rose <NUM> percent <COMMA> but issued an outlook that fell short of wall street expectations <PUNC>
+the banking sector received a boost amid positive broker action and comments <PUNC>
+citigroup inc. shares c rose <NUM> percent to dollar <NUM> after piper jaffray upgraded the banking giant to outperform from market perform and raised its price target to dollar <NUM> from dollar <NUM> <COMMA> citing a slowing margin deterioration <COMMA> the pickup in the capital markets and continued strength globally <PUNC>
+prudential equity <COMMA> meanwhile <COMMA> turned more positive on the sector <COMMA> with citi <COMMA> j.p. morgan chase co. jpm and bank of america corp. bac some of its favorite picks <PUNC>
+chevron corp. cvx rose <NUM> percent to dollar <NUM> after the oil company posted forecast-beating first-quarter results <PUNC>
+the company s outperformance stands in contrast to disappointing earnings out of sector giant exxon mobil corp. xom on thursday <PUNC>
+<PAR>

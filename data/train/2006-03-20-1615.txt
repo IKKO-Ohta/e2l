@@ -1,0 +1,5 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> off an early high of <NUM> <PUNC>
+wal-mart stores inc. wmt rose <NUM> cents to dollar <NUM> after the company said it will hire <NUM> people in china over the next five years and open <NUM> stores in the country in <NUM> <PUNC>
+general motors corp. gm <COMMA> also a dow component <COMMA> was up <NUM> cents at dollar <NUM> after its board reportedly asked top management to explain newly uncovered accounting problems that forced it to delay its annual report <PUNC>
+separately <COMMA> gm <COMMA> delphi corp. and the united auto workers union reportedly continued negotiations on possible labor deals that could lead to contract buyouts of thousands of delphi employees <PUNC>
+<PAR>

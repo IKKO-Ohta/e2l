@@ -1,0 +1,11 @@
+the dow jones industrial average dji <COMMA> the s&p <NUM> index spx <COMMA> and the nasdaq composite index rixf all finished with gains for the week that saw an end to the 16-day partial government shutdown <PUNC>
+the government is funded until jan. <NUM> and the debt ceiling has been raised until feb. <NUM> while lawmakers try to hash out a budget deal <PUNC>
+the dow industrials closed the week up <NUM> percent <COMMA> the nasdaq gained <NUM> percent <COMMA> and the s&p <NUM> finished the week up <NUM> percent for another record closing high of <NUM> <PUNC>
+while the big banks and financial firms have already reported earnings <COMMA> greenhaus noted this week will see the largest number of financial sector firms reporting than any other week <PUNC>
+more than <NUM> s&p <NUM> financial sector companies report including several insurers such as dow component travelers cos. trv <COMMA> a number of real-estate investment trusts such as simon properties group inc. spg <COMMA> capital markets firms such as franklin resources inc. ben and state street corp. stt <COMMA> as well as exchange operator nasdaq omx group inc. ndaq <PUNC>
+other areas to focus on are industrials and tech <COMMA> greenhaus said <PUNC>
+several industrial dow components report such as united technologies corp. utx on tuesday <COMMA> boeing co. ba and caterpillar inc. cat on wednesday <COMMA> and 3m co. mmm on thursday <PUNC>
+also on thursday after the close <COMMA> microsoft corp. msft reports results <PUNC>
+other earnings highlights in the coming week include dow components mcdonald s corp. mcd <COMMA> dupont dd <COMMA> at&t inc. t <COMMA> and procter & gamble co. pg <PUNC>
+notable s&p <NUM> companies include halliburton co. hal <COMMA> netflix inc. nflx <COMMA> amgen inc. amgn <COMMA> tripadvisor inc. trip <COMMA> amazon.com inc. amzn <COMMA> colgate-palmolive co. cl <COMMA> ford motor co. f <COMMA> dow chemical co. dow <COMMA> and united parcel service inc. ups <PUNC>
+<PAR>

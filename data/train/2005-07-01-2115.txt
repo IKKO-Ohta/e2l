@@ -1,0 +1,13 @@
+the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> the nasdaq composite rixf up <NUM> points to <NUM> <COMMA> and the s&p <NUM> spx up <NUM> points to <NUM> <PUNC>
+stocks were little changed on the week <COMMA> with the dow jones industrial average s close at <NUM> just a bit above its week-earlier finish at <NUM> <PUNC>
+the nasdaq composite s finish at <NUM> was only slightly higher than its finish at <NUM> a week before <PUNC>
+dow component 3m mmm overcame early weakness after trimming its earnings outlook to reflect a charge related to its repatriation of dollar <NUM> billion in foreign earnings <PUNC>
+shares of the industrial conglomerate also shrugged off a downgrade from morgan stanley to close <NUM> cents higher at dollar <NUM> <PUNC>
+pfizer inc. pfe <COMMA> also a dow component <COMMA> lost almost <NUM> percent <COMMA> making it the biggest percentage decliner among the blue chips <COMMA> after the drug giant abandoned development of an hiv drug and an asthma drug <PUNC>
+microsoft corp. msft declined <NUM> cents to dollar <NUM> after the company agreed to pay dollar <NUM> million to international business machines ibm to resolve antitrust issues <PUNC>
+ibm shares added <NUM> cents to dollar <NUM> <PUNC>
+car makers were in focus as major players released their june sales figures <PUNC>
+general motors gm surged almost <NUM> percent after the world s biggest auto maker posted a <NUM> percent surge in june u.s. sales to <NUM> cars and trucks <COMMA> riding the success of its you pay what we pay employee discount sales blitz <PUNC>
+pepsico pep and pepsi bottling group pbg were downgraded to neutral from buy by ubs <PUNC>
+the brokerage cited aggressive competition from coca-cola ko and coca-cola enterprises cce <PUNC>
+<PAR>

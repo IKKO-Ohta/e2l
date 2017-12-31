@@ -1,0 +1,7 @@
+stocks sold off last week <COMMA> with oil topping dollar <NUM> a barrel and continued worries about financials and the economy sending the dow industrials on track for a <NUM> percent decline from its <NUM> highs <COMMA> the official mark of a bear market <PUNC>
+the dow jones industrial average dji was last up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the dow is currently down <NUM> percent from its october <NUM> highs <COMMA> and down <NUM> percent for the year so far <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> advanced <COMMA> led by shares of verizon vz <COMMA> which rose <NUM> percent <PUNC>
+the telecom firm s latest wireless phones will be able to download songs from subscription-music site rhapsody <COMMA> which said it will start selling unprotected songs online <PUNC>
+shares of general motors corp. gm <PUNC>
+<PAR>

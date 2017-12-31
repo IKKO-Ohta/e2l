@@ -1,0 +1,8 @@
+the dow jones industrial average dji fell to a five-week low <COMMA> shedding <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the blue-chip index recorded its third straight session of losses <PUNC>
+in earnings news <COMMA> mcdonald s mcd reported nearly flat earnings in the fourth quarter <COMMA> as sales edged down slightly while expenses rose <PUNC>
+earnings per share were dollar <NUM> <COMMA> slightly ahead of consensus expectations <PUNC>
+chief executive don thompson called <NUM> a challenging year <PUNC>
+shares in the fast-food chain ticked up <NUM> percent <PUNC>
+microsoft corp. msft shares rallied <NUM> percent in the after-hours market <COMMA> after the company reported better quarterly earnings and revenue than analysts expected <PUNC>
+<PAR>

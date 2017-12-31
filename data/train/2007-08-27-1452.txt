@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> with general motors corp. gm leading the losses <COMMA> with its stock off <NUM> percent <PUNC>
+the wall street journal reported home depot inc. hd has agreed to sell hd supply for dollar <NUM> billion <COMMA> about <NUM> percent less than the price initially reached only two months ago <PUNC>
+its stock rose <NUM> percent <PUNC>
+shares of altria group inc. mo <COMMA> also a dow industrials component <COMMA> climbed <NUM> percent <PUNC>
+the new york times reported over the weekend that altria <COMMA> parent of philip morris <COMMA> will meet wednesday to consider spinning off the overseas division of its cigarette business <PUNC>
+on friday <COMMA> u.s. stocks ended sharply higher after an unexpected rise in new-home sales helped drive hopes that the worst of the subprime mess could be over <COMMA> with the dow gaining <NUM> points and the s&p <NUM> adding <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+on friday <COMMA> stocks fell but still closed a strong week of gains <PUNC>
+the dow jones industrial average fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+the s&p <NUM> index fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> while the nasdaq composite index rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+for the week <COMMA> the dow rallied <NUM> percent <COMMA> the s&p <NUM> gained <NUM> percent and the nasdaq rose <NUM> percent <PUNC>
+for the month so far <COMMA> the dow is up <NUM> percent <COMMA> the s&p is up <NUM> percent and the nasdaq adds <NUM> percent <PUNC>
+<PAR>

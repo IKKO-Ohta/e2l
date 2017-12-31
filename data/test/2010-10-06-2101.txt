@@ -1,0 +1,5 @@
+u.s. stocks mostly fell wednesday <COMMA> with only the dow industrials managing a modest gain <COMMA> after downgrades hit the technology sector and disappointing jobs data kept buyers in check <PUNC>
+the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> after bouncing between small gains and losses for most of the session <PUNC>
+nineteen of the dow s <NUM> components closed higher <COMMA> led by a <NUM> percent gain in shares of general electric co. ge <PUNC>
+also supporting the dow s rise <COMMA> alcoa inc. aa rose <NUM> percent ahead of the aluminum maker reporting quarterly results on thursday in the unofficial start of the earnings season <PUNC>
+<PAR>

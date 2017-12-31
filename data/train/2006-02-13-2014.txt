@@ -1,0 +1,5 @@
+the dow jones industrial average dji was sitting just off its low for the session <COMMA> down <NUM> points at <NUM> <PUNC>
+in the article <COMMA> barron s warns the company s shares could be cut in half over the next year on competition from microsoft msft and yahoo inc. yhoo <COMMA> pricing pressures for online ad sales and mounting concern over click fraud <PUNC>
+also on the deal front <COMMA> home depot inc. hd is in talks to buy a <NUM> percent stake in china s orient home <COMMA> one of the mainland s leading do-it-yourself chains <COMMA> for more than dollar <NUM> million <COMMA> the financial times reported monday <COMMA> citing people close to the situation <PUNC>
+home depot was up <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

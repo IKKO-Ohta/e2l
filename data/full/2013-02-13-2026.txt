@@ -1,0 +1,9 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after venturing higher to <NUM> earlier in the session <PUNC>
+general electric co. ge was the biggest gainer on the dow <COMMA> with shares up <NUM> percent to dollar <NUM> <COMMA> following an announcement it would sell the rest of its stake in nbcuniversal for dollar <NUM> billion to comcast corp. cmcsa <PUNC>
+comcast and ge were among the top gainers in the s&p <NUM> <PUNC>
+a significant drag on the price-weighted index <COMMA> however <COMMA> was shares of fast-food giant mcdonald s corp. mcd <PUNC>
+shares dropped <NUM> percent to dollar <NUM> <PUNC>
+coca-cola co. ko shares were the dow s worst performer <COMMA> down <NUM> percent at dollar <NUM> <PUNC>
+while there was some speculation that a call from president barack obama to raise the federal minimum wage to dollar <NUM> an hour from dollar <NUM> weighed on mcdonald s shares <COMMA> analysts generally dismissed it as being a factor <PUNC>
+still <COMMA> investors aren t seeing the momentum from the prior session <COMMA> when the dow rose <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> a five-year high <PUNC>
+<PAR>

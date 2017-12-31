@@ -1,0 +1,6 @@
+u.s. stocks ended november with weekly gains and monthly losses <COMMA> with the dow scoring its third-largest weekly jump so far this year <COMMA> as technology bellwether dell inc. s shaky forecast weighed on the nasdaq <COMMA> offsetting the market s warm response to federal reserve talk suggesting further interest-rate cuts ahead <PUNC>
+the dow jones industrial average dji ended <NUM> points up at <NUM> <COMMA> with <NUM> of its <NUM> components higher <PUNC>
+for the week <COMMA> the dow gained <NUM> points <COMMA> up <NUM> percent <PUNC>
+for the month <COMMA> the dow fell <NUM> percent <PUNC>
+financial stocks fronted the blue-chip advance <COMMA> including jp morgan chase co. jpm <COMMA> up <NUM> percent <PUNC>
+<PAR>

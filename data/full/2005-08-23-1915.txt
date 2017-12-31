@@ -1,0 +1,4 @@
+with a little less than an hour left of trade <COMMA> the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> the s&p <NUM> index spx down <NUM> points at <NUM> <PUNC> and the nasdaq composite index rixf up <NUM> points at <NUM> <PUNC>
+shares of dow component citigroup c fell <NUM> percent after news that marge magner <COMMA> a prot&#195;&#169;g&#195;&#169 <PUNC> of sanford weill s who ran citigroup s consistently profitable consumer division <COMMA> will step down at the end of september <PUNC>
+another component <COMMA> intel intc <COMMA> gave up early gains to trade down almost <NUM> percent as the chipmaker s chief executive <COMMA> paul otellini <COMMA> told an audience that the company plans to release three new dual-core chips in the second half of <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+still <COMMA> the market s nearly uninterrupted advance since mid-march - which has taken the dow jones industrial average to new highs <COMMA> took a breather ahead of the federal reserve s decision on interest rates next week <PUNC>
+the dow industrials dji were recently up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> rose <COMMA> led by the likes of citigroup inc. c <COMMA> coca cola co. ko and at&t inc. t <PUNC>
+among blue-chips <COMMA> microsoft corp. msft fell <NUM> percent after reports that it is trying to buy internet search engine yahoo inc. yhoo <COMMA> which jumped <NUM> percent <PUNC>
+outside of the dow <COMMA> reuters rtrsy stock shot up <NUM> percent after news it was approached by an unidentified party <PUNC>
+<PAR>

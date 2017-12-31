@@ -1,0 +1,8 @@
+the u.s. stock market finished monday s roller-coaster session generally higher <PUNC>
+the main indexes swung wildly between gains and losses with the dow jones industrial average trading in a 187-point range <PUNC>
+the s&p <NUM> spx ended the day <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+the dow jones industrial average dji closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <COMMA> with pfizer inc. and microsoft corp leading the gains <PUNC>
+u.s.-listed shares of astrazeneca plc azn leapt <NUM> percent after pfizer inc. pfe confirmed it has approached the drug maker for a second time about a takeover valued at nearly dollar <NUM> billion <PUNC>
+pfizer said in a statement that the merger would result in a more efficient tax structure as astrazeneca s non-u.s. profits wouldn t be subject to u.s. tax <PUNC>
+pfizer shares gained <NUM> percent % <COMMA> leading the dow industrials <PUNC>
+<PAR>

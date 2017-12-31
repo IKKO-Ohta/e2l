@@ -1,0 +1,4 @@
+the dow industrials dji closed up <NUM> points at <NUM> <COMMA> following a nervous session during which the blue-chip index reversed direction several times <PUNC>
+dow component home depot hd closed <NUM> cents higher at dollar <NUM> after the retailer announced a new dollar <NUM> billion buyback <PUNC>
+fellow dow stock altria group mo <COMMA> the parent of philip morris <COMMA> shot up <NUM> percent after the illinois supreme court tossed out a billion-dollar verdict in a consumer-fraud suit <COMMA> providing a possible preview of its stance in a somewhat similar case involving the food-and-tobacco titan <PUNC>
+<PAR>

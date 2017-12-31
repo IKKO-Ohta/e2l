@@ -1,0 +1,11 @@
+the dow jones industrial average dji closed down <NUM> points <COMMA> after trading more than <NUM> points lower at one point <PUNC>
+jay suskind <COMMA> director of trading at ryan beck & co. <COMMA> said <PUNC> i just think we are stuck in a trading range <PUNC>
+we just can t seem to break through to <NUM> on the dow <PUNC>
+it seems to be impossible in the short term <PUNC>
+general motors gm threw off losses to close up <NUM> percent at dollar <NUM> <COMMA> after late-day news reports said that its board invited an associate of billionaire investor kirk kerkorian to become a member <PUNC>
+kerkorian wants a board seat and his investment vehicle <COMMA> tracinda corp. <COMMA> has been trying to increase its stake in gm <PUNC>
+3m co. mmm fell <NUM> cents to dollar <NUM> <PUNC>
+the manufacturing conglomerate named george buckley to serve as its chairman <COMMA> president and chief executive <PUNC>
+he replaces interim chief george morrison <PUNC>
+another dow component <COMMA> microsoft corp. msft <COMMA> rose <NUM> cents to dollar <NUM> after south korean antitrust officials decided that it had abused its dominance in software <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+after falling <NUM> points <COMMA> the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with international business machine corp. ibm leading the decline that included <NUM> of the dow s <NUM> components <PUNC>
+ibm s ibm shares fell <NUM> percent after the computer-services company reportedly said u.s. employees in its hardware unit would take a week furlough with reduced pay in august and after credit suisse downgraded the tech giant to underperform from neutral <PUNC>
+<PAR>

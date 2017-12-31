@@ -1,0 +1,6 @@
+u.s. stock investors scrambled for the exits on thursday <COMMA> sending the dow jones industrial average down <NUM> points <COMMA> its worst one-day point plunge in more than a year <PUNC>
+the s&p <NUM> spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its biggest one-day percentage drop since april <NUM> <PUNC>
+the dow jones industrial average dji slid <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> marking its fourth drop of more than <NUM> points this year <PUNC>
+the nasdaq composite rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+all <NUM> stocks in the dow jones industrial average were down with declines in caterpillar inc. cat goldman sachs gs <COMMA> visa v and chevron cvx weighing heavily on the price-weighted index <PUNC>
+<PAR>

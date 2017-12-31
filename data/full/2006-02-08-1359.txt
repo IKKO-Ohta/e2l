@@ -1,0 +1,5 @@
+the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
+pfizer pfe benefited from an announcement that it will explore alternatives for its consumer products unit <COMMA> including a possible sale <PUNC>
+the stock rose <NUM> percent to dollar <NUM> in premarket action <PUNC>
+mcdonald s mcd rose <NUM> cents to dollar <NUM> before the opening after reporting a <NUM> percent advance in january same-store sales <PUNC>
+<PAR>

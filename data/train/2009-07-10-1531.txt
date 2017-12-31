@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx shed <NUM> points to <NUM> <COMMA> and the tech-laden nasdaq rixf was fractionally lower at <NUM> <PUNC>
+chip behemoth intel corp. intc is slated to report second-quarter results on tuesday <COMMA> with the world s no <PUNC>
+<NUM> maker of computer microprocessors expected to report a sharp drop in sales and earnings <PUNC>
+<PAR>

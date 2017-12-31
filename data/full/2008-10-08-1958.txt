@@ -1,0 +1,9 @@
+after rising and falling 200-plus points <COMMA> the dow dji was recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components gaining ground <COMMA> led by its financial shares <COMMA> including jp morgan chase jpm <COMMA> up <NUM> percent <PUNC>
+a day ahead of the one-year anniversary of the dow jones industrial average s record close of <NUM> <COMMA> the market is facing record losses over the past year <PUNC>
+the dow has dropped nearly <NUM> percent from the peak <COMMA> while the market value of the dow jones wilshire <NUM> has seen more than dollar <NUM> trillion of its value wiped out <PUNC>
+off the dow <COMMA> cb richard ellis group inc. cbg gained <NUM> percent <PUNC> bank of new york mellon corp. bk rose <NUM> percent <COMMA> and fifth third bancorp <PUNC>
+fitb added <NUM> percent <PUNC>
+dow component bank of america corp. bac shares fell <NUM> percent after the company priced a secondary offering of common stock below its closing price <COMMA> with the move diluting existing shares by about <NUM> percent <PUNC>
+<PAR>
+the biggest laggard among the blue chips was aluminum giant alcoa inc. aa <COMMA> which fell <NUM> percent after kicking off the third-quarter earnings season with a gloomy assessment of its past three months <PUNC>
+<PAR>

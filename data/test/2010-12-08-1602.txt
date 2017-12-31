@@ -1,0 +1,2 @@
+shedding mild gains <COMMA> the dow jones industrial average dji was lately down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> including shares of home depot inc. <COMMA> hd <COMMA> up <NUM> percent after the home-improvement retailer hiked its earnings outlook for the second time in two months <PUNC>
+<PAR>

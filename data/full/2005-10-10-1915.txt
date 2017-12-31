@@ -1,0 +1,9 @@
+the dow jones industrial average dji declined <NUM> points to <NUM> <COMMA> the s&p <NUM> index spx dropped <NUM> points to <NUM> and the nasdaq composite index rixf shed <NUM> points to <NUM> <PUNC>
+the dow jones u.s <PUNC>
+automobiles and parts index dj_ato was down <NUM> percent at <NUM> <PUNC>
+shares of delphi s former parent <COMMA> general motors gm <COMMA> a dow component <COMMA> were <NUM> percent lower at dollar <NUM> after s&p downgraded the company s long- and short-term debt <PUNC>
+international business machines corp. ibm last was up <NUM> percent at dollar <NUM> after citigroup upgraded the dow component to buy from hold <COMMA> saying the company is gaining market share in the midrange and high-end server market <PUNC>
+<PAR>
+wal-mart stores inc. wmt gained <NUM> percent to dollar <NUM> after the world s biggest retailer reaffirmed its october sales growth forecast <PUNC>
+in addition <COMMA> the business weekly barron s suggested the stock was trading at a bargain price <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
+the futures contracts for the s&p <NUM> and the nasdaq <NUM> were up <NUM> points at <NUM> <COMMA> and up <NUM> points at <NUM> <COMMA> respectively <PUNC>
+later in the morning investors will view existing-home sales for august <PUNC>
+the dow jones forecast <COMMA> based on a poll of economists <COMMA> is for <NUM> million homes sold last month <COMMA> a decline from the <NUM> million homes sold in july <PUNC>
+in pre-market electronic trade boeing ba was down <NUM> percent at dollar <NUM> <PUNC>
+over the weekend the aerospace giant agreed on a new contract with striking machinists <PUNC>
+wal-mart wmt stock was up almost <NUM> percent at dollar <NUM> in pre-market action <COMMA> following a report that it s considering making a bid to acquire tommy hilfiger corp. wal-mart also said it still expects september same-store sales to grow in the <NUM> percent to <NUM> percent range <PUNC>
+<PAR>

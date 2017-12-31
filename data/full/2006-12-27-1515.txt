@@ -1,0 +1,3 @@
+some media outlets speculated that ford president and chief executive alan mulally and toyota chairman fujio cho were discussing a possible tie-up between the troubled u.s. automaker and toyota <COMMA> which is on the verge of passing general motors corp. gm as the world s top vehicle manufacturer by production volume <PUNC>
+the dow jones industrial average dji rose <NUM> points at <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+despite finishing higher for the past six weeks straight <COMMA> the dow jones industrial average dji hasn t risen on a monday since march <NUM> <PUNC>
+that pattern persisted as the current week began <COMMA> with the blue-chip index falling nearly <NUM> points <PUNC>
+on tuesday <COMMA> stocks tilted mildly higher in late morning trade after meandering between gains and losses earlier on <PUNC>
+the dow gained <NUM> points to <NUM> <PUNC>
+the s&p <NUM> spx advanced <NUM> points to <NUM> <COMMA> while the technology-laden nasdaq composite rixf climbed <NUM> points to stand at <NUM> <PUNC>
+<PAR>

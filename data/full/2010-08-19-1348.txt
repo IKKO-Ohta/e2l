@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> weighed by a <NUM> percent drop in intel corp. intc <PUNC>
+the dow fell <NUM> percent to <NUM> <PUNC>
+the nasdaq composite rixf slid <NUM> percent to <NUM> <PUNC>
+the standard & poor s 500-share spx index slid <NUM> percent to <NUM> <COMMA> weighed by its utilities and health-care sectors <PUNC>
+<PAR>

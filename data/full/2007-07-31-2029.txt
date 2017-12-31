@@ -1,0 +1,5 @@
+word of trouble from the country s 10th-largest mortgage lender abruptly pulled the plug on the stock market s attempted recovery <COMMA> with the dow wiping out a two-day rally to end tuesday with a near 150-point loss <COMMA> and a monthly decline of <NUM> percent <PUNC>
+the dow jones industrial average dji closed <NUM> points lower at <NUM> <COMMA> with slid <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components taking a hit <PUNC>
+the dow had surged more than <NUM> points in the early going after general motors corp. gm reported a return to profitability <PUNC>
+the automaker s stock retained some of its advance <COMMA> with its stock up <NUM> percent <PUNC>
+<PAR>

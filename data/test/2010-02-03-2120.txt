@@ -1,0 +1,6 @@
+the dow jones industrial average dji snapped a two-day winning streak <COMMA> shedding <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+its weakest component was pfizer inc. pfe <COMMA> off <NUM> percent after it announced a smaller rise in its fourth-quarter net than analysts were expecting <PUNC>
+the company also scaled back <NUM> revenue estimates <COMMA> which weighed on other health-care stocks <COMMA> including dow component merck & co. mrk <COMMA> down <NUM> percent <PUNC>
+more than three-fourths of s&p <NUM> companies that have reported fourth-quarter earnings so far have beaten analysts expectations <COMMA> according to thomson reuters <PUNC>
+but the market has drawn little support from that improvement in corporate bottom lines <COMMA> with the s&p <NUM> off about <NUM> percent since alcoa inc. s aa early-january report marked the symbolic start of the broader reporting season <PUNC>
+<PAR>

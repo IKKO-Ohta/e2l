@@ -1,0 +1,6 @@
+the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> moving back into the red for the year after the measure had edged up into positive territory for <NUM> last week <PUNC>
+the dow s financial components led its drop <COMMA> with j.p. morgan chase jpm off <NUM> percent <COMMA> american express axp down <NUM> percent and bank of america axp off <NUM> percent <PUNC>
+the euro-zone worries came as traders returned from a long holiday weekend with skepticism over last week s rally <COMMA> which marked the dow s biggest weekly gain in the week before labor day since <NUM> <PUNC>
+if the dow closes in negative territory tuesday <COMMA> it would snap a four-day rally for the index that had represented its longest winning streak since late july <PUNC>
+oracle orcl jumped <NUM> percent after the company named mark hurd co-president and appointed him to its board of directors <COMMA> heightening the rivalry between the software company and hewlett-packard co. hpq <COMMA> the technology giant hurd ran as chief executive until departing amid a scandal last month <PUNC>
+<PAR>

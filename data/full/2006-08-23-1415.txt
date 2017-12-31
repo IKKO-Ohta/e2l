@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+shares in ford motor co. f rose <NUM> percent to dollar <NUM> on a wall street journal report that the auto maker was interested in joining a renault-nissan alliance <COMMA> if talks with general motors corp. gm don t work out <PUNC>
+international business machines ibm is acquiring internet security systems inc. issx for dollar <NUM> billion <COMMA> or dollar <NUM> a share <PUNC>
+the companies expect the deal to close in the fourth quarter <PUNC>
+shares of internet security <COMMA> an atlanta-based computer security technology company <COMMA> were up <NUM> percent at dollar <NUM> <COMMA> while ibm shares tacked on <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

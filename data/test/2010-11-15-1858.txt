@@ -1,0 +1,6 @@
+the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> with all but four of its <NUM> components trading higher <PUNC>
+the blue-chip benchmark closed friday at its lowest level since nov. <NUM> <PUNC>
+construction-machinery giant caterpillar cat said it would pay dollar <NUM> billion in cash for mining-equipment maker bucyrus international inc. bucy <PUNC>
+<PAR>
+ahead of tuesday s open <COMMA> wal-mart stores inc. wmt reports its third-quarter results <COMMA> with analysts looking for signs of improvement from the globe s largest retailer <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with two-thirds of its <NUM> components advancing <PUNC>
+alcoa inc. aa was up the most in recent action <COMMA> gaining <NUM> percent <PUNC>
+general motors corp. gm proved the greatest weight on the blue-chip index <COMMA> with shares of the automaker lapsing <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji surged <NUM> points in the first few minutes of trade <PUNC>
+in recent action <COMMA> it rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components opening higher <PUNC>
+banking giant citigroup c posted a first-quarter loss of dollar <NUM> a share <COMMA> worse than the loss of <NUM> cents expected by analysts <COMMA> but revenue exceeded expectations <PUNC>
+the dow also received strong support from upbeat results at equipment-maker caterpillar inc. cat <COMMA> whose shares jumped <NUM> percent <PUNC>
+away from the dow <COMMA> honeywell inc. hon <COMMA> another industrial firm <COMMA> rose <NUM> percent <PUNC>
+<PAR>

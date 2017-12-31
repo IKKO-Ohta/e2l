@@ -1,0 +1,4 @@
+in the first hour <COMMA> we could knock <NUM> to <NUM> points off the dow <COMMA> said art hogan <COMMA> chief market strategist at jefferies & co <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+gm gm <COMMA> the leading u.s. automaker <COMMA> reported third-quarter net losses of dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> due to an accounting change <PUNC>
+<PAR>

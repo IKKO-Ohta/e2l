@@ -1,0 +1,6 @@
+the dow jones industrial average dji was off its best levels <COMMA> up nearly <NUM> points at <NUM> <PUNC>
+dow component general motors corp. gm was <NUM> percent lower at dollar <NUM> <PUNC>
+chief executive rick wagoner said that the automaker s north american turnaround strategy is working just great <COMMA> and that the company remains focused on cutting costs <COMMA> investing in new products and improving its marketing strategies in the united states <PUNC>
+altria group inc. mo gained <NUM> percent to dollar <NUM> <PUNC>
+the company raised its quarterly dividend by <NUM> percent to <NUM> cents a share from <NUM> cents <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components gaining ground <COMMA> led by the likes of alcoa aa <COMMA> exxon mobil xom and coca-cola ko <PUNC>
+shares of general motors corp. gm led gainers among blue chips <COMMA> rising <NUM> percent <PUNC>
+the federal reserve approved the request by its finance arm <COMMA> gmac <COMMA> to become a bank holding company and become eligible for financing under the u.s. treasury department s dollar <NUM> billion troubled asset relief program <PUNC>
+for the week <COMMA> the dow dipped <NUM> percent <COMMA> the s&p lost <NUM> percent and the nasdaq fell <NUM> percent <PUNC>
+so far in <NUM> <COMMA> the dow industrials have lost <NUM> percent <PUNC> the s&p <NUM> <COMMA> weighed on by financials <COMMA> is down <NUM> percent <PUNC> and the nasdaq composite is down <NUM> percent <PUNC>
+on wednesday <COMMA> u.s. stocks had finished higher after a shortened pre-holiday trading session <COMMA> gaining ground as data on consumer spending and durable-goods orders for november were better than expected <PUNC>
+the dow notched a <NUM> percent advance <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+markets were closed thursday <PUNC>
+<PAR>

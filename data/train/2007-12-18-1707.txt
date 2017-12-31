@@ -1,0 +1,2 @@
+up more than <NUM> points earlier on <COMMA> the dow jones industrial average dji was more recently off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+<PAR>

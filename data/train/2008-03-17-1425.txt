@@ -1,0 +1,4 @@
+after falling nearly <NUM> points at the start <COMMA> the dow jones industrial average dji was more recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting early declines <PUNC>
+blue-chip financials were among those hit <COMMA> with citigroup inc. c down nearly <NUM> percent <COMMA> and american international group inc. aig off <NUM> percent <PUNC>
+the startling move came just after j.p. morgan chase jpm said it would purchase battered investment bank bear stearns bsc for a bargain-basement price of dollar <NUM> a share <PUNC>
+<PAR>

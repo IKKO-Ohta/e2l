@@ -1,0 +1,6 @@
+blue-chip aluminum giant alcoa inc. aa is slated to report financial results after the closing bell <COMMA> unofficially kicking off the third quarter s earnings season <PUNC>
+on wall street <COMMA> the major indexes shifted lower after a mixed morning <COMMA> with telecommunication services and industrials fronting the losses <PUNC>
+the stall follows a two-day buying spurt that had added more than <NUM> points to the dow jones industrial average dji <COMMA> with the blue chips still on pace for a <NUM> percent weekly gain <PUNC>
+in recent trading <COMMA> the dow industrials were down <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx fell <NUM> points to <NUM> <COMMA> while the nasdaq composite index rixf declined <NUM> points to <NUM> <PUNC>
+<PAR>

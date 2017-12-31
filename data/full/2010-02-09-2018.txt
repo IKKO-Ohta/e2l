@@ -1,0 +1,5 @@
+the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> after trading <NUM> points higher at its early-afternoon peak <PUNC>
+if its latest gains hold through the closing bell <COMMA> that would represent the biggest rally since nov. <NUM> <PUNC>
+the dow average was led by a <NUM> percent jump in caterpillar inc. cat <COMMA> which was upgraded along with several other industrial names by analysts at morgan stanley <PUNC>
+coca-cola co. ko was also a big gainer among the blue chips <COMMA> up <NUM> percent after reporting a <NUM> percent gain in fourth-quarter profit <PUNC>
+<PAR>

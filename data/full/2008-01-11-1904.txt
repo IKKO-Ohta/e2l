@@ -1,0 +1,9 @@
+u.s. stocks dropped steeply on friday <COMMA> socking the dow industrials with triple-digit losses <COMMA> as write-downs in the financial sector signaled slowing consumer spending and sparked more talk of a recession <PUNC>
+the dow jones industrial average dji broke through to new session lows <COMMA> falling more than <NUM> points <COMMA> after fed gov <PUNC>
+frederic mishkin spoke in new york <PUNC>
+more recently <COMMA> the dow was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components down <COMMA> the losses led by american express co. axp <COMMA> down <NUM> percent <PUNC>
+mcdonald s corp. mcd was the dow s second-worst performer <COMMA> with shares of the fast-food giant declining <NUM> percent <PUNC>
+u.s. stocks jumped thursday <COMMA> buoyed by comments from federal reserve chairman ben bernanke suggesting aggressive rates action <COMMA> as well as talk that bank of america was in talks to buy countrywide financial corp <PUNC>
+the dow industrials closed with a 117-point advance <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite tacked on nearly <NUM> points <PUNC>
+in other deal-related developments <COMMA> dow component j.p. morgan chase co. jpm has had preliminary talks with washington mutual inc. wm about acquiring the mortgage giant <COMMA> cnbc television reported friday morning <PUNC>
+<PAR>

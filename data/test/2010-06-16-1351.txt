@@ -1,0 +1,6 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
+alcoa led the measure s declines with a drop of <NUM> percent <PUNC>
+home depot was also weak <COMMA> sliding <NUM> percent after data showed a plunge in may housing starts <PUNC>
+energy components were also weak after president barack obama urged exploration of alternative energy sources in a tuesday night speech <PUNC>
+chevron cvx slipped <NUM> percent <COMMA> while exxon fell <NUM> percent <PUNC>
+<PAR>

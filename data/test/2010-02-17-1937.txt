@@ -1,0 +1,4 @@
+the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+corp. bac was the measure s best performer <COMMA> extending its gains from tuesday with a <NUM> percent rise <PUNC>
+inc. hd added <NUM> percent <COMMA> as housing starts rose to their highest level in six months <COMMA> while inc. cat advanced <NUM> percent as a report on industrial production also topped expectations <PUNC>
+<PAR>

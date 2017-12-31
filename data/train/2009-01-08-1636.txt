@@ -1,0 +1,8 @@
+wal-mart had been the stand-alone shining star <COMMA> one of the two stocks up on the dow jones industrial average last year <COMMA> said art hogan <COMMA> chief market strategist at jefferies & co <PUNC>
+bouncing back a bit from an earlier triple-digit decline <COMMA> the dow jones industrial average dji was more recently off <NUM> points at <NUM> <PUNC>
+fifteen of the blue-chip index s <NUM> components posted early losses <COMMA> with wal-mart wmt the greatest laggard <COMMA> off <NUM> percent <PUNC>
+the world s largest retailer posted lower-than-expected december sales and cut its fourth-quarter forecast <PUNC>
+<PAR>
+u.s. stocks dropped wednesday after job-cut and profit warnings from heavyweights like alcoa inc. aa and intel corp. intc combined with a report from payrolls processor adp estimating nearly <NUM> private-sector jobs were lost last month <PUNC>
+the dow jones industrial average dropped <NUM> points <COMMA> the nasdaq composite lost <NUM> points <COMMA> and the s&p <NUM> dropped <NUM> points <PUNC>
+<PAR>

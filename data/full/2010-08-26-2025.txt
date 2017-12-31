@@ -1,0 +1,5 @@
+the dow jones industrial average dji shed <NUM> points to <NUM> <COMMA> with all but two of its <NUM> components ending in the red <PUNC>
+both the dow and the s&p on wednesday halted a four-day slide <COMMA> with nolte attributing the prior day s higher finish to a bit of bargain hunting <PUNC>
+the s&p <NUM> bounced off the 1,040-level a couple of days ago <COMMA> and after four down days we were due for a bit of an up move <COMMA> he said <PUNC>
+in corporate deal-making <COMMA> technology giant dell inc. dell said data-storage maker 3par inc. par has accepted its sweetened takeover offer <COMMA> which came after rival hewlett-packard co. hpq made an unsolicited bid <PUNC>
+<PAR>

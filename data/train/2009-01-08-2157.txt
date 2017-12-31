@@ -1,0 +1,6 @@
+bouncing back from a triple-digit decline <COMMA> the dow jones industrial average dji ended down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+wal-mart wmt proved the blue-chip index s greatest laggard <COMMA> off <NUM> percent <PUNC>
+the world s largest retailer posted lower-than-expected december sales and cut its fourth-quarter forecast <PUNC>
+<PAR>
+wal-mart had been the stand-alone shining star <COMMA> one of the two stocks up on the dow last year <COMMA> said art hogan <COMMA> chief market strategist at jefferies & co <PUNC>
+<PAR>

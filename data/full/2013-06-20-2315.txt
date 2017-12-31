@@ -1,0 +1,7 @@
+after dropping as much as <NUM> points intraday <COMMA> the dow jones industrial average dji ended down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all of its <NUM> components in negative territory <PUNC>
+it was the dow s largest one-day percentage decline since nov. <NUM> <COMMA> <NUM> <COMMA> the day after the u.s. presidential election <PUNC>
+and it was the index s biggest one-day point decline since nov. <NUM> <COMMA> <NUM> <PUNC>
+walt disney co. dis and intel corp. intc led the dow lower <COMMA> dropping <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
+the dow notched its eight straight triple-digit move <COMMA> nearing a record set in <NUM> <COMMA> when there were <NUM> swings of that magnitude <PUNC>
+it s also trading below its 50-day moving average <COMMA> and closing below that key stock chart level for the first time since december <PUNC>
+<PAR>

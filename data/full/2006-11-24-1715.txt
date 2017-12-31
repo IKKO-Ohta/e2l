@@ -1,0 +1,6 @@
+the dow jones industrial average dji last was down <NUM> points at <NUM> <PUNC>
+wal-mart stores inc. wmt <COMMA> a component of the dow jones industrial average <COMMA> was down <NUM> percent at dollar <NUM> <PUNC>
+home depot inc. hd fell <NUM> cents to dollar <NUM> and target corp. tgt lost <NUM> cents to dollar <NUM> <PUNC>
+another dow component <COMMA> ibm corp. ibm agreed to pay dollar <NUM> million to resolve all claims in an overtime-pay <COMMA> class-action suit filed in a northern california federal court in january <PUNC>
+ibm stock rose <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

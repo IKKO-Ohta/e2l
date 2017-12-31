@@ -1,0 +1,7 @@
+tuesday had energy and financial shares pacing gains as stocks bounced back from the prior session s decline <PUNC>
+the dow jones industrial average was <NUM> points ahead <COMMA> at <NUM> <PUNC>
+the s&p <NUM> added <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf rose <NUM> points to <NUM> <PUNC>
+on monday <COMMA> the dow closed at <NUM> <COMMA> a level not seen since <NUM> <PUNC>
+if nothing else <COMMA> the breach of 12-year lows is unusual <PUNC>
+other than monday s retesting of <NUM> lows <COMMA> such a crossing has occurred only twice before <COMMA> on dec. <NUM> <COMMA> <NUM> <COMMA> and april <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

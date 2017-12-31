@@ -1,0 +1,3 @@
+after a 109-point drop <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but two of its <NUM> components in retreat <PUNC>
+unitedhealth group inc. unh fell <NUM> percent after the insurer and dow component projected <NUM> profit beneath wall street estimates <PUNC>
+<PAR>

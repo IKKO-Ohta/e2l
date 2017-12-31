@@ -1,0 +1,8 @@
+the dow jones industrial average dji was just off its high for the session <COMMA> up <NUM> points at <NUM> <PUNC>
+within the dow industrials <COMMA> altria group inc. mo fell as much as <NUM> percent to dollar <NUM> after goldman sachs downgraded the food and tobacco giant to in-line from outperform <COMMA> saying the breakup of the company may come much later than expected <PUNC>
+general motors corp gm rebounded from an 18-year low hit in wednesday s session <COMMA> but three days of steep losses now mean the carmaker has a smaller market capitalization than longtime rival ford motor co. f <PUNC>
+shares in hewlett-packard co. hpq rose <NUM> percent to a session high of dollar <NUM> ahead of its quarterly results <PUNC>
+the computer maker is expected to post earnings of <NUM> cents a share on revenue of dollar <NUM> billion <PUNC>
+walt disney co. dis is another dow component slated to release earnings after the market close <PUNC>
+the company s outlook for its studio operations is expected to take center stage <PUNC>
+<PAR>

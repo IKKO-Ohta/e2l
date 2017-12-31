@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> point at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+shares of dow component exxon mobil corp. xom gained as did crude-oil futures <COMMA> with the former rising <NUM> percent and the latter trading above dollar <NUM> a barrel after u.s. government data showed supplies dropped more than <NUM> million barrels <PUNC>
+shares of amgen amgn and johnson & johnson jnj advanced <COMMA> amgen up <NUM> percent and johnson & johnson up <NUM> percent after a food and drug administration advisory committee did not back a limit on the use of anemia drugs the companies produce <PUNC>
+<PAR>

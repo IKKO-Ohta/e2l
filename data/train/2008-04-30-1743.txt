@@ -1,0 +1,8 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with all but five of its <NUM> components trading higher <PUNC>
+the blue-chip advance was led by gm gm <COMMA> recently up <NUM> percent after the automaker reported a first-quarter net loss of dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> compared with net income of dollar <NUM> million a year earlier <PUNC>
+its adjusted loss of <NUM> cents a share <COMMA> however <COMMA> was well ahead of the dollar <NUM> -a-share loss analysts were expecting <PUNC>
+also bolstering the dow <COMMA> shares of proctor & gamble pg climbed <NUM> percent after the consumer-products giant reported earnings that topped forecasts <PUNC>
+citigroup inc. c led blue-chip declines <COMMA> its stock off <NUM> percent <PUNC>
+u.s. stocks ended mostly lower on tuesday <COMMA> though the technology sector was lifted by upbeat earnings from corning <PUNC>
+while the dow jones industrial average ended down <NUM> points <COMMA> the technology-focused nasdaq composite rose <NUM> points <PUNC>
+<PAR>

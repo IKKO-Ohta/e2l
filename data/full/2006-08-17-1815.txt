@@ -1,0 +1,8 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+on wednesday stocks ended higher <COMMA> with the dow industrials and the s&p <NUM> at their best levels in three months <COMMA> after consumer price data eased inflation fears and raised hopes that the federal reserve will end its rate-tightening program <PUNC>
+hewlett-packard co. hpq rallied as much as <NUM> percent to dollar <NUM> <COMMA> its best level since february <NUM> <COMMA> after the computer and printer maker announced a better-than-forecast third-quarter profit and said it would buy back up to dollar <NUM> billion in shares <PUNC>
+the stock was last up <NUM> percent at dollar <NUM> <PUNC>
+merck & co mrk shares fell <NUM> percent to dollar <NUM> after a federal jury in new orleans found the drug maker negligent in the case of a man who alleged that he suffered a heart attack brought about by his use of the company s painkiller treatment vioxx <PUNC>
+fellow dow member general motors corp. gm fell <NUM> percent at dollar <NUM> after broker j.p. morgan downgraded the auto maker <PUNC>
+<PAR>

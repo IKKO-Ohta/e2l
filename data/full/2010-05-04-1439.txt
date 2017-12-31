@@ -1,0 +1,3 @@
+slumping to session lows <COMMA> the dow jones industrial average dji recently fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <COMMA> led by aluminium giant alcoa inc. aa <COMMA> off <NUM> percent <PUNC>
+pfizer pfe and merck mrk were among the blue chips on the rise <COMMA> with stocks of both up more than <NUM> percent after each reported declining profits after making hefty mergers but also topped earnings estimates <PUNC>
+<PAR>

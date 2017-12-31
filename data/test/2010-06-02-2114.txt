@@ -1,0 +1,4 @@
+after losing <NUM> points <COMMA> or <NUM> percent <COMMA> during the past two trading days <COMMA> the dow jones industrial average dji on wednesday regained nearly all of that territory <COMMA> rising <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+american express co. axp led the measure <COMMA> with a gain of <NUM> percent <COMMA> followed by a <NUM> percent rise in walt disney co. dis shares <PUNC>
+all <NUM> dow components closed higher <PUNC>
+<PAR>

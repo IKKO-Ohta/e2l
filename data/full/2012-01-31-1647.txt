@@ -1,0 +1,3 @@
+u.s. stocks fell tuesday <COMMA> with the dow jones industrial average still poised for its biggest january-point jump on record <COMMA> as investors weighed domestic and european issues <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> a level that leaves it up <NUM> points for the month and year <PUNC>
+<PAR>

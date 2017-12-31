@@ -1,0 +1,5 @@
+still <COMMA> investors consolidated some of the market s strong gains after the the dow jones industrial average dji hit another record high of <NUM> <PUNC>
+the dow was recently down <NUM> points at <NUM> <PUNC>
+among blue-chips <COMMA> microsoft corp. msft fell <NUM> percent after reports that it is trying to buy internet search engine yahoo inc. yhoo <PUNC>
+out of the dow <COMMA> reuters rtrsy stock shot up <NUM> percent after news it was approached by an unidentified party <PUNC>
+<PAR>

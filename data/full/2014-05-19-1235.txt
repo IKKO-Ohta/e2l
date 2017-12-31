@@ -1,0 +1,6 @@
+large-cap indexes are making similar zig-zag moves <PUNC>
+the dow jones industrial average dji declined by <NUM> percent <COMMA> reversing from gains the prior week <PUNC>
+the s&p <NUM> ended the week down less than <NUM> percent <COMMA> while the vix declined <NUM> percent on the week <PUNC>
+only one dow component <COMMA> home depot inc. hd <COMMA> reports this week <PUNC>
+twenty-three s&p <NUM> companies release results <PUNC>
+<PAR>

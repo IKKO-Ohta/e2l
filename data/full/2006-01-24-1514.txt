@@ -1,0 +1,12 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+mcdonald s corp mcd rose <NUM> percent to dollar <NUM> <PUNC>
+the fast food seller reported in-line earnings <COMMA> unveiled a dollar <NUM> billion stock buyback <COMMA> and said it planned to spend dollar <NUM> billion this year to open <NUM> new mcdonald s restaurants <PUNC>
+shares in united technologies corp. utx rose <NUM> percent to dollar <NUM> as its adjusted earnings topped wall street forecasts <COMMA> buoyed by the strong performance of its otis and carrier heating and cooling division <PUNC>
+johnson & johnson jnj dropped <NUM> percent to dollar <NUM> after the health care group s quarterly sales fell below year-earlier levels and did not meet expectations due to a shortened quarter and weakened pharmaceutical sales <PUNC>
+shares in dupont dd fell <NUM> percent to dollar <NUM> <COMMA> after the chemicals giant <COMMA> which already warned its fourth-quarter results would fall short of analyst estimates <COMMA> said it still anticipates continued earnings weakness due to lower sales of crop-protection chemicals <PUNC>
+3m co. mmm reported a <NUM> percent rise in fourth-quarter profit over year-ago levels <COMMA> lifted by sales in its industrial and display and graphic statements <PUNC>
+the stock was off dollar <NUM> at dollar <NUM> <PUNC>
+wal-mart stores wmt <COMMA> also in the dow <COMMA> climbed <NUM> cents to dollar <NUM> after goldman sachs upgraded the stock to outperform from an inline rating <COMMA> noting that the company s management is intensely focused on getting returns on its investments <PUNC>
+daimlerchrysler dcx shares picked up <NUM> percent to dollar <NUM> as the carmaker joined general motors corp. gm and ford motor co. f in cutting jobs <PUNC>
+the company announced <NUM> job cuts <PUNC>
+<PAR>

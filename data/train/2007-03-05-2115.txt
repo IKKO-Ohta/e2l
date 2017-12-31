@@ -1,0 +1,7 @@
+after a volatile session that saw the dow first fall <NUM> points and then rise by <NUM> points <COMMA> the dow industrials dji finished down <NUM> points at <NUM> <COMMA> weighed by the likes of alcoa inc. aa <COMMA> citigroup inc. c <COMMA> jp morgan chase & co. jpm <COMMA> mcdonalds corp. mcd and at&t inc. t <PUNC>
+only six of the the dow s <NUM> stocks remained positive <COMMA> including hewlett packard co. hpq <COMMA> ibm ibm and coca cola co. ko <PUNC>
+news that the nonmanufacturing sector of the u.s. economy expanded at a slower pace in february - and was slower than economists expected - first sent the dow further in negative territory <PUNC>
+but the market seemed to find a floor right after the data <PUNC>
+on friday stocks ended lower <COMMA> with the dow posting its largest weekly percentage decline since march <NUM> <PUNC>
+equities last week were battered by the japanese yen s rally against the dollar <COMMA> more bad news for mortgage lenders and global anxieties <PUNC>
+<PAR>

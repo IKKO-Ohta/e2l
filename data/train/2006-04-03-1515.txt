@@ -1,0 +1,10 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+the dow industrials have ended the first session of the month with gains <NUM> out the last <NUM> times <COMMA> according to the stock trader s almanac <PUNC>
+dow industrials component general motors gm was up <NUM> cents at dollar <NUM> after the automaker said it would generate dollar <NUM> billion in cash from the sale of a <NUM> percent stake in its financing unit <PUNC>
+among other m&a deals <COMMA> dow member verizon communications vz said it was selling some telecommunications assets for dollar <NUM> billion <COMMA> motorola mot agreed to sell its automotive electronics business for dollar <NUM> billion in cash and service corp. international sci said it s going to buy alderwoods group awgi for dollar <NUM> million <PUNC>
+elsewhere <COMMA> wal-mart stores inc wmt was one of only a handful of dow stocks trading lower after the retail giant offered up a march same-stores outlook at the lower end of its previous forecast range <PUNC>
+the stock was last off <NUM> cents at dollar <NUM> <PUNC>
+microsoft shares msft gained <NUM> percent to dollar <NUM> after a positive article in barron s <PUNC>
+the weekly financial newspaper said the company represents one of the technology sector s most tempting investments as it prepares to roll out the most significant upgrade to its operating system in more than a decade <PUNC>
+caterpillar inc. cat rallied <NUM> percent to dollar <NUM> as the heavy equipment maker benefited from the strong construction data <PUNC>
+<PAR>

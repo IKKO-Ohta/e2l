@@ -1,0 +1,14 @@
+u.s. stocks ended mixed tuesday as the nasdaq composite recovered from early weakness <COMMA> but disappointing earnings from alcoa inc. saw the dow jones industrial average log a small loss for the session <COMMA> and its first for the year <PUNC>
+the dow industrials dji put in a fractional loss <COMMA> ending down <NUM> point at <NUM> <PUNC>
+the benchmark index <COMMA> however <COMMA> held onto the <NUM> mark <COMMA> which it breached for the first time in more than four and a half years on monday <PUNC>
+alcoa aa shares tumbled as much as <NUM> percent to dollar <NUM> in morning trading <COMMA> before trimming losses <PUNC>
+the world s biggest aluminum producer posted fourth-quarter results that fell short of analyst expectations <PUNC>
+the company blamed its weak earnings on a long list of production outages <COMMA> strikes and restructuring costs <PUNC>
+the stock ended down <NUM> percent at dollar <NUM> <PUNC>
+home depot inc. hd was the biggest percentage gainer on the dow after the home improvement giant agreed to buy hughes supply hug <COMMA> a distributor of construction <COMMA> repair and maintenance products for dollar <NUM> billion <COMMA> in a move to boost its presence in the market for professional supplies <PUNC>
+after gaining more than <NUM> percent monday <COMMA> shares of general motors corp. gm slipped <NUM> cents to dollar <NUM> after it announced sweeping up-front price cuts on most of the models it s showcasing this week at the detroit auto show <PUNC>
+united technologies corp. utx <COMMA> another dow component <COMMA> fell as much as <NUM> percent to dollar <NUM> after broker credit suisse first boston cut its recommendation on the company to neutral from outperform as part of wider downgrade of the multi-industry sector <PUNC>
+the stock recovered in line with the broader market <COMMA> ending the session up <NUM> cents at dollar <NUM> <PUNC>
+shares in verizon communications vz tacked on <NUM> cents to dollar <NUM> after broker bear stearns upgraded the telecommunications giant to outperform from peer perform <COMMA> primarily on valuation <PUNC>
+boston scientific corp. bsx and johnson & johnson jnj are currently involved in a takeover battle to acquire guidant <PUNC>
+<PAR>

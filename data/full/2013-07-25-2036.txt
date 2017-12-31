@@ -1,0 +1,4 @@
+after falling nearly <NUM> points <COMMA> the dow jones industrial average dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+it posted a record close of <NUM> on tuesday <PUNC>
+shares of caterpillar inc. cat fell <NUM> percent after bmo capital markets downgraded the equipment maker to market perform from outperform <PUNC>
+<PAR>

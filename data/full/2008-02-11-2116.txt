@@ -1,0 +1,5 @@
+down more than <NUM> points earlier <COMMA> the dow jones industrial average dji gained <NUM> points to close at <NUM> <COMMA> with <NUM> of its <NUM> components closing higher <COMMA> led by general motors corp. gm <COMMA> up <NUM> percent <PUNC>
+other blue-chip financials traded marginally lower <COMMA> with citigroup inc. c off <NUM> percent <PUNC> american express co. axp down <NUM> percent and j.p. morgan chase jpm off <NUM> percent <PUNC>
+ahead of the opening bell <COMMA> dow jones & co. disclosed plans to replace dow industrials components altria group inc. mo and honeywell international inc. hon with bank of america corp. bac and chevron corp. cvx <COMMA> effective feb. <NUM> <PUNC>
+for chevron <COMMA> being a part of the dow will be less than novel <COMMA> as the company has been added and removed from the gauge twice before <PUNC>
+<PAR>

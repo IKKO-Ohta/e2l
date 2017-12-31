@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+technology companies gained after the semiconductor industry association said global chip sales rose <NUM> percent in september from a month earlier <PUNC>
+intel intc climbed <NUM> percent <COMMA> while microsoft msft gained <NUM> percent and hewlett-packard hpq rose <NUM> percent <PUNC>
+<PAR>

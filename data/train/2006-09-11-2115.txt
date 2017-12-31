@@ -1,0 +1,8 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+by sector <COMMA> energy xoi and oil services stocks osxx moved sharply lower on lower oil prices <PUNC>
+oil giant and dow component exxon mobil corp. xom was a notable decliner <COMMA> off <NUM> percent at dollar <NUM> <PUNC>
+gold stocks gox plunged as the price of the precious metal slumped <PUNC>
+the general sell-off in the metals market prompted a more than <NUM> percent slide in shares of aluminum giant alcoa inc. aa <PUNC>
+wal-mart stores inc. wmt rallied <NUM> percent to dollar <NUM> <PUNC>
+chicago mayor richard daley has vetoed the ordinance requiring so-called big-box retailers to pay their employees substantially more than the minimum wage <PUNC>
+<PAR>

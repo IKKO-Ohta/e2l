@@ -1,0 +1,8 @@
+u.s. stocks surged tuesday <COMMA> sparking the dow s greatest one-day rise in nearly five years <COMMA> after the federal reserve gave wall street what it s been clamoring for <COMMA> cutting benchmark interest rates even more than most analysts had predicted <PUNC>
+up more than <NUM> points before the fed s move <COMMA> the dow jones industrial average dji quickly ascended in its aftermath <COMMA> closing up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all but one of its <NUM> components ahead <PUNC>
+the dow s rise marked its largest one-day jump since oct. <NUM> <COMMA> <NUM> <COMMA> and its biggest percent rise since april <NUM> <COMMA> <NUM> <PUNC>
+american express co. axp was up <NUM> percent after its agreement to sell its international banking unit in a deal worth about dollar <NUM> billion. <PUNC>
+after leading the dow s losses earlier on <COMMA> general motors corp. gm was up <NUM> percent <PUNC>
+its stock was downgraded by goldman sachs <COMMA> which shifted the automaker s shares to neutral from buy <COMMA> saying likely union concessions are priced in <PUNC>
+procter & gamble co. pg reiterated quarterly profit and sales forecasts <PUNC>
+<PAR>

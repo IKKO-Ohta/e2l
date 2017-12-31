@@ -1,0 +1,15 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> boosted by a better-than-expected reading of consumer-confidence <PUNC>
+a rise in second-quarter home prices added to the day s tentative climb <COMMA> though few investors thought the day s data points altered expectations for a longer <COMMA> slower recovery <PUNC>
+key indexes are on track for a month of steep losses as other investors lowered their expectations for economic growth in response to a flood of weak data in august <PUNC>
+the dow has shed nearly <NUM> percent this month <COMMA> its first down august in five years <PUNC>
+this month is on track to be the blue-chip measure s worst august since <NUM> <PUNC>
+technology stocks took a hit after technology researcher gartner cut its <NUM> projection for world-wide personal-computer shipments <COMMA> saying the second half won t be a strong as it previously expected <PUNC>
+intel intc fell <NUM> percent <COMMA> while cisco systems csco shed <NUM> percent <PUNC>
+flash-memory device maker sandisk sndk fell <NUM> percent <PUNC>
+the dow was recently up <NUM> percent to <NUM> <PUNC>
+j.p. morgan chase jpm <COMMA> which had been one of the dow s worst performers in august <COMMA> rose <NUM> percent on tuesday <PUNC>
+verizon vz gained <NUM> percent <COMMA> part of a broad rise among telecommunications companies <PUNC>
+sprint nextel us-s rose <NUM> percent <PUNC>
+pfizer pfe <COMMA> the dow s top performer this month as of monday s close <COMMA> rose <NUM> percent tuesday after an experimental blood-thinning drug it developed with bristol-myers squibb bmy cut the rate of strokes among people with abnormal heartbeats by more than <NUM> percent versus aspirin <COMMA> and didn t significantly increase major bleeding <COMMA> according to a study <PUNC>
+shares of bristol-myers gained <NUM> percent <PUNC>
+<PAR>

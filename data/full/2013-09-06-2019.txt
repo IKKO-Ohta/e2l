@@ -1,0 +1,3 @@
+u.s. stocks finished little changed friday <COMMA> but with the dow jones industrial average halting a four-week losing streak <COMMA> as wall street s attention shifted from developments related to syria to the impact of the jobs report on u.s. monetary policy <PUNC>
+halting its longest winning streak since the middle of july <COMMA> the dow jones industrial average dji ended the session off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+<PAR>

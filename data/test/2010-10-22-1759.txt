@@ -1,0 +1,6 @@
+the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the dow s decline was led by american express co. axp and verizon communications inc. vz <COMMA> as investors looked past quarterly earnings from both companies that topped analysts estimates <PUNC>
+read more on american express <PUNC>
+nevertheless <COMMA> the dow industrials and the s&p <NUM> are on pace to close the week in positive territory <COMMA> which would mark their third-straight week in the black and seventh weekly gain out of the last eight weeks <PUNC>
+the nasdaq climbed narrowly into positive territory for the week on friday <COMMA> up just <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+up more than <NUM> points shortly after the opening bell <COMMA> the dow jones industrial average dji recently climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components higher <COMMA> with financial stocks fronting the blue-chip advance <COMMA> including jp morgan chase co. jpm <COMMA> up <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+u.s. stocks sank on tuesday <COMMA> causing the dow jones industrial average to give up <NUM> points <COMMA> as the rising tide of problems in the subprime mortgage market spurred fear of contagion across the whole financial sector <COMMA> while weaker-than-expected retail sales confirmed a slowing economic outlook <PUNC>
+the market is gripped by subprime contagion <COMMA> said peter boockvar <COMMA> equity strategist at miller tabak <PUNC>
+these are the same problems that have been weighing on the market for the last couple of weeks <COMMA> he said <COMMA> referring to the downtrend seen ever since the dow fell <NUM> points exactly two weeks ago <PUNC>
+the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> its worst fall since its massive february <NUM> selloff <COMMA> with <NUM> of its <NUM> were in negative territory. <PUNC>
+among financial stocks american express co. axp and citigroup inc. c took losses over <NUM> percent and jp morgan chase & co. jpm gave up <NUM> percent <PUNC>
+general motors corp. gm fell <NUM> percent after its financing unit gmac gm said earnings were significantly hurt by the company s residential capital llc <COMMA> or rescap <COMMA> unit amid the decline in the housing market and rising subprime issues <PUNC>
+<PAR>

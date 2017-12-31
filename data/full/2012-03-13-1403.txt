@@ -1,0 +1,2 @@
+briefly reclaiming its perch above <NUM> <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <PUNC>
+<PAR>

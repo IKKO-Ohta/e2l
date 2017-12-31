@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components advanced <PUNC>
+leading the gains among blue chips <COMMA> alcoa aa rose <NUM> percent <PUNC>
+the aluminum giant has offered dollar <NUM> a share <COMMA> or dollar <NUM> billion <COMMA> in cash and stock for canada s alcan al <PUNC>
+the offer represents a <NUM> percent premium to alcan s average closing price over the past <NUM> days <PUNC>
+among technology shares on the nasdaq <COMMA> yahoo inc. yhoo was the most heavily traded stock <COMMA> losing <NUM> percent <PUNC>
+a report late friday said microsoft corp. msft was no longer holding talks about a possible merger with yahoo <PUNC>
+<PAR>

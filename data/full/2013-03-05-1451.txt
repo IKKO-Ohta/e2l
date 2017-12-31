@@ -1,0 +1,4 @@
+u.s. stocks rose sharply tuesday <COMMA> lifting the dow jones industrials average above its all-time intraday and closing highs <COMMA> ahead of a report on the u.s. services sector <PUNC>
+the dow industrials dji were up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> topping its all-time closing and intradday highs set in october <NUM> <PUNC>
+overseas markets took the lead from that second-best close for the dow industrials <COMMA> with asian markets attracting buyers <COMMA> especially chinese stocks <COMMA> which had been beaten down the prior day <PUNC>
+<PAR>

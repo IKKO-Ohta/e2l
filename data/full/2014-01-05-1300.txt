@@ -1,0 +1,6 @@
+the dow jones industrial average dji <COMMA> the s&p <NUM> index spx <COMMA> and the nasdaq composite index rixf all finished slightly lower last week <COMMA> after all three hit their highs for <NUM> on dec. <NUM> <PUNC>
+the new year s eve surge capped the best year for the s&p <NUM> and dow average since the <NUM> s <PUNC>
+the last leg of that rally came after the fed finally made the move that had obsessed financial markets for the past year <PUNC> it said it would start reducing asset purchases in january <PUNC>
+whether investors felt the tapering was slight dollar <NUM> billion or because the fed stressed it was committed to keep rates low <COMMA> stocks kept on their rally hats <PUNC>
+the s&p <NUM> rose by about <NUM> percent before year end following the dec. <NUM> fed decision <PUNC>
+<PAR>

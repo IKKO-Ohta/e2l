@@ -1,0 +1,4 @@
+the decline follows a three-day rise that had the dow jones industrial average dji on monday ending above <NUM> for the first time since sept. <NUM> <COMMA> <NUM> <PUNC>
+on tuesday <COMMA> the dow fell <NUM> points to <NUM> <COMMA> with alcoa aa down <NUM> percent <COMMA> leading the declines that spread to all but five of the index s <NUM> components <PUNC>
+another dow component <COMMA> computer chip manufacturer intel corp. intc reports results after tuesday s close <PUNC>
+<PAR>

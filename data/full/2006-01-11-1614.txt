@@ -1,0 +1,7 @@
+new york marketwatch - u.s. stocks traded back and forth across the flatline wednesday amid some concern the fourth-quarter earnings season may not live up to expectations after dupont became the second component of the dow jones industrial average <COMMA> after alcoa inc. <COMMA> to disappoint investors <PUNC>
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+shares of dupont dd fell as much as <NUM> percent to a session low of dollar <NUM> after the chemicals manufacturer warned that its fourth-quarter will not meet analysts expectations due to hurricane-linked disruptions <PUNC>
+hewlett-packard <COMMA> hpq also in the dow <COMMA> was <NUM> cents higher at dollar <NUM> <PUNC>
+the company got an upgrade from prudential equity <COMMA> which noted positive cost savings <PUNC>
+johnson & johnson jnj was in focus after the new york times said the drug giant is considering a new bid for medical devices maker guidant corp. gdt <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the u.s. stock market ended a volatile session on wednesday slightly higher with the dow jones industrial average closing at a record level for the first time this year <PUNC>
+the dow jones industrial average dji closed at a record level after rising <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
+the blue-chip index gained <NUM> percent over the past month <PUNC>
+<PAR>

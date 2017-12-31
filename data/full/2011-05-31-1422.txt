@@ -1,0 +1,2 @@
+scaling back from an early 120-point rise <COMMA> the dow jones industrial average dji was lately up <NUM> points to <NUM> <PUNC>
+<PAR>

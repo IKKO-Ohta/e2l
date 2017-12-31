@@ -1,0 +1,6 @@
+u.s. stocks fell sharply thursday <COMMA> socking the dow with its second worst close so far this year <COMMA> as reports of liquidating hedge funds triggered more credit-related anxiety <COMMA> which earlier led three central banks to intervene in an attempt to calm markets <PUNC>
+the dow jones industrial average dji slumped <NUM> points <COMMA> <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but one of its <NUM> components ending in the red <COMMA> including citigroup inc. c <COMMA> which fell <NUM> percent <COMMA> leading a slump in the financial sector that also hit jp morgan chase co. jpm <COMMA> whose stock also dropped over <NUM> percent <PUNC>
+dow component american international group inc. aig fell <NUM> percent after the world s largest insurer said residential mortgage delinquencies and defaults are climbing <COMMA> signaling damage in the mortgage market could be expanding <PUNC>
+wal-mart stores wmt <COMMA> also a blue chip <COMMA> fell <NUM> percent after the retailer said its july sales at stores open at least one year rose <NUM> percent <PUNC>
+analysts <COMMA> on average <COMMA> had expected the same-store sales to rise <NUM> percent <PUNC>
+<PAR>

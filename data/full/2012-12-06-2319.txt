@@ -1,0 +1,4 @@
+up <NUM> percent for the week so far <COMMA> the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with computer-chip maker intel corp. intc leading gains among the <NUM> components <PUNC>
+akamai technologies inc. akam rallied <NUM> percent on news that it would jointly sell services with at&t inc. t <PUNC>
+on wednesday <COMMA> stocks mostly advanced <COMMA> with the dow jones industrial average dji rising <NUM> points <COMMA> after bloomberg news reported of republican defections to a bipartisan effort on capitol hill to break the budget impasse <PUNC>
+<PAR>

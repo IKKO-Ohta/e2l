@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> which positions the blue-chip index for a monthly decline of <NUM> points <COMMA> or nearly <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were posting gains at mid-day <COMMA> with the top advancer american insurance group inc. aig <COMMA> up <NUM> percent <PUNC>
+bank of america corp. bac was among the day s bigger decliners on the dow <COMMA> its stock recently off <NUM> percent <PUNC>
+<PAR>

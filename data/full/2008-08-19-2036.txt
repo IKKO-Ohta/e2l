@@ -1,0 +1,5 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with <NUM> of its <NUM> components ending lower <PUNC>
+financial shares led the way down among the dow s blue chips as aig aig slid <NUM> percent <COMMA> american express axp fell <NUM> percent <COMMA> bank of america bac lost <NUM> percent <COMMA> and j.p. morgan chase jpm dipped <NUM> percent <PUNC>
+on the dow <COMMA> home depot hd fell <NUM> percent after the home improvement retailer reported a profit drop for the second quarter <COMMA> just like peer lowe s low <PUNC>
+the technology sector was off <NUM> percent <COMMA> ahead of quarterly results from hewlett-packard hpq and semiconductor firm analog devices adi after the close <PUNC>
+<PAR>

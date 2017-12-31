@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> at last check <PUNC>
+microsoft corp. msft was in focus after a wsj.com report that it is leveraging personal and search information gleaned from its hotmail e-mail program and its live search engine in a worldwide effort to target ads at users of its sites <PUNC>
+the method <COMMA> called behavioral targeting <COMMA> is designed to enable advertisers to more efficiently reach exactly the people they want to reach <PUNC>
+the new york times is also reporting that verizon wireless vz will enable placement of banner ads on internet sites that its customers visit via their mobile phones <PUNC>
+advertisers have been spending more on mobile ads even as experts question how effective ads over cellphones are <COMMA> the paper reported <PUNC>
+<PAR>

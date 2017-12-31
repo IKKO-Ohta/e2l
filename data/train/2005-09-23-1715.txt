@@ -1,0 +1,6 @@
+new york dow jones - u.s. stocks trimmed losses to trade mostly flat friday as hurricane rita weakened further sending crude-oil prices tumbling <COMMA> but the dow jones industrial average was underperforming <COMMA> knocked back by a profit warning from alcoa <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> but was off an early low of <NUM> <PUNC>
+alcoa inc. aa fell more than <NUM> percent in midday trading after the company warned that hurricane rita <COMMA> low aluminum prices and higher raw-material costs would take a bite out of its third-quarter profit <PUNC>
+shares in the pittsburgh-based metals giant <COMMA> a component of the dow industrials <COMMA> fell dollar <NUM> to dollar <NUM> <COMMA> its lowest level in over two years <PUNC>
+both prudential and goldman sachs downgraded the company in the wake of its profit warning <PUNC>
+<PAR>

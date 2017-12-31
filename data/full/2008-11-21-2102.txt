@@ -1,0 +1,6 @@
+after a volatile afternoon of indecisive trade <COMMA> the dow jones industrial average dji surged <NUM> points to <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> all but three posted gains <PUNC>
+aluminum producer alcoa inc. aa fronted the dow s gains <COMMA> climbing <NUM> percent <PUNC>
+wal-mart stores inc. wmt edged <NUM> percent higher after the discount retailer unexpectedly named international chief mike duke to succeed lee scott as president and chief executive <COMMA> effective feb. <NUM> <PUNC>
+shares of citigroup c fell <NUM> percent as analysts pondered what the future holds for the financial-services company <COMMA> which a year ago was valued at about dollar <NUM> billion <COMMA> and now stands at dollar <NUM> billion <PUNC>
+<PAR>

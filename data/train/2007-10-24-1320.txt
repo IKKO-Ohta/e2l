@@ -1,0 +1,3 @@
+futures for the dow industrials dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+dow component boeing co. ba reported a steep hike in third-quarter profits <COMMA> but trimmed its revenue forecast for next year <PUNC>
+<PAR>

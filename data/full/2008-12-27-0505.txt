@@ -1,0 +1,6 @@
+this trend was partly at work over the past week <COMMA> which saw the dow jones industrial average dji lose <NUM> percent <COMMA> the s&p <NUM> index spx drop <NUM> percent and the nasdaq composite rixf fall <NUM> percent <PUNC>
+and most investors probably won t have any trouble locating losing assets in their portfolios <PUNC>
+since the beginning of <NUM> <COMMA> the dow industrials have lost <NUM> percent <PUNC> the s&p <NUM> <COMMA> encumbered by financials <COMMA> is down <NUM> percent <PUNC> and the nasdaq composite has fallen <NUM> percent <PUNC>
+the dow industrials rose <NUM> points to finish friday at <NUM> <COMMA> with shares of general motors corp. gm pacing the gainers <PUNC>
+the federal reserve approved the request by gm s finance arm <COMMA> gmac <COMMA> to become a bank holding company <COMMA> clearing the way for it to receive aid from the government <PUNC>
+<PAR>

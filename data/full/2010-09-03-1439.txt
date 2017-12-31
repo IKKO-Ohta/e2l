@@ -1,0 +1,5 @@
+the dow jones industrial average rose <NUM> points <COMMA> retreating from its earlier triple-digit climb <PUNC>
+the measure pared its gains after a reading of service-sector data came in slightly weaker than expected <COMMA> denting enthusiasm over the government s monthly jobs report <PUNC>
+the dow dji rose <NUM> percent to <NUM> <COMMA> led by a <NUM> percent rise in caterpillar cat <PUNC>
+after a bruising august <COMMA> the measure has already climbed <NUM> percent this week <COMMA> as traders have seized on brighter manufacturing <COMMA> housing and jobs data as signs that the economy may still avoid a double-dip recession <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+up most of the day after a shaky start <COMMA> the dow jones industrial average dji added to its gains late in the session <COMMA> when it was <NUM> points higher at <NUM> <PUNC>
+the dow s advance was led by automaker gm gm <COMMA> which was up nearly <NUM> percent after posting a <NUM> percent increase in light vehicles sales in the u.s. in august <COMMA> topping estimates from analysts <COMMA> who forecast a fall of about <NUM> percent <PUNC>
+the blue-chip advance also included verizon communications vz <COMMA> shares of which were up <NUM> percent <COMMA> and exxon mobil xom <COMMA> up <NUM> percent <COMMA> with shares of the largest oil producer hitting a three-week high as the price of oil advanced <PUNC>
+home depot hd led the dow s declining stocks <COMMA> dropping nearly <NUM> percent and pacing a slide in retail-sector shares as well <PUNC>
+gaining along with the dow <COMMA> the s&p <NUM> spx was up <NUM> points at <NUM> and the nasdaq composite rixf was ahead <NUM> points at <NUM> <PUNC>
+pharmaceuticals traded actively <COMMA> including dow component merck & co. inc. mrk after positive results released sunday on its experimental cholesterol drug <PUNC>
+another study released during the weekend indicated drug-coated heart stents <COMMA> such as those made by boston scientific bsx and johnson & johnson jnj <COMMA> may not increase the risk of blood clots as much as previously thought <PUNC>
+shares of dow component intel intc traded up <NUM> percent <PUNC>
+banc of america securities increased its price target to dollar <NUM> from dollar <NUM> <COMMA> citing strong demand for notebook computers <PUNC>
+<PAR>

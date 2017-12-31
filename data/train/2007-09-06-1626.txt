@@ -1,0 +1,3 @@
+after trading lower earlier on <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+wal-mart inc. wmt reported a stronger-than-forecast <NUM> percent sales rise for august <PUNC>
+<PAR>

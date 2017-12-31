@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points to <NUM> <PUNC>
+leading blue-chip gains <COMMA> caterpillar inc. cat rose <NUM> percent after its board announced a dollar <NUM> billion stock repurchase plan <PUNC>
+microsoft corp. msft rose <NUM> percent <COMMA> as the company holds a meeting on strategic direction with wall street analysts <PUNC>
+the report cited major firms such as powerhouses merrill lynch & co. mer and j.p. morgan chase & co. jpm <COMMA> as well as hsbc holdings plc hbc <COMMA> which spooked the market last week when it issued a profit warning due to bad loans <PUNC>
+on wednesday <COMMA> the market rallied sending the dow to new highs as investors cheered soothing words on inflation from bernanke <COMMA> easing concerns that the fed may raise interest rates later this year <PUNC>
+<PAR>

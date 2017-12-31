@@ -1,0 +1,7 @@
+u.s. stocks swooned thursday <COMMA> with the dow industrials sliding over <NUM> points <COMMA> as a downgrade of citigroup inc. revived concerns about the woes of the financial sector <COMMA> sobering up markets after the euphoria of the federal reserve s rate cut the previous day <PUNC>
+the dow jones industrial average dji ended down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> its worst day since october <NUM> <COMMA> which marked the anniversary of black monday <PUNC>
+the dow was weighed down by citigroup c <COMMA> which slid nearly <NUM> percent <COMMA> along with other financial stocks such american express axp <COMMA> aig aig and jp morgan chase jpm <PUNC>
+citigroup c will have to raise more than dollar <NUM> billion by either selling assets <COMMA> cutting its dividend or raising capital <COMMA> analysts at cibc world markets said as they downgraded the stock <PUNC>
+write-downs of securities tied to bad home loans are worsening citi s situation <COMMA> they added <PUNC>
+exxon mobil xom fell <NUM> percent after announcing that third-quarter income fell <NUM> percent as the rising cost of oil raised expenses and outpaced any price increases that the petroleum giant could get for its products <PUNC>
+<PAR>

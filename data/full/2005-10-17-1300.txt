@@ -1,0 +1,9 @@
+the dow jones industrial average dji ended just off its session high o f <NUM> <COMMA> with the benchmark index virtually unchanged on the week <PUNC>
+citigroup inc c was the first of three dow components to report earnings monday <PUNC>
+general motors corp gm gained in pre-market dealings <COMMA> buoyed by news that it has reached agreement with the united auto workers union to cut health care costs <COMMA> that will lead to dollar <NUM> billion in savings <PUNC>
+the car maker also said it is exploring the sale of gmac <COMMA> its financing unit and is planning to cut <NUM> jobs or more in a bid to restore profitability <PUNC>
+international business machines ibm is the third dow component slated to release results after the market close <PUNC>
+the company is seen earning dollar <NUM> a share on revenue of dollar <NUM> billion <PUNC>
+elsewhere on the blue-chip index <COMMA> wal-mart stores wmt re-iterated over the weekend that it still expects to report an increase of <NUM> percent to <NUM> percent for october sales at locations open for at least one year <PUNC>
+meanwhile <COMMA> the leasing unit of american international group aig has ordered <NUM> boeing <NUM> dreamliner jets <COMMA> the wall street journal reported <PUNC>
+<PAR>

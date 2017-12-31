@@ -1,0 +1,9 @@
+with a modest gain so far on friday <COMMA> the dow jones industrial average has nearly climbed out of negative territory for <NUM> to date <COMMA> helped by a widening perception on wall street that the federal reserve s discount-rate increase is a sign of strength in the u.s. economy <PUNC>
+the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> less than seven points from its <NUM> close <PUNC>
+the nasdaq composite rixf was up <NUM> percent <PUNC>
+the standard & poor s 500-share index spx gained <NUM> percent <COMMA> with utilities and financials leading the climb <PUNC>
+financial stocks were mostly stronger on friday <PUNC>
+bank of america bac shook off earlier declines to climb <NUM> percent <PUNC>
+insurance companies also gained <COMMA> as premiums invested in fixed-income assets stand to benefit if interest rates rise <PUNC>
+insurer chubb cb gained almost <NUM> percent <PUNC>
+<PAR>

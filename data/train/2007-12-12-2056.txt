@@ -1,0 +1,6 @@
+up <NUM> points early on <COMMA> the dow jones industrial average dji was more recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+citigroup inc. c dropped furthest <COMMA> its stock down <NUM> percent <PUNC>
+fronting the blue-chip s remaining advancing stocks <COMMA> at&t shares t <COMMA> up <NUM> percent <COMMA> headed higher for a second day after the telecommunications giant painted a rosier picture of future growth in a meeting with analysts <PUNC>
+boeing co. ba <COMMA> down <NUM> percent <COMMA> was among blue-chip decliners after its downgrade to equal-weight from overweight at morgan stanley <PUNC>
+and <COMMA> financial shares declined after bank of america corp. bac warned of larger fourth-quarter losses than previously projected <COMMA> and was also among the institutions to draw a downgrade by merrill lynch <COMMA> with the broker also cutting its ratings on j.p. morgan chase co. jpm and wachovia corp. wb <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components tallying losses <COMMA> led by hewlett-packard hpq <COMMA> its shares off <NUM> percent <COMMA> after new ceo leo apotheker after tuesday s close projected revenue for the current fiscal year under expectations <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji was recently off <NUM> points at <NUM> <COMMA> readying it for a weekly decline of roughly <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were trading lower <COMMA> with the blue-chip benchmark s financial components among those hard hit <PUNC>
+specifically <COMMA> j.p. morgan chase jpm fell <NUM> percent <COMMA> while american international group aig gave up <NUM> percent <PUNC> american express co. axp traded down <NUM> percent <PUNC> and citigroup inc. c declined <NUM> percent <PUNC>
+on thursday <COMMA> u.s. stocks fell sharply <COMMA> with the dow industrials falling more than <NUM> points <PUNC>
+among other things <COMMA> a downgrade of blue-chip bellwether citigroup inc. c revived concerns about the financial sector <PUNC>
+<PAR>

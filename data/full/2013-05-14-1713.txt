@@ -1,0 +1,5 @@
+u.s. stocks rose <COMMA> putting the dow jones industrial average on track to extend its win streak to an 18th consecutive tuesday <COMMA> as wall street embraced the view of a still-improving economy <PUNC>
+after gaining each of the last <NUM> tuesdays <COMMA> the dow industrials dji was on track for an 18th tuesday gain <PUNC>
+the dow was last up <NUM> points to <NUM> <PUNC>
+interestingly <COMMA> if one takes out those tuesday gains <COMMA> the dow has not done all that much this year <COMMA> wrote saut <PUNC>
+<PAR>

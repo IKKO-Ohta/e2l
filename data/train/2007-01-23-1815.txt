@@ -1,0 +1,9 @@
+the market was also seeing a rebound from monday s session <COMMA> which saw the dow jones industrial average lose well over <NUM> points and the nasdaq composite drop by over <NUM> percent <COMMA> before recovering some ground just before the close <PUNC>
+the dow dji was last up <NUM> points at <NUM> <PUNC>
+shares of united technologies utx were up <NUM> percent <COMMA> posting the best gains among blue chips after its results came ahead of expectations <PUNC>
+strong gains in shares of boeing co. ba <COMMA> verizon vz and alcoa inc. aa were also supporting the blue-chip average <PUNC>
+but dupont dd <COMMA> whose results met expectations <COMMA> fell <NUM> percent and weighed heavily on the blue-chip average.likewise <COMMA> johnson & johnson jnj <COMMA> which posted better than expected results <COMMA> fell nearly <NUM> percent <PUNC>
+disappointments over the earnings outlook from the likes of tech-heavyweights apple inc. aapl <COMMA> ibm ibm and intel corp. intc had soured sentiment <PUNC>
+with corporations still full of cash <COMMA> many analysts expect that corporate spending on technology upgrades <COMMA> such as microsoft corp. s msft new operating system vista <COMMA> will be a boon for tech companies this year <PUNC>
+on tuesday <COMMA> oil service companies <COMMA> such as valero energy vlo <COMMA> and integrated oil producers <COMMA> such as exxon mobil corp. xom were among the top gainers in the market <PUNC>
+<PAR>

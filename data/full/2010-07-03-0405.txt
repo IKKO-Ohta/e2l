@@ -1,0 +1,2 @@
+down for seventh consecutive session <COMMA> the dow jones industrial average dji on friday fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it with a weekly drop of <NUM> percent <PUNC>
+<PAR>

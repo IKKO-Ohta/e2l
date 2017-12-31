@@ -1,0 +1,4 @@
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and finished the week <NUM> percent higher <PUNC>
+the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its biggest one-day percentage gain in more than <NUM> months <PUNC>
+the blue-chip index gained <NUM> percent over the week <PUNC>
+<PAR>

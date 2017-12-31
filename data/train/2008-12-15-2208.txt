@@ -1,0 +1,6 @@
+after climbing two out of the past three sessions <COMMA> the dow jones industrial average dji finished off its lows <COMMA> down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
+the blue-chip average earlier fell to a low of <NUM> <PUNC>
+financials weighed the most on the blue-chip index <COMMA> with j.p. morgan chase & co. jpm off more than <NUM> percent and american express co. axp down <NUM> percent <PUNC>
+bank of america corp. bac lost more than <NUM> percent and citigroup inc. c fell nearly <NUM> percent <PUNC>
+shares of both general motors corp. gm and ford motor co. f finished higher <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji edged up less than a point to <NUM> <PUNC>
+the nasdaq composite rixf declined <NUM> percent to <NUM> while the standard & poor s <NUM> index spx edged down <NUM> percent to <NUM> <PUNC>
+the materials and energy sectors led to the downside while financials gained <PUNC>
+monday marks the start of the first peak week of the third-quarter reporting season <COMMA> with <NUM> of the <NUM> dow jones industrial average components and more than a fifth of s&p <NUM> companies reporting <PUNC>
+other bellwethers due to report monday include apple aapl and international business machines ibm <COMMA> both scheduled for release after the close <PUNC>
+ahead of those reports <COMMA> apple edged up <NUM> percent and ibm eked out a gain of <NUM> percent <PUNC>
+<PAR>

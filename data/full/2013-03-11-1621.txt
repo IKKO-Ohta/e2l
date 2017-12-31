@@ -1,0 +1,6 @@
+u.s. stocks on monday wavered between small gains and losses after last week s record high for the dow jones industrial average and after economic data from the world s second-largest economy <PUNC>
+the dow industrials dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+as long as there is this widely held view that we re in for a correction we re likely not to have one <COMMA> said luschini of expectations that the market was due for a pullback <COMMA> given the <NUM> percent rise by the dow so far this year <PUNC>
+last week <COMMA> the dow set a string of record closing highs <COMMA> while the s&p <NUM> index ended friday at <NUM> <COMMA> just <NUM> points from its record <PUNC>
+see <PUNC> stocks up for week <PUNC> s&p <NUM> near record <PUNC>
+<PAR>

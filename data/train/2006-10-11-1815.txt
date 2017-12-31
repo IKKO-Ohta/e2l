@@ -1,0 +1,5 @@
+the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> but off a session low of <NUM> <PUNC>
+gains for general motors corp. gm <COMMA> intel corp. intc and at&t t helped offset a <NUM> percent drop in shares of alcoa inc. aa <PUNC>
+the dow jones internet index dj_9535 was under some pressure as cnet networks inc. cnet fell more than <NUM> percent after the online media firm announced an executive shake-up <COMMA> lowered its third-quarter and full-year revenue expectations and disclosed the results of a stock-options backdating investigation <PUNC>
+shares of alcoa inc. aa fell as much as <NUM> percent to an 11-month low of dollar <NUM> after the aluminum giant posted late tuesday third-quarter profit and sales that fell short of analyst expectations because of a steep drop in metals prices <COMMA> and rising costs <PUNC>
+<PAR>

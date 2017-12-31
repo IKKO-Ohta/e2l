@@ -1,0 +1,8 @@
+wal-mart stores inc. wmt and home depot inc. hd should offer insight on how the consumer is reacting to higher energy prices <COMMA> a slowing housing market and an interest rate-sensitive environment <PUNC>
+the nation s two largest retailers will unveil their second-quarter reports this week <PUNC>
+the dow jones industrial average dji closed down <NUM> points to <NUM> <PUNC>
+the s&p <NUM> spx fell <NUM> points to <NUM> and nasdaq composite rixf closed with a loss of <NUM> points <COMMA> to <NUM> <PUNC>
+the decision on tuesday by the fed to hold interest rates steady at <NUM> percent wasn t enough to lift equities higher for the week <PUNC>
+the dow lost <NUM> percent <PUNC> the s&p <NUM> fell <NUM> percent <PUNC> and the nasdaq composite dropped <NUM> percent <PUNC>
+results from three dow components - wal-mart <COMMA> home depot and hewlett-packard co. - hpq are slated for next week <PUNC>
+<PAR>

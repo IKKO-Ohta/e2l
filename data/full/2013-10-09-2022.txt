@@ -1,0 +1,3 @@
+u.s. stocks ended mostly up on wednesday <COMMA> with the dow industrials and the s&p <NUM> rebounding after a two-day hit <COMMA> buoyed by talks to end the government shutdown now in its ninth day and with little more than a week to go before u.s. borrowing authority expires <PUNC>
+after a 52-point drop and 76-point advance <COMMA> the dow jones industrial average dji finished up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+<PAR>

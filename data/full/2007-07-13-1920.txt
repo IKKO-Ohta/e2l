@@ -1,0 +1,11 @@
+on thursday <COMMA> the dow jones industrial average surged over <NUM> points to new record highs <COMMA> posting its best one-day performance in nearly four years <PUNC>
+the blue-chip average continued to advance in record territory on friday <PUNC>
+in recent action <COMMA> the dow industrials dji gained <NUM> points to <NUM> <COMMA> after earlier touching another record high of <NUM> <PUNC>
+the dow s gains for the week so far stood at <NUM> percent <COMMA> the best weekly performance since april <NUM> <PUNC>
+fifteen of the <NUM> blue-chip components advanced <COMMA> including caterpillar inc. cat <COMMA> at&t inc. t <COMMA> verizon communications vz and exxon mobil corp. xom <PUNC>
+leading the dow s gains <COMMA> alcoa inc. aa rose <NUM> percent after announcing late thursday it will withdraw its bid for alcan inc. al in light of rio tinto s higher acquisition offer <PUNC>
+alcoa could also become the center of a bidding war <PUNC>
+also a standout among the blue chips <COMMA> shares of general electric co. ge rose <NUM> percent <PUNC>
+the conglomerate reported in-line earnings and also announced that it is exiting its u.s. subprime mortgage business <PUNC>
+on thursday <COMMA> the proximate cause for the rally in stocks was above-forecast monthly sales numbers from wal-mart stores wmt <COMMA> costco wholesale cost and other retailers <COMMA> as well as a new dollar <NUM> billion deal under which rio tinto rtp agreed to buy alcan <PUNC>
+<PAR>

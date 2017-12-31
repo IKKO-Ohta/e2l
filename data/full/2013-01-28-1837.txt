@@ -1,0 +1,2 @@
+the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with caterpillar cat leading gains among <NUM> of its <NUM> components <PUNC>
+<PAR>

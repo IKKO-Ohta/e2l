@@ -1,0 +1,9 @@
+u.s. stocks saw early gains accelerate tuesday <COMMA> a day after the dow jones industrial average recorded its fourth-biggest point drop on record <COMMA> as investors turned to prospects for a bailout of the ailing auto industry <PUNC>
+monday s slide <COMMA> amid concerns about the global economy <COMMA> came on the heels of the dow having its biggest five-day point gain on record <PUNC>
+the dow industrials dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components advancing <PUNC>
+on monday <COMMA> the blue-chip average slumped <NUM> points <COMMA> halving its <NUM> point gain of the past five sessions <COMMA> as manufacturing data from china and the u.s. fueled concerns about the depth of the global downturn <PUNC>
+among blue chips <COMMA> shares of general motors corp. gm gained <NUM> percent <PUNC>
+elsewhere <COMMA> general electric ge <COMMA> another blue chip <COMMA> rose <NUM> percent even after the conglomerate warned it expects fourth-quarter earnings at the low end of its previously announced range <PUNC>
+ge clung to its dividend <PUNC>
+away from the dow <COMMA> goldman sachs gs fell <NUM> percent after the wall street journal said its fourth-quarter loss could be as much as dollar <NUM> a share <COMMA> five times the current analyst consensus <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+u.s. stocks got clobbered this past week <PUNC>
+the s&p <NUM> index spx and the nasdaq composite index rixf both had their worst weeks since mid-2012 <COMMA> falling <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
+the dow jones industrial average dji fell <NUM> percent for its worst week since mid-march <PUNC>
+that s just in time for a ramping up of earnings season <PUNC>
+during the four-day trading week <COMMA> which ends thursday ahead of the good friday holiday <COMMA> nine dow components report quarterly results <PUNC>
+those dow components include coca-cola co. ko <COMMA> johnson & johnson inc. jnj <COMMA> and intel intc on tuesday <PUNC> ibm ibm and american express co. axp on wednesday <PUNC> with unitedhealth group inc. unh <COMMA> general electric co. ge <COMMA> goldman sachs group inc. gs <COMMA> and dupont dd on thursday <PUNC>
+financial results continue after friday presented a diverging tale of two banks with j.p. morgan chase & co. jpm shares falling on a miss and wells fargo & co. wfc rising on an earnings beat <PUNC>
+the dow may be <NUM> percent off its recent record high <COMMA> and the s&p <NUM> <NUM> percent off its high <COMMA> and the nasdaq <NUM> percent off its recent high <COMMA> but those levels are still considered pricey by many investors if companies don t start backing up their results with solid growth and investment <PUNC>
+<PAR>

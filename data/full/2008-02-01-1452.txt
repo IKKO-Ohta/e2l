@@ -1,0 +1,8 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+microsoft msft said it s offering dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> for yahoo yhoo in a mix of cash and stock <PUNC>
+the offer represents a hefty <NUM> percent premium to thursday s closing price <PUNC>
+u.s. stocks on thursday had another topsy-turvy session <COMMA> this time finishing higher after troubled bond insurer mbia said it could hang onto its aaa rating <PUNC>
+should mbia or rival ambac financial be downgraded <COMMA> the securities that they guarantee also may diminish in value <PUNC>
+the dow industrials climbed <NUM> points <COMMA> the s&p <NUM> up <NUM> points and the nasdaq composite up <NUM> points <PUNC>
+elsewhere <COMMA> chinalco combined with alcoa aa to buy a <NUM> percent stake in rio tinto rtp <COMMA> the anglo-aussie mining giant that bhp billiton bhp has been trying to buy <PUNC>
+<PAR>

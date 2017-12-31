@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+earlier in the session <COMMA> the benchmark index gained as much as <NUM> points to strike a fresh all-time high of <NUM> <PUNC>
+boeing co s ba <NUM> percent gain supplied much of the dow s advance after parcel delivery group fedex corp. fdx said it would buy <NUM> of the company s freighter aircraft with options to purchase <NUM> more <PUNC>
+honeywell international hon <COMMA> pfizer inc. pfe <COMMA> procter & gamble co. pg and walt disney dis were other notable gainers <PUNC>
+dow component general motors gm were off <NUM> percent at dollar <NUM> <PUNC>
+the auto maker said in a securities and exchange commission filing that it s revised its third-quarter net loss to dollar <NUM> million <COMMA> down dollar <NUM> million from what it previously reported <COMMA> due to additional loan sales that had not been previously reported by its gmac arm <PUNC>
+<PAR>

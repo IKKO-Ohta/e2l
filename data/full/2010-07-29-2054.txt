@@ -1,0 +1,5 @@
+after snapping a four-day win streak wednesday <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> though that was well off an earlier low of <NUM> <PUNC>
+the dow still remains up <NUM> percent for july so far <COMMA> with one trading session left in the month <PUNC>
+kraft foods kft and procter & gamble pg fell the most among dow components <COMMA> hit by disappointing results from consumer companies <PUNC>
+shares of dow component exxon mobil corp. xom also finished lower <COMMA> even after the oil giant reported a near-doubling of second-quarter income <PUNC>
+<PAR>

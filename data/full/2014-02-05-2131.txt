@@ -1,0 +1,4 @@
+the dow jones industrial average dji <COMMA> which dropped more than <NUM> points at session lows <COMMA> closed <NUM> points lower at <NUM> <PUNC>
+merck & co. inc. mrk shares rose after the company said it entered three separate collaboration agreements with peers to evaluate its investigational immunotherapy cancer treatment <PUNC>
+earlier <COMMA> the company announced a drop in fourth-quarter profit and revenue missing expectations <PUNC>
+<PAR>

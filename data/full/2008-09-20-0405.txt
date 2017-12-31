@@ -1,0 +1,6 @@
+on friday <COMMA> the dow jones industrial average dji jumped <NUM> points to end at <NUM> <PUNC>
+the market had already rallied thursday in anticipation of the move and of measures aimed at protecting the stocks of <NUM> financial firms <PUNC>
+over those two sessions alone <COMMA> the dow rallied <NUM> points <COMMA> or <NUM> percent <COMMA> marking its biggest two-day point gain in eight years <PUNC>
+but the nearly flat finish for stocks doesn t tell the whole tale <PUNC>
+as lehman brothers sought bankruptcy protection <COMMA> the dow industrials tumbled <NUM> points on monday <COMMA> its worst point drop since sept. <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

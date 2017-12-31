@@ -1,0 +1,10 @@
+after a lackluster morning <COMMA> the dow jones industrial average dji rose more than <NUM> points <COMMA> then reversed lower after the fed decision <COMMA> falling <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
+boosting the blue-chip index <COMMA> general motors corp. gm climbed <NUM> percent amid talk of a tentative merger pact between gm and chrysler after gm reported an <NUM> percent drop in third-quarter sales worldwide <PUNC>
+<PAR>
+household-products giant procter & gamble co. pg led the blue-chip benchmark s losses <COMMA> recently down <NUM> percent <PUNC>
+p&g earlier reported a <NUM> percent rise in first-quarter profit but also lowered the bottom end of its earnings forecast for fiscal <NUM> <PUNC>
+earnings reports included kraft foods inc. kft <COMMA> which said third-quarter income more than doubled after the food maker exited the post cereal business <PUNC>
+<PAR>
+u.s. stocks surged on tuesday in a session that led traders and analysts to debate whether a bottom has been reached or if simply a bear-market rally has unfolded <PUNC>
+the dow industrials surged <NUM> points <COMMA> the second biggest-point jump ever <PUNC>
+<PAR>

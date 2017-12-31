@@ -1,0 +1,9 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+general motors corp. gm added <NUM> percent to dollar <NUM> after keybanc capital markets upgraded the car maker to buy from hold <PUNC>
+the broker said it believes negotiations between the company <COMMA> uaw and delphi will be successfully completed with no material labor disruptions <PUNC>
+keybanc added that it sees earnings improving in <NUM> and <NUM> <COMMA> boosted by the introduction of new full-size sport utility vehicles and pickup trucks <COMMA> and cost saving initiatives <PUNC>
+before thursday s <NUM> percent pullback <COMMA> shares in the carmaker had gained <NUM> percent in the previous five sessions <PUNC>
+yahoo inc. yhoo shares fell <NUM> percent to dollar <NUM> <PUNC>
+chairman and ceo terry semel said at a syracuse university question-and-answer session that the company turned down an offer from microsoft corp. msft to buy a stake <COMMA> according to the uk newspaper <COMMA> the financial times <PUNC>
+microsoft shares were off <NUM> percent <PUNC>
+<PAR>

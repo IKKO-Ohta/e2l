@@ -1,0 +1,7 @@
+u.s. stocks soared tuesday <COMMA> bringing the dow industrials to within striking distance of <NUM> <COMMA> as u.s. economic data and japan s bid to spur its economy energized wall street <PUNC>
+on tuesday <COMMA> that appeared to be the case <COMMA> with the dow jones industrial average dji climbing <NUM> points to an intraday high of <NUM> <COMMA> fewer than <NUM> points away from the <NUM> level last breached may <NUM> <PUNC>
+the blue-chip index <COMMA> which last closed above <NUM> on may <NUM> <COMMA> was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> led by equipment manufacturer caterpillar inc. cat <COMMA> up <NUM> percent <PUNC>
+american express co. axp was the dow s sole laggard <COMMA> its shares off for a second day <COMMA> down <NUM> percent <PUNC>
+its shares slid <NUM> percent monday after the credit-card company declined to join visa inc. v and mastercard inc. ma in agreeing to let merchants direct customers to less costly forms of plastic <PUNC>
+on monday <COMMA> the dow fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its largest point and percentage drop in nearly a month <PUNC>
+<PAR>

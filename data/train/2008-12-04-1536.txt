@@ -1,0 +1,10 @@
+after two straight days of gains <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting early losses <PUNC>
+alcoa inc. aa weighed the most on the blue-chip index <COMMA> its shares recently down <NUM> percent <PUNC>
+home depot inc. hd proved the dow s biggest gainer <COMMA> with shares of the home improvement retailer up <NUM> percent <PUNC>
+chemical giant dupont co. dd slashed its fourth-quarter earnings forecast and said it would dismiss <NUM> employees <PUNC>
+<PAR>
+phone giant at&t inc. t also said it would cut employees <NUM> or <NUM> percent of its workforce as it adjusts to a weakened economy <PUNC>
+<PAR>
+wal-mart stores inc. wmt proved the exception <COMMA> with sales last month up <NUM> percent at the discount retailer as lower gasoline prices boosted consumers discretionary spending <PUNC>
+and on capitol hill <COMMA> executives from struggling auto giants general motors corp. gm <COMMA> ford motor co. f and chrysler will continue making a case for federal aid <PUNC>
+<PAR>

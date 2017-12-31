@@ -1,0 +1,6 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+dupont dd led the blue chips broad decline with a <NUM> percent loss <COMMA> while chevron cvx fell <NUM> percent and intel corp. intc also traded in the red <PUNC>
+hewlett-packard co. hpq was among just a few dow components that managed to move higher <COMMA> its shares adding <NUM> cents <PUNC>
+the company s quarterly earnings report is due out after the close <PUNC>
+investors will be keen to see what leo apotheker <COMMA> the technology giant s new chief executive <COMMA> says about the company s outlook following a cautious view from fellow blue chip cisco systems csco earlier in the month <PUNC>
+<PAR>

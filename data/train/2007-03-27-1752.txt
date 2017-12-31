@@ -1,0 +1,5 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components were in the red <PUNC>
+losses were the biggest among american express co. axp <COMMA> general motors corp. gm <COMMA> dupont dd <COMMA> honeywell inc. hon <COMMA> and home depot inc. hd and microsoft corp. msft <PUNC>
+wal-mart stores wmt was also among the biggest decliners <COMMA> losing <NUM> percent <PUNC>
+the retail giant is reportedly studying whether its asda unit in britain would be allowed to make a bid for j sainsbury <COMMA> a rival u.k. supermarket operator worth around dollar <NUM> billion <COMMA> according to a report in the independent newspaper <PUNC>
+<PAR>

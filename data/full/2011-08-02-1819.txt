@@ -1,0 +1,3 @@
+extending its longest losing streak in more than a year <COMMA> the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+it touched a low of <NUM> after the senate vote <PUNC>
+<PAR>

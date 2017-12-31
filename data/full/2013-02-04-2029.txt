@@ -1,0 +1,5 @@
+after last week rallying to its first close above <NUM> since october <NUM> <COMMA> the dow jones industrial average dji fell as much as <NUM> points during monday s session <COMMA> and was more recently off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+wal-mart stores inc. wmt shares fell <NUM> percent after j.p. morgan chase downgraded the discount retailer to neutral from overweight <PUNC>
+chevron corp. cvx shed <NUM> percent after ubs ag downgraded the oil producer to neutral from buy <PUNC>
+merck & co. mrk declined <NUM> percent after morgan stanley cut the pharmaceutical firm to underweight from equal weight <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> after earlier losing as much as <NUM> points after the crash news <PUNC>
+gains for general motors corp. gm <COMMA> intel corp. intc and at&t t helped offset a <NUM> percent drop in shares of alcoa inc. aa <PUNC>
+the dow jones internet index dj_9535 was under some pressure as cnet networks inc. cnet fell more than <NUM> percent after the online media firm announced an executive shake-up <COMMA> lowered its third-quarter and full-year revenue expectations and disclosed the results of a stock-options backdating investigation <PUNC>
+<PAR>

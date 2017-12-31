@@ -1,0 +1,11 @@
+after last week s wipeout of gains made in <NUM> <COMMA> the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its biggest daily gain since march <NUM> <COMMA> and enough to bring it safely back into positive territory for the year <PUNC>
+all of the dow s <NUM> components climbed <PUNC>
+caterpillar inc. cat shares rallied <NUM> percent <COMMA> leading the index of established companies <COMMA> followed by <NUM> percent gains in shares of bank of america corp. bac and general electric co. ge <PUNC>
+also bolstering the blue chips <COMMA> boeing co. ba rose <NUM> percent after goldman sachs hiked its rating on the commercial aircraft-manufacturer to conviction buy from neutral <PUNC>
+shares of discount giant wal-mart stores inc. wmt lagged the broader index <COMMA> up just <NUM> percent <PUNC>
+apple inc. aapl shares closed up <NUM> percent <PUNC>
+hewlett-packard co. hpq shares added <NUM> percent <PUNC>
+google inc. goog gained <NUM> percent <PUNC>
+the dow declined <NUM> percent last week <PUNC>
+the manic period reached its most crazed point on thursday when the dow fell nearly <NUM> points before recovering more than half of the loss before the final bell <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
+all <NUM> of the measure s components were in the red <PUNC>
+leading the slide <COMMA> caterpillar <COMMA> inc. cat dropped <NUM> percent <COMMA> walt disney dis dropped <NUM> percent and cisco systems inc. csco declined <NUM> percent <PUNC>
+<PAR>

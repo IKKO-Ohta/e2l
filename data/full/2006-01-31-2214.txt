@@ -1,0 +1,9 @@
+the dow jones industrial average dji ended down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+still <COMMA> the dow put in its best performance for january in seven years <COMMA> ending up <NUM> percent on the month <PUNC>
+altria group inc. s mo shares fell <NUM> percent to dollar <NUM> after offering up a fiscal <NUM> profit forecast that fell shy of analyst expectations <PUNC>
+the dow industrials component s outlook came as it reported a higher fourth-quarter profit <COMMA> helped by growth in its tobacco business <COMMA> which was partially offset by weakness in its kraft foods inc. kft division <PUNC>
+altria owns about <NUM> percent of kraft <PUNC>
+merck mrk saw early gains fade to close almost flat at dollar <NUM> after the blue-chip pharmaceutical company posted adjusted earnings that topped wall street s view <PUNC>
+results included significant contributions to its legal defense fund to fight a number of lawsuits related to vioxx <COMMA> its painkiller drug <PUNC>
+also <COMMA> shares of alcoa inc. aa rose <NUM> percent to dollar <NUM> after ubs upgraded the maker of aluminum products to buy from neutral on an increased aluminum price forecast <PUNC>
+<PAR>

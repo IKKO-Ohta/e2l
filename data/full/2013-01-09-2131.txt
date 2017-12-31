@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+alcoa aa late tuesday reported better-than-estimated revenue and an upbeat forecast for the year <PUNC>
+boeing co. ba was the top gainer in the dow <COMMA> with shares of the aerospace firm rallying <NUM> percent <COMMA> rebounding from their decline earlier in the week <PUNC>
+bank of america corp. bac was the top decliner in the dow <COMMA> dropping <NUM> percent after the lender was downgraded to neutral from outperform by credit suisse for valuations reasons <PUNC>
+<PAR>

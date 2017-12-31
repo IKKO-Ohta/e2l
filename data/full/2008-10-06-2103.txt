@@ -1,0 +1,13 @@
+the dow jones industrial average fell as much as <NUM> points to trade below the <NUM> mark monday as nervousness over the credit crisis spread after the u.s. government s dollar <NUM> billion bailout and interventions in europe only seemed to add to investor anxiety <PUNC>
+but hopes of a coordinated intervention to stop the bleeding in global markets helped the dow dji recoup half of its losses <COMMA> to close down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+on the dow <COMMA> citigroup inc. c fell <NUM> percent <COMMA> bank of america bac dropped <NUM> percent and j.p. morgan chase jpm lost <NUM> percent <PUNC>
+the blue-chip average earlier fell by as much as <NUM> points <COMMA> its biggest intraday drop on record <PUNC>
+the dow still closed below the <NUM> mark for the first time since oct. <NUM> <COMMA> <NUM> <PUNC>
+amid concern that financial pain is spreading to industries linked to global growth <COMMA> energy shares <COMMA> along with those of materials stocks <COMMA> also fell sharply <PUNC>
+also on the dow <COMMA> shares of aluminum giant alcoa inc. aa <COMMA> which is expected to post quarterly results tuesday <COMMA> fell <NUM> percent <PUNC>
+equipment-maker caterpillar inc. s cat stock fell <NUM> percent <PUNC>
+president bush signed an emergency legislation into law friday just as the latest u.s. employment report showed <NUM> jobs lost in september <PUNC>
+and last week <COMMA> the dow lost <NUM> percent <COMMA> the s&p <NUM> fell <NUM> percent and the nasdaq lost <NUM> percent <PUNC>
+wells fargo wfc <COMMA> meanwhile <COMMA> appeared to have the upper hand in its battle with citigroup c for the chance to take over wachovia wb <PUNC>
+coca-cola ko was downgraded to hold by deutsche bank on the potential for slower volumes at home and abroad as well as currency headwinds <PUNC>
+<PAR>

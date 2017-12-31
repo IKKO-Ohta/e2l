@@ -1,0 +1,10 @@
+u.s. stocks ended lower monday <COMMA> with weakness in technology shares pacing the decline <COMMA> while the dow jones industrial average once again backed off record highs amid a disappointing sales outlook from wall-mart stores inc <PUNC>
+the dow industrials dji fell <NUM> points to <NUM> <PUNC>
+the blue-chip index rose as much as <NUM> points to <NUM> in the session <COMMA> allowing the benchmark index to temporarily surpass its all-time closing high of <NUM> <COMMA> struck on jan. <NUM> <COMMA> <NUM> <PUNC>
+it is the third straight session that the index has failed to set a new record high after breaking through its current record intraday <PUNC>
+wal-mart stores inc. wmt fell <NUM> percent to dollar <NUM> after the company over the weekend said monthly same-store sales rose <NUM> percent from september <NUM> <PUNC>
+also on the dow <COMMA> general electric co. ge rose <NUM> percent to dollar <NUM> <PUNC>
+prudential reiterated its overweight rating <COMMA> citing the belief that the diversified industrial giant s growth and profitability of its sales in developing markets appear poised to improve steadily indefinitely <PUNC>
+hewlett-packard co. hpq advanced <NUM> percent to dollar <NUM> after an upbeat article on the computer and printer maker in barron s <COMMA> the weekly financial newspaper <PUNC>
+away from the dow <COMMA> harrah s entertainment inc. het confirmed talks to be bought in what the wall street journal said could be one of the biggest-ever leveraged buyouts <PUNC>
+<PAR>

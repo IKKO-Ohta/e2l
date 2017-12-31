@@ -1,0 +1,9 @@
+u.s. stocks opened sharply higher tuesday <COMMA> with the dow jones industrial surging more than <NUM> points <COMMA> on above-forecast earnings from dow component general motors corp. and benign inflation data <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+shares of dow component general motors gm were nearly <NUM> percent higher at dollar <NUM> in pre-market electronic trade <PUNC>
+the struggling auto maker swung to a quarterly profit from a year-earlier loss <COMMA> although revenue declined <PUNC>
+both earnings and revenue beat analysts expectations <PUNC>
+healthcare giant johnson & johnson jnj said it will cut costs in its pharmaceutical segment and stent business as part of a sweeping restructuring plan <COMMA> and prune <NUM> percent to <NUM> percent of its global workforce <PUNC>
+the company projected restructuring charges in the range of dollar <NUM> million to dollar <NUM> million in the second half of the year <PUNC>
+ubs upgraded telecom operator verizon communications vz to buy from neutral <COMMA> citing improving fundamentals <PUNC>
+<PAR>

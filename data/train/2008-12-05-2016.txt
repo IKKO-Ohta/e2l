@@ -1,0 +1,6 @@
+off earlier lows that had it down nearly <NUM> points <COMMA> the dow jones industrial average dji jumped <NUM> points to <NUM> <PUNC>
+twenty-six of the blue-chip index s components climbed into positive turf <COMMA> led by citigroup inc. c <COMMA> up <NUM> percent <PUNC>
+boeing corp. ba was among the dow s laggards <COMMA> its shares dropping in the wake of a report that it could again delay deliveries of its new <NUM> dreamliner <PUNC>
+after an earlier rise <COMMA> shares of general motors corp. gm were down <NUM> percent <COMMA> with another day of hearings under way on capitol hill on the big three automakers appeal for dollar <NUM> billion in federal loans <PUNC>
+u.s. stocks on thursday reversed the prior session s gains as jobless claims remained above a half million and heavyweights including at&t inc. t and dupont dd slashed jobs <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+u.s. stocks slid thursday <COMMA> derailing a seven-day climb for the dow industrials <COMMA> as economic data illustrated a slowing recovery <PUNC>
+the reports dimmed enthusiasm over strong earnings from financial powerhouse j.p. morgan chase & co <PUNC>
+after seven consecutive sessions of gains <COMMA> its longest winning streak in nearly four months <COMMA> the dow jones industrial average dji fell more than <NUM> points <COMMA> and was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+twenty-eight of the dow s <NUM> components tallied losses <COMMA> with bank of america corp. bac the greatest laggard <COMMA> off <NUM> percent <PUNC>
+intel corp. intc fronted gains on the dow <COMMA> with shares of the chip manufacturer up <NUM> percent <COMMA> which announced blockbuster earnings earlier in the week <PUNC>
+<PAR>
+the first of the largest u.s. banks to report <COMMA> j.p. morgan jpm said it earned dollar <NUM> billion in the second quarter <COMMA> which was better than wall street anticipated <PUNC>
+chief executive jamie dimon downplayed optimism <COMMA> calling returns in the bank s consumer-lending business unacceptable <PUNC>
+<PAR>

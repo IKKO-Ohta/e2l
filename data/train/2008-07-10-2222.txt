@@ -1,0 +1,4 @@
+up and down throughout the session <COMMA> the major indexes found firmer footing late in the day <COMMA> with the dow jones industrial average dji churning higher in the final hour of trade <COMMA> rising <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+of the blue-chip index s <NUM> components <COMMA> <NUM> closed with gains <COMMA> led by aluminum producer alcoa inc. aa <COMMA> which ended with a <NUM> percent gain as aluminum prices hit their highest level on record after china said it would cut its production of the metal by up to <NUM> percent to save energy <PUNC>
+wal-mart stores inc. wmt tilted lower despite exceeding expectations in offering sales results for june <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+having already made its largest number of triple-digit moves in a month since october <NUM> <COMMA> the dow jones industrial average dji was on track for a 15th triple-digit close for june <COMMA> and was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+hewlett-packard co. hpq and boeing co. ba paced the gains that included <NUM> of the blue-chip index s <NUM> components <PUNC>
+<PAR>

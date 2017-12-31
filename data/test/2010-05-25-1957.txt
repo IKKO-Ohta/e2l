@@ -1,0 +1,3 @@
+u.s. stocks fell tuesday <COMMA> but recouped the worst of the day s losses late in the session <COMMA> bringing the dow industrials back above <NUM> <COMMA> as europe s beleaguered currency pared its fall amid uncertainty about europe s debt and tensions in korea <PUNC>
+recovering from a 290-point fall during the session <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components declining <PUNC>
+<PAR>

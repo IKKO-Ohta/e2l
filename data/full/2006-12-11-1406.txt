@@ -1,0 +1,9 @@
+futures for the dow jones industrial average dji were up <NUM> points at <NUM> <COMMA> while those for the s&p <NUM> spx gained <NUM> points to <NUM> <PUNC>
+u.k. medical devices firm smith & nephew plc snn is expected to bid for u.s. rival biomet inc. bmet for up to dollar <NUM> billion <COMMA> according to a report in the financial times <PUNC>
+the company may face competing bids from dow component johnson & johnson jnj <PUNC>
+citigroup inc. c was also in the spotlight after u.k. press reports over the weekend identified it as having made an unsolicited offer for egg internet bank <COMMA> part of u.k. insurer prudential plc puk <PUNC>
+among blue-chips <COMMA> dupont dd may rise after it lifted its <NUM> earnings forecast and said it would <NUM> jobs worldwide <PUNC>
+general motors corp. gm may also be in focus after a report that competitor ford motor co. f will extend buy-out offers to most of its white-collar workforce next week <PUNC>
+home depot inc. hd may see some action after a report said the company is going to pay dollar <NUM> million for a majority stake in china s homeway <PUNC>
+at&t inc. t could also advance after bear stearns said in a note that the telecom company will likely complete its merger with bellsouth by year end <PUNC>
+<PAR>

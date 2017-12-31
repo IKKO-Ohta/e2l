@@ -1,0 +1,8 @@
+u.s. stocks accelerated their losses into friday s close as ongoing worries about deal-financing overshadowed largely positive economic data <COMMA> with the dow losing more than <NUM> points to close with weekly losses of more than <NUM> percent <PUNC>
+the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> giving it a <NUM> percent loss for the week <PUNC>
+on the dow <COMMA> <NUM> of its <NUM> components ended lower <COMMA> with american express co. axp closing off <NUM> percent and exxon mobil corp. xom <COMMA> which ended with a decline of <NUM> percent <COMMA> and american international group inc. aig <COMMA> off <NUM> percent <PUNC>
+dow s advancing stocks included 3m co. mmm <COMMA> which wound up flat at the close after reporting a rise in second-quarter profits and its guidance <COMMA> and boeing co. ba <COMMA> which ended mildly ahead <COMMA> up <NUM> percent <PUNC>
+beyond american international <COMMA> two of the dow s other three financial stocks were on the decline <COMMA> with shares of citigroup inc. c off <NUM> percent <COMMA> and american express co. axp down <NUM> percent <PUNC>
+j.p. morgan chase jpm edged up <NUM> percent <PUNC>
+thursday s trading featured a 311-point loss for the dow <COMMA> its second-biggest plunge this year <COMMA> and major losses for the other major averages <COMMA> as worries about deal-financing and the housing market shook the market <PUNC>
+<PAR>

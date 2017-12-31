@@ -1,0 +1,5 @@
+down at the start <COMMA> the dow jones industrial average dji tossed its losses aside within the first <NUM> minutes of trading <COMMA> gaining <NUM> points to <NUM> <PUNC>
+of the blue-chip index s <NUM> components <COMMA> <NUM> were posting early gains <COMMA> with home depot inc. hd leading the advance <COMMA> its stock up <NUM> percent <PUNC>
+the dow s biggest early loser was alcoa aa <COMMA> with the aluminum producer off <NUM> percent ahead of its second-quarter earnings report <COMMA> due after the close <COMMA> which will kick off quarterly results season <PUNC>
+the dow industrials dropped <NUM> points <COMMA> the nasdaq composite lost <NUM> points and the s&p <NUM> fell <NUM> points <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the drop <COMMA> with the dow jones industrial average dji off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> pushes stocks deeper into the red for the year <PUNC>
+the decline comes as fears of a double dip have been reignited by a spate of weakening economic measures <PUNC>
+cisco systems inc. csco late wednesday posted weaker-than-expected quarterly revenue and forecast slower revenue growth for the current quarter <PUNC>
+the report was particularly concerning to the market because the technology giant s significant reach into the guts of many businesses make it a good proxy for broader corporate spending <PUNC>
+cisco dropped <NUM> percent and weighed on other technology companies <COMMA> leading the market s declines <PUNC>
+it was the worst performer in the dow and the standard & poor s <NUM> spx and was close to the bottom of the nasdaq composite rixf as well <PUNC>
+the s&p <NUM> dropped <NUM> percent to <NUM> <COMMA> with its technology sector hit the hardest <COMMA> while the tech-heavy nasdaq composite shed <NUM> percent to <NUM> <PUNC>
+<PAR>

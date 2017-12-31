@@ -1,0 +1,3 @@
+after briefly falling into negative turf <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+general motors corp. gm proved the greatest weight on the blue-chip index <COMMA> with shares of the auto maker lapsing nearly <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji was recently up about <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> helped by a <NUM> percent gain in ge ge <PUNC>
+pacing the stock market s gains for industrials <COMMA> general electric ge rose <NUM> percent after oppenheimer boosted its rating on the stock to outperform from perform <COMMA> saying the diversified company s financial portfolio is stabilizing <PUNC>
+declines in the dow and in the broader market were led by financials and energy firms <COMMA> including j.p. morgan chase jpm and sunoco sun <PUNC>
+<PAR>

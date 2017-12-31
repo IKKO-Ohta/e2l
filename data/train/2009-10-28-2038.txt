@@ -1,0 +1,5 @@
+on wall street <COMMA> financials fronted the losses as the major indexes finished sharply lower <PUNC>
+hit with its third triple-digit fall in four sessions <COMMA> the dow jones industrial average dji finished at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
+the s&p <NUM> index spx dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with the broad market indicator erasing its gains for october <PUNC>
+the nasdaq composite index rixf declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

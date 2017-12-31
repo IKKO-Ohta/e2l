@@ -1,0 +1,3 @@
+after two days of triple-digit gains <COMMA> the dow jones industrial average dji was up <NUM> percent for the not-yet-ended week <PUNC>
+it was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components on the decline <PUNC>
+<PAR>

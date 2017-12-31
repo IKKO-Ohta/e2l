@@ -1,0 +1,13 @@
+a week ago <COMMA> the market was shocked by general electric co. ge <COMMA> as a surprise loss at the stalwart international conglomerate fueled fear that global growth wouldn t be enough to overcome the impact of the credit crisis and of a u.s. recession on profits <PUNC>
+on friday <COMMA> stocks rallied after citigroup s c losses and write-downs failed to unnerve a market already braced for bad results <COMMA> while google inc. s goog results led to strong gains for the tech sector <PUNC>
+the dow jones industrial average dji surged <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> topping its feb. <NUM> intraday high of <NUM> <PUNC>
+for the week <COMMA> the dow advanced <NUM> percent <PUNC>
+the market also received strong support from upbeat results at equipment-maker caterpillar inc. cat and fellow industrial firm honeywell inc. hon <COMMA> both of which derive most of their revenue overseas <PUNC>
+in other sign of confidence about global growth <COMMA> a firmer dollar and a drop in commodities prices friday failed to dent investor appetite for the shares of companies in the materials sector of the s&p <PUNC>
+shares of international paper ip <COMMA> alcoa inc. aa and freeport mcmoran copper & gold fcx all posted strong gains friday <PUNC>
+of note <COMMA> dow components bank of america and pharmaceutical firm merck mrk will report on monday <PUNC>
+dupont dd <COMMA> at&t t and mcdonald s mcd will report on tuesday <COMMA> and boeing co. ba on wednesday <PUNC>
+thursday will see reports from 3m mmm <COMMA> american express axp and microsoft msft <PUNC>
+away from the dow <COMMA> texas instruments txn will grab the market s attention after the close on monday <PUNC>
+also on monday <COMMA> will be earnings at halliburton hal <COMMA> mattel mat and eli lilly lly <PUNC>
+<PAR>

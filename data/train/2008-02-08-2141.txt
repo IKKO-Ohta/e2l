@@ -1,0 +1,8 @@
+the dow jones industrial average dji declined <NUM> points to <NUM> <COMMA> off session lows that had the blue-chip index sliding nearly <NUM> points <PUNC>
+for the week <COMMA> the dow closed with a weekly loss of <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> ended lower <COMMA> with financials among the hardest hit <PUNC> american express co. axp fell <NUM> percent and j.p. morgan chase jpm declined <NUM> percent <PUNC>
+blue-chip gains were led by mcdonald s corp. mcd <COMMA> up <NUM> percent <COMMA> in the wake of sales results that had the fast-food giant continuing its growth spurt in january <PUNC>
+<PAR>
+another blue chip <COMMA> coca-cola co. ko <COMMA> climbed <NUM> percent after its upgrade to outperform from peer perform at bear stearns <COMMA> with the broker citing solid results at pepsico pep and other consumer companies with a global reach <PUNC>
+other stocks advancing on the blue-chip index included technology shares <COMMA> with microsoft corp. msft up <NUM> percent and hewlett-packard co. hpq up <NUM> percent <PUNC>
+<PAR>

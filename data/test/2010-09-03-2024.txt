@@ -1,0 +1,6 @@
+the dow jones industrial average dji finished up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> putting the dow up <NUM> percent on the week its first positive weekly showing since the beginning of august <PUNC>
+the dow also edged back into positive territory for the year <PUNC>
+goldman sachs group gs rose <NUM> percent as financial stocks led the day s and week s gains <PUNC>
+morgan stanley ms gained <NUM> percent <COMMA> j.p. morgan chase jpm added <NUM> percent and genworth financial gnw advanced <NUM> percent <PUNC>
+friday s jobs numbers followed recent reports on manufacturing and housing that also came in above expectations <COMMA> extending a notable reversal from a long string of disappointing data that had driven the dow s biggest august drop since <NUM> <PUNC>
+<PAR>

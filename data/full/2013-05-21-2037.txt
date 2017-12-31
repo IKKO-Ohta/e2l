@@ -1,0 +1,7 @@
+u.s. stocks rose on tuesday <COMMA> with the dow industrials and s&p <NUM> finishing at record highs <COMMA> after comments from two federal reserve officials suggested that the central bank is not close to tapering its bond-buying program <PUNC>
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> notching its 19th consecutive tuesday rise <PUNC>
+drug maker merck & co. mrk was the top gainer in the dow tuesday <COMMA> rallying <NUM> percent <PUNC>
+also in the dow <COMMA> home depot inc. hd climbed <NUM> percent after the home-improvement retailer reported a jump in quarterly earnings <COMMA> buoyed by the recovery in the housing market <PUNC>
+j.p. morgan chase & co. jpm shares gained <NUM> percent <PUNC>
+at the bank s annual meeting in florida tuesday <COMMA> shareholders voted against a proposal on split the ceo and chairman roles currently held by jamie dimon <PUNC>
+<PAR>

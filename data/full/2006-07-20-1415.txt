@@ -1,0 +1,6 @@
+the dow industrials dji were up <NUM> points at <NUM> <PUNC>
+intel corp. intc was the most prominent earnings casualty <COMMA> with its shares down <NUM> percent to dollar <NUM> <PUNC>
+the world s largest chipmaker offered a weaker-than-expected sales forecast as current quarter profit tumbled <NUM> percent from a year ago on lower sales <PUNC>
+dow component honeywell international inc. hon rose <NUM> percent to dollar <NUM> after the aerospace and control technologies raised its <NUM> profit view <PUNC>
+pfizer inc. pfe <COMMA> another member of the dow <COMMA> was up <NUM> percent at dollar <NUM> as investors cheered a higher <NUM> profit forecast <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+after rising more than <NUM> points earlier on <COMMA> and detouring into negative territory <COMMA> the dow jones industrial average dji was up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <PUNC>
+the recent volatility in the stock market is likely to continue <COMMA> with 150-point swings in the dow likely <COMMA> said paul nolte <COMMA> director of investments at hindsdale associates <PUNC>
+energy stocks were also among those on the rise <COMMA> with sector leader and dow component exxon mobil corp. xom advancing nearly <NUM> percent <PUNC>
+<PAR>
+general motors corp. gm was among those weighing on the dow <COMMA> its stock off <NUM> percent <COMMA> after deutsche bank lowered its ratings for the automaker <COMMA> along with that of borgwarner bwa <COMMA> on fears the cyclical north american downturn may last longer than previously expected <PUNC>
+blue-chip laggards also included financial stocks <COMMA> with citigroup inc. c off <NUM> percent <COMMA> j.p. morgan chase jpm down <NUM> percent and american express co. axp down <NUM> percent <PUNC>
+visa said it could raise nearly dollar <NUM> billion in an initial public offering <COMMA> adding it was ahead of mastercard ma and american express axp in terms of dollar volume and transactions in <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+while earnings and economic data have not been particularly strong <COMMA> it s difficult to tell that from stock performance <PUNC>
+this quarter alone <COMMA> the dow jones industrial average dji is up <NUM> percent <COMMA> the s&p <NUM> index spx has advanced <NUM> percent <COMMA> and the nasdaq composite index rixf has grown <NUM> percent <PUNC>
+both the dow and the s&p <NUM> gained <NUM> percent this past week <COMMA> with the nasdaq up nearly <NUM> percent <PUNC>
+plus <COMMA> the dow industrials and s&p <NUM> continue to push against all-time highs <PUNC>
+while some have said the mantra of sell in may <COMMA> and go away isn t in play this year <COMMA> others see stocks as being stretched and ripe for a correction <PUNC>
+additionally <COMMA> federal reserve chairman ben bernanke on friday said the central bank was on the lookout for any excessive risk taking in investors s reach for yield <PUNC>
+this week macy s inc. m <COMMA> nordstrom inc. jwn <COMMA> kohl s corp. kss <COMMA> j.c. penney co. jcp <COMMA> and wal-mart stores inc. wmt report quarterly earnings <PUNC>
+the week after that tjx cos. tjx <COMMA> home depot inc. hd <COMMA> target corp. tgt <COMMA> dollar tree inc. dltr <COMMA> and ross stores inc. rost report <PUNC>
+<PAR>

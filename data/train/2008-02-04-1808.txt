@@ -1,0 +1,6 @@
+after rallying <NUM> percent last week <COMMA> the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> component stocks trading in negative territory <PUNC>
+blue-chip american express axp fell <NUM> percent after ubs downgraded the stock <PUNC>
+other bank stocks were also under pressure as merrill lynch downgraded wells fargo wfc and wachovia wb <PUNC>
+among the few gainers on the dow were defensive issues such as drug-makers merck & co. inc. mrk <COMMA> pfizer inc. pfe johnson and johnson jnj <PUNC>
+technology shares also gave back some of the strong gains seen friday <COMMA> when they received a boost from news that microsoft corp. msft bid dollar <NUM> billion for search giant yahoo yhoo <PUNC>
+<PAR>

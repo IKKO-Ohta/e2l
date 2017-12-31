@@ -1,0 +1,10 @@
+on wednesday <COMMA> stocks rallied <COMMA> with the dow jones industrial average logging its second-highest close on record and the s&p <NUM> ending at a <NUM> 1/2-year high <COMMA> after lower oil prices and a better than expected consumer-confidence report eased economic worries <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <PUNC>
+the benchmark index is now within striking distance of its all-time high of <NUM> <COMMA> reached on jan. <NUM> <COMMA> <NUM> <PUNC>
+merck shares mrk could receive a boost after the drug maker said late tuesday that a federal jury cleared the company of responsibility for a kentucky man s heart attack in the 10th vioxx-related case to go to trial <PUNC>
+rivals intel corp. intc and advanced micro devices inc. amd are likely to be in focus after a federal judge limited amd s antitrust suit against the world s biggest chipmaker <PUNC>
+the judge ruled that alleged foreign anticompetitive practices didn t impact amd in the u.s. intel shares were up <NUM> percent ahead of the bell <PUNC>
+amd s stock was not active in pre-market trading but ended tuesday s session <COMMA> down <NUM> cents at dollar <NUM> <PUNC>
+general motors corp. gm is reportedly demanding a multi-billion dollar payment from renault and nissan as the price to join the french and japanese companies alliance <COMMA> according to a report from the wall street journal <PUNC>
+mcdonald s mcd shares could see early gains after the fast-food giant said its board approved an increase of nearly <NUM> percent for its dividend <COMMA> boosting the annual dividend payout from <NUM> cents to dollar <NUM> a share <PUNC>
+<PAR>

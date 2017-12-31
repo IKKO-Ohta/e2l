@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> but well off a session high of <NUM> <PUNC>
+shares of american international group inc. aig were up <NUM> cents at dollar <NUM> after the insurer agreed to pay dollar <NUM> billion in restitution and penalties to resolve litigation and investigations of fraud <COMMA> bid-rigging and improper accounting <PUNC>
+general motors corp. gm added <NUM> cents at dollar <NUM> as the automaker announced it will offer a nationwide winter incentive program on used full-size suvs <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji nearly erased its losses to trade little changed at <NUM> <COMMA> with microsoft corp. msft the top gainer in the blue-chip index <PUNC>
+microsoft jumped after cnbc reported activist investor valueact capital purchased a dollar <NUM> billion stake in the software company and dow component <PUNC>
+general electric co. ge fell <NUM> percent <PUNC>
+the stock was cut to neutral from overweight by j.p. morgan & chase after ge reported results friday <PUNC>
+caterpillar inc. s stock cat rose nearly <NUM> percent after the heavy-equipment maker and dow member said it would restart a share repurchase for the first time in years <PUNC>
+the company also reported disappointing quarterly results and cut its <NUM> profit outlook <COMMA> but its ceo said production would likely increase in the second quarter <PUNC>
+<PAR>

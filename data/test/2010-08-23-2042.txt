@@ -1,0 +1,7 @@
+the dow jones industrial average dji finished down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> after gaining as much as <NUM> points intraday <PUNC>
+the nasdaq composite index rixf slipped <NUM> percent to <NUM> while the standard & poor s 500-stock index spx fell <NUM> percent to <NUM> <PUNC>
+stock investor weighed acquisition offers from companies including hewlett-packard co. hpq and hsbc holdings plc <PUNC>
+hbc <COMMA> which came on the back of a strong week for deal activity <COMMA> against broader macroeconomic uncertainties <PUNC>
+among stocks in focus <COMMA> 3par par shares surged <NUM> percent after h-p hpq made a dollar <NUM> billion offer for the data-storage company that is one-third higher than what rival dell agreed last week to pay for 3par <PUNC>
+h-p declined <NUM> percent while dell slipped <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with hewlett-packard co. hpq leading the gains after j.p. morgan upgraded the personal-computer maker to neutral from underweight <PUNC>
+h-p also reclaimed the top pc-maker ranking from lenovo group ltd <PUNC>
+international business machines corp. ibm dropped <NUM> percent after j.p. morgan downgraded it to neutral from overweight <PUNC>
+apple has a significant impact on the major stock indexes <PUNC>
+it has a <NUM> percent weight in the s&p <NUM> and a <NUM> percent weight in the nasdaq composite <COMMA> and is the largest stock on both <PUNC>
+it s not a member of the dow average <PUNC>
+<PAR>

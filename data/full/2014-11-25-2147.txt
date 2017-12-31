@@ -1,0 +1,6 @@
+the dow and s&p <NUM> end a three-day run of gains <PUNC>
+the s&p <NUM> spx set an intraday high <COMMA> but closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
+the dow jones industrial average dji slipped <NUM> points to <NUM> <PUNC>
+united technologies <PUNC>
+utx was the best performer among dow components on tuesday <COMMA> gaining <NUM> percent recovering from monday trading that saw shares lose <NUM> percent drop <COMMA> after the company announced the abrupt departure of its ceo <PUNC>
+<PAR>

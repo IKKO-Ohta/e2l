@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> on friday <PUNC>
+the s&p <NUM> index spx lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the technology-heavy nasdaq composite rixf felt most of the pain <COMMA> losing <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the friday slide capped a painful start of the year for the market <COMMA> with the dow losing <NUM> percent <COMMA> the s&p falling <NUM> percent and the nasdaq sliding <NUM> percent <PUNC>
+on thursday <COMMA> and again on friday <COMMA> investors also reassessed recent enthusiasm for tech stocks after several analyst downgrades of the semiconductor industry and of its stocks <COMMA> including one of chipmaker giant intel corp. intc <PUNC>
+while no big tech companies are due to report next week <COMMA> investors will seek for more evidence of a boost to profits from global growth <COMMA> when aluminum giant alcoa inc. aa kicks off earnings season tuesday <PUNC>
+<PAR>

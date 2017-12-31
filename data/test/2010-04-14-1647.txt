@@ -1,0 +1,3 @@
+intel intc and j.p morgan jpm fronted gains on the dow jones industrial average dji <COMMA> which rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+two-thirds of the dow s <NUM> components tallied gains <COMMA> led by j.p morgan and intel <COMMA> with shares of both up more than <NUM> percent <PUNC>
+<PAR>

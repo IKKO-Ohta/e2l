@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> in early trading <PUNC>
+<PAR>

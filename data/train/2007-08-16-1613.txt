@@ -1,0 +1,14 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or nearly <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <COMMA> with alcoa inc. aa leading the losses <COMMA> with its stock down <NUM> percent <PUNC>
+dow stock general motors corp. gm fell <NUM> percent <PUNC>
+technology bellwether intel corp. intc initially gained after its upgrade by credit suisse from underperform to outperform <PUNC>
+its stock was off <NUM> percent <PUNC>
+technology stocks were mostly lower <COMMA> with pc makers apple inc. aapl <COMMA> dell inc. dell and hewlett-packard co. hpq all losing ground <PUNC>
+dow stock hp was off <NUM> percent ahead of its quarterly earnings release after the market close <PUNC>
+read <PUNC>
+problems with countrywide remain a focal point <COMMA> adding to concerns that credit is drying up in the mortgage market <PUNC>
+materials are one of the weaker sectors in the dow on speculation the financial distress will weigh on global growth <COMMA> wrote analysts at action economics llc <PUNC>
+dow component exxon xom was down <NUM> percent after reports it suffered a contractual setback to increase output from the world s second-largest offshore field in abu dhabi <PUNC>
+late-day volatility again exerted downward pressure on u.s. stocks on wednesday <COMMA> with the s&p <NUM> losing an entire year s gains <PUNC>
+the dow industrials fell <NUM> points <COMMA> the s&p <NUM> fell <NUM> points and the nasdaq composite dropped <NUM> points <PUNC>
+historical trends suggest the dow should be trading in the range of <NUM> to <NUM> <COMMA> according to a study published by the georgia tech college of management <COMMA> which based its estimate on analyzing the relationship between the nominal gross domestic product and share prices from <NUM> through the end of the second quarter of this year <PUNC>
+<PAR>

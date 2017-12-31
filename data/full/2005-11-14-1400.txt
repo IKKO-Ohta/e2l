@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> to mark a third straight week of gains <PUNC>
+wal-mart stores inc. wmt led the way <COMMA> with the retail behemoth s shares tacking on <NUM> cents to dollar <NUM> in pre-market trading on instinet after it posted third-quarter results that topped analyst estimates <COMMA> if one-time costs of dollar <NUM> million linked to hurricanes katrina <COMMA> rita and wilma are excluded <PUNC>
+rival home depot hd is set to report on tuesday <PUNC>
+<PAR>

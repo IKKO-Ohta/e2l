@@ -1,0 +1,8 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by e.i <PUNC>
+du pont de neumours & co. dd <COMMA> which gained <NUM> percent <PUNC>
+<PAR>
+on tuesday <COMMA> fears that countrywide financial would file for bankruptcy denied by the mortgage lender and at&t s pessimistic outlook prompted a renewed battering for u.s. stocks <COMMA> with the dow industrials falling <NUM> points <COMMA> the nasdaq composite dropping <NUM> points for its eighth consecutive fall <COMMA> and the s&p <NUM> losing nearly <NUM> points <PUNC>
+for the dow jones wilshire <NUM> <COMMA> which lost <NUM> points or <NUM> percent <COMMA> tuesday s close capped the worst five-day start of a year in nearly three decades <COMMA> with the index down <NUM> percent <COMMA> or dollar <NUM> trillion <COMMA> so far this year <PUNC>
+wednesday s big earnings report will come after the close of trade <COMMA> when alcoa aa is expected to report a <NUM> percent drop in earnings per share <COMMA> excluding restructuring charges <PUNC>
+but dupont dd raised its <NUM> profit outlook <COMMA> citing agriculture and nutrition <PUNC>
+<PAR>

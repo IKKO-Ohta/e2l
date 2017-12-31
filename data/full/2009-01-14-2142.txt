@@ -1,0 +1,4 @@
+citigroup c <COMMA> off <NUM> percent to below dollar <NUM> <COMMA> led a retreat that sank all <NUM> components of the dow jones industrial average dji <PUNC>
+the blue-chip index plummeted to early december lows <COMMA> while extending its recent losing streak to a sixth consecutive session <PUNC>
+j.p. morgan chase & co. jpm moved the release of its quarterly results up to thursday morning <COMMA> nearly a week ahead of schedule <COMMA> with a spokesman for the bank declining to comment on why the company was making the move <PUNC>
+<PAR>

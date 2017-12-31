@@ -1,0 +1,7 @@
+the dow jones industrial average dji dipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> led by shares of drug manufacturer merck & co. inc. mrk <COMMA> which fell <NUM> percent after the stock was downgraded to neutral from buy at ubs <PUNC>
+also weighing on the dow <COMMA> shares of walt disney co. dis fell <NUM> percent after lehman brothers downgraded the entertainment firm s stock <PUNC>
+the dow remained supported by alcoa inc. aa <COMMA> up <NUM> percent <COMMA> ahead of the aluminum producer s earnings report after the close tuesday <PUNC>
+u.s. stocks ended lower during the holiday-shortened week <COMMA> with the dow jones industrial average falling into bear-market territory <PUNC>
+general electric co. s ge nbc universal led a group buying the weather channel in what is expected to be a multibillion-dollar deal <PUNC>
+terms weren t disclosed <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points to <NUM> <PUNC>
+general motors corp. gm was the biggest loser among blue chips <COMMA> losing <NUM> percent <PUNC>
+but dow component wal-mart wmt over the weekend said u.s. same-store sales in november fell <NUM> percent <COMMA> the first such monthly drop for the giant retailer since <NUM> <PUNC>
+banc of america also lifted its price target on home depot inc. hd <COMMA> a dow component <COMMA> to dollar <NUM> from dollar <NUM> previously <PUNC>
+on friday <COMMA> stocks fell in light volume on a sharp decline in the dollar <PUNC>
+in a holiday-shortened week <COMMA> the dow fell <NUM> percent <COMMA> the s&p <NUM> ended almost unchanged and the nasdaq advanced <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+the dow jones industrial average dji was sitting just off its high for the session <COMMA> up <NUM> points to <NUM> <PUNC>
+before a rally in merck shares sent the dow to new highs <COMMA> stocks briefly pared gains after fed chief alan greenspan offered a guarded outlook on inflation <PUNC>
+shares in merck mrk surged as much as <NUM> percent to dollar <NUM> as cnbc reported that a jury found that the drug giant did not commit consumer fraud in the presentation of the risks over using its painkiller drug vioxx <PUNC>
+pfizer inc. pfe <COMMA> which markets bextra <COMMA> a painkiller which is part of the same class of drugs as vioxx <COMMA> also saw its shares rise on the merck news <PUNC>
+it was last trading up <NUM> percent at dollar <NUM> <PUNC>
+in the discount arena <COMMA> wal-mart stores inc. wmt posted a <NUM> percent rise in same-stores sales for october <PUNC>
+same-store sales <COMMA> a widely-used measure of retail performance <COMMA> tracks sales from stores open at least a year <PUNC>
+looking ahead <COMMA> the world s largest retailer and a dow component forecast same-store sales growth of <NUM> percent to <NUM> percent for november <PUNC>
+the company s stock tacked on as much as <NUM> cents to dollar <NUM> in early trading <PUNC>
+<PAR>

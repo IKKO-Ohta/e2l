@@ -1,0 +1,6 @@
+u.s. stocks fell sharply thursday <COMMA> with the dow industrials sliding more than <NUM> points <COMMA> as a downgrade of citigroup inc. revived concerns about the woes of the financial sector and sobered up the markets after the euphoria of the federal reserve s rate cut <PUNC>
+the dow jones industrial average dji slumped <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> as <NUM> of its <NUM> components fell <COMMA> led lower by exxon mobil corp. xom and financials stocks such as jpmorgan chase & co. jpm <COMMA> american express co. axp <COMMA> and american international group inc. aig <PUNC>
+citigroup c will have to raise more than dollar <NUM> billion by either selling assets <COMMA> cutting its dividend or raising capital <COMMA> analysts at cibc world markets said as they downgraded the stock <PUNC>
+write-downs of securities tied to bad home loans are worsening citi s situation <COMMA> they added <PUNC>
+exxon mobil xom fell <NUM> percent after announcing that third-quarter income fell <NUM> percent as the rising cost of oil raised expenses and outpaced any price increases that the petroleum giant could get for its products <PUNC>
+<PAR>

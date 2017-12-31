@@ -1,0 +1,8 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components advancing <PUNC>
+the auto industry and its impact on the economy were again in focus <PUNC>
+gmac <COMMA> the lending arm of general motors gm <COMMA> said it will restart auto financing for more u.s. customers because it has better access to funding after converting to a bank holding company <PUNC>
+shares of gm <COMMA> part of the dow industrials <COMMA> gained <NUM> percent <COMMA> with smaller rival ford motor co. f rising fractionally <PUNC>
+ford wasn t part of the federal assistance program <PUNC>
+u.s. stocks fell monday but finished well above their worst levels of the day <COMMA> as rising oil prices pressured consumer-related shares and investors ditched weaker-performing financial stocks <PUNC>
+the dow jones industrial average lost <NUM> points <COMMA> the s&p <NUM> index fell <NUM> points and the nasdaq composite dropped <NUM> points <PUNC>
+<PAR>

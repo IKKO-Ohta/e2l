@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx rose <NUM> to <NUM> <COMMA> and the nasdaq composite rixf added <NUM> to <NUM> <PUNC>
+dow component caterpillar cat rose almost <NUM> percent to dollar <NUM> after r.w <PUNC>
+baird lifted its price target on the stock to dollar <NUM> <PUNC>
+delphi corp. dph shares fell <NUM> percent to dollar <NUM> <COMMA> a new all-time low as the company continued negotiations with general motors gm <COMMA> its biggest customer <COMMA> aimed at staving off bankruptcy <PUNC>
+<PAR>

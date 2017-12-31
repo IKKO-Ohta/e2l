@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but one of its <NUM> components losing ground <COMMA> including alcoa inc. aa <COMMA> which unofficially starts the first-quarter earnings-reporting season on monday <COMMA> after the market close <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+u.s. stocks retrieved healthy gains <COMMA> bringing the dow jones industrial average back above <NUM> <COMMA> after an initial skittish reaction to a divided federal open market committee <COMMA> which offered a dimmer view on the economy and said rates would stay low through mid-2013 <PUNC>
+after relinquishing <NUM> points <COMMA> or <NUM> percent <COMMA> in monday s battering the sixth-largest point loss in its history the dow industrials dji rallied back as much as <NUM> points <COMMA> then fell <NUM> points <COMMA> and was lately up <NUM> points at <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+the dow jones industrial average dji slid <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all <NUM> of its components finishing lower <PUNC>
+citigroup inc. c weighed the most <COMMA> falling <NUM> percent to end at dollar <NUM> <COMMA> its largest one-session decline since the market collapse on oct. <NUM> <COMMA> <NUM> <PUNC>
+the bank took on more than dollar <NUM> billion in assets from structured investment vehicles and shut another hedge fund <COMMA> raising concerns about its ability to raise money <PUNC>
+<PAR>
+shares of general motors corp. gm ended down <NUM> percent <PUNC>
+on tuesday <COMMA> u.s. stocks ended higher after a run-up in the final hour of trade <COMMA> with the dow jones industrial average striking its third advance in <NUM> sessions <PUNC>
+at tuesday s close <COMMA> the dow jones industrial average was down <NUM> percent in november <COMMA> according to a preliminary report from the dow jones indexes <PUNC>
+for the year to date <COMMA> the blue-chip index was down <NUM> percent <PUNC>
+<PAR>

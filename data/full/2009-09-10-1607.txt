@@ -1,0 +1,4 @@
+on thursday <COMMA> the health-care sector was among those on the rise <COMMA> along with the broader market <PUNC>
+up for a fifth consecutive session <COMMA> the dow jones industrial average dji added <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx gained <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf climbed <NUM> points to <NUM> <PUNC>
+<PAR>

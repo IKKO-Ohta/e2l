@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> pushing back above the <NUM> level to log its highest close since july <NUM> <PUNC>
+the index is off around <NUM> percent from its all-time closing high <PUNC>
+the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> ending at its highest level since march <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

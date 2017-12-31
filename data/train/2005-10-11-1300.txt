@@ -1,0 +1,5 @@
+the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
+the results late monday from alcoa aa and genentech inc. dna should create some upward momentum at tuesday s opening <PUNC>
+dow component mcdonald s mcd rose <NUM> percent to dollar <NUM> in premarket activity after ubs lifted its price target for the stock by dollar <NUM> to dollar <NUM> <PUNC>
+shares of general motors corp. gm <COMMA> also in the dow <COMMA> were <NUM> percent higher at dollar <NUM> <COMMA> after the stock monday lost <NUM> percent of its value in the wake of its former unit delphi s bankruptcy filing <PUNC>
+<PAR>

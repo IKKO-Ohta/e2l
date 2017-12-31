@@ -1,0 +1,6 @@
+the dow industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <COMMA> with acola inc. aa and american express co. axp leading the dow s declines <COMMA> with acola off <NUM> percent and amex down <NUM> percent <PUNC>
+the dow s minority advancing stocks involve two large retailers <COMMA> with home depot hd <COMMA> up <NUM> percent <COMMA> and wal-mart stores inc.. wmt ahead <NUM> percent <PUNC>
+in further negative news for the financial sector <COMMA> merrill lynch cut the ratings on lehman brothers leh <COMMA> bear stearns bsc and citigroup c <COMMA> all downgraded to neutral from buy <COMMA> due to concerns over their debt-market exposure <PUNC>
+set to release financial results after the close <COMMA> borders group inc. bgp was expected to report a second-quarter loss as record-setting sales of the latest harry potter books haven t offset stiff competition from rivals including wal-mart stores inc. wmt and amazon.com amzn <PUNC>
+borders was down <NUM> percent <PUNC>
+<PAR>

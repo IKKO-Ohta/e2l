@@ -1,0 +1,8 @@
+positioned for a weekly loss <COMMA> the dow jones industrial average dji was recently off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the dow is down more than <NUM> points <COMMA> or <NUM> percent <COMMA> from last friday s close <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were posting declines <COMMA> with the blue-chip losses led by aig aig <COMMA> down <NUM> percent <COMMA> following its larger-than-forecast loss <COMMA> which led standard & poor s and fitch to cut the insurance giant s credit rating <PUNC>
+<PAR>
+also weighing on the dow was citigroup c <COMMA> off <NUM> percent <COMMA> on word the banking institution would sell or downside pieces of its sprawling empire <PUNC>
+<PAR>
+u.s. stocks ended higher on thursday <COMMA> with better-than-expected april sales by wal-mart stores inc. wmt and other retailers driving a mild rebound <PUNC>
+<PAR>

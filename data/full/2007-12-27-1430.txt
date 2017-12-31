@@ -1,0 +1,4 @@
+on wednesday <COMMA> u.s. stocks finished with mild gains amid concerns over holiday retail sales and downbeat housing data <PUNC>
+the dow industrials rose <NUM> points <COMMA> the nasdaq composite rose <NUM> points and the s&p <NUM> added a point <PUNC>
+meanwhile <COMMA> goldman sachs analysts increased their write-down estimates for citigroup c <COMMA> merrill lynch mer and j.p. morgan chase jpm <COMMA> and predicted citigroup will have to slash its dividend by <NUM> percent <PUNC>
+<PAR>

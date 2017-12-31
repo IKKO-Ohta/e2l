@@ -1,0 +1,6 @@
+futures for the dow jones industrial average dji were up <NUM> points at <NUM> <COMMA> while those for the s&p <NUM> index spx rose <NUM> points to <NUM> <PUNC>
+nasdaq <NUM> futures gained <NUM> points to <NUM> <PUNC>
+among blue-chips <COMMA> at&t t said that it and mexican wireless operator america movil amx were in talks to buy a stake in telecom italia ti <PUNC>
+telecom italia shares were up <NUM> percent before the open <PUNC>
+u.s. stocks finished a volatile friday on a mixed note <COMMA> mirroring a likewise volatile and mixed performance in the first quarter <COMMA> which has left the dow industrials in negative territory for the year <COMMA> while other indices hold on to meager gains. <PUNC>
+<PAR>

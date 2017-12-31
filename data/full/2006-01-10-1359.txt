@@ -1,0 +1,6 @@
+the march futures contract for the dow jones industrial average was down <NUM> points at <NUM> <PUNC>
+on monday stocks ended higher <COMMA> after a more than <NUM> percent jump in shares of general motors corp. gm helped the dow jones industrials dji close above <NUM> for the first time in <NUM> 1/2-year years <PUNC>
+although investors enjoyed the sight of the dow above <NUM> <COMMA> marc pado <COMMA> u.s. market strategist at cantor fitzgerald <COMMA> noted that the index broke through to a 4-1/2-year high on friday <PUNC>
+alcoa inc. aa was almost <NUM> percent lower at dollar <NUM> before the opening <PUNC>
+the world s biggest aluminum producer posted a sharply lower fourth-quarter profit monday <COMMA> blaming the weaker results on a long list of production outages <COMMA> strikes and restructuring costs <PUNC>
+<PAR>

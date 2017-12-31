@@ -1,0 +1,5 @@
+since the middle of october <COMMA> the dow has risen <NUM> percent <COMMA> the nasdaq composite index has climbed <NUM> percent and the s&p has gained <NUM> percent <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> marking an eight-month high and a sixth consecutive session of gains <PUNC>
+shares in wal-mart stores inc. wmt also tacked on <NUM> cents to dollar <NUM> after the world s largest discount retailer said it expects sales from stores open at least a year to rise <NUM> percent in november <COMMA> including sales from the friday after thanksgiving <PUNC>
+outside of retail <COMMA> shares in merck mrk rose <NUM> cents to dollar <NUM> in pre-market dealings after after the drug giant confirmed it would implement a global restructuring plan <COMMA> which will include cutting <NUM> jobs by the end of <NUM> and the close or sale of <NUM> of its <NUM> manufacturing plants <PUNC>
+<PAR>

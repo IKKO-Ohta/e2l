@@ -1,0 +1,6 @@
+the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> while the nasdaq composite index rixf popped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and the s&p <NUM> spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> marking the largest point gains for each of the major indexes since may <NUM> <PUNC>
+pfizer inc. pfe and exxon mobil corp. xom were the only dow stocks to finish in the red <PUNC>
+home depot inc. hd <COMMA> general motors corp. gm <COMMA> wal-mart stores inc. wmt <COMMA> and united technologies corp. utx posted the blue-chip gauge s biggest gains <PUNC>
+advanced micro devices amd filed a suit late monday in a delaware federal court alleging that intel corp. intc has used improper subsidies and threatened retaliation against firms using or selling amd products <PUNC>
+ibm ibm <COMMA> meanwhile <COMMA> was targeted by the securities and exchange commission <COMMA> which has opened an informal investigation into disclosures the company made regarding stock option expenses in its first-quarter earnings report <PUNC>
+<PAR>

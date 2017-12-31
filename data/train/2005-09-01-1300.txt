@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+possibly the most anticipated number <COMMA> wal-mart stores inc. wmt reported a <NUM> percent rise in same-stores sales for august <COMMA> but warned hurricane katrina and higher oil prices could pressure september sales <PUNC>
+shares of wal-mart ended wednesday s session at dollar <NUM> <PUNC>
+<PAR>

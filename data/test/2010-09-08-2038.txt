@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> about <NUM> points shy of returning to positive for <NUM> <PUNC>
+twenty-four of its <NUM> components rose <COMMA> with aluminum giant alcoa inc. aa paving the gains <COMMA> up <NUM> percent <PUNC>
+hewlett-packard co. hpq fell the most among the blue chips <COMMA> losing <NUM> percent after ubs ag downgraded the computer manufacturer from buy to neutral <PUNC>
+ubs also cut intel corp. intc <COMMA> with the chip manufacturer off <NUM> percent <PUNC>
+<PAR>

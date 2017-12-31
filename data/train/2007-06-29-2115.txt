@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to close at <NUM> on friday <COMMA> as rallying crude oil prices erased earlier gains amid end-of-the quarter purchases <PUNC>
+for the month of june <COMMA> the dow fell <NUM> percent <COMMA> the s&p <NUM> fell <NUM> percent <COMMA> while the nasdaq fell fractionally <PUNC>
+but the second quarter saw the dow rally <NUM> percent in the quarter <COMMA> while the s&p advanced <NUM> percent and the nasdaq gained <NUM> percent <PUNC>
+still <COMMA> global growth helped the market put in a strong performance for the second quarter <PUNC>
+the dow gained <NUM> percent in the quarter <COMMA> the s&p advanced <NUM> percent and the nasdaq gained <NUM> percent <PUNC>
+<PAR>

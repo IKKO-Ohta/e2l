@@ -1,0 +1,4 @@
+the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
+tobacco company altria mo was <NUM> cents higher at dollar <NUM> after positive analyst comments from merrill lynch <COMMA> goldman sachs and prudential equity group <PUNC>
+merrill lynch raised its price target on the food and tobacco company s stock to dollar <NUM> from dollar <NUM> on the belief that favorable tobacco litigation outcomes will boost valuations <PUNC>
+<PAR>

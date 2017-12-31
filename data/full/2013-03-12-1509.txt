@@ -1,0 +1,4 @@
+u.s. stocks were mixed tuesday <COMMA> with the dow jones industrial average extending its winning run into an eighth session <COMMA> and the s&p <NUM> within reach of its all-time closing high <PUNC>
+this is the 24th bull market since <NUM> <COMMA> and the dow jones industrial average has gone to a new high in <NUM> of those <NUM> <COMMA> so it s not unusual for the dow to set a new high <COMMA> said hugh johnson <COMMA> chairman of hugh johnson advisors llc in albany <COMMA> n.y <PUNC>
+the dow dji was up <NUM> points at <NUM> <PUNC>
+<PAR>

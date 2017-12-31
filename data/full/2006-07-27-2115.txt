@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+dow component exxon mobil xom saw early gains fade in line with the afternoon pullback in the market <PUNC>
+the world s biggest publicly traded oil company reported a <NUM> percent jump in second-quarter profit <COMMA> fueled by historically high oil prices and strong refining margins <PUNC>
+shares of microsoft corp. msft fell <NUM> percent to dollar <NUM> <PUNC>
+chief executive steve ballmer told shareholders at its annual meeting that the company needs to embrace an industry-wide shift toward software delivered over the internet as a service <COMMA> while continuing to drive advances in technology <PUNC>
+<PAR>

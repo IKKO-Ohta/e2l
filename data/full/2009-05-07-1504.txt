@@ -1,0 +1,3 @@
+on thursday <COMMA> the recent trend was not in play <COMMA> with stock indexes forfeiting their early gains as financials fell after talk of increased bank regulation by federal reserve chairman ben bernanke <PUNC>
+the dow jones industrial average dji was recently down <NUM> points at <NUM> <COMMA> while the s&p <NUM> index spx dipped <NUM> points to <NUM> and the nasdaq composite rixf shed <NUM> points to <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+stocks have kicked off <NUM> with a solid rally <PUNC>
+the dow <COMMA> so far <COMMA> is up <NUM> percent <COMMA> the nasdaq has climbed <NUM> percent while the s&p has gained <NUM> percent <PUNC>
+shares in microsoft corp. msft dipped <NUM> cents to dollar <NUM> in pre-market trading on instinet after credit suisse first boston downgraded the computer software giant to neutral from outperform <COMMA> on valuation grounds <PUNC>
+<PAR>

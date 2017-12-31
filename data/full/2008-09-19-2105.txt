@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points to end at <NUM> <COMMA> a lapse of <NUM> percent from a week ago <PUNC>
+of the blue-chip index s <NUM> components <COMMA> <NUM> posted gains for the session <COMMA> with the advance led by american international group inc. aig <COMMA> up <NUM> percent <PUNC>
+citigroup inc. c also bolstered the dow <COMMA> up <NUM> percent <COMMA> followed by bank of america corp. bac <COMMA> which gained <NUM> percent <PUNC>
+early on <COMMA> the major stock indexes had climbed above the level at which they stood before the start of the watershed week <COMMA> which saw the dow jones industrial average dji lose about <NUM> points in the first three days of trading <PUNC>
+the sec move may well be prompting pleas from financial-services companies left off the list <COMMA> including general electric co. ge <COMMA> american express co. axp and capital one financial corp. cof all of which have large businesses in the financial sector <PUNC>
+on thursday <COMMA> u.s. stocks surged in anticipation of the government rescue plan <COMMA> with the dow adding <NUM> points <PUNC>
+<PAR>

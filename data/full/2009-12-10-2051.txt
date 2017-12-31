@@ -1,0 +1,4 @@
+the dow jones industrial average dji recently was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> led by gains in walt disney dis <COMMA> home depot hd and alcoa <PUNC>
+however <COMMA> some traders remain concerned about the cumulative effect of millions of job losses from the recent recession <PUNC>
+with thursday s gains so far <COMMA> the dow is up just <NUM> points since last week s release of better-than-expected monthly payroll data <PUNC>
+<PAR>

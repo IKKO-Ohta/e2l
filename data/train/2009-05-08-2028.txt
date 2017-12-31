@@ -1,0 +1,8 @@
+on friday <COMMA> financial shares paced strong gains after the labor department reported job losses slowed in april <PUNC>
+<PAR>
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> giving the blue chips a weekly gain of <NUM> percent <PUNC>
+the s&p <NUM> spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> which translates into a <NUM> percent rise from the week-ago close <PUNC>
+the nasdaq composite rixf advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> up <NUM> percent for the week <PUNC>
+also rallying <COMMA> the dow jones u.s. real estate index iyr rose <NUM> percent to <NUM> <COMMA> up nearly <NUM> percent from its march <NUM> close of <NUM> <PUNC>
+in the same time <COMMA> the s&p <NUM> has gained <NUM> percent from its march <NUM> low <PUNC>
+<PAR>

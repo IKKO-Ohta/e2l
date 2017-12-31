@@ -1,0 +1,11 @@
+u.s. stocks were sharply lower on monday <COMMA> sending the dow jones industrial average down over <NUM> points <COMMA> as negative sentiment for the technology sector continued to weigh amid caution at the start of a heavy week of earnings <PUNC>
+also on the earnings docket this week are heavyweights microsoft corp. msft and yahoo <PUNC>
+inc. yhoo <PUNC>
+likewise <COMMA> the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> after losing over <NUM> points to a low of <NUM> <PUNC>
+the broad s&p <NUM> index spx was falling <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+boeing co. ba weighed heavily on the dow <COMMA> losing <NUM> percent after wachovia downgraded the stock to market perform from outperform <COMMA> citing concerns that the commercial-aircraft-order cycle has peaked <PUNC>
+among blue-chip tech stocks <COMMA> even intel corp. intc failed to post substantial gains after the wall street journal reported that sun microsystems sunw was near an agreement to use intel s chips <PUNC>
+techs fell sharply last week as investors were disappointed by forecasts from heavyweights apple inc. aapl and ibm ibm <PUNC>
+financial-services giant citigroup c was up <NUM> percent <COMMA> one of the few gainers among blue chips <COMMA> after news that chief financial officer sallie krawcheck was promoted to become chairman and chief executive of its global wealth management division <PUNC>
+but pfizer inc. pfe weighed on the dow <COMMA> falling <NUM> percent after the drugmaker reported fourth-quarter earnings declined but topped expectations on an adjusted basis <PUNC>
+<PAR>

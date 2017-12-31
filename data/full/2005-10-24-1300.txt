@@ -1,0 +1,8 @@
+the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
+futures contracts for the s&p <NUM> and the nasdaq <NUM> were up <NUM> points at <NUM> and up <NUM> points at <NUM> <PUNC>
+there were scant premarket trades for merck mrk <PUNC>
+the company reported reported third-quarter earnings of dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> up from a year-ago profit of dollar <NUM> billion <COMMA> or <NUM> cents a share <PUNC>
+but sales dipped <NUM> percent <PUNC>
+around midday american express axp will put out its earnings <PUNC>
+there were few preopening price quotes for the stock <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+alcoa inc. aa becomes the first member of the dow jones industrial average to release results for the first quarter when the aluminum producer reports after monday s close <PUNC>
+biocryst pharmaceuticals inc. bcrx shares leapt <NUM> percent after china speed up the approval of its anti-influenza drug peramivir <PUNC>
+lufkin industries inc. rose almost <NUM> percent after the general electric co. ge said it would acquire the manufacturer of oil-well pumps for about dollar <NUM> billion <COMMA> or dollar <NUM> a share <PUNC>
+the biggest earnings of the week will come from j.p. morgan chase & co. jpm and wells fargo & co. wfc <COMMA> which both report on friday <PUNC>
+analysts said while the earnings season is one of the most negatively forecast in awhile <COMMA> consensus still may be too high <PUNC>
+read <PUNC> earnings are first big stock test since market high <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the rebound in the market comes after a friday session in which both the dow jones industrial average and the nasdaq composite succumbed to their biggest one-day declines since <NUM> <PUNC>
+the dow industrials dji were off a session-high of <NUM> <COMMA> up just <NUM> points at <NUM> <PUNC>
+on friday <COMMA> the benchmark index gave up more than <NUM> points <PUNC>
+rival automaker gm gm benefited from ford s surprisingly upbeat quarterly report <COMMA> adding dollar <NUM> <COMMA> or <NUM> percent to dollar <NUM> <PUNC>
+american express co. axp shares gained <NUM> cents to dollar <NUM> after the credit card issuer posted in-line quarterly results <PUNC>
+intel corp. s intc stock fell for a seventh session in a row <COMMA> taking the chipmaker s shares to a 15-month low as the fallout over its disappointing quarterly results continued to reverberate <PUNC>
+<PAR>

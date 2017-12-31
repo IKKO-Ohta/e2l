@@ -1,0 +1,9 @@
+new york dow jones - u.s. stocks turned higher tuesday <COMMA> as the dow jones industrial average got some help from dupont s plan for a dollar <NUM> billion stock buyback and as analysts said technical conditions are right for further gains <PUNC>
+the dow jones industrial average dji erased early losses to rise more than <NUM> points <PUNC>
+tuesday s rise extended a rally from monday that pushed both the dow jones industrial average and the s&p <NUM> to their biggest one-day gains in six months <PUNC>
+the latest set of third-quarter earnings are the key focus tuesday <COMMA> including reports from dupont dd <COMMA> defense contractor northrop grumman corp. noc and utility southern co. so <PUNC>
+intel corp. intc <COMMA> also in the dow <COMMA> reversed initial losses to trade a bit higher <PUNC>
+the company will delay the launch of one of its chips for the corporate server market to work on the design <PUNC>
+meanwhile <COMMA> dow component honeywell hon was upgraded to buy by deutsche bank <COMMA> which said the stock price has been pushed down too much <PUNC>
+the stock rose as much as <NUM> percent <PUNC>
+<PAR>

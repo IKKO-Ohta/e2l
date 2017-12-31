@@ -1,0 +1,4 @@
+policy makers in europe will be under investors microscopes in the coming week after the threat of a greek debt default helped send the dow average to its worst weekly drop in nearly three years <PUNC>
+the dow jones industrial average dji declined <NUM> percent for its worst one-week loss since october <NUM> <PUNC>
+the nasdaq composite rixf lost <NUM> percent <PUNC>
+<PAR>

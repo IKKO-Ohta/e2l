@@ -1,0 +1,9 @@
+u.s. stocks turned mixed late tuesday <COMMA> with the dow jones industrial average recovering the worst of the losses suffered after the federal reserve statement accompanying its quarter percentage point rate hike left open the possibility of further rate increases <PUNC>
+the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> rebounding from a low of <NUM> hit shortly after the rate decision <PUNC>
+altria group inc. s mo shares fell <NUM> cents to dollar <NUM> after offering up a fiscal <NUM> profit forecast that fell shy of analyst expectations <PUNC>
+the dow industrials component s outlook came as it reported a higher fourth-quarter profit <COMMA> helped by growth in its tobacco business <COMMA> which was partially offset by weakness in its kraft foods inc. kft division <PUNC>
+altria owns about <NUM> percent of kraft <PUNC>
+merck mrk saw early gains fade to trade unchanged at dollar <NUM> after the blue-chip pharmaceutical company posted adjusted earnings that topped wall street s view <PUNC>
+results included significant contributions to its legal defense fund to fight a number of lawsuits related to vioxx <COMMA> its painkiller drug <PUNC>
+also <COMMA> shares of alcoa inc. aa rose <NUM> percent to dollar <NUM> after ubs upgraded the maker of aluminum products to buy from neutral on an increased aluminum price forecast <PUNC>
+<PAR>

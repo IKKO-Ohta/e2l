@@ -1,0 +1,4 @@
+on monday <COMMA> the financial sector fronted the gains as stocks extended their longest winning streak of the year <PUNC>
+the dow jones industrial average dji added <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx rose <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf climbed <NUM> points to <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
+shares of intel intc slumped nearly <NUM> percent <COMMA> the worst on the blue-chip average <COMMA> a day after the semiconductor maker said it was bracing for a third consecutive quarter of declining sales <COMMA> illustrating the global move to mobile devices and away from personal computers <PUNC>
+leading gains on the dow <COMMA> general electric co. ge climbed <NUM> percent after its earnings beat estimates <PUNC>
+shares of another credit-card issuer <COMMA> american express co. axp <COMMA> dropped <NUM> percent after the firm reported a slump in quarterly earnings <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+at late morning <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> component stocks posting gains <PUNC>
+hewlett-packard co. hpq led the blue-chip gains <COMMA> up 2.% <PUNC>
+<PAR>

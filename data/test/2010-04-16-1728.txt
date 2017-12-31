@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+prior to the release of the sec charges against goldman <COMMA> the dow had been down about <NUM> points <COMMA> with that decline driven by disappointment over the latest slate of earnings from companies including bank of america corp. bac and general electric co. ge <PUNC>
+and <PUNC>
+<PAR>

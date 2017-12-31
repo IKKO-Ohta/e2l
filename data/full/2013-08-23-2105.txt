@@ -1,0 +1,4 @@
+u.s. stocks closed higher friday <COMMA> shaking off losses following disappointing new-home-sales data <COMMA> but a big boost from microsoft s ceo news failed to raise the dow industrials for the week <PUNC>
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> but the index declined for a third consecutive week <COMMA> its longest weekly losing streak since nov. <NUM> <COMMA> <NUM> <PUNC>
+blue chips had plenty of support from shares of microsoft corp. msft <COMMA> which closed up <NUM> percent at dollar <NUM> <COMMA> the best performer on the dow following news that ceo steve ballmer will retire within <NUM> months <PUNC>
+<PAR>

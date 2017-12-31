@@ -1,0 +1,6 @@
+on monday <COMMA> stocks interrupted a four-day winning streak <COMMA> with losses in the tech sector weighing on the market <PUNC>
+the dow jones industrial average fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> index fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+last week <COMMA> a flurry of mergers in health care was highlighted by merck & co. s mrk plans to acquire schering-plough corp. sgp for dollar <NUM> billion <PUNC>
+also <COMMA> genentech inc. dna agreed to be acquired by roche holding ag for dollar <NUM> billion a share <COMMA> and gilead sciences agreed to buy biotech group cv therapeutics cvtx for dollar <NUM> billion <PUNC>
+<PAR>

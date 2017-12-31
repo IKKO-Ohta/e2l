@@ -1,0 +1,4 @@
+capping a week that had the dow jones industrial average dji back above <NUM> for the first time since early january <COMMA> the blue-chip index on friday added another <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> leaving it <NUM> percent higher on the week and at its highest settlement since nov. <NUM> <COMMA> <NUM> <PUNC>
+three dow components verizon communications inc. vz <COMMA> exxon mobil corp. xom and walt disney co. dis will be among the companies reporting results for the second quarter <PUNC>
+off the dow <COMMA> honeywell international inc. hon <COMMA> rockwell automation rok and travelers companies inc. trv are among those reporting of particular interest <COMMA> according to cecchini <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+u.s. stocks were lower in late trade friday <COMMA> even as the dow jones industrial average remained on course for a nearly <NUM> percent gain for the year <COMMA> as a dearth of investors and low volumes offset enthusiasm about apple computer inc. and reports that marsh & mclennan cos. has agreed to sell putnam investments <PUNC>
+after rising to a morning high of <NUM> points <COMMA> the dow jones industrial average dji was recently down <NUM> points at <NUM> <COMMA> but was still on track for its best annual performance since <NUM> <PUNC>
+at&t inc. t shares helped support the blue-chip stock average with a gain of <NUM> percent <PUNC>
+the company late thursday offered additional concessions to federal regulators to advance its dollar <NUM> billion acquisition of bellsouth corp. bls <PUNC>
+if the merger goes through <COMMA> it will be the largest telecommunications merger in u.s. history <PUNC>
+wal-mart stores inc. wmt also lent support to the dow industrials <COMMA> rising by <NUM> percent <PUNC>
+the stock has dropped <NUM> percent since late october amid weaker sales and concerns about slower economic growth <COMMA> overall <PUNC>
+on thursday <COMMA> stocks closed mildly lower after the dow industrials touched an intraday record <PUNC>
+news that existing home sales rose slightly in november helped relieve concerns that a fast-falling housing will derail economic growth in the new year <COMMA> according to malone <PUNC>
+<PAR>

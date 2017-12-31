@@ -1,0 +1,9 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
+among dow components <COMMA> microsoft msft fell <NUM> percent <PUNC>
+ceo steve ballmer said some analyst sales forecasts for vista <COMMA> its new operating system <COMMA> might be too high <PUNC>
+and honeywell inc. hon rose <NUM> percent as it announced a new dollar <NUM> billion stock repurchase program <PUNC>
+meanwhile <COMMA> general motors corp. gm rose <NUM> percent following a report in the industry publication automotive news that gm is in talks to acquire struggling rival chrysler group from its current owner <COMMA> daimlerchrysler ag dcx <PUNC>
+daimlerchrysler jumped <NUM> percent <PUNC>
+on thursday <COMMA> the market closed with the dow at a new high <COMMA> helped by a caterpillar inc. cat stock buyback plan and merger speculation surrounding anheuser-busch companies co. bud <PUNC>
+crude oil futures rose dollar <NUM> to close at dollar <NUM> a barrel <COMMA> but the gains had a moderate impact on oil shares <COMMA> lifting dow component exxon mobil corp. xom <COMMA> while others such as chevron corp. cvx fell <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with its <NUM> components evenly split between gainers and losers <PUNC>
+shares of intel corp. intc and dupont dd were leading the gains <PUNC>
+in other deal news <COMMA> dow component citigroup c was little changed after saying it will buy taiwan s bank of overseas chinese for about dollar <NUM> million in cash <PUNC>
+the deal is expected to close in the second half of <NUM> <PUNC>
+earnings season officially kicks off after tuesday s closing bell with dow component alcoa s aa results <PUNC>
+<PAR>

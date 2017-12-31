@@ -1,0 +1,11 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+within the dow industrials <COMMA> alcoa inc. aa was the biggest percentage gainer <COMMA> up <NUM> percent after credit suisse first boston upgraded mining stocks <PUNC>
+shares of general motors corp. gm fell <NUM> percent as the world s biggest automaker reported a <NUM> percent drop in car sales for july <COMMA> attributing the decline to fewer sales to fleet customers <PUNC>
+overall sales however are up <NUM> percent from year-ago levels as slashed prices stoked demand <PUNC>
+both ford motor co. f and daimlerchrysler dcx also posted strong july sales compared with a year ago <PUNC>
+intel corp. intc rose <NUM> percent <COMMA> in line with a rally in the semiconductor sector sox <COMMA> amid expectations that chip sales will accelerate in the second half of the year <PUNC>
+microsoft corp. msft climbed <NUM> percent <COMMA> lending further support to the benchmark index <PUNC>
+rounding out the dow notables <COMMA> j.p morgan chase jpm has reportedly been talking to dozens of u.s. banks to gauge their interest in potential acquisitions <COMMA> according to the wall street journal <COMMA> citing executives and others familiar with the conversations <PUNC>
+two weeks ago <COMMA> chief executive james dimon hinted that a large acquisition could be on the cards as early as next year <PUNC>
+the stock tacked on <NUM> percent <PUNC>
+<PAR>

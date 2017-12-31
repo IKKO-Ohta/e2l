@@ -1,0 +1,9 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+boeing ba led the measure s declines with a drop of <NUM> percent <PUNC>
+the company has told several of its early customers that delivery of the <NUM> dreamliner will be delayed by as long as <NUM> months <COMMA> aviation week reported friday <COMMA> citing industry sources <PUNC>
+mcdonald s mcd slipped <NUM> percent <PUNC>
+the fast-food giant s same-store sales rose <NUM> percent in october from a year earlier <COMMA> topping its own forecast and analysts estimates thanks to growth in europe and continued performance of core menu items such as chicken mcnuggets and mccafe coffee beverages <PUNC>
+however <COMMA> investors were disappointed by a <NUM> percent increase in u.s. comparable sales <COMMA> which came in short of analysts forecast for a <NUM> percent gain <PUNC>
+the declines came as investors digested the dow s <NUM> percent climb last week that brought the measure to highs not seen since prior to the september <NUM> collapse of lehman brothers <PUNC>
+the gains were fueled by the federal reserve s pledge to inject the economy with dollar <NUM> of stimulus as well as the republican party s win of control of the house of representatives <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading in negative territory <PUNC>
+automakers will be reporting august sales in the u.s. <COMMA> with analysts expecting the lowest levels of sales since a strike at general motors gm nearly a decade ago <PUNC>
+pharmaceuticals are likely to be among the more active stocks <COMMA> including dow component merck & co. inc. mrk after positive results released sunday on its experimental cholesterol drug <PUNC>
+another study released during the weekend indicated drug-coated heart stents <COMMA> such as those made by boston scientific bsx and johnson & johnson jnj <COMMA> may not increase the risk of blood clots as much as previously thought <PUNC>
+shares of intel intc were up <NUM> percent in pre-open trade after bank of america securities increased its price target to dollar <NUM> from dollar <NUM> <COMMA> citing strong demand for notebook computers <PUNC>
+apple inc. aapl on friday said it would pull shows from nbc ge off its popular itunes store due to a pricing dispute with the network <PUNC>
+<PAR>

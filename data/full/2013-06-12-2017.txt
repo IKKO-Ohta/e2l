@@ -1,0 +1,3 @@
+u.s. stocks tumbled on wednesday <COMMA> with the dow industrials falling for three consecutive days for the first time this year <COMMA> as the japanese yen furthered its rise and doubts about monetary policy had investors on edge <PUNC>
+after a 119-point opening leap <COMMA> the dow jones industrial average dji fell as much as <NUM> points and ended at <NUM> <COMMA> a loss of <NUM> points <COMMA> or <NUM> percent <PUNC>
+<PAR>

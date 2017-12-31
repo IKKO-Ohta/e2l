@@ -1,0 +1,6 @@
+futures for the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> while those for the s&p <NUM> index spx rose <NUM> points to <NUM> <PUNC>
+wal-mart stores wmt <COMMA> the nation s largest retailer <COMMA> cut its earnings outlook for the year <COMMA> saying second-quarter performance was less than expected and many of its customers are under economic pressure <PUNC>
+home depot inc. hd reported a <NUM> percent profit decline and projected weakness in the housing market would extend into <NUM> <PUNC>
+on monday <COMMA> wall street reversed early gains to end slightly lower amid worries over when and where the next credit-related trouble would hit <PUNC>
+the dow industrials ended <NUM> points lower <COMMA> the s&p <NUM> was down a fraction of a point and the nasdaq composite declined <NUM> points <PUNC>
+<PAR>

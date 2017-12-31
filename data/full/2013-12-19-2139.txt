@@ -1,0 +1,6 @@
+u.s. stocks on thursday recovered most earlier losses as investors shrugged off disappointing housing <COMMA> manufacturing and employment reports <COMMA> sending the dow jones industrial average to a record closing <PUNC>
+the dow average dji closed at its 46th record of the year <COMMA> adding <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
+it also hit an intraday record of <NUM> <PUNC>
+the s&p <NUM> index spx briefly ventured into positive territory but closed <NUM> point off its record close level at <NUM> <PUNC>
+the nasdaq composite rixf closed lower <COMMA> shedding <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

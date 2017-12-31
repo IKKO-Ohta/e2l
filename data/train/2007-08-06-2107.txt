@@ -1,0 +1,8 @@
+stocks rallied to a sharply higher close monday <COMMA> sending the dow industrials up by over <NUM> points for its best day since <NUM> <COMMA> as investors snapped up financial shares <COMMA> which have been heavily hit in recent weeks amid concerns about credit markets and bad home loans <PUNC>
+the dow jones industrial average dji finished up <NUM> points at <NUM> <COMMA> marking its best one-day performance since june <NUM> <COMMA> and making up for its 281-point plunge on friday <PUNC>
+out of the dow s <NUM> stocks <COMMA> <NUM> advanced <COMMA> led by financial shares such as american international group <PUNC>
+aig <COMMA> citigroup inc. c <COMMA> and jp morgan chase & co. jpm <PUNC>
+also on the dow <COMMA> merck & co. inc. mrk gained <NUM> percent after cowen & co upgraded the stock <COMMA> while wal-mart stores inc. wmt rose <NUM> percent after saying it is setting up a joint business-to-business venture in india <PUNC>
+on friday <COMMA> those concerns and a weak jobs report drove a sell-off that marked the dow s third worst day of the year <PUNC>
+the dow fell <NUM> points <COMMA> the s&p <NUM> fell <NUM> points <COMMA> and the nasdaq lost <NUM> points <PUNC>
+<PAR>

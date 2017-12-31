@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components advanced <COMMA> led by honeywell inc. hon <COMMA> at&t inc. t <COMMA> microsoft corp. msft and exxon mobil corp. xom <PUNC>
+for the week <COMMA> however <COMMA> the dow was on track for a loss of <NUM> percent <COMMA> after the market was rocked by concerns about chinese stocks and the direction of u.s. interest rates <PUNC>
+on friday <COMMA> dow component coca-cola ko gained <NUM> percent after saying it s agreed to buy energy brands inc. <COMMA> also known as glaceau <COMMA> for dollar <NUM> billion <PUNC>
+the acquisition will provide coca-cola with energy brands enhanced water products <COMMA> including the vitaminwater and smartwater brand <PUNC>
+<PAR>

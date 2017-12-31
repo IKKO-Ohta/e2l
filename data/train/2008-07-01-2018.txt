@@ -1,0 +1,6 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> after hitting an earlier low of <NUM> <PUNC>
+stocks tumbled last week bringing the dow and other major indices within a hair of bear-market territory <PUNC>
+and the dow closed the second quarter with steep losses <COMMA> losing <NUM> percent in june <COMMA> <NUM> percent in the second quarter and <NUM> percent year to date <PUNC>
+helping lift the dow monday <COMMA> shares of general motors corp. gm rebounded from early weakness to gain <NUM> percent after posting a decline in sales that was less severe than analysts had expected <PUNC>
+of the dow s components <COMMA> <NUM> of <NUM> advanced <COMMA> led higher by american express axp <COMMA> which rose <NUM> percent after being upgraded by ubs <COMMA> and other financial issues such citigroup inc. c <PUNC>
+<PAR>

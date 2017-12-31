@@ -1,0 +1,6 @@
+u.s. stocks ended firmly higher on tuesday <COMMA> gaining back some ground after a 680-point slide in the dow industrials on monday <COMMA> as automakers in need of public money to survive <COMMA> presented plans to return to profitability <PUNC>
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> helped by a turn-around in shares of general motors corp. gm <PUNC>
+away from the dow <COMMA> ford motor co. f said its sales slumped <NUM> percent in november <PUNC>
+it then asked for dollar <NUM> billion to return to profitability by <NUM> <PUNC>
+also boosting blue chips <COMMA> general electric ge jumped <NUM> percent after the conglomerate said it would cut more costs to reach the low end of its fourth-quarter earnings guidance and maintain its dividend <PUNC>
+<PAR>

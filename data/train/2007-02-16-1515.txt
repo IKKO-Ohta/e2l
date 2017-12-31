@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down fractionally at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
+among dow components <COMMA> microsoft msft fell <NUM> percent <PUNC>
+ceo steve ballmer said some analyst sales forecasts for vista <COMMA> its new operating system <COMMA> might be too high <PUNC>
+honeywell inc. hon provided support for blue-chips <COMMA> adding <NUM> percent after saying it was implementing a new dollar <NUM> billion stock repurchase program <PUNC>
+on thursday <COMMA> the market closed with the dow at a new high <COMMA> helped by a caterpillar inc. cat stock buyback plan and merger speculation surrounding anheuser-busch companies co. bud <PUNC>
+<PAR>

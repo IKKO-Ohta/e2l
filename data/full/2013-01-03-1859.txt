@@ -1,0 +1,3 @@
+after a 49-point fall <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the s&p <NUM> index spx gained almost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with consumer discretionary faring best among its <NUM> major sectors <PUNC>
+<PAR>

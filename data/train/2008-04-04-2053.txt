@@ -1,0 +1,8 @@
+after volatile moves in a 100-point trading range <COMMA> the dow jones industrial average dji closed down <NUM> points to <NUM> <COMMA> giving it a weekly gain of <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> settled with losses <PUNC>
+general motors corp. gm paced dow decliners <COMMA> off <NUM> percent <COMMA> with the automaker s stock hit by word that a plan under which auto-parts manufacturer delphi corp. dphiq a key supplier to gm would emerge from bankruptcy suffered a blow <PUNC>
+<PAR>
+financial stocks lost ground <COMMA> with the financial select sector spdr xlf down <NUM> percent <PUNC>
+within the dow <COMMA> shares of american express co. axp fell <NUM> percent <COMMA> while j.p. morgan chase & co. jpm shed <NUM> percent <PUNC>
+blue-chip gains were led by united technologies corp. utx <COMMA> up <NUM> percent <COMMA> and caterpillar inc. cat <COMMA> ahead <NUM> percent <PUNC>
+<PAR>

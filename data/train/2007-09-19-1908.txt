@@ -1,0 +1,4 @@
+after nearing levels not breached since late july <COMMA> the major indexes scaled back their earlier gains <COMMA> with the dow jones industrial average dji more recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components ahead <COMMA> with att inc. t and honeywell international inc. hon leading the gains <COMMA> both up around <NUM> percent <PUNC>
+general motors corp. gm led the dow s losses <COMMA> its stock down <NUM> percent <PUNC>
+the automaker is in bargaining talks with the united auto workers union <PUNC>
+<PAR>

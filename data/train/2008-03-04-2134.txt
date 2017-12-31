@@ -1,0 +1,5 @@
+down more than <NUM> points earlier on <COMMA> the dow jones industrial average dji reversed course late in the day to end <NUM> points lower at <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
+blue-chip decliners were led by citigroup inc. c <COMMA> down more than <NUM> percent after merrill lynch cut the bank s earnings estimates <PUNC>
+<PAR>
+other stocks weighing on the dow include intel intc <COMMA> down after the chipmaker lowered its gross-margin outlook for the current quarter <PUNC>
+<PAR>

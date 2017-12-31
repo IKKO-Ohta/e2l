@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+dow industrials component procter & gamble pg fell <NUM> percent to dollar <NUM> after it said it now expects organic sales growth - excluding the impact of acquisitions <COMMA> divestitures and foreign exchange - of <NUM> percent to <NUM> percent <COMMA> at the low end of its earlier forecast of <NUM> percent to <NUM> percent growth <PUNC>
+american international group <COMMA> aig tacked on <NUM> cents to dollar <NUM> after broker merrill lynch reiterated its buy rating on the insurer <COMMA> and added it to its focus <NUM> list <PUNC>
+continuing the dow theme <COMMA> walt disney co. dis is in talks to sell the remainder of its e <PUNC>
+entertainment television inc. unit to comcast corp. cmcsa <COMMA> according to a report in the wall street journal <PUNC>
+disney shares were off <NUM> cents at dollar <NUM> <PUNC>
+chipotle mexican grill inc. cmg rose <NUM> percent to dollar <NUM> after the recent mcdonald s spin-off mcd posted a forecast-beating fourth-quarter <PUNC>
+<PAR>

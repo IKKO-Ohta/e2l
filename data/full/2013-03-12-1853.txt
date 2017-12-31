@@ -1,0 +1,5 @@
+u.s. stocks fell on tuesday <COMMA> with the dow jones industrial average retreating after its longest winning streak in nearly a year <COMMA> and the s&p <NUM> distancing itself from its record close <PUNC>
+after climbing <NUM> points and falling <NUM> <COMMA> the dow dji was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> leaving it in position to halt a gains at seven sessions <COMMA> its longest such run since one ending march <NUM> <COMMA> <NUM> <PUNC>
+read <PUNC> protect your portfolio from march madness <PUNC>
+this is the 24th bull market since <NUM> <COMMA> and the dow jones industrial average has gone to a new high in <NUM> of those <NUM> <COMMA> so it s not unusual for the dow to set a new high <COMMA> said hugh johnson <COMMA> chairman of hugh johnson advisors llc in albany <COMMA> n.y. read a blog post on why the bull run is only so remarkable <PUNC>
+<PAR>

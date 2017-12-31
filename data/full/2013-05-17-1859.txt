@@ -1,0 +1,4 @@
+u.s. stocks on friday advanced towards a fourth weekly gain <COMMA> with both the dow industrials and the s&p <NUM> poised for record closes <COMMA> after data cast a positive spin on the economy <PUNC>
+in position for a <NUM> percent weekly rise <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with j.p. morgan chase & co. jpm leading blue-chip gains <PUNC>
+off the dow <COMMA> northrop grumman corp. noc gained <NUM> percent after the weapons manufacturer said it would expand its share-buyback program <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+u.s. stocks staged a major rally thursday <COMMA> with the dow jones industrial average surging <NUM> points <COMMA> after a federal reserve statement was seen as signaling that an end to the rate-tightening cycle is near <PUNC>
+the dow jones industrial average dji closed up <NUM> points <COMMA> or almost <NUM> percent <COMMA> at <NUM> <COMMA> marking its biggest one-day point gain since april <COMMA> <NUM> <COMMA> with all of its <NUM> components in positive territory <PUNC>
+dow component mcdonald s corp. mcd closed almost <NUM> percent higher at dollar <NUM> <PUNC>
+the fast-food chain was upgraded by merrill lynch <COMMA> which forecast improved sales and margins <COMMA> particularly in europe <PUNC>
+among other dow companies posting outstanding gains <COMMA> american express co. axp rallied almost <NUM> percent <PUNC> alcoa inc. aa added <NUM> percent <PUNC> caterpillar cat gained <NUM> percent and honeywell inc. hon closed <NUM> percent higher <PUNC>
+general motors gm rose almost <NUM> percent <COMMA> while merck & co. mrk moved up <NUM> percent <PUNC> united technology corp. utx tacked on <NUM> percent <PUNC> and verizon communications inc. vz increased <NUM> percent <PUNC>
+walt disney co. dis <COMMA> also a dow component <COMMA> ended <NUM> percent higher at dollar <NUM> <PUNC>
+late wednesday <COMMA> the company named john pepper jr. to serve as its new chairman and chief executive <PUNC>
+<PAR>

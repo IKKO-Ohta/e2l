@@ -1,0 +1,4 @@
+the s&p <NUM> index spx closed up <NUM> points <COMMA> or <NUM> percent at <NUM> <COMMA> its best gain over four straight days since dec. <NUM> <COMMA> <NUM> <PUNC>
+the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> after briefly topping <NUM> <PUNC>
+the <NUM> percent gain over the past four days was the best four-day streak since june <NUM> <COMMA> <NUM> <PUNC>
+<PAR>

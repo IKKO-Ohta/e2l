@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
+blue-chip declines were led by hewlett-packard co. hpq <COMMA> recently down <NUM> percent after the technology giant said it would acquire electronic data systems corp. eds for dollar <NUM> billion to better compete with ibm ibm <PUNC>
+<PAR>
+off the dow <COMMA> shares of eds gained <NUM> percent <PUNC>
+stock index futures had fallen earlier after wal-mart stores inc. wmt <COMMA> the world s largest retailer <COMMA> projected earnings that will likely fall below analysts forecasts <PUNC>
+<PAR>

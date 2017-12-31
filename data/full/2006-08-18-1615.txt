@@ -1,0 +1,11 @@
+the dow jones industrial average dji was off <NUM> points at <NUM> after climbing more than <NUM> points in early trading to a session high of <NUM> <PUNC>
+over the last four days <COMMA> the dow has rallied <NUM> percent and the s&p <NUM> has risen <NUM> percent <PUNC>
+but it s the technology-rich nasdaq composite that s seen the most buying <COMMA> surging <NUM> percent <COMMA> as investors snapped up beaten-down tech stocks <PUNC>
+dell s disappointing quarter contrasts sharply with the upbeat earnings report posted by its arch-rival hewlett-packard co. hpq on wednesday <PUNC>
+altria group inc. mo and reynolds american inc. rai moved higher in morning trading after a federal judge s ruling held that tobacco violated racketeering laws <COMMA> though the judge said she was unable to order financial remedies <PUNC>
+herzog reiterated a buy rating on altria <PUNC>
+altria was the biggest percentage gainer on the dow <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
+shares of reynolds american gained <NUM> percent to dollar <NUM> <PUNC>
+microsoft corp. msft was up <NUM> percent at dollar <NUM> after it said it expects to spend about dollar <NUM> billion buying back <NUM> million shares of its common stock at a price of dollar <NUM> a share in a dutch auction tender <COMMA> based on a preliminary count <PUNC>
+the company also said the authorization for its ongoing share repurchase program has been boosted by dollar <NUM> billion <COMMA> to dollar <NUM> billion <PUNC>
+<PAR>

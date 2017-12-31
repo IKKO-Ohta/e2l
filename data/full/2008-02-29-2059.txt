@@ -1,0 +1,7 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> positioning the blue chips for a weekly loss of roughly <NUM> points <COMMA> or <NUM> percent <PUNC>
+the dow fell <NUM> percent in february <COMMA> and is down <NUM> percent for the year <PUNC>
+all of the dow s <NUM> components spent the final day of the week in the red <COMMA> with the blue-chip bleeding was fronted by american international group aig <COMMA> off more than <NUM> percent in the aftermath of the insurance giant reporting the largest loss in its almost <NUM> years in business <PUNC>
+<PAR>
+outside the dow industrials <COMMA> dell inc. dell fell <NUM> percent after the pc maker reported fourth-quarter profits fell <NUM> percent from a year ago <PUNC>
+the tech sector was among those retreating <COMMA> with declines coming from bellwethers including hewlett-packard co. hpq and ibm corp. ibm <PUNC>
+<PAR>

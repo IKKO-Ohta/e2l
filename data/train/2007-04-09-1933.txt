@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+shares of alcoa inc. aa <COMMA> intel corp. intc <COMMA> dupont dd and mcdonald s corp. mcd led the gains <PUNC>
+exxon mobil corp. xom was among decliners as crude oil plunged <NUM> percent <COMMA> giving back some of the strong gains it posted in recent weeks amid tensions between iran and the uk <PUNC>
+in other deal news <COMMA> dow component citigroup c was little changed after saying it will buy taiwan s bank of overseas chinese for about dollar <NUM> million in cash <PUNC>
+the deal is expected to close in the second half of <NUM> <PUNC>
+earnings season officially kicks off after tuesday s closing bell with dow component alcoa s aa results <PUNC>
+<PAR>

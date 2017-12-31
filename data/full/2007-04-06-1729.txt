@@ -1,0 +1,6 @@
+u.s. stocks closed the shortened week higher on thursday <PUNC>
+the dow jones industrial average dji gained <NUM> percent on the week <PUNC>
+the s&p <NUM> spx rose <NUM> percent and the nasdaq composite rixf enjoyed a <NUM> percent gain <PUNC>
+alcoa aa is expected to report earnings of <NUM> cents a share when it publishes results for the first three months of the year on tuesday afternoon <COMMA> according to estimates from thomson financial <PUNC>
+the other heavyweight earnings report due next week is from general electric co. <COMMA> ge which will release its results on friday before the market opens <PUNC>
+<PAR>

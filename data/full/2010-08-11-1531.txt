@@ -1,0 +1,3 @@
+bringing it back into the loss column for the year <COMMA> the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+alcoa inc. aa led the blue-chip decline that extended to all <NUM> of the dow s components <COMMA> with shares of the aluminum manufacturer down <NUM> percent <PUNC>
+<PAR>

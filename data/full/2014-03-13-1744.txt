@@ -1,0 +1,5 @@
+u.s. stocks sold off on thursday sending the main indexes below key support levels <PUNC>
+the benchmark s&p <NUM> index breached the psychologically important <NUM> level <COMMA> while the dow jones industrial average dropped below its 50-day moving average <PUNC>
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of <NUM> stocks trading lower <PUNC>
+united technologies corp and pfizer inc were leading losses <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+u.s. stocks lost ground friday as a profit warning from 3m co. weighed heavily on the dow jones industrial average <COMMA> while u.s. jobs data raised hopes of an end to interest-rate increases but also sparked concern over slowing economic growth <PUNC>
+the dow industrials dji fell <NUM> points to <NUM> <PUNC>
+dow component 3m s shares slumped to their lowest in more than three months <COMMA> down over <NUM> percent <COMMA> after the industrial conglomerate mmm said it expects earnings excluding items for the second quarter to miss its previous outlook due to lower-than-expected sales volumes and higher-than-anticipated new capacity start-up costs in its optical-systems division <PUNC>
+rival intel corp. intc was last up <NUM> cents at dollar <NUM> <COMMA> as the blue chip recovered from earlier weakness <PUNC>
+general motors corp. gm was in focus as a board meeting gets underway to look at the possibility of the automaker joining an alliance with renault saand nissan motor co.. analysts have given a mixed reception to the idea <COMMA> floated by gm s influential minority shareholder kirk kerkorian <PUNC>
+verizon communications vz <COMMA> meanwhile <COMMA> submitted a filing with the securities and exchange commission indicating plans to spin off its directories unit arm <PUNC>
+the stock <COMMA> a dow component <COMMA> was up <NUM> cents at dollar <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji declined <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <COMMA> which were more recently led by intel corp. intc down <NUM> percent <PUNC>
+home depot inc. hd fronted gains on the blue-chip index <COMMA> up <NUM> percent <PUNC>
+coca-cola co. ko shares edged lower in the wake of the company s announcement that it was offering as much as dollar <NUM> billion to buy china huiyuan juice group ltd. <PUNC>
+<PAR>

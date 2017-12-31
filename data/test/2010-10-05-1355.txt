@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> on tuesday <COMMA> erasing monday s 78-point drop <PUNC>
+caterpillar cat powered the dow s gains <COMMA> rising <NUM> percent <COMMA> while united technologies utx increased <NUM> percent and j.p. morgan chase jpm rose <NUM> percent <PUNC>
+investors also remain focused on some key data later this week <PUNC>
+dow-component alcoa aa unofficially kicks off earnings season after the close on thursday <COMMA> just ahead of the monthly jobs report on friday <PUNC>
+<PAR>

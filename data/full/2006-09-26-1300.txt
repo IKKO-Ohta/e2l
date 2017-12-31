@@ -1,0 +1,4 @@
+on monday <COMMA> the stock rose <NUM> percent to dollar <NUM> <PUNC>
+shares of rival home depot hd gained <NUM> percent to dollar <NUM> <PUNC>
+general motors corp. s gm discussions with france s renault sa and japan s nissan motor corp. over a possible alliance appeared to have hit a roadblock over how best to deal with rival toyota s global expansion plans <COMMA> according to the wall street journal <PUNC>
+<PAR>

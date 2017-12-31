@@ -1,0 +1,4 @@
+on oct. <NUM> <COMMA> investors will hear third-quarter financials from intel intc <COMMA> the world s largest semiconductor company <COMMA> kicking off the technology earnings season <COMMA> with rival advanced micro devices inc. amd scheduled to report two days later <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx gained <NUM> points to <NUM> <COMMA> while the tech-laden nasdaq composite index rixf added <NUM> points to <NUM> <PUNC>
+<PAR>

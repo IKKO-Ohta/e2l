@@ -1,0 +1,3 @@
+u.s. stocks on thursday climbed for a third consecutive session <COMMA> with the dow jones industrial average posting its longest winning run since the middle of july <COMMA> as investors looked to the government s monthly jobs report <PUNC>
+scaling back from a 57-point rise <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or a gain of less than <NUM> percent <PUNC>
+<PAR>

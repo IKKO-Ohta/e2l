@@ -1,0 +1,2 @@
+the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with pharmaceutical giant pfizer inc. pfe leading blue-chip gains after reporting fourth-quarter earnings that beat estimates and issuing a forecast for <NUM> <PUNC>
+<PAR>

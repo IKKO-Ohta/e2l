@@ -1,0 +1,10 @@
+u.s. stock losses accelerated tuesday as federal reserve chief ben bernanke s inflation-fighting vow and comments on slowing economic growth took the dow jones industrial average down by triple-digits for a second session in a row <PUNC>
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> the first time the benchmark index has fallen below <NUM> since march <NUM> <PUNC>
+on monday <COMMA> the dow plunged nearly <NUM> points <PUNC>
+shares of hewlett-packard co. hpq were off <NUM> cents at dollar <NUM> <PUNC>
+the computer and printer maker revised its previously disclosed results for the second quarter to reflect a settlement with the internal revenue service related to an audit of the company s tax returns for <NUM> through <NUM> <PUNC>
+meanwhile <COMMA> general motors corp. gm was off <NUM> percent at dollar <NUM> <PUNC>
+the car maker is holding a shareholder meeting where an update on its turnaround plan will come in for attention <PUNC>
+ceo rick wagoner told the financial times in an interview that the situation surrounding bankrupty parts maker delphi could halt north american production if it s not defused <PUNC>
+outside the dow <COMMA> human genome sciences hgsi soared <NUM> percent to dollar <NUM> after swiss drug giant novartis nvs agreed to pay up to dollar <NUM> million excluding royalties for the rights to albuferon <COMMA> its chronic hepatitis c drug <PUNC>
+<PAR>

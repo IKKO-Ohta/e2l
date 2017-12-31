@@ -1,0 +1,6 @@
+on pace for its best september performance since <NUM> <COMMA> the dow jones industrial average dji slid <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+twenty-one of the dow s <NUM> components were lower <COMMA> with bank of america corp. bac off the most <COMMA> down <NUM> percent <PUNC>
+verizon communications inc. vz was the biggest gainer <COMMA> up <NUM> percent <PUNC>
+southwest airlines co. luv said it would acquire airtran holdings inc. aai for about dollar <NUM> billion <PUNC>
+consumer-products maker unilever nv un agreed to purchase beauty-products maker alberto culver co. for dollar <NUM> billion and wal-mart stores inc. wmt offered to pay nearly dollar <NUM> billion for south african distributor massmart holdings inc. mmrty <PUNC>
+<PAR>

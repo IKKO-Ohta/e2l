@@ -1,0 +1,7 @@
+the dow jones industrial average dji had its second day this week of triple digit gains <COMMA> rising <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+only one dow component <COMMA> international bbusiness machines ibm <COMMA> closed lower <PUNC>
+the major averages also posted gains for the week <COMMA> with rises of <NUM> percent for the dow jones industrials <COMMA> <NUM> percent for the nasdaq composite and <NUM> percent for the s&p <NUM> <PUNC>
+shares of dow component microsoft msft rose <NUM> percent to dollar <NUM> <PUNC>
+the software giant said it had a <NUM> percent increase in first-quarter profit <PUNC>
+but it issued a weak forecast <PUNC>
+<PAR>

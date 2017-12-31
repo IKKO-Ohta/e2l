@@ -1,0 +1,4 @@
+at last check <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and the s&p <NUM> spx was fractionally higher <PUNC>
+the nasdaq composite index rixf <COMMA> however <COMMA> remained down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> amid weakness in the technology sector <PUNC>
+boeing ba led the turnaround <COMMA> rising <NUM> percent after announcing plans to buy back <NUM> million shares <PUNC>
+<PAR>

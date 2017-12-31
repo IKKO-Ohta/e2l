@@ -1,0 +1,8 @@
+u.s. stocks fell for a fourth day tuesday <COMMA> with the dow industrials shedding more than <NUM> points <COMMA> after the chairman of the federal reserve forecast more home foreclosures and technology bellwether intel corp. trimmed its outlook <COMMA> illustrating a sputtering economy <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but three of its <NUM> components lapsing in afternoon trades <PUNC>
+blue-chip decliners were led by citigroup inc. c <COMMA> down more than <NUM> percent after merrill lynch cut the bank s earnings estimates <PUNC>
+<PAR>
+other stocks weighing on the dow include intel intc <COMMA> down <NUM> percent after the chipmaker lowered its gross-margin outlook for the current quarter <PUNC>
+<PAR>
+blue-chip gains were tallied by coca-cola co. ko <COMMA> recently ahead <NUM> percent <COMMA> and johnson & johnson jnj <COMMA> up <NUM> percent <PUNC>
+<PAR>

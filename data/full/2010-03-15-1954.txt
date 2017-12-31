@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> led by wal-mart wmt <PUNC>
+its shares rose <NUM> percent after citigroup upgraded its investment rating on the retail giant s stock to buy from hold <PUNC>
+the u.s. dollar index dxy rose <NUM> percent a move that effectively makes commodities and other items traded in dollar terms less expensive to buyers using the greenback <PUNC>
+the dow jones-ubs commodity index was off <NUM> percent <PUNC>
+<PAR>

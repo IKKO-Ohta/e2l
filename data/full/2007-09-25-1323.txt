@@ -1,0 +1,4 @@
+futures for the dow industrials were off <NUM> points at <NUM> <PUNC>
+shares of general motors corp. gm are likely to come under pressure for a second day in the wake of a united auto workers strike call monday <PUNC>
+and microsoft corp. msft could see its shares rise for a second day on the debut of its halo <NUM> video game <PUNC>
+<PAR>

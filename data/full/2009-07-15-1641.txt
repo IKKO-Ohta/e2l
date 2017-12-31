@@ -1,0 +1,5 @@
+up for a third consecutive session <COMMA> the dow jones industrial average dji at <NUM> <PUNC> <NUM> stood at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+the s&p <NUM> index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> with materials and information technology shares fronting the broad market gains <COMMA> while the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+dickson listed goldman sachs groups inc. gs <COMMA> johnson & johnson jnj and intel corp. intc as among those offering early earnings results that should lift investor confidence <COMMA> putting a floor on the recent market pullback and providing incentive for investors to increase equity exposure <PUNC>
+shares of johnson & johnson <COMMA> like intel a member of the dow industrials <COMMA> were lately up more than <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> boosted by the likes of alcoa inc. aa <COMMA> boeing co. ba and caterpillar inc. cat <PUNC>
+but blue chips were weighed by the likes of american express axp <COMMA> coca-cola co. ko <COMMA> citigroup inc. c and at&t inc. t <PUNC>
+on tuesday <COMMA> stocks had their best one-day performance since july <COMMA> with the dow industrials jumping <NUM> points <COMMA> as investors cheered a recovery in asian markets and the dollar <PUNC>
+those gains followed last week s sell-off in global stock markets that wiped out trillions of dollars in market capitalization <PUNC>
+<PAR>

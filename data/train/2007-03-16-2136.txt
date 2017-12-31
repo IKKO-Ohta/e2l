@@ -1,0 +1,6 @@
+after rising in early trade <COMMA> the dow jones industrial average dji finished down <NUM> points at <NUM> <COMMA> and posted a <NUM> percent drop for the week <PUNC>
+among the worst performers on the dow were alcoa inc. aa <COMMA> american express co. axp <COMMA> boeing co. ba <COMMA> citigroup inc. c <COMMA> and jp morgan chase & co. jpm <PUNC>
+among rising blue chips <COMMA> hewlett-packard co. hpq gained <NUM> percent after its board authorized an additional dollar <NUM> billion in its share buyback plan <PUNC>
+and microsoft corp. msft gained <NUM> percent after news that it has won a partial victory in its ongoing patent dispute with alcatel-lucent alu <PUNC>
+wal-mart stores inc. wmt rose <NUM> percent after news that it s abandoning plans to launch an industrial loan company <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> up <NUM> percent from the week-ago close <PUNC>
+the s&p <NUM> index spx declined <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> also up <NUM> percent for the week <COMMA> while the nasdaq composite index rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving it a weekly rise of <NUM> percent <PUNC>
+and <COMMA> while the fourth-quarter earnings season is winding down <COMMA> the companies still on deck to report include abercrombie & fitch co. anf and dow component kraft foods inc. kft on tuesday <COMMA> ahead of wall street s open <PUNC>
+drug companies merck & co. mrk and teva pharmaceutical industries teva are also on tap tuesday <PUNC>
+retailers including wal-mart stores inc. wmt and j.c. penney co. jcp also report in the days ahead <COMMA> the former on thursday and the latter on friday <PUNC>
+<PAR>

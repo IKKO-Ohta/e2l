@@ -1,0 +1,7 @@
+u.s. stocks rose wednesday <COMMA> with the dow jones industrial average at a new all-time high <COMMA> after encouraging data showing the economy growing at a steady pace <COMMA> with inflation in check <COMMA> but general motors corp. turned lower on a news report it has failed to reach agreement on an alliance with car makers renault and nissan motor co <PUNC>
+the dow industrials dji rose as much <NUM> points to strike a fresh all-time high of <NUM> <PUNC>
+it was last up <NUM> points at <NUM> <PUNC>
+wal-mart stores inc. wmt fell <NUM> percent to dollar <NUM> after the retail giant cuts its september same-store sales forecast <PUNC>
+same-store sales <COMMA> a key measure of retail performance <COMMA> track sales from stores open at least a year <PUNC>
+general motors corp. gm turned lower <COMMA> down <NUM> percent at dollar <NUM> <COMMA> after the online edition of the wall street journal said talks on the car maker joining a renault-nissan alliance have ended without agreement <PUNC>
+<PAR>

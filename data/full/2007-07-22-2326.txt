@@ -1,0 +1,7 @@
+on friday <COMMA> the dow jones industrial average dji lost <NUM> points to <NUM> <COMMA> as enthusiasm wilted under disappointing earnings from google inc. goog and caterpillar inc. cat <COMMA> as well as nervousness about credit markets <PUNC>
+the dow <COMMA> which closed above <NUM> for the first time on thursday <COMMA> finished the week <NUM> percent lower <PUNC>
+next week <COMMA> a wide array of companies will report <COMMA> including seven dow components <PUNC> american express co. axp and merck & co. inc. mrk on monday <PUNC> dupont dd and at&t inc. t on tuesday <PUNC> boeing co. ba on wednesday <PUNC> and 3m co. mmm and exxon mobil corp. xom on thursday <PUNC>
+away from the dow <COMMA> investors will look out for key technology earnings from texas instruments inc. txn on monday <COMMA> amazon.com inc. amzn on tuesday <COMMA> and apple inc. aapl on wednesday <PUNC>
+the improvement mostly came from strong results at u.s. banks citigroup inc. c <COMMA> jp morgan chase & co. jpm and bank of america corp. bac <COMMA> and favorable year-on-year adjustments for altria group inc. mo <PUNC>
+comments from the likes of jp morgan chase & co. jpm and citibank inc. c revealed growing concerns not only about subprime but credit markets in general <PUNC>
+<PAR>

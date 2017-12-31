@@ -1,0 +1,6 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+intel corp. intc was the biggest percentage gainer on the blue-chip index <COMMA> rallying <NUM> percent after citigroup upgraded the chip sector <PUNC>
+a <NUM> percent gain for merck & co. mrk also contributed to the dow s advance as the drug maker benefited from a regulatory setback for rival novartis <COMMA> which is attempting to get a competing diabetes drug onto the market <PUNC>
+merck & co. mrk gained <NUM> percent to dollar <NUM> after the u.s. food and drug administration said it needed more time to evaluate the safety of a diabetes drug from switzerland s novartis <PUNC>
+the oral diabetes drug <COMMA> known as galvus <COMMA> would be a direct competitor for merck s diabetes treatment januvia <COMMA> which received fda approval last month <PUNC>
+<PAR>

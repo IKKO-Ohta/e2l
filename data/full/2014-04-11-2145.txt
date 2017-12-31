@@ -1,0 +1,6 @@
+the benchmark slid <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> and it lost <NUM> percent for the week <PUNC>
+the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
+the blue-chip index slumped <NUM> percent for the week <COMMA> snapping its streak of three up weeks in a row <PUNC>
+shares in j.p. morgan jpm lost <NUM> percent on friday after the banking giant reported first-quarter earnings below market expectations <COMMA> making it the worst performer among dow components <PUNC>
+meanwhile <COMMA> wells fargo wfc rose <NUM> percent after its quarterly profit beat forecasts <PUNC>
+<PAR>

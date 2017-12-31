@@ -1,0 +1,8 @@
+u.s. stocks on friday recorded a third week of gains <COMMA> with the dow industrials and the s&p <NUM> tallying record closes following upbeat earnings from two major banks <PUNC>
+boeing co. ba shares fell <NUM> percent <COMMA> weighing on the dow jones industrial average <COMMA> after a boeing <NUM> dreamliner caught fire at london s heathrow airport <COMMA> forcing the closure of both of the airport s runways <PUNC>
+no passengers were aboard the aircraft <COMMA> which had been plagued by a series of battery issues this year <PUNC>
+in the financial sector <COMMA> j.p. morgan chase & co. jpm and wells fargo & co. wfc both reported second-quarter results that beat expectations <PUNC>
+read wells fargo story <PUNC>
+the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> an all-time closing high that had it up <NUM> percent from the week-ago close <PUNC>
+wall street rallied on thursday <COMMA> lifting both the dow industrials and s&p <NUM> to record closes <COMMA> as investors embraced assurances from federal reserve chairman ben bernanke the prior day that the fed would keep interest rates low for a long period <PUNC>
+<PAR>

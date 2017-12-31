@@ -1,0 +1,5 @@
+tuesday s finish had the major indexes recouping some of the prior two-session string of losses <COMMA> with investors heartened by better than expected results from retailers including home depot inc. hd <PUNC>
+the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+on monday <COMMA> the dow industrials fell <NUM> points <COMMA> capping its biggest two-day point and percentage drop since mid-june <PUNC>
+<PAR>

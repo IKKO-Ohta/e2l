@@ -1,0 +1,9 @@
+the dow dji was up <NUM> points at <NUM> <PUNC>
+among the stocks lifting the blue chips average <COMMA> alcoa aa rose <NUM> percent after morgan stanley upgraded the stock <PUNC>
+caterpillar inc. cat <COMMA> home depot inc. hd <COMMA> and honeywell international inc. hon <COMMA> three economically sensitive stocks <COMMA> also gained <COMMA> boosted by news that consumer confidence rose to a 5-year high <PUNC>
+exxon mobil corp. xom also lent a hand <COMMA> rising <NUM> percent as crude oil prices rallied <PUNC>
+but 3m mmm fell <NUM> percent and capped the advanced of the blue-chip average after the company s outlook for the year disappointed the market <PUNC>
+likewise <COMMA> procter & gamble pg fell <NUM> percent even after it raised its earnings outlook <COMMA> as investors focused on p&g s organic sales growth <COMMA> which came in at the lower end of its guidance <PUNC>
+pharmaceutical giant and dow component merck mrk also fell <NUM> percent <COMMA> even after its earnings <COMMA> excluding special items <COMMA> matched analyst forecasts.fellow drug maker wyeth wye dropped <NUM> percent after its earnings fell short of forecasts <PUNC>
+meanwhile <COMMA> microsoft corp. msft fell <NUM> percent <COMMA> even after the software giant launched vista <COMMA> its new operating system <COMMA> at retailers in <NUM> countries <PUNC>
+<PAR>

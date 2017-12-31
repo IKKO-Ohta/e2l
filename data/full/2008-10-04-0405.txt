@@ -1,0 +1,10 @@
+on friday <COMMA> the dow jones industrial average dji ended down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with traders selling positions following news that congress had approved the bailout <PUNC>
+stocks had rallied in anticipation of the vote and traders sold the news <COMMA> a typical reaction in cautious bear markets <PUNC>
+on monday <COMMA> the house of representatives turned down the bailout <COMMA> sending the dow plunging by <NUM> points <COMMA> its worst point drop on record <PUNC>
+aluminum giant alcoa inc. aa <COMMA> which reports quarterly results on tuesday <COMMA> saw its shares slide this week <COMMA> along with those of equipment-maker caterpillar inc. cat <PUNC>
+energy and materials shares also fell <PUNC>
+oil giant chevron corp. cvx reports interim results on thursday <PUNC>
+also hit this week was general electric co. ge <COMMA> due to report results on friday <PUNC>
+its stock came under pressure wednesday amid concerns about its financial arm <PUNC>
+the international conglomerate also announced a dollar <NUM> billion public offering and an investment from billionaire warren buffett <PUNC>
+<PAR>

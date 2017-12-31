@@ -1,0 +1,4 @@
+the dow jones industrial average dji <COMMA> is off <NUM> percent for the month <COMMA> while the tech-heavy nasdaq composite rixf is down <NUM> percent <PUNC>
+in recent action <COMMA> the dow fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> was down <NUM> points <COMMA> of <NUM> percent <COMMA> at <NUM> <COMMA> while the nasdaq composite was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+<PAR>

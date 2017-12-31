@@ -1,0 +1,7 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+the benchmark index is also at its best level since may <NUM> <PUNC>
+shares of dupont dd rose <NUM> percent to dollar <NUM> after the blue-chip chemical company lifted its first-quarter adjusted earnings forecast to <NUM> cents a share <COMMA> up from a previous outlook of <NUM> cents <COMMA> reflecting a better operating performance <COMMA> partly offset by weaker european market conditions <PUNC>
+dupont also raised its <NUM> earnings forecast to a range of dollar <NUM> to dollar <NUM> a share before items <PUNC>
+general motors corp. gm was up <NUM> cents at dollar <NUM> <PUNC>
+the wall street journal reported the automaker has received a bid for its gmac finance arm from investors led by kohlberg kravis & roberts <PUNC>
+<PAR>

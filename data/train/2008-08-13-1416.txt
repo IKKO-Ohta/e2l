@@ -1,0 +1,7 @@
+only eight of the dow jones industrial average s <NUM> components were in positive territory <PUNC>
+the dow industrials dji fell <NUM> points to <NUM> <PUNC>
+financial shares led the decliners <PUNC>
+bank of america bac fell <NUM> percent <COMMA> citigroup c dropped <NUM> percent and j.p. morgan chase jpm fell <NUM> percent <PUNC>
+j.p. morgan s dollar <NUM> billion write-off <COMMA> wachovia s wider-than-originally-reported second-quarter loss and brokerage downgrades of goldman sachs dragged u.s. stocks lower on tuesday after two sessions of gains <PUNC>
+the dow industrials fell <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite dropped <NUM> points on the day <PUNC>
+<PAR>

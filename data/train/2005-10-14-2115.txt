@@ -1,0 +1,7 @@
+the dow jones industrial average dji ended just off its session high of <NUM> <COMMA> with the benchmark index virtually unchanged on the week <PUNC>
+within the dow industrials <COMMA> boeing co. ba gained as much as <NUM> percent after brokerage prudential started coverage on the stock with an overweight rating <PUNC>
+the shares are up <NUM> percent this year and still have room for more gains <COMMA> analysts said <COMMA> as the machinists strike has been settled and commercial-airplane margins could improve into <NUM> <PUNC>
+shares of ge ge rose as much as <NUM> percent after the diversified industrial conglomerate posted third-quarter revenue that topped analysts expectations <PUNC>
+shares in general motors corp. gm rose as the wall street journal reported that the automaker has signaled to the united auto workers union that an agreement to cut gm s dollar <NUM> billion annual u.s. health-care bill must come within the next few days <COMMA> or the company could act unilaterally to cut uaw health-care spending <PUNC>
+the company is also due to report quarterly results on monday <PUNC>
+<PAR>

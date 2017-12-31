@@ -1,0 +1,6 @@
+the dow jones industrial average dji closed up <NUM> points at <NUM> as the s&p <NUM> index spx rose <NUM> points to <NUM> <COMMA> putting both at their highest closing levels since may <NUM> <PUNC>
+during the week <COMMA> the nasdaq composite rose <NUM> percent <COMMA> s&p <NUM> gained <NUM> percent and the dow rose <NUM> percent <PUNC>
+autos were in focus after general motors corp. gm slashed its fourth-quarter production plans by <NUM> percent <PUNC>
+dow component intel corp. intc is expected to announce between <NUM> to <NUM> job cuts as early as next week <COMMA> according to the wall street journal <PUNC>
+the stock ended <NUM> percent higher at dollar <NUM> <COMMA> continuing a recent rally for the chipmaker <PUNC>
+<PAR>

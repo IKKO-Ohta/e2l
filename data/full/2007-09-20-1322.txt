@@ -1,0 +1,2 @@
+down <NUM> points ahead of the jobs data <COMMA> futures for the dow industrials were more recently up <NUM> points at <NUM> <PUNC>
+<PAR>

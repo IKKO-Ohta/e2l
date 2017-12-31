@@ -1,0 +1,6 @@
+the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
+on thursday <COMMA> stocks closed mixed <COMMA> with the dow jones industrials and the s&p <NUM> ending lower and the nasdaq composite sporting a gain on upbeat news for several technology shares <PUNC>
+shares of microsoft corp. msft traded down <NUM> percent in pre-market electronic trade <PUNC>
+on thursday the software giant was ordered to pay more than dollar <NUM> billion to alcatel-lucent <PUNC>
+a federal court in california ruled that the software giant infringed two alcatel-lucent patents in using the mp3 format for playing digital music on its windows media player device <PUNC>
+<PAR>

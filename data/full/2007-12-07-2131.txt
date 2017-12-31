@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> giving the blue-chip index a weekly gain of <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> ended a choppy session with gains <COMMA> led by alcoa inc. aa up <NUM> percent <PUNC>
+american express co. axp fronted losses on the dow <COMMA> its shares sliding <NUM> percent <PUNC>
+u.s. equities have risen in recent days <COMMA> with the dow climbing <NUM> points during the past two sessions <COMMA> with investors anticipating the federal reserve would cut interest rates for a third time this year at its next meeting on tuesday <PUNC>
+<PAR>

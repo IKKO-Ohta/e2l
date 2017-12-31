@@ -1,0 +1,8 @@
+the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> with <NUM> of the blue-chip benchmark s <NUM> components contributing to losses <PUNC>
+the index had been down as much as <NUM> points earlier in the session <COMMA> after climbing to its best level in nearly five years on wednesday <PUNC>
+general motors corp. gm saw early gains fade <PUNC>
+ahead of the bell <COMMA> the automaker announced that it s completed a deal to sell a majority stake in gmac commercial holding corp <PUNC>
+the company said its gmac unit sold <NUM> percent of its equity in gmac commercial holding for more than dollar <NUM> billion <PUNC>
+the company had previously said it was targeting the sale of a <NUM> percent stake <PUNC>
+the stock was last down <NUM> cents at dollar <NUM> <COMMA> off a morning high of dollar <NUM> <PUNC>
+<PAR>

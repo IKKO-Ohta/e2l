@@ -1,0 +1,9 @@
+u.s. stocks on thursday thudded lower for a second day <COMMA> with the dow industrials posting their first back-to-back triple-digit drop since june <COMMA> as treasury yields spiked to <NUM> highs and wal-mart stores inc. and cisco systems inc. cut their forecasts <PUNC>
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with cisco systems inc. csco pacing the drop <COMMA> off <NUM> percent <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> fell <PUNC>
+wal-mart s shares were down <NUM> percent <PUNC>
+read more on wal-mart <PUNC>
+ahead of wall street s open <COMMA> wal-mart wmt reduced its outlooks for <NUM> sales and profit <COMMA> with the world s biggest retailer saying consumers are spending less <PUNC>
+that warning came the morning after network-equipment maker cisco systems csco offered a less-than-expected revenue outlook <PUNC>
+the dow on wednesday posted its first triple-digit drop since june as investors fretted over a recent spike in borrowing costs <PUNC>
+<PAR>

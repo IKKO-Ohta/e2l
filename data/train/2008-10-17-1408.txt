@@ -1,0 +1,6 @@
+the dow jones industrial average dji were recently off <NUM> points at <NUM> <PUNC>
+u.s. stocks closed thursday with big gains <COMMA> rallying into the close as bargain hunters stepped in following initial losses on data releases showing drops in factory output <PUNC>
+the dow jones industrial average climbed <NUM> points <COMMA> the nasdaq composite rose <NUM> points <COMMA> and the s&p <NUM> added <NUM> points <PUNC>
+embattled general motors corp. gm and chrysler llc are picking up the pace on merger talks <COMMA> pushed by banks and other lenders eager to see a deal <COMMA> the wall street journal reported <PUNC>
+international business machines ibm gave more details on its third-quarter earnings that showed a <NUM> percent profit increase <COMMA> with chief financial officer mark loughridge saying he remained quite confident that the company could hit its long-term goal of generating at least dollar <NUM> a share in earnings for <NUM> <PUNC>
+<PAR>

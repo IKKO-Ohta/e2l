@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points to <NUM> <PUNC>
+shares of alcoa inc. aa <COMMA> pfizer inc. pfe <COMMA> and wal-mart wmt and jp morgan chase jpm led the gains on the blue-chip average <PUNC>
+decliners including boeing co. ba <COMMA> ibm ibm and verizon vz <PUNC>
+chevron corp. cvx and exxon mobil corp. xom gained ground <COMMA> along with broad gains in the energy sector <PUNC>
+also on the dow <COMMA> johnson & johnson jnj fell <NUM> percent despite posting upbeat earnings <COMMA> while intel corp. intc rose <NUM> percent ahead of its earnings after the close <PUNC>
+<PAR>

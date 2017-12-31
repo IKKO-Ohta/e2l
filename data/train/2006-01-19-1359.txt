@@ -1,0 +1,12 @@
+today <COMMA> apple and ebay are looking to be a drag on the nasdaq while amd helps lift the philadelphia semiconductor index <COMMA> said marc pado <COMMA> u.s. market strategist at cantor fitzgerald <PUNC>
+pfizer and home depot should give the dow a lift <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+after a series of earnings disappointments from dow components <COMMA> drugmaker pfizer inc. pfe offered some cheer as investors welcomed quarterly results that came in better than expected <COMMA> helped by healthy sales of its blockbuster cholesterol drug <COMMA> lipitor <PUNC>
+the stock was up <NUM> percent at dollar <NUM> in pre-market trading on instinet <PUNC>
+also <COMMA> home depot hd <COMMA> another member of the blue-chip index <COMMA> raised its quarterly dividend and said it expects <NUM> earnings growth of <NUM> percent to <NUM> percent and sales growth in the range of <NUM> percent to <NUM> percent <PUNC>
+on wednesday <COMMA> shares in the home improvement retailer rose <NUM> cents to dollar <NUM> <PUNC>
+over the last two weeks <COMMA> investors have had to contend with disappointing results from alcoa inc. aa <COMMA> intel corp. intc and jp morgan jpm as well as a profit warning from dupont. dd <PUNC>
+in other news for dow components <COMMA> shares of walt disney co. dis fell <NUM> cents to dollar <NUM> after the wall street journal said the media group is in serious discussions to buy pixar animation studios pixr <PUNC>
+the paper <COMMA> citing anonymous sources <COMMA> said disney would be offering a nominal premium to pixar s current dollar <NUM> billion market capitalization <PUNC>
+on wednesday <COMMA> pixar shares rose <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

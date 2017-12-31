@@ -1,0 +1,4 @@
+the dow jones industrial average dji was last up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the s&p <NUM> index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+u.s. stocks fell for a second session on wednesday after data showed underwhelming growth in u.s. private-sector jobs <PUNC>
+the dow suffered its worst session in over a month on wednesday <COMMA> falling <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the s&p <NUM> declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

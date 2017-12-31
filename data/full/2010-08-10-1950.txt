@@ -1,0 +1,3 @@
+recovering from a drop of more than <NUM> points <COMMA> the dow jones industrial average dji was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
+intel corp. intc fronted the losses among the blue chips <COMMA> with shares of chip manufacturer as well as its non-blue chip rivals hit as analysts questioned demand for computers and their computers in a shaky economy <PUNC>
+<PAR>

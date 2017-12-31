@@ -1,0 +1,7 @@
+the dow jones industrial average dji was trading off its low for the session <COMMA> down <NUM> points at <NUM> <PUNC>
+shares in general motors corp gm fell to a two-week low of dollar <NUM> even as the carmaker denied speculation it was planning to file for bankruptcy <PUNC>
+johnson & johnson jnj <COMMA> another dow component <COMMA> fell as much as <NUM> percent to dollar <NUM> after the food and drug administration rejected dapoxetine <COMMA> its new drug for premature ejaculation <PUNC>
+verizon communications vz climbed as much as <NUM> percent to dollar <NUM> after the telecom giant posted forecast-beating third-quarter results <COMMA> buoyed by continued strength in its wireless business and record additions of high-speed internet customers <PUNC>
+exxon mobil corp. xom <COMMA> another dow component <COMMA> saw choppy trade as investors weighed quarterly revenue that topped dollar <NUM> billion against adjusted earnings that came up short of analyst expectations <PUNC>
+the stock was last down <NUM> cents at dollar <NUM> <PUNC>
+<PAR>

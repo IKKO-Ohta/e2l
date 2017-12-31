@@ -1,0 +1,13 @@
+the dow jones industrial average dji <COMMA> which traded with a loss of more than <NUM> points through much of the afternoon <COMMA> ended down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> hurt by declines in all <NUM> components <PUNC>
+the nasdaq composite rixf slid <NUM> percent <COMMA> and the s&p <NUM> spx was off <NUM> percent <COMMA> hurt by selling in every sector <PUNC>
+the selling today really started with the euro and just spilled into the dow and the other stock indexes <COMMA> which is interesting to see <COMMA> said currency analyst joe trevisani <COMMA> of the brokerage fx solutions <PUNC>
+you don t often get such a coherent message across all the markets <PUNC>
+it shows you there are some real doubts out there about whether the euro-zone can pull off this balancing act <PUNC>
+early euphoria over that bailout package <COMMA> which came in concert with the federal reserve and other central banks saying they would reestablish a foreign-exchange swaps program <COMMA> helped push the dow jones industrial average up <NUM> points on monday <PUNC>
+for the week <COMMA> the dow rose <NUM> percent <COMMA> the s&p <NUM> spx gained <NUM> percent and the nasdaq composite rixf added <NUM> percent <PUNC>
+financials also weakened as investors flocked toward more defensive stocks <PUNC>
+j.p. morgan chase jpm slid <NUM> percent <COMMA> while citigroup c fell <NUM> percent <PUNC>
+financial stocks sank after the senate voted to allow the federal reserve to regulate fees on debit card transactions <PUNC>
+the measure will also allow retailers more leverage in negotiating with credit-card firms and banks over the fees for card transactions <PUNC>
+visa v tumbled <NUM> percent <COMMA> while mastercard ma fell <NUM> percent and bank of america bac fell <NUM> percent <PUNC>
+<PAR>

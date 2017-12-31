@@ -1,0 +1,8 @@
+the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
+on wednesday stocks staged a late rally <COMMA> as gains for wal-mart stores wmt <COMMA> home depot inc. hd and intel corp. intc took the dow industrials to a fresh record high <PUNC>
+the s&p <NUM> closed at a new six-year high <PUNC>
+altria mo <COMMA> a member of the dow jones industrials <COMMA> last was up <NUM> percent at dollar <NUM> in preopening trade <PUNC>
+goldman sachs upgraded the tobacco company to buy from neutral ahead of the investor meeting on thursday <PUNC>
+yet another dow component <COMMA> boeing co. ba was up <NUM> percent at dollar <NUM> before the official opening <PUNC>
+the wall street journal reported that the company may see dollar <NUM> billion more in jet business in the near term <PUNC>
+<PAR>

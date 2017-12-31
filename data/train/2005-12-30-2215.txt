@@ -1,0 +1,13 @@
+new york dow jones u.s. stocks closed out <NUM> on a sour note friday <COMMA> with the dow jones industrial average suffering its first yearly loss since <NUM> <COMMA> and both the s&p <NUM> index and the nasdaq composite extending their yearly win streaks by the slimmest of margins <PUNC>
+the dow dji lost <NUM> points in december to close down <NUM> points <COMMA> or <NUM> percent on the year at <NUM> <PUNC>
+the blue chip barometer had gained <NUM> percent over the previous two years <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> lost ground for the year <COMMA> with general motors gm tumbling <NUM> percent <COMMA> and hitting a 23-year low in the process <COMMA> to lead the <NUM> losers amid concerns over bankruptcy <PUNC>
+hewlett-packard hpq paced the winners with a <NUM> percent rally <COMMA> boosted by a major restructuring program that included a dollar <NUM> billion share buyback and <NUM> layoffs <PUNC>
+h-p narrowly edged out boeing ba <COMMA> which hiked up <NUM> percent <COMMA> and reached an all-time high in december <COMMA> bolstered by the appeal of its dreamliner jet <PUNC>
+the near-term pattern on the dow <COMMA> s&p <NUM> and nasdaq suggests that further pullbacks are a distinct possibility <COMMA> said morgan stanley technical strategist mark newton <PUNC>
+phil dow <COMMA> director of equity research at rbc dain rauscher <COMMA> said that while the dow failed to gain traction in <NUM> <COMMA> the popular stock averages could enjoy <NUM> percent gains next year <PUNC>
+listen to audio report <PUNC>
+the dow dji fell <NUM> points to <NUM> <COMMA> with <NUM> of <NUM> components contributing to losses <PUNC>
+merck mrk slumped <NUM> percent and wal-mart wmt shed <NUM> percent to pace the losers <COMMA> while general motors gm <NUM> percent gain led the winners <PUNC>
+among the handful of companies attracting investor attention on friday <COMMA> citigroup c said late thursday that its shanghai branch received approval from china s regulators to be an interbank foreign exchange market maker <PUNC>
+<PAR>

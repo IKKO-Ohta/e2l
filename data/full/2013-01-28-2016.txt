@@ -1,0 +1,2 @@
+the dow jones industrial average dji added <NUM> points <COMMA> or less than <NUM> percent <COMMA> to <NUM> <COMMA> with caterpillar cat leading gains among <NUM> of its <NUM> components <PUNC>
+<PAR>

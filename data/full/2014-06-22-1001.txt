@@ -1,0 +1,2 @@
+among companies reporting earnings are walgreens company wag <COMMA> barnes & noble <COMMA> inc. bks <COMMA> general mills <COMMA> inc. gis <COMMA> monsanto co mon <COMMA> conagra foods inc. cag <COMMA> lennar corp. len and nike inc nke <PUNC>
+<PAR>

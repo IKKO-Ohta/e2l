@@ -1,0 +1,11 @@
+after spending much of the session in the red <COMMA> the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> <NUM> <PUNC>
+ibm ibm was the biggest drag <COMMA> falling <NUM> percent a day after the computer-services provider missed wall street forecasts for quarterly revenue and earnings <PUNC>
+read why ibm is a key indicator for markets during earning season <PUNC>
+but in spite of friday s gains <COMMA> it proved to be the worst week in months for equities <PUNC>
+the s&p <NUM> was off <NUM> percent for the week <COMMA> its biggest such hit since november <PUNC>
+the dow industrials lost <NUM> percent <COMMA> its worst week since june <COMMA> and the nasdaq composite was down <NUM> percent on the week <COMMA> the worst since october <PUNC>
+leading the dow higher friday <COMMA> shares of microsoft corp. msft climbed <NUM> percent after the software maker reported third-quarter income that topped wall street s projections <PUNC>
+general electric co. ge fell <NUM> percent after the jet-engine manufacturer reported profit in line with estimates <PUNC>
+mcdonald s corp. mcd slid nearly <NUM> percent after the fast-food chain reported first-quarter profit that missed estimates <PUNC>
+friday also marks one of the more volatile weeks on wall street in recent memory <COMMA> with the dow industrials making triple-digit moves on each of the first three days <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving the blue-chip index a gain of <NUM> points since wednesday s opening bell <PUNC>
+of its <NUM> component stocks <COMMA> <NUM> tallied gains <COMMA> led by bank of america corp. bac <COMMA> up <NUM> percent <COMMA> <PUNC>
+software giant microsoft corp. msft is expected to post strong fiscal fourth-quarter profit and sales gains when it reports after the closing bell <PUNC>
+other industry bellwethers slated to report later in the day include google inc. goog and international business machines corp. ibm <PUNC>
+the ascent in stocks comes one day after stocks rallied <COMMA> with the dow tallying the blue-chip benchmark s largest point jump since april <NUM> <COMMA> as sliding oil prices and banks upbeat results fueled optimism <PUNC>
+within the dow <COMMA> shares of j.p. morgan chase jpm climbed <NUM> percent <COMMA> citigroup inc. c added <NUM> percent <COMMA> and american international group inc. aig gained <NUM> percent <PUNC>
+the coca-cola co. ko reported a <NUM> percent decline in quarterly profit <COMMA> and shares traded lower <COMMA> finishing <NUM> percent down <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+after shifting between positive and negative territory <COMMA> the dow jones industrial average dji was off <NUM> points to <NUM> with <NUM> of the dow s <NUM> components losing ground <PUNC>
+general motors corp. gm ranked as the dow s leading decliner <COMMA> off <NUM> percent <PUNC>
+the blue-chip benchmark s biggest gainer was hewlett-packard co. hpq <COMMA> up <NUM> percent after the personal-computer maker said it would beat wall street targets for its fourth quarter and for the fiscal year <PUNC>
+shares of home depot hd gained <NUM> percent after the retailer reported a shallower-than-forecast <NUM> percent profit fall for the third quarter <PUNC>
+off the dow <COMMA> yahoo inc. yhoo shares climbed <NUM> percent after the company said ceo jerry yang would step aside <COMMA> six months after merger talks broke down between microsoft corp. msft and the internet tech giant <PUNC>
+<PAR>
+u.s. stocks ended with sharp losses on monday as alcoa inc. aa stumbled on a downgrade and as citigroup inc. c said it would cut more than <NUM> jobs <PUNC>
+the dow jones industrial average fell <NUM> points <COMMA> the nasdaq composite lost <NUM> points and the s&p <NUM> fell <NUM> points <PUNC>
+<PAR>

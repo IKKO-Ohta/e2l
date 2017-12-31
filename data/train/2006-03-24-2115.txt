@@ -1,0 +1,4 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+the benchmark index is poised for a small loss on the week <PUNC>
+boeing co. shares ba were up <NUM> percent at dollar <NUM> after the latest durable goods report showed healthy demand for civilian aircraft <PUNC>
+<PAR>

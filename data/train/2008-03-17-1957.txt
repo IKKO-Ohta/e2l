@@ -1,0 +1,3 @@
+after falling nearly <NUM> points at the open <COMMA> the dow jones industrial average dji recovered and gained steam in the final hour of trade <COMMA> up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components posting late-session gains <PUNC>
+shares of j.p. morgan chase & co. jpm led the dow s advance <COMMA> its shares up <NUM> percent <COMMA> as investors offered a thumbs-up to the bank s steeply discounted buyout of bear sterns cos. <PUNC>
+<PAR>

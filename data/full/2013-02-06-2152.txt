@@ -1,0 +1,6 @@
+the dow jones industrial average dji ended a choppy trading day up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+it had fallen as much as <NUM> points during the session <PUNC>
+on the dow <COMMA> 3m co mmm shares led gains for <NUM> out of <NUM> components <PUNC>
+shares of walt disney co. dis rose <NUM> percent following the media conglomerate s earnings late tuesday <PUNC>
+blue-chip hewlett-packard co. hpq ended up <NUM> percent after a media report said tuesday that h-p s board is studying a breakup of the technology company <PUNC>
+<PAR>

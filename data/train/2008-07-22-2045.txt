@@ -1,0 +1,9 @@
+the dow jones industrial average dji rose <NUM> points to finish at <NUM> <COMMA> with <NUM> of its <NUM> components landing in the green <PUNC>
+the blue-chip index s gains and losses were fronted by financials <COMMA> with the former led by bank of america corp. bac <COMMA> up <NUM> percent <COMMA> while american express co. axp <COMMA> fell <NUM> percent <COMMA> after the credit card firm said it would not meet earnings targets until the economy improves <PUNC>
+away from the dow <COMMA> some earnings from regional banks <COMMA> such as atlanta s suntrust banks inc. sti <COMMA> came in better than expected and also helped ease wall street s concerns <PUNC>
+also bolstering the blue-chip advance <COMMA> caterpillar cat gained <NUM> percent after it reported a <NUM> percent jump in second-quarter profit on overseas demand for its earth-moving machinery <PUNC>
+du pont de nemours & co. dd rose <NUM> percent after the chemical giant reported a <NUM> percent rise in second-quarter net income <COMMA> while raising its profit outlook for the year <PUNC>
+<PAR>
+merck & co. inc. mrk weighed on the dow for a second day <COMMA> falling <NUM> percent after the drug giant reported a modest earnings rise on what amounted to flat sales <PUNC>
+on monday <COMMA> stock sustained only minor losses after better-than-expected quarterly earnings from bank of america corp. bac offset losses in the technology <COMMA> pharmaceutical and consumer discretionary sectors <PUNC>
+<PAR>

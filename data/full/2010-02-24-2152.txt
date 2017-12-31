@@ -1,0 +1,4 @@
+the dow jones industrial average dji <COMMA> which had fallen <NUM> points over the previous two sessions <COMMA> recouped <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> on wednesday <COMMA> helped by gains in <NUM> of its <NUM> components <PUNC>
+bank of america corp. bac and j.p. morgan chase & co. jpm were the dow s biggest gainers <COMMA> up more than <NUM> percent each <PUNC>
+the average s only decliners were alcoa inc. aa <COMMA> off <NUM> percent <COMMA> and kraft foods kft <COMMA> down <NUM> percent <PUNC>
+<PAR>

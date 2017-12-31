@@ -1,0 +1,3 @@
+after rising nearly <NUM> points <COMMA> the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but one of its <NUM> components in the green <PUNC>
+bank of america corp. bac shares led gains with a <NUM> percent rally <PUNC>
+<PAR>

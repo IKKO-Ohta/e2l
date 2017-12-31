@@ -1,0 +1,14 @@
+the dow jones industrial average dji was down as much as <NUM> points at <NUM> <COMMA> hit by bad news for intel and merck and a downgrade of international business machines <PUNC>
+keep an eye on those support levels <COMMA> pado said <PUNC>
+the dow has already busted down <PUNC>
+if all three indices close below support <COMMA> it will look like next week will be under pressure <PUNC>
+the market initially drew a bit of support from news that the university of michigan s preliminary consumer sentiment survey for december had a reading of <NUM> <PUNC>
+the result was up from <NUM> in november <PUNC>
+the dow jones forecast <COMMA> based on a survey of economists <COMMA> was for a reading of <NUM> <PUNC>
+intel intc shares last were down almost <NUM> percent at dollar <NUM> <PUNC>
+late thursday <COMMA> the world s largest maker of computer chips lowered the top end of its sales forecast for the fourth quarter <COMMA> but left the midpoint unchanged <PUNC>
+investors had hoped for a higher top and middle range points <PUNC>
+shares of merck mrk dropped <NUM> percent to dollar <NUM> <PUNC>
+the new england journal of medicine is accusing the authors of a merck-sponsored study on the safety of painkiller vioxx of omitting certain negative data about the drug when they published an article on the results in <NUM> <PUNC>
+ibm ibm lost <NUM> percent to stand at dollar <NUM> after ubs downgraded the stock to neutral <PUNC>
+<PAR>

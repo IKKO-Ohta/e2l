@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> in recent trading <PUNC>
+the measure s best performers included some of its economically sensitive components <PUNC>
+caterpillar inc. cat jumped <NUM> percent <COMMA> while american express co. axp climbed <NUM> percent and home depot inc. hd and mcdonald s corp. mcd gained <COMMA> the former up <NUM> percent and the latter by <NUM> percent <PUNC>
+keeping the gains in check <COMMA> pfizer inc. pfe fell <NUM> percent after the drug manufacturer said it ended a late-stage trial for its experimental lung-cancer drug <PUNC>
+in addition <COMMA> pfizer said two late-stage studies of its advanced breast cancer drug failed to meet their primary endpoints <PUNC>
+united technologies corp. utx was also weak <COMMA> off <NUM> percent <PUNC>
+the company reaffirmed its earnings guidance for this year and accelerated the margin target for its aerospace unit <COMMA> but its forecast of operating profit at the otis elevator business was cut <PUNC>
+<PAR>

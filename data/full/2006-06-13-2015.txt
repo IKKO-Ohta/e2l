@@ -1,0 +1,13 @@
+the dow industrials dji were down <NUM> points at <NUM> <COMMA> after wiping out its gains for the year when it fell to a session low of <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to losses <PUNC>
+stocks have been selling off since may <NUM> when the federal reserve last raised interest rates and left the door open for further increases <PUNC>
+since then <COMMA> the dow has fallen <NUM> percent <PUNC> the nasdaq composite has dropped <NUM> percent <COMMA> while the s&p <NUM> is off <NUM> percent <PUNC>
+a retreat of more than <NUM> percent is widely viewed as a correction <PUNC>
+merck & co. shares mrk rose <NUM> percent at dollar <NUM> after the company said that its drug januvia was as effective as the popular diabetes drug glipizide <COMMA> also known as glucotrol <COMMA> in reducing blood-sugar levels in patients with type <NUM> diabetes <PUNC>
+patients taking januvia also lost weight on the drug <COMMA> the study showed <PUNC>
+also on the dow <COMMA> intel corp. intc was the biggest percentage gainer on the dow <COMMA> up <NUM> percent to dollar <NUM> <PUNC>
+semiconductors <COMMA> and intel in particular <COMMA> have been seen some of the biggest declines in the recent sell-off <PUNC>
+since may <NUM> <COMMA> when the market started to pull back <COMMA> intel shares have fallen around <NUM> percent <PUNC>
+since the start of the year <COMMA> they are down more than <NUM> percent <PUNC>
+conversely <COMMA> alcoa inc. shares aa were off <NUM> percent as the world s bigger producer of aluminum suffered from the pullback in metals prices <PUNC>
+<PAR>

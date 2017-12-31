@@ -1,0 +1,5 @@
+the dow jones industrial average dji last was up <NUM> points at <NUM> <COMMA> with its gains restrained by heavy pressure on hewlett-packard as investors continue to follow the story of boardroom leaks at the company <PUNC>
+the dow jones industrials average dji closed within <NUM> points of a multi-year high while the nasdaq composite rixf rose to a four-month high <PUNC>
+dow component hewlett-packard hpq fell <NUM> percent to dollar <NUM> <PUNC>
+on friday the company will hold a press briefing at which chief executive officer mark hurd will address the company s investigation of leaks from its boardroom <PUNC>
+<PAR>

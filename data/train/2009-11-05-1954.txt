@@ -1,0 +1,9 @@
+major stock indexes have traded in positive territory since the opening bell <COMMA> though momentum and trading activity have dried up as the afternoon has progressed <PUNC>
+the dow jones industrial average dji has flirted with the closely watched <NUM> level for most of the session <COMMA> but it has failed to break through <COMMA> trading within seven points of the mark at the market s intraday high <PUNC>
+the dow was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> helped by gains in all <NUM> of its components <PUNC>
+among the big winners on the index was the networking giant cisco systems csco <COMMA> whose shares leapt <NUM> percent after the company posted a <NUM> percent decline in profits that was still above expectations <PUNC>
+in addition <COMMA> chief executive john chambers provided upbeat remarks about the outlook for technology spending <PUNC>
+if the dow holds on to the bulk of thursday s gains <COMMA> it will represent the average s first triple-digit point move in november <COMMA> continuing a more volatile trend that began last month <PUNC>
+the big swings <COMMA> however <COMMA> have mostly worked to investors detriment <COMMA> with fear spreading about the sustainability of the u.s. economic recovery <PUNC>
+the dow has posted moves of at least <NUM> points in six of the last <NUM> full trading sessions <COMMA> off <NUM> percent over that stretch.even amid thursday s buying spree <COMMA> some market veterans remained wary that the gains could be short-lived <PUNC>
+<PAR>

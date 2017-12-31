@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+verizon communications vz was up <NUM> cents at dollar <NUM> in pre-market trading on instinet after the telecom operator and dow component posted adjusted quarterly results that topped analyst estimates <PUNC>
+the company also said it added <NUM> high-speed internet customers and <NUM> million wireless subscribers in the quarter <PUNC>
+car stocks will be in focus as the big three auto makers and their overseas rivals release april sales figures <PUNC>
+analysts anticipate general motors corp. gm to lead an industry decline even though the carmaker s suv and pickup lines are expected to have had a strong month <PUNC>
+<PAR>

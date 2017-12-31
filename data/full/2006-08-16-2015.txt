@@ -1,0 +1,11 @@
+u.s. stocks rose for a third day wednesday <COMMA> with the dow jones industrial average and s&p <NUM> index on course to end at three-month highs <COMMA> as the latest consumer price report eased inflation fears and firmed expectations the federal reserve would not raise interest rates in september <PUNC>
+the dow jones industrial average dji advanced <NUM> points to <NUM> <PUNC>
+closing out at this level would put the benchmark index at a three-month high <PUNC>
+of the <NUM> components <COMMA> <NUM> were contributing to gains <PUNC>
+for a second session <COMMA> technology stocks have paced the advance <PUNC>
+since the start of the year <COMMA> the tech-rich nasdaq composite index is down just over <NUM> percent <PUNC>
+in contrast <COMMA> the dow is up more than <NUM> percent while the s&p <NUM> has gained over <NUM> percent <PUNC>
+among the companies in those areas seeing gains in wednesday trading <COMMA> boeing co. ba was up <NUM> percent <COMMA> caterpillar cat rallied <NUM> percent while united technologies utx rose <NUM> percent <PUNC>
+hewlett-packard s hpq stock rose <NUM> percent to dollar <NUM> ahead of its third-quarter results due after the market closes <PUNC>
+the computer and printer maker is expected to show per-share earnings growth of <NUM> percent from a year earlier <COMMA> based on analyst forecasts <PUNC>
+<PAR>

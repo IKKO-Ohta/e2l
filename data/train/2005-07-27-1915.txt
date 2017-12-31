@@ -1,0 +1,7 @@
+the dow jones industrial average dji extended prior gains to trade <NUM> points higher at <NUM> <PUNC>
+the s&p <NUM> spx hit intraday highs <COMMA> trading up <NUM> points at <NUM> <PUNC>
+dow component boeing ba was up <NUM> percent at dollar <NUM> after the aerospace company lifted its earnings estimate for the year <PUNC>
+the company s second-quarter results showed boeing benefiting from overseas demand and u.s. government spending <PUNC>
+<PAR>
+but fellow dow component citigroup c was down <NUM> cents at dollar <NUM> after merrill lynch downgraded it and bank of america to neutral <PUNC>
+<PAR>

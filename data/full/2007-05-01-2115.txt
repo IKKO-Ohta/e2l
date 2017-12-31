@@ -1,0 +1,13 @@
+u.s. stocks finished firmly higher on tuesday <COMMA> sending the dow jones industrial average to a new high <COMMA> as a slump in crude oil prices and surprise strength in the manufacturing sector lifted investor sentiment <PUNC>
+the dow jones industrial average dji finished up <NUM> points at <NUM> <COMMA> a new record closing high <COMMA> as <NUM> of its <NUM> components advanced <PUNC>
+the gains were led by hewlett-packard co. hpq <COMMA> honeywell co. hon <COMMA> home depot inc. hd <COMMA> mcdonald s corp. mcd and walt disney co. dis <PUNC>
+bucking the trend <COMMA> shares of procter & gamble co. pg dropped <NUM> percent after the personal care products maker narrowed its outlook range <PUNC>
+also on the dow <COMMA> general motors corp. gm rose <NUM> percent <COMMA> even after news that its u.s. sales plunged <NUM> percent in april <PUNC>
+alcoa inc. aa <COMMA> which supplies aluminum to the auto industry <COMMA> dropped <NUM> percent <PUNC>
+microsoft corp. msft rose <NUM> percent <PUNC>
+the software giant may offer somewhere in the dollar <NUM> billion range for internet advertising firm 24/7 real media tfsm <COMMA> according to the new york post <PUNC>
+on monday <COMMA> u.s. stocks closed lower <COMMA> after investors consolidated some of the hefty gains posted in april <COMMA> while weighing at a revealing not only tame inflation but also a weakening <PUNC>
+the dow finished with a <NUM> point loss <COMMA> the s&p <NUM> fell <NUM> points and the nasdaq composite dropped <NUM> points <PUNC>
+pfizer inc. pfe won a canadian appeals-court ruling <PUNC>
+a lower court would have allowed teva s teva canadian unit novopharm to launch a generic version of pfizer s celebrex pain reliever <PUNC>
+<PAR>

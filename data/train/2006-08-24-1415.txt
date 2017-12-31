@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+on wednesday <COMMA> ford shares rose <NUM> percent on a news report that the company may be interested in joining a renault-nissan alliance if talks with general motors corp. gm don t work out <PUNC>
+chaiman and chief executive bill ford jr. said it has not been approached by another auto maker about a possible alliance <COMMA> but the company is open to all options <PUNC>

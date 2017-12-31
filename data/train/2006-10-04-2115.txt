@@ -1,0 +1,7 @@
+the dow jones industrial average ended at its second record high in two days wednesday <COMMA> and the s&p <NUM> rallied to its best level in more than <NUM> 1/2 years on increasing optimism that economic growth will continue at a pace that will sustain job creation and corporate profits <PUNC>
+the dow industrials dji rose <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
+the benchmark index easily surpassed its previous all-time intraday high of <NUM> reached on jan. <NUM> <COMMA> <NUM> <PUNC>
+shares in wal-mart stores inc. wmt spent most of the session in negative territory after the retail giant cuts its september same-store sales forecast <PUNC>
+same-store sales <COMMA> a key measure of retail performance <COMMA> track sales from stores open at least a year <PUNC>
+general motors corp. gm fell <NUM> cents to dollar <NUM> after the online edition of the wall street journal said talks on the car maker joining a renault-nissan alliance have ended without agreement <PUNC>
+<PAR>

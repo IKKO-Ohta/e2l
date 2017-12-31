@@ -1,0 +1,4 @@
+the s&p <NUM> and the dow jones industrial average closed at record levels <COMMA> led by gains in the health-care <COMMA> tech and consumer discretionary sectors <PUNC>
+the dow jones industrial average dji came within two points of <NUM> during the session <PUNC>
+it gained <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> its 12th record close of <NUM> <PUNC>
+<PAR>

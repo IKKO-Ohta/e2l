@@ -1,0 +1,4 @@
+the dow jones industrial average dji was up <NUM> points to <NUM> <PUNC>
+among blue-chips <COMMA> microsoft corp. msft fell <NUM> percent after reports that it is trying to buy internet search engine yahoo inc. yhoo <PUNC>
+on thursday stocks posted gains that were modest but still enabled the dow jones industrials to set a record close <COMMA> following generally upbeat economic reports <PUNC>
+<PAR>

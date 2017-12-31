@@ -1,0 +1,4 @@
+after closing at an eight-week high friday <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> in early action <PUNC>
+two-thirds of the dow s <NUM> components traded in the red <COMMA> with verizon communications inc. vz fronting the declines <COMMA> its shares lately off <NUM> percent <PUNC>
+end-of-the-year results from the auto industry were likely to be grim <COMMA> with car-buying research web site edmunds.com looking for chrysler to tally a <NUM> percent sales drop last month <COMMA> while predicting general motors corp. gm and ford motor co. will fall <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
+<PAR>

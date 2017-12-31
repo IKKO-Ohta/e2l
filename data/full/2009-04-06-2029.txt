@@ -1,0 +1,8 @@
+energy and financials fronted sector declines as the dow jones industrial average dji finished at <NUM> <COMMA> down <NUM> points or <NUM> percent <PUNC>
+the s&p <NUM> spx declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite shed <NUM> points <COMMA> or <NUM> percent <COMMA> to 1,606.71. <PUNC>
+dow component and aluminum giant alcoa inc. aa will report its first-quarter results on tuesday <COMMA> the unofficial start of the earnings season <PUNC>
+<PAR>
+in the financial sector <COMMA> expectations are for improving earnings versus fourth quarter <NUM> <COMMA> even though analysts still expect several large banks <COMMA> such as citigroup inc. c <COMMA> comerica inc. cma <COMMA> fifth third bancorp fitb and suntrust banks inc. sti to continue making losses <COMMA> said nicholas colas <COMMA> chief market strategist at bny convergex group <PUNC>
+large tech companies such as international business machine corp. ibm and google inc. goog are expected to post small year-over-year gains <PUNC>
+the street is expecting apple inc. aapl to post only a small decline from first quarter last year <COMMA> though recent analyst comments on iphone shipments in the quarter have sparked optimism that the firm may be able to beat the dollar <NUM> expected bottom line <COMMA> said colas <PUNC>
+<PAR>

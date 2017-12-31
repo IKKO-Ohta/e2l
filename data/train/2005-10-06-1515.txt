@@ -1,0 +1,8 @@
+new york dow jones - u.s. stocks were mixed thursday <COMMA> as the dow jones industrials average outperformed the other major averages due to good news for component stocks general electric <COMMA> merck and wal-mart stores inc <PUNC>
+the dow jones industrials dji last was up <NUM> points at <NUM> <PUNC>
+dow component merck mrk rose <NUM> percent to dollar <NUM> after news that a study indicated that a company anti-cancer vaccine is effective <PUNC>
+mega-retailer wal-mart wmt is up <NUM> percent at dollar <NUM> <PUNC>
+the company reported a <NUM> percent rise in september same-store sales <COMMA> meetings its own expectation <PUNC>
+general electric ge got a <NUM> percent boost to dollar <NUM> after the company said its third-quarter earnings will come in near the top of its forecast range <COMMA> and also increased its range for its <NUM> earnings <PUNC>
+j.p. morgan jpm was up <NUM> percent at dollar <NUM> and morgan stanley mwd up <NUM> percent at dollar <NUM> after prudential equity group in a research note raised the possibility that the two brokerages would merge <COMMA> reuniting the long-severed house of morgan <PUNC>
+<PAR>

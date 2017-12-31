@@ -1,0 +1,9 @@
+u.s. stocks tumbled on monday <COMMA> sending the dow industrials below the <NUM> mark for the first time in nearly four years <COMMA> as last week s dollar <NUM> billion bailout package and government interventions in europe over the weekend failed to soothe nervousness in global markets <PUNC>
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> marking the first time the blue-chip index traded below the <NUM> mark since the fall of <NUM> <PUNC>
+financial shares led the decline among blue chips <COMMA> with citigroup inc. c <COMMA> bank of american bac and jp morgan chase jpm all off more than <NUM> percent <PUNC>
+among blue chips <COMMA> aluminum giant alcoa inc. aa <COMMA> which reports quarterly results on tuesday <COMMA> saw its shares fall <NUM> percent <COMMA> along with those of equipment-maker caterpillar inc. cat <PUNC>
+the dow industrials fell <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite declined <NUM> points on friday <PUNC>
+in the u.s. <COMMA> the federal reserve was pushing to resolve the wachovia wb dispute by carving up its network between citigroup c and wells fargo wfc <COMMA> the wall street journal reported <PUNC>
+bank of america bac and a number of u.s. states reached an dollar <NUM> billion accord under which the banking giant will modify troubled mortgages and enable nearly <NUM> countrywide financial corp. clients to keep their homes <PUNC>
+coca-cola ko was downgraded to hold by deutsche bank on the potential for slower volumes at home and abroad as well as currency headwinds <PUNC>
+<PAR>

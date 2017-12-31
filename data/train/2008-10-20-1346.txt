@@ -1,0 +1,7 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+alcoa inc. aa fronted the blue-chip index s early advance <COMMA> up <NUM> percent <PUNC>
+also on the rise <COMMA> shares of general motors corp. gm gained <NUM> percent amid varying reports on the status of talks between the auto maker and chrysler <PUNC>
+sandisk reports third-quarter results after the closing bell <PUNC>
+american express co. axp and texas instruments inc. txn also are scheduled to report results <PUNC>
+on friday <COMMA> u.s. stocks slipped <COMMA> with the dow jones industrial average falling <NUM> points <COMMA> the nasdaq composite dropping <NUM> points and the s&p <NUM> losing <NUM> points <PUNC>
+<PAR>

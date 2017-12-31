@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> finishing the week with a gain of <NUM> percent <PUNC>
+the blue-chip average still finished below a 13-month high it reached wednesday <PUNC>
+strong earnings at walt disney co. dis <COMMA> an analyst upgrade of goodyear tire & rubber co. gt and a retreat in oil prices helped the market shake off a weak reading of consumer sentiment <PUNC>
+traders said that many bears also had placed bets early that the sentiment data would be glum <COMMA> clearing the way for buyers to rush back following the data s actual release <PUNC>
+<PAR>

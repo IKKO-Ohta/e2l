@@ -1,0 +1,2 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with hewlett-packard co. hpq leading the losses that included <NUM> of its <NUM> components <PUNC>
+<PAR>

@@ -1,0 +1,2 @@
+after rallying <NUM> points to a new intraday high of <NUM> <COMMA> which also lifted it above its all-time closing peak of <NUM> <COMMA> the dow jones industrial average dji finished at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+<PAR>

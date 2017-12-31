@@ -1,0 +1,6 @@
+after falling nearly <NUM> points <COMMA> the dow jones industrial average dji was more recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting declines and financials leading the way lower <PUNC>
+<PAR>
+early broker action had oppenheimer & co. cutting first-quarter profit forecasts for u.s. banks on average by <NUM> percent <COMMA> sparking weakness in the sector <PUNC>
+shares of citigroup inc. c <COMMA> part of the dow industrials <COMMA> shed <NUM> percent <PUNC>
+j.p. morgan chase jpm <COMMA> another of the dow s financial components <COMMA> fell <NUM> percent and american express axp lost <NUM> percent <PUNC>
+<PAR>

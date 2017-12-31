@@ -1,0 +1,7 @@
+u.s. stocks rose wednesday afternoon with a rally in shares of boeing co. and general motors corp. boosting the dow jones industrial average <COMMA> but concern over high commodities prices and political tensions with iran <PUNC>
+the dow industrials dji were last up <NUM> points at <NUM> <PUNC>
+shares of boeing co. ba rose <NUM> percent to dollar <NUM> <PUNC>
+the aircraft maker said it has signed a general purchase agreement with china aviation supplies import & export group for <NUM> boeing <NUM> airplanes <PUNC>
+the agreement <COMMA> when combined with the <NUM> planes agreed to in a november <NUM> deal <COMMA> makes the entire planned transaction a 150-airplane purchase <PUNC>
+general motors corp. gm was up <NUM> percent at dollar <NUM> in afternoon trading after a senior executive at the car maker expressed confidence workers at delphi corp. dphiq <COMMA> its main auto parts supplier <COMMA> will not strike <PUNC>
+<PAR>

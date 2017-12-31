@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
+insurance provider travelers cos. trv was the measure s top performer <COMMA> up <NUM> percent <PUNC>
+dupont dd also was strong <COMMA> up <NUM> percent <COMMA> as metals futures pared their earlier declines <PUNC>
+among the dow s earnings reporters <COMMA> hewlett-packard co. hpq climbed <NUM> percent after posting a <NUM> percent profit rise in the first quarter and a higher fiscal-year revenue outlook <PUNC>
+however <COMMA> wal-mart stores inc. wmt weighed on the dow with a <NUM> percent drop <PUNC>
+the discount-retail giant posted a <NUM> percent gain in fourth-quarter profit <COMMA> but provided tepid first-quarter earnings guidance <PUNC>
+in addition <COMMA> wal-mart s sales at u.s. stores open more than a year fell <PUNC>
+<PAR>

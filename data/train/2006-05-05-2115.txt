@@ -1,0 +1,5 @@
+u.s. stocks ended sharply higher friday after a weaker-than-expected jobs report improved the odds the fed will stop raising interest rates sooner rather than later <COMMA> catapulting the dow jones industrial average and the s&p <NUM> index to multiyear highs <PUNC>
+the dow industrials dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the benchmark index posted its biggest one-day gain in more than two weeks and ended at its best level since jan. <NUM> <PUNC>
+on the week <COMMA> the dow rose <NUM> percent <PUNC>
+<PAR>

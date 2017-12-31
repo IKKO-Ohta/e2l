@@ -1,0 +1,4 @@
+u.s. stocks climbed tuesday <COMMA> with the dow industrials bolstered by solid august sales by fast-food giant mcdonald s corp. and investors looking for clues from federal reserve chairman ben bernanke about a possible cut in interest rates <PUNC>
+the dow jones industrial average dji rose <NUM> points in early morning trade to <NUM> <COMMA> with all of its <NUM> components trading higher <COMMA> led by mcdonald s mcd <COMMA> up <NUM> percent on a strong rise in august sales <PUNC>
+the retail sector gained along with the broader market <COMMA> with shares of dow member wal-mart stores inc. wmt rising <NUM> percent after it revised its second-quarter profit lower by dollar <NUM> million late monday <PUNC>
+<PAR>

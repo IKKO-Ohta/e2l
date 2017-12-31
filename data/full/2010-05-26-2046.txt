@@ -1,0 +1,2 @@
+leading decliners on the dow <COMMA> microsoft msft shares fell <NUM> percent and mcdonald s corp. mcd fell <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <PUNC>
+the blue-chip index was buoyed by a <NUM> percent rise by dow component exxon mobil corp. xom after its earnings report early thursday <COMMA> but hurt by a post-earnings slide of <NUM> percent from visa inc. v <COMMA> one of its new components <PUNC>
+for october <COMMA> the dow industrials advanced <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+dow component wal-mart stores wmt stock was <NUM> cents higher at dollar <NUM> <PUNC>
+the retailer s july same-store sales rose <NUM> percent <COMMA> in line with its own prediction and outstripping the forecasts of wall street analysts polled by thomson first call <PUNC>
+international business machines corp. ibm <COMMA> also in the dow <COMMA> was <NUM> cents lower at dollar <NUM> after announcing it will buy mro software inc. mroi for dollar <NUM> million <PUNC>
+among dow stocks under pressure in the early going <COMMA> general motors gm was <NUM> percent lower at dollar <NUM> and intel corp. intc off <NUM> percent at dollar <NUM> home depot hd <COMMA> which does not release monthly same-store sales <COMMA> was <NUM> percent off at dollar <NUM> <PUNC>
+<PAR>

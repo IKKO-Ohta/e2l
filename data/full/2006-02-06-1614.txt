@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+alcoa inc. shares aa rallied <NUM> percent to dollar <NUM> after j.p. morgan upgraded the maker of aluminum products to overweight from neutral <COMMA> saying the market seems to be ignoring the strong aluminum prices and the impact it will have on the company s earnings and cash flow in <NUM> <PUNC>
+shares in american international group aig <COMMA> another dow jones industrial average component <COMMA> rose <NUM> cents to dollar <NUM> after the wall street journal reported that it is near a deal to resolve accounting fraud and other allegations with u.s. and state regulators <PUNC>
+mcdonald s corp. mcd saw its shares tack on <NUM> cents to dollar <NUM> <COMMA> after broker prudential lifted its price target on the fast-food giant by dollar <NUM> to dollar <NUM> <COMMA> citing strong fundamentals and the prospect of the company buying back as much as <NUM> percent to <NUM> percent of its shares over the next three years <PUNC>
+general motors corp. gm rose <NUM> cents to dollar <NUM> after several analysts said the troubled automaker will likely cut its dividend and discuss possible offers for its credit arm gmac when the board meets monday <PUNC>
+shares in walt disney & co. dis added <NUM> cents to dollar <NUM> as the media giant prepared to report its quarterly results after the market closes <PUNC>
+earnings are expected to be bolstered by revenue gains at its broadcasting <COMMA> cable tv networks and theme park businesses <COMMA> which may be somewhat offset by weakness at its studio entertainment operations <PUNC>
+<PAR>

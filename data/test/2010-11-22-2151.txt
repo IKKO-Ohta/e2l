@@ -1,0 +1,7 @@
+the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the measure had been down by more than <NUM> points earlier in the day as investors worried over the stability of the euro zone <PUNC>
+leading the dow s declines <COMMA> bank of america corp. bac <COMMA> fell <NUM> percent <COMMA> and j.p. morgan chase & co. jpm slid <NUM> percent <PUNC>
+oil giants exxon mobil corp. xom and chevron corp. cvx also were weak <COMMA> but pared some of their losses as oil climbed back above dollar <NUM> a barrel <PUNC>
+exxon shed <NUM> percent <COMMA> while chevron fell <NUM> percent <PUNC>
+hewlett-packard co. hpq was the measure s top performer <COMMA> rising <NUM> percent ahead of the company s quarterly earnings report <COMMA> due after the close <PUNC>
+<PAR>

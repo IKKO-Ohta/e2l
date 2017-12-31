@@ -1,0 +1,8 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
+financial components were among the worst performers <PUNC>
+j.p. morgan chase jpm dropped <NUM> percent <COMMA> while bank of america bac slid <NUM> percent <PUNC>
+pfizer pfe was also weak <PUNC>
+the drug company dropped <NUM> percent after saying it would suspend osteoarthritis trials of its pain drug tanezumab after a small number of reports that patients ailments worsened to the point of needing joint replacement <PUNC>
+the company said the suspension followed a request by the food and drug administration <PUNC>
+just two of the dow s <NUM> components eked out gains <PUNC> johnson & johnson jnj rose <NUM> percent and coca-cola ko edged up <NUM> percent <PUNC>
+<PAR>

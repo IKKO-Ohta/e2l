@@ -1,0 +1,5 @@
+the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> around <NUM> percent off its all-time closing high from dec. <NUM> <PUNC>
+microsoft corp. msft led dow gainers and a broad tech rally <COMMA> jumping <NUM> percent to finish at its highest level since <NUM> on reports its office suite of software will soon be available on apple inc. s aapl mobile devices <PUNC>
+gamestop corp. gme shares dropped <NUM> percent after wal-mart stores inc. wmt said it would allow customers to hand in used videogames in exchange for gift cards <COMMA> which can be used in its retail stores or online <PUNC>
+the change in policy from wal-mart stores could eat away at gamestop s dominance of the dollar <NUM> billion used videogame market in the u.s <PUNC>
+<PAR>

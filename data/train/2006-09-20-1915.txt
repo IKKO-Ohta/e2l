@@ -1,0 +1,4 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> but off a session high of <NUM> <PUNC>
+boeing co. shares ba were up <NUM> percent at dollar <NUM> on a news report that a consortium led by the aerospace giant has emerged as the winner of a federal contract to provide infrastructure and monitoring systems aimed at bolstering u.s. border security <PUNC>
+citing congressional sources <COMMA> the washington post said the contract s valued at about dollar <NUM> billion over four years <PUNC>
+<PAR>

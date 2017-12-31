@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+on friday <COMMA> stocks ended lower <COMMA> but the market posted strong gains for the quarter <COMMA> with the dow jones industrial average logging its best third-quarter performance in <NUM> years <PUNC>
+a string of economic reports over the last three months also helped investors rally to the idea that u.s. economic growth will moderate <COMMA> but remain at adequate levels to sustain corporate profits and job creation <PUNC>
+wal-mart stores inc. wmt fell <NUM> percent to dollar <NUM> after the company said same-store sales rose <NUM> percent in september from the same period a year ago <COMMA> coming in close to the mid-point of its <NUM> percent to <NUM> percent forecast range for the month <PUNC>
+<PAR>

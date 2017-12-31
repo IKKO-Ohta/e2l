@@ -1,0 +1,4 @@
+after opening slightly higher <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> to <NUM> at last check <PUNC>
+boeing ba was among the measure s top performers <COMMA> up <NUM> percent <PUNC>
+meanwhile <COMMA> merck mrk lagged <COMMA> dropping <NUM> percent <PUNC>
+<PAR>

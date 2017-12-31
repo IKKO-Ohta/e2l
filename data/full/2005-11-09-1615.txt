@@ -1,0 +1,5 @@
+the dow jones industrial average dji shook off early gains to trade as much as <NUM> points higher <COMMA> as the s&p <NUM> spx also moved into positive territory <PUNC>
+shares of aig aig dropped as much as <NUM> percent <PUNC>
+the insurer revealed it will have to restate its financial results again and will delay its 10-q filing by five days <COMMA> after finding errors that resulted in a dollar <NUM> million understatement of third-quarter results <PUNC>
+home depot hd stock advanced nearly <NUM> percent after receiving the piper jaffray upgrade <PUNC>
+<PAR>

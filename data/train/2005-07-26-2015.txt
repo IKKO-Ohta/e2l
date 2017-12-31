@@ -1,0 +1,5 @@
+the dow jones industrial average dji closed down <NUM> points at <NUM> <PUNC>
+the s&p <NUM> spx ended up <NUM> points at <NUM> and the nasdaq composite rixf up <NUM> points at <NUM> <PUNC>
+stocks opened higher tuesday <COMMA> although the dow was lower for most of the session due to disappointment with dupont s results and a decline in monthly consumer confidence <PUNC>
+tuesday marks one of the busiest days of the second-quarter earnings season <COMMA> featuring reports from dow components verizon communications vz and dupont dd <COMMA> lockheed martin lmt <COMMA> international paper ip and texas instruments txn <COMMA> among others <PUNC>
+<PAR>

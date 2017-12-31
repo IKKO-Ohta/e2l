@@ -1,0 +1,4 @@
+u.s. stocks held onto strong gains in late trade friday after a weaker-than-expected jobs report raised the odds the fed may stop raising interest rates sooner rather than later <COMMA> catapulting the dow jones industrial average and the s&p <NUM> index to multi-year highs <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <COMMA> with <NUM> of <NUM> components contributing to gains <PUNC>
+the benchmark index is at levels not seen since january <NUM> <PUNC>
+<PAR>

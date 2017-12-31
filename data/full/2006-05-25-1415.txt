@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+shares in wal-mart stores inc. wmt rose <NUM> percent to dollar <NUM> after bank of america upgraded the world s largest discount retailer to buy from neutral <PUNC>
+the broker said the change in recommendation reflected early success from the company s current merchandise initiatives <COMMA> hopes for slowing future square footage growth and improved margin expectations <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+at <NUM> p.m. eastern <COMMA> the dow jones industrial average dji was up <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx stood at <NUM> <COMMA> up less than <NUM> point <COMMA> and the nasdaq composite index rixf added <NUM> points to <NUM> <PUNC>
+<PAR>

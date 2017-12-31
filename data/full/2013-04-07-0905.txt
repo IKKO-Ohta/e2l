@@ -1,0 +1,5 @@
+mcdonalds corp. mcd <COMMA> coca-cola co. ko <COMMA> and pepsico inc. pep report the week beginning april <NUM> <PUNC>
+while classified as a tech company <COMMA> the consumer is the life blood of apple inc. aapl <COMMA> which reports during the week beginning april <NUM> <COMMA> along with other consumer bellwethers like procter & gamble co. pg and amazon.com inc. amzn <PUNC>
+after that <COMMA> major retailers including wal-mart stores inc. wmt <COMMA> target corp. tgt <COMMA> and home depot inc. hd come out in mid-to-late may <PUNC>
+even though alcoa inc. aa is scheduled to report results after the bell monday and kick off the unofficial start of earnings season <COMMA> the biggest earnings of the week by far will be in the banking sector with both j.p. morgan chase & co. jpm and wells fargo & co. wfc reporting on friday <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+on wednesday <COMMA> the stock indexes veered between gains fronted by consumer discretionary shares and losses led by energy and financials <PUNC>
+the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx fell fractionally to <NUM> <COMMA> while the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
+<PAR>

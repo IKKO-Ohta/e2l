@@ -1,0 +1,2 @@
+the dow jones industrial average dji was down <NUM> points on wednesday at <NUM> <PUNC>
+<PAR>

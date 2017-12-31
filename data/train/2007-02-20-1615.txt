@@ -1,0 +1,8 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> weighed by the likes of alcoa inc. aa <COMMA> intel corp. intc <COMMA> american express co. axp and exxon mobil corp. xom <PUNC>
+among key blue-chips <COMMA> home depot hd fell <NUM> percent <PUNC>
+the retailer s latest report showed it is being impacted by waning activity in the home-building sector <COMMA> leading to a <NUM> percent year-over-year decline in fourth-quarter profit and an earnings miss <PUNC>
+wal-mart stores inc. wmt helped support the dow <COMMA> rising <NUM> percent as the giant retailer s latest quarterly earnings came in just ahead of expectations <PUNC>
+investors also kept an eye on hewlett-packard hpq <COMMA> a dow component and one of the leaders of the tech sector <COMMA> which will post earnings after the close of trading <PUNC>
+hp was last down <NUM> percent <PUNC>
+on friday <COMMA> the dow managed to set another record close <COMMA> but the broader market had a mixed closing <COMMA> pressured by data that suggested economic weakness <COMMA> including a big drop in housing starts and falling consumer confidence <PUNC>
+<PAR>

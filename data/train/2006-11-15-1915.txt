@@ -1,0 +1,13 @@
+u.s. stocks rose wednesday with the dow jones industrial average stretching to a fresh record after surprising strength in a regional survey eased economic worries <COMMA> with further help from altria and boeing and news of a possible merger in the airline sector <PUNC>
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> after setting a record high of <NUM> that topped tuesday s record level of <NUM> <PUNC>
+altria mo rose <NUM> percent <PUNC>
+goldman sachs upgraded the tobacco giant to buy from neutral ahead of its investor meeting on thursday <COMMA> citing optimism about the company s plans for its kraft unit and improving international tobacco trends <PUNC>
+another dow component <COMMA> boeing co. ba was up <NUM> percent at dollar <NUM> <PUNC>
+the wall street journal reported that the company may see dollar <NUM> billion more in jet business in the near term <PUNC>
+at&t t dropped <NUM> percent <COMMA> the biggest drop among blue-chips <COMMA> amid concern that the new head of the u.s. senate commerce committee might delay approval of its proposed acquisition of bellsouth corp. bls <PUNC>
+on tuesday stocks staged a rally that took the dow industrials to a fresh record high <PUNC>
+the s&p <NUM> closed at a new six-year high <PUNC>
+a tame inflation reading and weak retail sales were seen as bolstering the case that the federal reserve is done with raising interest rates <PUNC>
+if not <COMMA> the market could seize to a number of earnings still to be reported in coming days <COMMA> including from dell inc dell and hewlett-packard co hpq on thursday <COMMA> or else on friday <COMMA> when a number of options contracts expire <COMMA> selkin said <PUNC>
+pfizer pfe rose <NUM> percent after embrex embx said it may have to pay dollar <NUM> million if pfizer s plan to acquire embrex is terminated under any circumstances <PUNC>
+<PAR>

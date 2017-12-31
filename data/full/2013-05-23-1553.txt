@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after falling as much as <NUM> percent earlier thursday <PUNC>
+meanwhile <COMMA> the standard & poor s <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+on the earnings front <COMMA> shares of hewlett-packard co. hpq jumped <NUM> percent in morning trade after the computer maker reported second-quarter results and an outlook above expectations <PUNC>
+the dow component s jump was helping the blue-chip index outperform the other major averages thursday <PUNC>
+<PAR>

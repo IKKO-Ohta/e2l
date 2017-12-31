@@ -1,0 +1,5 @@
+after rising more than <NUM> points <COMMA> the dow jones industrial average dji was more recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <PUNC>
+the blue-chip gains were broad based <COMMA> with wal-mart stores inc. wmt and caterpillar inc. cat among those up nearly <NUM> percent <PUNC>
+u.s. stocks dropped sharply on friday <COMMA> after hefty losses from blue-chip insurance giant aig aig and another record high for oil prices <PUNC>
+on monday <COMMA> aig was among the stocks weighing on the dow <COMMA> recently off a further <NUM> percent <PUNC>
+<PAR>

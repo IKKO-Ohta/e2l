@@ -1,0 +1,6 @@
+after adding more than <NUM> points and then dropping into negative territory in the first hour of trading <COMMA> the dow jones industrial average dji was more recently off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+the stock indexes are higher in the wake of wednesday s technical bounce off a couple of levels on the dow and s&p <COMMA> added pavlik <COMMA> who pegged near-term resistance on the dow at <NUM> and <NUM> on the s&p <PUNC>
+u.s. stocks had stormed higher wednesday after huge early losses <COMMA> with the dow industrials finishing <NUM> points higher after dropping <COMMA> at one point <COMMA> <NUM> points <PUNC>
+the nasdaq rose <NUM> points and the s&p rose <NUM> points <PUNC>
+at&t t fell <NUM> percent after it reported a <NUM> percent profit rise in the fourth quarter <PUNC>
+<PAR>

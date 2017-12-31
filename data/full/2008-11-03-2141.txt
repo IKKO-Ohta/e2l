@@ -1,0 +1,8 @@
+after marginal moves in either direction monday <COMMA> the dow jones industrial average dji fell <NUM> points to end at <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
+among the declines <COMMA> shares of general motors corp. gm fell <NUM> percent after gm reported that total vehicle sales fell <NUM> percent last month from october a year ago <COMMA> while ford motor co. f reported a <NUM> percent decline in sales <PUNC>
+<PAR>
+walt disney co. dis joined the dow s laggards <COMMA> off <NUM> percent <COMMA> along with home depot inc. hd <COMMA> down <NUM> percent <PUNC>
+at&t inc. t and verizon communications inc. vz paced the blue-chip gains <COMMA> with at&t up <NUM> percent and verizon climbing <NUM> percent <PUNC>
+two dow components saw ratings changes <COMMA> as wal-mart stores inc. wmt was upgraded to overweight by j.p. morgan while boeing corp. ba was downgraded to conviction sell by goldman sachs <PUNC>
+u.s. stocks closed their worst month in <NUM> years with a big rally last week <PUNC> the dow industrials rose <NUM> percent <COMMA> the s&p <NUM> added <NUM> percent and the nasdaq rose <NUM> percent <COMMA> as investors looked past the gloom from corporate profits and economic indicators and at signs showing thaws in the credit crunch <PUNC>
+<PAR>

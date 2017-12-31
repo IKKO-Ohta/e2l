@@ -1,0 +1,12 @@
+u.s. stocks closed sharply lower friday <COMMA> with the dow jones industrial average turning negative for <NUM> and posting its biggest one-day loss since march <NUM> <COMMA> after oil prices hit a four-month high and general electric co. and citigroup inc. disappointed with their fourth-quarter earnings <PUNC>
+the dow dji closed down <NUM> points at <NUM> <COMMA> its lowest level in two months <PUNC>
+the blue-chip index is down <NUM> points from its <NUM> close and is <NUM> percent lower on the week <PUNC>
+over the short term <COMMA> it will be important for the dow to hold above support around <NUM> <COMMA> sheldon added <PUNC>
+if that fails to hold <COMMA> the next level of support looks to be around <NUM> <COMMA> representing a roughly <NUM> percent retracement of the oct 2005&#194 <PUNC> - jan <NUM> market advance <PUNC>
+sheldon notes that the last time oil prices were at current levels <COMMA> the dow was down around the <NUM> level <PUNC>
+shares of general electric ge slumped to a three-month low <COMMA> down almost <NUM> percent to dollar <NUM> after the industrial conglomerate s quarterly revenue fell shy of analyst expectations <COMMA> but an upward revision to the bottom end of its <NUM> outlook helped to put a floor on losses <PUNC>
+citigroup c <COMMA> another dow component <COMMA> <NUM> percent to dollar <NUM> after the banking and financial-services giant posted earnings from continuing operations that missed wall street estimates <PUNC>
+the bank noted a challenging interest-rate environment and competitive pricing conditions during the december quarter <PUNC>
+also <COMMA> diversified industrial group danaher corp. dhr said it has agreed to buy u.k. company first technology for around dollar <NUM> million <COMMA> topping an offer from honeywell international hon <PUNC>
+danaher s shares closed down <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

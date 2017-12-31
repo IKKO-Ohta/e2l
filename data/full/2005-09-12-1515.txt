@@ -1,0 +1,5 @@
+the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
+within the dow <COMMA> shares of citigroup inc. c climbed <NUM> percent to dollar <NUM> after the bank <COMMA> a dow component <COMMA> was upgraded to overweight from neutral weight by prudential <PUNC>
+the firm cited improved capital markets <COMMA> strength in citigroup s international business <COMMA> and valuation <PUNC>
+shares of american international group inc. aig rose <NUM> cents to dollar <NUM> on a financial times report that the world s leading insurer is talking to former goldman sachs group co-president john thornton about being its next chairman <PUNC>
+<PAR>

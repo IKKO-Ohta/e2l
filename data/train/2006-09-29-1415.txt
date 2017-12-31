@@ -1,0 +1,7 @@
+u.s. stocks traded back and forth across the flat line friday <COMMA> with the dow jones industrial average once again briefly tapping its all-time closing high <COMMA> in a market that is set to post one of its strongest third quarter gains in a number of years <PUNC>
+the dow industrials dji was up <NUM> points at <NUM> <PUNC>
+the blue chip index touched a session high of <NUM> surpassing its record-high close of <NUM> from jan. <NUM> <COMMA> <NUM> for the second session in a row <PUNC>
+the dow s intraday record <COMMA> set that same day <COMMA> remains <NUM> <PUNC>
+based on thursday s closing levels <COMMA> the dow is set to log a gain of more than <NUM> percent for the third quarter <PUNC>
+the nasdaq is looking at a rise of <NUM> percent <COMMA> marking its best third-quarter performance in three years <PUNC>
+<PAR>

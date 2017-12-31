@@ -1,0 +1,8 @@
+u.s. stocks churned mostly lower after a brief detour higher <COMMA> following the federal reserve s signal that additional monetary easing is likely <COMMA> helping lift the dow industrials briefly back above <NUM> <PUNC>
+but the dow s rise proved short-lived <COMMA> as was its visit above the psychological level <PUNC>
+on friday <COMMA> the index finished above <NUM> for the first time since early may <PUNC>
+the dow jones industrial average dji crossed into positive terrain only to lapse again <COMMA> lately off <NUM> points at <NUM> <PUNC>
+the nasdaq composite index rixf added <NUM> points to <NUM> <COMMA> bolstered by a rise in apple inc. aapl after its price target was hiked by barclays capital and as discount retailer wal-mart stores inc. wmt said it would begin selling apple s ipad <PUNC>
+in corporate news <COMMA> pharmaceutical giant pfizer inc. pfe said it would acquire drug maker king pharmaceuticals inc. kg for dollar <NUM> billion <PUNC>
+after the close <COMMA> wall street will get quarterly results from chip giant intel corp. intc and railway operator csx corp. csx <PUNC>
+<PAR>

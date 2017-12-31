@@ -1,0 +1,10 @@
+the dow jones industrial average dji gained <NUM> points at <NUM> <PUNC>
+shares in general electric co. ge rose <NUM> percent to dollar <NUM> in pre-market trade on instinet after the conglomerate said it will sell most of its insurance solutions reinsurance division to swiss re for dollar <NUM> billion <COMMA> after losing dollar <NUM> million from that side of the business over the last five years <PUNC>
+hewlett-packard hpq rallied in pre-market trade after the computer and printer maker raised its profit outlook after posting earnings <COMMA> excluding restructuring charges <COMMA> that handily topped expectations <PUNC>
+the company s solid performance came on the back of strong sales of its personal computers <COMMA> servers and storage gear <PUNC>
+the stock <COMMA> one of the most heavily traded ahead of the bell <COMMA> was up <NUM> percent at dollar <NUM> on instinet <COMMA> after gaining <NUM> percent thursday in front of its quarterly release <PUNC>
+walt disney co. <COMMA> dis another dow component <COMMA> fell <NUM> percent to dollar <NUM> in pre-market trading after net income for the fourth quarter fell more than <NUM> percent due mostly to underperforming films <PUNC>
+outside the dow <COMMA> cisco systems inc. csco said it is buying cable television set-top maker scientific atlanta inc sfa for dollar <NUM> billion <PUNC>
+cisco shares were off <NUM> percent at dollar <NUM> in pre-market dealings <PUNC>
+scientific atlanta s stock rose <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+on thursday <COMMA> the benchmark indexes struggled to hold onto early morning gains <PUNC>
+the s&p <NUM> was last down fractionally at <NUM> <PUNC>
+the dow jones industrial average was down <NUM> points at <NUM> <PUNC>
+but the nasdaq composite rixf rose <NUM> points to <NUM> <PUNC>
+on the s&p <COMMA> the financial sector fell <NUM> percent <PUNC>
+<PAR>

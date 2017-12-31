@@ -1,0 +1,8 @@
+the dow jones industrial average dji closed down <NUM> points at <NUM> <PUNC>
+american express co. axp <COMMA> boeing co. ba and intel corp. intc were among key stocks weighing on the dow <PUNC>
+the dow still got a lift from home depot inc. hd <COMMA> shares of which rose <NUM> percent to dollar <NUM> after the company said it s evaluating strategic alternatives for its hd supply wholesale business <COMMA> including a possible sale <COMMA> spinoff or initial public offering <PUNC>
+but shares of walt disney co. dis fell <NUM> percent <COMMA> to dollar <NUM> even after cibc upgraded the blue chip to sector performer from underperform <COMMA> and raised its price target on the stock to dollar <NUM> from dollar <NUM> <PUNC>
+exxon mobil corp. xom also weighed <COMMA> losing <NUM> percent to dollar <NUM> as crude-oil prices slumped <PUNC>
+on the positive side <COMMA> vodafone group vod rose <NUM> percent after saying it agreed to pay dollar <NUM> billion and assume dollar <NUM> billion in debt for hutchison telecom international ltd. s htx <NUM> percent stake in indian mobile operator hutchison essar <PUNC>
+vodafone also told analysts it s very happy with its stake in verizon wireless <COMMA> its joint venture with verizon communications vz <PUNC>
+<PAR>

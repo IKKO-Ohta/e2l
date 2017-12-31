@@ -1,0 +1,3 @@
+extending its longest losing streak in nearly three years <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+a lower close would be the blue-chip index s ninth straight <COMMA> its longest losing stretch since <NUM> <PUNC>
+<PAR>

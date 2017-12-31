@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> off an early low of <NUM> <PUNC>
+among the discount retailers <COMMA> blue chip wal-mart stores inc. wmt said sales at stores open longer than a year <COMMA> a key industry measure known as same-store sales <COMMA> rose by <NUM> percent from a year ago <COMMA> driven by strong sales of food and consumables <PUNC>
+the figure was just slightly ahead of the <NUM> percent average increase forecast by analysts reporting to thomson first call <PUNC>
+dana s troubles were hurting the automobile sector <PUNC>
+general motors corp. gm was down <NUM> percent at dollar <NUM> <COMMA> ford motor co. f fell <NUM> percent to dollar <NUM> <COMMA> daimlerchrysler dcx was off <NUM> percent at dollar <NUM> while car parts maker visteon corp. vc tumbled <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

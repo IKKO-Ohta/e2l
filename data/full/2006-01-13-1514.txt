@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+dow component ibm ibm shares dipped <NUM> cents to dollar <NUM> <PUNC>
+the company late thursday said the sec s informal probe into ibm s disclosures of its expensing of equity compensation is now a formal investigation <PUNC>
+general motors gm <COMMA> also in the dow <COMMA> was unchanged at dollar <NUM> after reporting strong sales in <NUM> <PUNC>
+the company also expects improved results this year <PUNC>
+shares in american international group aig were up <NUM> cents at dollar <NUM> <COMMA> weathering the insurer s announcement that it will pay a dollar <NUM> billion government fine to settle civil-fraud investigations <PUNC>
+shares in hewlett-packard co. hpq rsoe <NUM> percent to dollar <NUM> after goldman sachs upgraded the computer and printer maker to outperform from in-line <COMMA> given improvements in all of the company s businesses <PUNC>
+<PAR>

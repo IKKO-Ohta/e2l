@@ -1,0 +1,7 @@
+up <NUM> points earlier on <COMMA> the dow jones industrial average dji recently rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components advancing <PUNC>
+walt disney co. dis was among those fronting the rise <COMMA> with its stock up <NUM> percent <PUNC>
+weighing on the blue chips <COMMA> shares of microsoft msft fell <NUM> percent in the wake of the software titan s dollar <NUM> -a-share <COMMA> or dollar <NUM> billion <COMMA> offer for yahoo yhoo <PUNC>
+u.s. stocks on thursday had another topsy-turvy session <COMMA> this time finishing higher after troubled bond insurer mbia said it could hang onto its aaa rating <PUNC>
+should mbia or rival ambac financial be downgraded <COMMA> the securities that they guarantee also may diminish in value <PUNC>
+the dow industrials climbed <NUM> points <COMMA> the s&p <NUM> up <NUM> points and the nasdaq composite up <NUM> points <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+gauges of consumer activity will come tuesday with monthly vehicle sales reports from automakers including general motors corp. gm <COMMA> ford motor co. f <COMMA> and earnings reports on wednesday from best buy co. bby and circuit city co. cc <PUNC>
+equities marked the end of the first quarter friday with the dow jones industrial average dji recording its first quarterly loss since <NUM> <PUNC>
+the broad index now sits in negative territory for the year so far <PUNC>
+the s&p <NUM> index and the nasdaq composite <COMMA> meanwhile <COMMA> were clinging to modest gains for the year <PUNC>
+the first-quarter reporting season begins april <NUM> with results from aluminum giant alcoa inc. aa <PUNC>
+<PAR>

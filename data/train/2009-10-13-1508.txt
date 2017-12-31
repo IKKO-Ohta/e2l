@@ -1,0 +1,4 @@
+on wall street tuesday <COMMA> financial shares paced the decline as the major u.s. stock indexes offered a modest retreat after hitting new highs for the year the prior day <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+the s&p <NUM> index spx declined <NUM> points to <NUM> <COMMA> and the nasdaq composite index rixf shed <NUM> points to <NUM> <PUNC>
+<PAR>

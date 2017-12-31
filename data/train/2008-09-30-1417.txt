@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+u.s. stocks plunged monday the single-worst point drop ever for the dow jones industrial average after the house voted down the troubled assets relief package <PUNC>
+pfizer inc. pfe is expected to halt developing heart-disease medications <COMMA> the wall street journal reported <COMMA> citing the company s head of research and development <PUNC>
+it will focus on cancer and alzheimer s drugs <COMMA> the report said <PUNC>
+<PAR>

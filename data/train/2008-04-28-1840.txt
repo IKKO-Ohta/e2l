@@ -1,0 +1,8 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by shares of verizon communications inc. vz <COMMA> merck & co. mrk and general motors corp. gm <PUNC>
+on the earnings front <COMMA> dow component verizon vz rose <NUM> percent after reporting a <NUM> percent profit rise <COMMA> helped by the performance at the verizon wireless unit <COMMA> for which it holds a <NUM> percent stake <PUNC>
+vodafone group vod owns the rest of the mobile operator that signed up <NUM> million customers during the most recent quarter <PUNC>
+on friday <COMMA> stocks finished mostly higher <COMMA> with the dow rising <NUM> points and the s&p <NUM> up <NUM> points <PUNC>
+microsoft s cautious outlook dragged the nasdaq down about <NUM> points <PUNC>
+the three-week deadline that microsoft corp. msft gave yahoo inc. yhoo to come to an agreement on its unsolicited bid for the web portal passed without any announcement from either side <COMMA> leading to the possibility that the battle for yahoo is about to turn hostile <PUNC>
+shares of yahoo rose <NUM> percent <COMMA> while microsoft fell more than <NUM> percent <PUNC>
+<PAR>

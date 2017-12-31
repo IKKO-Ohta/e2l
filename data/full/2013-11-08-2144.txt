@@ -1,0 +1,4 @@
+u.s. stocks rose on friday after a stronger-than-expected october jobs report <COMMA> leading to a record close for the dow industrials and a fifth straight weekly gain for both the dow and the s&p <NUM> <PUNC>
+the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> topping wednesday s record close <PUNC>
+the blue-chip index advanced <NUM> percent for the week <PUNC>
+<PAR>

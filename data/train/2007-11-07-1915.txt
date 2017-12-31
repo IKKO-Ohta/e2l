@@ -1,0 +1,5 @@
+wall street shares were sliding on wednesday <COMMA> with the dow industrials down over than <NUM> points <COMMA> its path greased by a combination of persistent financial woes <COMMA> the dollar at record lows <COMMA> surging oil <COMMA> and general motors corp. s largest-ever quarterly loss <PUNC>
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in afternoon action <PUNC>
+all but <NUM> of its <NUM> components traded in the red <COMMA> led by gm gm <COMMA> off <NUM> percent <PUNC>
+insurance giant american international group inc. aig <COMMA> also a dow component <COMMA> saw its shares slide <NUM> percent ahead of its quarterly report <PUNC>
+<PAR>

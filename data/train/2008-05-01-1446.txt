@@ -1,0 +1,3 @@
+after dipping into the red earlier on <COMMA> the dow jones industrial dji shifted gears higher <COMMA> recently rising <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> with financials leading the early advance <PUNC>
+american express co. axp and citigroup inc. c both gained <NUM> percent <COMMA> while bank of america corp. bac climbed <NUM> percent <PUNC>
+<PAR>

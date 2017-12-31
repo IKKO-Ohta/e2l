@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components retreated <COMMA> led by alcoa inc. aa <COMMA> caterpillar inc. cat <COMMA> merck & co. inc. mrk <COMMA> hewlett-packard co. hpq and general motors corp. gm <PUNC>
+in other technology developments <COMMA> apple inc. aapl is planning to launch a new version of its safari browser <COMMA> according to reports <PUNC>
+the browser will run on microsoft corp. s msft windows operating system <PUNC>
+on monday <COMMA> stocks lost early gains as the market continued to monitor rising global interest rates amid signs of global growth and hawkish talk from a fed official <PUNC>
+the dow industrials rose <NUM> of a point <COMMA> the nasdaq composite fell <NUM> points and the s&p <NUM> rose <NUM> points <PUNC>
+youtube <COMMA> which is being bought by google inc. goog <COMMA> is going to test video fingerprinting technology to identify clips by companies like time warner inc. twx and walt disney co. dis <PUNC>
+<PAR>

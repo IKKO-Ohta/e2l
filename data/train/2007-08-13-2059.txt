@@ -1,0 +1,7 @@
+the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> after climbing more than <NUM> points earlier on <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> posted gains <COMMA> led by alcoa inc. aa <COMMA> which closed up <NUM> percent <PUNC>
+american express co. axp led the dow s losses <COMMA> falling <NUM> percent <PUNC>
+other financial shares on the dow also fell <COMMA> with j.p. morgan chase co. jpm losing <NUM> percent even after an upgrade from deutsche banc to buy from hold <PUNC>
+citigroup inc. c also fell <NUM> percent <PUNC>
+the financial times said the bank lost more than dollar <NUM> million in its credit business in recent weeks <PUNC>
+<PAR>

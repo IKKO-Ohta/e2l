@@ -1,0 +1,5 @@
+the dow jones industrial average dji is set to make its best month since october <NUM> with a more than <NUM> percent gain <PUNC>
+chevron corp. cvx on friday said second-quarter profit fell <NUM> percent <COMMA> one of several oil majors to report double-digit profit declines from the year-ago period <COMMA> when oil prices headed past dollar <NUM> a barrel <PUNC>
+the dow industrials gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+it s gained about <NUM> percent this week <PUNC>
+<PAR>

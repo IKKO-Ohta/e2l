@@ -1,0 +1,6 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+exxon mobil xom led the broad decline with a <NUM> percent drop <PUNC>
+alcoa aa fell <NUM> percent and travelers trv declined <NUM> percent amid the broad decline <PUNC>
+hewlett-packard hpq was the only dow component that managed to rise <PUNC>
+h-p hpq gained <NUM> percent after the giant technology company late monday reported strong fiscal fourth-quarter results and issued a better-than-expected forecast <PUNC>
+<PAR>

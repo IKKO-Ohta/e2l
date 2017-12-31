@@ -1,0 +1,5 @@
+the dow jones industrial average dji was <NUM> points lower at <NUM> <PUNC>
+dow component alcoa inc. aa <COMMA> which has posted gains in recent sessions <COMMA> was up <NUM> percent at dollar <NUM> <PUNC>
+citigroup c <COMMA> a component of the dow industrials <COMMA> and other investors may take stakes in china s budget carrier spring airlines <COMMA> reuters reported <COMMA> citing two sources familiar with the matter <PUNC>
+international business machines ibm and siemens si won a 10-year dollar <NUM> billion contract from the german federal armed forces to modernize non-military information and communications technology <PUNC>
+<PAR>

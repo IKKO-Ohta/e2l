@@ -1,0 +1,10 @@
+u.s. stocks were rallying on wednesday <COMMA> the first trading session of <NUM> <COMMA> with the dow jones industrial average in record territory as it gained over <NUM> points with help from wal-mart stores inc. <COMMA> which posted robust holiday sales <COMMA> and from home depot inc. <COMMA> which announced a management shakeup <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> fresh off another all-time high of <NUM> <PUNC>
+wal-mart stores wmt was the biggest gainer among blue-chips <COMMA> rising <NUM> percent <PUNC>
+the nation s largest retailer forecast december same-store sales ahead of prior expectations <PUNC>
+investors also cheered news that home depot s hd embattled chief executive <COMMA> robert nardelli <COMMA> had resigned to be replaced by vice chairman frank blake <PUNC>
+general motors corp. gm was one of only four declining issues weighing on the dow <COMMA> losing <NUM> percent after banc of america downgraded the stock to sell from neutral <PUNC>
+gm competitor ford motor co. f <COMMA> meanwhile <COMMA> gained <NUM> percent after reporting its december sales fell <NUM> percent <COMMA> while the market was bracing for much worse <PUNC>
+at the same time <COMMA> transportation stocks <COMMA> which had fallen sharply in the last few months of <NUM> <COMMA> were rebounding on wednesday after from bear stearns upgraded several names in the sector <COMMA> citing attractive valuations <PUNC>
+the dow jones transportation average <NUM> was gaining <NUM> percent <PUNC>
+<PAR>

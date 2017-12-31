@@ -1,0 +1,8 @@
+u.s. stocks staged a modest rebound in early trading thursday after a prior session in which the dow jones industrial average suffered its biggest one-day point decline in more than three years <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+during wednesday s rout <COMMA> which was sparked by brisker-than-forecast monthly consumer price increases <COMMA> the dow gave up <NUM> points and the nasdaq composite fell for the seventh session in a row <COMMA> wiping out all its gains for <NUM> <PUNC>
+the s&p <NUM> index ended at a more than three-month low <PUNC>
+home depot inc. shares hd rose <NUM> percent to dollar <NUM> after the home improvement retailer late wednesday said its board has approved a dollar <NUM> billion share buyback program <PUNC>
+dell inc dell was up <NUM> cents at dollar <NUM> as it prepares to release quarterly results after the market closes <PUNC>
+a broker upgrade boosted rival hewlett-packard co. hpq <COMMA> sending its shares up <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

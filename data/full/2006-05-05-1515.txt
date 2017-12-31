@@ -1,0 +1,4 @@
+u.s. stocks rallied friday after slower-than-anticipated april jobs growth boosted hopes the federal reserve may no longer need to continue raising interest rates <COMMA> and lifted the dow jones industrial average and the s&p <NUM> index to multi-year highs <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <PUNC>
+the benchmark index is at levels not seen in more than six years <PUNC>
+<PAR>

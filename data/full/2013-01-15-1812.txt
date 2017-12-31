@@ -1,0 +1,5 @@
+the dow jones industrial average dji erased losses to trade virtually unchanged at <NUM> in the early afternoon <PUNC>
+shares of hewlett-packard co. hpq fell <NUM> percent <COMMA> the biggest decliner in the dow <COMMA> while caterpillar inc. cat gained <NUM> percent <COMMA> the biggest gainer in the blue-chip benchmark <PUNC>
+here we are on the eve of bank earnings coming out tomorrow <COMMA> said peter cardillo <COMMA> chief market economist at rockwell global capital <COMMA> pointing to both j.p. morgan chase & co. jpm and goldman sachs group inc. gs <COMMA> as due to hand in their quarterly report cards <PUNC>
+then we have other banking stocks on thursday and friday <COMMA> along with general electric co. ge <COMMA> so the market remains on the skittish sidelines here <COMMA> he added <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+u.s. stocks erased gains and turned negative monday <COMMA> sending the dow jones industrial average back below <NUM> <COMMA> as enthusiasm over china s economic stimulus package waned amid ongoing worries about u.s. companies <PUNC>
+up more than <NUM> points early on <COMMA> the dow jones industrial average dji was more recently off <NUM> points to <NUM> with <NUM> of its <NUM> components trading lower <PUNC>
+general motors corp. gm weighed the most on the blue-chip index <COMMA> falling <NUM> percent after deutsche bank said shares of the automaker were likely worthless and that gm might not be able to fund its u.s. business past december without the government s help <PUNC>
+gains were led by aluminum producer alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
+mcdonald corp. mcd reported another month of strong sales <COMMA> and starbucks sbux is due to report quarterly results after the close <PUNC>
+u.s. stocks had ended with strong gains on friday as investors looked past a report showing <NUM> jobs lost in october and big quarterly losses at general motors and ford motor co. f <PUNC>
+but over the past week <COMMA> the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq composite each lost about <NUM> percent <PUNC>
+<PAR>

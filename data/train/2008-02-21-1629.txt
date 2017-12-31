@@ -1,0 +1,4 @@
+after rising about <NUM> points <COMMA> the dow jones industrial average dji trimmed its gains <COMMA> recently falling <NUM> points to <NUM> <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were trading in the red <COMMA> with technology shares leading the advance <PUNC>
+microsoft corp. msft gained <NUM> percent <COMMA> while intel corp. intc was up <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average rose for a fifth day thursday <COMMA> helped by a round of economic data including jobless claims <COMMA> while apple inc. s worst day in four years sank the nasdaq composite <PUNC>
+the dow average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+boeing co. ba <COMMA> up <NUM> percent <COMMA> contributed the most to the blue-chip index s rise <COMMA> while cisco systems inc. csco led percent gains <PUNC>
+among dow components <COMMA> pfizer inc. pfe rose <NUM> percent after the drug maker reported positive results from a drug study <PUNC>
+at&t inc. t and microsoft corp. msft <COMMA> both dow components <COMMA> released quarterly results after the closing bell <PUNC>
+<PAR>

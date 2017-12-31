@@ -1,0 +1,2 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with alcoa inc. aa and intel corp. intc fronting the early declines <COMMA> both off nearly <NUM> percent <PUNC>
+<PAR>

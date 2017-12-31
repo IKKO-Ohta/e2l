@@ -1,0 +1,4 @@
+on the week <COMMA> the dow jones industrial average dji lost <NUM> percent <PUNC> the nasdaq composite index rixf fell <NUM> percent <PUNC> and the s&p <NUM> index spx shed <NUM> percent <PUNC>
+however <COMMA> stocks ended higher in november <PUNC>
+the dow rose <NUM> percent <COMMA> the s&p gained <NUM> percent <COMMA> and the nasdaq jumped <NUM> percent <PUNC>
+<PAR>

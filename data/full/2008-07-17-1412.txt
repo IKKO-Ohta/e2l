@@ -1,0 +1,7 @@
+all three of the dow jones industrial average beat the street s profit estimates <COMMA> noted analysts at action economics <PUNC>
+softer oil prices will also provide some support to the equities market <PUNC>
+the dow industrials dji climbed <NUM> points to <NUM> <PUNC>
+the ascent in stocks comes one day after stocks rallied <COMMA> with the dow tallying the blue-chip benchmark s largest point jump since april <NUM> <COMMA> as sliding oil prices and banks upbeat results fueled optimism <PUNC>
+within the dow <COMMA> shares of j.p. morgan chase jpm climbed <NUM> percent <COMMA> citigroup inc. c added <NUM> percent <COMMA> and american international group inc. aig and american express co. axp both added <NUM> percent <PUNC>
+coca-cola ko reported a <NUM> percent decline in quarterly profit <COMMA> and shares traded lower <PUNC>
+<PAR>

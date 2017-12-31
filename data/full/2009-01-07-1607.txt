@@ -1,0 +1,6 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with all but five of its <NUM> components down in the early going <PUNC>
+alcoa aa proved the heaviest weight on the blue-chip index <COMMA> its shares down <NUM> percent after the aluminum giant s announcement late tuesday that it would cut <NUM> jobs and close plants to conserve cash <PUNC>
+shares of intel intc also dragged on the dow <COMMA> its shares off <NUM> percent after the chipmaker warned it expects its fourth-quarter revenue to fall <NUM> percent from a year ago to dollar <NUM> billion <PUNC>
+u.s. stocks had closed higher tuesday as president-elect barack obama stumped for his recovery plan on capitol hill <COMMA> even as minutes from december s federal open market committee meeting offered a bleak view of the economy <PUNC>
+the dow industrials rose <NUM> points <COMMA> the nasdaq composite rose <NUM> points <COMMA> and the s&p <NUM> added <NUM> points <PUNC>
+<PAR>

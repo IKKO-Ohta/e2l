@@ -1,0 +1,5 @@
+the dow jones industrial average dji gave up opening gains and closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the nasdaq composite rixf defied the general trend and finished the day <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
+after tuesday s rally <COMMA> the tech-heavy index turned positive for <NUM> and is now up <NUM> percent so far this year <PUNC>
+cisco csco shares fell <NUM> percent in after-hours trading <COMMA> as the company reported a <NUM> percent drop in quarterly revenue <COMMA> matching the unusually grim forecast it issued in november <PUNC>
+<PAR>

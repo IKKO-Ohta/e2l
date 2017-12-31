@@ -1,0 +1,11 @@
+the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in recent trading <PUNC>
+the dow average was helped by shares in insurer travelers cos. trv <COMMA> which rose <NUM> percent <COMMA> and bank of america corp. bac <COMMA> up <NUM> percent <PUNC>
+the dow s technology components climbed <PUNC>
+hewlett-packard co. hpq rose <NUM> percent after posting a <NUM> percent increase in its first-quarter earnings <PUNC>
+the computer maker also boosted its revenue outlook for the fiscal year <PUNC>
+meanwhile <COMMA> microsoft corp. msft shares gained <NUM> percent after the u.s. department of justice and european commission cleared its proposed internet search alliance with yahoo inc. yhoo in a partnership the two companies hope will challenge google inc. goog <PUNC>
+yahoo was recently up <NUM> percent <COMMA> while google rose <NUM> percent <PUNC>
+wal-mart stores inc. wmt weighed on the dow with a <NUM> percent drop <PUNC>
+the discount-retail chain posted a <NUM> percent gain in fourth-quarter profit but provided tepid first-quarter earnings guidance <PUNC>
+in addition <COMMA> wal-mart s sales at u.s. stores open more than a year fell <PUNC>
+<PAR>

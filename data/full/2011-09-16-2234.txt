@@ -1,0 +1,4 @@
+the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> after rising as much as <NUM> points and sliding <NUM> points <PUNC>
+it was the blue-chip index s longest win streak since the five-day period ended july <NUM> <PUNC>
+the dow rose <NUM> percent for the week <COMMA> its first weekly gain in three <PUNC>
+<PAR>

@@ -1,0 +1,6 @@
+the dow jones industrial average dji lost <NUM> points to end at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> <PUNC>
+heavy decliners on the dow included general motors corp. gm <COMMA> off <NUM> percent <COMMA> and american international group inc. aig <COMMA> down <NUM> percent <PUNC>
+the blue-chip barometer s other financials also fell <PUNC> shares of citigroup inc. c traded down <NUM> percent <COMMA> j.p. morgan chase co. jpm sank <NUM> percent <COMMA> bank of america corp. bac lost <NUM> percent <COMMA> and american express co. axp dropped <NUM> percent <PUNC>
+dow gains were fronted by its oil producers <COMMA> with exxon mobil corp. xom adding <NUM> percent and chevron corp. cvx gaining <NUM> percent <PUNC>
+the decline followed an intense drilling of u.s. stocks friday <COMMA> when the dow industrials tumbled <NUM> points <COMMA> pummeled over worries about oil prices and the health of financial companies <COMMA> to peg the week s losses at <NUM> percent <PUNC>
+<PAR>

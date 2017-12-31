@@ -1,0 +1,6 @@
+u.s. stocks were set for a firmly higher open on thursday <COMMA> which would take the dow jones industrial average further above the <NUM> milestone <COMMA> as investors welcomed blowout earnings from apple inc. and upbeat results from the likes of 3m corp. <COMMA> exxon mobil corp. <COMMA> and ford motor co <PUNC>
+futures for the dow jones industrial average dji were up <NUM> points at <NUM> <COMMA> while those for the s&p <NUM> index spx gained <NUM> points to <NUM> <PUNC>
+thursday s session follows a rally on wednesday <COMMA> which saw the dow finish above the <NUM> level for the first time <COMMA> boosted by surging profits at amazon.com amzn <PUNC>
+among dow components <COMMA> 3m corp. mmm jumped <NUM> percent and exxon mobil corp. xom rose <NUM> percent after both of their earnings topped forecasts <PUNC>
+microsoft msft will also be in focus ahead of its results after the close <PUNC>
+<PAR>

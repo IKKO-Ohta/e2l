@@ -1,0 +1,10 @@
+the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <PUNC>
+the dow s advance was led by alcoa inc. aa <COMMA> lately up <NUM> percent <COMMA> ahead of the aluminum producer s earnings report after the close tuesday <PUNC>
+also adding support <COMMA> general motors corp. gm <COMMA> climbed <NUM> percent <COMMA> with shares of the biggest u.s. automaker bolstered by crude s fall and a wall street journal report that gm is considering more job cuts and whether to close more brands <PUNC>
+drug manufacturer merck & co. inc. mrk fronted losses on the dow <COMMA> its stock down <NUM> percent <COMMA> following its downgrade to neutral from buy at ubs <PUNC>
+shares of walt disney co. dis also weighed on the dow <COMMA> with shares of the entertainment company falling <NUM> percent after a downgrade by lehman brothers <PUNC>
+the technology-laden nasdaq composite rixf added <NUM> points to stand at <NUM> <COMMA> bolstered in part by microsoft corp. msft <COMMA> which said it is open to discussing a major transaction with a new board of directors at yahoo inc. yhoo <PUNC>
+u.s. stocks ended lower during the holiday-shortened week <COMMA> with the dow jones industrial average falling into bear-market territory <PUNC>
+and <COMMA> general electric co. s ge nbc universal led a group buying the weather channel in what is expected to be a multi-billion-dollar deal <PUNC>
+terms weren t disclosed <PUNC>
+<PAR>

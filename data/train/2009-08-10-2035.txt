@@ -1,0 +1,13 @@
+both the dow jones industrial average and the dow jones transportation average have topped their january highs <COMMA> developments that are regarded as a bullish signal by followers of the more-than-a-century-old dow theory <PUNC>
+the dow industrials dji already had exceeded their january highs back in july <COMMA> but the transportation counterpart only caught up on friday <COMMA> after the better-than-expected july jobs report <PUNC>
+according to the dow theory <COMMA> this signals a new primary uptrend and is a bullish indicator for the market <COMMA> wrote mary ann bartels <COMMA> technical research analyst at bank of america-merrill lynch <COMMA> in a note <PUNC>
+and according to the dow theory <COMMA> gains in the dow industrials should be matched by those on the transportation average <PUNC>
+the dow transports include the stocks of railroad transportation services firms <COMMA> such as union pacific unp <COMMA> some air carriers <COMMA> such as southwest airlines luv <COMMA> parcel shipping companies <COMMA> such as fedex fdx <COMMA> and ocean-transportation firms <COMMA> such as overseas shipholding group osg <PUNC>
+on friday <COMMA> the dow transports djt closed at <NUM> <COMMA> topping its jan. <NUM> closing high of <NUM> <PUNC>
+the dow industrials closed at <NUM> <COMMA> also above their january closing high of <NUM> <PUNC>
+the dow industrials fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the dow transports slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+not everyone <COMMA> of course <COMMA> is buying the dow theory signals <PUNC>
+since july <NUM> <COMMA> when the dow industrials first broke through their january highs <COMMA> jeffrey saut <COMMA> a market strategist at raymond james <COMMA> had warned that should the transports fail to follow suit <COMMA> it would create a giant upside nonconfirmation that is <COMMA> a reason to turn bearish <PUNC>
+while the dow transports include global freight-shipping firms <COMMA> some prefer to rely on the baltic dry index <COMMA> which tracks the international shipping rates of dry bulk cargo <PUNC>
+<PAR>

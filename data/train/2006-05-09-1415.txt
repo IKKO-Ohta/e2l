@@ -1,0 +1,15 @@
+u.s. stocks traded mixed tuesday <COMMA> with a profit warning from dell inc. weighing on the technology sector <COMMA> but a broker upgrade for general motors and strong april sales for mcdonald s corp. lent some support to the dow jones industrial average <PUNC>
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+shares in rival hewlett-packard hpq were off <NUM> percent at dollar <NUM> as dell s warning raised questions among analysts about a broader slowdown in the pc market <PUNC>
+shares in general motors corp. gm rallied <NUM> percent to dollar <NUM> <COMMA> buoyed by a deutsche bank upgrade to hold from sell <PUNC>
+the broker said recent moves have generated a substantial amount of liquidity and that the risk of catastrophic developments has diminished <PUNC>
+in addition <COMMA> deutsche said there appears to be a reasonably good chance that an agreement on delphi can be reached within the next <NUM> days <PUNC>
+mcdonald s corp. mcd tacked on <NUM> cents to dollar <NUM> after the fast-food giant said worldwide same-store sales rose <NUM> percent in april <PUNC>
+u.s. same-store sales rose <NUM> percent but europe <COMMA> which has struggled of late <COMMA> posted the strongest growth <COMMA> with same-same stores shooting up <NUM> percent <PUNC>
+same-stores sales in the asia/pacific <COMMA> middle east and africa regions climbed <NUM> percent <PUNC>
+in another development <COMMA> walt disney co. dis has decided to let its exclusive cross-promotional agreement with mcdonald s run out at year s end <COMMA> although it added that it wanted to continue working with the company <PUNC>
+disney shares rose <NUM> cents to dollar <NUM> <PUNC>
+elsewhere on the blue-chip index <COMMA> verizon communications vz reportedly made an offer of dollar <NUM> billion to buy the <NUM> percent it doesn t already own of verizon wireless <COMMA> only to see vodafone group vod demand dollar <NUM> billion more <COMMA> according to uk newspaper the daily telegraph <PUNC>
+on monday <COMMA> verizon shares were off <NUM> cents at dollar <NUM> while u.s.-listed shares of vodafone rose <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

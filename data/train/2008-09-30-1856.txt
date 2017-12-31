@@ -1,0 +1,7 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> a level that has the blue-chip index down <NUM> percent from the end of august <PUNC>
+of the dow s <NUM> components <COMMA> <NUM> were trading higher <COMMA> with blue-chip financials fronting the advance <PUNC>
+citigroup inc. c gained <NUM> percent <COMMA> j.p. morgan chase & co. jpm rose <NUM> percent <COMMA> and bank of america corp. bac climbed <NUM> percent <PUNC>
+of the dow s laggards <COMMA> caterpillar inc. cat fell the most <COMMA> off <NUM> percent <COMMA> followed by international business machines corp. ibm <COMMA> off <NUM> percent <PUNC>
+u.s. stocks plunged monday the single-worst point drop ever for the dow jones industrial average after the house voted down the so-called troubled assets relief package <PUNC>
+at monday s finish <COMMA> the dow was down <NUM> percent for the nearly finished month <COMMA> which proved to be a watershed one for the nation s financial system <PUNC>
+<PAR>

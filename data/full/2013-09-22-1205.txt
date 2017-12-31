@@ -1,0 +1,3 @@
+stocks finished the week higher despite a big friday pullback <COMMA> with the dow jones industrial average dji up <NUM> percent <COMMA> the s&p <NUM> index spx advancing <NUM> percent <COMMA> and the nasdaq composite index rixf ahead <NUM> percent <PUNC>
+both the dow industrials and the s&p <NUM> closed at their all-time highs wednesday after the fed scrapped plans to taper in september <PUNC>
+<PAR>

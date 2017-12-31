@@ -1,0 +1,13 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+the benchmark index closed out the session at an eight month high <PUNC>
+on the week <COMMA> it gained <NUM> percent <PUNC>
+shares in general electric co. ge rose to a four-month high of dollar <NUM> after the conglomerate lifted earnings estimates and said it will sell most of its insurance solutions reinsurance division to swiss re for dollar <NUM> billion <COMMA> after losing dollar <NUM> million from that side of the business over the last five years <PUNC>
+hewlett-packard hpq rallied after the computer and printer maker raised its profit outlook after posting earnings <COMMA> excluding restructuring charges <COMMA> that handily topped expectations <PUNC>
+the company s solid performance came on the back of strong sales of its personal computers <COMMA> servers and storage gear <PUNC>
+the stock rose <NUM> cents to dollar <NUM> after gaining <NUM> percent thursday in front of its quarterly release <PUNC>
+walt disney co. <COMMA> dis another dow component <COMMA> fell as much as <NUM> percent to dollar <NUM> after net income for the fourth quarter fell more than <NUM> percent due mostly to underperforming films <PUNC>
+general motors corp. gm was the biggest percentage gainer on the dow industrials <COMMA> rising <NUM> percent to dollar <NUM> chief executive rick wagoner told employees in a memo wednesday that it doesn t plan to file for bankruptcy reorganization <COMMA> according to a filing late thursday with the securities and exchange commission <PUNC>
+outside the dow <COMMA> cisco systems inc. csco said it is buying cable television set-top maker scientific atlanta inc sfa for dollar <NUM> billion <PUNC>
+cisco shares ended down <NUM> percent to dollar <NUM> <PUNC>
+scientific atlanta s stock rose <NUM> percent to dollar <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,8 @@
+the dow jones industrial average dji was off its morning highs <COMMA> up <NUM> points at <NUM> <PUNC>
+among dow jones industrial average components <COMMA> united technologies utx closed <NUM> cents higher at dollar <NUM> on a cibc upgrade <COMMA> after earlier hitting a record high of dollar <NUM> <PUNC>
+caterpillar inc. cat rose <NUM> percent to dollar <NUM> after news of stronger machines sales <PUNC>
+another dow industrials component <COMMA> general motors corp. gm fell <NUM> percent to dollar <NUM> <PUNC>
+rick wagoner <COMMA> the automaker s chairman and chief executive <COMMA> told revelers at a holiday party late thursday that the company s revenue will improve <PUNC>
+and yet another dow industrials member <COMMA> johnson & johnson jnj rose <NUM> percent to dollar <NUM> <PUNC>
+the company agreed to buy insulin-pump maker animas corp. pump for dollar <NUM> million <PUNC>
+<PAR>

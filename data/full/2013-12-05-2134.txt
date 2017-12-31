@@ -1,0 +1,3 @@
+the s&p <NUM> spx slid <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> while the dow dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
+the two indexes last fell for five straight sessions in september <PUNC>
+<PAR>

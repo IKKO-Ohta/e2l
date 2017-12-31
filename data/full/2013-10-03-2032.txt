@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> recovering from a 186-point deficit on the session <PUNC>
+boeing co. ba performed worst among dow components <COMMA> losing <NUM> percent <PUNC>
+the aerospace giant has warned about delays for its jet and defense businesses due to the shutdown <COMMA> according to media reports <COMMA> and united technologies corp. utx has issued a similar alert <PUNC>
+<PAR>

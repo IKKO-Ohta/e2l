@@ -1,0 +1,10 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+among blue-chip issues <COMMA> shares of j.p. morgan chase & co. jpm led the gainers <COMMA> adding <NUM> percent to dollar <NUM> after morgan stanley upgraded the stock to overweight from equal weight and raised its share-price target to dollar <NUM> from dollar <NUM> <PUNC>
+fellow dow stock dupont dd gained <NUM> percent after the chemicals company lifted its <NUM> earnings forecast and said it would cut <NUM> jobs worldwide <PUNC>
+shares of dow component johnson & johnson jnj dropped <NUM> percent <PUNC>
+the firm is expected to be one of several to may make an offer for medical-devices company biomet inc. bmet <COMMA> according to the financial times <PUNC>
+citigroup inc. c gained almost <NUM> percent after u.k. press reports over the weekend identified it as having made an unsolicited offer for egg <COMMA> the internet bank owned by the u.k. insurer prudential plc puk <PUNC>
+american international group inc. aig rose almost <NUM> percent after the insurance giant said one of its units would pay an undisclosed amount to buy u.s. port operations from dubai ports world <PUNC>
+earlier this year <COMMA> the united arab emirates-based company s purchase of the ports created a national-security uproar <PUNC>
+at&t inc. t gained <NUM> percent after bear stearns said the telecom company would likely complete its merger with bellsouth by year-end <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+at 12:30 p.m. eastern <COMMA> the s&p <NUM> spx was down <NUM> points to <NUM> <COMMA> while the dow jones industrial average dji was off <NUM> points to <NUM> <PUNC>
+the technology laden nasdaq composite rixf gained <NUM> point to <NUM> <PUNC>
+after a horrendous january <COMMA> stocks were headed to a like scenario for the nearly-ended month <PUNC>
+after its worst january performance in its 113-year history <COMMA> the dow industrials were on track for a february decline of <NUM> percent <PUNC> the s&p stood poised for a monthly loss of <NUM> percent and the nasdaq was pointed to a monthly drop of <NUM> percent <PUNC>
+<PAR>

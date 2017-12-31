@@ -1,0 +1,3 @@
+on tuesday <COMMA> the information technology sector flirted between positive and negative turf <COMMA> with the s&p <NUM> spx dipping below the <NUM> level <COMMA> recently off <NUM> points at <NUM> <PUNC>
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> while the technology-laden nasdaq composite declined <NUM> points to <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,3 @@
+on friday <COMMA> quarterly reports including results from bellwether general electric co. ge weighed on equities <COMMA> with a rally in energy shares offsetting the declines <PUNC>
+at last check <COMMA> the dow jones industrial average dji was down <NUM> points to <NUM> <PUNC> the s&p <NUM> spx was off fractionally to <NUM> <COMMA> and the nasdaq composite rixf up <NUM> points to <NUM> <PUNC>
+<PAR>

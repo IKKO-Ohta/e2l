@@ -1,0 +1,7 @@
+u.s. stocks tumbled friday <COMMA> with the dow jones industrial average falling well below the <NUM> level <COMMA> after a weaker-than-expected jobs report hit investors already on edge over the possibility that a sovereign-debt crisis was spreading across europe <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> as the government s may nonfarm payrolls report showed only a puny rise in private sector jobs <COMMA> quashing hope that a strong u.s. economy could help counter the pull of negative sentiment from europe <PUNC>
+the dow s move below <NUM> its first time below that key number in a little over a week came after the euro cur_eurusd fell below dollar <NUM> on fresh worries about hungary s economy <PUNC>
+all <NUM> of the dow s components fell <COMMA> including declines of more than <NUM> percent each in economically sensitive stocks caterpillar cat and american express axp <PUNC>
+general electric ge was close behind <COMMA> off <NUM> percent <PUNC>
+the blue-chip average suffered its worst one-day drop since may <NUM> and ended the week down <NUM> percent <PUNC>
+<PAR>

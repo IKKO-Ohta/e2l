@@ -1,0 +1,5 @@
+new york dow jones - u.s. stocks traded higher friday <COMMA> with the dow jones industrial average pacing session gains <COMMA> as investors juggled positive consumer sentiment data with rising concern over higher oil prices <PUNC>
+the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> after surging to <NUM> after the sentiment data <PUNC>
+within the dow <COMMA> exxon mobil corp. xom was up <NUM> percent <COMMA> buoyed by the resurgent strength in crude-oil prices <PUNC>
+alcoa inc. aa rallied for a second straight session <COMMA> up <NUM> percent <COMMA> amid broad strength in the metals markets <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+after flirting in positive territory earlier on <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+blue-chip losses were fronted by financials <COMMA> with bank of america corp. bac off <NUM> percent <COMMA> american express co. axp off <NUM> percent <COMMA> and citigroup inc. c down <NUM> percent <PUNC>
+on friday <COMMA> wall street took its largest hit in three weeks after bellwether general electric co. ge surprised investors by reporting a <NUM> percent profit drop in the first quarter <COMMA> and lowered its forecast for the rest of the year <PUNC>
+<PAR>

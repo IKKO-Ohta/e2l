@@ -1,0 +1,5 @@
+after an initial rise <COMMA> the dow jones industrial average dji was recently off <NUM> points to stand at <NUM> <PUNC>
+banks were hardest hit among the blue chips <COMMA> with american express co. axp sliding <NUM> percent <COMMA> and bank of america corp. bac and jp morgan chase & co. jpm both off more than <NUM> percent <PUNC>
+on monday <COMMA> u.s. stocks ended with major indexes split <PUNC>
+a broker downgrade of verizon communications inc. vz and at&t inc. t propelled the dow lower <COMMA> while the s&p ended nearly flat and the nasdaq posted modest gains <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+on wall street <COMMA> industrials and materials paced losses and telecommunication service and consumer discretionary shares fronted gains as stocks finished nearly flat <PUNC>
+the dow jones industrial average dji gained <NUM> points to end at <NUM> <COMMA> extending its winning streak to a seventh day in a row <PUNC>
+the s&p <NUM> index spx added less than <NUM> point to <NUM> <COMMA> and the nasdaq composite rixf also rose fractionally to <NUM> <PUNC>
+<PAR>

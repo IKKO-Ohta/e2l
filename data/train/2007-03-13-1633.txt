@@ -1,0 +1,4 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> were in negative territory <PUNC>
+financial stocks - american express co. axp <COMMA> citigroup inc. c and jp morgan chase & co. jpm led the declines among blue-chips <PUNC>
+among the few dow gainers <COMMA> exxon mobil corp. xom gained <NUM> percent as crude oil prices rebounded after news of dwindling supplies among industrialized nations <PUNC>
+<PAR>

@@ -1,0 +1,7 @@
+u.s. stocks leapt on monday <COMMA> with the dow industrials surging more than <NUM> points at their session high <COMMA> after european union leaders agreed on a rescue package valued at nearly dollar <NUM> trillion and the federal reserve said it would offer loans overseas as needed <PUNC>
+scaling back a bit from its roughly 450-point rise <COMMA> the dow jones industrial average dji was lately up about <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but one of its <NUM> components on the rise <PUNC>
+leading among the blue-chip gainers was boeing co. ba <COMMA> shares of which traded up <NUM> percent <COMMA> after goldman sachs hiked the commercial-aircraft manufacturer to a rating of conviction buy from neutral previously <PUNC>
+the sole laggard among the dow s <NUM> <COMMA> giant retailer wal-mart stores inc. wmt shares were off <NUM> percent <PUNC>
+stocks volatiling left the dow with a <NUM> percent decline <PUNC>
+the selloff reached its most manic on thursday <COMMA> when the dow fell nearly <NUM> points before recovering more than half of the loss before the final bell <PUNC>
+<PAR>

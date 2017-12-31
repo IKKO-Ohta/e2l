@@ -1,0 +1,2 @@
+the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with pfizer inc. pfe and american express company axp leading the losses <PUNC>
+<PAR>

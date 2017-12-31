@@ -1,0 +1,8 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+on the week <COMMA> the benchmark index was up <NUM> percent <PUNC>
+in friday s trading action <COMMA> the market managed to shrug off a weak profit outlook from pfizer inc. pfe and a bigger-than-expected trade deficit for december <PUNC>
+on the week <COMMA> however <COMMA> best buy co bby <COMMA> aetna inc. aet and marriott international inc. mar joined cisco and pepsi in offering up strong quarterly results and upbeat profit forecasts <PUNC>
+the increase in volatility is revealing that neither the bulls nor the bears have a lot of conviction <COMMA> and that we have a tight trading range <COMMA> said ritholtz <PUNC>
+the longer we are stuck in this <NUM> to <NUM> range on the dow <COMMA> the bigger the break-out will be in either direction <PUNC>
+shares of pfizer inc. pfe were down <NUM> percent at dollar <NUM> after the pharmaceutical giant said it expects <NUM> adjusted earnings of about dollar <NUM> a share <COMMA> slightly shy of analysts estimates <PUNC>
+<PAR>

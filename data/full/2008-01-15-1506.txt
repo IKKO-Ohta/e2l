@@ -1,0 +1,5 @@
+the dow industrial average dji fell <NUM> points to <NUM> <PUNC>
+financials paved the way as <NUM> of its <NUM> components traded lower <PUNC>
+citigroup c shares fell <NUM> percent <PUNC> j.p. morgan chase jpm shares declined <NUM> percent and american express co. axp dropped <NUM> percent <PUNC>
+on monday <COMMA> u.s. stocks rallied <COMMA> with the dow chalking up its largest gain yet this year <COMMA> as an oversold market cheered solid results from international business machines corp. ibm <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> stocks advanced <COMMA> led by alcoa inc. aa <COMMA> exxon mobil corp. xom <COMMA> at&t inc. t <COMMA> general electric co. ge and dupont dd <PUNC>
+stocks finished mixed and little changed thursday <COMMA> after the federal reserve held interest rates at <NUM> percent for the eighth straight time and said it wasn t persuaded that inflation s entirely under control <PUNC>
+the dow industrials fell <NUM> points and the s&p <NUM> declined <NUM> of a point <COMMA> while the nasdaq composite rose <NUM> points <PUNC>
+<PAR>

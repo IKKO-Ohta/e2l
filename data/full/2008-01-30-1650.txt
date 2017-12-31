@@ -1,0 +1,4 @@
+the dow jones industrial average dji dropped <NUM> points to <NUM> <COMMA> or <NUM> percent <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
+merck & co. mrk was down the most <COMMA> <NUM> percent <COMMA> after the pharmaceutical company reported fourth-quarter losses of dollar <NUM> billion <COMMA> pegged in part to its vioxx lawsuit settlement and restructuring charges <PUNC>
+another blue chip <COMMA> boeing co. <COMMA> ba saw its shares edge higher <COMMA> recently by <NUM> percent <COMMA> after it reported fourth-quarter earnings climbed <NUM> percent <PUNC>
+<PAR>

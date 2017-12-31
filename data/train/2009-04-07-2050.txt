@@ -1,0 +1,4 @@
+tuesday s trade had stocks down for a second consecutive session <COMMA> with financials and consumer discretionary shares fronting the losses <COMMA> as investors braced for what was expected to be an ugly first-quarter reporting season <COMMA> which kicks off after the close with results from dow component alcoa inc. aa <PUNC>
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
+the technology-laden nasdaq composite rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

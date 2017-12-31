@@ -1,0 +1,9 @@
+the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> on thursday <COMMA> the final day of the third quarter <PUNC>
+the dow has climbed nearly <NUM> percent this quarter <COMMA> buoyed by the strongest september rally since <NUM> <PUNC>
+this month alone <COMMA> the measure has surged <NUM> percent with monthly gains in all of its <NUM> components <COMMA> while the standard & poor s 500-share index spx has jumped <NUM> percent as fears over a double-dip recession eased <PUNC>
+september s surge brought the benchmark indexes into the black for the year <PUNC>
+the dow is now up <NUM> percent year-to-date <PUNC>
+of the previous <NUM> years when the measure was up after three quarters <COMMA> it continued to rise <NUM> percent of the time and ended the year in the black <NUM> percent of those years <PUNC>
+on thursday all but one of the dow s components climbed <PUNC>
+only caterpillar cat edged down <NUM> percent <COMMA> though the company has been the measure s strongest performer in the third quarter <COMMA> climbing <NUM> percent <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+new york dow jones a drop in weekly jobless claims and optimistic comments about the economy from cisco s chief executive helped push the dow jones industrial average back near <NUM> thursday morning <PUNC>
+the dow was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all <NUM> of its components trading in the green <PUNC>
+after pushing above <NUM> for the first time in a year in mid-october <COMMA> the index faced some selling pressure to close out the month <PUNC>
+as the calendar has turned to november <COMMA> however <COMMA> some of the buying has returned <COMMA> and the dow was up in two of the last three sessions coming into thursday <PUNC>
+<PAR>

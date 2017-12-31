@@ -1,0 +1,4 @@
+the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
+auto makers also will be in focus after toyota motor corp tm after the auto maker said it plans to make <NUM> million vehicles next year <PUNC>
+that level would allow toyota to overtake general motors corp. gm as the world s top car maker <PUNC>
+<PAR>

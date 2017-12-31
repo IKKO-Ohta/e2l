@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <PUNC>
+walt disney co. dis was its best performer <COMMA> up <NUM> percent <PUNC>
+intel corp. intc and coca-cola co. ko were also strong <COMMA> up <NUM> percent each <PUNC>
+<PAR>

@@ -1,0 +1,9 @@
+u.s. stocks rallied monday <COMMA> with the dow jones industrial average enjoying triple digit gains <COMMA> as a diplomatic push in the middle east <COMMA> a flurry of merger-and- acquisition activity and strong results from merck and schering-plough boosted sentiment <PUNC>
+the dow industrials dji were just off their highs for the session <COMMA> up <NUM> points at <NUM> <PUNC>
+of <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+general motors corp. gm <COMMA> texas instruments inc. txn <COMMA> 3m co. mmm <COMMA> exxon mobil corp. xom and boeing co. ba are some of the companies slated to report this week <PUNC>
+shares in merck & co. mrk rose to their best level in nearly two years after the drug giant and dow component lifted its <NUM> earnings forecast on the back of greatly improved second-quarter results <PUNC>
+the stock was last up <NUM> percent at <NUM> <PUNC>
+it reached a session-high of dollar <NUM> <COMMA> its best level since may <NUM> <PUNC>
+the strong results also boosted shares of pfizer inc. pfe <COMMA> which rallied to a more than two-month high to dollar <NUM> <PUNC>
+<PAR>

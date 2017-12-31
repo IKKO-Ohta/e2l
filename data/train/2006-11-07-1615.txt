@@ -1,0 +1,4 @@
+u.s. stocks rallied for a second session tuesday <COMMA> with the dow jones industrial average at a fresh all-time high <COMMA> as optimism over earnings and the economy trumped concern about the outcome of mid-term congressional elections <PUNC>
+the dow industrials dji rose as much as <NUM> points to <NUM> <COMMA> beating its previous record high of <NUM> <PUNC>
+the benchmark index was last up <NUM> points at <NUM> <COMMA> buoyed by gains for boeing co. ba <COMMA> intel corp. intc <COMMA> alcoa inc. aa and pfizer inc. pfe <PUNC>
+<PAR>

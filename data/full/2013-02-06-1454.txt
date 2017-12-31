@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with only seven of its <NUM> components trading in positive territory <PUNC>
+international business machines corp. ibm and american express co. axp were among the top decliners in the dow <PUNC>
+hewlett-packard co. hpq was among the few gainers on the dow <COMMA> with its shares up <NUM> percent after quartz reported on tuesday that h-p s board is studying a break-up of the technology company <PUNC>
+<PAR>

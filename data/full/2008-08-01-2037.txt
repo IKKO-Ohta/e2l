@@ -1,0 +1,4 @@
+the dow jones industrial average fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components retreating <PUNC>
+among blue chips <COMMA> shares of general motors corp. slumped <NUM> percent after the auto maker posted a dollar <NUM> billion loss <PUNC>
+for the week <COMMA> which saw the dow plunge on monday then soar tuesday and wednesday and fall again thursday <COMMA> the dow lost just <NUM> percent <PUNC>
+<PAR>

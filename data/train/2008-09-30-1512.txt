@@ -1,0 +1,5 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> with blue-chip financials fronting the advance <PUNC>
+citigroup inc. c gained <NUM> percent <COMMA> j.p. morgan chase jpm gained <NUM> percent <COMMA> and bank of america corp. bac climbed <NUM> percent <PUNC>
+of the dow s laggards <COMMA> international business machines corp. ibm fell the most <COMMA> off <NUM> percent <COMMA> while home depot inc. hd edging fractionally higher <PUNC>
+u.s. stocks plunged monday the single-worst point drop ever for the dow jones industrial average after the house voted down the troubled assets relief package <PUNC>
+<PAR>

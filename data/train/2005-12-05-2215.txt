@@ -1,0 +1,8 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+within the dow industrials <COMMA> general motors corp. gm eked out a <NUM> cent gain to end at dollar <NUM> after its financial services subsidiary <COMMA> general motors acceptance corp. <COMMA> said monday afternoon it has agreed to sell up to dollar <NUM> billion in u.s. car loans to the bank of nova scotia s bns scotia capital over five years <PUNC>
+elsewhere on the dow <COMMA> wal-mart stores inc. wmt traded lower for the seventh session in a row as investors remained nervous about the holiday shopping season following mixed reports on sales over the thanksgiving holiday <PUNC>
+the stock ended down <NUM> percent at dollar <NUM> <PUNC>
+shares in boston scientific corp. bsx ended down <NUM> cents at dollar <NUM> after the medical-equipment maker came in with a late bid to acquire guidant corp. gdt <COMMA> in an attempt to swoop in and grab the company from johnson & johnson <PUNC>
+jnj <PUNC>
+verizon communications vz fell <NUM> cents to dollar <NUM> after the telecom operator said it will sell or spin off its directories unit valued at more than dollar <NUM> billion <PUNC>
+<PAR>

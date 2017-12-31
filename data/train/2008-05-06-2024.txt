@@ -1,0 +1,5 @@
+after triple-digit losses early on <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with <NUM> of its <NUM> components closing in the green <COMMA> led by alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
+general motors corp. gm fronted blue-chip declines <COMMA> with shares of the automaker dropping <NUM> percent <PUNC>
+tech stocks were bolstered as hopes were revived that yahoo yhoo might attempt to revive talks with would-be suitor microsoft msft <COMMA> which ended discussions during the weekend <PUNC>
+after the close <COMMA> walt disney co. dis and cisco systems inc. csco are slated to report quarterly figures <PUNC>
+<PAR>

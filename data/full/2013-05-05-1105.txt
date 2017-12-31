@@ -1,0 +1,9 @@
+the dow jones industrial average dji ended the week up <NUM> percent at <NUM> <COMMA> climbing above the <NUM> level for the first time on friday <PUNC>
+the s&p <NUM> spx closed up <NUM> percent for the week at <NUM> <COMMA> its first-ever finish above the <NUM> threshold <PUNC>
+marketwatch surveyed the <NUM> companies that make up the dow <PUNC>
+looking ahead to what s left to digest of corporate earnings <COMMA> disney dis <COMMA> whole foods market wfm and priceline pcln will be among the headliners this coming week <COMMA> offering fresh insight into consumer spending <PUNC>
+disney is one of the stocks lifting the dow this year <COMMA> notching a <NUM> percent gain that ranks it as no <PUNC>
+<NUM> percentage gainer among the index s <NUM> components <PUNC>
+shares closed friday at dollar <NUM> <COMMA> near the 12-month target price of analysts polled by factset <PUNC>
+april sales reports will come from mcdonald s corp. mcd <COMMA> costco wholesale corp. cost <COMMA> gap inc. gps and ross stores inc. rost <PUNC>
+<PAR>

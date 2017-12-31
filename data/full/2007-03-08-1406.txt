@@ -1,0 +1,7 @@
+the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
+february same-store sales results from top retailers will be in view <PUNC>
+dow component wal-mart stores wmt stock was trending lower in premarket electronic trade <PUNC>
+the company s february same-store sales rose <NUM> percent <COMMA> falling beneath the <NUM> percent gain projected by thomson financial <PUNC>
+mcdonald s corp. mcd was nearly <NUM> percent higher at dollar <NUM> <PUNC>
+the fast food giant reported a <NUM> percent gain in global comparable store sales <COMMA> amid strong demand for breakfast and late-night menu <PUNC>
+<PAR>

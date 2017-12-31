@@ -1,0 +1,5 @@
+the dow jones industrial average dji was recently off <NUM> points at <NUM> <PUNC>
+the s&p <NUM> spx declined <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf shed its declines to turn higher <COMMA> up <NUM> points at <NUM> <PUNC>
+in january <COMMA> the dow lost <NUM> points <COMMA> or <NUM> percent <COMMA> marking the blue-chip index s worst january performance in both point and percentage terms in its 113-year history <PUNC>
+the second worst january came in <NUM> when the dow fell <NUM> percent <COMMA> and then went on to a full-year decline of <NUM> percent <PUNC>
+<PAR>

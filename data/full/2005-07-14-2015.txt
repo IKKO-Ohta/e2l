@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> a four-month high for the benchmark index <PUNC>
+within the dow <COMMA> general motors corp. gm rose <NUM> percent to dollar <NUM> after lehman raised its recommendation on the company as a part of a broader upgrade of the auto and auto-parts sector <PUNC>
+on the downside <COMMA> exxon mobil corp xom fell <NUM> percent as the price of oil tumbled more than <NUM> percent to under dollar <NUM> a barrel <PUNC>
+shares of general motors corp. gm rose after lehman <PUNC>
+upgraded the company to equal weight from underweight <PUNC>
+<PAR>

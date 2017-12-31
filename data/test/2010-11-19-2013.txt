@@ -1,0 +1,4 @@
+bobbing between small losses and gains <COMMA> the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
+the measure had fallen more sharply early friday as investors worried about the impact of more tightening in china <COMMA> though many in the market had already braced for further curbs earlier in the week <PUNC>
+the dow has edged down <NUM> percent this week <PUNC>
+<PAR>

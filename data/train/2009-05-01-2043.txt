@@ -1,0 +1,4 @@
+on friday <COMMA> energy shares led gainers as the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving the blue chips a weekly gain of <NUM> percent <PUNC>
+the s&p <NUM> spx climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> which would translate into a <NUM> percent gain from last friday s close <PUNC>
+the technology-laden nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving it a <NUM> percent weekly advance <PUNC>
+<PAR>

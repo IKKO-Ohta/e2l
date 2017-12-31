@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <PUNC>
+intel was the measure s worst performer <COMMA> down <NUM> percent <PUNC>
+bank of america was also weak <COMMA> falling <NUM> percent <PUNC>
+market watchers expected major financial companies to suffer in wake of the fed s announcement <COMMA> as the central bank slowly starts to make borrowing more expensive <PUNC>
+checking some of the dow s declines <COMMA> dupont dft climbed <NUM> percent <PUNC>
+<PAR>

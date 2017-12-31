@@ -1,0 +1,4 @@
+the dow jones industrial average dji recently moved between gains and losses <COMMA> trading up by <NUM> points at <NUM> <PUNC>
+the nasdaq composite rixf slipped <NUM> percent <PUNC>
+the s&p <NUM> spx was off <NUM> percent <COMMA> led by declines of more than <NUM> percent each in its energy and utilities sectors <PUNC>
+<PAR>

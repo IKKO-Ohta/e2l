@@ -1,0 +1,3 @@
+halting its four-day winning streak <COMMA> the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components losing ground <PUNC>
+boeing co. ba was the session s greatest laggard among the blue chips <COMMA> falling <NUM> percent after the aerospace giant reported results that beat profit expectations but missed on revenue <PUNC>
+<PAR>

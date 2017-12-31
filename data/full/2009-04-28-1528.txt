@@ -1,0 +1,5 @@
+at monday s close <COMMA> the dow jones industrial average was up nearly <NUM> percent for the nearly-ended month <COMMA> leaving the blue-chip index down almost <NUM> percent year-to-date <COMMA> according to a preliminary report released on tuesday by dow jones indexes <PUNC>
+the dow jones u.s. financials index gained the most in april <COMMA> up <NUM> percent <COMMA> while its u.s. health care index posted the largest loss <COMMA> off almost <NUM> percent <PUNC>
+on tuesday <COMMA> health care shares fronted an advance that had the dow jones industrial average dji up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> index spx climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the technology-laden nasdaq composite rixf advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <PUNC>
+<PAR>

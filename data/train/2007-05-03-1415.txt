@@ -1,0 +1,7 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+among dow components <COMMA> gm gm fell <NUM> percent <PUNC>
+and ibm ibm <COMMA> also in the dow <COMMA> gained <NUM> percent after saying it has used a nanotechnology process to make computer chips for the first time in a production setting <COMMA> advancing the race to boost the power and energy efficiency of semiconductors <PUNC>
+on wednesday stocks rallied <COMMA> lifting the dow jones industrial average to a record <COMMA> thanks to deal speculation in the media sector <COMMA> stronger-than-expected factory data <COMMA> and time warner inc. s earnings report <PUNC>
+in addition <COMMA> a fire forced the partial closure of an exxon mobil xom refinery with a capacity of <NUM> barrels a day <PUNC>
+the june crude contract last was down <NUM> cents at dollar <NUM> a barrel <PUNC>
+<PAR>

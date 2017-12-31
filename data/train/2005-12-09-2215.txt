@@ -1,0 +1,13 @@
+the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> after earlier gaining as much as <NUM> points <PUNC>
+all the indexes were lower for the week <COMMA> with the dow dropping <NUM> percent <COMMA> the s&p <NUM> losing <NUM> percent <COMMA> and the nasdaq off <NUM> percent <PUNC>
+stocks also got some help from the university of michigan s preliminary consumer sentiment survey for december <COMMA> which rose to <NUM> points from <NUM> in november <PUNC>
+the result surpassed the dow jones forecast of <NUM> <PUNC>
+dow component intel intc shares shook off morning losses to close up <NUM> percent at dollar <NUM> <PUNC>
+late thursday <COMMA> the world s largest maker of computer chips narrowed its sales forecast for the fourth quarter <COMMA> but left the midpoint unchanged <PUNC>
+investors had hoped for a higher top and middle range points <PUNC>
+shares of merck mrk <COMMA> also in the dow <COMMA> dropped <NUM> percent to dollar <NUM> <PUNC>
+the new england journal of medicine is accusing the authors of a merck-sponsored study on the safety of painkiller vioxx of omitting certain negative data about the drug when they published an article in <NUM> <PUNC>
+another dow component <COMMA> international business machines ibm lost <NUM> cents to finish at dollar <NUM> after ubs downgraded the stock to neutral <PUNC>
+general electric ge closed <NUM> cents higher at dollar <NUM> after increasing its <NUM> share buyback authorization to dollar <NUM> billion from dollar <NUM> billion <PUNC>
+the company previously said it will repurchase dollar <NUM> billion of its stock by <NUM> <PUNC>
+<PAR>

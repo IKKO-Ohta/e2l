@@ -1,0 +1,6 @@
+u.s. stocks wobbled higher wednesday <COMMA> with the dow back above the <NUM> level <COMMA> after the federal reserve s delayed move to funnel additional cash into the banking system appeased <COMMA> at least for now <COMMA> the credit-frayed nerves of investors <PUNC>
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> off an earlier low of <NUM> <COMMA> of the dow s <NUM> components <COMMA> <NUM> were in positive turf <COMMA> led by the likes of microsoft corp. msft <COMMA> which climbed <NUM> percent <COMMA> and home depot hd <COMMA> which gained <NUM> percent <PUNC>
+financials held to slight gains after an earlier advance <COMMA> with american express co. axp advancing <NUM> percent <COMMA> and citicorp c and j.p. morgan jpm each ahead <NUM> percent <PUNC>
+the dow shifted gears along amid contrarian words from the new york fed over its repurchases <COMMA> with the fed in the end saying it would take dollar <NUM> billion in a repo <COMMA> where it buys securities from dealers <COMMA> who then put the funds into commercial banks <PUNC>
+stocks slid on tuesday <COMMA> with the dow falling more than <NUM> points <COMMA> amid further signs that trouble in the subprime mortgage market is prompting a tightening of credit <PUNC>
+<PAR>

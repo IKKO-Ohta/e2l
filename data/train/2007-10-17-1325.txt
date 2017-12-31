@@ -1,0 +1,3 @@
+futures for the dow jones industrial average dji climbed <NUM> points to <NUM> <PUNC>
+chipmaker intel intc reported a <NUM> percent profit rise <COMMA> united technologies utx said its third-quarter income climbed <NUM> percent <COMMA> and j.p morgan jpm reported net income climbed <NUM> percent <PUNC>
+<PAR>

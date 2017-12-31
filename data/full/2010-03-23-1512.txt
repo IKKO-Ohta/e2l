@@ -1,0 +1,2 @@
+after closing monday at its highest level since oct. <NUM> <COMMA> <NUM> <COMMA> the dow jones industrial average dji fell from tuesday s highs <COMMA> recently up just <NUM> points but with <NUM> of its <NUM> components advancing <PUNC>
+<PAR>

@@ -1,0 +1,15 @@
+the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in afternoon trading <COMMA> with all of its components in the black <PUNC>
+the strong start to the month adds to a july that saw the dow climb <NUM> percent <COMMA> its biggest monthly gain since july <NUM> <PUNC>
+companies with significant global exposure led the dow s climb as confidence mounted in the overseas economic recovery <PUNC>
+alcoa aa jumped <NUM> percent <COMMA> while dupont dd gained <NUM> percent <PUNC>
+technology components climbed <PUNC>
+hewlett-packard hpq gained <NUM> percent <COMMA> cisco systems csco rose <NUM> percent and intel climbed <NUM> percent <PUNC>
+financials also strengthened <COMMA> boosted by upbeat earnings from hsbc holdings hbc and bnp paribas bnpqy <PUNC>
+bank of america bac advanced <NUM> percent and j.p. morgan chase jpm rose <NUM> percent <PUNC>
+<PAR>
+<PAR>
+energy stocks jumped as crude-oil prices climbed above dollar <NUM> a barrel and investors embraced riskier assets <PUNC>
+exxon mobil xom rose <NUM> percent and chevron cvx gained <NUM> percent <PUNC>
+anadarko petroleum apc jumped <NUM> percent after western gas partners wes agreed to acquire anadarko s natural-gas assets in northeastern colorado in a deal valued at dollar <NUM> million <PUNC>
+meanwhile <COMMA> sprint nextel shares us-s climbed <NUM> percent <COMMA> at&t t gained <NUM> percent and verizon vz advanced <NUM> percent <PUNC>
+<PAR>

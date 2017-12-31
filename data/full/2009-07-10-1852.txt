@@ -1,0 +1,8 @@
+on monday <COMMA> semiconductor manufacturer novellus systems inc. nvls is scheduled to report its results <COMMA> while chip giant intel corp. intc is slated to report second-quarter results on tuesday <PUNC>
+intel <COMMA> the world s no <PUNC>
+<NUM> maker of computer microprocessors <COMMA> is expected to report a sharp drop in sales and earnings <PUNC>
+conversely <COMMA> the dow industrials are off more than <NUM> percent for the year so far <COMMA> while the s&p <NUM> is down nearly <NUM> percent for the same period <PUNC>
+citrix systems inc. ctxs <COMMA> hewlett-packard co. hpq <COMMA> motorola inc. mot <COMMA> mcafee inc. mfe <COMMA> palm inc. palm and teradata corp. tdc also will be on rader s list of short candidates if they moved up another <NUM> percent to <NUM> percent <COMMA> he said <PUNC>
+at 2:30 p.m. <COMMA> the dow jones industrial average dji stood at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <COMMA> positioning it for a weekly fall of <NUM> percent <PUNC>
+the s&p <NUM> index spx shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> readying it for a slide of <NUM> percent <COMMA> and the nasdaq rixf declined <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> off <NUM> percent for not-yet-ended week <PUNC>
+<PAR>

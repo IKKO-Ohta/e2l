@@ -1,0 +1,15 @@
+the dow jones industrial average ended wednesday with a triple-digit gain <COMMA> and the nasdaq composite snapped an eight-session losing streak <COMMA> as the market weathered a federal reserve report and consumer-price data pointing to a pickup in inflation <PUNC>
+a broker upgrade for the semiconductor sector and its key player <COMMA> intel corp. and a rally in shares of boeing co. gave the dow industrials a further boost <PUNC>
+the dow dji rose <NUM> points to <NUM> <COMMA> the first time the benchmark index has posted a gain of more than <NUM> points since may <NUM> <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+we re still getting the flight to quality that we ve been seeing the last couple of weeks <COMMA> said paul mendelsohn <COMMA> chief investment strategist at windham financial services <COMMA> explaining the outperformance of the dow versus the other major indexes <PUNC>
+investors are still moving to large-cap <COMMA> highly liquid stocks to protect their positions <PUNC>
+it is not a good sign for the confidence that investors have in the market right now <PUNC>
+u.s. stocks have been selling off since may <NUM> when the federal reserve last raised interest rates and left the door open for further increases <PUNC>
+before wednesday s rebound <COMMA> the dow had fallen <NUM> percent <PUNC> the nasdaq composite had dropped <NUM> percent <COMMA> while the s&p <NUM> was off <NUM> percent <PUNC>
+a retreat of more than <NUM> percent is widely viewed as a correction <PUNC>
+covello also upgraded dow component intel intc to outperform from in line <COMMA> and recommended buying the stock after an imminent earnings disappointment given that margins have likely bottomed <COMMA> market share is expected to gain and valuation is attractive <PUNC>
+the stock rallied <NUM> percent <PUNC>
+boeing co. shares ba surged <NUM> percent to dollar <NUM> after goldman upgraded the company to in line from underperform <COMMA> citing an increased outlook for aircraft deliveries <PUNC>
+the broker also lifted its earnings estimates on the aerospace giant <PUNC>
+<PAR>

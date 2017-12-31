@@ -1,0 +1,2 @@
+down more than <NUM> points earlier on <COMMA> the dow jones industrial average dji was up <NUM> points in late morning trade to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
+<PAR>

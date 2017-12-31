@@ -1,0 +1,5 @@
+off earlier lows that had the dow jones industrial average dji down more than <NUM> points <COMMA> the blue-chip index was off <NUM> points to <NUM> <PUNC>
+all but four of the dow s <NUM> components posted declines <COMMA> led by american express co. axp <COMMA> off <NUM> percent <PUNC>
+the federal deposit insurance corp. earlier said citigroup inc. c would buy the banking operations of struggling wachovia corp. wb <PUNC>
+another banking giant <COMMA> washington mutual inc. wm <COMMA> recently succumbed to the credit turmoil <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
+on the week <COMMA> the benchmark index fell <NUM> percent <PUNC>
+hewlett-packard co hpq was up <NUM> percent at dollar <NUM> <PUNC>
+the company said chairwoman patricia dunn <COMMA> under fire for her role in an investigation that obtained the phone records of h-p board members and journalists without their knowledge <COMMA> has no plans to resign but will do so if asked to by the board <PUNC>
+<PAR>

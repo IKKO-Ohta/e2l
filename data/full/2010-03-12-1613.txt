@@ -1,0 +1,6 @@
+the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+pfizer inc. pfe was the dow s worst performer <COMMA> down <NUM> percent <COMMA> after the drug manufacturer said it ended a late-stage trial for its experimental lung-cancer drug <PUNC>
+in addition <COMMA> pfizer said two late-stage studies of its advanced breast cancer drug failed to meet their primary endpoints <PUNC>
+keeping the declines in check <COMMA> american express co. axp climbed <NUM> percent while caterpillar inc. cat gained <NUM> percent <PUNC>
+home depot inc. hd and mcdonald s corp. mcd also rose <COMMA> climbing <NUM> percent and <NUM> percent <COMMA> respectively <COMMA> as they were lifted by the retail sales report <PUNC>
+<PAR>

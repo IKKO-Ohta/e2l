@@ -1,0 +1,5 @@
+u.s. stocks closed sharply lower wednesday <COMMA> with the dow jones industrial average suffering a nearly 150-point loss <COMMA> after rising bond yields dented enthusiasm over falling oil prices <COMMA> blow-out earnings from morgan stanley <COMMA> and a dollar <NUM> billion share buy-back from home depot inc <PUNC>
+the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components retreated <COMMA> led by the likes of jp morgan chase & co. jpm <COMMA> mcdonald s corp. mcd <COMMA> merck & co. mrk <COMMA> and pfizer inc. pfe <PUNC>
+exxon mobil corp. xom fell the hardest <COMMA> losing <NUM> percent as crude oil fell <PUNC>
+leading the gains among blue chips <COMMA> shares of home depot hd surged <NUM> percent after the home-improvement announced it would buy back up to dollar <NUM> billion of its own shares <PUNC>
+<PAR>

@@ -1,0 +1,10 @@
+u.s. stocks closed mostly higher on tuesday <COMMA> though disappointing earnings results from verizon communications inc and the travelers cos. inc. weighed on the dow <PUNC>
+the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> breaking a two-day losing streak <PUNC>
+the dow jones industrial average dji ended <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <COMMA> dragged down by losses in verizon and travelers <PUNC>
+dragging on the dow <COMMA> verizon communication inc. vz shares fell <NUM> percent <PUNC>
+the firm said it swung to a profit amid a growth in subscribers <COMMA> particularly in its wireless and fios divisions <PUNC>
+however <COMMA> investors were concerned with tougher competition <PUNC>
+shares in johnson & johnson jnj slid <NUM> percent <COMMA> also hitting the dow <COMMA> after the company reported fourth-quarter results <PUNC>
+while the quarterly earnings per share were above analyst expectations <COMMA> the full-year outlook disappointed investors <PUNC>
+shares in the travelers companies inc. trv fell <NUM> percent in spite of beating earnings estimates <PUNC>
+<PAR>

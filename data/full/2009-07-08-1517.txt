@@ -1,0 +1,4 @@
+on wednesday <COMMA> stock investors were anything but clear <COMMA> with wall street losing the bulk of early gains as the energy sector fell into negative territory <PUNC>
+at <NUM> a.m. eastern <COMMA> the dow jones industrial average dji remained <NUM> points higher at <NUM> <PUNC>
+the s&p <NUM> spx was off <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf fell <NUM> points to <NUM> <PUNC>
+<PAR>

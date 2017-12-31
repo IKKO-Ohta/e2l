@@ -1,0 +1,5 @@
+the dow jones industrial average dji was recently ahead <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <PUNC>
+shares of bear stearns bsc soared <COMMA> recently up nearly <NUM> percent <COMMA> after blue chip j.p. morgan jpm quintupled its offer to dollar <NUM> a share from an initial dollar <NUM> <COMMA> with the sweetened bid valuing the 85-year-old firm at more than dollar <NUM> billion <PUNC>
+<PAR>
+the surge helped lift others in the financial sector <COMMA> with shares of citigroup inc. c leading gains among the blue chips <COMMA> up <NUM> percent <PUNC>
+<PAR>

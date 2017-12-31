@@ -1,0 +1,7 @@
+u.s. stocks rallied to a sharply higher close monday <COMMA> allowing the dow jones industrial average to break a six-session losing streak <COMMA> after an upbeat fed official s remarks and a dollar <NUM> billion takeover offer for four season hotels inc. lent cheer to the market <PUNC>
+the dow industrials dji rose <NUM> points to <NUM> <COMMA> with mcdonald s corp. mcd <COMMA> united technologies corp. utx <COMMA> american express axp and general motors corp gm all posting strong advancers <PUNC>
+of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
+the dow has ended lower for the last six sessions and closed under <NUM> for the first time in over two weeks on friday <PUNC>
+shares of home depot inc. hd threw off early losses to close up <NUM> cents at dollar <NUM> while lowe s cos. low was down <NUM> percent at dollar <NUM> after ubs downgraded the home improvement chains to reduce from neutral <PUNC>
+the broker said it is increasingly concerned that the weakness in the u.s. housing market will weigh significantly on their third-quarter results <PUNC>
+<PAR>

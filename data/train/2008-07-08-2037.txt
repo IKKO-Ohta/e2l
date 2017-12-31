@@ -1,0 +1,5 @@
+the dow jones industrial average dji tossed its losses aside within the first <NUM> minutes of trading and then struggled to retain its gains in volatile action much of the day <PUNC>
+but as the final hour of trade approached <COMMA> the dow picked up steam and rallied into the close <COMMA> finishing at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
+of the blue-chip index s <NUM> components <COMMA> <NUM> posted gains <COMMA> with the financials fronting the advance <COMMA> led by bank of america corp. bac <COMMA> up <NUM> percent <COMMA> and citigroup inc. c <COMMA> up <NUM> percent <PUNC>
+the dow s biggest loser was alcoa inc. aa <COMMA> off <NUM> percent <COMMA> with the aluminum producer due to report on its second quarter after the close <COMMA> in an unofficial kick off of the earnings season <PUNC>
+<PAR>

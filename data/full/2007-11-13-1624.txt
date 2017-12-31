@@ -1,0 +1,8 @@
+up more than <NUM> points earlier <COMMA> the dow jones industrial average dji was more recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by wal-mart <COMMA> recently up <NUM> percent <PUNC>
+drug stocks also moved higher <COMMA> as nektar therapeutics nktr jumped <COMMA> recently up <NUM> percent <COMMA> following news pfizer inc. pfe would pay nektar dollar <NUM> million for discontinuing sales of their jointly developed insulin product exubera <COMMA> which has posted anemic sales <PUNC>
+shares of exxon mobil corp. xom fell <NUM> percent <COMMA> coinciding with a larger <COMMA> <NUM> percent drop in the price of crude-oil futures <COMMA> recently down dollar <NUM> to dollar <NUM> <PUNC>
+<PAR>
+home depot inc. hd reported third-quarter income dropped an expected <NUM> percent amid ongoing weakness in the housing market <PUNC>
+the nation s biggest home improvement retailer also cut its forecast for the year <PUNC>
+stocks were due for a reversal after a volatile session monday <COMMA> which had the dow moving up more than <NUM> points before closing below the <NUM> level for the first time since the middle of august <PUNC>
+<PAR>

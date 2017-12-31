@@ -1,0 +1,7 @@
+the dow dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
+honeywell international inc. hon was weighing on blue-chips <COMMA> losing <NUM> percent after its <NUM> outlook disappointed investors <PUNC>
+general motors corp. gm slumped <NUM> percent after saying it will delay its fourth-quarter and year-end earnings report <COMMA> and again restate several years of financial results <PUNC>
+among the few dow gainers <COMMA> caterpillar cat shares gained <NUM> percent after its revenue topped expectations <PUNC>
+and microsoft msft rose <NUM> percent after the company late thursday said its quarterly sales rose a better-than-forecast <NUM> percent amid strong demand for its xbox <NUM> video game player <PUNC>
+energy stocks were on the rise <COMMA> including exxon mobil corp. xom <COMMA> as crude-oil futures edged higher with temperatures in the northeastern u.s. falling below freezing.a barrel last traded up <NUM> cents at dollar <NUM> <PUNC>
+<PAR>

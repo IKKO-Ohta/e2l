@@ -1,0 +1,3 @@
+snapping a four-session winning run <COMMA> its longest in more than two months <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or less than <NUM> percent <COMMA> to end at <NUM> <PUNC>
+hewlett-packard co. hpq paced blue-chip gains that included <NUM> of the dow s <NUM> components after citigroup upgraded the pc maker <PUNC>
+<PAR>

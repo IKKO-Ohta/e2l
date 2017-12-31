@@ -1,0 +1,6 @@
+the dow jones industrial average failed to close out <NUM> above <NUM> after topping that big round number for the first time last week <PUNC>
+even so <COMMA> it recorded its sixth straight year of gains <COMMA> dating back to the end of the 2008-2009 bear market <PUNC>
+the dow jones industrial average dji dropped by <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the blue-chip gauge <COMMA> up <NUM> percent for the year <COMMA> clambered above <NUM> at the open and was up by as much as <NUM> points for the day before tumbling into the red <PUNC>
+wednesday s loss <COMMA> the biggest since dec. <NUM> <COMMA> nudged it into a loss for december as well <COMMA> its first monthly loss in three <PUNC>
+<PAR>

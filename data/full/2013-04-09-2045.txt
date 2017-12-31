@@ -1,0 +1,5 @@
+u.s. stock indexes rose on tuesday <COMMA> lifting the dow jones industrial average to a record high <COMMA> as wall street embraced the start of first-quarter earnings <PUNC>
+after climbing <NUM> points to an all-time intraday high of <NUM> <COMMA> the dow jones industrial average dji finished at a record closing high of <NUM> <COMMA> up <NUM> points <PUNC>
+microsoft corp. msft and intel corp. intc paced gains that included <NUM> of the blue-chip index s <NUM> members <PUNC>
+alcoa inc. aa shares finished flat after the aluminum producer reported results that marked the unofficial start of the earnings season <PUNC>
+read more about how alcoa earnings could boost the market <PUNC> <PUNC>

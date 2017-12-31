@@ -1,0 +1,2 @@
+after thursday s finish had it tallying its largest first-quarter percentage gain in <NUM> years <COMMA> the dow jones industrial average dji on friday rose <NUM> points to <NUM> <PUNC>
+<PAR>

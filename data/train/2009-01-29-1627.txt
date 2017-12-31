@@ -1,0 +1,4 @@
+the data <COMMA> along with disappointing corporate results <COMMA> hit equities on thursday <COMMA> with the dow jones industrial average dji down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+after a four-session streak of gains <COMMA> the s&p <NUM> spx was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+the nasdaq composite rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+<PAR>

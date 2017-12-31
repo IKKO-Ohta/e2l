@@ -1,0 +1,6 @@
+the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
+financial stocks powered the advance in the broad market and on the dow <COMMA> with gains led by citigroup inc. c <COMMA> jp morgan chase jpm and bank of america bac <PUNC>
+bear stearns bsc <COMMA> which is being bought by j.p. morgan <COMMA> said its quarterly profit fell <NUM> percent <PUNC>
+chevron corp. cvx and exxon mobil corp. xom also gained ground <COMMA> along with broad gains in the energy sector <PUNC>
+also on the dow <COMMA> johnson & johnson jnj rose <NUM> percent after posting upbeat earnings <COMMA> while intel corp. intc fell <NUM> percent to dollar <NUM> <COMMA> ahead of its earnings after the close <PUNC>
+<PAR>

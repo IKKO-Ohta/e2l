@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent at <NUM> <COMMA> putting in its best one-day gain in more than two months <PUNC>
+meanwhile <COMMA> general electric co. ge and caisse de depot et placement du quebec are nearing a deal to buy the biggest natural-gas pipeline system in the central u.s. for dollar <NUM> million <COMMA> the wall street journal reported monday <PUNC>
+merrill lynch cut its second-quarter earnings estimate for citigroup inc. c <COMMA> citing higher funding rates and loan loss provisions in its cards operations <PUNC>
+lower debt/equity underwriting and lower commissions in capital markets and banking also contributed to the estimate cut <COMMA> the broker said <PUNC>
+citigroup shares closed out friday s session up <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

@@ -1,0 +1,4 @@
+the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> leaving it with a <NUM> percent weekly gain <PUNC>
+and <COMMA> one day after closing at a 17-month high <COMMA> the s&p <NUM> index spx fell fractionally to finish at <NUM> <COMMA> leaving it up <NUM> percent for the week <PUNC>
+the nasdaq composite index rixf declined nearly <NUM> point to end at <NUM> <COMMA> up <NUM> percent from the week ago close <PUNC>
+<PAR>

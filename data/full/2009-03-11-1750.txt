@@ -1,0 +1,5 @@
+after its biggest jump since late november <COMMA> equities flirted with negative turf during the session <COMMA> but at last check posted mild gains <PUNC>
+the dow jones industrial average was up <NUM> points at <NUM> <COMMA> off an intraday high of <NUM> hit early on <PUNC>
+the s&p <NUM> index climbed <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf added <NUM> points to 1,372.44.39 <PUNC>
+consumer discretionary and industrials paced sector gains <COMMA> while health care shares led losses <PUNC>
+<PAR>

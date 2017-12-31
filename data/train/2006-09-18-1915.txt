@@ -1,0 +1,7 @@
+the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
+at one stage <COMMA> the benchmark index had been up as much as <NUM> points to <NUM> <PUNC>
+the auto sector came under pressure after a news report that general motors corp. gm and ford motor co. f have discussed a possible alliance <PUNC>
+the wall street journal s online edition reported that the two auto makers have abandoned the possibility after brief discussions <COMMA> however <PUNC>
+home depot hd shares fell to their lows for the session on monday s weak housing report <PUNC>
+rival lowe s cos. low was down <NUM> percent at dollar <NUM> <PUNC>
+<PAR>

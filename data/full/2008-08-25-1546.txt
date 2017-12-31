@@ -1,0 +1,4 @@
+the dow jones industrial average dji was recently down <NUM> points to <NUM> <COMMA> near its session lows <PUNC>
+all but two of the dow s <NUM> components posted early declines <COMMA> led by insurance giant american international group inc. aig <COMMA> down <NUM> percent after credit suisse analysts lowered their third-quarter profit estimate and target price on the insurance giant <PUNC>
+on friday <COMMA> stocks rallied <COMMA> with the dow striking its largest one-day gain in two weeks <COMMA> after oil fell more than dollar <NUM> a barrel <COMMA> its greatest percentage decline in more than four years <PUNC>
+<PAR>

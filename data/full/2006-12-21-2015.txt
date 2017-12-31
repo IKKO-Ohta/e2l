@@ -1,0 +1,7 @@
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+weaker-than-expected economic data hit cyclical blue-chip stocks <COMMA> such as alcoa inc. aa <COMMA> which fell <NUM> percent and caterpillar inc. cat <COMMA> which lost <NUM> percent <PUNC>
+meanwhile <COMMA> jp morgan chase & co. jpm provided support <COMMA> gaining <NUM> percent <PUNC>
+still <COMMA> investors have been discretely bailing out of economically-sensitive sector <COMMA> such as rail and trucking companies <PUNC>
+the dow jones transportation average <NUM> has now fallen <NUM> percent since late november <PUNC>
+crude-oil futures fell <NUM> cents to dollar <NUM> a barrel.exxon mobil corp. xom dropped <NUM> percent <COMMA> also weighing on the dow industrials <PUNC>
+<PAR>

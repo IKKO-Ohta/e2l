@@ -1,0 +1,10 @@
+u.s. stocks rose on tuesday <COMMA> with the dow jones industrial average in record territory and edging closer to <NUM> <COMMA> as a positive outlook from texas instruments inc. and upbeat news from ibm helped offset news of a plunge in existing home sales in march and a further drop in consumer confidence in april <PUNC>
+the dow industrials dji were up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components leading the advance <PUNC>
+the dow earlier reached a new record intraday high of <NUM> <PUNC>
+ibm ibm was the strongest source of support for blue chips <COMMA> rising <NUM> percent after the company raised its quarterly dividend by <NUM> cents <COMMA> and increased its stock buyback plan by dollar <NUM> billion <PUNC>
+honeywell international inc. hon <COMMA> whose earnings topped expectations by a wide margin friday thanks to strong international operations <COMMA> also helped <COMMA> rising <NUM> percent <PUNC>
+and dupont dd gained <NUM> percent after its earnings topped expectations <PUNC>
+on the nasdaq <COMMA> fellow chip-maket sandisk sndk gained <NUM> percent <PUNC>
+but on the dow <COMMA> fellow chip-market intel corp. intc reversed early gains and was down <NUM> percent <PUNC>
+on the dow <COMMA> at&t t dropped <NUM> percent after the telecom firm posted earnings <COMMA> adjusted for one-time costs <COMMA> which topped analysts forecasts <PUNC>
+<PAR>

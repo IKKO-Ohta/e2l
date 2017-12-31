@@ -1,0 +1,5 @@
+the dow jones industrial average dji ended near its lows of the day <COMMA> down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the s&p <NUM> index spx sank <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the nasdaq composite rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+on the dow <COMMA> heavy-equipment maker caterpillar inc. cat fell the most <COMMA> followed by other blue chips considered heavily exposed to china or global resource demand <PUNC> oil major chevron corp. cvx <COMMA> exxon mobil corp. xom and general electric co. ge <PUNC>
+<PAR>

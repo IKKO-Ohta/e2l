@@ -1,0 +1,2 @@
+after climbing <NUM> points and falling as much as <NUM> points <COMMA> the dow jones industrial average dji closed <NUM> points lower at <NUM> <PUNC>
+<PAR>

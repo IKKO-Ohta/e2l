@@ -1,0 +1,8 @@
+after riding the greek-debt roller coaster for more than two years <COMMA> u.s. investors may finally get some respite next week <COMMA> shifting focus to the federal reserve and whether the dow average can retest <NUM> <PUNC>
+stocks trimmed gains after the isda announcement but closed moderately higher <COMMA> extending gains to a third day <PUNC>
+the dow jones industrial average dji edged up <NUM> percent to close at <NUM> friday <COMMA> about <NUM> points shy of <NUM> <PUNC>
+the s&p <NUM> spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+for the week <COMMA> the dow posted a slight loss while the s&p and the nasdaq both extended their weekly winning streaks to four <PUNC>
+but webman also cautioned against focusing too much on the dow <PUNC>
+it s too narrow and it makes people susceptible to a lot of random noise <COMMA> he said <PUNC>
+<PAR>

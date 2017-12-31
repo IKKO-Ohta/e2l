@@ -1,0 +1,7 @@
+u.s. stocks were mixed in cautious trade at thursday s opening <COMMA> as investors stepped back from a two-day rally that drove the dow jones industrial average above the <NUM> mark <COMMA> with new questions about apple computer inc. s stock options program in view <PUNC>
+the dow jones industrial average dji was <NUM> points higher at <NUM> <PUNC>
+on wednesday the dow reached its first intraday and closing levels above <NUM> <COMMA> after unexpectedly robust housing sales data cheered investors into making last-minute additions to their <NUM> portfolios <PUNC>
+dow component alcoa inc. aa <COMMA> which has posted gains in recent sessions <COMMA> was up <NUM> percent at dollar <NUM> <PUNC>
+citigroup c <COMMA> a component of the dow industrials <COMMA> and other investors may take stakes in china s budget carrier spring airlines <COMMA> reuters reported <COMMA> citing two sources familiar with the matter <PUNC>
+international business machines ibm and siemens si won a 10-year dollar <NUM> billion contract from the german federal armed forces to modernize non-military information and communications technology <PUNC>
+<PAR>

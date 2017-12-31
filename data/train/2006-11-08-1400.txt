@@ -1,0 +1,3 @@
+futures for the dow jones industrials average dropped <NUM> points to <NUM> <PUNC>
+s&p <NUM> futures slumped <NUM> points to <NUM> and nasdaq <NUM> futures shed <NUM> points to <NUM> <PUNC>
+<PAR>

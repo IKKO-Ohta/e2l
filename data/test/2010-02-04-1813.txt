@@ -1,0 +1,6 @@
+worries about the economies of both europe and the u.s. roiled financial markets thursday <COMMA> with the dow jones industrial average closing in on the <NUM> level and commodities reeling <COMMA> while treasury prices and the dollar climbed <PUNC>
+the dow average dji was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> on track to set a new closing low for <NUM> <PUNC>
+twenty-nine of its <NUM> components fell <COMMA> with alcoa aa suffering the most <COMMA> off <NUM> percent thanks to the weakness in raw-materials markets <PUNC>
+bank of america bac was also a big loser <COMMA> off <NUM> percent as the banking giant agreed to pay dollar <NUM> million and strengthen its corporate governance and disclosure practices to settle securities and exchange commission charges related to its deal with merrill lynch <PUNC>
+the only dow stock to post gains was cisco systems csco <COMMA> up <NUM> percent as investors responded to a better-than-expected profit report late wednesday <PUNC>
+<PAR>

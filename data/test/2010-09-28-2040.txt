@@ -1,0 +1,2 @@
+erasing an 80-point slide <COMMA> the dow jones industrial average dji saw its gains accelerate in late trade to finish up <NUM> points at <NUM> <COMMA> led by pharma giant pfizer inc. pfe and chip maker intel corp. intc <PUNC>
+<PAR>

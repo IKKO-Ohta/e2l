@@ -1,0 +1,2 @@
+extending its longest losing streak in more than a year <COMMA> the dow jones industrial average dji dropped <NUM> points to <NUM> <PUNC>
+<PAR>

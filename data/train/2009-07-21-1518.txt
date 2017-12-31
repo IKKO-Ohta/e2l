@@ -1,0 +1,5 @@
+on tuesday <COMMA> shares of caterpillar cat gained <NUM> percent after the heavy equipment maker reported results topping expectations <PUNC>
+<PAR>
+and <COMMA> caterpillar fronted gains on the dow jones industrial average dji <COMMA> which rose <NUM> points to <NUM> <PUNC>
+the s&p <NUM> spx added <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf fell <NUM> points to <NUM> <PUNC>
+<PAR>

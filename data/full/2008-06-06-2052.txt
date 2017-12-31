@@ -1,0 +1,4 @@
+slammed hard by the soaring price of crude-oil futures <COMMA> which on friday closed at a new record high <COMMA> and a rise in the jobless rate <COMMA> u.s. stocks more than wiped out weekly gains <COMMA> with the dow chalking up the 8th-largest point drop in the blue-chip index s history <PUNC>
+the dow jones industrial average fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving it a weekly loss of <NUM> percent <PUNC>
+the dow s decline <COMMA> which left all <NUM> of its components in the red <COMMA> is the heaviest hit in terms of points lost <COMMA> since feb. <NUM> <COMMA> <NUM> <COMMA> when it fell <NUM> points <PUNC>
+<PAR>

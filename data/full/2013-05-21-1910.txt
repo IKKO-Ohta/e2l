@@ -1,0 +1,6 @@
+the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
+the dow and s&p <NUM> are on pace tuesday to achieve record closes again <COMMA> as bullish sentiment remains strong <PUNC>
+home depot inc. hd was one of the top gainers in the dow <COMMA> with its shares up <NUM> percent after the home-improvement retailer reported a jump in quarterly earnings <COMMA> buoyed by the recovery in the housing market <PUNC>
+also in the dow <COMMA> j.p. morgan chase & co. jpm shares gained <NUM> percent <PUNC>
+the bank s annual meeting took place in florida tuesday and a nonbinding shareholder vote on splitting the ceo and chairman roles currently held by jamie dimon failed to passed <PUNC>
+<PAR>

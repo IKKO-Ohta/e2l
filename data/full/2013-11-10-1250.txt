@@ -1,0 +1,10 @@
+the week s data releases are likely to be muddied by the government s october shutdown <COMMA> making it even harder to figure out whether the economic recovery is solid enough for the federal reserve to back off its stimulus <PUNC>
+some earnings reports notably cisco csco <COMMA> wal-mart stores inc. wmt <COMMA> and a few other retailers may help fill in the blanks <PUNC>
+last week <COMMA> the dow jones industrial average dji finished up <NUM> percent <COMMA> the s&p <NUM> index spx gained <NUM> percent <COMMA> while the nasdaq composite index rixf shed less than <NUM> percent <PUNC>
+stocks finished higher on the day friday <COMMA> including a record close for the dow <COMMA> after a report that the u.s. economy added more jobs than expected <PUNC>
+economic forecasters <COMMA> however <COMMA> are torn about the reliability of the october jobs report <PUNC>
+atlanta fed president lockhart said on friday that some data will be less reliable through the end of the year <PUNC>
+currently <COMMA> the dow industrials and s&p <NUM> are <NUM> percent off their all-time highs <COMMA> and the nasdaq is off <NUM> percent from its latest 13-year high <PUNC>
+dow components will be starting to wrap up earnings season with cisco reporting on wednesday and wal-mart reporting on thursday <PUNC>
+after that the only remaining dow component left to report this season will be home depot inc. hd on nov. <NUM> <PUNC>
+<PAR>

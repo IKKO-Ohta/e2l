@@ -1,0 +1,6 @@
+u.s. stocks rallied thursday as a string of stronger-than-expected earnings reports led by mcdonald s corp. <COMMA> costco wholesale corp. and yum brands inc. propelled the dow jones industrial average to a fresh all-time high <PUNC>
+the dow industrials dji was last up <NUM> points at a record <NUM> <PUNC>
+gains for mcdonald s mcd <COMMA> boeing co. ba <COMMA> intel corp. intc and microsoft corp. msft spurred the blue-chip advance <PUNC>
+telecom stocks dj_6000 moved higher as at&t inc. t rose <NUM> percent after the justice department approved its acquisition of bellsouth corp. bls <COMMA> saying the merger is likely to benefit consumers <PUNC>
+boeing co. ba shares rose <NUM> percent to dollar <NUM> <COMMA> after the company said it s booked <NUM> new orders for its <NUM> dreamliner plane in the last week <COMMA> including <NUM> from an unidentified buyer <COMMA> according to updated figures on the aircraft maker s web site thursday <PUNC>
+<PAR>

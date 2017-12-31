@@ -1,0 +1,6 @@
+the dow jones industrial average dji <COMMA> up as much as <NUM> points <COMMA> rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <PUNC>
+gains were led by banks j.p. morgan chase & co. jpm and bank of america corp. bac <COMMA> the former up <NUM> percent and the latter up <NUM> percent <PUNC>
+mcdonald s corp. mcd weighed the most <COMMA> its shares off <NUM> percent <PUNC>
+domestically <COMMA> m&a activity helped support wall street s rally <PUNC>
+hewlett-packard co. hpq said it would pay dollar <NUM> billion for security software company arcsight inc. arst <COMMA> with h-p s latest acquisition continuing a recent shopping spree <PUNC>
+<PAR>

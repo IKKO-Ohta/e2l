@@ -1,0 +1,3 @@
+u.s. stocks rose on wednesday <COMMA> with the dow industrials on track for a 14th triple-digit move out of <NUM> sessions in june <COMMA> as investors considered a downward revision in economic growth <PUNC>
+after rallying <NUM> points <COMMA> the dow jones industrial average dji lately was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with boeing co. ba pacing gains that included all but four of the dow s <NUM> components <PUNC>
+<PAR>

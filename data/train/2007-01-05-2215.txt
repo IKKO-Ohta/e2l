@@ -1,0 +1,5 @@
+the dow jones industrial average dji ended down <NUM> points at <NUM> <COMMA> after earlier losing over <NUM> points and taking the average to an intraday low of <NUM> <PUNC>
+intel corp. intc weighed on the blue-chip average <COMMA> losing about <NUM> percent <COMMA> after credit suisse downgraded the chip-maker to underperform <COMMA> citing valuation and competition concerns <PUNC>
+economically-sensitive shares <COMMA> such as alcoa inc. aa <COMMA> caterpillar inc. cat <COMMA> and 3m co. mmm also held back the dow industrials <PUNC>
+meanwhile <COMMA> exxon mobil corp. xom <COMMA> hurt earlier in the week by crude oil s decline <COMMA> managed a <NUM> percent rise <COMMA> even after being downgraded by lehman brothers <COMMA> as crude oil prices reversed early weakness friday <PUNC>
+<PAR>

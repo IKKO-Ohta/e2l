@@ -1,0 +1,5 @@
+after dropping <NUM> points during the session <COMMA> the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
+five of the dow s <NUM> components closed higher <PUNC>
+bank of america corp. bac was the biggest decliner on the dow <COMMA> with shares down <NUM> percent <COMMA> followed by hewlett-packard co. hpq with shares down <NUM> percent <PUNC>
+boeing co. ba closed down <NUM> percent after one of its <NUM> dreamliner planes flown by united airlines ual had to make an emergency landing sunday due to a brake problem <PUNC>
+<PAR>

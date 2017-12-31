@@ -1,0 +1,7 @@
+the dow jones industrial average dji edged up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <COMMA> putting it on track to close up for the third month in a row <PUNC>
+the measure has gained in <NUM> of the last <NUM> months <PUNC>
+procter & gamble pg rebounded from thursday s loss <COMMA> rising <NUM> percent <PUNC>
+drug makers also strengthened on friday <COMMA> with pfizer pfe up <NUM> percent and merck mrk up <NUM> percent <COMMA> after posting one of the measure s weakest performances during april <PUNC>
+american express axp the dow s strongest stock in april so far edged down <NUM> percent on friday <PUNC>
+j.p. morgan chase jpm fell <NUM> percent <COMMA> while bank of america bac slid <NUM> percent <PUNC>
+<PAR>

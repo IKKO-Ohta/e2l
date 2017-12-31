@@ -1,0 +1,9 @@
+new york dow jones - u.s. stocks are set to open higher thursday <COMMA> following three consecutive sessions of losses <COMMA> with the dow jones industrials average expected to get a lift from good news for three of its components <COMMA> general electric <COMMA> merck and wal-mart stores inc <PUNC>
+the futures contract for the dow jones industrials last was up <NUM> points at <NUM> <PUNC>
+the futures contracts for the s&p <NUM> and the nasdaq <NUM> were up <NUM> at <NUM> and up <NUM> point at <NUM> <PUNC>
+worries about inflation <COMMA> the prospect of higher interest rates <COMMA> and slowing economic growth pushed the dow jones industrial average and the s&p <NUM> down to their weakest closes in three months on wednesday <PUNC>
+in premarket trade <COMMA> dow component merck mrk rose <NUM> percent to dollar <NUM> after news that a study indicated that a company anti-cancer vaccine is effective <PUNC>
+mega-retailer wal-mart wmt is up <NUM> cents at dollar <NUM> before the opening <PUNC>
+the company reported a <NUM> percent rise in september same-store sales <COMMA> meetings its own expectation <PUNC>
+general electric ge got a <NUM> percent boost to dollar <NUM> after the company said its third-quarter earnings will come in near the top of its forecast range <COMMA> and also increased its range for its <NUM> earnings <PUNC>
+<PAR>

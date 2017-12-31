@@ -1,0 +1,5 @@
+after breaking above the <NUM> level on thursday <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <COMMA> with all of its components in the black <PUNC>
+leading the measure <COMMA> economically-sensitive general electric rose <NUM> percent <PUNC>
+american express rose <NUM> percent and dupont gained <NUM> percent <PUNC>
+caterpillar rose <NUM> percent <PUNC>
+<PAR>

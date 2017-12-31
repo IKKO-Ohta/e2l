@@ -1,0 +1,6 @@
+the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
+general motors gm was the biggest percentage gainer on the dow <COMMA> up <NUM> percent at dollar <NUM> <COMMA> after the carmaker <COMMA> the uaw and delphi corp. dphiq agreed on a plan to buy out <NUM> hourly workers with a maximum of dollar <NUM> in payments each <PUNC>
+microsoft corp. msft moved down <NUM> percent at dollar <NUM> in morning trading <PUNC>
+late tuesday <COMMA> the company said the next version of its windows operating system won t be available to consumers until january <COMMA> thereby missing the key holiday sales season <PUNC>
+other tech stocks that were pulled lower after the news included intel corp. intc <COMMA> off <NUM> cents to dollar <NUM> <COMMA> and dell corp. dell <COMMA> down <NUM> cents to dollar <NUM> <PUNC>
+<PAR>

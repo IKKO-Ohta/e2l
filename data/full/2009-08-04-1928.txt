@@ -1,0 +1,4 @@
+for the dow jones industrial average <COMMA> the comparable november reversal peak was at <NUM> <COMMA> a point that s still far from the current price <COMMA> pado said <PUNC>
+on tuesday <COMMA> the dow jones industrial average dji held steady at <NUM> <PUNC>
+intel corp. intc <COMMA> for instance <COMMA> had practically wiped out their inventory and were rebuilding with new chips in anticipation of growing demand for notebooks <COMMA> he said <PUNC>
+<PAR>

@@ -1,0 +1,5 @@
+u.s. stocks fell sharply tuesday <COMMA> taking the dow industrials below the <NUM> level for the first time in nearly four weeks <COMMA> as investors worried that china could follow south korea and hike rates to stem inflation <PUNC>
+the dow jones industrial average dji tumbled <NUM> points to <NUM> <COMMA> its first intraday lapse below <NUM> since oct. <NUM> <PUNC>
+a close below <NUM> would be its first since oct. <NUM> <PUNC>
+home depot inc. hd and wal-mart stores inc. wmt were the sole advancers among the dow s <NUM> components after both major retailers reported improved earnings <PUNC>
+<PAR>

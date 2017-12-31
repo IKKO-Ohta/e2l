@@ -1,0 +1,6 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
+for the week <COMMA> the dow gave up <NUM> percent <COMMA> the nasdaq took a <NUM> percent loss and the s&p <NUM> dropped <NUM> percent <PUNC>
+wal-mart stores inc. wmt said it s selling its south korean unit to local retailer shinsegae for dollar <NUM> million <PUNC>
+shinsegae <COMMA> korea s largest discount retailer <COMMA> operates <NUM> e-mart discount stores <PUNC>
+wal-mart s <NUM> south korean stores will continue to operate under the e-mart name <PUNC>
+<PAR>

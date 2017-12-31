@@ -1,0 +1,6 @@
+u.s. stocks edged lower wednesday <COMMA> with disappointment over procter & gamble s results weighing on the dow jones industrial average <COMMA> but an upbeat outlook from qualcomm and a broker of upgrade of motorola cushioned the selling <PUNC>
+the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
+shares in procter & gamble co pg tumbled <NUM> percent to dollar <NUM> <PUNC>
+the world s largest consumer-goods company <COMMA> said its third-quarter income rose <NUM> percent <COMMA> helped by the gillette acquisition <COMMA> price increases and cost controls <PUNC>
+but the company s sales fell short of expectations <COMMA> hurt by inventory reduction efforts at retail customers like wal-mart stores inc. wmt <PUNC>
+<PAR>

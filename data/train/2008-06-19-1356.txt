@@ -1,0 +1,5 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
+conversely <COMMA> the sector drew some help from citigroup inc. lifting its view of american international group inc. aig <COMMA> with a citigroup analyst upgrading his rating on the insurance giant and dow component to a buy <PUNC>
+u.s. stocks had another tough session wednesday as fedex s outlook <COMMA> morgan stanley s earnings and fifth third s dividend cut all took a toll <PUNC>
+the dow industrials closed at a three-month low <PUNC>
+<PAR>

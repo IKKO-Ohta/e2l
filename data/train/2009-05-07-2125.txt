@@ -1,0 +1,2 @@
+materials <COMMA> information technology and financials led the declines as the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> while the s&p <NUM> index spx skidded <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and the nasdaq composite rixf shed <NUM> points <COMMA> or <NUM> percent <COMMA> to 1,716.24. <PUNC>
+<PAR>

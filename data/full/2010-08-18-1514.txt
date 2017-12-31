@@ -1,0 +1,4 @@
+the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with two-thirds of its <NUM> components declining <PUNC>
+blue-chip losses were paced by oil giant exxon mobil corp. xom <COMMA> off <NUM> percent after u.s. oil company kosmos energy said it canceled a deal to sell its stake in an oil field in ghana to exxon in the face of strong opposition within the west african nation <PUNC>
+target corp. tgt shares fell more than <NUM> percent after the discount retailer missed forecasts for its second-quarter revenue <COMMA> disappointing investors who on tuesday cheered upbeat reports from wal-mart stores inc. wmt and home depot inc. hd <PUNC>
+<PAR>

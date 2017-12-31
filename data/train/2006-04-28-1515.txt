@@ -1,0 +1,5 @@
+the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> off an early low of <NUM> <PUNC>
+microsoft corp. msft slumped <NUM> percent to dollar <NUM> after the software giant reported quarterly profit that rose <NUM> percent <COMMA> but issued an outlook that fell short of wall street expectations <PUNC>
+chevron corp. cvx rose <NUM> percent to dollar <NUM> after the oil company posted forecast-beating first-quarter results <PUNC>
+the company s outperformance stands in contrast to disappointing earnings out of sector giant exxon mobil corp. xom on thursday <PUNC>
+<PAR>

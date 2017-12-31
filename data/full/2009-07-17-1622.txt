@@ -1,0 +1,6 @@
+the market has advanced every day so far this week <COMMA> giving the dow jones industrial average a <NUM> percent gain <COMMA> and a <NUM> percent gain for both the s&p <NUM> index and the nasdaq composite index <PUNC>
+some technical analysts especially noted the strong action seen on wednesday <COMMA> as stocks rallied in the wake of earnings from intel corp. intc <PUNC>
+on wednesday <COMMA> the dow jumped <NUM> points <COMMA> or <NUM> percent <PUNC>
+but for lane that wasn t the most important aspect of the rally <PUNC>
+on friday <COMMA> the market fell slightly <COMMA> with the dow industrials dji down <NUM> points at <NUM> <COMMA> the s&p <NUM> spx down <NUM> points at <NUM> <COMMA> and the nasdaq rixf down <NUM> points at <NUM> <PUNC>
+<PAR>
