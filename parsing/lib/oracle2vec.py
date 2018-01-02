@@ -215,7 +215,7 @@ def oracle_load(oracle_path):
 
 if __name__ == '__main__':
     if len(sys.argv) == 1:
-        pathes = glob.glob("../auto/Penn_Oracle_split/*/*.oracle")
+        pathes = glob.glob("../auto/OracleUD/*.oracle")
     else:
         pathes = glob.glob(sys.argv[1])
 
@@ -249,9 +249,13 @@ if __name__ == '__main__':
                     予期しない命令
                     """
                     break
-                target_dir_num = path.split("/")[-2]
+
+                if "train" in path:
+                    target_dir = "train"
+                else:
+                    target_dir = "test"
                 origin_name = path.split("/")[-1].replace(".oracle", "")
-                target_path = "../auto/preprocessed/" + target_dir_num \
+                target_path = "../auto/preprocessed/" + target_dir \
                               + "/" + origin_name + "_" + '{0:07d}'.format(cnt) + ".pkl"
 
                 with open(target_path, "wb") as target:
