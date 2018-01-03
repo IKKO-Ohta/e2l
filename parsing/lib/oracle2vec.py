@@ -6,6 +6,11 @@ import gensim
 import pickle
 import numpy as np
 
+sys.path.append("confPklGen/")
+from act2idGen import act2idGen
+from tag2idGen import tag2idGen
+from word2idGen import word2idGen
+
 
 class Configuration(object):
     def __init__(self):
@@ -175,6 +180,7 @@ class myVectorizer(object):
             return 0
 
 
+
 def oracle_load(oracle_path):
     """
     オラクルファイルを受け取って、confに代入できるよう整形する
@@ -213,11 +219,20 @@ def oracle_load(oracle_path):
                 cnt += 1
     return feature, label
 
+def generatePkls(pathes):
+    print("act2idGen..")
+    act2idGen(pathes)
+    print("word2idGen..")
+    word2idGen(pathes)
+    print("tag2idGen..")
+    tag2idGen()
+    return
+    
 if __name__ == '__main__':
-    if len(sys.argv) == 1:
-        pathes = glob.glob("../auto/oracleUD/*.oracle")
-    else:
-        pathes = glob.glob(sys.argv[1])
+
+    pathes = glob.glob("../auto/oracleUD/*.oracle")
+    if len(sys.argv) == 2 and sys.argv[1] == "--g":
+        generatePkls(pathes)
 
     vectorizer = myVectorizer()
     error = 0
