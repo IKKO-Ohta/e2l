@@ -47,6 +47,7 @@ def word2idGen(oracles):
         features = [feature[0] for feature in features]
         for feature in features:
             for elem in feature:
+                elem = elem.split("-")[1]
                 if not elem in word2id.keys():
                     word2id[elem] = cnt
                     cnt += 1
