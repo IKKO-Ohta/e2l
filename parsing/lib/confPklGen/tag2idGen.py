@@ -9,4 +9,5 @@ def tag2idGen():
 
     with open("../model/tag2id.pkl", "wb") as f:
         pickle.dump(tag2id, f)
+    import pdb; pdb.set_trace()
     return
