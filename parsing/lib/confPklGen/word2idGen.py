@@ -51,7 +51,7 @@ def word2idGen(oracles):
                     word2id[elem] = cnt
                     cnt += 1
 
-    with open("../../model/word2id.pkl","wb") as f:
+    with open("../model/word2id.pkl","wb") as f:
         pickle.dump(word2id,f)
 
     return
