@@ -2,7 +2,6 @@ import copy
 import sys
 import re
 import glob
-import gensim
 import pickle
 import numpy as np
 
@@ -89,7 +88,6 @@ class myVectorizer(object):
 
     def reg(self, word):
         if word in self.regWord:
-        if g:
             return regWord[word]
         else:
             return "--None--"
@@ -238,20 +236,9 @@ def oracle_load(oracle_path):
                 cnt += 1
     return feature, label
 
-def generatePkls(pathes):
-    print("act2idGen..")
-    act2idGen(pathes)
-    print("word2idGen..")
-    word2idGen(pathes)
-    print("tag2idGen..")
-    tag2idGen()
-    return
-
 if __name__ == '__main__':
 
     pathes = glob.glob("../auto/oracleUD/*.oracle")
-    if len(sys.argv) == 2 and sys.argv[1] == "--g":
-        generatePkls(pathes)
 
     vectorizer = myVectorizer()
     error = 0
