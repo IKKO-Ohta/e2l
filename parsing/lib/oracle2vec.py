@@ -62,24 +62,37 @@ class myVectorizer(object):
         self.act_map:   SHIFT,LEFT,RIGHT => 0,1,2
         self.tag2id:    NOUN, VERB, PUNCT, NOUN => 0, 20, 14, ..
         """
-        self.regex = re.compile('[a-zA-Z0-9]+')
-        #self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
-        #binary=True)
+
+        """
+        # POStag変換遠回り過ぎ問題
+        ２つのpklを使ってわざわざ変換している。
+        単語にPOSクラスを振るだけなら１つで良い。
         with open("../model/word2POS.pkl", "rb") as f:
             self.tag_map = pickle.load(f)
-        with open("../model/word2id.pkl", "rb") as f:
-            self.corpus = pickle.load(f)
-        with open("../model/simple_act_map.pkl", "rb") as f:
-            self.act_map = pickle.load(f)
         with open("../model/tag2id.pkl", "rb") as f:
             self.tag2id = pickle.load(f)
 
+        # regword問題
+        正規表現で変換するのはだめ。
+        conllについている標準形を用いる。
+        """
+
+        with open("../model/word2id.pkl", "rb") as f:
+            self.corpus = pickle.load(f)
+        with open("../model/word2POS.pkl","rb") as f:
+            self.word2POS = pickle.load(f)
+        with open("../model/regWord.pkl","rb") as f:
+            self.regWord = pickle.load(f)
+        with open("../model/simple_act_map.pkl", "rb") as f:
+            self.act_map = pickle.load(f)
+
+
     def reg(self, word):
-        g = self.regex.match(word)
+        if word in self.regWord:
         if g:
-            return g.group()
+            return regWord[word]
         else:
-            return ""
+            return "--None--"
 
     def find_tag(self, word):
         word = self.regex.match(word)
@@ -94,6 +107,7 @@ class myVectorizer(object):
 
         word = buffer[0]  # Next word
 
+        """
         def find(key):
             regword = self.reg(word)
             if regword in self.tag_map:
@@ -102,10 +116,9 @@ class myVectorizer(object):
                 return self.corpus[key], regword, self.tag_map[regword.capitalize()]
             else:
                 return self.corpus[key], regword, -1
+        """
 
-        w, wlm, tag = find(word)
-        if tag != -1:
-            tag = self.tag2id[tag]
+        w, wlm, tag = self.corpus[word], self.regWord[word], self.word2POS[word]
 
         return [w, wlm, tag]
 
