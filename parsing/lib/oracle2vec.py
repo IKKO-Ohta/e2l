@@ -56,6 +56,12 @@ class myVectorizer(object):
     """
 
     def __init__(self):
+        """
+        self.tag_map:   I, am, a, cat => NOUN, VERB, PUNCT, NOUN
+        self.corpus     I, am, a, cat => 0, 1, 2, 3
+        self.act_map:   SHIFT,LEFT,RIGHT => 0,1,2
+        self.tag2id:    語ごとのPOS => 0, 20, 14, ..
+        """
         self.regex = re.compile('[a-zA-Z0-9]+')
         #self.wv_model = gensim.models.KeyedVectors.load_word2vec_format('../model/GoogleNews-vectors-negative300.bin',
         #binary=True)
@@ -227,7 +233,7 @@ def generatePkls(pathes):
     print("tag2idGen..")
     tag2idGen()
     return
-    
+
 if __name__ == '__main__':
 
     pathes = glob.glob("../auto/oracleUD/*.oracle")
