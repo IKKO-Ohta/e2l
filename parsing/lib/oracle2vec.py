@@ -87,7 +87,9 @@ class myVectorizer(object):
 
 
 
-    def reg(self, word):
+    def validWord(self, word):
+        """
+        """
         if word == "ROOT":
             return word
         g = self.regex.match(word)
@@ -96,9 +98,16 @@ class myVectorizer(object):
         else:
             return "Not a word"
 
-    def find_tag(self, word):
-        word = self.regex.match(word)
-        return self.tag_map[word]
+    def find_W_Wl_tag(word):
+        try:
+            w  =  self.corpus[word]
+            wlm = self.regWord[word]
+            tag = self.word2POS[word]
+        except KeyError:
+            w  =  self.corpus[self.regWord[word]]
+            wlm = self.regWord[word]
+            tag = self.word2POS[self.regWord[word]]
+        return w,wlm,tag
 
     def buf_embed(self, buffer):
         if not buffer:
@@ -109,21 +118,8 @@ class myVectorizer(object):
 
         word = buffer[0]  # Next word
 
-        """
-        def find(key):
-            regword = self.reg(word)
-            if regword in self.tag_map:
-                return self.corpus[key], regword, self.tag_map[regword]
-            elif regword.capitalize() in self.tag_map:
-                return self.corpus[key], regword, self.tag_map[regword.capitalize()]
-            else:
-                return self.corpus[key], regword, -1
-        """
-        #print(word)
-        word = self.reg(word)
-        w  =  self.corpus[word]
-        wlm = self.regWord[word]
-        tag = self.word2POS[word]
+        word = self.validWord(word)
+        w,wlm,tag = find_W_Wl_tag(word)
         return [w, wlm, tag]
 
     def edge_embed(self, head, arcs):
