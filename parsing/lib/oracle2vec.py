@@ -98,7 +98,7 @@ class myVectorizer(object):
         else:
             return "Not a word"
 
-    def find_W_Wl_tag(word):
+    def find_W_Wl_tag(self, word):
         try:
             w  =  self.corpus[word]
             wlm = self.regWord[word]
@@ -119,7 +119,7 @@ class myVectorizer(object):
         word = buffer[0]  # Next word
 
         word = self.validWord(word)
-        w,wlm,tag = find_W_Wl_tag(word)
+        w,wlm,tag = self.find_W_Wl_tag(word)
         return [w, wlm, tag]
 
     def edge_embed(self, head, arcs):
