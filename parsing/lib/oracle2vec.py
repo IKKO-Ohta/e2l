@@ -99,13 +99,18 @@ class myVectorizer(object):
             return "Not a word"
 
     def find_W_Wl_tag(self, word):
+        """
+        動作処理高速化のため、wlmは省いてある
+        """
         try:
             w  =  self.corpus[word]
-            wlm = self.regWord[word]
+            wlm = self.corpus[word]
+            #wlm = self.regWord[word]
             tag = self.word2POS[word]
         except KeyError:
             w  =  self.corpus[self.regWord[word]]
-            wlm = self.regWord[word]
+            wlm = self.corpus[self.regWord[word]]
+            #wlm = self.regWord[word]
             tag = self.word2POS[self.regWord[word]]
         return w,wlm,tag
 
