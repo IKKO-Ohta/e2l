@@ -75,22 +75,26 @@ class myVectorizer(object):
         正規表現で変換するのはだめ。
         conllについている標準形を用いる。
         """
-
-        with open("../model/word2id.pkl", "rb") as f:
+        self.regex = re.compile('[a-zA-Z0-9]+')
+        with open("../model/word2wordNum.pkl", "rb") as f:
             self.corpus = pickle.load(f)
         with open("../model/word2POS.pkl","rb") as f:
             self.word2POS = pickle.load(f)
-        with open("../model/regWord.pkl","rb") as f:
+        with open("../model/word2regWord.pkl","rb") as f:
             self.regWord = pickle.load(f)
         with open("../model/simple_act_map.pkl", "rb") as f:
             self.act_map = pickle.load(f)
 
 
+
     def reg(self, word):
-        if word in self.regWord:
-            return regWord[word]
+        if word == "ROOT":
+            return word
+        g = self.regex.match(word)
+        if g:
+            return word
         else:
-            return "--None--"
+            return "Not a word"
 
     def find_tag(self, word):
         word = self.regex.match(word)
@@ -115,9 +119,11 @@ class myVectorizer(object):
             else:
                 return self.corpus[key], regword, -1
         """
-
-        w, wlm, tag = self.corpus[word], self.regWord[word], self.word2POS[word]
-
+        #print(word)
+        word = self.reg(word)
+        w  =  self.corpus[word]
+        wlm = self.regWord[word]
+        tag = self.word2POS[word]
         return [w, wlm, tag]
 
     def edge_embed(self, head, arcs):
@@ -243,11 +249,14 @@ if __name__ == '__main__':
     vectorizer = myVectorizer()
     error = 0
 
+    def preprocess(words):
+        return [word.split("-")[0] for word in words]
+
     for path in pathes:
         words, actions = oracle_load(path)
         conf = Configuration()
-        conf.stack = copy.deepcopy(words[0][0])
-        conf.buffer = copy.deepcopy(words[0][1])
+        conf.stack = copy.deepcopy(preprocess(words[0][0]))
+        conf.buffer = copy.deepcopy(preprocess(words[0][1]))
         cnt = 0
         try:
             for action in actions:
@@ -293,6 +302,11 @@ if __name__ == '__main__':
             print("--ERROR-- ", path)
             print("IndexError")
             print("continue..")
+            error += 1
+        except KeyError:
+            print("--ERROR-- ", path)
+            import traceback
+            traceback.print_exc()
             error += 1
 
     print("preprocess done. found Error ..")
