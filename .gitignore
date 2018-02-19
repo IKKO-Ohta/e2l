@@ -1,5 +1,6 @@
 # gitリポジトリから重いファイルを除外する
 auto/
+data/
 resource/
 resorce/
 model/
