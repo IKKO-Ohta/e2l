@@ -76,7 +76,7 @@ class myVectorizer(object):
         conllについている標準形を用いる。
         """
         self.regex = re.compile('[a-zA-Z0-9]+')
-        with open("../model/word2wordNum.pkl", "rb") as f:
+        with open("../model/word2id.pkl", "rb") as f:
             self.corpus = pickle.load(f)
         with open("../model/word2POS.pkl","rb") as f:
             self.word2POS = pickle.load(f)
@@ -102,16 +102,10 @@ class myVectorizer(object):
         """
         動作処理高速化のため、wlmは省いてある
         """
-        try:
-            w  =  self.corpus[word]
-            wlm = self.corpus[word]
-            #wlm = self.regWord[word]
-            tag = self.word2POS[word]
-        except KeyError:
-            w  =  self.corpus[self.regWord[word]]
-            wlm = self.corpus[self.regWord[word]]
-            #wlm = self.regWord[word]
-            tag = self.word2POS[self.regWord[word]]
+        w  =  self.corpus[word]
+        wlm = self.corpus[word]
+        #wlm = self.regWord[word]
+        tag = self.word2POS[word]
         return w,wlm,tag
 
     def buf_embed(self, buffer):
@@ -122,9 +116,20 @@ class myVectorizer(object):
             return [w,wlm,tag]
 
         word = buffer[0]  # Next word
+        g = self.regex.match(word)
+        if not g:
+            word = "Not a word"
 
-        word = self.validWord(word)
-        w,wlm,tag = self.find_W_Wl_tag(word)
+        try:
+            word = self.validWord(word)
+            w  =  self.corpus[word]
+            wlm = self.corpus[word]
+            tag = self.word2POS[word]
+        except:
+            print("--ERROR-- ", path)
+            import traceback
+            traceback.print_exc()
+            import pdb;pdb.set_trace()
         return [w, wlm, tag]
 
     def edge_embed(self, head, arcs):
@@ -187,9 +192,15 @@ class myVectorizer(object):
                 act = "RIGHT"
             else:
                 act = "SHIFT"
-            h = self.corpus[raw_edge[0]]
-            d = self.corpus[raw_edge[2]]
-            r = self.act_map[act]
+            try:
+                h = self.corpus[self.validWord(raw_edge[0])]
+                d = self.corpus[self.validWord(raw_edge[2])]
+                r = self.act_map[act]
+            except:
+                print("--ERROR-- ", path)
+                import traceback
+                traceback.print_exc()
+                import pdb;pdb.set_trace()
             tree.append([h,d,r])
         return tree
 
@@ -251,7 +262,16 @@ if __name__ == '__main__':
     error = 0
 
     def preprocess(words):
-        return [word.split("-")[0] for word in words]
+        result = []
+        for word in words:
+            if word.count("-") == 1:
+                result.append(word.split("-")[0])
+            else:
+                word = word.replace("-","\@",word.count("-")-1)
+                word = word.split("-")[0]
+                word = word.replace("\@","-")
+                result.append(word)
+        return result
 
     for path in pathes:
         words, actions = oracle_load(path)
@@ -286,9 +306,17 @@ if __name__ == '__main__':
                 else:
                     target_dir = "test"
                 origin_name = path.split("/")[-1].replace(".oracle", "")
+                padding_num = origin_name.replace("ud-train-","").replace("ud-test-","")
+                padding_num = "{0:07d}".format(int(padding_num))
+
+                if "train" in path:
+                    origin_name = "ud-train-" + padding_num
+                else:
+                    origin_name = "ud-test-" + padding_num
+
                 target_path = "../auto/preprocessed/" + target_dir \
                               + "/" + origin_name + "_" + '{0:07d}'.format(cnt) + ".pkl"
-
+                # import pdb; pdb.set_trace()
                 with open(target_path, "wb") as target:
                     print("gen:", target_path)
                     label = vectorizer.act_map[action]
@@ -304,11 +332,12 @@ if __name__ == '__main__':
             print("IndexError")
             print("continue..")
             error += 1
+        """
         except KeyError:
             print("--ERROR-- ", path)
             import traceback
             traceback.print_exc()
             error += 1
-
+        """
     print("preprocess done. found Error ..")
     print(error)
