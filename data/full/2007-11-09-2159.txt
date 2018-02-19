@@ -1,4 +1,0 @@
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving it a weekly decline of nearly <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> ended in the red <COMMA> led by ibm corp. ibm <COMMA> off <NUM> percent and general motors corp. gm <COMMA> down <NUM> percent <PUNC>
-shares of blue chip merck & co. mrk climbed after the drug maker said it would settle most of its liability lawsuits tied to its vioxx painkiller for about dollar <NUM> billion <PUNC>
-<PAR>

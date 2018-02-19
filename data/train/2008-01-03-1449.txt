@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-dow component merck & co. inc. mrk was up <NUM> percent in early trading after the drug maker said it would pay as much as dollar <NUM> million to switzerland s addex to license a potential schizophrenia treatment <PUNC>
-on wednesday <COMMA> stocks dropped sharply as rising energy prices furthered worries about the economy <COMMA> with the dow industrials tallying its worst opening-day performance in <NUM> years <PUNC>
-<PAR>

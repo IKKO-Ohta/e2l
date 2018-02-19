@@ -1,4 +1,0 @@
-after posting modest gains early on <COMMA> the dow jones industrial average dji was down <NUM> points midmorning at <NUM> <PUNC>
-at&t t was up <NUM> percent after the telecommunications giant said it s increasing its dividend by <NUM> percent and buying back <NUM> million shares <PUNC>
-blue-chip boeing co. ba said late monday it was increasing its quarterly dividend payment by <NUM> percent to <NUM> cents a share <PUNC>
-<PAR>

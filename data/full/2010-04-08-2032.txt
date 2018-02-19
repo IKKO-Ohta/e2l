@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components tallying gains <PUNC>
-american express co. axp advanced the most among the blue chips <COMMA> up <NUM> percent <PUNC>
-wednesday s pullback in equities came after the dow on monday and tuesday approached <NUM> for the first time in <NUM> months <PUNC>
-<PAR>

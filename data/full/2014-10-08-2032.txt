@@ -1,4 +1,0 @@
-the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> it s biggest one-day advance this year <PUNC>
-the nasdaq composite rixf gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the russell <NUM> rut rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

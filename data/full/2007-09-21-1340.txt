@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <PUNC>
-dow component exxon mobil corp. xom late thursday said it evacuated about <NUM> workers from the gulf of mexico due to a tropical disturbance <PUNC>
-<PAR>

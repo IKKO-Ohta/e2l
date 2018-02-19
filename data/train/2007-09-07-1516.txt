@@ -1,3 +1,0 @@
-the dow jones industrial average dji shed <NUM> points to <NUM> <COMMA> with all of but one of its <NUM> components trading lower <COMMA> with financial stocks including american express co. axp fronting the losses <COMMA> its stock off <NUM> percent <PUNC>
-pharmaceutical giants johnson & johnson jnj was the sole dow stock to trade in positive turf <COMMA> both up less than <NUM> percent <PUNC>
-<PAR>

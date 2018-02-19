@@ -1,3 +1,0 @@
-with a second day of gains friday <COMMA> the major indices managed to pare some of their losses for the week but still ended in the hole <PUNC>
-the dow jones industrial average dji was off <NUM> percent while the s&p <NUM> spx lost <NUM> percent and the nasdaq composite rixf fell <NUM> percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-for the first time ever <COMMA> the dow jones industrial average dji and s&p <NUM> spx rose above the milestone levels of <NUM> and <NUM> <COMMA> respectively <PUNC>
-but they couldn t finish above those levels <COMMA> although the dow did score another record close <PUNC>
-the dow rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the blue-chip index had been up nearly <NUM> points intraday <PUNC>
-boeing co. ba fared best among dow components <COMMA> rising <NUM> percent on upbeat orders news <PUNC>
-<PAR>

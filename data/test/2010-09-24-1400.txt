@@ -1,4 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-all <NUM> of the measure s components rose <COMMA> led by a <NUM> percent jump in hewlett-packard hpq <COMMA> a <NUM> percent rise in alcoa aa and a <NUM> percent gain in caterpillar cat <PUNC>
-the dow is now up <NUM> percent for the week <COMMA> on track to extend its winning streak to a fourth week <PUNC>
-<PAR>

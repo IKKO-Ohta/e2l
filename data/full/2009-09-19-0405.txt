@@ -1,4 +1,0 @@
-u.s. stock indexes reached new highs for the year in the past week <COMMA> with the s&p <NUM> spx topping <NUM> intraday on friday and the dow jones industrial average dji coming less than <NUM> points below the key <NUM> mark <PUNC>
-general electric co. ge lifted itself into a year-to-date gain as its shares advanced toward a <NUM> percent gain for the week <PUNC>
-caterpillar <COMMA> inc. cat shares rallied <NUM> percent for the week <PUNC>
-<PAR>

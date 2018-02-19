@@ -1,2 +1,0 @@
-the dow jones industrial average fell <NUM> points to <NUM> <COMMA> with all but three of its <NUM> components sinking <PUNC>
-<PAR>

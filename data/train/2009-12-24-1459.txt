@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> in early trading <PUNC>
-travelers trv was the dow s top performer <COMMA> up <NUM> percent <PUNC>
-alcoa aa also helped lift the measure <COMMA> up <NUM> percent recently <PUNC>
-<PAR>

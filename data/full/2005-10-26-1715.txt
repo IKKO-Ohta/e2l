@@ -1,7 +1,0 @@
-the dow jones industrials average dji was benefiting from sharp gains for components alcoa aa and dupont dd <PUNC>
-dow component boeing ba was under pressure <COMMA> falling more than <NUM> percent <PUNC>
-the aerospace company reported higher third-quarter earnings <COMMA> but its sales fell <NUM> percent due largely to a strike <PUNC>
-wal-mart stores wmt <COMMA> also in the dow <COMMA> shook off early losses and traded higher <PUNC>
-the new york times reported that its executive vice president for benefits suggested in a memo that the retailer hire more part-time workers and discourage unhealthy people from working at its stores in an effort to rein in benefits costs <PUNC>
-daimlerchrysler dcx gained nearly <NUM> percent after the car maker bested its u.s. rivals general motors gm and ford motor f with its third-quarter results <PUNC>
-<PAR>

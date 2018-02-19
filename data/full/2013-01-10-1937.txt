@@ -1,3 +1,0 @@
-after rising as much as <NUM> points and falling just over <NUM> points <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-microsoft corp. msft fell <NUM> percent after morgan stanley downgraded the globe s biggest software manufacturer to equalweight from underweight <PUNC>
-<PAR>

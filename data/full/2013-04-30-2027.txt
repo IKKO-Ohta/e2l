@@ -1,5 +1,0 @@
-skrainka and other analysts also cited the market s lofty levels as part of tuesday s equation <COMMA> which had the dow jones industrial average dji falling as much as <NUM> points and rising as much as <NUM> <COMMA> and the s&p <NUM> spx trading in a 10-point range on either side of neutral <PUNC>
-the dow jones industrial average dji added <NUM> points to <NUM> <COMMA> leaving it up <NUM> percent for the month <PUNC>
-blue-chip losses were led by pfizer inc. pfe <COMMA> after the drug manufacturer cut its <NUM> profit outlook and reported first-quarter earnings that missed wall street estimates <PUNC>
-international business machines corp. ibm gained after the computer-services provider hiked its dividend and approved a dollar <NUM> billion share buyback <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-u.s. stocks on friday thudded sharply lower <COMMA> with the dow steering toward its first close below <NUM> in three months <COMMA> as investors encountered another day of escalating oil prices and more trouble in the financial sector <PUNC>
-down more than <NUM> points earlier on <COMMA> the dow jones industrial average dji was more recently off <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <PUNC>
-of its <NUM> components <COMMA> <NUM> were posting losses <COMMA> with the bleeding recently led by shares of general motors corp. gm <COMMA> down <NUM> percent <COMMA> and home deport inc. hd <COMMA> off <NUM> percent <PUNC>
-merrill lynch analysts cut their earnings estimates on banks including bank of america bac and national city ncc <COMMA> and j.p. morgan analysts said reserve building is needed at all the banks that it follows <PUNC>
-<PAR>

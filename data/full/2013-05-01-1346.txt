@@ -1,3 +1,0 @@
-the dow jones industrial average dji declined <NUM> points to <NUM> <COMMA> with losses led by merck mrk after the drug maker reported quarterly revenue below market expectations <PUNC>
-it s going to be traders keeping an eye on the fed later for any distractions here <COMMA> but if these don t come true <COMMA> then the grind higher and a couple of big psychological levels on both the dow and s&p could soon fall <COMMA> wrote gtf market strategist fawad razaqzada <PUNC>
-<PAR>

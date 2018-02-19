@@ -1,3 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> less than <NUM> points off its intraday peak heading into the close <PUNC>
-the average was led friday by gains of more than <NUM> percent each in alcoa inc. aa <COMMA> boeing co. ba and american express co. axp <PUNC>
-<PAR>

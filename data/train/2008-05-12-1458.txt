@@ -1,6 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to 12,784.23.43 <COMMA> with <NUM> of its <NUM> components posting early gains <PUNC>
-notables among the blue chips included general motors corp. gm and wal-mart stores inc. wmt <COMMA> both up <NUM> percent and more <PUNC>
-u.s. stocks dropped sharply on friday <COMMA> after hefty losses from american international group inc. aig and another record high for oil prices <PUNC>
-on monday <COMMA> aig was among the stocks weighing on the dow <COMMA> recently off <NUM> percent <PUNC>
-also lower <COMMA> oil goliath exxon mobil corp. xom traded down <NUM> percent as crude cooled after a record run higher <PUNC>
-<PAR>

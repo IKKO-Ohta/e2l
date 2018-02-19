@@ -1,9 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-chevron cvx was the measure s worst performer with a <NUM> percent drop <PUNC>
-the oil major s third-quarter earnings and revenue missed analysts expectations <PUNC>
-exploration and production earnings fell along with international earnings absent dollar <NUM> million of <NUM> gains on asset sales and other impacts <PUNC>
-microsoft msft climbed <NUM> percent <PUNC>
-the software giant s fiscal first-quarter profit climbed <NUM> percent <COMMA> benefitting from a continued strong response to the windows <NUM> operating system and office <NUM> <COMMA> with each business seeing year-over-year revenue growth <PUNC>
-nevertheless <COMMA> stocks are on pace to close in the black for the month <COMMA> marking the dow s best october since <NUM> and the s&p <NUM> s best october since <NUM> <PUNC>
-the climb has come in increasing expectations for the federal reserve to announce more stimulus at its meeting next week and for next week s midterm elections to bring in a wave of pro-business politicians <PUNC>
-<PAR>

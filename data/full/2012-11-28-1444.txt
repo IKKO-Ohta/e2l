@@ -1,6 +1,0 @@
-new york marketwatch <PUNC>
-u.s. stocks opened lower wednesday <COMMA> with the dow industrials and s&p <NUM> extending losses into a third day <COMMA> as investors worried about the so-called fiscal cliff <PUNC>
-top executives from u.s. companies including caterpillar inc <PUNC>
-cat ? <COMMA> goldman sachs group inc. gs ?and deloitte llp will talk with president barack obama wednesday about the nation?s fiscal troubles <COMMA> the white house said <PUNC>
-the dow jones industrial average dji ?fell <NUM> points to <NUM> <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-alcoa aa was the measure s best performer <COMMA> up <NUM> percent <COMMA> while dupont dd rose <NUM> percent and hewlett-packard hpq climbed <NUM> percent <PUNC>
-however <COMMA> general electric g sank to the bottom of the dow <COMMA> off <NUM> percent <COMMA> following the conglomerate s third-quarter earnings report <PUNC>
-ge s revenue came in short of wall street s view <COMMA> which the company blamed on lower equipment sales and the impact of reduced assets at ge capital <PUNC>
-<PAR>

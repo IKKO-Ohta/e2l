@@ -1,8 +1,0 @@
-stocks rallied friday <COMMA> posting strong weekly gains that sent the dow industrials to three-month highs <COMMA> as investors cheered citigroup inc. s write-downs <COMMA> which were not as bad as feared <COMMA> as well as upbeat earnings from internet-search giant google inc <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> topping its february <NUM> intraday high of <NUM> <PUNC>
-for the week <COMMA> the dow advanced <NUM> percent <PUNC>
-banking giant citigroup c posted a first-quarter loss of dollar <NUM> a share <COMMA> worse than the loss of <NUM> cents expected by analysts <COMMA> but its revenue exceeded expectations <PUNC>
-the dow also received strong support from upbeat results at equipment-maker caterpillar inc. cat <COMMA> which saw its shares jump <NUM> percent <PUNC>
-away from the dow <COMMA> fellow industrial firm honeywell inc. hon rose <NUM> percent <PUNC>
-last week <COMMA> the market was shocked by general electric co. s ge surprise loss <COMMA> which was largely due to the international conglomerate s financial businesses in the u.s <PUNC>
-<PAR>

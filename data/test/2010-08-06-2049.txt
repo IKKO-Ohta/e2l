@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the blue-chip index recovered much of a 160-point morning drop to gain <NUM> percent during a week of light volumes <PUNC>
-kraft foods kft gained <NUM> percent after reporting a <NUM> percent jump in its second-quarter profit as its new cadbury business helped drive sales in developing markets in asia and latin america <PUNC>
-earnings topped wall street s expectations and kraft affirmed its <NUM> earnings outlook <PUNC>
-<PAR>

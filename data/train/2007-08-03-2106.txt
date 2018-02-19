@@ -1,7 +1,0 @@
-u.s. stocks plunged friday <COMMA> with credit concerns and a weak jobs report driving a sell-off that marked the dow s third worst day of the year and steep weekly losses for the broader market <PUNC>
-the dow jones industrial average dji ended <NUM> points lower at <NUM> <COMMA> with all of its <NUM> stocks closing down and the dow taking a weekly loss of <NUM> percent <PUNC>
-dow loss leaders include american express co. axp <COMMA> which ended down <NUM> percent <COMMA> and alcoa inc. aa <COMMA> which fell <NUM> percent <PUNC>
-merrill lynch & co. inc. mer fell <NUM> percent <COMMA> while dow component jp morgan chase co. jpm fell <NUM> percent <PUNC>
-shares of dow component procter & gamble co. pg fell <NUM> percent <PUNC>
-the company reported a <NUM> percent gain in quarterly profit due to some new products and also said it will buy back up to dollar <NUM> billion of its stock <PUNC>
-<PAR>

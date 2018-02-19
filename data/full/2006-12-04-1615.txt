@@ -1,7 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-pfizer pfe fell <NUM> percent after news it halted development of a once-promising cholesterol drug <COMMA> while fear of a slowing economy is still in focus after weak manufacturing reports <PUNC>
-but the impact on the blue-chip average was offset as other pharmaceutical shares <COMMA> such as johnson & johnson jnj and merck mrk <COMMA> advanced <PUNC>
-financial shares were providing strong support <COMMA> including for the dow industrials where american express co. axp <COMMA> citigroup inc. c and jp morgan chase & co. jpm all gained over <NUM> percent <PUNC>
-home depot inc. hd <COMMA> a dow component <COMMA> gained <NUM> cents to dollar <NUM> <PUNC>
-it said in a regulatory filing that it has had no discussion about a potential leveraged buyout or recapitalization <PUNC>
-<PAR>

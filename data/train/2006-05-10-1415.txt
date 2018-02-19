@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-walt disney co. dis added <NUM> cents to dollar <NUM> after the media giant surprised analysts with better-than-expected earnings <PUNC>
-gains at its espn sports television channel helped overcome a lackluster performance at its consumer products and studio divisions <PUNC>
-<PAR>

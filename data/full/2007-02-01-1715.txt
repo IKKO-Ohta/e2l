@@ -1,7 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> after earlier touching a record high of <NUM> <PUNC>
-the dow s gains were led by alcoa inc. aa <COMMA> boeing co. ba <COMMA> caterpillar inc cat and dupont dd <PUNC>
-exxon mobil corp. xom rose <NUM> percent after the company posted a drop in earnings but still managed to beat expectations <PUNC>
-fellow energy company royal dutch shell rdsa rose <NUM> percent after posting a <NUM> percent rise in fourth-quarter profit <PUNC>
-the news offset dell s warning that it expects fourth-quarter earnings to fall below expectations <PUNC>
-but competitor hewlett-packard co. hpq <COMMA> however <COMMA> dropped <NUM> percent <COMMA> weighing on the blue-chip average <PUNC>
-<PAR>

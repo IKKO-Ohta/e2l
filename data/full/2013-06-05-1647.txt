@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with intel corp. intc pacing declines that included <NUM> of its <NUM> components <PUNC>
-a 20-tuesday-long win streak for the dow industrials was derailed <COMMA> with the index falling <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-fears over when the federal reserve will begin to pull back on its bond-buying program weighed on sentiment <PUNC>
-<PAR>

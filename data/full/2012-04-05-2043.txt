@@ -1,2 +1,0 @@
-off <NUM> percent from last friday s close <COMMA> the dow jones industrial average dji on thursday declined <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with shares of general electric co. ge and boeing co. ba the day s worst performers <PUNC>
-the dow industrials had traded as high as <NUM> points earlier in the session <PUNC>
-<PAR>

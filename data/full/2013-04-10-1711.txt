@@ -1,3 +1,0 @@
-the dow jones industrial average dji added <NUM> points to <NUM> <PUNC>
-like the s&p <NUM> <COMMA> technology and health-care stocks led gains with intel corp. intc <COMMA> cisco systems inc. csco pfizer inc. pfe <COMMA> and merck & co. mrk leading the rise <PUNC>
-<PAR>

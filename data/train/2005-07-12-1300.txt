@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-in other news <COMMA> shares of walt disney co. dis slipped in a 0.% gain in pre-market dealings on a wall street journal report it is looking to spin off its radio-station network group <PUNC>
-<PAR>

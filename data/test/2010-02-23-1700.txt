@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-intel corp. intc was the measure s worst performer <COMMA> falling <NUM> percent after the chip maker announced plans to work with venture-capital firms to steer billions of dollars into new technology investments <PUNC>
-material components also fell <COMMA> with alcoa inc. aa down <NUM> percent and caterpillar inc. cat off <NUM> percent <PUNC>
-microsoft corp. msft slid <NUM> percent after reaching a patent licensing agreement with amazon.com inc. amzn that gives the online retailer rights to use open-source software in its kindle electronic book reader for an undisclosed sum <PUNC>
-home depot inc. hd was the dow s strongest performer <COMMA> with the home-improvement retailer climbing <NUM> percent after announcing its first dividend hike since <NUM> as earnings topped estimates <PUNC>
-<PAR>

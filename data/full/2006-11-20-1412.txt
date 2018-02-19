@@ -1,6 +1,0 @@
-the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
-u.s. stocks closed mixed friday <COMMA> as the dow jones industrial average extended its winning streak to a sixth session and set yet another record high <COMMA> bolstered by a continued slide in crude-oil prices <PUNC>
-the market in october and november has staged a vigorous rally <PUNC>
-microsoft msft was <NUM> cents higher at dollar <NUM> <PUNC>
-the stock was upgraded by credit suisse to an outperform rating <COMMA> on the basis of increased confidence in earnings estimates <PUNC>
-<PAR>

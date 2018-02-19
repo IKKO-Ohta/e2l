@@ -1,8 +1,0 @@
-the dow jones industrials average punched through to an all-time high tuesday <COMMA> leading the way for sharp gains the in the broad market <COMMA> as a drop in the price of oil to a ten-month low raised hopes that lower energy costs would serve to boost consumer spending <PUNC>
-the dow industrials dji rallied as much as <NUM> points to a session high of <NUM> <COMMA> topping the previous all-time high of <NUM> reached on jan. <NUM> <COMMA> <NUM> <PUNC>
-by sector <COMMA> energy xoi and oil-services osxx stocks fell sharply as crude prices logged a fresh decline <PUNC>
-among dow stocks <COMMA> exxon mobil corp. xom was the biggest percentage decliner <COMMA> down <NUM> percent at dollar <NUM> <PUNC>
-automakers grabbed investors attention with the release of september sales figures <COMMA> from daimlerchrysler dcx <COMMA> general motors corp. gm <COMMA> ford motor co. f among others <PUNC>
-gm also was the subject of a heard on the street column in the wall street journal <COMMA> which quoted analysts as saying its momentum could stall in the second half of the year <PUNC>
-gm shares <COMMA> part of the dow jones industrial average <COMMA> traded up <NUM> cents at dollar <NUM> <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-trading in a nearly 60-point range on either side of neutral <COMMA> the dow jones industrial average dji was recently up <NUM> points at <NUM> <PUNC>
-fifteen of its <NUM> components were on the rise <COMMA> led by general electric co. ge <COMMA> shares of which gained <NUM> percent <PUNC>
-also supporting the dow s rise <COMMA> alcoa inc. aa rose <NUM> percent ahead of the aluminum maker reporting quarterly results on thursday in the unofficial start of the earnings season <PUNC>
-<PAR>

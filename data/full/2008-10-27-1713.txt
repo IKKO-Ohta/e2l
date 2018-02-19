@@ -1,6 +1,0 @@
-after a triple-digit slide early on <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-the blue-chip index s gains were led by verizon communications inc. vz <COMMA> up <NUM> percent <COMMA> after the second-biggest u.s. phone company reported a <NUM> percent rise in third-quarter profit <PUNC>
-<PAR>
-general motors corp. gm proved the heaviest weight <COMMA> falling <NUM> percent after standard & poor s reiterated its sell rating on the dow component <PUNC>
-on friday <COMMA> u.s. stocks closed at five-year lows <COMMA> with the dow industrials falling <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> its lowest close since april <NUM> <COMMA> <NUM> <PUNC>
-<PAR>

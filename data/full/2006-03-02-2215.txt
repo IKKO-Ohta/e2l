@@ -1,6 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points at <NUM> <PUNC>
-among the discount retailers <COMMA> blue-chip wal-mart stores inc. wmt said that sales at stores open longer than a year <COMMA> a key industry measure known as same-store sales <COMMA> rose by <NUM> percent from a year ago <COMMA> driven by strong sales of food and consumables <PUNC>
-the figure was just slightly ahead of the <NUM> percent average increase forecast by analysts reporting to thomson first call <PUNC>
-dana s troubles hurt the automobile sector <PUNC>
-general motors corp. gm closed down almost <NUM> percent at dollar <NUM> <PUNC> ford motor co. f fell <NUM> percent to dollar <NUM> <PUNC> and daimlerchrysler dcx ended off <NUM> percent at dollar <NUM> <COMMA> while parts maker visteon corp. vc tumbled <NUM> percent to dollar <NUM> <PUNC>
-<PAR>

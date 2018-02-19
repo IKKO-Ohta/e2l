@@ -1,3 +1,0 @@
-the futures contracts for the dow jones industrial average and the s&p <NUM> were up <NUM> points at <NUM> and down <NUM> point at <NUM> <PUNC>
-other tech stocks that were pulled lower after the news included intel corp. intc <COMMA> which fell <NUM> cents to dollar <NUM> in premarket trade <COMMA> and dell corp. dell which dipped <NUM> cents to dollar <NUM> <PUNC>
-<PAR>

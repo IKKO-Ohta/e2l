@@ -1,8 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-there was better news on the earnings front out of consumer products giant <COMMA> procter & gamble <PUNC>
-pg <PUNC>
-the company s results came in a penny ahead of analyst estimates as unit volume rose <NUM> percent in the period <PUNC>
-shares in the dow component rose as much as <NUM> cents to dollar <NUM> in early trading <PUNC>
-in other news <COMMA> shares of mcdonald s mcd climbed as much as <NUM> percent to dollar <NUM> after vornado realty trust disclosed in a filing with the securities and exchange commission that as of sept. <NUM> <COMMA> it owned <NUM> shares <COMMA> and had acquired an interest in <NUM> million additional shares of the fast food giant <PUNC>
-that represents <NUM> percent of the total number of mcdonald s shares outstanding <PUNC>
-<PAR>

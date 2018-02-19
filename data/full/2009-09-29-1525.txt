@@ -1,5 +1,0 @@
-the biggest players in technology in terms of market capitalization historically have high levels of cash on their balance sheets <COMMA> said hogan <PUNC>
-he pointed to microsoft corp. msft <COMMA> oracle corp. orcl <COMMA> cisco systems inc. csco and ibm ibm as among likely buyers of other companies <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx declined <NUM> points to <NUM> <COMMA> while the tech-laden nasdaq composite index shed <NUM> points to <NUM> <PUNC>
-<PAR>

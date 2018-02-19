@@ -1,4 +1,0 @@
-down <NUM> points earlier in the session <COMMA> the dow jones industrial average dji was lately off <NUM> points to <NUM> <COMMA> with the blue-chip benchmark down for the fifth straight session <PUNC>
-twenty of the dow s <NUM> components were in the red <COMMA> with walt disney co. dis off the most <COMMA> down <NUM> percent <PUNC>
-home-improvement retailer home depot inc. hd fared the best <COMMA> its shares up <NUM> percent <PUNC>
-<PAR>

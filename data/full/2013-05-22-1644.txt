@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the blue-chip index had been up nearly <NUM> points <COMMA> or <NUM> percent <COMMA> but it then trimmed its gain to as few as <NUM> points at about <NUM> a.m. eastern after bernanke began responding to lawmakers questions <PUNC>
-the dow and s&p <NUM> are on pace to achieve record closes again <COMMA> while the nasdaq is set to score a fresh multiyear high <COMMA> touching levels last seen in <NUM> <PUNC>
-<PAR>

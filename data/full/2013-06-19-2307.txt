@@ -1,2 +1,0 @@
-extending its streak of triple-digit moves into a seventh session <COMMA> the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-<PAR>

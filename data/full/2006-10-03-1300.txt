@@ -1,4 +1,0 @@
-on monday <COMMA> stocks ended lower <COMMA> with weakness in technology shares pacing the decline <COMMA> while the dow jones industrial average once again backed off record highs amid a disappointing sales outlook from wall-mart stores inc <PUNC>
-automakers will be in focus with the release of september sales figures <COMMA> with the chrysler unit of daimlerchrysler dcx expected to have the worst performance <PUNC>
-sales of general motors corp. gm are seen roughly flat compared to last year <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-at last check <COMMA> the dow jones industrial average dji was up <NUM> points to <NUM> <PUNC>
-the s&p <NUM> spx gained <NUM> points to <NUM> and the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
-on tuesday <COMMA> a wall street journal interview with geithner helped reeve the market higher <COMMA> pushing the dow above the <NUM> level <PUNC>
-the article in the wsj quoted geithner as having learned from what happened in japan and that the u.s. needed to act swiftly <COMMA> saying fiscal policy is about to get very aggressive <COMMA> said pado <PUNC>
-<PAR>

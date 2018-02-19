@@ -1,4 +1,0 @@
-the s&p <NUM> spx closed down <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
-the dow jones industrial average dji slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and turned negative for the year <PUNC>
-the nasdaq composite rixf shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

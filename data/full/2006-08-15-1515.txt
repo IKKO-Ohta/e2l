@@ -1,7 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-of the <NUM> dow-component stocks <COMMA> <NUM> contributed to gains <PUNC>
-shares of wal-mart wmt fell <NUM> percent to dollar <NUM> after the world s largest retailer reported a <NUM> percent decline in net profit for the second quarter along with slower-than-forecast revenue growth of <NUM> percent <PUNC>
-wal-mart s full-year earnings forecast wrapped around consensus analyst estimates <PUNC>
-also on the dow <COMMA> home depot hd was up <NUM> percent at dollar <NUM> <PUNC>
-the home-improvement giant had a better-than-forecast <NUM> percent profit rise on <NUM> percent second-quarter sales growth but cautioned that full-year earnings per share and sales will be at the low end of its previously forecast range <PUNC>
-<PAR>

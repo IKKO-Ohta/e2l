@@ -1,6 +1,0 @@
-u.s. stocks rallied to a sharply higher close on wednesday <COMMA> lifting the dow jones industrial average to record highs <COMMA> as the technology sector rallied on the back of positive news from yahoo inc. and sun microsystems inc <PUNC>
-the dow jones industrial average dji gained nearly <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> a new record closing high <COMMA> with <NUM> of its components rising <PUNC>
-the blue-chip average also hit an all-time high of <NUM> just minutes before the close <PUNC>
-shares of at&t inc. t led the advance on the dow <COMMA> rising over <NUM> percent after the company s wireless unit cingular reported better-than-expected earnings.mcdonald s corp. mcd weighed the most <COMMA> falling <NUM> percent after its posted in-line earnings <PUNC>
-tech shares <COMMA> which had led the market s advance since the start of the year <COMMA> took a beating last week after disappointing earnings outlooks from tech leaders apple inc. aapl <COMMA> intel corp. intc and ibm ibm <PUNC>
-<PAR>

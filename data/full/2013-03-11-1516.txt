@@ -1,5 +1,0 @@
-u.s. stocks on monday wavered between small gains and losses after last week s record high for the dow jones industrial average and as chinese data disappointed <PUNC>
-the dow industrials dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-last week <COMMA> the dow set a string of record closing highs <COMMA> while the s&p <NUM> index ended friday at <NUM> <COMMA> just <NUM> points from its record <PUNC>
-see <PUNC> stocks up for week <PUNC> s&p <NUM> near record <PUNC>
-<PAR>

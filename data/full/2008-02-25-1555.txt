@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <COMMA> led by home depot inc. hd <COMMA> up <NUM> percent <PUNC>
-blue-chip laggards included financial stocks <COMMA> with citigroup inc. c off <NUM> percent <COMMA> jp morgan chase jpm down <NUM> percent <COMMA> and american express co. axp down <NUM> percent <PUNC>
-deutsche bank lowered ratings for general motors gm and borgwarner bwa <COMMA> sending both to hold from buy on fears the cyclical north american downturn could be deeper and more protracted than previously expected <PUNC>
-visa said it could raise nearly dollar <NUM> billion in an initial public offering <COMMA> adding it was ahead of mastercard ma and american express axp in terms of dollar volume and transactions in <NUM> <PUNC>
-<PAR>

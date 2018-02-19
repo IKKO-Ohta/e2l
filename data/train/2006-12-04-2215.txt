@@ -1,6 +1,0 @@
-the dow industrials dji finished up <NUM> points at <NUM> <COMMA> after earlier rising over <NUM> points to a high of <NUM> <PUNC>
-within the dow <COMMA> pfizer pfe fell <NUM> percent on news that it halted development of a once-promising cholesterol drug due to safety concerns <PUNC>
-that helped provide a lift to the financial sector <COMMA> with shares of dow members american express co. axp <COMMA> citigroup inc. c and j.p. morgan chase & co. jpm all advancing more than <NUM> percent <PUNC>
-elsewhere <COMMA> home depot inc. hd <COMMA> a dow component <COMMA> gained <NUM> cents to dollar <NUM> <PUNC>
-it said in a regulatory filing that it has had no discussion about a potential leveraged buyout or recapitalization <PUNC>
-<PAR>

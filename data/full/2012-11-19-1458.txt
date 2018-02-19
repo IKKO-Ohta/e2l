@@ -1,2 +1,0 @@
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but one of its <NUM> components rising <COMMA> including cisco systems inc. csco <COMMA> up <NUM> percent after it said sunday that it would acquire meraki inc. for dollar <NUM> billion <PUNC>
-<PAR>

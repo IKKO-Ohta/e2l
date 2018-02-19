@@ -1,7 +1,0 @@
-with the clock ticking on an syrian action plan <COMMA> wall street is entering another month that already held a high probability of volatility <PUNC>
-the labor-day shortened week will also kick off a day after a large telecommunications deal <PUNC>
-verizon communications inc. vz on monday afternoon said it had reached agreement to pay dollar <NUM> billion to vodafone group plc vod to buy the u.k.-based firm s <NUM> percent stake in verizon wireless <PUNC>
-stocks on friday finished the week and month of august with losses with the possibility of u.s.-led airstrikes against syria seemingly on the rise <PUNC>
-the dow jones industrial average dji finished down <NUM> percent for the week and <NUM> percent for the month <PUNC>
-similarly <COMMA> the s&p <NUM> index spx declined <NUM> percent for the week and <NUM> percent in august <COMMA> while the nasdaq composite index rixf closed down <NUM> percent for the week and <NUM> percent on the month <PUNC>
-<PAR>

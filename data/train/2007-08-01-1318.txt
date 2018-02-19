@@ -1,3 +1,0 @@
-the futures contract for the dow jones industrial average dji last was down <NUM> points at <NUM> <PUNC>
-on tuesday u.s. stocks rallied in the morning <COMMA> but took heavy afternoon losses <COMMA> with the dow jones industrials tumbling <NUM> points <COMMA> the nasdaq composite losing <NUM> points and the s&p <NUM> falling <NUM> points <PUNC>
-<PAR>

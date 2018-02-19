@@ -1,3 +1,0 @@
-up more than <NUM> points earlier on <COMMA> the dow jones industrial average dji was more recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-hewlett-packard co. hpq was among the companies fronting blue-chip gains <COMMA> its stock up <NUM> percent <COMMA> along with at&t inc. t <COMMA> ahead <NUM> percent <PUNC>
-<PAR>

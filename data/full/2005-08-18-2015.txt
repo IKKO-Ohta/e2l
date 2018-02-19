@@ -1,4 +1,0 @@
-the dow industrials dji closed up <NUM> points at <NUM> <COMMA> following a nervous session during which it reversed direction several times <PUNC>
-dow component home depot hd closed <NUM> cents higher at dollar <NUM> after the retailer announced a new dollar <NUM> billion buyback <PUNC>
-fellow dow component altria group mo <COMMA> shot up <NUM> percent after the illinois supreme court tossed out a billion-dollar verdict in a consumer-fraud suit <COMMA> giving a possible preview of its stance in a somewhat similar case involving the food-and-tobacco titan <PUNC>
-<PAR>

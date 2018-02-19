@@ -1,5 +1,0 @@
-in recent action <COMMA> the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after hitting an earlier low of <NUM> <PUNC>
-shares of general motors corp. gm jumped <NUM> percent after rode an end-of-the-month sale to post a decline that was less severe than analysts had expected <PUNC>
-of the dow s components <COMMA> <NUM> of <NUM> were advancing <COMMA> led higher by gm <COMMA> american express axp <COMMA> citigroup inc <PUNC>
-u.s. stocks closed out the second quarter monday with steep losses <COMMA> as the dow lost <NUM> percent in june <COMMA> <NUM> percent in the second quarter and <NUM> percent for the year to date <PUNC>
-<PAR>

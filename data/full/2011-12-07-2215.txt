@@ -1,3 +1,0 @@
-u.s. stocks on wednesday closed near to where they began <COMMA> with the dow industrials displaying the most strength <COMMA> as investors crossed their fingers two days ahead of a european union summit <PUNC>
-after a two-day decline <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> supported by a <NUM> percent rise in jpmorgan chase & co. jpm after the bank said it has the authority to buy back additional shares after spending less than regulators allowed on dividends <PUNC>
-<PAR>

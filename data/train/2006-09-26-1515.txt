@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
-lowe s shares were off <NUM> percent at dollar <NUM> but shares of rival home depot hd erased early weakness to trade up <NUM> percent at dollar <NUM> <PUNC>
-general motors corp. s gm discussions with france s renault sa and japan s nissan motor corp. over a possible alliance appeared to have hit a roadblock over how best to deal with rival toyota s global expansion plans <COMMA> according to the wall street journal <PUNC>
-<PAR>

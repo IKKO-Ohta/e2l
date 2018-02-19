@@ -1,5 +1,0 @@
-the s&p <NUM> spx and the dow dji saw their biggest one-day loss since oct <NUM> <PUNC>
-the benchmark index fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the dow industrials lost <NUM> points <COMMA> or <NUM> percent <COMMA> to 17.776.80 <PUNC>
-the nasdaq composite s rixf decline was the biggest in seven weeks <COMMA> after shedding <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-retailers such as wal-mart inc. wmt <COMMA> target corp. tgt and amazon.com inc. amzn sold off <COMMA> after retail spending over the thanksgiving weekend fell <NUM> percent <COMMA> the second straight annual decline <COMMA> according to an estimate by the national retail federation <PUNC>
-<PAR>

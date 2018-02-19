@@ -1,2 +1,0 @@
-the dow jones industrial average gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by a <NUM> percent gain in shares of caterpillar inc. and a <NUM> percent gain in shares of alcoa inc. <PUNC>
-<PAR>

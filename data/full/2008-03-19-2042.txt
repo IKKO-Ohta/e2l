@@ -1,5 +1,0 @@
-after being up-and-down much of the session <COMMA> the major indexes accelerated their losses as the session end neared <COMMA> with the dow jones industrial average dji down <NUM> points <COMMA> or <NUM> percent <COMMA> to settle at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> all but one closed in the red <COMMA> with the losses led by the likes of chevron corp. cvx <COMMA> off <NUM> percent <COMMA> and exxon mobil corp. xom <COMMA> down <NUM> percent <PUNC>
-the sole blue chip to end higher proved the coca-cola co. ko <COMMA> which gained <NUM> percent <PUNC>
-on tuesday <COMMA> the dow industrials rose <NUM> points <COMMA> the s&p <NUM> added <NUM> points and the nasdaq composite rose <NUM> points after lehman brothers holdings inc. leh and goldman sachs group gs offered relief on earnings and the federal reserve cut interest rates by three-quarters of a percentage point <PUNC>
-<PAR>

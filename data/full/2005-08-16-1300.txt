@@ -1,5 +1,0 @@
-the futures contracts for the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq <NUM> all were indicating losses in the early minutes of trade <PUNC>
-wal-mart wmt was down <NUM> percent at dollar <NUM> in pre-market trade after the company reported strong results for july <COMMA> but warned that gasoline continues to weigh on its price-conscious shoppers <PUNC>
-fellow retailer home depot hd was up <NUM> cents at dollar <NUM> after reporting that its second-quarter profit rose <NUM> percent to dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> from the year-earlier quarter <PUNC>
-it also lifted its <NUM> earnings outlook <PUNC>
-<PAR>

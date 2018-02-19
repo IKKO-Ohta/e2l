@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and undercut its 50-day moving average <PUNC>
-the blue-chip index moved by triple-digits in six out of past eight sessions <PUNC>
-the index is down <NUM> percent from its record close set sept. <NUM> <PUNC>
-<PAR>

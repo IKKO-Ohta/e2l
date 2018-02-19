@@ -1,9 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-in the last three sessions <COMMA> the blue-chip index has rallied nearly <NUM> points from an intraday low of <NUM> touched in the aftermath of the terrorist bombings in london <PUNC>
-within the dow jones industrials <COMMA> procter & gamble pg rallied <NUM> percent to dollar <NUM> after prudential equity group upgraded the consumer-products giant to overweight from neutral weight <COMMA> saying it believes the company will become both bigger and stronger after its acquisition of gillette co. g closes <PUNC>
-dupont dd climbed <NUM> percent to dollar <NUM> after deutsche bank reiterated a buy rating on the chemical group <COMMA> saying investors are failing to recognize its powerful <COMMA> ongoing transformation into a higher-growth <COMMA> higher-return company <PUNC>
-another blue chip <COMMA> merck mrk recovered from early weakness to trade up <NUM> percent as jury selection began in texas for the first wrongful-death suit filed over the company s discontinued drug vioxx <PUNC>
-merck withdrew vioxx from the market last fall after it was suspected of triggering cardiovascular problems in some patients <PUNC>
-general electric co. ge and caisse de depot et placement du quebec are buying southern star <COMMA> the biggest natural-gas pipeline system in the central u.s. <COMMA> from american international group inc. aig for dollar <NUM> million <COMMA> including debt <PUNC>
-ge shares ended up <NUM> percent while aig shares climbed <NUM> percent <PUNC>
-<PAR>

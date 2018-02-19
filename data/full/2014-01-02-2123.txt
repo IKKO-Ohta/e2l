@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> marking its biggest one-day point loss since nov. <NUM> <PUNC>
-the main stock indexes fell on the first trading day of the year for the first time since <NUM> and analysts said that losses were due to profit-taking after the market s strong rally in <NUM> <PUNC>
-the dow and s&p <NUM> both ended <NUM> at record highs on tuesday and u.s. markets were closed on wednesday for new year s day <PUNC>
-<PAR>

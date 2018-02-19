@@ -1,3 +1,0 @@
-futures for the dow jones industrial average dji advanced <NUM> points to <NUM> <COMMA> while s&p futures spx gained <NUM> points to <NUM> and nasdaq <NUM> futures rose <NUM> points to <NUM> <PUNC>
-wall street rallied monday <COMMA> pushing the dow to a record close as write-downs by citigroup inc. c bolstered thinking that investors now have a handle on the extent of the damage stemming from risky home loans <PUNC>
-<PAR>

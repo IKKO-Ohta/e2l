@@ -1,4 +1,0 @@
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-commodities-related companies weighed on the measures <COMMA> with alcoa off <NUM> percent <COMMA> chevron cvx down <NUM> percent and exxon mobil xom off <NUM> percent <PUNC>
-bank of america bac was also weak with a <NUM> percent drop while walt disney dis fell <NUM> percent <PUNC>
-<PAR>

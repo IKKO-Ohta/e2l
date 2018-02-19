@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with only five of its components finishing in positive territory <PUNC>
-financials led the blue-chip decliners <PUNC>
-shares of bank of america bac fell <NUM> percent <COMMA> citigroup c dropped <NUM> percent and american express axp fell <NUM> percent <PUNC>
-shares of general motors corp. gm dropped <NUM> percent <PUNC>
-j.p. morgan chase s jpm dollar <NUM> billion write-off <COMMA> wachovia s wb wider-than-originally-reported second-quarter loss and reduced earnings estimates for goldman sachs group all dragged on u.s. stocks in tuesday s session <PUNC>
-<PAR>

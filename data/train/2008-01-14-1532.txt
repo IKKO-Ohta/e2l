@@ -1,5 +1,0 @@
-u.s. stocks rebounded on monday <COMMA> with the dow industrials rising more than <NUM> points as international business machines corp. s preliminary results topped expectations and gave an oversold market reason to turn higher <PUNC>
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <PUNC>
-setting the pace were shares of ibm <COMMA> up <NUM> percent <COMMA> and hewlett-packard co. hpq <COMMA> up <NUM> percent <PUNC>
-dow laggards included merck & co. mrk <COMMA> shares of which traded down <NUM> percent after disappointing results from a study for a cholesterol drug <PUNC>
-<PAR>

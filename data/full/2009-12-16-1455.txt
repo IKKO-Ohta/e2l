@@ -1,3 +1,0 @@
-shortly after the opening bell <COMMA> the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-gainers were led by bank of america corp. bac <COMMA> alcoa inc. aa and home depot inc. hd <COMMA> as <NUM> of the index s <NUM> components were in the green <PUNC>
-<PAR>

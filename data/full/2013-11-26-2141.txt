@@ -1,4 +1,0 @@
-u.s. stocks finished slightly higher on tuesday after erasing gains in the final minutes of trading <COMMA> but the nasdaq composite still scored its first close above <NUM> since september <NUM> <PUNC>
-the dow jones industrial average eked out another record close <PUNC>
-the dow rose <NUM> point to finish at <NUM> for its fourth straight record close <COMMA> while the nasdaq tacked on <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
-read more <PUNC> putting nasdaq <NUM> in perspective <PUNC> <PUNC>

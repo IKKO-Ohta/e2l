@@ -1,4 +1,0 @@
-u.s. stocks posted mild gains wednesday <COMMA> with the dow jones industrial average extending its record run into a ninth session <COMMA> after february retail sales beat expectations <PUNC>
-erasing losses <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-on tuesday <COMMA> the dow erased losses to turn positive late in the session <COMMA> extending its longest winning streak in two years and finishing at another all-time high <PUNC>
-<PAR>

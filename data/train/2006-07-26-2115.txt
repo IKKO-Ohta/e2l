@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> after rallying more than <NUM> points in the previous two sessions <PUNC>
-shares of dow component gm gm jumped <NUM> percent to dollar <NUM> after the auto maker reported sales of dollar <NUM> billion <COMMA> exceeding the thomson first call average analysts estimate of dollar <NUM> billion <PUNC>
-boeing ba <COMMA> also in the dow <COMMA> tumbled <NUM> percent to dollar <NUM> <PUNC>
-the aerospace giant lowered its <NUM> earnings-per-share forecast <COMMA> although it increased its outlook for <NUM> <PUNC>
-another dow component <COMMA> hewlett-packard co. hpq added <NUM> percent to dollar <NUM> after the company agreed to buy management-software provider mercury interactive merqe <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-on tuesday <COMMA> the blue-chip index <COMMA> like the s&p <NUM> <COMMA> ended at a one-month low <PUNC>
-shares in boeing co. ba rose <NUM> percent to dollar <NUM> <PUNC>
-the aircraft maker said it has signed a general purchase agreement with china aviation supplies import and export group for <NUM> boeing <NUM> airplanes <PUNC>
-the agreement <COMMA> when combined with the <NUM> planes agreed to in a november <NUM> deal <COMMA> makes the entire planned transaction a 150-airplane purchase <PUNC>
-<PAR>

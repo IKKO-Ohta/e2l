@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the s&p <NUM> index spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a four-month high <PUNC>
-the broad index <COMMA> used by investing professionals to benchmark the market <COMMA> is now up <NUM> percent for the year so far <PUNC>
-<PAR>

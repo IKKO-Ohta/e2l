@@ -1,7 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components advanced <PUNC>
-the dow has now resurfaced above its february <NUM> level <COMMA> just before the market took a plunge through early march <PUNC>
-the blue-chip average was lifted by a <NUM> percent gain in shares of citigroup c <COMMA> whose operating earnings beat analysts forecasts <PUNC>
-citigroup s upbeat results also lifted other financial shares on the dow such as american express co. axp and jp morgan chase & co. jpm <PUNC>
-among falling sectors were semiconductors soxx <COMMA> natural gas xng and oil shares xoi <COMMA> including exxon mobil corp. xom <PUNC>
-on friday stocks posted gains on the day and week <COMMA> benefiting from upbeat earnings and forecasts from blue-chip stocks <COMMA> including merck & co. <COMMA> mrk general electric co. ge and mcdonald s corp. mcd <PUNC>
-<PAR>

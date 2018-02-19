@@ -1,2 +1,0 @@
-clearing mild starting gains <COMMA> the dow jones industrial average dji was off <NUM> points to <NUM> <COMMA> with heavy-equipment maker caterpillar inc. cat leading gains that included <NUM> of its <NUM> components <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in afternoon action <PUNC>
-the measure has fallen in three of the past four full trading sessions <COMMA> with a 133-point surge monday <PUNC>
-<PAR>

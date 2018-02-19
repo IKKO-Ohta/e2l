@@ -1,6 +1,0 @@
-hewlett-packard <COMMA> however <COMMA> was a bright spot on the dow jones industrial average <COMMA> after the computer and printer maker posted strong quarterly earnings <PUNC>
-the dow industrials dji fell <NUM> points to <NUM> <PUNC>
-hewlett-packard co. hpq was the only dow component posting gains <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
-the company reported a <NUM> percent rise in its second-quarter profit as the technology giant saw strong sales at its personal-computer and printing and imaging divisions <PUNC>
-the company s earnings also beat wall street expectations <PUNC>
-<PAR>

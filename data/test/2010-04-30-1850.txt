@@ -1,2 +1,0 @@
-the dow jones industrial average dji was off almost <NUM> points at its intraday low around <NUM> p.m. eastern and recently traded <NUM> points lower at <NUM> <COMMA> weighed down by declines of more than <NUM> percent each in j.p morgan chase co. jpm <COMMA> bank of america corp. bac <COMMA> and caterpillar cat <PUNC>
-<PAR>

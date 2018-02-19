@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components losing ground <PUNC>
-american express co. axp led the blue-chip decliners <PUNC> its shares were down <NUM> percent <PUNC>
-mcdonald s corp. mcd led the dow s limited gains <COMMA> with shares of the fast-food giant up <NUM> percent at dollar <NUM> <COMMA> surpassing its prior record hit on friday <PUNC>
-the chain s gains came as troubled rival burger king holdings bkc last week agreed to sell itself to investment firm 3g capital <PUNC>
-bucking the down trend <COMMA> shares of oracle corp. orcl advanced <NUM> percent after the database-software titan said it hired mark hurd <COMMA> the former hewlett-packard co. hpq chief <COMMA> as one of its presidents <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-after an opening drop of more than <NUM> points <COMMA> the dow jones industrial average dji was recently off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-aig aig fronted the blue-chip declines <COMMA> its stock falling <NUM> percent to dollar <NUM> a share <PUNC>
-<PAR>

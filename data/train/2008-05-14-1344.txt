@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> in early action <PUNC>
-on wednesday <COMMA> u.s. equities ended mixed <COMMA> with the blue chips hit by a cautious second-quarter outlook from wal-mart stores inc. wmt and by hewlett-packard co. hpq moving to acquire electronic data systems eds <PUNC>
-the technology sector <COMMA> however <COMMA> drew a late-session lift on reports that billionaire carl icahn had acquired a significant stake in yahoo inc. yhoo <COMMA> potentially in an attempt to force a sale of the internet search company <COMMA> which rebuffed would-be acquirer microsoft corp. msft recently <PUNC>
-<PAR>

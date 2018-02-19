@@ -1,3 +1,0 @@
-the s&p <NUM> spx closed up <NUM> points <COMMA> or <NUM> percent at <NUM> and finished the week <NUM> percent lower <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent to <NUM> <COMMA> bur recorded a <NUM> percent weekly loss <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-p&g pg led the dow s decline <COMMA> its stock off more than <NUM> percent <PUNC>
-<PAR>

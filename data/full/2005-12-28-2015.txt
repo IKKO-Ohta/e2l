@@ -1,8 +1,0 @@
-the dow jones industrials average dji rallied <NUM> points to <NUM> <COMMA> with <NUM> of <NUM> components contributing to gains <PUNC>
-within the dow industrials <COMMA> exxon mobil s xom <NUM> percent gain and 3m co. s mmm <NUM> percent rise paced the gainers <PUNC>
-general motors gm <NUM> percent skid led the losers <PUNC>
-the curve had inverted on tuesday for the first time in <NUM> years <COMMA> and led to the biggest one-day drop in the dow in <NUM> months <COMMA> as these events usually lead to a recession <PUNC>
-<PAR>
-discount retailing giant target tgt said it sees december same-store sales rising <NUM> percent to <NUM> percent <COMMA> which was in line with prior forecasts <PUNC>
-that follows rival wal-mart s wmt assertion on saturday that december same-store sales would rise in line with previous forecasts of <NUM> percent to <NUM> percent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-financials also led losses in friday trades <COMMA> while telecommunication issues fronted the gains <PUNC>
-the major indexes meandered in and out of positive and negative territory and were all but certainly headed to weekly losses <PUNC>
-the dow jones industrial average dji was recently down <NUM> points at <NUM> <COMMA> which would give the blue-chip gauge a <NUM> percent slide from last friday s close <PUNC>
-the dow is now too heavily weighted in financials to accurately reflect the current business mix of this country <COMMA> said marc pado <COMMA> u.s. market strategist <COMMA> cantor fitzgerald <PUNC>
-<PAR>

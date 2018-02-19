@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in early trading <COMMA> while the standard & poor s 500-stock index spx added <NUM> percent to <NUM> and the nasdaq composite rixf rose <NUM> percent to <NUM> <PUNC>
-the strong start to the morning follows a dismal month that saw the dow drop <NUM> percent <COMMA> its worst august in nearly a decade <PUNC>
-investors will also be keeping an eye on retailers after mastercard advisors <COMMA> which crunches data from credit cards <COMMA> checks and cash payments to form sales estimates <COMMA> said sales numbers were far short of <NUM> levels for the critical back-to-school shopping season <PUNC>
-wal-mart stores wmt gained <NUM> percent and target tgt advanced <NUM> in early trading% <COMMA> while jc penney jcp and the gap gps gained <NUM> percent and <NUM> percent respectively <PUNC>
-<PAR>

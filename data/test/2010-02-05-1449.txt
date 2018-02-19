@@ -1,6 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in early trading <PUNC>
-boeing ba weighed on the dow <COMMA> with the aerospace company down <NUM> percent <PUNC>
-the measure s strongest performer was bank of america bac <COMMA> up <NUM> percent <COMMA> after reaching a dollar <NUM> million settlement with the securities and exchange commission on thursday <COMMA> though the bank still faces new fraud charges filed by new york attorney general andrew cuomo <PUNC>
-stocks plunged thursday as fears over the economic health of several european countries sent jitters through global markets <PUNC>
-the dow lost <NUM> points and briefly moved below <NUM> for the first time since early november <PUNC>
-<PAR>

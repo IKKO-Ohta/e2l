@@ -1,8 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> stocks gaining ground <COMMA> led by general motors corp. gm <COMMA> which advanced nearly <NUM> percent ahead of the automaker s earnings report tuesday <PUNC>
-home depot gained <NUM> percent <COMMA> and fellow dow component boeing co. ba advanced <NUM> percent <PUNC>
-stocks weighing on the dow included verizon communications vz <PUNC>
-the wireless communications provider reported an in-line <NUM> percent rise in profit <COMMA> along with its plan to buy rural cellular corp. rccc for dollar <NUM> billion <PUNC>
-verizon stock <COMMA> which had edged higher before the opening bell <COMMA> fell <NUM> percent <COMMA> while technology giant ibm corp. ibm fell nearly <NUM> percent <PUNC>
-last week private-equity and credit-market jitters forced the major averages to suffer their worst week since march <NUM> <PUNC>
-the dow jones industrials dropped <NUM> percent <COMMA> the s&p <NUM> fell <NUM> percent and the nasdaq composite lost <NUM> percent <PUNC>
-<PAR>

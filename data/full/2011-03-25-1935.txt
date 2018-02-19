@@ -1,3 +1,0 @@
-at last check <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> up <NUM> percent from last friday s finish <PUNC>
-of the blue-chip index s <NUM> components <COMMA> <NUM> advanced <COMMA> led by oil producer chevron corp. cvx <COMMA> up <NUM> percent <COMMA> while hewlett-packard co. hpq fell the hardest <COMMA> off <NUM> percent <PUNC>
-<PAR>

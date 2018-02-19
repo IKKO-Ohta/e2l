@@ -1,4 +1,0 @@
-up more than <NUM> points during the session <COMMA> the dow jones industrial average dji ended <NUM> points lower to <NUM> <COMMA> with <NUM> of its <NUM> components declining <COMMA> led by at&t t <COMMA> down <NUM> percent <COMMA> after the phone giant said its broadband business was softening <PUNC>
-blue-chip financials weighed on the index <COMMA> with american express co. axp down <NUM> percent <COMMA> citigroup inc. c <COMMA> off <NUM> percent <COMMA> and j.p. morgan chase jpm also falling <NUM> percent <PUNC>
-other blue-chip losses included shares of microsoft corp. msft <COMMA> off <NUM> percent <COMMA> after the technology giant s announcement it would pay dollar <NUM> billion to acquire norwegian software developer fast search & transfer <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average rose <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index gained <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf climbed <NUM> points to <NUM> <PUNC>
-<PAR>

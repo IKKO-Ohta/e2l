@@ -1,9 +1,0 @@
-the futures contract for the dow jones industrial average last was unchanged at <NUM> <PUNC>
-the dow jones industrials and the s&p <NUM> posted gains for the month <COMMA> but the nasdaq composite lost strength <PUNC>
-according to marc pado <COMMA> u.s. market strategist at cantor fitzgerald <COMMA> demand last month was greatest for blue chip multinational companies with strong new earnings reports <COMMA> while the nasdaq s monthly decline could be an early warning sign <PUNC>
-shares of boeing ba last were <NUM> cents higher at dollar <NUM> in premarket electronic trade <PUNC>
-according to the wall street journal s online edition the company is in advanced talks to put aviation parts and services concern aviall inc for about dollar <NUM> billion <PUNC>
-wal-mart wmt stock rose <NUM> percent to dollar <NUM> in premarket action <PUNC>
-the retail giant over the weekend estimates that april same-store sales improved by <NUM> percent <COMMA> aided by a late easter <PUNC>
-the company had forecast a rise of <NUM> percent to <NUM> percent <PUNC>
-<PAR>

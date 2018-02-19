@@ -1,6 +1,0 @@
-the s&p <NUM> spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> achieving a record close <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> also scoring a record close <PUNC>
-* today s movers & shakers <PUNC> cisco systems inc. slid <NUM> percent after its earnings report late wednesday <COMMA> making it the worst performer in the dow <COMMA> the s&p <NUM> and the nasdaq <NUM> <PUNC>
-wal-mart stores inc. closed up <NUM> percent following its quarterly earnings report <PUNC>
-read more in the movers & shakers column <PUNC>
-<PAR>

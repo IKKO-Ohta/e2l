@@ -1,4 +1,0 @@
-in a healthy market everything is going in the same direction <COMMA> the dow made a new high <COMMA> and so far the s&p has failed to do that <COMMA> said bittles <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-monsanto co. mon rallied and shares of dow component dupont co. dd fell after the companies resolved a legal battle over rights to genetically modified-seed technology <PUNC>
-<PAR>

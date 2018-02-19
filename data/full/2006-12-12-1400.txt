@@ -1,5 +1,0 @@
-futures for the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> while those for the s&p <NUM> index spx eased <NUM> points to <NUM> <PUNC>
-nasdaq <NUM> futures <COMMA> meanwhile <COMMA> were down <NUM> points at <NUM> <PUNC>
-on monday <COMMA> u.s. stocks closed higher as deal news <COMMA> oil price weakness and an upgrade for j.p. morgan chase & co. jpm contributed to a modest uptick <PUNC>
-among blue chips <COMMA> citigroup inc. c will be in focus after the bank named robert druskin <COMMA> now chief executive of citigroup s investment-banking arm <COMMA> to be chief operating officer <COMMA> reporting directly to ceo charles prince <PUNC>
-<PAR>

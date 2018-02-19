@@ -1,4 +1,0 @@
-the s&p <NUM> spx added <NUM> points to <NUM> <COMMA> new record close <PUNC>
-the dow jones industrial average dji hovered near record levels <COMMA> but closed just below it after adding <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf finished the day down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-<PAR>

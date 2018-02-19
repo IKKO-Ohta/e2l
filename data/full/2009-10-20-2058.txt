@@ -1,5 +1,0 @@
-on the dow jones industrial average <COMMA> home depot inc. hd was among those hit <COMMA> with shares of the home improvement retailer falling <NUM> percent <PUNC>
-away from the dow <COMMA> pulte homes inc. phm shed <NUM> percent of its market valuation <COMMA> while lennar corp. len shares fell <NUM> percent and dr horton inc. dhi declined <NUM> percent <PUNC>
-shares of residential builder toll brothers inc. tol lapsed <NUM> percent and hovnanian enterprise inc. hov dropped <NUM> percent <PUNC>
-on wall street <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> while the s&p <NUM> index spx declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the nasdaq composite index rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

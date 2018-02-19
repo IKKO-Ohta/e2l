@@ -1,8 +1,0 @@
-the coming week includes results from half a dozen dow components <COMMA> including heavy-equipment maker caterpillar inc. cat ahead of the open on monday <PUNC>
-listen to monday market preview <PUNC>
-on friday <COMMA> the dow jones industrial average dji extending its winning run to an eighth consecutive week <COMMA> the longest such stretch since an eight-week climb that ended jan. <NUM> <COMMA> <NUM> <PUNC>
-up <NUM> percent for the week <COMMA> the dow added <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> its highest close since sept. <NUM> <COMMA> <NUM> <PUNC>
-we ve been reaching to find catalysts to sell stocks <COMMA> said hogan <COMMA> who points to the recent hits taken by <PUNC>
-msft and <PUNC>
-goog <COMMA> both of which didn t beat the whisper numbers <COMMA> hogan said <PUNC>
-<PAR>

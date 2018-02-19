@@ -1,4 +1,0 @@
-trading in a nearly 240-point range throughout the day <COMMA> the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components tallying gains <COMMA> led by hewlett-packard co. hpq <COMMA> shares of which rose <NUM> percent following the computer maker s solid earnings <PUNC>
-<PAR>
-as was the case on tuesday <COMMA> telecommunications stocks were among the blue-chip decliners <COMMA> with at&t inc. t off <NUM> percent and verizon communications inc. vz down <NUM> percent <PUNC>
-<PAR>

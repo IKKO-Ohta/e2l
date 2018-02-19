@@ -1,7 +1,0 @@
-the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components losing ground <PUNC>
-pfizer pfe <COMMA> a dow component <COMMA> slipped <NUM> percent as the drug-making giant said its profit dropped <NUM> percent but held onto its profit guidance for the year <PUNC>
-financial shares on the dow turned higher <COMMA> with bank of america bac jp morgan chase jpm recouping earlier losses <COMMA> even as merrill lynch mer fell <NUM> percent after saying it swung to a quarterly loss of dollar <NUM> billion and would cut <NUM> jobs <PUNC>
-another dow component <COMMA> ibm ibm <COMMA> rose <NUM> percent after the technology giant recorded a <NUM> percent profit rise <COMMA> topping analyst forecasts <COMMA> and upped its <NUM> forecast <PUNC>
-u.s. stocks had rallied wednesday as results and outlooks from intel corp. <COMMA> j.p. morgan chase and others helped boost confidence in earnings season <COMMA> while resource stocks were helped by commodities strength <PUNC>
-the dow jones industrial average finished with a gain of <NUM> points <COMMA> the nasdaq composite added <NUM> points and the s&p <NUM> rose <NUM> points <PUNC>
-<PAR>

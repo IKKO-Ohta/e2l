@@ -1,5 +1,0 @@
-the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
-the futures for the s&p <NUM> were down <NUM> points at <NUM> and the nasdaq <NUM> down <NUM> points at <NUM> <COMMA> also pointing toward a lower opening <PUNC>
-predictions that the storm will compel gulf coast consumers to buy goods to make their homes safer lent support to home improvement retailers <PUNC>
-home depot hd was <NUM> percent higher and lowes companies low rose <NUM> percent before the opening <PUNC>
-<PAR>

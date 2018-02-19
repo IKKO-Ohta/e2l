@@ -1,4 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points to close at <NUM> <PUNC>
-general motors corp. gm weighed on the blue-chip average <COMMA> losing <NUM> percent <COMMA> after fitch ratings said the auto industry is headed for a turbulent <NUM> <PUNC>
-dow-component merck mrk <COMMA> also weighed <COMMA> falling nearly <NUM> percent after the drug maker reaffirmed its flattish earnings forecasts for <NUM> and slightly higher earnings for <NUM> <PUNC>
-<PAR>

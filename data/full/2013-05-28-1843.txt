@@ -1,2 +1,0 @@
-looking to close higher for a 20th consecutive tuesday <COMMA> the dow jones industrial average dji rose as much as <NUM> points <COMMA> and was lately up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-<PAR>

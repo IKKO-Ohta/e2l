@@ -1,7 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with all but five of its <NUM> components down in afternoon trade <PUNC>
-blue-chip decliners were led by citigroup inc. c <COMMA> down <NUM> percent after merrill lynch cut the bank s earnings estimates <PUNC>
-<PAR>
-other stocks weighing on the dow include intel intc <COMMA> down <NUM> percent after the chipmaker lowered its gross-margin outlook for the current quarter <PUNC>
-<PAR>
-blue-chip gains were tallied by coca-cola co. ko <COMMA> recently ahead <NUM> percent <COMMA> and hewlett-packard co. hpq <COMMA> up <NUM> percent <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
-the blue-chip benchmark felt the weight of weakness in the likes of alcoa inc. aa <COMMA> general motors corp. gm and intel corp. intc <PUNC>
-hewlett-packard hpq <COMMA> a key dow component and technology leader <COMMA> weighed hard on blue chips <COMMA> falling <NUM> percent <PUNC>
-late tuesday <COMMA> the company posted first-quarter earnings that topped analysts expectations <COMMA> but its outlook left some disappointed <PUNC>
-also within the dow <COMMA> united technologies corp. utx slipped <NUM> percent <PUNC>
-the company s otis unit was one of four companies fined a total of dollar <NUM> billion by the european commission for allegedly rigging prices to install and maintain escalators and elevators <PUNC>
-<PAR>

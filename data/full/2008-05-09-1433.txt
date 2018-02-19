@@ -1,4 +1,0 @@
-the dow jones industrial average dji shed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> with the losses led by aig aig <COMMA> down <NUM> percent <COMMA> following its larger-than-forecast loss <COMMA> which led standard & poor s and fitch to cut the insurance giant s credit rating <PUNC>
-u.s. stocks ended higher on thursday <COMMA> with better-than-expected april sales by wal-mart stores inc. wmt and others driving a mild rebound <PUNC>
-the financial sector was also hit by word from citigroup c that the financial goliath would sell or downside pieces of its sprawling empire <COMMA> with citigroup presenting the plan on its web site <PUNC>
-<PAR>

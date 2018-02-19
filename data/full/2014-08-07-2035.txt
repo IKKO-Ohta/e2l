@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its lowest close since april <NUM> <PUNC>
-the blue-chip index is <NUM> percent off its july <NUM> record close after falling in <NUM> of the past <NUM> trading days <PUNC>
-<PAR>

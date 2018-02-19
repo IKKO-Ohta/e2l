@@ -1,4 +1,0 @@
-the dow jones industrial average dji finished the day up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-shares of visa v rallied <NUM> percent after reporting higher quarterly earnings and revenue than anticipated <PUNC>
-exxon mobil corp xom shares fell <NUM> percent after earnings disappointed <PUNC>
-<PAR>

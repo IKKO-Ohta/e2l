@@ -1,5 +1,0 @@
-the dow jones industrials average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of <NUM> components contributing to losses <COMMA> and was in danger of suffering its worst one-day point loss in <NUM> months <PUNC>
-the blue chip barometer <COMMA> which had been up as much as <NUM> points earlier in the session <COMMA> was briefly down triple digits in intraday trading <PUNC>
-within the dow <COMMA> exxon mobil xom slid <NUM> percent and wal-mart wmt shed <NUM> percent to lead the losers <PUNC>
-hewlett-packard hpq paced the gainers with a mere <NUM> percent gain <PUNC>
-<PAR>

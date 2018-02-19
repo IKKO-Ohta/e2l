@@ -1,5 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points at <NUM> <COMMA> falling off an earlier high of <NUM> <PUNC>
-among blue chips <COMMA> citigroup c rose <NUM> percent after saying it planned to roughly double its china branch network in 2007.. and boeing co. ba gained <NUM> percent after colombia s largest airline <COMMA> avianca sa <COMMA> said it would buy <NUM> of boeing s <NUM> dreamliner aircraft. <PUNC>
-intel intc was flat after saying it would make design changes to boost microchip performance <COMMA> including adopting techniques from rival advanced micro devices amd <PUNC>
-amd fell <NUM> percent <PUNC>
-<PAR>

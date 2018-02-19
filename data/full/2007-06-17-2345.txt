@@ -1,5 +1,0 @@
-joe liro <COMMA> equity strategist at stone & mccarthy research associates <COMMA> said that the quiet week might lead investors to rethink the sharp stock advances <COMMA> including a weekly climb of <NUM> percent on the nasdaq composite index rixf and a <NUM> percent spike in the dow jones industrial average dji <PUNC>
-an ease in treasury yields following the tamer than anticipated core cpi report aided the stock market s rise on friday <PUNC>
-the dow surged <NUM> points <PUNC> the tech-heavy nasdaq rose <NUM> points <PUNC> and the s&p <NUM> index rose <NUM> points <PUNC>
-the broad index closed the week up by <NUM> percent <PUNC>
-<PAR>

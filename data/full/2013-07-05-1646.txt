@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-hewlett-packard co. hpq and american express co. axp were the top-performing blue chips <COMMA> as each stock moved up <NUM> percent <PUNC>
-<PAR>

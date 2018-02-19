@@ -1,2 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after trading as high as <NUM> points earlier <PUNC>
-<PAR>

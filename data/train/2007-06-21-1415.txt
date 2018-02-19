@@ -1,3 +1,0 @@
-u.s. stocks opened lower on thursday <COMMA> as investors remained concerned about bond yields <COMMA> which yesterday led the dow jones industrial average to stumble nearly <NUM> points <COMMA> and as crude oil prices advanced towards dollar <NUM> a barrel <PUNC>
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> stocks retreated <COMMA> led by mcdonald s corp. mcd and honeywell corp. hon <PUNC>
-<PAR>

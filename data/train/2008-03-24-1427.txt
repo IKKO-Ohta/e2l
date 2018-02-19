@@ -1,5 +1,0 @@
-after rising more than <NUM> points <COMMA> the dow jones industrial average dji was recently ahead <NUM> points to <NUM> <PUNC>
-shares of bear stearns bsc soared <NUM> percent after j.p. morgan jpm boosted its offer for the 85-year-old firm to dollar <NUM> a share from an initial bid of dollar <NUM> a share <COMMA> with the sweetened bid valuing the firm at more than dollar <NUM> billion <PUNC>
-<PAR>
-bear s surge helped lift other shares in the financial sector <COMMA> with citigroup inc. c leading early gains on the blue chips <COMMA> up more than <NUM> percent <PUNC>
-<PAR>

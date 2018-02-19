@@ -1,2 +1,0 @@
-bucking the positive trend <COMMA> the dow jones industrial average dji closed <NUM> points lower to <NUM> <COMMA> shedding <NUM> percent over the week <COMMA> posting its second weekly loss in a row this year <PUNC>
-<PAR>

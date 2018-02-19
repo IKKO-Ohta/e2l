@@ -1,6 +1,0 @@
-after closing thursday at its lowest level since september <NUM> <COMMA> the dow jones industrial average dji was last off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> still advanced <COMMA> with investors buying battered financial components american express axp <COMMA> citigroup c <COMMA> and jp morgan chase jpm <PUNC>
-american international group aig fell <NUM> percent <COMMA> after the insurance giant said it will absorb dollar <NUM> billion in losses from securities lending <COMMA> bloomberg news reported <COMMA> citing an executive there <PUNC>
-stocks were crushed on thursday after tepid earnings outlooks from technology bellwethers oracle corp. orcl and research in motion rimm <COMMA> negative notes from goldman sachs on brokers and general motors gm <COMMA> and oil prices reaching dollar <NUM> a barrel <PUNC>
-the dow plunged <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the tech-heavy nasdaq slumped <NUM> points <PUNC>
-<PAR>

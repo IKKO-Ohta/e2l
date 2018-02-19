@@ -1,7 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points at <NUM> <PUNC>
-for the week <COMMA> the dow jones industrials and the s&p <NUM> both gained <NUM> percent <COMMA> while the nasdaq composite dropped <NUM> percent <PUNC>
-the university of michigan s december consumer sentiment survey came in with a final reading of <NUM> points <PUNC>
-the dow jones forecast <COMMA> based on a poll of economists <COMMA> was for an unchanged reading of <NUM> <PUNC>
-boeing ba <COMMA> a dow component <COMMA> ended up <NUM> cents at dollar <NUM> <PUNC>
-after earlier striking an all-time high of dollar <NUM> <COMMA> on the back of a media report that it may edge out airbus to win deal worth more than dollar <NUM> billion with singapore airlines <PUNC>
-<PAR>

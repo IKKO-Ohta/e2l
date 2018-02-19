@@ -1,4 +1,0 @@
-the futures contract for the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
-on friday <COMMA> credit concerns and a weak jobs report drove a sell-off that marked the dow s third worst day of the year <PUNC>
-the dow industrials dropped <NUM> points <COMMA> the s&p <NUM> fell <NUM> points and the nasdaq composite lost <NUM> points <PUNC>
-<PAR>

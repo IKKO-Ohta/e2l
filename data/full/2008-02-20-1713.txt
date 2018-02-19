@@ -1,4 +1,0 @@
-off its earlier lows <COMMA> the dow jones industrial average dji was more recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components tallying losses <PUNC>
-as was the case tuesday <COMMA> telecommunications stocks led the blue-chip declines <COMMA> with at&t inc. t off <NUM> percent and verizon communications vz down <NUM> percent <PUNC>
-among blue chips on the rise was hewlett-packard co. hpq <COMMA> shares of which rose following the computer maker s solid earnings <PUNC>
-<PAR>

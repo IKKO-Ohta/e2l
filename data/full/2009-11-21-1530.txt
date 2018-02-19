@@ -1,6 +1,0 @@
-hewlett-packard co. hpq and deere & co. de earnings <COMMA> home-sales data <COMMA> and a fresh estimate of u.s. gross domestic product growth all hit the calendar next week <PUNC>
-plus <COMMA> the federal reserve will release minutes from its last rate meeting <PUNC>
-pfizer inc. pfe and johnson & johnson co. jnj <COMMA> which standard & poor s says have consistently paid dividends for a quarter of a century <COMMA> look like safe bets for investors seeking fixed pay-outs <PUNC>
-pfizer shares were the second-best performer on the dow jones industrial average last week <COMMA> gaining <NUM> percent <PUNC>
-fellow drugmaker merck & co. mrk gained <NUM> percent <PUNC>
-<PAR>

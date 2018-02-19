@@ -1,4 +1,0 @@
-after rising as much as <NUM> points and falling as much as <NUM> <COMMA> the dow jones industrial average dji was lately off <NUM> points at <NUM> <PUNC>
-moving issues included barnes & noble inc. bks <COMMA> its shares surging <NUM> percent after a report by techcrunch that microsoft corp. msft was considering an offer to pay dollar <NUM> billion for the digital assets of nook media <COMMA> a joint venture between the bookseller and other investors <PUNC>
-u.s. equities advanced on wednesday as corporate-profit outlooks bolstered sentiment <COMMA> with the dow industrials notching their second all-time close above <NUM> and the s&p <NUM> index closing at an all-time high for a fifth straight session <PUNC>
-<PAR>

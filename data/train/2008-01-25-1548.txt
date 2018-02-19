@@ -1,7 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> pulling back after breaking through one minor upside resistance level of <NUM> earlier on <COMMA> said robert pavlik <COMMA> chief investment officer at oaktree asset management <PUNC>
-the dow s next upside resistance looked to be <NUM> <COMMA> pavlik said <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> traded higher <COMMA> with honeywell hon among those advancing <PUNC>
-meanwhile <COMMA> shares of microsoft msft rose <NUM> percent after the software giant posted an <NUM> percent surge in quarterly profit <PUNC>
-and caterpillar s stock gained <NUM> percent <PUNC>
-the company caterpillar cat said fourth-quarter earnings grew about <NUM> percent <PUNC>
-<PAR>

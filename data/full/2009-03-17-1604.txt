@@ -1,4 +1,0 @@
-on tuesday <COMMA> stocks meandered between positive and negative turf <COMMA> posting modest gains at last check <PUNC>
-the dow jones industrial average was up <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index climbed <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf rose <NUM> points to <NUM> <PUNC>
-<PAR>

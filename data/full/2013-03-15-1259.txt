@@ -1,6 +1,0 @@
-futures for the dow jones industrial average djm3 rose <NUM> points to <NUM> <PUNC>
-futures for the s&p <NUM> spm3 climbed nearly <NUM> point to <NUM> <PUNC>
-bank of america corp. bac rose <NUM> percent in premarket trading after the federal reserve okayed its share-buyback plan <PUNC>
-j.p. morgan chase & co. jpm and goldman sachs group inc. gs fell after the fed approved their capital plans but also asked them to resubmit new ones in six months <PUNC>
-the dow industrials dji stretched their winning run to <NUM> sessions on thursday <COMMA> climbing <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> the eighth straight record close <PUNC>
-<PAR>

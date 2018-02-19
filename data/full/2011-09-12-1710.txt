@@ -1,2 +1,0 @@
-after falling as much as <NUM> points and climbing all the way back to the unchanged mark <COMMA> the dow jones industrial average dji was lately off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-<PAR>

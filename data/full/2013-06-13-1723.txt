@@ -1,5 +1,0 @@
-u.s. stocks rose thursday <COMMA> putting the dow industrials on track to halt their longest losing streak this year <COMMA> as upbeat retail sales and the labor data overcame worry about japanese equities <PUNC>
-after rising <NUM> points and falling as much as <NUM> <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-wall street stocks tumbled on wednesday <COMMA> with the dow marking its third-straight loss <COMMA> the first time that has happened this year <PUNC>
-after rising <NUM> points <COMMA> the dow ended on thursday down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the s&p <NUM> lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

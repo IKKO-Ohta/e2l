@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> fueled by exxon mobil xom <COMMA> which was one of the biggest gainers in the blue-chip index <PUNC>
-3m mmm was the dow s worst performer <COMMA> falling <NUM> percent after its earnings report disappointed investors <PUNC>
-the consumer and industrial manufacturer s third-quarter profit jumped <NUM> percent on higher sales at a bulk of its operating divisions <PUNC>
-but 3m merely narrowed its <NUM> profit target due to the impact of acquisitions made in recent months <PUNC>
-<PAR>

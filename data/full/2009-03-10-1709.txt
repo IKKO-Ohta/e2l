@@ -1,3 +1,0 @@
-the dow jones industrial average gained <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index rose <NUM> points to <NUM> <COMMA> and the nasdaq gained <NUM> points to <NUM> <PUNC>
-<PAR>

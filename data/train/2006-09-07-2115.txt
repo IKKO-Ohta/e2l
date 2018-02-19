@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to losses <PUNC>
-wal-mart stores inc. wmt rose as much as <NUM> percent to a session high of dollar <NUM> after eduardo castro-wright <COMMA> chief executive of wal-mart stores u.s. division <COMMA> told investors that second-quarter sales were helped by the important back-to-school shopping season <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with unitedhealth group inc. unh leading declines that included <NUM> of its <NUM> components <PUNC>
-verizon communications inc. vz rose <NUM> percent as an increase in wireless customers had it topping profit estimates <PUNC>
-<PAR>

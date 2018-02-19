@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> its highest close since june <NUM> <PUNC>
-shares in dupont dd rose <NUM> percent to dollar <NUM> in pre-market trading on instinet after the chemicals company lifted its first-quarter <NUM> adjusted earnings forecast to <NUM> cents a share <COMMA> up from a previous outlook of <NUM> cents <COMMA> reflecting better operating performance <COMMA> partly offset by weaker european market conditions <PUNC>
-dupont also raised its <NUM> earnings forecasts to dollar <NUM> to dollar <NUM> a share before items <PUNC>
-general motors corp. gm surged <NUM> percent to dollar <NUM> in pre-market trading after the wall street journal reported the automaker has received a bid for its gmac arm by investors led by kohlberg <COMMA> kravis & roberts <PUNC>
-<PAR>

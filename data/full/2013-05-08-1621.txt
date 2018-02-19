@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> after closing above <NUM> for the first time on tuesday <PUNC>
-on the dow <COMMA> hewlett-packard co. hpq <COMMA> j.p. morgan chase & co. jpm and alcoa inc. aa were among the top gainers <PUNC>
-leading decliners included walt disney co. dis and coca-cola co. ko <PUNC>
-disney dis said late tuesday its fiscal second-quarter profit rose a better-than-expected <NUM> percent <PUNC>
-shares fell <NUM> percent to dollar <NUM> <PUNC>
-the stock is the no <PUNC>
-<NUM> percentage gainer on the dow so far this year <PUNC>
-<PAR>

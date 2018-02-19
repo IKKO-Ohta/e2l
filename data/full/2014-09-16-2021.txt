@@ -1,5 +1,0 @@
-the u .s <PUNC>
-equity market ended tuesday s session higher <COMMA> sending the dow jones industrial average to an intraday record high <COMMA> while the s&p <NUM> recorded its biggest one-day gain in <NUM> weeks <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after briefly touching an intraday record high <PUNC>
-the nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

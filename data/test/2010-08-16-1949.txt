@@ -1,3 +1,0 @@
-after losing nearly <NUM> points during four days of selling <COMMA> the dow jones industrial average dji wavered higher and lower monday <COMMA> lately off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components declining <COMMA> led by insurer travelers companies inc. trv <COMMA> off <NUM> percent <PUNC>
-cisco systems inc. csco <COMMA> the world s biggest maker of networking equipment <COMMA> rose <NUM> percent <COMMA> the top gainer among the blue chips <PUNC>
-<PAR>

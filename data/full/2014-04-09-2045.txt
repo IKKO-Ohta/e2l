@@ -1,5 +1,0 @@
-the s&p <NUM> spx <COMMA> ended the day <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
-the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf also jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-investors had mixed reactions to earnings from alcoa inc. aa and constellation brands inc. stz j.p. morgan jpm and wells fargo wfc are scheduled to report on friday <PUNC>
-<PAR>

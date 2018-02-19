@@ -1,4 +1,0 @@
-on thursday <COMMA> stocks closed sharply higher <COMMA> buoyed by a raft of inflation-friendly data that handed the dow jones industrial average its first triple-digit gain in more than a month <PUNC>
-the dow industrials dji rose <NUM> points <COMMA> or <NUM> percent to <NUM> <COMMA> its first gain of more than <NUM> points since oct. <NUM> <PUNC>
-rival general motors corp. gm <COMMA> which announced an <NUM> percent drop in u.s. vehicle sales for november <COMMA> was down <NUM> percent at dollar <NUM> in pre-market trading on instinet after ending thursday s session with a gain <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-u.s. stocks finished higher on wednesday <COMMA> after a late reversal helped the dow jones industrial average end a four-session losing streak <COMMA> with investors buying the battered stocks of home builders and other consumer issues in the wake of further disappointing housing numbers <PUNC>
-down <NUM> points earlier in the session <COMMA> the dow jones industrial average dji briefly dipped below the <NUM> level for a second day <COMMA> but it reversed in the final stretch of trading <COMMA> ending up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-twenty-one of the dow s <NUM> components were on the rise <COMMA> with home-improvement retailer home depot inc. hd faring the best <COMMA> rising <NUM> percent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> <PUNC>
-for the week <COMMA> the dow posted a <NUM> percent gain <PUNC>
-on friday <COMMA> strong gains were seen in shares of alcoa inc. aa <COMMA> caterpillar inc. cat <COMMA> 3m co. mmm <COMMA> honeywell international inc. hon and merck co. inc. mrk <PUNC>
-also among blue chips <COMMA> american international group aig rose <NUM> percent after posting a <NUM> percent profit rise <COMMA> as its property and casualty insurance business avoided big losses and as it maintained premium growth <PUNC>
-<PAR>

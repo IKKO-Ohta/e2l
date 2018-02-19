@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-boeing co. shares ba rose <NUM> percent to dollar <NUM> in pre-market trading on instinet after the aerospace giant confirmed it has received orders for up to <NUM> of <NUM> dreamliner airplanes from australian airline qantas <PUNC>
-honeywell international inc. hon said its sales in <NUM> would reach dollar <NUM> billion and its profit would be in the range of dollar <NUM> to dollar <NUM> a share <PUNC>
-for <NUM> <COMMA> the diversified industrial manufacturer said sales would be dollar <NUM> billion and earnings would be about dollar <NUM> to dollar <NUM> a share <COMMA> excluding an <NUM> cents a share charge for repatriating foreign earnings <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-on wednesday <COMMA> the dow jones industrial average and the nasdaq composite index closed at their worst levels in nearly three months <COMMA> as the intensifying hurricane rita triggered economic concerns for investors already worried about the prospect of higher interest rates <PUNC>
-the dow industrials dji finished just off its low for the session <COMMA> down <NUM> points <COMMA> or <NUM> percent at <NUM> <PUNC>
-the benchmark index closed at its lowest level since july <NUM> <PUNC>
-<PAR>

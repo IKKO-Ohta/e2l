@@ -1,6 +1,0 @@
-u.s. stocks held onto solid gains in late-day trading thursday as strong april sales results for retailers and a drop in crude-oil prices to a one-month low put the dow jones industrial average on track to end at its best level in more than six years <PUNC>
-the dow industrials dji rose <NUM> points to <NUM> <COMMA> with <NUM> of <NUM> components contributing to gains <PUNC>
-earlier in the session <COMMA> the dow had been up as much as <NUM> points at <NUM> <COMMA> the best intraday level since january <NUM> <PUNC>
-wal-mart stores inc. wmt set the pace with a <NUM> percent rise in same-store sales <COMMA> buoyed by brisk sales of toys <COMMA> games and candy for the easter holiday <PUNC>
-sales matched the company s own forecast and handily outpaced the <NUM> percent average again expected by analysts <PUNC>
-<PAR>

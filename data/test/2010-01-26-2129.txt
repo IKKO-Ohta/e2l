@@ -1,7 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at its intraday high but ended down <NUM> points at <NUM> <PUNC>
-the nasdaq composite index rixf was off <NUM> percent <PUNC>
-the s&p <NUM> spx was off <NUM> percent <COMMA> led by a <NUM> percent slide in its financial sector <COMMA> which had traded in positive territory early in the day <PUNC>
-american international group aig slid <NUM> percent <COMMA> goldman sachs group inc. gs fell <NUM> percent <COMMA> and j.p. morgan chase jpm was down <NUM> percent <PUNC>
-among the market s bright spots on tuesday was travelers cos. trv <COMMA> which rose <NUM> percent after the insurer said its fourth-quarter earnings jumped <NUM> percent <COMMA> hitting a new record since the company went public in <NUM> <PUNC>
-however <COMMA> verizon vz fell <NUM> percent and weighed on the broader telecom sector after the industry giant posted a quarterly loss stemming from one-time costs associated with layoffs <PUNC>
-<PAR>

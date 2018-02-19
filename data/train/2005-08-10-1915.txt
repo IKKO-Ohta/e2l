@@ -1,8 +1,0 @@
-the dow jones industrial average dji was off less than a point to <NUM> <COMMA> after rallying <NUM> points to a 5-month intraday high of <NUM> <PUNC>
-the nasdaq composite rixf lost about <NUM> points to <NUM> <COMMA> with key tech player cisco systems tumbling more than <NUM> percent after offering wall street a disappointing financial outlook <PUNC>
-among the losers <COMMA> walt disney dis fell <NUM> percent as the company s fiscal third-quarter results and a legal victory in a suit dealing with its compensation of former exec michael ovitz failed to inspire wall street <PUNC>
-disney dis fell <NUM> percent to dollar <NUM> following its report of generally positive earnings <COMMA> although <COMMA> the company did fall short of revenue estimates and there were concern about its film studio s prospects <PUNC>
-american express axp rose <NUM> percent to dollar <NUM> after getting an upgrade to equal-weight from morgan stanley <PUNC>
-the brokerage cited operating leverage at its travel related services unit <PUNC>
-american international group aig moved <NUM> percent higher to dollar <NUM> <COMMA> after unveiling better-than-expected earnings <PUNC>
-<PAR>

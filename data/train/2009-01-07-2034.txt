@@ -1,7 +1,0 @@
-near session lows <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with only three of <NUM> components trading in the black <PUNC>
-alcoa aa paced blue-chip declines <COMMA> its shares down more than <NUM> percent after the aluminum giant said late tuesday that it would cut <NUM> jobs and close plants to conserve cash <PUNC>
-intel intc also dragged on the dow <COMMA> its shares off <NUM> percent after warning it expects its fourth-quarter revenue to fall <NUM> percent from a year ago to dollar <NUM> billion <PUNC>
-general motors corp. gm led the dow s minority gains <COMMA> with shares of the automaker climbing <NUM> percent <PUNC>
-u.s. stocks had closed higher tuesday as president-elect barack obama stumped for his recovery plan on capitol hill <COMMA> even as minutes from december s federal open market committee meeting offered a bleak view of the economy <PUNC>
-the dow industrials rose <NUM> points <COMMA> the nasdaq composite rose <NUM> points and the s&p <NUM> added <NUM> points <PUNC>
-<PAR>

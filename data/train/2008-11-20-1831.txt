@@ -1,7 +1,0 @@
-after spiking higher by nearly <NUM> points after the reports <COMMA> the dow jones industrial average was last up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-it earlier bounced back after hitting an intraday low of <NUM> <COMMA> just one point above its oct. <NUM> low <PUNC>
-the dow jones industrial average fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
-the blue-chip average fell to an intraday low of <NUM> <COMMA> just one point above its oct. <NUM> low <PUNC>
-on wednesday <COMMA> stocks were crushed to 5-1/2-year lows <COMMA> with credit market-led fears and citigroup s dollar <NUM> billion balance sheet addition punishing markets <PUNC>
-the dow jones industrial average dropped <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite fell <NUM> points <PUNC>
-<PAR>

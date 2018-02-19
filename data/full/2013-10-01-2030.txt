@@ -1,4 +1,0 @@
-the dow jones industrial average dji on tuesday rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-merck & co. mrk led blue-chip gains <COMMA> up <NUM> percent after the pharmaceutical company said it cut <NUM> workers <PUNC>
-on monday <COMMA> the index closed lower for a seventh session in eight <COMMA> and at its lowest level since sept. <NUM> <PUNC>
-<PAR>

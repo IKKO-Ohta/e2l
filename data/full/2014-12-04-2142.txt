@@ -1,5 +1,0 @@
-the s&p <NUM> spx closed down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after briefly rising to an intraday record above <NUM> <PUNC>
-the dow jones industrial average dji fell by <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the blue-chip index had leaped an intraday record just below <NUM> in the early afternoon <PUNC>
-thursday s choppy action came after both the s&p <NUM> and the dow bagged record closes on wednesday <PUNC>
-<PAR>

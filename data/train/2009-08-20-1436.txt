@@ -1,5 +1,0 @@
-on thursday <COMMA> u.s. stocks pulled modestly higher <COMMA> extending gains into a third day <COMMA> with financials and energy shares leading the rise <PUNC>
-at 10:30 a.m. eastern <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> index spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

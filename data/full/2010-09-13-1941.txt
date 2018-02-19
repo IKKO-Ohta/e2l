@@ -1,6 +1,0 @@
-after a 100-point rise earlier in the day <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components gaining <COMMA> led by alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
-both the s&p <NUM> and the nasdaq were poised to end with a return to yearly gains for the first time since aug. <NUM> <PUNC>
-the dow industrials reclaimed positive ground for <NUM> at friday s close <PUNC>
-domestically <COMMA> m&a activity helped support wall street s rally <PUNC>
-hewlett-packard co. hpq said it would pay dollar <NUM> billion for security-software company arcsight inc. arst <COMMA> with h-p s latest acquisition continuing a recent shopping spree <PUNC>
-<PAR>

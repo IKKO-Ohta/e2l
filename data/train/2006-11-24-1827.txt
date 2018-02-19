@@ -1,7 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points at <NUM> <PUNC>
-during the four-day shortened holiday week <COMMA> the dow fell <NUM> percent <COMMA> the s&p <NUM> ended almost unchanged and the nasdaq composite advanced <NUM> percent <PUNC>
-among other high-profile names <COMMA> wal-mart stores inc. wmt <COMMA> a component of the dow jones industrial average <COMMA> ended down <NUM> cents at dollar <NUM> <PUNC>
-home depot inc. hd fell <NUM> cents to dollar <NUM> and target corp. tgt lost <NUM> cents to dollar <NUM> <PUNC>
-another dow component <COMMA> ibm corp. ibm agreed to pay dollar <NUM> million to resolve all claims in an overtime-pay <COMMA> class-action suit filed in a northern california federal court in january <PUNC>
-ibm stock gave up gains to close down <NUM> cents at dollar <NUM> <PUNC>
-<PAR>

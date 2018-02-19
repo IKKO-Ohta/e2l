@@ -1,3 +1,0 @@
-conversely <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> its biggest single-day advance in six months <COMMA> after news hit that then present bush had picked bernanke to replace greenspan at the fed <PUNC>
-extending gains into a sixth session <COMMA> the dow jones industrial average dji lately was up <NUM> points at <NUM> <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-a close at its highs would amount to the sixth straight triple-digit move for the dow <PUNC>
-<PAR>

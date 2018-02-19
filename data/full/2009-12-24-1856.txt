@@ -1,2 +1,0 @@
-the dow jones industrial average dji gained <NUM> percent for the day and <NUM> percent for the week <PUNC>
-<PAR>

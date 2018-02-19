@@ -1,6 +1,0 @@
-stocks finished up for the fourth week in a row with the dow jones industrial average dji and the s&p <NUM> index spx both up <NUM> percent <COMMA> and the nasdaq composite index gaining <NUM> percent <PUNC>
-upward momentum on the s&p <NUM> appears to be running out of steam as the index has closed above its 5-day moving average <NUM> days in a row <COMMA> something that s only happened three times in the past <NUM> years <PUNC>
-home depot is the last of the dow components to report this season <COMMA> and reports this week will be dominated by retailers <PUNC>
-just over <NUM> s&p <NUM> companies will report this week <PUNC>
-during the past week <COMMA> retailers that reported results missed consensus sales estimates for the third quarter <COMMA> with the notable exception of wal-mart stores inc. wmt <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji recently rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-dupont dd rose <NUM> percent <COMMA> while mcdonald s mcd gained <NUM> percent and boeing ba rose <NUM> percent <PUNC>
-technology components lagged <COMMA> with intel intc down <NUM> percent and cisco systems csco off <NUM> percent <PUNC>
-if the dow can hold onto its gains <COMMA> it would put the blue-chip index on a three-day rebound after a bruising pre-july <NUM> week amid lingering questions about the pace of the global economy <PUNC>
-on tuesday and wednesday <COMMA> the dow rose <NUM> percent <PUNC>
-<PAR>

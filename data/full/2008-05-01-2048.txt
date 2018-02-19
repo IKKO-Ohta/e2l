@@ -1,6 +1,0 @@
-u.s. stocks on thursday soared higher <COMMA> propelling the dow to its first close above the <NUM> mark in four months <COMMA> as investors offered a delayed but warm reception to a likely pause in the federal reserve s recent string of rate cuts <PUNC>
-after climbing more than <NUM> points <COMMA> the dow jones industrial average dji rose <NUM> points to end at <NUM> <COMMA> its first close above the <NUM> level since jan.3 <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> posted gains <COMMA> with financials and technology stocks leading the charge <PUNC>
-american express co. axp climbed <NUM> percent <COMMA> citigroup inc. c gained <NUM> percent and bank of america corp. bac rose <NUM> percent <PUNC>
-intel corp. intc advanced <NUM> percent <COMMA> while microsoft corp. msft gained <NUM> percent <PUNC>
-<PAR>

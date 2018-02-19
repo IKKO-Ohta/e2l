@@ -1,4 +1,0 @@
-general motors corp. was a bright spot on the dow jones industrial average <COMMA> up around <NUM> percent <COMMA> after broker merrill lynch upgraded the auto maker <PUNC>
-the dow industrials dji were up <NUM> points at <NUM> <PUNC>
-shares in general motors corp. gm rose <NUM> percent to dollar <NUM> after merrill lynch upgraded the auto maker to buy from neutral <PUNC>
-the broker said the revised rating is based on expectations around <NUM> of the company s workers will accept its buyout program <COMMA> a number that would represent a significant acceleration in gm s restructuring plan <PUNC>

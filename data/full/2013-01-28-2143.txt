@@ -1,4 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with caterpillar cat leading gains among <NUM> of its <NUM> components <PUNC>
-caterpillar s shares rose <NUM> percent after it said its fourth-quarter profit dropped <NUM> percent <COMMA> but the company expressed cautious optimism about global economic growth <PUNC>
-aluminum producer alcoa inc. aa was the top decliner in the dow <COMMA> with its shares falling <NUM> percent <PUNC>
-<PAR>

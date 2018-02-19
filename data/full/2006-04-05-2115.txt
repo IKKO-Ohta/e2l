@@ -1,7 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-the benchmark index has now risen for three straight sessions. <PUNC>
-another reason for the gains is that the market typically rallies in anticipation of earnings <PUNC>
-alcoa inc. aa reports its quarterly results on april <NUM> <PUNC>
-the aluminum giant s results typically kick off the quarterly earnings season <PUNC>
-apple aapl rallied <NUM> percent to dollar <NUM> after the company unveiled boot camp <COMMA> a software application that enables its mac computers based on intel corp. intc processors to run microsoft corp. s msft windows xp operating system <PUNC>
-<PAR>

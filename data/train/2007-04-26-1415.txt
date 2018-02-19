@@ -1,9 +1,0 @@
-u.s. stocks turned mixed on thursday <COMMA> as investors consolidated gains in the wake of a rally that propelled the dow jones industrial average above <NUM> <COMMA> even as blowout earnings from apple inc. and upbeat results from the likes of 3m corp. and ford motor co. continued to lift sentiment <PUNC>
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components fell back <PUNC>
-it earlier reached a new intraday record high of <NUM> <PUNC>
-among dow components <COMMA> 3m corp. mmm led the gains <COMMA> jumping <NUM> percent after its earnings topped forecasts and prudential securities upgraded the stock <PUNC>
-thursday s session follows a rally on wednesday <COMMA> which saw the dow finish above the <NUM> level for the first time <COMMA> boosted by surging profits at amazon.com amzn <PUNC>
-but the market s rally may be running out of steam <COMMA> according to eliot spar <COMMA> analyst at ryan beck & co <PUNC>
-even as the dow jumped ahead wednesday <COMMA> he noted that gaining shares on the nasdaq beat decliners by a narrow margin of less than <NUM> to <NUM> <PUNC>
-microsoft msft also rose <NUM> percent ahead of its results after the close <PUNC>
-<PAR>

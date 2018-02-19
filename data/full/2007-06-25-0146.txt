@@ -1,4 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index rixf lost <NUM> points at <NUM> and the nasdaq composite index rixf fell <NUM> points to <NUM> <PUNC>
-for the week <COMMA> the dow lost <NUM> percent <PUNC> the s&p fell <NUM> percent <PUNC> and the nasdaq fell <NUM> percent <PUNC>
-<PAR>

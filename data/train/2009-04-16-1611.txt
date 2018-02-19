@@ -1,3 +1,0 @@
-at last check <COMMA> the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-the s&p <NUM> index spx gained <NUM> points to <NUM> <COMMA> while the technology-laden nasdaq composite rixf added <NUM> points to stand at <NUM> <PUNC>
-<PAR>

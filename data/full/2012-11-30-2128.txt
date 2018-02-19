@@ -1,2 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> leaving it <NUM> percent higher for the week and off <NUM> percent from the month-ago close <PUNC>
-<PAR>

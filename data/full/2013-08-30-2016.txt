@@ -1,3 +1,0 @@
-u.s. stocks declined on friday <COMMA> with the dow industrials and s&p <NUM> recording their worst month since may <NUM> <COMMA> as wall street considered a possible u.s. strike against syria <PUNC>
-up <NUM> percent for the year <COMMA> the dow jones industrial average dji on friday declined as much as <NUM> points <COMMA> but closed down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a level that left it with a <NUM> percent drop on the week and down <NUM> percent for the month <PUNC>
-<PAR>

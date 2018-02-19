@@ -1,7 +1,0 @@
-climbing nearly <NUM> points in the wake of the fed decision <COMMA> the dow jones industrial average dji closed at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-all of the dow s <NUM> components posted gains <COMMA> fronted by the blue-chip index s financials <PUNC>
-citigroup inc. c gained <NUM> percent <COMMA> while jpmorgan & chase jpm climbed <NUM> percent <PUNC>
-general electric co. ge <COMMA> climbed <NUM> percent after it said it would not provide further quarterly guidance beyond the coming quarter <COMMA> but would maintain its annual dividend in <NUM> <PUNC>
-stocks ended lower monday <COMMA> with financial shares weighing on the broader market as several firms detailed their exposure to the alleged dollar <NUM> billion fraud by bernard madoff <PUNC>
-the dow jones industrial average closed down <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq gave up <NUM> points <PUNC>
-<PAR>

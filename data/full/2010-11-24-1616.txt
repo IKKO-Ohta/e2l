@@ -1,2 +1,0 @@
-after dropping <NUM> points on tuesday <COMMA> the dow jones industrial average dji on wednesday climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

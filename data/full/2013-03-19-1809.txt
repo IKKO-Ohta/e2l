@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with caterpillar inc. cat pacing losses that included <NUM> of its <NUM> components <PUNC>
-the fed s continuing bond purchases are seen as a primary contributor to wall street s advance <COMMA> which had the dow industrials dji rising to a record close last week and the s&p <NUM> spx up <NUM> percent so far this year <PUNC>
-<PAR>

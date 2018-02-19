@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <COMMA> led by general motors corp. gm <COMMA> up <NUM> percent <COMMA> intel corp. intc <COMMA> ahead <NUM> percent <COMMA> and hewlett-packard co. hpq <COMMA> ahead <NUM> percent <PUNC>
-blue-chip declines were fronted by united technologies corp. utx <COMMA> off <NUM> percent <PUNC>
-<PAR>

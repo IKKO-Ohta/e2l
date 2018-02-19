@@ -1,3 +1,0 @@
-up more than <NUM> points earlier on <COMMA> the dow jones industrial average advanced <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all but one of its <NUM> components trading higher and gains led by bank of america corp. up <NUM> percent <PUNC>
-on monday <COMMA> u.s. equities finished sharply lower on worries about the economy and the troubled financial system <COMMA> with the dow jones industrial average plunging nearly <NUM> points <PUNC>
-<PAR>

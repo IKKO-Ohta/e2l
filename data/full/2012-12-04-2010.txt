@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose nearly <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx lost <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with telecommunications leading the losses and health care and industrials faring best among its <NUM> sectors <PUNC>
-the nasdaq composite index rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-<PAR>

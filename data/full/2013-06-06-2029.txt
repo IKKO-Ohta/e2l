@@ -1,4 +1,0 @@
-after dropping as much as <NUM> points <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-telecommunications giant verizon communications inc. vz rose <NUM> percent <COMMA> the biggest gainer in the dow <PUNC>
-oil major chevron corp. cvx fell <NUM> percent <COMMA> the biggest decliner in the blue-chip index <PUNC>
-<PAR>

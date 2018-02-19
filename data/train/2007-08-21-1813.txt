@@ -1,5 +1,0 @@
-the dow jones industrial average dji was <NUM> points ahead at <NUM> <COMMA> with <NUM> of its <NUM> stocks higher <PUNC>
-home depot inc. hd led the dow s rise <COMMA> climbing <NUM> percent <PUNC>
-dow component general electric ge might sell its japanese consumer-finance unit <COMMA> according to the nikkei business daily <PUNC>
-its shares were up <NUM> percent <PUNC>
-<PAR>

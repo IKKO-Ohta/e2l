@@ -1,2 +1,0 @@
-the dow jones industrial average dji ticked down <NUM> points to <NUM> <PUNC>
-<PAR>

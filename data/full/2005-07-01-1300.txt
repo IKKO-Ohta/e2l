@@ -1,9 +1,0 @@
-in pre-market trade the dow jones industrial average futures contract was up <NUM> points at <NUM> <COMMA> the nasdaq <NUM> futures contract up <NUM> points at <NUM> and the forward contract for the s&p <NUM> up <NUM> points to <NUM> <PUNC>
-the warnings from 3m mmm and pixar animation studios pixr should drain some of the positive market momentum <PUNC>
-3m said a plan to repatriate about dollar <NUM> billion in foreign earnings will reduce its second-quarter and <NUM> earnings by <NUM> cents a share <PUNC>
-citigroup c said it s recording a dollar <NUM> billion gain in the third quarter on its sale of travelers life and annuity and most of its international insurance businesses to metlife <PUNC> <COMMA> <COMMA> <PUNC>
-citi received dollar <NUM> billion in cash and dollar <NUM> billion in shares for the deal that s now closed <PUNC>
-general motors gm <COMMA> ford motor co. f and daimlerchrysler dcx will be in focus later in the session when they release their june sales tallies <PUNC>
-pepsico pep and pepsi bottling group pbg were downgraded to neutral from buy by ubs <PUNC>
-the brokerage cited aggressive competition from coca-cola ko and coca-cola enterprises cce <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-on monday <COMMA> the dow jones industrial average dji capping its biggest two-day point and percentage drop since mid-june <PUNC>
-after shedding <NUM> points on monday <COMMA> the dow industrials lately stood <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
-the s&p <NUM> added <NUM> points <COMMA> also up <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

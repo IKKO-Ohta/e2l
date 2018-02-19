@@ -1,3 +1,0 @@
-the dow jones industrial average dji <COMMA> which on tuesday fell nearly <NUM> points to close at <NUM> <COMMA> just <NUM> points from matching a five-and-a-half year low hit on nov. <NUM> <COMMA> <NUM> <PUNC>
-while the dow and s&p broke their mid-january lows earlier in the week <COMMA> the nasdaq offered an encouraging sign by holding above its comparable level <COMMA> said marc pado <COMMA> u.s. market strategist at cantor fitzgerald <PUNC>
-<PAR>

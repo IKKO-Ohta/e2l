@@ -1,5 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-general motors corp. gm was back in focus after the detroit news reported delphi corp. dphiq <COMMA> its main parts supplier <COMMA> will propose a gradual reduction in wages and benefits instead of abrupt pay cuts <PUNC>
-the offer would be contingent on gm subsidizing the wages for a time <PUNC>
-the stock was off <NUM> cents at dollar <NUM> <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-up about <NUM> points earlier on <COMMA> the dow jones industrial average dji was more recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-u.s. stocks got drilled on friday <COMMA> pummeled over worries about oil prices and the health of financial companies <PUNC>
-the dow industrials tumbled <NUM> points <COMMA> taking weekly losses to <NUM> percent <PUNC>
-citigroup inc. c may cut <NUM> percent of its <NUM> workers in investment banking <COMMA> according to a wall street journal report <PUNC>
-goldman sachs gs is also cutting <NUM> percent in its investment-bank division <COMMA> according to a financial times report <PUNC>
-<PAR>

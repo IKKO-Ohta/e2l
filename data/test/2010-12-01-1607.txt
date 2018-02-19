@@ -1,2 +1,0 @@
-after a 213-point rise <COMMA> the dow jones industrial average was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all <NUM> blue-chip components rising <COMMA> led by united technologies corp. <COMMA> utx up <NUM> percent <PUNC>
-<PAR>

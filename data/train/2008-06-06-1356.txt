@@ -1,4 +1,0 @@
-the dow jones industrial average dropped <NUM> points to <NUM> <COMMA> with only three of its <NUM> components on the rise <PUNC>
-general motors corp. weighed on the dow the most <COMMA> its stock down <NUM> percent <PUNC>
-shares of aig <COMMA> a member of the dow <COMMA> dropped <NUM> percent <PUNC>
-<PAR>

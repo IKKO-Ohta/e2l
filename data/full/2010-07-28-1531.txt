@@ -1,4 +1,0 @@
-u.s. stocks fell modestly on wednesday as another piece of disappointing economic data provided a reason for wall street to take a break from an upswing that has had the dow jones industrial average up the past four days <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components on the decline <PUNC>
-aerospace giant boeing co. ba reported profit fell from the year-ago period <COMMA> but its report still exceeded wall street s expectations <PUNC>
-<PAR>

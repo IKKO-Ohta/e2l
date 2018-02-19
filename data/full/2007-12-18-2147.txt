@@ -1,4 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components closing higher <PUNC>
-american international group inc. aig fronted the blue-chip advance <COMMA> its stock up <NUM> percent <PUNC>
-dow laggards included financial shares <COMMA> with citigroup inc. c off <NUM> percent and j.p. morgan & chase jpm down <NUM> percent <PUNC>
-<PAR>

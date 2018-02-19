@@ -1,7 +1,0 @@
-the dow jones industrial average dji ended with triple-digit gains near the highs for the day <COMMA> rising <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-read <PUNC> marketwatch s stock market live blog <PUNC>
-u.s. stocks were shellacked last week <COMMA> with the s&p <NUM> and nasdaq both seeing their biggest weekly losses since mid-2012 <COMMA> while the dow saw its biggest weekly fall since mid-march <PUNC>
-the relatively upbeat results from citigroup stood in contrast to disappointing results friday from j.p. morgan chase & co. jpm <COMMA> which contributed to the friday selloff <PUNC>
-analysts said earnings and <COMMA> perhaps more important <COMMA> sales results continue to hold the key to near-term direction <COMMA> particularly in the tech sector <COMMA> which has been hardest hit as investors grow worried that valuations have been stretched too far <PUNC>
-<PAR>

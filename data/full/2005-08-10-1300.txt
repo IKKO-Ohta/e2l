@@ -1,2 +1,0 @@
-the futures contracts for the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq <NUM> all are pointing toward substantial increases in the early minutes of trade <PUNC>
-<PAR>

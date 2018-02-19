@@ -1,2 +1,0 @@
-after trading lower earlier on <COMMA> the dow jones industrial average dji was up <NUM> points at 13,354.8.2 <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by wal-mart inc. wmt <COMMA> which reported a stronger-than-forecast <NUM> percent sales rise for august <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-stocks slumped on monday as investors took investors took some money off the table following thursday s 246-point surge on the dow jones industrial average dji <PUNC>
-the blue-chip index at midday on monday fell <NUM> points to <NUM> <PUNC>
-the s&p <NUM> spx declined <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf shed <NUM> points to 1,633.78. <PUNC>
-pointing to citi and bank of america corp. bac <COMMA> greenhaus said both have reported massive writedowns from poor investment decisions in years past <COMMA> and the analyst said he expects the hits to earnings to continue <PUNC>
-getting excited about financial shares remains premature <COMMA> said greenhaus <PUNC>
-<PAR>

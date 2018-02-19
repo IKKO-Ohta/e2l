@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> achieving its biggest daily gain since oct. <NUM> and reconquering its own milestone level of <NUM> <PUNC>
-the blue-chip index ended the week with a <NUM> percent decline <PUNC>
-<PAR>

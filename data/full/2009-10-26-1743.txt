@@ -1,5 +1,0 @@
-after a rise and fall of <NUM> points <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the financial sector is putting the most pressure on the overall market <PUNC>
-there are two major concerns <PUNC> bank of america bac will most likely have to raise money to pay back tarp <COMMA> and over the weekend we certainly added to the list and got over the century mark for the number of banks that have gone under the waves <COMMA> said art hogan <COMMA> chief market strategist at jefferies & co <PUNC>
-of the dow industrials <NUM> components <COMMA> microsoft corp. msft was one of three to remain in positive turf <COMMA> up <NUM> percent after industry reports of strong sales of the new windows <NUM> operating system <COMMA> released oct. <NUM> <PUNC>
-<PAR>

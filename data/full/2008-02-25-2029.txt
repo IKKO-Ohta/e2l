@@ -1,8 +1,0 @@
-after rising more than <NUM> points earlier on <COMMA> and detouring into negative territory <COMMA> the dow jones industrial average dji shot up <NUM> points after word hit that standard & poor s had affirmed the aaa rating of ambac financial s bond insurance business and took the aaa rating of mbia s bond insurer unit off its creditwatch <PUNC>
-the dow was more recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <COMMA> led by the likes of home depot inc. hd <COMMA> up <NUM> percent <PUNC>
-energy stocks were also among those on the rise <COMMA> with sector leader and dow component exxon mobil corp. xom advancing nearly <NUM> percent <PUNC>
-<PAR>
-blue-chip laggards included financial stocks <COMMA> with citigroup inc. c off <NUM> percent <COMMA> j.p. morgan chase jpm down <NUM> percent and american express co. axp down <NUM> percent <PUNC>
-visa said it could raise nearly dollar <NUM> billion in an initial public offering <COMMA> adding it was ahead of mastercard ma and american express axp in terms of dollar volume and transactions in <NUM> <PUNC>
-the recent volatility in the stock market is likely to continue <COMMA> with 150-point swings in the dow likely <COMMA> said paul nolte <COMMA> director of investments at hindsdale associates <PUNC>
-<PAR>

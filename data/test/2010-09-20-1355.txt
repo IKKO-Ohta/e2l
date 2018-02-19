@@ -1,9 +1,0 @@
-the dow jones industrial average dji gained <NUM> points in early trading <COMMA> led by a <NUM> percent rise in at&t <PUNC>
-american express rose <NUM> percent <COMMA> while home depot hd gained <NUM> percent ahead of housing data expected at <NUM> a.m <PUNC>
-the nasdaq composite rixf rose <NUM> percent to <NUM> <PUNC>
-the standard & poor s 500-share index added <NUM> percent to <NUM> <PUNC>
-telecommunications companies pulled ahead early monday <COMMA> while materials lagged <PUNC>
-the dow rose <NUM> percent to <NUM> <PUNC>
-the flurry of deal activity in the fast-consolidating technology industry continued <COMMA> as international business machines ibm agreed to acquire data specialist netezza nz in a deal valued at dollar <NUM> billion <COMMA> as big blue expands its analytics business <PUNC>
-ibm edged up <NUM> percent <COMMA> while netezza jumped <NUM> percent <PUNC>
-<PAR>

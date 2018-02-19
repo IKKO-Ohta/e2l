@@ -1,7 +1,0 @@
-new york dow jones stocks plunged thursday <COMMA> sending the dow jones industrial average down over <NUM> points for its second worst day of the year <COMMA> as anxiety about shaky credit markets and the troubled housing sector swept wall street <PUNC>
-after falling to a low of <NUM> <COMMA> the dow jones industrials dji ended off <NUM> points at <NUM> <COMMA> with all but one of its <NUM> stocks in the red <PUNC>
-there s nothing new <PUNC>
-it s everything the market has been living with <COMMA> and living beyond <COMMA> for five months <COMMA> said goldman <COMMA> who chalked up thursday s slide to a very normal and nasty pause to reflect on the recent run-up <COMMA> which drove the dow up over <NUM> <PUNC>
-aluminum producer alcoa inc. aa led the declines <COMMA> its stock off <NUM> percent <COMMA> with fellow dow component exxon mobil corp. xom following suit <COMMA> its stock down <NUM> percent <PUNC>
-on their heels was citicorp inc. c <COMMA> which fell <NUM> percent <PUNC>
-<PAR>

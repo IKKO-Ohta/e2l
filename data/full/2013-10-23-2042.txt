@@ -1,4 +1,0 @@
-the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> with <NUM> of its <NUM> components in negative terrain <PUNC>
-caterpillar cat paced blue-chip losses <COMMA> off <NUM> percent after the heavy equipment lowered its earnings outlook <PUNC>
-boeing co. ba shares led gains on the dow <COMMA> closing up <NUM> percent <COMMA> after the plane manufacturer raised its <NUM> forecast <PUNC>
-<PAR>

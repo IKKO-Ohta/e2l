@@ -1,8 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx up <NUM> points at <NUM> and the nasdaq composite rixf up <NUM> at <NUM> <PUNC>
-the dow jones u.s <PUNC>
-automobiles and parts index dj_ato was down <NUM> percent at <NUM> <PUNC>
-shares of delphi s former parent company <COMMA> general motors gm <COMMA> also in the dow <COMMA> were <NUM> percent lower at dollar <NUM> <PUNC>
-among other auto makers <COMMA> ford f was down <NUM> percent at dollar <NUM> <PUNC>
-ibm ibm last was up <NUM> percent at dollar <NUM> after citigroup upgraded the dow component to buy from hold <COMMA> saying the company is gaining market share in the mid-range and high-end servers market <PUNC>
-intel corp. intc <COMMA> also in the dow <COMMA> was down <NUM> cents at dollar <NUM> after a wall street journal report that it will introduce a series of dual-core server chips <COMMA> as part of an effort to compete with its advanced micro devices amd <PUNC>
-<PAR>

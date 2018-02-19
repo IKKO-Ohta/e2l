@@ -1,9 +1,0 @@
-u.s. stocks were set to open higher on tuesday <COMMA> which would push the dow jones industrial average towards the <NUM> level <COMMA> as investors cheered an upbeat earnings outlook from chip giant texas instruments inc. <COMMA> which helped offset caution ahead of key data on housing and consumer confidence <PUNC>
-futures for the dow industrials dji were up <NUM> points at <NUM> <COMMA> while those for the s&p <NUM> spx were up <NUM> points to <NUM> <PUNC>
-after pausing on monday <COMMA> investors will again try to take the dow to <NUM> <COMMA> a key psychological level <PUNC>
-the market retreated monday as investors consolidated last week s strong gains and weighed a <NUM> percent surge in crude oil prices <PUNC>
-and investors turned to yet more upbeat earnings results from the likes of texas instruments txn and at&t inc. t <PUNC>
-on the dow <COMMA> fellow chip-market intel corp. intc rose <NUM> percent before the open <COMMA> while on the nasdaq <COMMA> sandisk sndk gained <NUM> percent <PUNC>
-also on the dow <COMMA> at&t t rose <NUM> percent after the telecom firm posted earnings <COMMA> adjusted for one-time costs <COMMA> which topped analysts forecasts <PUNC>
-dupont dd could also rise after its earnings beat expectations <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to end at <NUM> <COMMA> with <NUM> of its <NUM> components tallying gains <COMMA> which were led by boeing ba <COMMA> up <NUM> percent after it reported a <NUM> percent profit rise <PUNC>
-blue-chip decliners included american international group inc. aig <COMMA> off <NUM> percent after news of a dollar <NUM> billion deal by liberty mutual insurance co. to acquire safeco corp. saf to create the nation s fifth-biggest property and casualty insurer <PUNC>
-<PAR>
-the weekly petroleum supplies count drove energy shares down <COMMA> with dow component exxon mobile corp. xom off <NUM> percent <PUNC>
-<PAR>

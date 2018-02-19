@@ -1,9 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> after worries about weak technology sales drove index components intel corp. and international business machines lower <PUNC>
-of the <NUM> dow components <COMMA> <NUM> closed in negative territory <PUNC>
-for the week <COMMA> the dow rose <NUM> percent and the s&p <NUM> gained <NUM> percent <PUNC>
-the nasdaq was down <NUM> percent <PUNC>
-dow component united technologies utx closed up <NUM> cents at dollar <NUM> after banc of america upgraded the stock to buy from neutral <COMMA> citing an attractive valuation and earnings potential <PUNC>
-banc of america also initiated coverage on 3m mmm with a neutral rating <PUNC>
-that stock fell <NUM> cents to dollar <NUM> <PUNC>
-mcdonald s mcd <COMMA> which shot up <NUM> percent on thursday <COMMA> closed <NUM> percent lower at dollar <NUM> after analysts poured cold water on speculation that a real-estate investor might be eyeing the restaurant giant s vast property holdings <PUNC>
-<PAR>

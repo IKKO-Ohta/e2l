@@ -1,4 +1,0 @@
-after losing <NUM> points in monday s session <COMMA> the dow jones industrial average dji on tuesday rose as much as <NUM> points <COMMA> and was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-we ll take it as a plus <COMMA> certainly from the real-estate side <COMMA> and also what we heard from some of the retailers <COMMA> said nolte of economic reports and quarterly results from home depot inc. hd and macy s inc. m <PUNC>
-twenty-two of the dow s <NUM> components were in the green <COMMA> led by shares of home depot after the home-improvement retailer beat profit expectations and approved a share repurchase <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components gaining ground <PUNC>
-shares of general motors corp. gm led the gains among blue chips <COMMA> rising <NUM> percent <PUNC>
-the dow gained <NUM> points <COMMA> good enough for a <NUM> percent advance to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-<PAR>

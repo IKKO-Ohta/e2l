@@ -1,4 +1,0 @@
-after rising about <NUM> points earlier <COMMA> the dow jones industrial average dji erased its gains <COMMA> with the blue-chip index off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were trading in the red <COMMA> with general motors corp. gm down the most <COMMA> off <NUM> percent <PUNC>
-technology shares were among the few blue-chips posting gains <COMMA> with microsoft corp. msft up <NUM> percent and intel corp. intc up <NUM> percent <PUNC>
-<PAR>

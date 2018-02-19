@@ -1,3 +1,0 @@
-the dow jones industrial average gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components advancing <PUNC>
-shares of insurance giant aig and automaker general motors corp. paced gains among the blue chips <PUNC>
-<PAR>

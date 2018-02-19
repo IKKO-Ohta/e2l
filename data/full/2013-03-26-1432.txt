@@ -1,2 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in morning trade <PUNC>
-<PAR>

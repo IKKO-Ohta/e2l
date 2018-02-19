@@ -1,6 +1,0 @@
-about <NUM> points away from its session high <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-the blue-chip benchmark closed friday at its lowest level since nov. <NUM> <PUNC>
-construction-machinery giant caterpillar cat said it would acquire mining-equipment maker bucyrus international inc. bucy <PUNC>
-<PAR>
-before tuesday s open <COMMA> wal-mart stores inc. wmt will report its third-quarter results <COMMA> with analysts looking for signs of improvement from the world s largest retailer <PUNC>
-<PAR>

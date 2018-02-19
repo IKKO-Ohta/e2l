@@ -1,7 +1,0 @@
-u.s. stocks closed higher wednesday <COMMA> after rallies in boeing co. and general motors corp. boosted the dow jones industrial average and a larger-than-expected decline in the u.s. trade deficit lifted overall sentiment <PUNC>
-the dow industrials dji closed up <NUM> points at <NUM> <COMMA> off a high of <NUM> <PUNC>
-shares of boeing co. ba rose <NUM> percent to dollar <NUM> <PUNC>
-the aircraft maker said it has signed a general purchase agreement with china aviation supplies import & export group for <NUM> boeing <NUM> airplanes <PUNC>
-the agreement <COMMA> when combined with the <NUM> planes agreed to in a november <NUM> deal <COMMA> makes the entire planned transaction a 150-airplane purchase <PUNC>
-general motors corp. gm closed up <NUM> percent at dollar <NUM> after a senior executive at the car maker expressed confidence workers at delphi corp. dphiq <COMMA> its main auto parts supplier <COMMA> will not strike <PUNC>
-<PAR>

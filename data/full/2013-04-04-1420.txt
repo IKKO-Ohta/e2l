@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-disappointing adp data on wednesday helped drive a drop of <NUM> points <COMMA> or <NUM> percent <COMMA> for the dow industrials <COMMA> which finished that session at <NUM> <PUNC>
-the s&p <NUM> index lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

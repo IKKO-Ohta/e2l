@@ -1,4 +1,0 @@
-new york marketwatch the s&p <NUM> enjoyed its biggest one-day gain in nearly two months <COMMA> while the dow jones industrial average tallied its biggest gain in seven months <COMMA> thanks in large part to a stronger-than-expected jobs report that delivered a dose of confidence to investors <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf added 45.43points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

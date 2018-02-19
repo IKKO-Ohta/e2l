@@ -1,7 +1,0 @@
-the dow jones industrial average dji closed down just <NUM> point at <NUM> <PUNC>
-however <COMMA> the most recent philadelphia federal reserve s survey of manufacturing was disappointing <PUNC>
-the headline figure for december was <NUM> <COMMA> up from <NUM> in november <COMMA> but below the dow jones forecast of <NUM> <PUNC>
-altria mo closed up <NUM> percent at dollar <NUM> after the illinois supreme court held that the company had a right to market certain cigarettes as being light in nicotine <PUNC>
-merck & co. mrk <COMMA> a dow component <COMMA> advanced almost <NUM> percent to dollar <NUM> after announcing new restructuring efforts that it calculates will yield dollar <NUM> billion in savings <PUNC>
-another dow component <COMMA> microsoft msft finished about <NUM> cents lower at dollar <NUM> after the software maker raised its dividend by <NUM> percent <PUNC>
-<PAR>

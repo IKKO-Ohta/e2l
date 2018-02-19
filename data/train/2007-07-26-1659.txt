@@ -1,7 +1,0 @@
-new york dow jones - amid heightened anxiety about shaky credit markets and surging crude oil prices escalating energy costs <COMMA> stocks slumped sharply lower thursday <COMMA> pushing the dow jones industrial average down nearly <NUM> points <PUNC>
-the dow jones industrials dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> just off the days low of <NUM> <PUNC>
-aluminum producer alcoa inc. aa led the declines <COMMA> its stock off <NUM> percent <COMMA> with fellow dow component exxon mobil corp. xom following suit <COMMA> its stock down <NUM> percent <PUNC>
-on their heels was citicorp inc. c <COMMA> which fell <NUM> percent <PUNC>
-despite setbacks this week for several major debt offerings connected to multi-billion dollar leveraged buyouts for chrysler corp. and others <COMMA> stocks managed to close with solid gains on wednesday <PUNC>
-investors snapped up shares of amazon.com amzn and boeing co. ba following earnings reports from the firms <PUNC>
-<PAR>

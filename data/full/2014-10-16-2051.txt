@@ -1,6 +1,0 @@
-the dow jones industrial average dji slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> closing low for the sixth straight session <PUNC>
-goldman sachs gs reported third-quarter earnings of dollar <NUM> <COMMA> beating a consensus estimate from factset of dollar <NUM> <COMMA> but reported higher expenses <PUNC>
-shares fell <NUM> percent <PUNC>
-unitedhealth group inc. unh reported third-quarter profit of dollar <NUM> a share <COMMA> beating estimates of eps of dollar <NUM> <PUNC>
-shares rose <NUM> percent <PUNC>
-<PAR>

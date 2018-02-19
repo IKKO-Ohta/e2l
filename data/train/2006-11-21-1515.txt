@@ -1,9 +1,0 @@
-u.s. stocks rose cautiously early tuesday as volumes slowed ahead of the thanksgiving holiday <COMMA> but gains by boeing co. and american international group provided support for the dow jones industrial average <COMMA> while google inc. topped dollar <NUM> for the first time <PUNC>
-the dow dji rose <NUM> points to <NUM> <PUNC>
-dow component aig aig gained <NUM> cents to dollar <NUM> <COMMA> after banc of america initiated coverage of the insurer s stock with a buy rating and an dollar <NUM> price target <PUNC>
-boeing co. ba rose <NUM> percent to dollar <NUM> <PUNC>
-after winning a dollar <NUM> billion order for <NUM> planes from korean air co <PUNC>
-on monday u.s. stocks closed mixed <COMMA> with the dow jones industrial average dji snapping a six-day winning streak <PUNC>
-there was some disappointment among investors that a spate of merger deals didn t produce more vigorous gains <COMMA> leading some to question whether the recent rally has run its course <PUNC>
-verizon communications vz rose <NUM> cents to <NUM> after being upgraded to outperform from neutral at credit suisse <COMMA> which cited the belief that the company was setting itself up for earnings growth as dilution from its fios internet service reaches its peak <PUNC>
-<PAR>

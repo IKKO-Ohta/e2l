@@ -1,7 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
-a weaker-than-expected reading on the services sector pared the measure s gains from earlier in the session <COMMA> when it had been up as much as <NUM> points <PUNC>
-still <COMMA> the dow is up about <NUM> percent for the week <COMMA> marking its first positive week since the week ended aug. <NUM> and the measure s best pre-labor day week since <NUM> <PUNC>
-friday s jobs numbers followed recent reports on manufacturing and housing that also came in above expectations <COMMA> extending a notable reversal from a long string of disappointing data that had driven the dow s biggest august drop since <NUM> <PUNC>
-this week s better-than-expected data helped the dow start september with a bang <COMMA> marking its best three days of a month since march <NUM> <PUNC>
-the strong start to the month comes as investors have been encouraged that a double-dip recession may be avoided <COMMA> even if the economic recovery still looks weak <PUNC>
-<PAR>

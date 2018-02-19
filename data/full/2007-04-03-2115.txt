@@ -1,9 +1,0 @@
-u.s. stocks rallied broadly tuesday <COMMA> lifting the dow jones industrial average by nearly <NUM> points to a five-week high <COMMA> as investors cheered a drop in crude oil prices amid easing tensions between the uk and iran <COMMA> and with sentiment also lifted by a rise in pending homes sales in february <PUNC>
-the dow industrials dji rose <NUM> points to close at <NUM> <COMMA> with <NUM> of its <NUM> components chipping in with gains <PUNC>
-the blue chip barometer closed at its highest level in five weeks and has advanced over the past four sessions <PUNC>
-leading the gains on the dow were shares of altria group inc. mo <COMMA> as well as retailers home depot inc. hd and wal-mart stores inc. wmt and aluminum producer alcoa inc. aa <PUNC>
-procter & gamble pg was the only dow loser <PUNC>
-exxon mobil corp. xom reversed early losses <COMMA> even as crude oil prices fell over <NUM> percent to below dollar <NUM> a barrel <PUNC>
-general motors corp gm and daimlerchrysler ag dcx u.s. unit chrysler corp rounded out the big three slump with retreats of about <NUM> percent each <PUNC>
-chrysler is reported to be up for sale <PUNC>
-<PAR>

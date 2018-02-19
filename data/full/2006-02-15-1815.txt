@@ -1,3 +1,0 @@
-the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
-the benchmark index briefly surged to a <NUM> 1/2-year high of <NUM> in the first half hour after the fed chairman spoke <PUNC>
-<PAR>

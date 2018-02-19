@@ -1,4 +1,0 @@
-the dow jones industrial average dji was off almost <NUM> points at its afternoon low but recently recovered to trade down <NUM> points <COMMA> off <NUM> percent <COMMA> at <NUM> <PUNC>
-with less than an hour of trading to go <COMMA> the dow industrials average is on track for a third straight loss and its first close below the <NUM> level in three months <PUNC>
-the dow first crossed <NUM> in march <NUM> <COMMA> but that milestone has since proven to be one of the toughest round-number levels for the average to maintain in its long history <PUNC>
-<PAR>

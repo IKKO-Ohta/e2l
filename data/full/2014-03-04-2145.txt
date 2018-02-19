@@ -1,2 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all <NUM> components closing higher <PUNC>
-<PAR>

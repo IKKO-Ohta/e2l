@@ -1,6 +1,0 @@
-this month benchmark equity indexes have shined <PUNC>
-last week <COMMA> the dow jones industrial average dji hit record highs and logged its fourth week of gain <PUNC>
-the s&p <NUM> index spx and the nasdaq composite index rixf each notched their third week of advances <PUNC>
-friday saw the first losing session for the dow this month <COMMA> and all three indexes closed slightly lower <PUNC>
-you ve got everybody expecting a short-term correction that could become a self-fulfilling prophesy pretty quickly <COMMA> he said <COMMA> adding that investors could see a sell-off of about <NUM> points in the dow in the short-run <PUNC>
-<PAR>

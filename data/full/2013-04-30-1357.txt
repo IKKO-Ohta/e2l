@@ -1,3 +1,0 @@
-pfizer inc. pfe fell <NUM> percent after the drug manufacturer reported first-quarter earnings that missed wall street estimates <PUNC>
-the dow jones industrial average dji lost <NUM> points to <NUM> <PUNC>
-<PAR>

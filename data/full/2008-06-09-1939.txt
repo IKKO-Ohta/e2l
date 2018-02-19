@@ -1,5 +1,0 @@
-the dow jones industrial average was up <NUM> points at <NUM> <COMMA> backing off from a morning high of <NUM> <PUNC>
-the bounce remained very timid relative to the dow industrials nearly 400-point drop friday <PUNC>
-the slide came after news that the u.s. jobless rate jumped up to <NUM> percent <COMMA> just as crude surged nearly dollar <NUM> to approach dollar <NUM> a barrel <PUNC>
-leading the gains on the dow <COMMA> shares of alcoa inc. gained <NUM> percent after barron s highlighted positive fundamentals for aluminum and the stock <PUNC>
-<PAR>

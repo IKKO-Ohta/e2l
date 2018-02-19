@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-shares in dow component general motors corp. gm fell <NUM> percent to dollar <NUM> in pre-market trading on instinet after the troubled car maker filed late tuesday its delayed annual report with the u.s. securities and exchange commission <PUNC>
-brokers turned their attention on two other dow components <COMMA> caterpillar inc. cat and 3m mmm <PUNC>
-<PAR>

@@ -1,9 +1,0 @@
-the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> adding to a 19-point pullback in the prior session <PUNC>
-tuesday s declines were led by recovery-sensitive industrial and commodity-producing components <PUNC>
-alcoa aa inc. shares were off <NUM> percent <COMMA> caterpillar inc. cat fell <NUM> percent <COMMA> and boeing co. ba shares fell <NUM> percent <PUNC>
-people are treading very cautiously here <COMMA> following last week s 4-day winning streak in the dow <COMMA> said anthony conroy <COMMA> head trader at bny convergex <COMMA> a new york brokerage <PUNC>
-people are wondering whether the market got a little ahead of itself <PUNC>
-i think we could test the <NUM> level on the dow one more time <COMMA> but hopefully it will be off to the races from there <PUNC>
-among stocks to watch <COMMA> intel corp. intc shares fell <NUM> percent after the chip-maker said it was hit by a cyber attack in january <PUNC>
-microsoft corp. msft shares slid <NUM> percent after reaching a patent licensing agreement with amazon.com amzn that gives the online retailer rights to use open-source software in its kindle electronic book reader for an undisclosed sum <PUNC>
-<PAR>

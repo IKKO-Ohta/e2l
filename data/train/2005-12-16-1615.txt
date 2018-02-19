@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up as much as <NUM> points at <NUM> <PUNC>
-among dow components <COMMA> united technologies utx rallied as much as <NUM> percent on a cibc upgrade <PUNC>
-general motors corp. gm lost early gains to trade down <NUM> cents at dollar <NUM> <PUNC>
-the auto maker s chairman and chief executive rick wagoner told revelers at a holiday party that the company s revenue will improve <PUNC>
-wal-mart wmt was down about <NUM> cents at dollar <NUM> and target tgt down <NUM> vents at dollar <NUM> <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average gained <NUM> points to <NUM> <COMMA> well off an earlier high of <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> advanced with shares of oil giant chevron corp. and aluminum producer alcoa inc. pacing gains among blue chips <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> led by a <NUM> percent gain in american express co. axp <PUNC>
-shares of dow component alcoa inc. aa moved up <NUM> percent after reporting financial results late monday <PUNC>
-excluding charges <COMMA> the aluminum producer s second-quarter income from continuing operations were a penny short of expectations <PUNC>
-u.s. stocks looked to be stabilizing after a rocky monday session as soaring italian and spanish bond yields posed the risk that a potential default by greece would create a mass exodus from other european countries debt <PUNC>
-the dow lost <NUM> points monday to close at <NUM> <COMMA> its lowest close since june <NUM> <PUNC>
-<PAR>

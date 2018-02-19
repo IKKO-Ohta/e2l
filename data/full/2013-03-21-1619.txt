@@ -1,5 +1,0 @@
-after a 98-point decline <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-cisco systems inc. csco <COMMA> international business machines corp. ibm and intel corp. intc led blue-chip declines <COMMA> which included <NUM> of its <NUM> components <PUNC>
-after jumping <NUM> points to an intraday high <COMMA> the dow industrials finished wednesday at <NUM> <COMMA> a rise of <NUM> points <COMMA> or <NUM> percent <COMMA> but short of a new closing record <PUNC>
-the standard & poor s <NUM> index finished wednesday within <NUM> points of its all-time closing high of october <NUM> <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-turning higher after morning weakness <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> the s&p <NUM> spx was up <NUM> points at <NUM> and the nasdaq composite rixf gained <NUM> points to <NUM> <PUNC>
-the market opened lower <COMMA> pressured by disappointing earnings reports from general motors gm intel intc and yahoo yhoo <PUNC>
-a. g. edwards goldman said the market was more focused on second-quarter earnings reports <PUNC>
-results from dow components pfizer pfe <COMMA> honeywell international hon <COMMA> altria group mo carried their shares higher <PUNC>
-j.p. morgan chase & co. jpm swung to a profit and posted adjusted results that were ahead of forecast <PUNC>
-the shares lost early gains to trade down <NUM> cents to dollar <NUM> <PUNC>
-<PAR>

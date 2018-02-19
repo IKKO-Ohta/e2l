@@ -1,8 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of <NUM> components contributing to gains <PUNC>
-the index reached a one-week high of <NUM> earlier in the session <PUNC>
-since the fed s rate move <COMMA> the dow industrials are down about <NUM> percent as of wednesday s close <PUNC>
-the nasdaq is off <NUM> percent while the s&p <NUM> has fallen <NUM> percent <PUNC>
-shares in wal-mart stores inc. wmt rose <NUM> percent to dollar <NUM> after bank of america upgraded the world s largest retailer to buy from neutral <PUNC>
-the broker said the change in recommendation reflected early success from the company s current merchandise initiatives <COMMA> hopes for slowing future square footage growth and improved margin expectations <PUNC>
-also on the dow <COMMA> shares of general motors corp. gm rose as much as <NUM> percent to a seven-month high of dollar <NUM> after surging more than <NUM> percent in the prior session <PUNC>
-<PAR>

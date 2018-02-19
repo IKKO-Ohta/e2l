@@ -1,3 +1,0 @@
-the dow jones industrial average dji set an intraday high and came within <NUM> points of <NUM> level <COMMA> but settled <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
-gains in jpmorgan chase and goldman sachs group were the biggest among blue-chip stock gainers <PUNC>
-<PAR>

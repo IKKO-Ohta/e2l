@@ -1,7 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-the s&p <NUM> spx added <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf rose <NUM> points to <NUM> <PUNC>
-walt disney co. dis <COMMA> a dow component stock <COMMA> rose <NUM> percent after it announced it got the go-ahead from china s central government to pursue a plan to build a theme park in shanghai <PUNC>
-shares of alcoa inc. aa jumped <NUM> percent <PUNC>
-other components of the dow that rose more than <NUM> percent included merck mrk and bank of america bac <PUNC>
-kraft foods inc. kft was the dow s sole component in the red <COMMA> down <NUM> percent after reporting weaker-than-expected sales in the third quarter and lowering its outlook for sales growth this year <PUNC>
-<PAR>

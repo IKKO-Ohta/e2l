@@ -1,3 +1,0 @@
-the dow industrials ended at a 28-month high <COMMA> while the nasdaq ended lower after a measure of consumer confidence turned unexpectedly lower and home prices declined for a fourth straight month <PUNC>
-the dow jones industrial average dji rose <NUM> to end at <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by hewlett-packard co. hpq and cisco csco <PUNC>
-<PAR>

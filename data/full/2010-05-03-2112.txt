@@ -1,5 +1,0 @@
-the dow jones industrial average dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> its biggest one-day gain since mid-february and nearly recouping friday s 159-point slide <PUNC>
-all but one component traded higher <COMMA> led by shares of caterpillar <COMMA> inc. cat <COMMA> which gained <NUM> percent <PUNC>
-alcoa inc. aa was the sole decliner among the blue chips <COMMA> with shares of the aluminum producer down <NUM> percent <PUNC>
-the deals follow last week s announcement that hewlett-packard co. hpq would acquire palm inc. palm <PUNC>
-<PAR>

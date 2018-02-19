@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by the technology sector <COMMA> including intel corp. intc <COMMA> which gained <NUM> percent after the chip maker lifted its third-quarter revenue guidance <PUNC>
-yahoo inc. yhoo likely to hold onto the web-search-advertising businesses that it had considered outsourcing to google inc. goog or microsoft corp msft <COMMA> the wall street journal reported <PUNC>
-<PAR>

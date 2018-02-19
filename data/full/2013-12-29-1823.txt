@@ -1,7 +1,0 @@
-u.s. stocks ended slightly lower on friday <COMMA> but that only marked a retreat from lofty levels as the dow jones industrial average broke a six-session winning streak <PUNC>
-the dow dji and the s&p <NUM> spx had each added to a string of record highs over the course of the week <PUNC>
-the dow saw a <NUM> percent weekly gain <COMMA> just <NUM> points off thursday s record close and contributing to a <NUM> percent rise since the beginning of <NUM> <PUNC>
-the s&p <NUM> saw a <NUM> percent weekly rise and is up more than <NUM> percent in the year-to-date <PUNC>
-friday s close was fractionally below thursday s record close <PUNC>
-the nasdaq composite rixf also slipped friday but ended the week with a <NUM> percent rise and is on track for a nearly <NUM> percent rise over the course of <NUM> <COMMA> leaving it at its highest level since <NUM> <PUNC>
-<PAR>

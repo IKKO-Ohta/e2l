@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> just <NUM> point from its recent high set on dec. <NUM> <PUNC>
-the dow rose <NUM> percent for the week <COMMA> which included modest gains in four sessions that ultimately offset a triple-digit slide on tuesday <PUNC>
-alcoa aa was the dow s strongest component in percentage terms <COMMA> up <NUM> percent due to a rise in aluminum prices and an increase in j.p. morgan s profit estimate for the company <PUNC>
-<PAR>

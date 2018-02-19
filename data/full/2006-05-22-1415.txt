@@ -1,7 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-last week <COMMA> stocks lost ground and the dow industrials posted its biggest one-day point drop in more than three years <PUNC>
-wal-mart stores inc. wmt said it s selling its south korean unit to local retailer shinsegae for dollar <NUM> million <PUNC>
-shinsegae <COMMA> korea s largest discount retailer <COMMA> operates <NUM> e-mart discount stores <PUNC>
-wal-mart s <NUM> south korean stores will continue to operate under the e-mart name <PUNC>
-wal-mart s stock was unchanged at dollar <NUM> <PUNC>
-<PAR>

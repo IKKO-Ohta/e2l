@@ -1,6 +1,0 @@
-in particular <COMMA> the nomination of tim geithner <COMMA> currently the head of the new york federal reserve <COMMA> as the next treasury secretary <COMMA> seemed to find immediate approval from wall street <COMMA> judging by a market rally that saw the dow industrials jump nearly <NUM> points friday <PUNC>
-on friday <COMMA> the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> following the reports <PUNC>
-but the rally still barely made a dent in the week s heavy losses <COMMA> which left the dow <NUM> percent lower <COMMA> the s&p <NUM> index spx down <NUM> percent <COMMA> and the nasdaq composite rixf <COMMA> off <NUM> percent <PUNC>
-on thursday <COMMA> stocks took a nosedive <COMMA> with the s&p <NUM> ending at its lowest level in more than <NUM> years <COMMA> battered by mounting worries about the fate of u.s. automakers and citigroup inc. c <PUNC>
-meanwhile <COMMA> congress postponed debates on aid to the big three automakers general motors corp. gm <COMMA> ford motor co. f and chrysler corp. further fueling fears about the economy just a day after federal reserve officially said the u.s. was in recession <PUNC>
-<PAR>

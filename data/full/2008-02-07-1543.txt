@@ -1,4 +1,0 @@
-after sliding at the start <COMMA> the dow jones industrial average dji recently was up about <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-the gains were led by home depot inc. hd <COMMA> up <NUM> percent <PUNC>
-among the blue chips <COMMA> wal-mart stores wmt shares edged lower after the planet s biggest retailer led a slew of u.s.-based retailers reporting a miserable start to the year <PUNC>
-<PAR>

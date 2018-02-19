@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> rising for the first time in six sessions <PUNC>
-all <NUM> members of the blue-chip index rose on monday <PUNC>
-<PAR>

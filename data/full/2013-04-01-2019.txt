@@ -1,3 +1,0 @@
-after rising as much as <NUM> points and falling as much as <NUM> points <COMMA> the dow jones industrial average dji ended down <NUM> points <COMMA> or less than <NUM> percent <COMMA> at <NUM> <PUNC>
-eighteen of its <NUM> components finished in the red <COMMA> led by intel corp. intc <COMMA> down <NUM> percent <COMMA> and hewlett-packard co. hpq <COMMA> off <NUM> percent <PUNC>
-<PAR>

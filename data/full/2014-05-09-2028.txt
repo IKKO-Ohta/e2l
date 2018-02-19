@@ -1,4 +1,0 @@
-u.s. stocks ended a volatile week on a positive note <COMMA> with the dow jones industrial average notching a record close while the nasdaq composite posted its biggest weekly fall in four weeks as investors continued to dump tech shares and small-cap stocks <PUNC>
-the dow jones industrial average dji ended a choppy session up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> eclipsing the previous record close of <NUM> set on april <NUM> <PUNC>
-the blue-chip index saw a weekly rise of <NUM> percent <PUNC>
-<PAR>

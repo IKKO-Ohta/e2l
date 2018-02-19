@@ -1,5 +1,0 @@
-the dow jones industrial average dji slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-weighing on the measure <COMMA> chevron cvx fell <NUM> percent after the energy giant agreed to pay dollar <NUM> billion in cash and assume dollar <NUM> billion in debt to purchase atlas energy <PUNC>
-atlas shareholders will receive dollar <NUM> a share in cash <COMMA> a premium of <NUM> percent over its monday closing price <PUNC>
-shares of atlas <COMMA> which is not a dow component <COMMA> surged <NUM> percent <PUNC>
-<PAR>

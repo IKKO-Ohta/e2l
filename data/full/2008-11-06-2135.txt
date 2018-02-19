@@ -1,6 +1,0 @@
-u.s. stocks on thursday thudded lower for a second day <COMMA> with the dow jones industrial average closing below <NUM> for the first time since oct. <NUM> <COMMA> as investors braced for the october jobs report and a likely jump in the unemployment rate <PUNC>
-after dropping nearly <NUM> points in afternoon trade <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
-all of the dow s <NUM> components finished in the red with losses led by general motors corp. gm <COMMA> down <NUM> percent <PUNC>
-shares of wal-mart stores inc. wmt fell the least <COMMA> down <NUM> percent <PUNC>
-u.s. stocks tumbled wednesday <COMMA> suffering their worst-ever percentage losses in the day after a presidential election <COMMA> as the dow jones industrial average dropped <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq dropped <NUM> points <PUNC>
-<PAR>

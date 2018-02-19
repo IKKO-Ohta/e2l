@@ -1,2 +1,0 @@
-on tuesday <COMMA> the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> as wall street cheered the move <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-after a big rally on tuesday <COMMA> the dow jones industrial average dji ended on a gain of <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-cyclical shares such as caterpillar cat and 3m co. mmm led blue-chip gains <PUNC>
-on wednesday <COMMA> shares of apple rose <NUM> percent after at&t inc. t said it was suspending preordering of the tech titan s iphone <NUM> so it could fill current orders <PUNC>
-<PAR>

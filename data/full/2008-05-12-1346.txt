@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with six of its <NUM> components posting opening gains <PUNC>
-u.s. stocks dropped sharply on friday <COMMA> after hefty losses from american international group inc. aig and another record high for oil prices <PUNC>
-<PAR>

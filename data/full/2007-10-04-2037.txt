@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to reach <NUM> <COMMA> with <NUM> of its <NUM> components finishing higher <PUNC>
-pharmaceuticals fronted the blue-chip advance <COMMA> with merck & co. inc. mrk up <NUM> percent and pfizer inc. pfe <COMMA> ahead <NUM> percent <COMMA> after naming a new head of research and development <PUNC>
-<PAR>

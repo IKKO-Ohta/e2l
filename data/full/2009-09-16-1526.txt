@@ -1,4 +1,0 @@
-on wednesday <COMMA> energy and financial shares fronted the broad market s gains <PUNC>
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx climbed <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf gained <NUM> points to <NUM> <PUNC>
-<PAR>

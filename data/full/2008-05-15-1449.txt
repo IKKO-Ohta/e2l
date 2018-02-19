@@ -1,5 +1,0 @@
-the dollar <NUM> billion deal begs the question of what is walt disney dis going to do <PUNC> and there should be a bunch of acquisition targets in the online space <COMMA> while yahoo yhoo gets the carl icahn treatment <COMMA> said art hogan <COMMA> chief market strategist at jefferies & co <PUNC>
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-intel corp. intc led gains <COMMA> rising <NUM> percent <PUNC>
-blue-chip declines were fronted by the likes of wal-mart stores inc. wmt <COMMA> off <NUM> percent <COMMA> and american international group inc. aig <COMMA> down <NUM> percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
-on monday stocks shrugged off news from pfizer that it halted development of a once promising cholesterol drug <COMMA> as a flurry of merger activity sending major indexes higher <PUNC>
-the dow industrials rose <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite posted its best gain in a month <COMMA> up <NUM> points <PUNC>
-microsoft corp. <COMMA> msft <COMMA> a component of the dow jones industrial average <COMMA> rose <NUM> cents to dollar <NUM> before the opening <PUNC>
-the company s chief financial officer <COMMA> christopher liddell <COMMA> said the company remains on track to achieve revenue growth of <NUM> percent to <NUM> percent in <NUM> <PUNC>
-<PAR>

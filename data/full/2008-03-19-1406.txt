@@ -1,4 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points to <NUM> <PUNC>
-on tuesday <COMMA> the dow industrials rose <NUM> points <COMMA> the s&p <NUM> added <NUM> points and the nasdaq composite rose <NUM> points after lehman brothers holdings inc. leh and goldman sachs group inc. gs offered relief on earnings and the federal reserve cut interest rates by three-quarters of a percentage point <PUNC>
-a number of banks led by j.p. morgan chase jpm and bank of america bac plan to sell visa shares that they own <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> adding to earlier losses and pushing its weekly drop to more than <NUM> percent <PUNC>
-j.p. morgan chase jpm led the measure s declines with a drop of <NUM> percent <COMMA> while bank of america corp. bac slid <NUM> percent <COMMA> as investors grew increasingly concerned about how a criminal investigation into goldman sachs gs could eventually affect other big banks <PUNC>
-even with friday s declines <COMMA> the dow is on track to close up its third straight month of gains <COMMA> despite some turbulent days when instability in greece and news of the fraud charges against goldman sachs roiled markets <PUNC>
-the measure has gained over <NUM> of the last <NUM> months <PUNC>
-<PAR>

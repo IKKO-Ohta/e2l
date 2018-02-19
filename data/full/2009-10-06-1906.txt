@@ -1,4 +1,0 @@
-up for a second day after a four-session stretch of declines <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite index rixf climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-u.s. stocks traded mixed tuesday as wholesale inflation data and disappointing oracle results tugged to the downside <COMMA> but a rally in shares of general motors offered some support to the dow jones industrial average amid increasing optimism it s close to a deal with its main labor union over labor costs <PUNC>
-the dow industrials dji were last up <NUM> points to <NUM> <PUNC>
-general motors corp. gm was the biggest percentage gainer on the dow industrials <COMMA> up <NUM> percent at dollar <NUM> <COMMA> as the carmaker and delphi dphiq <COMMA> its main spare parts supplier <COMMA> continue to negotiate with the united autoworkers union over labor contracts and cost-cutting measures <PUNC>
-merck & co. mrk tacked on <NUM> cents to dollar <NUM> <PUNC>
-the company agreed to license technology to make anti-hypertension drugs from french biotech nicox <COMMA> in return for up to dollar <NUM> million in milestone payments as well as other payments <PUNC>
-<PAR>

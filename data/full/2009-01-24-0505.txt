@@ -1,6 +1,0 @@
-the broad s&p <NUM> index spx rose <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf gained <NUM> points to <NUM> <PUNC>
-the dow jones industrial average dji <COMMA> however <COMMA> fell <NUM> points to <NUM> <COMMA> weighed down by bad quarterly results from general electric ge <COMMA> a bellwether of the global economy <PUNC>
-and after a week full of disappointing results and dimming outlooks <COMMA> the dow finished <NUM> percent lower than last friday s close <COMMA> while the s&p <NUM> fell <NUM> percent <COMMA> and the nasdaq lost <NUM> percent <PUNC>
-next week <COMMA> <NUM> companies from the s&p <NUM> are expected to report results <COMMA> including <NUM> dow components <PUNC> american express axp <COMMA> caterpillar cat and mcdonald s mcd on monday <PUNC> dupont dd and verizon vz on tuesday <PUNC> boeing ba <COMMA> pfizer pfe and at&t t on wednesday <COMMA> 3m mmm on thursday <PUNC> followed by chevron cvx <COMMA> exxon mobil xom and procter & gamble pg on friday <PUNC>
-earnings at financial firms <COMMA> including regional banks such state street stt and u.s. bancorp usb and mega-banks such as bank of america bac and citigroup c have widely missed estimates <PUNC>
-<PAR>

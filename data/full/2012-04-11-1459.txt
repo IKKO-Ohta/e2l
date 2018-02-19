@@ -1,2 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> as shares of alcoa aa rallied the most among the index s <NUM> components <COMMA> up <NUM> percent <PUNC>
-<PAR>

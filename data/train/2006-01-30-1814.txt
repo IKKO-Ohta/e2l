@@ -1,8 +1,0 @@
-the dow jones industrial average dji was up more than <NUM> points at <NUM> <PUNC>
-exxon mobil corp. xom shares shot up <NUM> percent <COMMA> or dollar <NUM> <COMMA> to dollar <NUM> after the world s largest oil company posted a forecast-beating <NUM> percent rise in fourth-quarter profit <COMMA> buoyed by high crude and gas prices <PUNC>
-wal-mart stores inc. wmt rose to their highest level for the year <COMMA> up as much as <NUM> percent to dollar <NUM> after the world s largest retailer said sales at stores open at least a year are on track to have grown <NUM> percent in january over year-ago levels <PUNC>
-citigroup inc. c and investment firm cerberus capital management may bid between dollar <NUM> billion and dollar <NUM> billion for general motors acceptance corp. <COMMA> the financing arm of general motors corp. gm <COMMA> according to published reports <PUNC>
-juniper networks inc. jnpr tacked on <NUM> cents to dollar <NUM> <COMMA> buoyed by a piper jaffray upgrade to outperform <PUNC>
-the brokerage cites an attractive valuation after a <NUM> percent share-price decline over the past <NUM> weeks <COMMA> with the company also likely to benefit from a rise in capital spending at verizon communications <PUNC>
-vz <PUNC>
-<PAR>

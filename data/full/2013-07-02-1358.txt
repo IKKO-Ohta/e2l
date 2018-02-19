@@ -1,2 +1,0 @@
-the s&p <NUM> spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

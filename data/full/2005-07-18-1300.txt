@@ -1,8 +1,0 @@
-the dow futures are being hit by an earnings miss by citigroup <COMMA> said marc pado <COMMA> u.s. market strategist at cantor fitzgerald <PUNC>
-technically <COMMA> the markets are a bit extended short term <PUNC>
-a day or two of consolidation would be acceptable <COMMA> but the market needs to use the earnings season to push higher <PUNC>
-the dow jones industrial average dji ended up <NUM> points at <NUM> <COMMA> a four-month high <PUNC>
-among dow stocks entering the earnings fray <COMMA> shares of citigroup inc. c fell <NUM> percent to dollar <NUM> in pre-market trading on instinet after the financial services group s second-quarter results fell short of analyst expectations <COMMA> due in large part to a significant decline in its fixed-income revenue <PUNC>
-3m co <COMMA> mmm <COMMA> the second dow component to report monday <COMMA> could get a lift in early trading after the diversified industrial group raised the lower-end of its <NUM> earnings forecast <PUNC>
-after the market close <COMMA> fellow dow member international business machines ibm reports its quarterly results <PUNC>
-<PAR>

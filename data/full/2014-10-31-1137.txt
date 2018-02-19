@@ -1,8 +1,0 @@
-the dow jones industrial average vaulted higher on thursday trading <COMMA> dragging the other major u.s. benchmarks higher as well <PUNC>
-the dow industrials staged a rally of more than <NUM> points <COMMA> after starting the session modestly higher <PUNC>
-the rally marked the blue-chip indexes eighth straight triple-digit gain in an october that was frightful <COMMA> at times <PUNC>
-much of the dow s gains can be credited to visa inc. <COMMA> merck & co <PUNC>
-but rosy economic data <COMMA> pointing to stronger-than-expected growth also factored <PUNC>
-visa inc. v rose <NUM> percent after the company s earnings and revenue beat forecasts <PUNC>
-it s rival mastercard inc. ma also rallied <NUM> percent after beating analysts forecasts for third-quarter profits and sales <PUNC>
-<PAR>

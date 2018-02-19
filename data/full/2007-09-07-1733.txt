@@ -1,4 +1,0 @@
-at 1:15 p.m. eastern <COMMA> the dow jones industrial average dji was off <NUM> points to <NUM> <COMMA> with all of but three of its <NUM> components trading lower <PUNC>
-financial stocks fronted the losses <COMMA> with american express co. axp seeing its stock off <NUM> percent <PUNC>
-pharmaceutical giant johnson & johnson jnj was among the few dow stocks to trade in positive turf <COMMA> up almost <NUM> percent <PUNC>
-<PAR>

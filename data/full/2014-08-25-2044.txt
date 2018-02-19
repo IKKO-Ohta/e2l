@@ -1,3 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> while the nasdaq composite rixf jumped by <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
-the dow stands <NUM> percent off its july <NUM> record close <COMMA> and the tech-heavy nasdaq again scored its highest close since march <NUM> <COMMA> <NUM> <PUNC>
-<PAR>

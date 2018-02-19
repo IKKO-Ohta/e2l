@@ -1,4 +1,0 @@
-ahead by more than <NUM> points early on <COMMA> the dow jones industrial average dji was more recently off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-one of the dow s bright spots was hewlett-packard hpq <COMMA> up <NUM> percent following its upgrade to overweight from equal-weight by morgan stanley <PUNC>
-on thursday <COMMA> further worries about the beleaguered financial sector hit stocks <COMMA> with the dow falling <NUM> points <COMMA> marketing its sixth down day in the last seven sessions <PUNC>
-<PAR>

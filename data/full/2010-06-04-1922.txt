@@ -1,6 +1,0 @@
-u.s. stocks sank broadly friday <COMMA> pushing the dow jones industrial average well below the <NUM> level following a weaker-than-expected job report and renewed worries about euro-zone debt <PUNC>
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <COMMA> as investors expressed their concern with the government s may nonfarm payrolls report <PUNC>
-the dow s move below <NUM> - its first time below the psychologically important number in a little over a week - came after the euro cur_eurusd fell below dollar <NUM> around midday on fresh worries about hungary s economy <PUNC>
-a leading official in the ruling fidesz party said thursday that hungary faces a greek-like sovereign-debt problem <PUNC>
-all <NUM> of the dow s components fell <COMMA> including declines of more than <NUM> percent each in economically sensitive stocks caterpillar cat <COMMA> general electric ge and american express axp <PUNC>
-<PAR>

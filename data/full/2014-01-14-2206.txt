@@ -1,7 +1,0 @@
-the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <COMMA> with the technology sector leading broad-based gains <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent to <NUM> <COMMA> breaking a four-session losing streak <PUNC>
-read the transcript of the stock market live blog here <PUNC>
-investors also focused on earnings from two of the country s largest banks <PUNC>
-j.p. morgan chase & co. jpm rose as high as <NUM> percent but gave up nearly all of its gains by the end of the day <PUNC>
-earnings topped expectations <COMMA> though investment-banking revenue and mortgage originations slumped <PUNC>
-<PAR>

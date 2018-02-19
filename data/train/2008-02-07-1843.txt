@@ -1,9 +1,0 @@
-in choppy trading <COMMA> the dow jones industrial average dji was up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by home depot inc. hd <COMMA> up <NUM> percent <PUNC>
-fronting blue-chip declines was hewlett-packard co. hpq <COMMA> shares of which recently were off <NUM> percent <PUNC>
-the dow component making the largest gains was home depot inc. hd <COMMA> up <NUM> percent <PUNC>
-also among the blue chips <COMMA> shares of wal-mart stores wmt edged lower <PUNC>
-the company was among a slew of u.s.-based retailers reporting a miserable start to the year <PUNC>
-<PAR>
-other technology shares trading in the red included microsoft corp. msft <COMMA> down <NUM> percent <COMMA> as the software giant awaits word from yahoo inc. yhoo on its dollar <NUM> billion acquisition bid <PUNC>
-shares of yahoo were up <NUM> percent <PUNC>
-<PAR>

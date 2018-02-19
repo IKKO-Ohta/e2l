@@ -1,5 +1,0 @@
-consumer discretionary shares fronted the declines and financials led the gains as the major indexes wavered in afternoon trade <PUNC>
-after an early fall of more than <NUM> points <COMMA> the dow jones industrial average dji was up <NUM> points to <NUM> <PUNC>
-the s&p <NUM> spx fell <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf held near flat at <NUM> <PUNC>
-on thursday <COMMA> the dow dropped <NUM> points in tallying its largest single-day fall since early july <PUNC>
-<PAR>

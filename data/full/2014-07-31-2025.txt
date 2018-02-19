@@ -1,4 +1,0 @@
-the dow jones industrial average skidded more than <NUM> points thursday in its biggest one-day drop in six months <COMMA> as a combination of earnings <COMMA> economic news and a default by argentina triggered a broad selloff <PUNC>
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its worst showing on both counts since feb. <NUM> <PUNC>
-it finished the month <NUM> percent lower and its performance for <NUM> turned negative <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-after losing <NUM> points <COMMA> or <NUM> percent <COMMA> during the last two trading days <COMMA> the dow jones industrial average dji on wednesday rose <NUM> points to <NUM> <PUNC>
-up <NUM> percent <COMMA> walt disney co. dis fronted the gains that extended to all <NUM> of the dow industrials <NUM> components <PUNC>
-<PAR>

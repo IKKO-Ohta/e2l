@@ -1,8 +1,0 @@
-the market s disappointment with results from tech-industry giants apple aapl and ibm corp. ibm were based on lofty expectations that were not realistic <COMMA> said pado <COMMA> noting that so-called whisper numbers had shares of both hitting historic highs during monday s session <PUNC>
-after sliding below <NUM> for the first time in a week <COMMA> the dow jones industrial average dji was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all but two of its <NUM> components in decline <PUNC>
-on tuesday <COMMA> bank of america bac said its quarterly loss stemmed from a one-time hit related to credit-card-reform legislation passed earlier in the year <PUNC>
-<PAR>
-both apple aapl and ibm ibm reported quarterly results late monday <COMMA> with each exceeding earnings forecasts <COMMA> but investors still found something to pan in both reports <PUNC>
-shares of ibm <COMMA> which said it signed less service deals than anticipated in the third quarter <COMMA> fell <NUM> percent even as the dow component reported robust profits and hiked its <NUM> outlook <PUNC>
-the major indexes had advanced monday <COMMA> with the dow industrials ending at their highest level since may <NUM> <COMMA> a level that also helped inspire some profit taking early tuesday <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
-the measure s drop was led by caterpillar <COMMA> cat which tumbled <NUM> percent after the heavy-machinery maker reported a sharp decline in fourth-quarter earnings and forecast <NUM> earnings below analysts estimates <PUNC>
-alcoa aa was also particularly weak <COMMA> off <NUM> percent as metals futures fell <PUNC>
-keeping the dow s declines in check <COMMA> boeing ba surged <NUM> percent after the aircraft and defense company swung to a fourth-quarter profit that was bigger than analysts had projected <PUNC>
-<PAR>

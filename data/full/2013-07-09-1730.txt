@@ -1,3 +1,0 @@
-aluminum manufacturer alcoa aa <COMMA> the first dow member to report for the second quarter <COMMA> late monday released quarterly sales and profit that exceeded estimates <PUNC>
-extending a winning streak that has benchmark indexes up for a fourth session <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

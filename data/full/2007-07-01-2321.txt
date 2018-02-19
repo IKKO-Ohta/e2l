@@ -1,5 +1,0 @@
-but investors will increasingly begin to monitor earnings-related developments as the traditional kick-off of earnings season approaches <PUNC>
-alcoa inc. aa will be first out of the gate on july <NUM> <PUNC>
-the dow jones industrial average dji fell <NUM> points to end at <NUM> <PUNC>
-the s&p <NUM> spx lost <NUM> points to end at <NUM> and the nasdaq composite rixf fell <NUM> points to <NUM> <PUNC>
-<PAR>

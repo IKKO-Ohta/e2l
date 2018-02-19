@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell as much as <NUM> points <COMMA> but finished down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-j.p. morgan chase & co. jpm was the biggest loser in the dow jones industrial average falling <NUM> percent <PUNC>
-the financial select sector spdr fund xlf <COMMA> which tracks financial stocks in the s&p <NUM> spx fell <NUM> percent <PUNC>
-american express axp <COMMA> netflix inc. nflx and ebay inc. ebay report after the close <PUNC>
-check out marketwatch s for previews <PUNC>
-<PAR>

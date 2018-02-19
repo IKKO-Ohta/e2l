@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points at <NUM> but made a partial recovery from a session low of <NUM> <PUNC>
-within the dow <COMMA> shares of merck & co. mrk led the decliners <COMMA> down more than <NUM> percent as a news report said the drug maker has disclosed four separate tax disputes in canada and the united states with potential liabilities totaling dollar <NUM> billion <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> well off an earlier high of <NUM> <PUNC>
-the nasdaq composite rixf was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> off a high of <NUM> <COMMA> while the s&p <NUM> gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> off a high of <NUM> <PUNC>
-<PAR>

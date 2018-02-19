@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components ahead <COMMA> led by caterpillar inc. cat <COMMA> which gained <NUM> percent <PUNC>
-general motors gm led the dow s losses <PUNC>
-its stock slipped <NUM> percent after goldman sachs downgraded the automaker s shares to neutral from buy <COMMA> saying likely union concessions are priced in <PUNC>
-procter & gamble pg reiterated quarterly profit and sales forecasts <PUNC>
-<PAR>

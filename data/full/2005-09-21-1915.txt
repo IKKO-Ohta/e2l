@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> its lowest level since aug. <NUM> <PUNC>
-it fell as low as <NUM> intraday <PUNC>
-merrill lynch upgraded intel inc. intc to buy from neutral <COMMA> due primarily to relative valuation <PUNC>
-while the broker is still concerned about excess manufacturing capacity and competitive pressure from advanced micro devices amd <COMMA> it noted that the stock has fallen about <NUM> percent since the middle of july <COMMA> versus a virtually flat performance by the philadelphia exchange semiconductor index sox <PUNC>
-<PAR>

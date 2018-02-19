@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> recovering from an earlier drop to <NUM> <COMMA> led by gains in honeywell inc. hon <COMMA> pfizer inc. pfe and dupont dd <PUNC>
-but wal-mart wmt fell <NUM> percent <PUNC>
-the giant retailer posted a <NUM> percent increase in march sales at stores open at least on year <COMMA> blowing past wall street estimates <COMMA> but offered a tepid forecast for april <PUNC>
-home-improvement retailer home depot hd also fell <NUM> percent <PUNC>
-on wednesday <COMMA> stocks ended lower <COMMA> with the dow industrials breaking an eight-day winning streak <COMMA> after the minutes from the latest meeting of the federal reserve dashed hopes that the inflation-focused policymakers would be inclined to cut interest rates anytime soon <PUNC>
-<PAR>

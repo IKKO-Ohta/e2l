@@ -1,4 +1,0 @@
-on thursday <COMMA> stocks ended sharply lower <COMMA> with the dow jones industrial average posting its biggest one-day loss in nearly four months <COMMA> after a number of bellwether companies <COMMA> led by pfizer <COMMA> ebay and mcdonald s <COMMA> posted disappointing results <COMMA> stoking concern about the outlook for corporate profits <PUNC>
-the dow dji reversed a triple-digit gain in the prior session <COMMA> sliding <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
-quarterly results from caterpillar inc. cat <COMMA> however <COMMA> served as a reminder to investors that the third-quarter earnings season has been somewhat of a mixed bag so far <PUNC>
-<PAR>

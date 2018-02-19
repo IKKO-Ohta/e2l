@@ -1,5 +1,0 @@
-the dow jones industrial average eked out its 10th record close this year <PUNC>
-the s&p <NUM> finished near record levels <COMMA> after trading in a narrow range amid lower-than-usual volumes <PUNC>
-the s&p <NUM> spx closed less than a point lower at <NUM> <COMMA> while the dow jones industrial average dji added <NUM> points to <NUM> <PUNC>
-<NUM> reasons the dow doesn t deserve to be at <NUM> <PUNC>
-<PAR>

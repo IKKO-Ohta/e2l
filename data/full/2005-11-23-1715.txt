@@ -1,3 +1,0 @@
-the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
-mcdonald s mcd rose as much as <NUM> percent after announcing it plans to offer holiday gift cards <PUNC>
-<PAR>

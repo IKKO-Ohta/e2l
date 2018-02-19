@@ -1,3 +1,0 @@
-with <NUM> minutes to go <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by intel corp. intc <COMMA> up <NUM> percent <PUNC>
-on wednesday <COMMA> stocks rallied on better-than-expected earnings from intel corp. intc and j.p. morgan chase & co. jpm <COMMA> taking the s&p <NUM> to an above <NUM> finish for the first time since late september <NUM> <PUNC>
-<PAR>

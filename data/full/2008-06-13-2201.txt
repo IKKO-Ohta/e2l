@@ -1,8 +1,0 @@
-the dow jones industrial average dji finished up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-for the week <COMMA> the dow rose <NUM> points <COMMA> or <NUM> percent <PUNC>
-among dow components <COMMA> coca cola ko dipped <NUM> percent after hellenic bottling cch <COMMA> one of the beverage maker s top bottlers <COMMA> issued an earnings warning <COMMA> citing economic conditions in italy <COMMA> ukraine and romania <COMMA> adverse weather in central europe <COMMA> rising plastic prices and a strike in greece <PUNC>
-exxon mobil xom rose <NUM> percent <PUNC>
-the oil giant said it plans to exit its u.s. retail gasoline business over the next few years <COMMA> shedding the <NUM> service stations it still owns and operates and another <NUM> company-owned outlets operated by dealers of its branded fuels <PUNC>
-the stock finished up <NUM> percent to dollar <NUM> <PUNC>
-pfizer pfe gained <NUM> percent <COMMA> saying it may make a counter offer for ranbaxy laboratories <COMMA> according to a report in india s business standard <PUNC>
-<PAR>

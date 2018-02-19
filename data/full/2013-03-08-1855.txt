@@ -1,4 +1,0 @@
-u.s. stocks on friday climbed toward weekly gains <COMMA> and the dow jones industrial average toward another record close <COMMA> after the nation s jobless rate fell to a four-year low <PUNC>
-benchmark indexes were up <NUM> percent and more <COMMA> scaling back from gains that had the dow jones industrial average dji climbing as much as <NUM> points during the session <PUNC>
-extending a run that has had it closing at record highs in recent days <COMMA> the dow industrials were lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

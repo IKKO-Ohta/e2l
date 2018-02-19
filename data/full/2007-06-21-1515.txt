@@ -1,6 +1,0 @@
-u.s. stocks were falling in volatile trade on thursday <COMMA> as investors remained concerned about higher bond yields <COMMA> which yesterday led the dow jones industrial average to stumble nearly <NUM> points <COMMA> and as crude oil prices advanced towards dollar <NUM> a barrel <PUNC>
-after gyrating in and out of positive territory <COMMA> the dow industrials dji was last down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> stocks retreated <COMMA> led by mcdonald s corp. mcd and honeywell corp. hon <PUNC>
-exxon mobil xom was the biggest gainer among blue chips <PUNC>
-crude oil recently gained <NUM> cents <COMMA> or <NUM> percent <COMMA> to dollar <NUM> as a general strike in nigeria fueled concerns about oil production <PUNC>
-on thursday <COMMA> jp morgan chase jpm <COMMA> a dow component <COMMA> said it came to terms with bear stearns <COMMA> and didn t auction the collateral it held from a bear hedge fund <COMMA> a person briefed on the matter told the newspaper <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji finished at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <COMMA> for the session and was down <NUM> percent for the week <PUNC>
-all but two of the blue-chip index s <NUM> components tallied losses <COMMA> with citigroup inc. c the biggest laggard <COMMA> its shares off <NUM> percent after the banking giant said former treasury secretary robert rubin would retire from his post as senior counselor at the company <PUNC>
-only pharmaceutical giant johnson & johnson jnj and discount retailer wal-mart stores inc. wmt ended in the black <COMMA> though both with small gains <PUNC>
-major u.s. stock indexes had closed mixed thursday <COMMA> as a lowered profit outlook from wal-mart stores inc. wmt hurt the dow industrials <COMMA> and expectations for a better-than-expected profit helped sears holdings corp. shld <PUNC>
-<PAR>

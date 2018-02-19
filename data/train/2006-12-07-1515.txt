@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-dow-component home depot inc. hd dropped <NUM> percent after saying late wednesday that it routinely backdated stock options for the past <NUM> years <PUNC>
-on wednesday stocks closed lower <COMMA> as the market took a break from its recent advance <COMMA> with yahoo inc. yhoo in focus after a management shakeup and merck & co. mrk shares down after a lukewarm forecast <PUNC>
-<PAR>

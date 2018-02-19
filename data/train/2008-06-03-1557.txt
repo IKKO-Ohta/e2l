@@ -1,4 +1,0 @@
-the dow jones industrial average rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components led by general motors corp. on the rise <PUNC>
-also among the dow stocks <COMMA> wal-mart stores inc. gained <NUM> percent after the world s largest retailer drew an upgrade to outperform from morgan keegan analyst john lawrence <PUNC>
-on monday <COMMA> u.s. equities ended sharply lower <COMMA> breaking a four-session win streak <COMMA> with the dow industrials falling by triple digits after standard & poor s cut its ratings on three large brokerages <PUNC>
-<PAR>

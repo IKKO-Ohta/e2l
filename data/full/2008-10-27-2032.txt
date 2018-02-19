@@ -1,7 +1,0 @@
-after trading in a 450-point range on either side of zero <COMMA> the dow jones industrial average dji piled on the losses in the last <NUM> minutes of trade <COMMA> falling <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> closed in the red <COMMA> with general motors corp. gm the heaviest weight <COMMA> falling <NUM> percent after standard & poor s reiterated its sell rating on the dow component <PUNC>
-the blue-chip index s gains were led by verizon communications inc. vz up <NUM> percent <COMMA> its biggest one-day percentage gain since march of <NUM> <PUNC>
-the second-biggest u.s. phone company reported a <NUM> percent rise in third-quarter profit <PUNC>
-<PAR>
-on friday <COMMA> u.s. stocks closed at five-year lows <COMMA> with the dow industrials falling <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> the index s lowest close since april <NUM> <COMMA> <NUM> <PUNC>
-<PAR>

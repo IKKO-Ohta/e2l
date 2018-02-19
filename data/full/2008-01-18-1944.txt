@@ -1,8 +1,0 @@
-after a short-lived triple-digit rise <COMMA> the dow jones industrial average dji lost more than <NUM> points <COMMA> and was more recently off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-noteworthy blue-chip decliners included verizon communications inc. vz <COMMA> down <NUM> percent <COMMA> and american international group inc. aig <COMMA> off <NUM> percent <COMMA> and merck & co. inc. <COMMA> mrk down <NUM> percent <PUNC>
-the dow s opening advance was bolstered in part by ibm ibm <COMMA> up <NUM> percent <COMMA> after posting <NUM> percent earnings growth <PUNC>
-also adding to early blue-chip gains <COMMA> ge ge advanced <NUM> percent after the industrial bellwether reported a fourth-quarter profit rise of <NUM> percent <PUNC>
-<PAR>
-on thursday <COMMA> stocks were hammered <COMMA> with financial shares especially hard hit <COMMA> as worries about the global economy prevailed <PUNC>
-the dow shed more than <NUM> points <COMMA> or <NUM> percent <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-general motors corp. gm was up <NUM> percent at dollar <NUM> in morning trading <PUNC>
-the company said chairman and chief executive richard wagoner will unveil a major consumer initiative wednesday at a <NUM> p.m. eastern news conference <PUNC>
-also on the dow <COMMA> hewlett-packard co. hpq was off <NUM> percent at dollar <NUM> <PUNC>
-the computer maker said california attorney-general is conducting an informal investigation into how the company discovered that one of its board members leaked confidential information <PUNC>
-intel corp. intc <COMMA> a dow component <COMMA> was off <NUM> percent at dollar <NUM> in early trading <PUNC>
-the chip giant said late tuesday it will cut <NUM> jobs <COMMA> or about <NUM> percent of its work force <COMMA> by the middle of <NUM> as it looks to slash costs and boost profits amid stiffer competition from smaller rival advanced micro devices inc. amd <PUNC>
-<PAR>

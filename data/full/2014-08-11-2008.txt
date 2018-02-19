@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained as much as <NUM> points in the morning <COMMA> but pared gains in the afternoon <PUNC>
-the blue-chip index closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
-<PAR>

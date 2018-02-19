@@ -1,5 +1,0 @@
-the s&p <NUM> spx finished <NUM> points <COMMA> or <NUM> percent lower at <NUM> <PUNC>
-the dow jones industrial average dji broke its five-day winning streak and closed 101.47. points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
-the nasdaq composite rixf ended the day down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-cisco systems inc. csco shares rose <NUM> percent in aftermarket trade as the dow component reported a fall in revenue <COMMA> but results still beat estimates <PUNC>
-<PAR>

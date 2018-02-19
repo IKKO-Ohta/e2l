@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points in early morning trading to <NUM> <COMMA> with all but one of its <NUM> components moving ahead <COMMA> led by dupont & co. dd <COMMA> up <NUM> percent <PUNC>
-blue-chip financials were among those climbing <COMMA> with citigroup inc. c up <NUM> percent <COMMA> american express co. axp up <NUM> percent <COMMA> and jp morgan chase jpm rising <NUM> percent <PUNC>
-gm gm said it is offering buyouts to <NUM> united auto workers members in the u.s. to cut costs <COMMA> and reported losses of dollar <NUM> billion last year <COMMA> its biggest annual decline <PUNC>
-<PAR>

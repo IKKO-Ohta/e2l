@@ -1,6 +1,0 @@
-the s&p <NUM> spx fell <NUM> point <COMMA> or less than <NUM> percent <COMMA> to end at <NUM> after trading as low as <NUM> <COMMA> leaving the index with a <NUM> percent weekly gain <PUNC>
-the dow jones industrial average dji trimmed a triple-digit loss to end the day down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> making for a weekly rise of <NUM> percent <PUNC>
-the nasdaq composite rixf returned to positive territory <COMMA> rising <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and notching a <NUM> percent weekly advance <PUNC>
-monster beverage mnst shares surged to lead the s&p on coca-cola s ko move to acquire a <NUM> percent ownership stake in the energy drink company <COMMA> as part of a long-term partnership deal <PUNC>
-coke will make a dollar <NUM> billion cash payment and transfer its global energy drink business to monster <PUNC>
-<PAR>

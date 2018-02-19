@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in morning trade <PUNC>
-if the dow industrials finish higher on tuesday <COMMA> it will be the 19th straight tuesday rise for the blue-chip index <PUNC>
-<PAR>

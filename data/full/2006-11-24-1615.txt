@@ -1,8 +1,0 @@
-the dow jones industrial average dji last was down <NUM> points at <NUM> <PUNC>
-within the dow industrials <COMMA> only four stocks were higher <PUNC> alcoa inc. aa <COMMA> general motors corp. gm <COMMA> at&t inc. t and verizon communications vz <PUNC>
-wal-mart stores inc. wmt <COMMA> a component of the dow jones industrial average <COMMA> was down <NUM> percent at dollar <NUM> <PUNC>
-intel corp. intc <COMMA> also in the dow industrials <COMMA> may trim jobs at its 150-employee korean unit <COMMA> according to a korean news agency <PUNC>
-the stock fell <NUM> percent to dollar <NUM> <PUNC>
-another dow component <COMMA> ibm corp. ibm agreed to pay dollar <NUM> million to resolve all claims in an overtime-pay <COMMA> class-action suit filed in a northern california federal court in january <PUNC>
-ibm stock dropped <NUM> cents to dollar <NUM> <PUNC>
-<PAR>

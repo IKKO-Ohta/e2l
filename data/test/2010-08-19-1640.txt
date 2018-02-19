@@ -1,2 +1,0 @@
-after sliding nearly <NUM> points <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all <NUM> blue-chip components mired in negative turf <COMMA> with intel intc weighing the most after it said it would buy security-software maker mcafee <COMMA> paying a roughly <NUM> percent premium over the target s closing price wednesday <PUNC>
-<PAR>

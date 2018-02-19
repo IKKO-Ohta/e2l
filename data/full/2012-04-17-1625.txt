@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its first foray above the <NUM> level in more than a week <PUNC>
-coca-cola co. ko led gains among the dow s <NUM> components <COMMA> up <NUM> percent after the beverage maker reported earnings and revenue that topped estimates <PUNC>
-johnson & johnson jnj fell <NUM> percent after the health-care conglomerate reported quarterly earnings <PUNC>
-at some point they will be the u.s. economy if they continue growing <COMMA> which was the trajectory of wal-mart stores inc. wmt in the 80s <COMMA> said nolte of the discount retailing giant <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-u.s. stocks on wednesday dropped sharply for a second day <COMMA> with the dow industrials sliding to three-month lows <COMMA> after economic bellwether fedex corp. delivered disappointing results and regional banking powerhouse fifth third bancorp trimmed its dividend <COMMA> highlighting the impact of rising fuel prices and the credit crisis <PUNC>
-dipping below the <NUM> mark for the first time since march <NUM> <COMMA> the dow jones industrial average dji recovered a bit by the close <COMMA> yet still finished at a three-month low of <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <PUNC>
-all but four of the blue-chip index s <NUM> components ended in the red <PUNC>
-general motors corp. gm led blue-chip declines <COMMA> with shares of the automaker down <NUM> percent <PUNC>
-off the dow <COMMA> shares of gm rival ford motor co. f also declined <NUM> percent as worries about a soft economy and climbing fuel costs could further dent vehicle sales <PUNC>
-<PAR>

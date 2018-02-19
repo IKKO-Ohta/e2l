@@ -1,3 +1,0 @@
-after trading in a more than 250-point range in positive and negative territory <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components ended higher <PUNC>
-the market was bolstered early on by technology bellwether hewlett-packard hpq <COMMA> which reported a stronger-than-forecast <NUM> percent profit rise late monday and forecast current-quarter earnings ahead of wall street estimates <COMMA> also helping lift the dow <PUNC>
-<PAR>

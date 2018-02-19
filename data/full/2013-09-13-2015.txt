@@ -1,4 +1,0 @@
-u.s. stocks rose on friday <COMMA> with the dow industrials posting their best week since january <COMMA> as worries about syria ebbed and as investors looked to next week s monetary-policy decision by the federal reserve <PUNC>
-up <NUM> percent on the week <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> on friday <PUNC>
-shares of intel corp. intc paced blue-chip gains <COMMA> up <NUM> percent after jefferies upgraded the chip maker to buy from hold <PUNC>
-<PAR>

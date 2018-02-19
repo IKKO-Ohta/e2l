@@ -1,2 +1,0 @@
-after falling as much as <NUM> points the dow jones industrial average dji was lately off <NUM> points at <NUM> <PUNC>
-<PAR>

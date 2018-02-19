@@ -1,4 +1,0 @@
-the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> with <NUM> of the blue-chip benchmark s <NUM> components contributing to losses <PUNC>
-general motors corp. gm saw early gains fade <COMMA> to trade down <NUM> cents to dollar <NUM> <PUNC>
-concern over unresolved labor issues at delphi <COMMA> its main auto parts supplier was only partially offset by news that it had sold a majority stake in its property-finance arm <COMMA> gmac commercial holding corp in a deal valued at dollar <NUM> billion <PUNC>
-<PAR>

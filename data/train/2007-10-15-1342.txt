@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-citigroup c <COMMA> a dow component and the nation s largest bank <COMMA> said its net income in the third-quarter slipped to dollar <NUM> billion from dollar <NUM> billion for the year-ago period <PUNC>
-<PAR>
-and <COMMA> in an announcement confirmed by participants monday morning <COMMA> citigroup <COMMA> j.p. morgan chase & co. jpm <COMMA> and bank of america corp. bac are among the financial institutions that have agreed to create a superfund of up to dollar <NUM> billion to clean up the credit markets <COMMA> the wall street journal first reported in its online edition <PUNC>
-<PAR>

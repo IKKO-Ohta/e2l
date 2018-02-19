@@ -1,4 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with only <NUM> of its <NUM> components trading in positive territory <PUNC>
-shares of home depot inc. hd fell <NUM> percent <COMMA> posting the biggest decline in the dow <PUNC>
-shares of blue-chip pfizer inc. pfe gained <NUM> percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-with about two hours of trade left <COMMA> the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> as worries about technology-sector weakness after dell s report drove dow components intel and international business machines lower <PUNC>
-dow component united technologies utx was up <NUM> cents at dollar <NUM> after banc of america upgraded the stock to buy from neutral <COMMA> citing an attractive valuation and earnings potential <PUNC>
-banc of america also initiated coverage on 3m mmm with a neutral rating <PUNC>
-that stock fell 26cents to dollar <NUM> <PUNC>
-mcdonald s mcd <COMMA> which shot up <NUM> percent on thursday <COMMA> was <NUM> lower at dollar <NUM> after cibc world markets said a deal designed to realize the monetary value of the real estate the company owns might be possible <PUNC>
-<PAR>

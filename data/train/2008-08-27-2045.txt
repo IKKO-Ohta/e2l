@@ -1,3 +1,0 @@
-up four of the past five trading days <COMMA> the dow jones industrial average dji seesawed in and out of positive territory before adopting a firmer tone to close at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <COMMA> with <NUM> of its <NUM> components closing in the green <PUNC>
-for the year <COMMA> the dow is down <NUM> percent after tallying monthly declines for five out of the year s first seven months <PUNC>
-<PAR>

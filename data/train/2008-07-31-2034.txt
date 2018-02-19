@@ -1,7 +1,0 @@
-the dow jones industrial average fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> on thursday <PUNC>
-out of the dow s <NUM> components <COMMA> <NUM> retreated <PUNC>
-among blue chips <COMMA> shares of dow component exxon mobil corp. fell <NUM> percent after the oil giant s earnings surged <NUM> percent but still missed analysts expectations <PUNC>
-away from the dow <COMMA> royal dutch shell fell <COMMA> after also missing estimates <PUNC>
-u.s. stocks closed sharply higher on wednesday <COMMA> continuing a rally from the previous session after a stronger-than-expected private-sector jobs report helped offset a rebound in oil prices <PUNC>
-the dow industrials rose <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq added <NUM> points <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-on tuesday <COMMA> stocks ended sharply higher after a surge in january retail sales and a drop in crude-oil prices to a six-week low lifted the dow jones industrial average above the psychologically key <NUM> mark for the first time since january <PUNC>
-the dow industrials dji rose <NUM> points to <NUM> <COMMA> marking the average s largest one-day point gain since jan <NUM> <PUNC>
-<PAR>

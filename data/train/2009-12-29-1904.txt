@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in recent trading <PUNC>
-walt disney co. dis was its best performer <COMMA> up <NUM> percent <PUNC>
-following six straight winning days and 15-month highs for the dow and s&p <NUM> <COMMA> the stock market s more modest gains tuesday could forecast a short-term <NUM> percent to <NUM> percent correction <COMMA> said jon merriman <COMMA> chief executive of merriman curhan ford <PUNC>
-tuesday s drop in technology companies reflects sentiment that stocks may be slightly overvalued <COMMA> he said <PUNC>
-<PAR>

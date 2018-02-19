@@ -1,2 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components falling <COMMA> led by hewlett-packard co. hpq <COMMA> down <NUM> percent after projecting <NUM> earnings below wall street expectations <PUNC>
-<PAR>

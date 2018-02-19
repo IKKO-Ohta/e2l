@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx climbed <NUM> points to <NUM> <PUNC>
-the nasdaq composite index rixf added <NUM> points to <NUM> <PUNC>
-on wednesday <COMMA> stocks rallied on better-than-expected earnings from intel corp. intc and j.p. morgan chase & co. jpm <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-trading in a 90-point range that had the dow crossing briefly into positive territory <COMMA> the dow jones industrial average dji was recently off <NUM> points to <NUM> <PUNC> of the dow s <NUM> components <COMMA> <NUM> were lower <PUNC>
-ge ge shares fell <NUM> percent <PUNC>
-<PAR>

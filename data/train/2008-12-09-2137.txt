@@ -1,4 +1,0 @@
-after having rung up big gains in the two previous sessions <COMMA> the dow jones industrial average dji forfeited <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components ending with losses <PUNC>
-j.p. morgan chase & co. jpm was the big laggard on the blue-chip index <PUNC> its shares were off <NUM> percent <PUNC>
-u.s. markets had climbed monday <COMMA> with the dow jones industrial average closing at its highest level in a month <COMMA> as investors cheered president-elect barack obama s pledge on infrastructure investment and the growing likelihood of a deal to buttress the auto industry <PUNC>
-<PAR>

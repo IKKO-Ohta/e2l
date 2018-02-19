@@ -1,5 +1,0 @@
-stocks finished lower last week with a big selloff on thursday that left many investors scrambling <PUNC>
-on the week <COMMA> the dow jones industrial average dji declined <NUM> percent <COMMA> the s&p <NUM> index spx fell <NUM> percent <COMMA> and the nasdaq composite index rixf was down <NUM> percent <PUNC>
-it remains to be seen whether a stronger dollar will cut into earnings this season <PUNC>
-nike inc. nke <COMMA> which reported thursday <COMMA> topped wall street estimates even though it has a large exposure to international sales <PUNC>
-<PAR>

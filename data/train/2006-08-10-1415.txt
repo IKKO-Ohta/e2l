@@ -1,4 +1,0 @@
-the dow jones industrial average dji last was down <NUM> points at <NUM> <PUNC>
-dow component international business machines ibm shook off preopening losses to trade <NUM> cents higher at dollar <NUM> <PUNC>
-the company will buy california software developer filenet file for dollar <NUM> billion <PUNC>
-<PAR>

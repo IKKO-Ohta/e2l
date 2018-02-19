@@ -1,2 +1,0 @@
-after struggling in positive territory at the start <COMMA> the dow jones industrial average dji was more recently off <NUM> points to <NUM> <PUNC>
-<PAR>

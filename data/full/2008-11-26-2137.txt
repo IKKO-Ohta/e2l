@@ -1,7 +1,0 @@
-the dow jones industrial average gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> rebounding from a morning low of <NUM> <PUNC>
-twenty-eight of the blue-chip index s <NUM> components posted gains <PUNC>
-general motors corp. gm led the dow components <COMMA> rallying more than <NUM> percent after a deutsche bank analyst said the scales are tipping in favor of a federal bailout for the ailing automaker <PUNC>
-citigroup inc. c rose <NUM> percent <COMMA> continuing to climb after the government threw the ailing bank a fresh lifeline on monday <PUNC>
-technology stocks on the dow and on the nasdaq stock market were posting strong gains <COMMA> with hewlett-packard co. hpq up <NUM> percent and intel corp. intc up <NUM> percent <PUNC>
-even bank of america corp. bac rebounded from a morning slump to gain <NUM> percent <PUNC>
-<PAR>

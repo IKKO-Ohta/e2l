@@ -1,7 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> after earlier falling to a low of <NUM> <PUNC>
-the <NUM> stocks making up the blue-chip average were evenly divided between rising and declining issues <PUNC>
-citigroup inc. c dropped <NUM> percent <COMMA> weighing on blue-chips <COMMA> after a.g. edwards downgraded the stock to hold from buy <COMMA> citing its recent price appreciation <PUNC>
-the stock gained <NUM> percent and touched an all-time high on monday <COMMA> following a merrill lynch upgrade <PUNC>
-pfizer inc. pfe was up <NUM> cents at dollar <NUM> <PUNC>
-the company late monday said its board raised the drugmaker s dividend and said elected chief executive jeffrey kindler to serve as chairman <PUNC>
-<PAR>

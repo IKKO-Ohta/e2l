@@ -1,6 +1,0 @@
-the first full week of the fourth-quarter earnings season will see results from goldman sachs group gs and j.p. morgan chase & co. jpm on wednesday <PUNC>
-american express co. axp <COMMA> bank of america corp. bac <COMMA> citigroup inc. c and capital one financial corp. cof are set to report on thursday and morgan stanley s ms results are due friday <PUNC>
-the s&p <NUM> index is at a five-year high and is up about <NUM> percent this year <PUNC>
-the nasdaq composite index rixf and the dow industrials dji have also picked up about <NUM> percent <PUNC>
-this week s round of earnings will also include reports from ebay inc. ebay on wednesday <COMMA> intel corp. intc and unitedhealth group inc. unh on thursday and general electric co. ge on friday <PUNC>
-<PAR>

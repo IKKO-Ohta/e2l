@@ -1,3 +1,0 @@
-u.s. stocks edged lower friday <COMMA> with the dow industrials and the s&p <NUM> positioned for their first weekly drop in seven <COMMA> on worry about europe s handling of its debt crisis <PUNC>
-the dow industrials dji were off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-<PAR>

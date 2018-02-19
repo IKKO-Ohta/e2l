@@ -1,3 +1,0 @@
-at last check <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite index rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

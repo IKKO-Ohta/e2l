@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> at last check <PUNC>
-materials companies alcoa and dupont were among the dow s top performers as metals futures climbed <PUNC>
-travelers trv was the dow s top performer <COMMA> up <NUM> percent <PUNC>
-alcoa aa also helped lift the measure <COMMA> up <NUM> percent recently <PUNC>
-<PAR>

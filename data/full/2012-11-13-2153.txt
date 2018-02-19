@@ -1,7 +1,0 @@
-erasing earlier gains <COMMA> the dow jones industrial average dji tumbled <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> with most of the selloff coming in the final hour of trading <PUNC>
-microsoft corp. s msft <NUM> percent loss led the dow lower after the software maker said its windows chief was leaving <COMMA> effective immediately <PUNC>
-home depot hd <COMMA> the best performer on the index with a <NUM> percent gain <COMMA> was among the six out of <NUM> dow components finishing higher <PUNC>
-the home-improvement retailer reported profit that topped expectations <PUNC>
-the technology and financial sectors weighed <COMMA> with hewlett-packard co. hpq <COMMA> citrix systems inc. ctxs <COMMA> and genworth financial inc. gnw among the notable decliners <PUNC>
-shares of mbia inc. mbi fell <NUM> percent after bank of america corp. bac offered to buy the insurer s outstanding bonds to block its moves to put space between it and a cash-deprived unit <PUNC>
-<PAR>

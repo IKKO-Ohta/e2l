@@ -1,3 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> off an early high of <NUM> <PUNC>
-apple aapl rallied <NUM> percent to dollar <NUM> after the company unveiled boot camp <COMMA> a software application that enables its mac computers based on intel corp. intc processors to run microsoft corp. s msft windows xp operating system <PUNC>
-<PAR>

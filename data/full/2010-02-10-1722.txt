@@ -1,5 +1,0 @@
-the dow jones industrial average dji was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-walt disney co. dis was the measure s worst performer <PUNC>
-shares fell <NUM> percent after the media giant released disappointing first-quarter earnings <COMMA> weighed by declines in its theme-park and consumer units <PUNC>
-the dow s financial components kept its modest losses in check <COMMA> with j.p. morgan chase jpm shares up <NUM> percent and bank of america corp. bac up <NUM> percent <PUNC>
-<PAR>

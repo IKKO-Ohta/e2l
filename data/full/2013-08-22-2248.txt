@@ -1,3 +1,0 @@
-snapping a six-session bout of losses <COMMA> its longest since july <NUM> <COMMA> the dow jones industrial average dji closed higher <COMMA> rising <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a few points higher than it had been before the nasdaq resumed trading <PUNC>
-hewlett-packard co. hpq closed down <NUM> percent after the dow component and personal-computer maker s quarterly profit outlook disappointed <PUNC>
-<PAR>

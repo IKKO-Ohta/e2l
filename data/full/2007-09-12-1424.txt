@@ -1,4 +1,0 @@
-the dow jones industrial average dji was behind <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> with merck & co. inc. leading the dow s slide <COMMA> its stock off <NUM> percent <PUNC>
-shares of dow component exxon mobil corp. xom gained as did the crude-oil futures <COMMA> with the former rising <NUM> percent and the latter trading above dollar <NUM> a barrel ahead of updated reports on u.s. petroleum supplies <PUNC>
-shares likely to be active include amgen amgn and johnson & johnson jnj after an advisory committee to the food and drug administration did not support a limit on the use of anemia drugs the companies produce <PUNC>
-<PAR>

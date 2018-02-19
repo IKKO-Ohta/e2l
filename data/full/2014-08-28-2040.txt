@@ -1,4 +1,0 @@
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> after being down almost <NUM> points <COMMA> while the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
-visa inc. v fared worst among dow components <COMMA> falling <NUM> percent after raymond james analysts downgraded the credit-card giant to market perform <COMMA> citing a lack of positive catalysts <PUNC>
-tripadvisor inc. trip was the s&p <NUM> s biggest decliner <COMMA> closing down <NUM> percent <PUNC>
-<PAR>

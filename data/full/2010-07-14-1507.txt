@@ -1,4 +1,0 @@
-after a six-session run higher <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with eight of its <NUM> components falling <PUNC>
-the nasdaq composite rixf climbed <NUM> points to <NUM> <COMMA> with the tech-heavy index bolstered by intel s earnings and strong forecast <PUNC>
-intel intc shares were up <NUM> percent after the company reported its largest quarterly profit in a decade as businesses invested in technology <PUNC>
-<PAR>

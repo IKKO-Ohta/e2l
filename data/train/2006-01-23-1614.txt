@@ -1,5 +1,0 @@
-u.s. stocks rose monday <COMMA> with the dow jones industrial average pacing the gains <COMMA> helped by a dip in oil prices and a rally in shares of ford motor co. following better-than-expected results and details of its latest restructuring plan <PUNC>
-the rebound <COMMA> however <COMMA> was modest in light of friday s session where both the dow jones industrial average and the nasdaq composite posted their biggest one-day falls since <NUM> <PUNC>
-the dow industrials dji were up <NUM> points at <NUM> after giving up more than <NUM> points in friday s session <PUNC>
-rival automaker and dow component general motors corp. gm benefited from ford s surprisingly upbeat quarterly report <COMMA> adding <NUM> cents to dollar <NUM> <PUNC>
-<PAR>

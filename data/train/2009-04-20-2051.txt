@@ -1,5 +1,0 @@
-software titan oracle corp. orcl said it would buy sun microsystems inc. java for dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> after ibm corp. ibm dropped its bid to acquire the computer server and software maker <PUNC>
-on wall street <COMMA> financial shares led a broad market retreat <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx dropped <NUM> points to <NUM> <COMMA> while nasdaq composite rixf declined <NUM> points to stand at <NUM> <PUNC>
-<PAR>

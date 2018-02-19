@@ -1,4 +1,0 @@
-u.s. stocks on wednesday snapped a six-session losing streak <COMMA> with the dow jones industrial average bouncing back from a 325-point deficit to end nearly <NUM> points ahead <COMMA> as investors rushed into financial issues and bet on another rate cut by the federal reserve <PUNC>
-the dow dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components ending in the green <PUNC>
-pfizer inc. pfe gained <NUM> percent after lifting its <NUM> outlook and topping fourth-quarter expectations <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <PUNC>
-general motors corp. gm was up the most <COMMA> rallying <NUM> percent <PUNC>
-stocks ended lower monday <COMMA> with financial shares weighing on the broader market as several firms detailed their exposure to the alleged dollar <NUM> billion fraud by bernard madoff <PUNC>
-the dow jones industrial average closed down <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite gave up <NUM> points <PUNC>
-<PAR>

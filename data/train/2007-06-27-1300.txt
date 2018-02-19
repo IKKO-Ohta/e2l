@@ -1,4 +1,0 @@
-the futures contract for the dow jones industrial average dji last was <NUM> points lower at <NUM> <PUNC>
-stocks had another negative session on tuesday <COMMA> when the dow jones industrials lost <NUM> points <COMMA> the nasdaq composite fell <NUM> points and the s&p <NUM> gave up <NUM> points <PUNC>
-the recent string of losses has been attributed to worries about subprime mortgage lenders amid declining housing markets and rising global interest rates <PUNC>
-<PAR>

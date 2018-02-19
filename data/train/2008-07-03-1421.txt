@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in positive turf <COMMA> with alcoa inc. aa leading the gains <COMMA> up <NUM> percent <PUNC>
-intel corp. intc fell the most <COMMA> falling <NUM> percent <PUNC>
-down three of the last five trading days <COMMA> the dow on wednesday closed <NUM> percent off its record high of <NUM> <COMMA> hit on oct. <NUM> <COMMA> <NUM> <COMMA> signaling a so-called bear market in the blue-chip index <COMMA> its first since the previous one ended in october <NUM> <PUNC>
-<PAR>

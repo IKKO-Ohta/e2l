@@ -1,7 +1,0 @@
-the s&p closed at <NUM> on nov. <NUM> <COMMA> though the benchmark on monday undercut that prior bear-market low <PUNC>
-the s&p <NUM> spx fell points to <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving it a weekly loss of <NUM> percent and a monthly hit of <NUM> percent <PUNC>
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it with a weekly loss of <NUM> percent and a monthly decline of <NUM> percent <PUNC>
-on friday <COMMA> financials led the declines <COMMA> with citigroup inc. c down <NUM> percent on news the u.s. government was hiking its stake in the battered bank <PUNC>
-<PAR>
-after the worst january performance in its 113-year history <COMMA> the dow industrials tallied the index s worst february point decline <COMMA> and its second-worst percentage drop since <NUM> <COMMA> when it lost <NUM> percent <PUNC>
-<PAR>

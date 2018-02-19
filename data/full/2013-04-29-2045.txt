@@ -1,2 +1,0 @@
-having been up by as much as <NUM> points <COMMA> the dow jones industrial average dji ended with a gain of <NUM> points at <NUM> <COMMA> a level putting it <NUM> points from its record close <COMMA> set april <NUM> <PUNC>
-<PAR>

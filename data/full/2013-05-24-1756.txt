@@ -1,9 +1,0 @@
-the dow jones industrial average dji dipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> erasing the bulk of its intraday loss <PUNC>
-the standard & poor s <NUM> index spx dipped <NUM> points to <NUM> <PUNC>
-among s&p sectors <COMMA> utilities <COMMA> energy and consumer discretionary were the biggest losers <PUNC>
-the indexes opened with moderate losses <COMMA> with the dow off about <NUM> points <COMMA> then slumped further around midmorning before coming back to trade at their session highs <PUNC>
-for the week <COMMA> the dow <COMMA> s&p <NUM> and nasdaq are all on pace to snap four-week winning streaks <PUNC>
-each index reached an all-time or multiyear high during this past week <COMMA> but then turned tail <PUNC>
-read <PUNC> bernanke dares you to buy stocks <PUNC>
-in c-suite news <COMMA> procter & gamble inc. pg advanced <NUM> percent after the consumer products giant said late thursday that a.g. lafley would return as chief executive <COMMA> replacing the embattled bob mcdonald <PUNC>
-<PAR>

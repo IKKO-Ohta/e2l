@@ -1,3 +1,0 @@
-after an almost 152-point drop <COMMA> the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with visa inc. v and american express co. axp leading declines that included <NUM> of its <NUM> components <PUNC>
-international business machines corp. ibm fell <NUM> percent after barclays plc downgraded shares of the blue-chip company and computer-services provider <PUNC>
-<PAR>

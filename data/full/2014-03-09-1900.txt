@@ -1,7 +1,0 @@
-stocks finished higher last week <COMMA> ending on a choppy friday highlighted by the release of a better-than-expected job report <PUNC>
-the dow jones industrial average dji advanced <NUM> percent <COMMA> the s&p <NUM> index spx rose <NUM> percent to close at another record high of <NUM> <COMMA> and the nasdaq composite index rixf finished up <NUM> percent for the week <PUNC>
-all except the dow are higher for the year <COMMA> which is still down <NUM> percent in <NUM> <PUNC>
-last week <COMMA> both the dow and the s&p <NUM> dropped nearly <NUM> percent on march <NUM> after russian troops assembled near ukraine s border <COMMA> only for stocks to bounce back about <NUM> percent after russian president vladimir putin pulled them back the next day <PUNC>
-sectors luschini likes the best are cyclicals <COMMA> namely <COMMA> techs that are likely to benefit from increased capital expenditure spending <COMMA> industrials <COMMA> energy <COMMA> and financials <PUNC>
-techs are about the cheapest of the bunch right now <COMMA> he said <COMMA> citing software and cloud-based companies like microsoft corp. msft and emc corp. emc <PUNC>
-<PAR>

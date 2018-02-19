@@ -1,5 +1,0 @@
-on thursday <COMMA> u.s. stocks finished higher for a third day <COMMA> with financial shares leading the gains <PUNC>
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the s&p <NUM> spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite index rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

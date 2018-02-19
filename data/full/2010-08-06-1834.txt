@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> points and a surge in demand for treasurys pushed the yield on the 10-year note ust10y to its lowest level in more than a year <PUNC>
-kraft foods kft gained <NUM> percent after reporting a <NUM> percent jump in its second-quarter profit as its new cadbury business helped drive sales in developing markets in asia and latin america <PUNC>
-earnings topped wall street s expectations and kraft affirmed its <NUM> earnings outlook <PUNC>
-<PAR>

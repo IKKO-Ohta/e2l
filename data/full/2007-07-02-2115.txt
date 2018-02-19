@@ -1,7 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points <COMMA> or almost <NUM> percent <COMMA> at <NUM> <COMMA> its best one-day point gain since june <NUM> <PUNC>
-dji <PUNC>
-there were sizable gains of dow components caterpillar inc. cat which closed up <NUM> percent at dollar <NUM> <COMMA> honeywell international inc. hon <COMMA> up <NUM> percent at dollar <NUM> <COMMA> intel corp. intc up <NUM> percent at dollar <NUM> and united technologies corp. utx <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
-late friday <COMMA> at&t corp. t agreed to buy dobson communications dcel in a deal valuing the rural mobile operator at dollar <NUM> billion <COMMA> or dollar <NUM> a share <PUNC>
-at&t also will be in focus on reports of activation problems for the apple iphone <PUNC>
-the stock last reversed early gains to close up <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

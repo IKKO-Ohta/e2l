@@ -1,3 +1,0 @@
-after an 84-point rise and 77-point slide <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-hewlett-packard co. hpq paced blue-chip gains <COMMA> up <NUM> percent <COMMA> after being placed on citigroup inc. s focus list <PUNC>
-<PAR>

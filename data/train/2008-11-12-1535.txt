@@ -1,5 +1,0 @@
-the dow jones industrial average fell <NUM> points to <NUM> <COMMA> with all but general motors corp. gm on the decline <PUNC>
-the remaining <NUM> blue-chip components posted early losses <COMMA> with american express co. axp sinking the most <COMMA> down <NUM> percent <PUNC>
-u.s. stocks dropped for a second straight day on tuesday as outlooks from luxury home builder toll brothers inc. tol and coffee retailer starbucks corp. sbux illustrated softening consumer spending <PUNC>
-the dow industrials fell <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite dropped <NUM> points <PUNC>
-<PAR>

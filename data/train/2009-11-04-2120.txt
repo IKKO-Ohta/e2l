@@ -1,8 +1,0 @@
-up more than <NUM> points earlier <COMMA> the dow jones industrial average dji closed up just <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> index spx gained <NUM> points to <NUM> <PUNC>
-investors also welcomed several favorable corporate announcements from blue-chip companies on wednesday <PUNC>
-merck mrk leapt nearly <NUM> percent after announcing that it expects annual earnings growth in the high single digits on a percentage basis until <NUM> <PUNC>
-walt disney was also a big winner <COMMA> up <NUM> <PUNC>
-<NUM> % after getting the go-ahead from china to pursue plans to build a theme park in shanghai <PUNC>
-on a less promising note <COMMA> kraft kft slipped <NUM> percent after lowering its sales outlook <PUNC>
-<PAR>

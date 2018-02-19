@@ -1,2 +1,0 @@
-the winning run came even as daily gains largely evaporated in the final two days of the week <COMMA> with the dow jones industrial average dji up <NUM> points at <NUM> <COMMA> giving the blue chips a <NUM> percent gain for the week <PUNC>
-<PAR>

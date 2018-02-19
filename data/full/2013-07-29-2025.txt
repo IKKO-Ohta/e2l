@@ -1,8 +1,0 @@
-the s&p <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to settle at <NUM> <COMMA> while the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the nasdaq composite rixf declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-still <COMMA> the dow and s&p remain camped out just below record highs <COMMA> while the nasdaq is near a 13-year high <PUNC>
-overall <COMMA> market action remains very healthy and very constructive <COMMA> though the market s reaction to upcoming data will be very telling <COMMA> said adam sarhan <COMMA> chief executive of sarhan capital <COMMA> in a phone interview <PUNC>
-shares of dow component boeing co. ba fell <NUM> percent <PUNC>
-the u.s. federal aviation administration has proposed a dollar <NUM> million civil penalty against the aerospace company <COMMA> saying it failed to correct a problem with fasteners on its <NUM> airplanes for more than two years after its discovery in <NUM> <PUNC>
-caterpillar inc. cat was the dow s top gainer <COMMA> rising <NUM> percent after the company said it would buy back dollar <NUM> billion in shares from societe generale <PUNC>
-<PAR>

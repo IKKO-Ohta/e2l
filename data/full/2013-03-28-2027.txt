@@ -1,4 +1,0 @@
-u.s. stocks rose on thursday <COMMA> with the s&p <NUM> and the dow industrials finishing at record highs <COMMA> as investors looked to get into equities as the first quarter came to a close <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the blue-chip index <COMMA> which first took out its <NUM> record high on march <NUM> <COMMA> rose <NUM> percent gain in the first quarter <PUNC>
-<PAR>

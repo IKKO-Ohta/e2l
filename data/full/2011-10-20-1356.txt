@@ -1,6 +1,0 @@
-the dow jones industrial average dji was recently down <NUM> points at <NUM> <PUNC>
-the s&p <NUM> spx was off a point at <NUM> <PUNC>
-the nasdaq composite rixf lost <NUM> points to <NUM> <PUNC>
-within the dow <COMMA> shares of american express co. axp fell <NUM> percent after the credit-card company s late wednesday earnings report <PUNC>
-at&t corp. t shares slipped <NUM> percent after the company reported third-quarter net earnings that fell <NUM> percent from the year-ago quarter <PUNC>
-<PAR>

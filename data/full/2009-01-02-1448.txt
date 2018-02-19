@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
-u.s. stocks rallied in the final session of <NUM> on wednesday <COMMA> with some investors building positions in the hard-hit financial sector after the worst year for the u.s. market since <NUM> <PUNC>
-the dow jones industrial average gained <NUM> points to end down <NUM> percent for the year <PUNC>
-citigroup inc. c gained <NUM> percent after chief executive vikram pandit said he and chairman win bischoff will not take a <NUM> bonus and will cut pay and severance packages for executives <PUNC>
-<PAR>

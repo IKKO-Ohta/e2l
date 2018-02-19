@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx up <NUM> at <NUM> and the nasdaq composite rixf up <NUM> at <NUM> <PUNC>
-american express axp tacked on <NUM> cents to trade at dollar <NUM> after gettting an upgrade to equal-weight from morgan stanley <PUNC>
-the brokerage cited operating leverage at its travel related services unit <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components opening lower <PUNC>
-financial shares again led the way down among the dow s blue chips and in the broad market <PUNC>
-among blue chips <COMMA> aig aig fell <NUM> percent <COMMA> american express axp was off <NUM> percent <COMMA> bank of america bac lost <NUM> percent <COMMA> and j.p. morgan chase jpm dipped <NUM> percent <PUNC>
-also on the dow <COMMA> home depot hd <COMMA> fell <NUM> percent after the home improvement retailer <COMMA> just like its peer lowe s low <COMMA> reported a profit drop for the second quarter <PUNC>
-after the close of trade <COMMA> hewlett-packard hpq and semiconductor firm analog devices adi report quarterly results <PUNC>
-u.s. stocks ended sharply lower monday <COMMA> albeit on lackluster volumes <COMMA> after a barron s article rekindled fears that fannie mae and freddie mac could be nationalized <COMMA> with a pullback in the dollar and a bounce in commodities also exacting a toll <PUNC>
-the dow industrials dropped <NUM> points <COMMA> the nasdaq composite fell <NUM> points and the s&p <NUM> lost <NUM> points <PUNC>
-<PAR>

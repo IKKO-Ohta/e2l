@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-but general motors gm fell <NUM> percent <PUNC>
-in a filing with the securities and exchange commission <COMMA> gm said it sees a dollar <NUM> billion exposure from helping delphi get out of bankruptcy <PUNC>
-gm previously said it would cost between dollar <NUM> billion and dollar <NUM> billion <PUNC>
-<PAR>

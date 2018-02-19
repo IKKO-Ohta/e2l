@@ -1,4 +1,0 @@
-wall street s benchmark stock indexes finished higher ahead of the long weekend <COMMA> with a gain of <NUM> points on the dow jones industrial average dji fueled in part by coca-cola co. ko <COMMA> which said it plans a dollar <NUM> billion purchase of water products company energy brands inc <PUNC>
-the nasdaq composite rixf climbed <NUM> points on friday to <NUM> <PUNC>
-for the week <COMMA> the dow lost <NUM> percent <PUNC> the s&p fell <NUM> percent <PUNC> and the nasdaq fell <NUM> percent <PUNC>
-<PAR>

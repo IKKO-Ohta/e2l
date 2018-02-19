@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in early trading <PUNC>
-walt disney dis was also strong <COMMA> up <NUM> percent <COMMA> after disney unit abc news announced it would reduce its work force by <NUM> to <NUM> employees by the end of the year in a major restructuring <PUNC>
-wal-mart wmt was the dow s worst performer <COMMA> though it was only down <NUM> percent <PUNC>
-<PAR>

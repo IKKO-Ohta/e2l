@@ -1,6 +1,0 @@
-the dow jones industrial average dji was <NUM> points lower at <NUM> <COMMA> with <NUM> of its <NUM> stocks trading lower <PUNC>
-shares of united technologies corp. utx fronted the dow s declines <COMMA> closing <NUM> percent off <COMMA> followed by exxon mobil corp. xom <COMMA> which fell <NUM> percent <PUNC>
-the dow s advancing stocks included home depot inc. hd <COMMA> which gained <NUM> percent <COMMA> and verizon communications inc. vz <COMMA> also up <NUM> percent <PUNC>
-dow component general electric ge might sell its japanese consumer-finance unit <COMMA> according to the nikkei business daily <PUNC>
-its shares were up <NUM> percent <PUNC>
-<PAR>

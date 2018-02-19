@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with only five of its <NUM> components trading in negative territory <PUNC>
-cisco systems inc. csco rallied <NUM> percent <COMMA> the top gainer in the dow <PUNC>
-another dow components pfizer inc. pfe rose <NUM> percent after the drug maker reported positive results from a drug study <PUNC>
-<PAR>

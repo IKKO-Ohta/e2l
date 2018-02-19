@@ -1,4 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points at <NUM> <PUNC>
-the dow posted a <NUM> percent gain for the quarter <PUNC>
-general motors corp. gm rose <NUM> percent to close at dollar <NUM> after kerkorian s latest sally on the company <PUNC>
-<PAR>

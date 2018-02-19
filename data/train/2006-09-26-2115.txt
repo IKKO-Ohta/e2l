@@ -1,4 +1,0 @@
-u.s. stocks rallied tuesday <COMMA> pushing the s&p <NUM> index to a new 5-1/2 year high and giving the dow jones industrial average its highest close of <NUM> <COMMA> after lower oil prices and a better than expected consumer-confidence report eased economic worries <PUNC>
-the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> making for the highest close of the year and placing it within striking distance of its historic high close of <NUM> <COMMA> reached on jan. <NUM> <COMMA> <NUM> <PUNC>
-general motors corp. s gm discussions with france s renault sa and japan s nissan motors nsany over a possible alliance appeared to have hit a roadblock over how best to deal with rival toyota motor corp. s global expansion plans <COMMA> according to a wall street journal report <PUNC>
-<PAR>

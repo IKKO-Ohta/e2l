@@ -1,2 +1,0 @@
-on track for its highest close since aug. <NUM> <COMMA> <NUM> <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by hewlett-packard co. hpq and chevron corp. cvx <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-procter & gamble pg sank <NUM> percent <COMMA> leading the dow lower after the consumer-products company s full-year earnings outlook fell short <PUNC>
-at&t inc. t dropped <NUM> percent after the telephone company reported a larger-than-expected sales decline in the first quarter <PUNC>
-microsoft corp. msft was the biggest gainer in the dow <COMMA> rising <NUM> percent after the software maker said it would unveil its next-generation xbox on may <NUM> <PUNC>
-aluminum producer alcoa inc. aa rose <NUM> percent <PUNC>
-boeing co. ba was another blue-chip gainer after the plane manufacturer reported first-quarter profit above wall street s estimates <PUNC>
-<PAR>

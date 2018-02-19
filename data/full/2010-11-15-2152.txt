@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to close at <NUM> <PUNC>
-the s&p <NUM> index spx and the nasdaq composite index rixf both closed with slight losses <PUNC>
-<PAR>

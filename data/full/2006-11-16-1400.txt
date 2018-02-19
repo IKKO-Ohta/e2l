@@ -1,4 +1,0 @@
-the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
-pfizer inc. pfe could be active after the opening <PUNC>
-the company said results of a new analysis showed that patients who have heart disease and chronic kidney disease and took <NUM> mg lipitor tablets reduced their risk of heart attack and stroke by <NUM> percent compared with patients taking a <NUM> mg dose <PUNC>
-<PAR>

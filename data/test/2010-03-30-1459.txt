@@ -1,5 +1,0 @@
-u.s. stocks rose tuesday <COMMA> with the dow industrials and s&p <NUM> up for a third day <COMMA> after more upbeat-than-anticipated reports on home prices and consumer confidence put a positive spin on investor sentiment <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with half of its <NUM> components advancing <PUNC>
-bolstering the dow <COMMA> shares of verizon communications inc. vz gained <NUM> percent on a wall street journal report that apple inc. aapl is developing a version of its iphone designed to work over the wireless carrier s network <PUNC>
-home depot inc. hd and lowe s cos. low gained after the s&p/case-shiller index of home prices beat expectations <PUNC>
-<PAR>

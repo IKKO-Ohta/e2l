@@ -1,4 +1,0 @@
-u.s. stocks accelerated their losses monday afternoon <COMMA> pushing the dow industrials below the <NUM> level <COMMA> after goldman sachs downgraded citigroup inc. <COMMA> saying it envisions more credit-related hits at the banking powerhouse <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-citigroup c fronted the dow s decline <COMMA> its stock off <NUM> percent <PUNC>
-<PAR>

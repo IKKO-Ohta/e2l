@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in the opening minutes of trade while the nasdaq composite index rixf lifted <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and the s&p <NUM> spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-american international group aig was the best performer on the dow <COMMA> spiking <NUM> percent after it said first-quarter net income jumped <NUM> percent while revenue in the period rose <NUM> percent <PUNC>
-revenue was dollar <NUM> billion <COMMA> up from dollar <NUM> billion a year ago <PUNC>
-limiting gains on the blue chip gauge <COMMA> however <COMMA> were united technologies corp. utx <COMMA> exxon mobil corp. xom and e.i <PUNC>
-du pont de nemours & co. dd <PUNC>
-<PAR>

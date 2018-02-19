@@ -1,5 +1,0 @@
-after an early climb of nearly <NUM> points <COMMA> the dow jones industrial average dji ended up <NUM> points to <NUM> <PUNC>
-the blue-chip index finished with a weekly loss of <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> finished with gains <COMMA> led by procter & gamble co. pg <COMMA> up <NUM> percent <PUNC>
-chevron corp. cvx fronted declines among the blue chips <COMMA> with shares of the oil giant down <NUM> percent <PUNC>
-<PAR>

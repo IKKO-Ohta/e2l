@@ -1,3 +1,0 @@
-the dow jones industrial average dji added <NUM> points to <NUM> <PUNC>
-the blue-chip benchmark lost <NUM> points nearly <NUM> percent in the first two sessions this week <PUNC>
-<PAR>

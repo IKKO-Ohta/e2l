@@ -1,4 +1,0 @@
-the dow jones industrial average dji was last down about <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <COMMA> led by general motors corp. gm <COMMA> off <NUM> percent <PUNC>
-at one point <COMMA> it was down as much as <NUM> points <PUNC>
-shares of blue chip merck & co. mrk climbed after the drug maker said it would settle most of its liability lawsuits tied to its vioxx painkiller for about dollar <NUM> billion <PUNC>
-<PAR>

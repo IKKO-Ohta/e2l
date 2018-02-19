@@ -1,5 +1,0 @@
-up more than <NUM> points earlier on <COMMA> the dow jones industrial average dji pared some gains to stand <NUM> points higher at <NUM> by midday <COMMA> with all but four of its <NUM> components moving ahead in a cross-sector advance <PUNC>
-boeing co. ba was up <NUM> percent <COMMA> merck & co. inc. mrk had risen <NUM> percent <COMMA> and dupont & co. dd <COMMA> was <NUM> percent higher <PUNC>
-blue-chip financials were among those climbing <COMMA> with citigroup inc. c up <NUM> percent <COMMA> american express co. axp up <NUM> percent <COMMA> and jp morgan chase jpm rising <NUM> percent <PUNC>
-gm gm said it is offering buyouts to <NUM> united auto workers members in the u.s. to cut costs <COMMA> and reported losses of dollar <NUM> billion last year <COMMA> its biggest annual decline <PUNC>
-<PAR>

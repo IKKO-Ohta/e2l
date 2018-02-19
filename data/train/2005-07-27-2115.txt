@@ -1,6 +1,0 @@
-the s&p <NUM> ended <NUM> points higher <COMMA> or <NUM> percent <COMMA> at <NUM> and the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-in late-afternoon trading <COMMA> beef-related stocks took a hit on news of a possible new u.s. case of mad-cow disease <PUNC>
-shares of hamburger giant mcdonald s mcd closed down <NUM> percent at dollar <NUM> <COMMA> while wendy s international wen lost <NUM> percent to dollar <NUM> <PUNC>
-dow component johnson & johnson jnj rose <NUM> percent <COMMA> closing up dollar <NUM> at dollar <NUM> <COMMA> amid perception that the stock may have underperformed its peers in recent weeks <COMMA> said art hogan <COMMA> chief market strategist at jefferies & co <PUNC>
-boeing ba <COMMA> another dow component stock <COMMA> ended up <NUM> percent at dollar <NUM> after the aerospace company lifted its earnings estimate for the year <PUNC>
-<PAR>

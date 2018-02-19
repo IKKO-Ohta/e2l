@@ -1,8 +1,0 @@
-u.s. stocks were mixed in late morning trade tuesday as volumes slowed ahead of the thanksgiving holiday <COMMA> but gains by boeing co. provided support for the dow jones industrial average while google inc. topped dollar <NUM> for the first time <PUNC>
-the dow dji dropped <NUM> points to <NUM> <COMMA> weighed down by the likes of general motors corp. gm and intel corp. intc <COMMA> which both lost over <NUM> percent <PUNC>
-but dow component boeing co. ba rose <NUM> percent to dollar <NUM> after winning a dollar <NUM> billion order for <NUM> planes from korean air co <PUNC>
-aig aig <COMMA> another dow component <COMMA> lost <NUM> cents to dollar <NUM> <PUNC>
-it had opened higher after banc of america initiated coverage of the insurer s stock with a buy rating and an dollar <NUM> price target <PUNC>
-on monday u.s. stocks closed mixed <COMMA> with the dow snapping a six-day winning streak <PUNC>
-verizon communications vz rose <NUM> percent to dollar <NUM> after being upgraded to outperform from neutral at credit suisse <COMMA> which cited the belief that the company was setting itself up for earnings growth as dilution from its fios internet service reaches its peak <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
-the blue chip average was up <NUM> points before the release of fed survey <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> advanced led by alcoa inc. aa <COMMA> boeing co. ba <COMMA> citigroup inc. c dupont dd <COMMA> coca cola co. ko <COMMA> general motors corp. gm and intel corp. intc <PUNC>
-among blue chips <COMMA> alcoa aa rose <NUM> percent after saying it restarted production at tennessee aluminum smelter <PUNC>
-shares of walt disney co. dis rose <NUM> percent after the company said it completed the sale of its abc radio unit to citadel cdl for dollar <NUM> billion <PUNC>
-stocks sold off on tuesday <COMMA> with the dow jones industrials taking a triple-digit decline <COMMA> as the yield on the benchmark 10-year bond hovered near the <NUM> percent level of the fed funds rate <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-u.s. stocks closed with slight gains wednesday <COMMA> with the dow industrials just managing to extend their recent winning streak <COMMA> as an upbeat forecast from intel corp. vied with more disconcerting views on the u.s. economy from retailers and the federal reserve <PUNC>
-the dow jones industrial average dji ended up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> for its seventh straight session of gains <PUNC>
-out of <NUM> components <COMMA> <NUM> ended higher <PUNC>
-a quartet of technology stocks cisco systems inc. csco <COMMA> intel corp. intc <COMMA> microsoft corp. msft and hewlett-packard co. hpq led advancers on the dow industrials <PUNC>
-intel intc shares ended up <NUM> percent <PUNC>
-stocks made minor gains and losses for much of the session <COMMA> with investors appearing reluctant to make big moves ahead of the next round of earnings <PUNC>
-j.p. morgan chase & co. jpm and google inc. goog are two of the companies slated to release results thursday <PUNC>
-<PAR>

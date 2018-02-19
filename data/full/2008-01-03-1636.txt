@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-dow component merck & co. inc. mrk was off <NUM> percent after the drugmaker said it would pay as much as dollar <NUM> million to switzerland s addex to license a potential schizophrenia treatment <PUNC>
-the semiconductor sector remained under pressure after bank of america securities cut its ratings on eight chip stocks <COMMA> including intel corp. intc <COMMA> down <NUM> percent <COMMA> and advanced micro devices inc. amd <COMMA> off <NUM> percent <PUNC>
-<PAR>
-on wednesday <COMMA> stocks dropped sharply as rising energy prices heightened worries about the economy <COMMA> with the dow industrials tallying their worst opening-day performance in <NUM> years <PUNC>
-<PAR>

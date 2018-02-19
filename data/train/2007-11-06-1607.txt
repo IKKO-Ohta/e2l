@@ -1,5 +1,0 @@
-up more than <NUM> points early on <COMMA> the dow jones industrial average dji was more recently <NUM> points higher at <NUM> <PUNC>
-fourteen of its <NUM> components traded higher <COMMA> led by american international group inc. aig <COMMA> up <NUM> percent <PUNC>
-not all of the blue-chip financials followed suit <COMMA> however <PUNC>
-embattled citigroup inc. c saw its shares move down <NUM> percent amid reports that the same executive who steered its role in the rescue of collapsed hedge fund long-term capital management has been tapped to run a new dedicated subprime unit <PUNC>
-<PAR>

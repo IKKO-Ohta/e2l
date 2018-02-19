@@ -1,5 +1,0 @@
-u.s. stocks sank on friday <COMMA> with the dow industrials falling below the <NUM> level for the first time since august <NUM> <COMMA> as oil topped dollar <NUM> a barrel and treasury secretary hank paulson rejected the idea of an imminent bailout of mortgage buyers fannie mae and freddie mac <PUNC>
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but three of its <NUM> components succumbing <COMMA> with blue-chip financials paving the way <PUNC>
-american international group inc. aig dropped the most <COMMA> recently off <NUM> percent <PUNC>
-shares of dow component general electric co. ge tilted slightly higher after the conglomerate affirmed its <NUM> outlook and reported results that met forecasts <COMMA> while also saying it would sell its japanese consumer lending unit for dollar <NUM> billion <PUNC>
-<PAR>

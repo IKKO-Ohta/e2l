@@ -1,4 +1,0 @@
-the dow jones industrial average dji <COMMA> which was up about <NUM> points at its high following the fed announcement <COMMA> was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> though other indexes lagged <PUNC>
-the nasdaq composite rixf was off <NUM> percent <PUNC>
-the s&p <NUM> spx fell <NUM> percent <COMMA> hurt by declines of more than <NUM> percent each in its energy and utilities sectors <PUNC>
-<PAR>

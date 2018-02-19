@@ -1,5 +1,0 @@
-u.s. stock indexes lost <NUM> percent on monday <COMMA> with the dow jones industrial average hit with its biggest point decline in more than a month <COMMA> as concerns about the financial sector weighed on sentiment and housing data failed to appease investors unease <PUNC>
-down for the first in four sessions <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-all of the dow s <NUM> components finished in the red <COMMA> with the losses led by insurance giant american international group inc. aig <COMMA> down <NUM> percent after credit suisse analysts lowered their third-quarter profit estimate and target price on the insurance giant <PUNC>
-on friday <COMMA> stocks rallied <COMMA> with the dow striking its largest one-day gain in two weeks <COMMA> after oil fell more than dollar <NUM> a barrel <COMMA> its greatest percentage decline in more than four years <PUNC>
-<PAR>

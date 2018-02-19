@@ -1,4 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> while the nasdaq composite rixf rose <NUM> to <NUM> <PUNC>
-i would say the fact that the dow managed to close higher is a very good sign for the market <COMMA> reflective of the strong earnings season that we re having <COMMA> said mike holland of holland balanced fund <PUNC>
-microsoft msft fell <NUM> cents to dollar <NUM> after that company also reported results that disappointed investors and also offered a disappointing outlook <PUNC>
-<PAR>

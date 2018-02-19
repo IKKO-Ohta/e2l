@@ -1,3 +1,0 @@
-shifting up and down in a 100-point range <COMMA> the dow jones industrial average dji was more recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-financials <COMMA> which led a major equities rally on tuesday <COMMA> continued to show some strength among blue chips <COMMA> with citigroup inc. c up <NUM> percent <COMMA> american express co. axp up <NUM> percent <COMMA> and american international group inc. aig climbing <NUM> percent <PUNC>
-<PAR>

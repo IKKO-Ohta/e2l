@@ -1,5 +1,0 @@
-the s&p <NUM> spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-shares of general electric ge closed <NUM> percent lower after the industrial conglomerate s second-quarter earnings met wall street s projection <PUNC>
-ge also said it s targeting the ipo of its synchrony financial business for the end of july <PUNC>
-<PAR>

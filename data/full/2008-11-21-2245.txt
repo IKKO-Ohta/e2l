@@ -1,6 +1,0 @@
-the dow jones industrial average dji surged more than <NUM> points before finishing at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-the blue-chip index lost <NUM> percent for the week <PUNC>
-of the dow s <NUM> components <COMMA> all but two ended in the green <COMMA> led by aluminum producer alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
-wal-mart stores inc. wmt gained <NUM> percent after the discount retailer unexpectedly named international chief mike duke to succeed lee scott as president and chief executive <COMMA> effective feb. <NUM> <PUNC>
-shares of citigroup c fell <NUM> percent as analysts pondered what the future holds for the financial-services company <COMMA> which a year ago was valued at about dollar <NUM> billion <COMMA> and now stands at dollar <NUM> billion <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji remained in rally mode <COMMA> after earlier gaining more than <NUM> points <PUNC>
-the s&p <NUM> spx and the nasdaq composite rixf traded only slightly beneath session highs <PUNC>
-dow component merck mrk also was supported by earnings news <PUNC>
-the company reported reported third-quarter earnings of dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> up from a year-ago profit of dollar <NUM> billion <COMMA> or <NUM> cents a share <PUNC>
-but sales dipped <NUM> percent <PUNC>
-a number of other dow components supported gains greater than <NUM> percent <COMMA> including alcoa aa <COMMA> caterpillar cat and <COMMA> general motors gm <PUNC>
-american express axp moved higher as investors awaited its quarterly report <PUNC>
-<PAR>

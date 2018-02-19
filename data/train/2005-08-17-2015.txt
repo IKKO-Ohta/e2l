@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx gained <NUM> points to <NUM> and the nasdaq composite rixf rose <NUM> points to <NUM> <PUNC>
-a standout in the dow jones industrial average was hewlett-packard hpq <PUNC>
-the stock closed <NUM> percent higher after offering a strong outlook <PUNC>
-the good news from hewlett-packard and applied materials spilled over to help other tech shares <COMMA> with intel intc rising <NUM> cents to dollar <NUM> after suffering losses in tuesday s technology rout <PUNC>
-<PAR>

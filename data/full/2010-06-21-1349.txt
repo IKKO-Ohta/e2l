@@ -1,4 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-the measure was led by those components with a heavier reliance on global growth <PUNC>
-alcoa jumped <NUM> percent while caterpillar rose <NUM> percent <PUNC>
-<PAR>

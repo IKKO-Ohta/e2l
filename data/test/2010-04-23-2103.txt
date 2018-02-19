@@ -1,6 +1,0 @@
-the dow jones industrial average dji rallied steady from just before midday through the close <COMMA> ending with a gain of <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> boosted by a <NUM> percent gain in chevron cvx <PUNC>
-merck mrk was up <NUM> percent after calming investors anxiety about the effect of the u.s. health-care overhaul on its profits <COMMA> and american express axp moved higher by nearly <NUM> percent after a strong earnings report late thursday <PUNC>
-among stocks to watch <COMMA> microsoft msft declined <NUM> percent <PUNC>
-the company s quarterly profit rose <NUM> percent <COMMA> largely due to sales of the latest version of its windows operating system <COMMA> but investors grew concerned over a lower-than-expected figure on total deferred revenue <PUNC>
-travelers trv slipped <NUM> percent as an improvement in investment income at the insurer was offset by a spike in catastrophe costs tied to snowstorms on the u.s. east coast and the earthquake in chile <PUNC>
-<PAR>

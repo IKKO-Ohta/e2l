@@ -1,9 +1,0 @@
-u.s. stocks rose thursday <COMMA> with the dow jones industrial average topping its previous all-time record close as a rally in shares of general motors corp. boosted the blue-chip index <PUNC>
-the dow industrials dji rose <NUM> points to <NUM> after briefly climbing to a session high of <NUM> and surpassing its record-high close of <NUM> <COMMA> hit jan. <NUM> <COMMA> <NUM> <PUNC>
-the dow s intraday record is <NUM> <COMMA> reached that same day <PUNC>
-but suskind said the impetus for the market remains to the upside with end-of-quarter window dressing helping the dow to chase a new record <PUNC>
-hewlett-packard co hpq fell <NUM> percent to dollar <NUM> after chief executive mark hurd said in testimony prepared for an appearance thursday before a house subcommittee that a company probe into boardroom leaks began with the best of intentions <COMMA> but soon turned into a rogue investigation that violated the technology giant s core principles <PUNC>
-hurd vowed to ensure that such an incident would never happen again <PUNC>
-general motors gm chief executive rick wagoner <COMMA> said on the sidelines of the paris auto show thursday that talks on joining the renault-nissan alliance may extend beyond a mid-october deadline set by the companies <PUNC>
-gm s stock rose <NUM> percent to dollar <NUM> <PUNC>
-<PAR>

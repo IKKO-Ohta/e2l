@@ -1,8 +1,0 @@
-u.s. stocks climbed friday <COMMA> with the dow industrials scoring it largest weekly gain since march <COMMA> as positive earnings from oracle corp. and nike inc. spurred optimism amid high volume triggered by expiring futures and options contracts <PUNC>
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> a weekly rise of <NUM> percent <COMMA> its best weekly showing in six months <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> finished ahead <COMMA> led by walt disney co. dis <COMMA> up <NUM> percent <PUNC>
-home depot inc. hd and american express co. axp fronted the dow s declines <COMMA> with home depot s share dropping <NUM> percent and amex falling <NUM> percent <PUNC>
-dow component exxon mobil corp. xom late thursday said it evacuated about <NUM> workers from the gulf of mexico due to a tropical disturbance <PUNC>
-its stock was up <NUM> percent <PUNC>
-wal-mart stores inc. wmt <COMMA> apple inc. aapl and real networks inc. rnwk are accused of copyright infringement over digital downloads of the band s songs in a lawsuit filed friday by a former drummer of the punk rock band the ramones.watch video of alice cooper at fashion week <PUNC>
-<PAR>

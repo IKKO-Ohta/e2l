@@ -1,5 +1,0 @@
-u.s. stocks spiked higher wednesday <COMMA> with the dow industrials up more than <NUM> points <COMMA> after the federal reserve and four other central banks moved to improve liquidity in the banking system and encourage short-term lending <PUNC>
-up more than <NUM> points early on <COMMA> the dow jones industrial average dji was in morning trade ahead <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components moving higher <COMMA> led by at&t inc. t <COMMA> up <NUM> percent <PUNC>
-blue-chip shares on the decline include those of boeing co. ba <COMMA> which fell <NUM> percent after it was downgraded to equal-weight from overweight at morgan stanley <PUNC>
-bank of america was among those to draw a downgrade by merrill lynch <COMMA> with the broker also cutting its ratings on j.p. morgan chase co. jpm and wachovia corp. wb <PUNC>
-<PAR>

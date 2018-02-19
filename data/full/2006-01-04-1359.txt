@@ -1,9 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent to close at <NUM> while the s&p <NUM> index rose <NUM> points to <NUM> <PUNC>
-google is also expected to unveil this week a dollar <NUM> computer that won t use the microsoft corp msft operating system and be sold in wal-mart stores inc. wmt <COMMA> the new york post reported <COMMA> without attribution <PUNC>
-the los angeles times on sunday first reported speculation that google may sell a cheap computer through wal-mart <COMMA> citing anonymous sources <PUNC>
-citigroup inc. c may trade lower at the open after bank of america downgraded the bank to neutral from buy <COMMA> citing valuation and a more cautious view on bank stocks <PUNC>
-the broker also cut its rating on wells fargo wfc <PUNC>
-on tuesday <COMMA> citigroup <COMMA> a dow component <COMMA> rose <NUM> cents to dollar <NUM> while shares of wells fargo rose <NUM> cents to dollar <NUM> <PUNC>
-in another recommendation change from bank of america <COMMA> the broker upgraded exxon mobil corp. xom to buy from neutral <COMMA> citing relative valuation <COMMA> continued strong returns on capital employed and clarity on production growth <PUNC>
-on tuesday <COMMA> the stock rallied <NUM> percent <COMMA> buoyed by a surge in crude-oil prices <PUNC>
-<PAR>

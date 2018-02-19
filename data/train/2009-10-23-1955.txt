@@ -1,5 +1,0 @@
-on friday <COMMA> microsoft msft <COMMA> gained <NUM> percent to dollar <NUM> <COMMA> one of just two stocks still in the green among the dow jones industrial average s <NUM> components <PUNC>
-investors have been closely attuned to whether companies are beating profit estimates and even more importantly <COMMA> showing sales growth <COMMA> as they report third-quarter earnings season <PUNC>
-strong results from intel corp. intc <COMMA> j.p. morgan chase & co. jpm <COMMA> and others have helped drive the broader market to new highs for the year <PUNC>
-the dow industrials dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a level positioning the blue chips for a slight weekly loss of <NUM> percent <PUNC>
-<PAR>

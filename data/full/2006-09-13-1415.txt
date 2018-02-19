@@ -1,6 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-investors may have been reconsidering tuesday s sharp rally the day before that saw the dow industrials run up triple digits to its best close since mid-may and the nasdaq close at a <NUM> 1/2-month high. <PUNC>
-shares of merck mrk fell more than <NUM> percent after two new studies to be published in the journal of the american medical association indicated that recalled pain reliever vioxx carries an increased risk of kidney and heart arrhythmia problems <PUNC>
-however <COMMA> shares of hewlett-packard hpq traded about <NUM> percent lower <PUNC>
-the company may face further difficulties after california attorney general bill lockyear said on television late-tuesday that he has seen enough evidence for indictments inside and outside the company <PUNC>
-<PAR>

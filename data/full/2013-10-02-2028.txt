@@ -1,2 +1,0 @@
-the dow jones industrial average dji <COMMA> which at one point was off by <NUM> points intraday <COMMA> closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with shares of united technologies corp. utx <COMMA> coca-cola co. ko and american express co. axp weighing on the index <PUNC>
-<PAR>

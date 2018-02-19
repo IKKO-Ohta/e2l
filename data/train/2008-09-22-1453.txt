@@ -1,6 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
-the dow s financial components weighed <COMMA> with shares of american express axp off <NUM> percent <PUNC>
-the firm s stock is now protected from short selling under a temporary ban by the securities and exchange commission <PUNC>
-also on the list are blue chips general electric ge and general motors gm <PUNC>
-shares of microsoft corp. msft bucked the trend <COMMA> rising <NUM> percent <COMMA> after the software giant said it will buy back up to dollar <NUM> billion of stock between now and sept. <NUM> and raise its dividend by <NUM> percent <PUNC>
-<PAR>

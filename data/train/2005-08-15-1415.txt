@@ -1,3 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> the s&p <NUM> spx down <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf down <NUM> points at <NUM> <PUNC>
-fellow retailer wal-mart wmt was up <NUM> cents at dollar <NUM> <COMMA> due to news over the weekend that it continues to expect august same-store sales growth to be within its prior forecast of <NUM> percent to <NUM> percent <PUNC>
-<PAR>

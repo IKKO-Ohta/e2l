@@ -1,5 +1,0 @@
-the european news certainly boosted u.s. equity markets on friday <COMMA> sending them well into positive territory for the week <PUNC>
-the dow jones industrial average dji rose <NUM> percent <COMMA> for a <NUM> percent weekly gain <PUNC>
-the s&p <NUM> index spx jumped <NUM> percent for a <NUM> percent weekly gain <COMMA> and the nasdaq composite index rixf surged <NUM> percent for a <NUM> percent gain on the week <PUNC>
-no significant quarterly earnings reports are due out in the coming week <COMMA> and aren t set to heat up until alcoa inc. aa releases results on july <NUM> <PUNC>
-<PAR>

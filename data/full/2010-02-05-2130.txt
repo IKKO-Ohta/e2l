@@ -1,4 +1,0 @@
-reversing course after a 170-point drop earlier <COMMA> the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving the blue chips with a <NUM> percent weekly loss <PUNC>
-the dow saw three triple-digit full-day point moves this week <PUNC>
-the performance has frustrated traders who focus on earnings and big-picture u.s. data <COMMA> which have often been overshadowed lately by concerns about economic policy in major industrialized countries around the world <PUNC>
-<PAR>

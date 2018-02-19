@@ -1,4 +1,0 @@
-u.s. stocks started higher on wednesday as equities extended a rise that has the dow industrials up more than <NUM> percent for the month and looking at a double-digit gain for the year <PUNC>
-after closing at its highest level since aug. <NUM> <COMMA> <NUM> <COMMA> on tuesday <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> in the early going <PUNC>
-twenty-five of the dow s <NUM> components gained <COMMA> with fast-food giant mcdonald s corp. mcd leading the blue-chip rise <COMMA> up by <NUM> percent for the session and by nearly <NUM> percent for the soon-to-end year <PUNC>
-<PAR>

@@ -1,9 +1,0 @@
-the dow jones industrial average dji <COMMA> which was off <NUM> points at its session low <COMMA> closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the dow s financial components were higher as the senate took a vote on whether to end debate on a bill to overhaul wall street regulation <PUNC>
-bank of america corp. bac rose <NUM> percent <COMMA> american express axp and j.p. morgan chase jpm were up almost <NUM> percent each <COMMA> and travelers trv was up <NUM> percent <PUNC>
-and <PUNC>
-participants are concerned about how earnings of big u.s. multinational companies could be hurt if the euro keeps sliding <PUNC>
-caterpillar inc. shares cat dropped <NUM> percent <COMMA> boeing ba fell <NUM> percent <COMMA> and dupont dd declined <NUM> percent <PUNC>
-hewlett-packard hpq rose <NUM> percent <PUNC>
-the company s fiscal second-quarter profit grew <NUM> percent on higher world-wide sales and profit growth in its core personal-computer business <COMMA> where shipments jumped <PUNC>
-<PAR>

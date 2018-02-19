@@ -1,4 +1,0 @@
-on thursday <COMMA> u.s. stocks solidified gains in afternoon trade <COMMA> with earnings reports from multiple components on the dow jones industrial average dji boosting sentiment and the blue chips <COMMA> lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite index rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-among the leaders on the dow industrials were shares of 3m co. mmm <COMMA> up <NUM> percent <COMMA> after the st. paul <COMMA> minn.-based diversified industrial giant lifted its <NUM> guidance <PUNC>
-<PAR>

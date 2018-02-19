@@ -1,2 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with the index down <NUM> percent for the week and up <NUM> percent for the year <PUNC>
-<PAR>

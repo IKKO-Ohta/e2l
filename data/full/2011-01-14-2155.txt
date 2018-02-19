@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its highest close since june <NUM> <COMMA> <NUM> <PUNC>
-the gain put the dow industrials up <NUM> percent for the five-day period <COMMA> extending the measure s winning streak to a seventh week <PUNC>
-the dow s financial components led its climb after j.p. morgan jpm posted a <NUM> percent jump in fourth-quarter profit <COMMA> beating analysts expectations as revenue increased and loan-loss reserves were sharply reduced <PUNC>
-shares of j.p. morgan s rose <NUM> percent <COMMA> while shares of rival bank of america corp. bac jumped <NUM> percent ahead of its earnings results due next week <PUNC>
-however <COMMA> intel corp. intc limited the advance <COMMA> falling <NUM> percent even as its fourth-quarter earnings rose <NUM> percent <COMMA> topping analysts views <PUNC>
-investors said they were unsure how much longer intel will be able to post such strong numbers <PUNC>
-also <COMMA> the chip maker s shares had climbed earlier in the week ahead of the report <COMMA> and it still ended the week <NUM> percent higher <PUNC>
-<PAR>

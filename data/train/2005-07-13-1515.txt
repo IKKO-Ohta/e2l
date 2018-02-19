@@ -1,7 +1,0 @@
-the dow jones industrial average dji was off its highs <COMMA> but still in positive territory <COMMA> trading up <NUM> at <NUM> <COMMA> bolstered by an upgrade for international business machines <PUNC>
-international business machines ibm received an upgrade from sanford bernstein analyst toni sacconaghi to outperform from market perform <PUNC>
-sacconaghi said investors were likely to focus on the company s services signings levels <PUNC>
-ibm stock was <NUM> percent higher <COMMA> up dollar <NUM> at dollar <NUM> <PUNC>
-j.p. morgan raised its price target on altria group mo to dollar <NUM> from dollar <NUM> on wednesday and also added the company to its u.s. focus list <PUNC>
-the stock was up <NUM> cents at dollar <NUM> <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-recovering from earlier session lows <COMMA> the dow jones industrial average dji was recently ahead <NUM> points at <NUM> in afternoon action <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-american express co. axp led gains among the blue chips <COMMA> up <NUM> percent <COMMA> with citigroup inc. c recently ahead <NUM> percent <PUNC>
-at monday s close <COMMA> the dow was off <NUM> percent for the not-yet-ended month <COMMA> with the dow s financials index the biggest drag <COMMA> falling <NUM> percent so far in june <COMMA> according to preliminary results released by dow jones indexes <PUNC>
-the dow jones u.s. oil and gas index was the biggest winner in june <COMMA> posting a <NUM> percent gain <COMMA> the results showed <PUNC>
-<PAR>

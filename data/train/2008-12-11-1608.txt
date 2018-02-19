@@ -1,5 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> but came well off a morning low of <NUM> <PUNC>
-shares of general motors corp. gm slumped <NUM> percent <COMMA> while those of ford motor co. f fell <NUM> percent <PUNC>
-stocks closed higher wednesday on wall street <COMMA> boosted by progress on the bailout <COMMA> though opposition to the plan from several senate republicans shaved earlier gains <PUNC>
-the dow jones industrial average ended the session up <NUM> points <COMMA> while the s&p <NUM> gained <NUM> points and the nasdaq composite index climbed <NUM> points <PUNC>
-<PAR>

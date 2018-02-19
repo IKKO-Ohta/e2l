@@ -1,9 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to end at <NUM> on friday <COMMA> leaving it down <NUM> percent for the week <PUNC>
-the nasdaq composite rixf fell <NUM> points to <NUM> <COMMA> after a stiff <NUM> percent drop over the past week <PUNC>
-technology issues were hit after dire outlooks from chipmaker intel intc <COMMA> computer-maker dell <COMMA> cellphone maker nokia nok and sun microsystems java <PUNC>
-on thursday <COMMA> stocks rallied after a slide that led the dow industrials below <NUM> to test their oct. <NUM> lows <COMMA> while the s&p <NUM> slumped to new five-year lows <PUNC>
-the move led the market to snap back in a more than 900-point swing that gave the dow its third highest point gain on record <PUNC>
-<PAR>
-as for the u.s. <COMMA> while congress is believed to be working on a more comprehensive stimulus package <COMMA> much attention so far has centered on possible aid for the ailing auto industry <PUNC>
-next week <COMMA> congress will hold a hearing on government support for general motors gm <COMMA> ford f and chrysler <PUNC>
-<PAR>

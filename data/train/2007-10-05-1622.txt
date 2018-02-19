@@ -1,4 +1,0 @@
-at 12:15 p.m. <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> nearly <NUM> percent <COMMA> to <NUM> <COMMA> with all but three of the blue-chip index s <NUM> components trading higher <PUNC>
-alcoa inc. aa fronted the dow s advance <COMMA> its stock up <NUM> percent <PUNC>
-the aluminum producer late thursday detailed dollar <NUM> million in restructuring charges <PUNC>
-<PAR>

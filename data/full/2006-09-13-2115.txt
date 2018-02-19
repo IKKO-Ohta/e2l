@@ -1,7 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> and the s&p <NUM> spx rose <NUM> points to <NUM> <PUNC>
-wednesday marked the best closes for both indices since may <NUM> <PUNC>
-the dow is now within striking distance of its record high close of <NUM> <COMMA> reached on january <NUM> <COMMA> <NUM> <PUNC>
-shares of merck mrk fell <NUM> percent after two new studies to be published in the journal of the american medical association indicated that recalled pain reliever vioxx carries an increased risk of kidney and heart arrhythmia problems <PUNC>
-hewlett-packard hpq fell about <NUM> percent <PUNC>
-the company may face further difficulties after california attorney general bill lockyear said on television late-tuesday that he has seen enough evidence for indictments inside and outside the company <PUNC>
-<PAR>

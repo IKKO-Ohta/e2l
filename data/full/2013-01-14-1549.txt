@@ -1,4 +1,0 @@
-the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with bank of america corp. bac the biggest loser among its <NUM> components <PUNC>
-hewlett-packard co. hpq rose <NUM> percent after j.p. morgan chase & co. upgraded the personal-computer maker to neutral from underweight <PUNC>
-international business machines corp. ibm shares dropped <NUM> percent after j.p. morgan downgraded the firm to neutral from overweight <PUNC>
-<PAR>

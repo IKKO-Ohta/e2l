@@ -1,5 +1,0 @@
-new york dow jones u.s. stocks closed sharply lower tuesday <COMMA> with the dow jones industrial average suffering its worst one-day point loss in two months <COMMA> as worrisome developments in the bond market spooked investors <PUNC>
-the dow industrials dji slumped <NUM> points to a two-week low of <NUM> <COMMA> with <NUM> of <NUM> components contributing to losses <COMMA> and was in danger of suffering its worst one-day point loss in <NUM> months <PUNC>
-the blue chip barometer <COMMA> which had been up as much as <NUM> points in early trading <COMMA> closed with its first triple-digit loss since oct. <NUM> <PUNC>
-within the dow <COMMA> exxon mobil xom slid <NUM> percent and american express axp shed <NUM> percent to lead the losers <COMMA> while general motors gm paced the winners with a <NUM> percent gain <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji ended <NUM> points ahead at <NUM> <COMMA> giving it a weekly gain of <NUM> percent <PUNC>
-alcoa inc. aa fronted the dow s advance <COMMA> its stock up <NUM> percent <PUNC>
-the aluminum producer late thursday detailed dollar <NUM> million in restructuring charges <PUNC>
-boeing co. ba registered the largest losses on the dow <COMMA> its shares off <NUM> percent amid worries the aerospace giant may not meet its delivery schedule for its best-selling <NUM> dreamliner <PUNC>
-dow component walt disney co. dis gained <NUM> percent after standard & poor s ratings services raised its corporate credit and commercial paper ratings on the company <PUNC>
-<PAR>

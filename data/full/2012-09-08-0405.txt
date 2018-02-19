@@ -1,6 +1,0 @@
-reports on retail sales and industrial production are slated for release next week <COMMA> as is the expected launch of the next version of the iphone by apple inc. aapl <COMMA> whose share-price rally this year has contributed to a <NUM> percent run-up for the year to date in the nasdaq composite index rixf <PUNC>
-also from the corporate front <COMMA> a midquarter update from texas instruments inc. txn and a monthly sales report from mcdonald s corp. mcd are expected tuesday <PUNC>
-u.s. equities rallied to multiyear highs thursday after ecb president mario draghi outlined a plan for unlimited bond purchases aimed at curbing borrowing costs in debt-stricken euro nations <PUNC>
-the dow jones industrial average dji marked its highest close since late december <NUM> <PUNC>
-the s&p <NUM> index spx logged its best close since early january <NUM> and the nasdaq finished at its strongest level since mid-november <NUM> <PUNC>
-<PAR>

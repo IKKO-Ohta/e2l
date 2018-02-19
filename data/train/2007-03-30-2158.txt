@@ -1,7 +1,0 @@
-u.s. stocks finished a volatile session on a mixed note friday <COMMA> mirroring a likewise volatile and mixed performance for the first quarter <COMMA> with the dow jones industrial average now in negative territory for the year so far <COMMA> while other stock proxies hold on to meager gains <PUNC>
-but stocks recovered some ground in the final hour of trading as oil fell <PUNC>
-after a very choppy session <COMMA> the dow jones industrial average dji finished up <NUM> points at <NUM> <COMMA> boosted by gains in the likes of verizon communications vz and caterpillar inc. cat <PUNC>
-the dow first rose by over <NUM> points in morning trade friday <COMMA> before falling by over <NUM> points and then recovering some ground in the afternoon <PUNC>
-dow component united technologies corp. utx <COMMA> meanwhile <COMMA> offered to buy rentokil initial s electronic security division for dollar <NUM> billion <PUNC>
-separately <COMMA> the wall street journal said that the company will sell its security-guard business in the u.k. and australia in coming months <PUNC>
-<PAR>

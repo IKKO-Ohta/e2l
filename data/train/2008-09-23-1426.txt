@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher in the early going <COMMA> led by intel corp. intc <COMMA> up <NUM> percent <PUNC>
-the dow s financial stocks were mixed <COMMA> with american express axp and citigroup inc. c off slightly <COMMA> while jp morgan chase jpm and bank of america bac rose solidly <PUNC>
-dow laggards were led by general electric corp. ge <COMMA> off <NUM> percent <PUNC>
-<PAR>

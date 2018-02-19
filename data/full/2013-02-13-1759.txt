@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after venturing higher to <NUM> earlier in the session <PUNC>
-general electric co. ge was the biggest gainer on the dow <COMMA> with shares up <NUM> percent <COMMA> following an announcement it would sell the rest of its stake in nbcuniversal for dollar <NUM> billion to comcast corp. cmcsa <PUNC>
-shares of fast-food giant mcdonald s corp. mcd dropped <NUM> percent <COMMA> weighing on the dow <PUNC>
-still <COMMA> investors are looking to see if markets can keep up the momentum from the prior session <COMMA> when the dow rose <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> a five-year high <PUNC>
-<PAR>

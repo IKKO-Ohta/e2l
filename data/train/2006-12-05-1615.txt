@@ -1,8 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points at <NUM> <PUNC>
-general motors corp. gm weighed down the blue-chip stock average <COMMA> losing <NUM> percent <COMMA> after news that competitor ford motor co. f plans to take on another dollar <NUM> billion in debt <PUNC>
-but economic-sensitive issues <COMMA> such as caterpillar inc. cat <COMMA> were on the rise <PUNC>
-coca cola co. ko also helped lift blue-chips <COMMA> rising <NUM> percent after merrill lynch raised its price target on the stock to dollar <NUM> from dollar <NUM> <PUNC>
-on monday <COMMA> stocks shrugged off pfizer inc. s pfe decision to halted development of a once promising cholesterol drug <COMMA> as a flurry of merger activity sent major indexes higher <PUNC>
-microsoft corp. <COMMA> msft <COMMA> a component of the dow jones industrial average <COMMA> dropped <NUM> cents to dollar <NUM> <PUNC>
-the company s chief financial officer <COMMA> christopher liddell <COMMA> said the company remains on track to achieve revenue growth of <NUM> percent to <NUM> percent in <NUM> <PUNC>
-<PAR>

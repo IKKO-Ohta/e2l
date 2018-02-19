@@ -1,6 +1,0 @@
-the s&p <NUM> spx lost <NUM> points <COMMA> or <NUM> percent to end at <NUM> <COMMA> retreating from its record closing level reached on wednesday <PUNC>
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the blue-chip index was down in five out of the past seven sessions <PUNC>
-goldman sachs group inc. gs shares fell <NUM> percent after the bank announced a sharp drop in profits due to falling trading revenues <PUNC>
-goldman s loss weighed the most on the price-weighted dow <PUNC>
-<PAR>

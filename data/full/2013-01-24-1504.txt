@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with only four of its <NUM> components trading in negative territory <PUNC>
-pfizer inc. pfe rose <NUM> percent <COMMA> the top dow gainer <COMMA> after the drug maker reported positive results from a drug study <PUNC>
-<PAR>

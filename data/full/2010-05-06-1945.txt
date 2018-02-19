@@ -1,4 +1,0 @@
-u.s. stocks caved on thursday <COMMA> with the dow industrials making a comeback of sorts from a drop of nearly <NUM> points <COMMA> as europe s financial troubles took hold on wall street <PUNC>
-at its height <COMMA> the major stock indexes were all down <NUM> percent <COMMA> with the dow jones industrial average dji diving almost <NUM> points before halting its decline <PUNC>
-the major u.s. stock indexes gave way shortly after <NUM> p.m. eastern <COMMA> with the dow jones industrial average dji lately off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> with all <NUM> components on the decline <COMMA> led by bank of america corp. bac <COMMA> off <NUM> percent <COMMA> and caterpillar inc. cat <COMMA> off <NUM> percent <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-the dow jones industrial average dji recently was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components advancing <COMMA> led by citigroup inc. c <COMMA> up <NUM> percent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow industrials dji were up <NUM> points at <NUM> <COMMA> lifted by shares of boeing co. ba <COMMA> johnson & johnson jnj <COMMA> procter & gamble pg <COMMA> and jp morgan chase & co. jpm <PUNC>
-leading gains among blue chips <COMMA> citigroup c rose <NUM> percent after hedge-fund manager edward lampert better-known as the chairman of sears holdings shld disclosed he bought more than <NUM> million shares in the bank <PUNC>
-hewlett-packard hpq dropped <NUM> percent ahead of posting quarterly results after the close <PUNC>
-but there was further confirmation of a weak trend in consumption after reports from home depot hd and wal-mart stores wmt <PUNC>
-<PAR>

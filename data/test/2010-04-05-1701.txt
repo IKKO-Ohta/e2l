@@ -1,5 +1,0 @@
-u.s. stocks rose monday <COMMA> lifting the dow industrials to within striking distance of the <NUM> mark <COMMA> after another batch of data added to optimism inspired by the largest gains in employment in three years <PUNC>
-the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
-the dow industrials last traveled above the <NUM> level on sept. <NUM> <COMMA> <NUM> <COMMA> and last closed above that mark three days earlier <PUNC>
-twenty-two of the blue-chip benchmark s <NUM> components advanced <COMMA> with caterpillar inc. cat and general electric co. ge both up <NUM> percent <PUNC>
-<PAR>

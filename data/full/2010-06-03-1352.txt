@@ -1,6 +1,0 @@
-the dow jones industrial average rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-caterpillar cat led the measure s gains <COMMA> rising <NUM> percent <PUNC>
-exxon mobil xom also rose <NUM> percent as oil-priced edged up <PUNC>
-united technologies utx gained <NUM> percent <PUNC>
-weighing on the measure <COMMA> travelers trv declined <NUM> percent and american express axp slipped <NUM> percent <PUNC>
-<PAR>

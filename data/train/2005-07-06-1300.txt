@@ -1,8 +1,0 @@
-the futures contracts for the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq <NUM> were all indicating unchanged to mildly lower prices in the early minutes of trade <PUNC>
-dow noted that <COMMA> although the overall market tends to be hurt by higher oil prices <COMMA> such oil shares as exxonmobil xom benefit from the higher prices <PUNC>
-on thursday alcoa inc. aa will kick off the earnings season with its second-quarter report <PUNC>
-alcoa traditionally is the first dow component to release quarterly results <PUNC>
-shares of american international group aig were up <NUM> cents at dollar <NUM> in pre-market trade <COMMA> <PUNC>
-late tuesday the insurer named former securities and exchange commission chairman arthur levitt as a special adviser to its board <PUNC>
-general electric ge could fall on news that its commercial finance division will acquire dollar <NUM> billion in aircraft assets from cit group <PUNC>
-<PAR>

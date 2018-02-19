@@ -1,6 +1,0 @@
-u.s. stocks rallied early on wednesday <COMMA> lifting the dow jones industrial average by over <NUM> points to a record high <COMMA> thanks to deal speculation in the media sector <COMMA> stronger-than-expected factory data <COMMA> and time warner inc. s earnings report <PUNC>
-the dow industrials dji gained <NUM> points to <NUM> <COMMA> a new record high <COMMA> as <NUM> of its <NUM> components advanced <PUNC>
-among the biggest gainers were dupont dd <COMMA> verizon vz <COMMA> general motors corp. gm and american express axp <PUNC>
-citigroup inc. c gained <NUM> percent after saying it will buy financial services outsourcing company bisys group bsg for dollar <NUM> billion in cash <PUNC>
-the dow has been outperforming for several weeks <COMMA> as the fall in the dollar boosts interest in the large multi-national stocks <COMMA> said marc pado <COMMA> market strategist at cantor fitzgerald <PUNC>
-but if the strength in these stocks fails to broaden out to include the other major indices <COMMA> we could see investors get a bit squeamish <PUNC>

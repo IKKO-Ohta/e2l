@@ -1,2 +1,0 @@
-the dow jones industrial average dji dipped <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
-<PAR>

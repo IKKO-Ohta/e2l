@@ -1,4 +1,0 @@
-after scoring triple-digit gains on tuesday <COMMA> the dow jones industrial average dji on wednesday was recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by alcoa inc. aa <COMMA> which gained <NUM> percent <COMMA> caterpillar inc. cat <COMMA> up <NUM> percent <COMMA> <COMMA> and honeywell international inc. hon <COMMA> ahead <NUM> percent <PUNC>
-general motors corp. gm fronted the dow s declines <COMMA> its stock off <NUM> percent <PUNC>
-the automaker is in bargaining talks with the united auto workers union <PUNC>
-<PAR>

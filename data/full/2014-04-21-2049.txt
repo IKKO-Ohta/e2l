@@ -1,3 +1,0 @@
-the dow jones industrial average dji closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
-this week <COMMA> the deluge of corporate earnings includes apple inc. aapl <COMMA> microsoft corp. msft <COMMA> boeing co. ba and caterpillar inc. cat <PUNC>
-<PAR>

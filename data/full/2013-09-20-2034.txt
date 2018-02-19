@@ -1,7 +1,0 @@
-the dow jones industrial average and the s&p <NUM> both fell for a second session <COMMA> retreating from the record heights that came wednesday after the federal reserve unexpectedly said it would refrain from curbing stimulus for now <PUNC>
-on monday <COMMA> stocks rallied in the wake of former treasury secretary larry summers pulling his name out of contention to replace ben bernanke as chairman of the federal reserve <PUNC>
-in its worst session in more than a month <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it up <NUM> percent on the week <PUNC>
-aluminum-producer alcoa inc. aa was one of the top three decliners among the dow s <NUM> components <COMMA> its shares down <NUM> percent on its final day of trading as a blue chip <PUNC>
-alcoa <COMMA> hewlett-packard co. hpq and bank of america corp. bac will no longer be part of the dow <NUM> when trading begins monday <COMMA> replaced by goldman sachs group inc. gs <COMMA> visa inc. v and nike inc. nke <PUNC>
-another dow component <COMMA> caterpillar inc. cat <COMMA> fell <NUM> percent after the heavy-equipment maker in a regulatory filing reported a decline in retail sales <PUNC>
-<PAR>

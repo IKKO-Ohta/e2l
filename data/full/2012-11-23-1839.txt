@@ -1,7 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with all <NUM> of its components in positive territory <PUNC>
-for the week <COMMA> the dow rose <NUM> percent <PUNC>
-the technology components in the dow outperformed on friday <PUNC>
-hewlett-packard co. hpq and microsoft corp. msft were the top gainers <COMMA> rising <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-cisco systems inc. csco and intel corp. intc also posted strong gains <PUNC>
-shares of wal-mart stores inc. wmt gained <NUM> percent and those of target corp. tgt rose <NUM> percent <PUNC>
-<PAR>

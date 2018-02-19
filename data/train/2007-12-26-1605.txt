@@ -1,6 +1,0 @@
-the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> only nine were higher <PUNC>
-among the biggest decliners were general motors gm <COMMA> which fell <NUM> percent to dollar <NUM> <COMMA> and wal-mart stores inc. wmt <COMMA> whose shares dropped <NUM> percent to dollar <NUM> <PUNC>
-shares of exxon mobil corp. xom gained <NUM> percent to dollar <NUM> <PUNC>
-in a shortened trading session monday <COMMA> the dow rose <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
-<PAR>

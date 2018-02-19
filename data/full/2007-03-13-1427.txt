@@ -1,6 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components opened in negative territory <PUNC>
-among dow components <COMMA> citigroup c fell <NUM> percent after it increased its offer for japanese broker nikko cordial <PUNC>
-and merck & co. mrk dropped <NUM> percent even after news it plans to appeal a new jersey state court jury s decision to assess compensatory and punitive damages in a trial over the company s vioxx painkiller <PUNC>
-in other news <COMMA> offers for the chrysler unit of daimlerchrysler dcx may come by the end of the month <COMMA> the wall street journal reported tuesday <COMMA> citing people familiar with the matter <PUNC>
-private-equity bidders and magna international mga are interested <COMMA> while general motors gm probably won t bid for its rival <COMMA> the report said <PUNC>
-<PAR>

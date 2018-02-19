@@ -1,5 +1,0 @@
-after rising more than <NUM> points earlier <COMMA> the dow jones industrial average dji was recently up <NUM> points to <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> traded higher <COMMA> led by financial issues such as citigroup inc. c <COMMA> j.p. morgan chase jpm and aig aig <PUNC>
-on tuesday <COMMA> the dow rallied <NUM> points <COMMA> or <NUM> percent <COMMA> its largest percentage climb since march <NUM> and its fourth biggest point jump <PUNC>
-caterpillar cat <COMMA> also a blue-chip stock <COMMA> was up <NUM> percent after the construction and equipment manufacturer affirmed its earnings outlook <PUNC>
-<PAR>

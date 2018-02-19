@@ -1,9 +1,0 @@
-u.s. stocks moved higher in late-trading tuesday as a number of solid earnings reports <COMMA> a better-than-expected april sales performance at general motors corp. s truck division and a rally in energy and basic materials companies put the dow jones industrial average on track to end at a new six-year high <PUNC>
-the dow industrials dji were last up more than <NUM> points at <NUM> <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
-verizon vz moved up <NUM> cents at dollar <NUM> after the telecom operator and dow component posted adjusted quarterly results that topped analyst estimates <PUNC>
-the company also said it added <NUM> high-speed internet customers and <NUM> million wireless subscribers in the march quarter <PUNC>
-general motors corp. gm shares rose <NUM> percent to dollar <NUM> as investors took heart from a <NUM> percent rise in truck sales in april <COMMA> adjusted for one less selling day than in the year-ago month <PUNC>
-car sales <COMMA> however <COMMA> tumbled <NUM> percent <PUNC>
-the carmaker also raised its second-quarter production outlook <PUNC>
-<PAR>

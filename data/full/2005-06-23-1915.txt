@@ -1,6 +1,0 @@
-the dow jones industrial average dji was last down <NUM> points <COMMA> or <NUM> percent at <NUM> <PUNC>
-within the dow <COMMA> merck shares mrk fell <NUM> percent on a associated press report the drugmaker s scientists had already been looking to reformulate its controversial vioxx drug in <NUM> in order to reduce its now well-publicized cardiovascular risks <PUNC>
-meanwhile <COMMA> shares of general electric ge dropped <NUM> percent as the industrial conglomerate announced it would reorganize from <NUM> businesses into six in a move that the company said would yield dollar <NUM> million to dollar <NUM> million in cost savings <PUNC>
-ge also affirmed its <NUM> earnings outlook of dollar <NUM> to dollar <NUM> a share <PUNC>
-among dow stocks moving to the upside <COMMA> microsoft msft moved <NUM> percent higher and intel intc edged <NUM> percent higher as technology shares weathered the oil-related downdraft a little better than the broader market <PUNC>
-<PAR>

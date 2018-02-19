@@ -1,3 +1,0 @@
-u.s. stocks surged on wednesday <COMMA> with the dow industrials notching their largest first-session-of-the-year-point rise ever <COMMA> as wall street welcomed an 11th-hour deal to avoid steep spending cuts and tax increases and pondered deficit moves still ahead <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with hewlett-packard co. hpq and caterpillar inc. cat leading gains that included all of its <NUM> components <PUNC>
-<PAR>

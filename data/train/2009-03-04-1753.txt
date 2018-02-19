@@ -1,2 +1,0 @@
-the dow jones industrial average was up <NUM> points at <NUM> while the s&p <NUM> index gained <NUM> points to <NUM> and the nasdaq composite rixf rallied <NUM> points to 1,354.08. <PUNC>
-<PAR>

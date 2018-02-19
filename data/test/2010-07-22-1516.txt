@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-dow components caterpillar inc. cat <COMMA> 3m co. mmm and at&t inc. t were among the companies beating quarterly expectations and hiking their forecasts for the year <PUNC>
-all but one of the dow s <NUM> components were on the rise <COMMA> with travelers cos inc. trv the sole laggard <COMMA> down about <NUM> percent after the property-casualty insurer reported taking a hit from storm-related losses during the quarter <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-down more than <NUM> points after the open <COMMA> the dow jones industrial average dji recouped more than half its early losses <COMMA> recently down about <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were trading lower <COMMA> and with hewlett-packard co. hpq down the most <COMMA> off <NUM> percent <PUNC>
-of the eight blue chips on the rise <COMMA> home depot inc. hd gained the most <COMMA> up <NUM> percent <PUNC>
-e.i <PUNC>
-du pont nemours & co. dd reported a <NUM> percent decline in fourth-quarter profit <COMMA> with shares of the dow component recently unchanged <PUNC>
-<PAR>
-johnson & johnson jnj fell <NUM> percent after the drug manufacturer reported a <NUM> percent rise in fourth-quarter profit <PUNC>
-<PAR>

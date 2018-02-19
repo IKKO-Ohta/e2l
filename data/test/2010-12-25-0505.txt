@@ -1,2 +1,0 @@
-against a backdrop of mostly stellar corporate profits <COMMA> the economic reports helped extend a climb that has the dow jones industrial average dji up about <NUM> percent for <NUM> <COMMA> the standard & poor s <NUM> index spx up nearly <NUM> percent and the nasdaq composite rixf rising almost <NUM> percent for the year <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <PUNC>
-american express axp rose <NUM> percent after joining with u.k. private equity company permira to bid for the royal bank of scotland s rbs global merchant services unit <COMMA> according to the financial times <COMMA> which cited unnamed sources <PUNC>
-materials components strengthened following higher profits from home retailer lowe s low and automaker general motors <PUNC>
-dupont dft gained <NUM> percent <COMMA> while caterpillar cat climbed 1.% <PUNC>
-lowe s <COMMA> which is not a dow component <COMMA> fell <NUM> percent after it reported a <NUM> percent profit rise but issued second-quarter guidance below wall street s views <PUNC>
-rival home depot hd sank <NUM> percent <PUNC>
-<PAR>

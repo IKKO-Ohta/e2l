@@ -1,2 +1,0 @@
-up <NUM> percent on the year <COMMA> the dow jones industrial average dji on monday climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

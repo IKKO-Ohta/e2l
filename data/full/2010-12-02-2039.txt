@@ -1,2 +1,0 @@
-poised for its first back-to-back sessions of triple-digit gains since july <NUM> <COMMA> the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by home-improvement retailer home depot inc. hd <COMMA> up <NUM> percent <PUNC>
-<PAR>

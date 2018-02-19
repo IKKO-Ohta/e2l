@@ -1,3 +1,0 @@
-after falling <NUM> points <COMMA> the dow jones industrial average dji was lately down <NUM> points to <NUM> <COMMA> with all of its <NUM> components on the run <PUNC>
-two stocks on the s&p <NUM> advanced <COMMA> led by electronics retailer best buy co. inc. bby <COMMA> up <NUM> percent <COMMA> and yahoo inc. yhoo <COMMA> up <NUM> percent a day after the online search engine <COMMA> microsoft corp. msft and aol inc. aol said they had established an advertising partnership <PUNC>
-<PAR>

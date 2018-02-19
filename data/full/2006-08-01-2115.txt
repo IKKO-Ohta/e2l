@@ -1,6 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> having traded as low as <NUM> at its worst level <PUNC>
-general motors corp. gm was <NUM> percent lower at dollar <NUM> <PUNC>
-gm s july sales declined <NUM> percent <PUNC>
-verizon communications inc. vz was <NUM> percent lower at dollar <NUM> <PUNC>
-dow jones industrial average components under heavy selling pressure included intel corp. intc <COMMA> down <NUM> percent at dollar <NUM> <COMMA> and alcoa inc. aa <COMMA> off <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the fed step initially propelled the dow jones industrial average dji back above the <NUM> level <COMMA> breached on monday for the first time since october <NUM> <COMMA> but the blue-chip index was more recently off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> all but one posted losses <COMMA> with the dow s biggest laggard proving to be bank of america corp. bac <COMMA> down <NUM> percent after reporting a <NUM> percent profit fall <COMMA> slashing its dividend and saying it will raise up to dollar <NUM> billion in common stock <PUNC>
-after the close <COMMA> alcoa inc. aa will kick off earnings season <COMMA> with analysts increasingly nervous about the report the aluminum giant will hand in amid dropping metals prices and the global financial crisis <PUNC>
-u.s. and global stocks slumped on monday <COMMA> with the dow falling below the <NUM> mark for the first time since oct. <NUM> <COMMA> <NUM> <PUNC>
-emerging markets were especially slammed <COMMA> with russian stocks leading the sell-off <PUNC>
-<PAR>
-after falling as much as <NUM> points during the session the largest intraday point decline in the index s history the dow industrials ended off <NUM> points <PUNC>
-<PAR>

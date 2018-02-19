@@ -1,6 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> on track to snap a three-day losing streak <PUNC>
-the average s recent gain put it less than a point from its recent closing high set last tuesday <PUNC>
-twenty-eight of the indicator s <NUM> components posted gains <COMMA> with merck & co. mrk and mcdonald s corp. mcd the only exceptions <COMMA> off <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-oil futures were recently up dollar <NUM> to dollar <NUM> a barrel in new york <COMMA> helping to boost the shares of energy producers <PUNC>
-dow components exxon mobil corp. xom and chevron corp. cvx rose more than <NUM> percent each <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> by the end of the session <PUNC>
-on friday <COMMA> j.p. morgan chase & co. jpm and wells fargo & co. wfc are set to release results <PUNC>
-<PAR>

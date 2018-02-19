@@ -1,2 +1,0 @@
-the dow jones industrial average dji shed <NUM> points to <NUM> <PUNC>
-<PAR>

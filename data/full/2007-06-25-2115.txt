@@ -1,8 +1,0 @@
-u.s. stocks finished lower on monday <COMMA> with the dow jones industrial average losing earlier gains of up to <NUM> points <COMMA> as jitters resurfaced about the impact of the distressed subprime mortgage market and of higher interest rates on financial firms <PUNC>
-the dow jones industrial average dji finished down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components retreated <PUNC>
-the dow earlier rallied by more than <NUM> points to a high of <NUM> <PUNC>
-the dow was supported by the likes of altria group inc. mo and mcdonalds corp. mcd <COMMA> while dupont dd <COMMA> citigroup inc. c and alcoa inc. weighed <PUNC>
-general motors corp. gm rose <NUM> percent <COMMA> after the u.s. automaker was upgraded to buy from neutral at goldman sachs <COMMA> which said it was making a tactical trading call that shares will rise on expectations for sizable concessions from gm s unionized workers <PUNC>
-stocks took a heavy hit on friday due to nervousness about a combination of rising treasury yields <COMMA> global interest rates and whether subprime lending woes have further to unwind <PUNC>
-the dow industrials dropped <NUM> points <PUNC>
-<PAR>

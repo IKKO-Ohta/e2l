@@ -1,6 +1,0 @@
-the dow jones industrial average dji was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> the blue-chip index s third drop below <NUM> in the last five sessions <PUNC>
-the dow on thursday closed under the key psychological level for the first time in more than five years <PUNC>
-twenty-eight of the dow s <NUM> components posted declines <COMMA> fronted by alcoa inc. aa <COMMA> off <NUM> percent <PUNC>
-shares of j.p. morgan chase jpm fell <NUM> percent after it reported an <NUM> percent profit drop analysts had forecast a loss while coca-cola ko shares gained <NUM> percent after it increased its profit by <NUM> percent <PUNC>
-intel intc rose <NUM> percent after it said its third-quarter profit rose <NUM> percent and gave a cautious outlook on the fourth quarter <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <COMMA> on track to post a nearly <NUM> percent drop for the week <PUNC>
-leading the measure s decliners <COMMA> walt disney dis dropped <NUM> percent <PUNC>
-disney s drop came after the entertainment giant said it bought the maker of the popular tap tap revenge game for apple mobile devices like the iphone <PUNC>
-industrial components weakened following the drop in factory orders <PUNC>
-caterpillar cat dropped <NUM> percent <COMMA> 3m mmm slid <NUM> percent and boeing ba fell <NUM> percent <PUNC>
-in individual stocks <COMMA> at&t t was down <NUM> percent <COMMA> after the telecommunications giant announced a preliminary settlement of class-action lawsuits related to the billing services of the former at&t wireless services that could cost the company tens of millions of dollars <PUNC>
-shares of rival verizon communications vz rose <NUM> percent <PUNC>
-<PAR>

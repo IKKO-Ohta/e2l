@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
-on friday <COMMA> the dow surged <NUM> points <COMMA> helping to even out a tumultuous week <COMMA> which saw the bankruptcy of lehman brothers and a bail-out of aig <COMMA> before news emerged of the government s overall bail-out plan <PUNC>
-the dow s financial components weighed <COMMA> with shares of american express co. axp off <NUM> percent <PUNC>
-the firm s stock is now protected from short selling under a temporary ban by the securities and exchange commission <PUNC>
-also on the list are blue chips general electric co. ge and general motors corp. gm <PUNC>
-shares of microsoft corp. msft bucked the trend <COMMA> rising <NUM> percent after the software giant said it will buy back up to dollar <NUM> billion of stock between now and september <NUM> and raise its dividend by <NUM> percent <PUNC>
-other companies also tried to prop up their recently battered stocks by buying back shares <COMMA> including hewlett-packard co. hpq and nike inc. nke <PUNC>
-<PAR>

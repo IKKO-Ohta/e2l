@@ -1,4 +1,0 @@
-on monday <COMMA> the s&p spx was poised to make another run <COMMA> the index up <NUM> points at <NUM> <COMMA> with energy and information technology fronting the gains <PUNC>
-the dow jones industrial average dji added <NUM> points to <NUM> <PUNC>
-the nasdaq composite index rixf climbed <NUM> points to <NUM> <PUNC>
-<PAR>

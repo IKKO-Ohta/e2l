@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up <NUM> points to <NUM> <PUNC>
-the s&p <NUM> spx gained <NUM> points to <NUM> <PUNC>
-the nasdaq composite rixf was up <NUM> points to <NUM> <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-u.s. stocks declined friday <COMMA> pushing the dow below the key psychological level of <NUM> <COMMA> after federal reserve action to stem the credit crunch failed to offset the damage from february job losses seen as the most blatant sign yet of recession <PUNC>
-the dow jones industrial average dji declined <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
-blue-chip losses were fronted by boeing co. ba <COMMA> recently off <NUM> percent <COMMA> and dupont co. dd down <NUM> percent <COMMA> as the chemical giant vowed to appeal a judgment that it pay dollar <NUM> in damages in a pollution case <PUNC>
-shares of financial stocks were mixed <COMMA> with j.p. morgan chase jpm up <NUM> percent <COMMA> american express co. axp ahead <NUM> percent and citigroup inc. c down <NUM> percent <PUNC>
-<PAR>

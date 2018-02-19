@@ -1,2 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> stocks retreated <COMMA> led by the likes of caterpillar inc. cat <COMMA> alcoa inc. aa <COMMA> boeing co. ba <COMMA> general motors corp. gm <COMMA> and citigroup inc. c <PUNC>
-<PAR>

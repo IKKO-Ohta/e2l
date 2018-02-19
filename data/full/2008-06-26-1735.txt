@@ -1,9 +1,0 @@
-it was the middle of march that the bear stearns debacle became public <COMMA> sending the dow to a low of <NUM> <PUNC>
-that level was broken within the first minute of trading today <COMMA> wrote kathy lien <COMMA> chief strategist of dailyfx.com <PUNC>
-the dow jones industrial average dji tumbled <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-if the dow finishes at its recent trading levels <COMMA> it would tally its poorest monthly performance since september <NUM> and the worst june since <NUM> <COMMA> according to dow jones indexes <PUNC>
-general motors gm weighed most heavily on the blue chips <COMMA> down more than <NUM> percent <COMMA> after goldman sachs told clients to unload their positions in the face of the deteriorating automotive climate <PUNC>
-<PAR>
-all of the dow s <NUM> components were trading in negative territory <PUNC>
-goldman sachs cut its rating on u.s. brokers to neutral from attractive <COMMA> and put citigroup inc. c on its conviction sell list <PUNC>
-<PAR>

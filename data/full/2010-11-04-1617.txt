@@ -1,3 +1,0 @@
-scaling back only a bit from its 200-plus point rise <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-the blue-chip index closed wednesday at its highest level since sept. <NUM> <COMMA> <NUM> <PUNC>
-<PAR>

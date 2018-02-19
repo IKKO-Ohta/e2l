@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-blue-chip declines were fronted by wal-mart stores inc. wmt <COMMA> off <NUM> percent <COMMA> and american international group inc. aig <COMMA> down <NUM> percent <PUNC>
-<PAR>

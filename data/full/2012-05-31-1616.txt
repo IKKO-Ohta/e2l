@@ -1,3 +1,0 @@
-u.s. stocks fell thursday <COMMA> with the dow jones industrial average on track for its first monthly loss in eight <COMMA> as wall street added disappointing labor market data to its european worries <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> off <NUM> percent from the end of april <COMMA> and on track for its worst month in two years <PUNC>
-<PAR>

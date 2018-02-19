@@ -1,6 +1,0 @@
-the dow jones industrial average dji tacked on <NUM> points to <NUM> <COMMA> after being down as much as <NUM> points earlier in the session <PUNC>
-of the blue-chip barometer s <NUM> components <COMMA> <NUM> contributed to gains <PUNC>
-alcoa aa was the biggest dow winner <COMMA> surging nearly <NUM> percent after the aluminum giant after it posted better than expected earnings after the close on tuesday <PUNC>
-next in line was intel intc <COMMA> which climbed <NUM> percent after apple inc. aapl said it was expanding its relationship with the semiconductor sector bellwether beyond the macintosh computer line <PUNC>
-meanwhile <COMMA> dow losers included exxon mobil corp. xom <COMMA> which fell <NUM> percent as crude oil prices continued to fall <COMMA> and ibm ibm <COMMA> which lost <NUM> percent after being downgraded by a.g. edwards <PUNC>
-<PAR>

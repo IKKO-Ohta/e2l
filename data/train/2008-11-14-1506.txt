@@ -1,7 +1,0 @@
-after falling more than <NUM> points at the start <COMMA> the dow jones industrial average dji scaled back on its drop <COMMA> and was recently down <NUM> points to stand at 8,808.57. <PUNC>
-fourteen of the blue-chip index s <NUM> components posted early losses <COMMA> led by intel corp. intc <COMMA> off <NUM> percent <PUNC>
-u.s. stocks surged thursday after initially falling below oct. <NUM> lows <PUNC>
-after the lows were reached <COMMA> there was a wave of buying across the board that was led by oil producers <PUNC>
-the dow jones industrial average soared <NUM> points <COMMA> the nasdaq composite rose <NUM> points and the s&p <NUM> rose <NUM> points <PUNC>
-time to go fishing <PUNC>
-<PAR>

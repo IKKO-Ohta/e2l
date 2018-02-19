@@ -1,7 +1,0 @@
-u.s. stocks on friday thudded sharply lower <COMMA> with the dow steering toward its first close below <NUM> in three months <COMMA> as investors encountered another day of escalating oil prices and more trouble in the financial sector <PUNC>
-down more than <NUM> points in afternoon trade <COMMA> the dow jones industrial average dji was more recently off <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> readying it for a loss of more than <NUM> points <COMMA> or <NUM> percent <COMMA> since last friday s close <PUNC>
-of its <NUM> components <COMMA> <NUM> were posting losses <COMMA> with the bleeding recently led by shares of general motors corp. gm <COMMA> down <NUM> percent <PUNC>
-off the dow <COMMA> shares of ford slid <NUM> percent <PUNC>
-the coca-cola co. ko proved the sole member of the blue chips to remain in the green <COMMA> trading <NUM> percent higher in afternoon trade <PUNC>
-merrill lynch analysts cut their earnings estimates on banks including bank of america bac and national city ncc <COMMA> and j.p. morgan analysts said reserve building is needed at all the banks that it follows <PUNC>
-<PAR>

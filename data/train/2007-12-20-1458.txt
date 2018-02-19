@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> receiving a lift from its technology components ibm ibm and microsoft msft and its financial components <COMMA> such as aig aig and j.p. morgan chase jpm <PUNC>
-u.s. stocks on wednesday ended mixed after a volatile day that featured mixed signals on the credit crisis <COMMA> with a potential downgrade of bond insurers dulling a mostly positive auction of funds to banks by the federal reserve <PUNC>
-the dow industrials fell <NUM> points <COMMA> the s&p <NUM> slipped nearly <NUM> points while the nasdaq composite rose nearly <NUM> points <PUNC>
-general motors gm may sell its medium-duty truck unit to navistar international <COMMA> the wall street journal reported <PUNC>
-<PAR>

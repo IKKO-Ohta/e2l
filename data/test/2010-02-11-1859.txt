@@ -1,9 +1,0 @@
-the dow jones industrial average dji <COMMA> which traded in the red for much of the morning <COMMA> was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> in recent trading <PUNC>
-earlier <COMMA> it gained as much as <NUM> points <PUNC>
-dow industrials leaders included some of the stocks more sensitive to economic growth <PUNC>
-caterpillar inc. cat was the measure s best performer <COMMA> up <NUM> percent <PUNC>
-alcoa inc. aa was also particularly strong <COMMA> with shares up <NUM> percent <COMMA> while chevron corp. cvx rose <NUM> percent <COMMA> as commodities climbed <PUNC>
-just one of the dow s <NUM> components was in the red recently <PUNC> united technologies corp. utx <COMMA> which slipped <NUM> percent <PUNC>
-the dow jones industrial average dji <COMMA> which traded in the red for much of the morning <COMMA> rose as much as <NUM> points and recently traded <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
-the nadsaq composite index rixf rose <NUM> percent <PUNC>
-<PAR>

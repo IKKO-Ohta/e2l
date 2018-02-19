@@ -1,3 +1,0 @@
-the dow jones industrial average dji came off session lows to end at <NUM> <COMMA> off <NUM> points <PUNC>
-at tuesday s close <COMMA> the blue-chip index was down <NUM> percent so far for february and off <NUM> percent year-to-date <PUNC>
-<PAR>

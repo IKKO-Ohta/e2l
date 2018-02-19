@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent to <NUM> in early trading <COMMA> while the standard & poor s 500-stock index spx shed <NUM> points to <NUM> and the nasdaq composite rixf edged down less than a point to <NUM> <PUNC>
-leading the blue-chip index s declines was cisco systems csc <COMMA> off <NUM> percent <COMMA> after international business machines ibm purchased a maker of ethernet switches <COMMA> putting the two tech giants in more direct competition <PUNC>
-offsetting cisco s losses was hewlett-packard hpq <COMMA> which led dow gainers with a <NUM> percent rise <COMMA> after the company said revenue for the fiscal year would be between dollar <NUM> billion and dollar <NUM> billion a range that compared favorably to the consensus forecast of dollar <NUM> billion <PUNC>
-taken together <COMMA> tech stocks were a source of relative strength for the market <COMMA> edging up slightly to make it the strongest sector among the s&p <NUM> <PUNC>
-financial stocks were the weakest <COMMA> weighed by a <NUM> percent drop at j.p. morgan chase jpm and a <NUM> percent slip at bank of america bac <PUNC>
-u.s. stocks had ended higher on tuesday <COMMA> as takeover deals and hopes for more treasury buying by the federal reserve helped offset worries over weak consumer-confidence data <PUNC>
-the dow finished up <NUM> points after reversed an 80-point slide earlier in the session <PUNC>
-<PAR>

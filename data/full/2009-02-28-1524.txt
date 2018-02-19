@@ -1,7 +1,0 @@
-the market also failed to react well to news of the government boosting its stake in citigroup inc. c <COMMA> shares of which plunged nearly <NUM> percent to trade at dollar <NUM> <PUNC>
-as for the dow jones industrial average dji <COMMA> it slumped <NUM> percent in february <PUNC>
-the blue-chip barometer has now fallen for six straight months <COMMA> for a loss of <NUM> percent <COMMA> its biggest six-month decline since the six months through june <NUM> <COMMA> when it fell <NUM> percent <PUNC>
-the dow s longest streak of consecutive monthly losses was the nine months through april <NUM> <PUNC>
-for the year to date <COMMA> the dow is down <NUM> percent <PUNC>
-the nasdaq composite rixf is off 12.% on the same interval <PUNC>
-<PAR>

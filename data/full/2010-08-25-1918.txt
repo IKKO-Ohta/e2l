@@ -1,4 +1,0 @@
-down <NUM> points earlier in the session <COMMA> the dow jones industrial average dji briefly dipped below the <NUM> level for a second day <COMMA> having finished the past four sessions with losses <PUNC>
-lately <COMMA> the blue-chip benchmark was up <NUM> points to <NUM> <PUNC>
-seventeen of the dow s <NUM> components were on the rise <COMMA> with home-improvement retailer home depot inc. hd faring the best <COMMA> its shares up <NUM> percent <PUNC>
-<PAR>

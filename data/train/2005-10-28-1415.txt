@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose by as much as <NUM> points in early action <COMMA> then lost a bit of steam <PUNC>
-shares of dow component microsoft msft moved up as much as <NUM> percent after the software giant said it had a <NUM> percent increase in first-quarter profit <PUNC>
-but it issued a weak forecast <PUNC>
-<PAR>

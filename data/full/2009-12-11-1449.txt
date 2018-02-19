@@ -1,5 +1,0 @@
-shortly after the opening bell <COMMA> the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the index was paced higher by alcoa inc. aa <COMMA> united technologies corp. utx and dupont co. dd <COMMA> which each rose more than <NUM> percent <PUNC>
-friday morning s early move comes after stocks climbed thursday <COMMA> with traders focused on the positive signals of a mostly mixed weekly jobs report <PUNC>
-overall <COMMA> the dow ended up <NUM> points on the day <PUNC>
-<PAR>

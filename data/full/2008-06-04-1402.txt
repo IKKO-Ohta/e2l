@@ -1,2 +1,0 @@
-the dow jones industrial average rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher early on <PUNC>
-<PAR>

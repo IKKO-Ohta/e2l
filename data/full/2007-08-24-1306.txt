@@ -1,5 +1,0 @@
-futures for the dow jones industrial average dji rose <NUM> points at <NUM> <COMMA> while those for the s&p <NUM> spx edged down <NUM> points at <NUM> <PUNC>
-among stocks in focus friday <COMMA> home depot inc. hd may receive dollar <NUM> billion less than anticipated for the sale of its wholesale distribution business to private equity firms <COMMA> according to a report in the wall street journal <PUNC>
-on thursday <COMMA> u.s. stocks finished broadly flat after recession warnings from executives at countrywide financial and thornburg mortgage <PUNC>
-the dow industrials finished a quarter-point weaker <COMMA> the s&p <NUM> fell over a point and the nasdaq composite shed <NUM> points <PUNC>
-<PAR>

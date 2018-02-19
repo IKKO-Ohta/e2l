@@ -1,2 +1,0 @@
-the dow jones industrial average fell <NUM> points to <NUM> <COMMA> with all but one of its <NUM> components sinking in the early going <COMMA> with the financial sector among those declining <PUNC>
-<PAR>

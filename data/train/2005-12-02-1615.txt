@@ -1,4 +1,0 @@
-the dow industrials dji bounced off an early low of <NUM> <PUNC>
-the benchmark index was last down <NUM> points at <NUM> <PUNC>
-rival general motors corp. gm <COMMA> which announced an <NUM> percent drop in u.s. vehicle sales for november <COMMA> was down <NUM> percent at dollar <NUM> in early trading on instinet after ending thursday s session with a gain <PUNC>
-<PAR>

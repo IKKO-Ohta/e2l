@@ -1,4 +1,0 @@
-on wall street <COMMA> healthcare shares led stocks higher on monday <COMMA> helping indexes mostly bounce back from opening declines <PUNC>
-the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx was nearly flat at <NUM> <COMMA> while the nasdaq composite rixf gained <NUM> points to <NUM> <PUNC>
-<PAR>

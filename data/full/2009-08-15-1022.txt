@@ -1,3 +1,0 @@
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to finish the week at <NUM> <COMMA> leaving the blue chips down <NUM> percent for the week <PUNC>
-the s&p <NUM> index spx declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a <NUM> percent decline from the prior week s close <COMMA> while the nasdaq composite rixf dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> a weekly loss of <NUM> percent <PUNC>
-<PAR>

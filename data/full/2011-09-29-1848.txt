@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-on wednesday <COMMA> u.s. stocks fell for the first session in four <COMMA> with the dow industrials losing <NUM> points to end at <NUM> <COMMA> leaving it off <NUM> percent for the nearly ended month and down <NUM> percent for the year <PUNC>
-<PAR>

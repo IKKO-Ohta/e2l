@@ -1,7 +1,0 @@
-the dow jones industrial average dji was <NUM> points lower at <NUM> <COMMA> with <NUM> of its <NUM> components on the decline <PUNC>
-bear stearns cos. inc. bsc remains in focus after a story in the financial times that its chief executive <COMMA> james cayne <COMMA> has called other wall street executives to reassure them about his company s financial health <PUNC>
-cayne reportedly has reached out to leaders of merrill lynch co. inc. mer and citigroup inc. c <PUNC>
-dow component pfizer inc. pfe on monday announced that it has enough products in its pipeline to meet its goal of tripling its potential products portfolio by <NUM> <PUNC>
-microsoft corp. msft <COMMA> also in the dow <COMMA> will not have to pay damages to alcatel-lucent alu in a patent case <COMMA> according to a federal judge s ruling <PUNC>
-the company also cut the price of its xbox <NUM> machines by dollar <NUM> <PUNC>
-<PAR>

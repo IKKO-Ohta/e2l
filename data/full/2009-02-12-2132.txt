@@ -1,3 +1,0 @@
-however <COMMA> a reuters report thursday afternoon that the obama administration was working on a program to help strapped homeowners had stocks largely recouping their losses after a steep dive <PUNC>
-after sliding more than <NUM> points to touch its lowest intraday level since late november <COMMA> the dow jones industrial average dji mostly recovered its footing to end at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
-<PAR>

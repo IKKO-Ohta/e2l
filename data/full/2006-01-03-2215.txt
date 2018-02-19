@@ -1,8 +1,0 @@
-on the first session of <NUM> <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> racking up its largest gain since dec. <NUM> <PUNC>
-the average was as low as <NUM> earlier in the session <PUNC>
-shares in wal-mart stores inc. wmt slipped <NUM> percent to dollar <NUM> after the world s largest retailer warned december same-store sales would come in at the lower end of its forecast range <PUNC>
-general motors corp. gm dropped <NUM> percent to dollar <NUM> <COMMA> after banc of america cuts its price target on the beleaguered car maker to dollar <NUM> from dollar <NUM> <PUNC>
-johnson & johnson jnj rose <NUM> percent to dollar <NUM> <COMMA> buoyed by a j.p morgan upgrade to overweight from neutral <PUNC>
-the broker expects its <NUM> outlook to be a positive catalyst for the stock <COMMA> with a strong drug pipeline likely to lend further support <PUNC>
-exxon mobil corp. xom was the biggest percentage gainer on the dow <COMMA> rising more than <NUM> percent to dollar <NUM> <COMMA> buoyed by the surge in crude-oil prices <PUNC>
-<PAR>

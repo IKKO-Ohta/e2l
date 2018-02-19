@@ -1,3 +1,0 @@
-the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-home depot inc. hd led the dow s declines <COMMA> with its stock down <NUM> percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-after rising and falling in a more than 400-point range <COMMA> the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to end its roller-coaster ride at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> finished lower <COMMA> with losses fronted by alcoa inc. aa <COMMA> down nearly <NUM> percent <PUNC>
-a day ahead of the one-year anniversary of the dow s record close of <NUM> <COMMA> the market is facing record losses over the past year <PUNC>
-the dow has dropped <NUM> percent from the peak <COMMA> while the market value of the dow jones wilshire <NUM> has seen more than dollar <NUM> trillion of its value wiped out <PUNC>
-bank of america corp. bac shares fell <NUM> percent after the company priced a secondary offering of common stock below its closing price <COMMA> with the move diluting existing shares by about <NUM> percent <PUNC>
-<PAR>

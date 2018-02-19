@@ -1,2 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx up <NUM> at <NUM> and the nasdaq composite rixf up 9/08 at <NUM> <PUNC>
-<PAR>

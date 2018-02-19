@@ -1,9 +1,0 @@
-u.s. stocks fell sharply wednesday <COMMA> pushing the dow jones industrial average below the <NUM> level <COMMA> as investors focused on the slumping global economy and its impact on corporate earnings <PUNC>
-and fast-food giant mcdonald s corp. mcd posted an <NUM> percent rise in third-quarter profit <PUNC>
-after falling more than <NUM> points <COMMA> the dow industrials dji were down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in midmorning trade <COMMA> with all but two of its components posting declines in the early going <PUNC>
-alcoa inc. aa fronted the dow s losses <COMMA> off <NUM> percent <PUNC>
-pharmaceutical giant merck & co. inc. mrk announced <NUM> job cuts <COMMA> boeing ba said earnings fell <NUM> percent <COMMA> and wachovia wb reported a dollar <NUM> billion loss as wells fargo wfc prepared to buy the charlotte <COMMA> n.c. <COMMA> bank <PUNC>
-at&t t reported a <NUM> percent profit rise <COMMA> helped by 3g iphone sales <PUNC>
-u.s. stocks had closed lower tuesday on a cautious earnings outlooks <COMMA> as well as profit-taking from monday s surge <PUNC>
-the dow jones industrial average dropped <NUM> points <COMMA> the nasdaq composite lost <NUM> points <COMMA> and the s&p <NUM> dropped <NUM> points <PUNC>
-<PAR>

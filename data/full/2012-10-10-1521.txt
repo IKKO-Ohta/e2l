@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with chevron corp. cvx pacing the declines that included <NUM> of its <NUM> components <PUNC>
-dow component alcoa aa late tuesday reported third-quarter profit that topped expectations on increased demand from airplane and automobile makers <COMMA> but trimmed its forecast for the world s appetite for the metal it produces <COMMA> citing china s economic slowdown <PUNC>
-<PAR>

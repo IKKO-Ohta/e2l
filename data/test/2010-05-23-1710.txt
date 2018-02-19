@@ -1,2 +1,0 @@
-on friday <COMMA> u.s. stocks remained volatile after the prior day s rout <COMMA> with the dow jones industrial average dji staging triple-digit swings in both directions before ending up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> leaving it off <NUM> percent for the week <PUNC>
-<PAR>

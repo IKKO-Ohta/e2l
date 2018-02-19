@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-alcoa inc. aa slumped more than <NUM> percent in early trading after the company warned that hurricane rita <COMMA> low aluminum prices and higher raw-material costs would take a bite out of its third-quarter profit <PUNC>
-shares in the pittsburgh-based metals giant <COMMA> a component of the dow industrials <COMMA> fell dollar <NUM> to dollar <NUM> <COMMA> its lowest level in over two years <PUNC>
-both prudential and goldman sachs downgraded the company in the wake of its profit warning <PUNC>
-<PAR>

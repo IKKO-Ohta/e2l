@@ -1,4 +1,0 @@
-on tuesday <COMMA> stocks ended lower as worries about interest rates <COMMA> high oil prices and political tensions in the middle east took the dow jones industrial average and the s&p <NUM> index to one-month lows <PUNC>
-the dow industrials dji fell <NUM> points to <NUM> <PUNC>
-shares in boeing co. ba rose <NUM> percent to dollar <NUM> in pre-market dealings after broker morgan stanley raised its price target on the company to dollar <NUM> from dollar <NUM> <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-it had initially dropped <NUM> points and had risen nearly <NUM> points <PUNC>
-shares of verizon communications inc. vz paced blue-chip gains <COMMA> up <NUM> percent <COMMA> after vodafone group plc vod said the companies were in negotiations over their verizon wireless venture <PUNC>
-vodafone s u.s. shares surged <NUM> percent <PUNC>
-off the dow <COMMA> guess inc. ges shares leapt nearly <NUM> percent after the apparel retailer reported second-quarter profit that beat expectations <PUNC>
-<PAR>

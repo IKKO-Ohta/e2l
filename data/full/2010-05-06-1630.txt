@@ -1,2 +1,0 @@
-after a more than 115-point fall <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> with <NUM> of its <NUM> components on the decline <COMMA> led by bank of america corp. bac off <NUM> percent and caterpillar inc. cat <COMMA> off <NUM> percent <PUNC>
-<PAR>

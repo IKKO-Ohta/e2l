@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> in early trading <PUNC>
-materials component dupont dd led the measure s gains with a <NUM> percent rise <PUNC>
-wal-mart wmt was its worst performer with a <NUM> percent drop <PUNC>
-the discount retail giant beat its guidance to post a <NUM> percent gain in profit in the fiscal fourth quarter <COMMA> but sales at the world s largest retailer fell short of expectations <PUNC>
-hewlett-packard hpq slipped <NUM> percent despite its report of a <NUM> percent profit rise and a boost to its fiscal-year revenue outlook <PUNC>
-<PAR>

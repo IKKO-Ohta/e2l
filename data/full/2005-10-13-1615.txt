@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up just <NUM> point at <NUM> <COMMA> the s&p <NUM> spx surroundered <NUM> point at <NUM> and the nasdaq composite rixf moved up <NUM> at <NUM> <PUNC>
-mcdonald s corp. mcd gained as much as <NUM> percent after the fast-food chain reported strong september sales and served up profit projections that outpaced wall street s expectations <COMMA> partly due to a rebound in europe <PUNC>
-dupont dd <COMMA> also in the dow <COMMA> fell by nearly <NUM> percent after confirming plans to repatriate dollar <NUM> billion by the end of the year and said it will spend dollar <NUM> million to replace equipment damaged by hurricane katrina <PUNC>
-johnson & johnson jnj rose as much as <NUM> percent after a generally favorable mention in a press report <PUNC>
-<PAR>

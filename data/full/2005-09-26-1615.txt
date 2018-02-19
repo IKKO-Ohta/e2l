@@ -1,8 +1,0 @@
-the dow jones industrial average dji last was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in positive territory <PUNC>
-dow component boeing ba was up <NUM> percent at dollar <NUM> <PUNC>
-over the weekend the aerospace giant agreed on a new contract with striking machinists <PUNC>
-shares of tommy hilfiger tom were up <NUM> percent at dollar <NUM> after a report that wal-mart wmt is considering a bid for the clothier <PUNC>
-delphi dph dropped <NUM> percent to dollar <NUM> after a critical brokerage note <PUNC>
-deutsche bank analyst rod lache <COMMA> who said he was no longer convinced that troy <COMMA> mich.-based delphi would work out a deal with general motors corp. gm <COMMA> its biggest customer <COMMA> and with the united auto workers <COMMA> which represents its workers <COMMA> that would keep it out of bankruptcy <PUNC>
-dow component caterpillar cat dropped <NUM> percent to dollar <NUM> after receiving a downgrade to a hold rating from citigroup <PUNC>
-<PAR>

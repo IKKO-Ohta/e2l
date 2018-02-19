@@ -1,5 +1,0 @@
-after tuesday s close <COMMA> aluminum producer alcoa inc. aa is expected to report a fourth-quarter rebound from year-ago losses <COMMA> with its release signaling the unofficial start of the earnings season <PUNC>
-but the dow component is not a reliable predictor of earnings generally <COMMA> with the <NUM> s&p <NUM> companies that have already reported fourth-quarter earnings a better indicator <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <COMMA> led by boeing co. ba <COMMA> down <NUM> percent after bb&t capital markets downgraded its rating on the aerospace manufacturer to hold from buy <PUNC>
-boeing suffered another setback related to its <NUM> dreamliner jet aircraft tuesday when a fuel leak was reported on an outbound japan airlines flight at boston s logan international airport <PUNC>
-<PAR>

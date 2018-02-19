@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with caterpillar inc. cat leading the decliners as the stock gave up some of its more than <NUM> percent gain in the previous session <PUNC>
-alcoa aa <COMMA> honeywell hon and procter & gamble pg were some of the major decliners on the blue-chip index <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to losses <PUNC>
-friday s losses come after three days of gains that lifted the dow industrials to an all-time high and took the s&p <NUM> to its best level in more than <NUM> 1/2 years <PUNC>
-<PAR>

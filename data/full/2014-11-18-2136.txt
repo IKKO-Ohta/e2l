@@ -1,4 +1,0 @@
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to close at a record level of <NUM> <PUNC>
-the dow has closed at record levels <NUM> times so far this year <PUNC>
-home depot inc. hd hd hd shared fell <NUM> percent <COMMA> after the company reaffirmed fiscal-year <NUM> guidance and announced earnings per share of dollar <NUM> in the third quarter <PUNC>
-<PAR>

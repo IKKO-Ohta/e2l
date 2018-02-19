@@ -1,6 +1,0 @@
-u.s. stocks were mostly higher friday <COMMA> trimming weekly losses <COMMA> while shares of international business machines corp. fell sharply <COMMA> pressuring the dow jones industrial average <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> slammed in large part by ibm ibm <COMMA> which dropped nearly <NUM> percent a day after the computer-services provider missed wall street forecasts for revenue and earnings <PUNC>
-shares of microsoft corp. msft climbed <NUM> percent after the software maker late wednesday reported third-quarter income that topped wall street s projections <PUNC>
-general electric co. ge fell <NUM> percent after the jet-engine manufacturer reported profit in line with estimates <PUNC>
-mcdonald s corp. mcd slid after the fast-food chain reported first-quarter profit that missed estimates <PUNC>
-<PAR>

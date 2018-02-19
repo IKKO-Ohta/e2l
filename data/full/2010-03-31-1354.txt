@@ -1,7 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <PUNC>
-all but three of the dow s components opened in the red <PUNC>
-leading the declines <COMMA> boeing ba dropped <NUM> percent <PUNC>
-hewlett-packard hpq was also weak <COMMA> down <NUM> percent <PUNC>
-reversing its tuesday climb <COMMA> verizon vz edged down <NUM> percent <PUNC>
-offsetting some of the losses <COMMA> intel intc rose <NUM> percent <COMMA> while chevron cvx ticked up fractionally as crude-oil prices climbed above dollar <NUM> per barrel <PUNC>
-<PAR>

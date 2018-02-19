@@ -1,6 +1,0 @@
-the dow jones industrial average dji ended down <NUM> points <COMMA> at <NUM> <PUNC>
-for the week <COMMA> the benchmark index fell <NUM> percent <PUNC>
-shares in boston scientific corp. bsx fell <NUM> percent to dollar <NUM> in pre-market trading on instinet after the medical equipment maker came in with a late bid to acquire guidant corp. gdt <COMMA> in an atttempt to swoop in and grab the company from johnson & johnson <PUNC>
-jnj <PUNC>
-verizon communications vz should edge higher out of the gate after the telecom operator said it will sell or spin off its directories unit valued at more than dollar <NUM> billion <PUNC>
-<PAR>

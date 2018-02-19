@@ -1,3 +1,0 @@
-u.s. stocks slipped at friday s start <COMMA> with investors pausing after a two-day leap that came in relief over europe and added <NUM> points to the dow industrials <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
-<PAR>

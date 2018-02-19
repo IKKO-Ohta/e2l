@@ -1,5 +1,0 @@
-the dow jones industrial average dji <COMMA> which during the day fell more than <NUM> points <COMMA> was on track for its worst single-day point drop in three months <PUNC>
-the dow was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <COMMA> paced by equipment maker caterpillar inc. cat and aluminium giant alcoa inc. aa <COMMA> both off nearly <NUM> percent <PUNC>
-drug goliaths pfizer inc. pfe and merck & co. mrk were among the trio of blue chips on the rise <COMMA> each up about <NUM> percent after reporting earnings that topped estimates <PUNC>
-investors also sought refuge in discount retailer and dow component wal-mart stores inc. wmt <COMMA> its shares up <NUM> percent <PUNC>
-<PAR>

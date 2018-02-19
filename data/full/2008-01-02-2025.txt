@@ -1,7 +1,0 @@
-u.s. stocks on wednesday extended the prior session s losses into <NUM> <COMMA> with the dow poised to record its steepest start-of-a-year drop yet <COMMA> as spiking commodity prices and a measure of manufacturing activity furthered concerns about the economy <PUNC>
-of the blue-chip index s <NUM> components <COMMA> <NUM> remained lower <COMMA> with technology stocks the hardest hit <PUNC>
-intel corp. intc was down <NUM> percent and ibm ibm dropped <NUM> percent <PUNC>
-drugmaker pfizer inc. pfe was the dow s sole advancing issue <COMMA> recently ahead <NUM> percent <PUNC>
-on monday <COMMA> stocks fell amid worries about economic growth <COMMA> with the dow industrials losing <NUM> points <COMMA> the nasdaq composite shedding <NUM> points and the s&p <NUM> losing <NUM> points <PUNC>
-the credit crunch continued to take its toll <COMMA> with phh corp. phh <COMMA> a provider of residential-mortgage and vehicle-fleet-management services <COMMA> saying it had called off its plan to be acquired by general electric co. s ge ge capital financing unit <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-alcoa inc. aa was the measure s worst performer <COMMA> off <NUM> percent as metals futures fell <PUNC>
-cisco systems inc. csco was the dow s sole gainer <COMMA> up <NUM> percent after the big maker of networking gear reported a <NUM> percent profit rise and said current quarter sales may grow as much as <NUM> percent <PUNC>
-the company also plans to hire <NUM> to <NUM> workers over the next few quarters <PUNC>
-<PAR>

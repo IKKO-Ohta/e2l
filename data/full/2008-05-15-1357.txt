@@ -1,3 +1,0 @@
-the dow jones industrial average fell <NUM> points to <NUM> <PUNC>
-word from cbs cbs that it would buy cnet networks cnet for dollar <NUM> billion begs the question of what is walt disney dis going to do <PUNC> and there should be a bunch of acquisition targets in the online space <COMMA> while yahoo yhoo gets the carl icahn treatment <COMMA> said hogan of r <PUNC>
-<PAR>

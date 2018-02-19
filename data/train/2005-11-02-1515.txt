@@ -1,3 +1,0 @@
-the dow jones industrial average dji bounced off a early low of <NUM> <COMMA> edging up <NUM> points to <NUM> <PUNC>
-within the dow industrials <COMMA> general motors corp. gm fell as much as <NUM> percent to dollar <NUM> on the fallout over its precipitous decline in vehicle sales in october <PUNC>
-<PAR>

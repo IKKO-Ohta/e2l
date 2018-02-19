@@ -1,3 +1,0 @@
-u.s. stocks ended mixed in post-holiday trading monday <COMMA> with american international group inc. lifting financials <COMMA> while the dow jones industrial average continued its retreat from a 26-month high <PUNC>
-after notching a fourth straight week of gains thursday <COMMA> the dow dji ended off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components declining <PUNC>
-<PAR>

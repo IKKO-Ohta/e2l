@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-dow-component home depot inc. hd dropped <NUM> percent <PUNC>
-the company said late wednesday that it has routinely backdated stock options for the past <NUM> years <PUNC>
-<PAR>

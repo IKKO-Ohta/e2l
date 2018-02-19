@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> boosted by rare encouraging news from the labor market <PUNC>
-the dow rose <NUM> percent to <NUM> <PUNC>
-boeing led the measure higher <COMMA> rising <NUM> percent <COMMA> after the aircraft maker said it plans to double the number of employees at its parts factory in northern china to keep up with demand <COMMA> according to state media <PUNC>
-<PAR>

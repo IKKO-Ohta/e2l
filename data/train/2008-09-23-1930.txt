@@ -1,4 +1,0 @@
-after triple-digit rises and declines during the session <COMMA> the dow jones industrial average dji was recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components posting late-session gains <PUNC>
-technology companies led the dow s minority rise <COMMA> with microsoft corp. msft up <NUM> percent and intel corp. intc <COMMA> ahead <NUM> percent <PUNC>
-dow laggards included general motors corp. gm <COMMA> down <NUM> percent and general electric co. ge <COMMA> off <NUM> percent <PUNC>
-<PAR>

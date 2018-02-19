@@ -1,3 +1,0 @@
-on thursday <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-shares of dow component h-p hpq rose <NUM> percent on its plan to lay off about <NUM> employees and after it reported quarterly sales and profit that beat expectations <PUNC>
-<PAR>

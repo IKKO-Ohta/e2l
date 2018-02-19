@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-shares in general motors corp gm fell <NUM> percent to dollar <NUM> in pre-market trading in instinet even as the carmaker denied speculation it was planning to file for bankruptcy <PUNC>
-verizon communications vz edged up <NUM> percent to dollar <NUM> in thin pre-market dealings after the telecom giant posted forecast-beating third-quarter results <COMMA> buoyed by continued strength in its wireless business <PUNC>
-exxon mobil corp. xom <COMMA> another dow component <COMMA> dipped <NUM> percent to dollar <NUM> in pre-market trade as the world s largest publicly-traded oil compan posted adjusted quarterly results that fell short of analyst expectations <PUNC>
-<PAR>

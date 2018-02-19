@@ -1,7 +1,0 @@
-on monday <COMMA> the three-year anniversary of the flash crash that had the dow industrials losing almost <NUM> points in less than half an hour <COMMA> the recently started trend was in play <PUNC>
-read wsj s moneybeat blog on what investors have learned from the flash crash <PUNC>
-the dow jones industrial average dji fell nearly two points to <NUM> <COMMA> with <NUM> of its <NUM> components climbing <PUNC>
-dow component intel corp. intc shares held steady after the chip manufacturer s mcafee security unit offered to purchase finland s stonesoft oyj for dollar <NUM> million <PUNC>
-stocks finished last week with a blockbuster session <COMMA> with the dow industrials ending at a record close of <NUM> <COMMA> a gain of <NUM> points <COMMA> while the standard & poor s <NUM> index spx for the first time closed above <NUM> <PUNC>
-also <PUNC> see lessons from past dow milestones <PUNC>
-<PAR>

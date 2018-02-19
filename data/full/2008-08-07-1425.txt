@@ -1,2 +1,0 @@
-off more than <NUM> points early on <COMMA> the dow jones industrial average was more recently off <NUM> points at <NUM> <PUNC>
-<PAR>

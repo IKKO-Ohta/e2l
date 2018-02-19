@@ -1,4 +1,0 @@
-the market came off its lows late in the session after dow jones reported details of a draft proposal at the eu summit <PUNC>
-but then the indexes sank further <COMMA> with the dow average sinking as much as <NUM> points <COMMA> after reuters cited a senior german source in saying germany opposed some measures in the draft conclusions <PUNC>
-down after a three-day rise <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

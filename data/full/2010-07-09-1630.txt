@@ -1,8 +1,0 @@
-the action was quiet <COMMA> with investors taking a breather after they had pushed stocks higher for three-straight sessions <PUNC>
-the dow jones industrial average dji is up nearly <NUM> percent for the week <COMMA> thanks in part to investors hopes that the market s drop last week to fresh lows for the year may have exaggerated expected impacts to corporate earnings from the slumping euro and slower global growth <PUNC>
-the dow jones industrial average eked out a gain of less than a point to <NUM> in recent trading <PUNC>
-alcoa aa was among the measure s top performers with a <NUM> percent rise ahead of the aluminum giant s second-quarter results due monday <PUNC>
-caterpillar cat was also strong <COMMA> up <NUM> percent <COMMA> and dupont dd climbed <NUM> percent <PUNC>
-chevron cvx rose <NUM> percent as crude-oil futures climbed above dollar <NUM> a barrel <PUNC>
-offsetting the gains <COMMA> johnson & johnson jnj fell <NUM> percent <COMMA> pfizer pfe slipped <NUM> percent and hewlett-packard hpq dropped <NUM> percent <PUNC>
-<PAR>

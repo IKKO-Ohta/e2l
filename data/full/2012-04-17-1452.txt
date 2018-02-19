@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its first foray above the <NUM> level in more than a week <PUNC>
-beverage maker coca-cola co. ko also reported earnings and revenue that topped estimates <COMMA> while health-care conglomerate johnson & johnson jnj reported earnings that exceeded expectations <PUNC>
-<PAR>

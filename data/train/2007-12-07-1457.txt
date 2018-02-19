@@ -1,2 +1,0 @@
-up at the start <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-<PAR>

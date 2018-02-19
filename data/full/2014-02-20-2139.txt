@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> after showing an intraday gain of more than <NUM> points <PUNC>
-verizon communications inc. vz fared best among the dow components <COMMA> jumping <NUM> percent after jefferies analysts said now is a good time to buy verizon shares <PUNC>
-wal-mart wmt shares finished <NUM> percent lower after the dow component delivered a weaker-than-expected forecast for its recently started fiscal year and current quarter <PUNC>
-<PAR>

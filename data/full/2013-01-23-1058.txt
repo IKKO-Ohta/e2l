@@ -1,4 +1,0 @@
-futures for the dow jones industrial average djh3 fell <NUM> points to <NUM> <COMMA> while those for the standard & poor s <NUM> sph3 fell <NUM> points to <NUM> <PUNC>
-mcdonald s mcd is forecast to report fourth-quarter earnings of dollar <NUM> a share <PUNC>
-shares of ibm ibm were peeking higher in premarket trading after the bellwether reported quarterly earnings that came in ahead of expectations and delivered upbeat earnings guidance <PUNC>
-<PAR>

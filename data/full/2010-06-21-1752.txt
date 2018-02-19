@@ -1,4 +1,0 @@
-u.s. stocks stepped higher monday <COMMA> with the dow industrials up for a fifth consecutive session <COMMA> after china said it would let its currency appreciate against the dollar <COMMA> boosting hopes for u.s. manufacturers and other exporters <PUNC>
-after rising <NUM> points <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-aluminum maker alcoa inc. aa rose <NUM> percent <COMMA> fronting the gains that included <NUM> of the dow s <NUM> components <PUNC>
-<PAR>

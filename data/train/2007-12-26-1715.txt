@@ -1,7 +1,0 @@
-the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> seven traded higher <PUNC>
-among the biggest decliners were general motors corp. gm <COMMA> whose shares fell <NUM> percent to dollar <NUM> <COMMA> wal-mart wmt <COMMA> down <NUM> percent to dollar <NUM> <COMMA> and citigroup c <COMMA> down <NUM> percent at dollar <NUM> <PUNC>
-bucking the negative trend <COMMA> shares of exxon mobil corp. xom gained <NUM> percent to stand at dollar <NUM> <COMMA> as crude-oil futures rallied <PUNC>
-fellow blue chip caterpillar inc. cat also rose <COMMA> tacking on <NUM> percent to dollar <NUM> <PUNC>
-in a shortened trading session monday <COMMA> the dow rose <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
-<PAR>

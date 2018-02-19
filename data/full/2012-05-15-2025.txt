@@ -1,5 +1,0 @@
-u.s. stocks declined tuesday <COMMA> with the dow industrials ending near a four-month low <COMMA> as economic reports failed to deflect the latest breakdown in greece s attempts to form a coalition <PUNC>
-finishing lower for a ninth out of the last <NUM> sessions <COMMA> the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-j.p. morgan chase & co. jpm rose <NUM> percent after chief executive jamie dimon said he did not envision the bank s dollar <NUM> billion trading loss impacting the bank s dividend <PUNC>
-home depot inc. hd fell <NUM> percent after the home-improvement retailer s revenue outlook missed estimates <PUNC>
-<PAR>

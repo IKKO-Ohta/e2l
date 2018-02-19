@@ -1,3 +1,0 @@
-the dow jones industrial average dji at midday was off <NUM> points at <NUM> <PUNC>
-the s&p <NUM> index spx declined <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
-<PAR>

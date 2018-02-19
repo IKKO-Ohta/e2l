@@ -1,4 +1,0 @@
-even with a big rally on friday <COMMA> stocks still finished lower last week with the dow jones industrial average dji and the s&p <NUM> index spx both off <NUM> percent and the nasdaq composite index rixf down <NUM> percent <PUNC>
-in addition to more than a third of the dow <NUM> reporting this week <COMMA> another <NUM> companies on the s&p <NUM> report earnings <PUNC>
-all together <COMMA> about a third of the index s market cap <PUNC>
-<PAR>

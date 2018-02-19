@@ -1,5 +1,0 @@
-after briefly dipping in negative territory <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-leading the dow were the likes of alcoa inc. aa <COMMA> boeing co. ba <COMMA> and ibm ibm <PUNC>
-among blue chips <COMMA> caterpillar inc. cat was the biggest gainer <COMMA> rising <NUM> percent after competitor joy global inc. joyg issued an upbeat outlook for the coming <NUM> months <PUNC>
-coca cola co. ko gained <NUM> percent after citigroup upgraded the stock to buy from hold <PUNC>
-<PAR>

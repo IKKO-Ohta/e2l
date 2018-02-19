@@ -1,6 +1,0 @@
-at 12:05 p.m. eastern <COMMA> the dow jones industrial average dji was down134.13 points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <PUNC>
-the s&p <NUM> index spx shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf fared better <COMMA> off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-retail stocks also traded lower <COMMA> with home depot inc. hd and lowe s cos. low among the larger decliners after their stocks were downgraded <PUNC>
-<PAR>
-in addition <COMMA> at least half a dozen retailers are expected to report quarterly financial results during the week <COMMA> including macys inc. m on wednesday and wal-mart stores inc. wmt on thursday <PUNC>
-<PAR>

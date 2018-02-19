@@ -1,5 +1,0 @@
-friday s gains sent the dow jones industrial average into positive territory for the year <COMMA> alongside the s&p <NUM> and nasdaq composite <PUNC>
-trading volume on wall street was the lowest this year <COMMA> according to factset <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and finished the week <NUM> percent higher <PUNC>
-the blue-chip index turned positive for the year <PUNC>
-<PAR>

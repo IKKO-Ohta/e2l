@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> snapping a seven-session run of gains <COMMA> a feat not equaled since march <NUM> <PUNC>
-boeing co. ba fell <NUM> percent after the aerospace giant lost a dollar <NUM> billion air canada order for its <NUM> and <NUM> jets <PUNC>
-the cancellation came after members of the carrier s pilots union rejected a cost-cutting deal that would have cleared the way for the purchase <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji rallied <NUM> points to <NUM> <COMMA> adding up to a <NUM> percent gain for the week <PUNC>
-the s&p <NUM> index spx gained <NUM> points to <NUM> friday and <NUM> percent this week <PUNC>
-<PAR>

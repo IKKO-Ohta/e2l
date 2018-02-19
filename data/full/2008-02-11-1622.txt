@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to 12,145.3. <COMMA> with aig aig leading the declines <COMMA> its stock off <NUM> percent <PUNC>
-other blue-chip financials fell as well <COMMA> with citigroup inc. c off <NUM> percent <PUNC> american express co. axp down <NUM> percent and j.p. morgan chase jpm off <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were trading in positive turf <COMMA> with general motors corp. gm gaining the most <COMMA> up <NUM> percent <PUNC>
-yahoo yhoo rejected microsoft s takeover bid as inadequate <COMMA> while microsoft msft is expected to take its offer directly to shareholders as its next move <PUNC>
-ahead of the opening bell <COMMA> dow jones & co. disclosed plans to replace dow industrials components altria group inc. mo and honeywell international inc. hon with bank of america corp. bac and chevron corp. cvx <COMMA> effective feb. <NUM> <PUNC>
-<PAR>

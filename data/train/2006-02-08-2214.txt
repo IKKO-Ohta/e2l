@@ -1,8 +1,0 @@
-u.s. stocks ended higher wednesday as strong earnings from cisco systems inc. helped the nasdaq composite snap a four-session losing streak <COMMA> and a rally in pfizer inc shares on a possible disposal of its consumer products unit contributed to a triple-digit gain on the dow jones industrial average <PUNC>
-the dow industrials dji ended just off its high for the session <COMMA> up <NUM> points at <NUM> <PUNC>
-shares in pfizer inc. pfe rose <NUM> percent to dollar <NUM> after the drug giant late tuesday said it will explore strategic alternatives for its consumer products business <COMMA> including a spinoff or sale <PUNC>
-johnson & johnson shares jnj climbed <NUM> percent to dollar <NUM> after boston scientific corp. bsx said it had lost market share to the drug company in the area of drug-coated stents <PUNC>
-johnson & johnson is also being touted by some analysts as a possible acquirer of pfizer s consumer products business <PUNC>
-mcdonald s mcd added <NUM> cents to dollar <NUM> after reporting a <NUM> percent advance in january same-store sales <PUNC>
-shares in general motors corp. gm fell <NUM> percent to dollar <NUM> after deutsche bank cut the automaker from to sell from hold <COMMA> saying it continues to be disappointed by the limited cash savings targeted by the current restructuring efforts <PUNC>
-<PAR>

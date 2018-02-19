@@ -1,3 +1,0 @@
-after falling <NUM> points <COMMA> the dow jones industrial average dji recovered the lions share of its losses to end at <NUM> <COMMA> down <NUM> percent for the session and <NUM> percent for the week <PUNC>
-eighteen of the blue-chip index s <NUM> components lost ground <COMMA> including alcoa inc. aa <COMMA> which unofficially starts the first-quarter earnings-reporting season on monday <COMMA> after the market close <PUNC>
-<PAR>

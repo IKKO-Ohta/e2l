@@ -1,5 +1,0 @@
-after climbing out of the red <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <COMMA> with the blue-chip index s winning streak extended to an eighth consecutive session its longest run since april <NUM> <PUNC>
-the s&p <NUM> index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-he also noted that thin late-summer trading volumes accentuated market movements and remarked that boeing co. s ba outsized gains helped lift the dow more than anything else <PUNC>
-<PAR>

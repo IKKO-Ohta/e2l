@@ -1,3 +1,0 @@
-the dow jones industrial average dji was down <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components retreated <COMMA> led by shares of dupont dd <COMMA> merck & co. mrk <COMMA> and home depot inc. hd <PUNC>
-among blue chips <COMMA> general motors corp. gm <COMMA> walt disney co. dis and dupont are all due to make presentations to analysts <PUNC>
-<PAR>

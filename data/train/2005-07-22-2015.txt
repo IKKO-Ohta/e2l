@@ -1,3 +1,0 @@
-the dow jones industrial average dji shot into positive territory <COMMA> trading up <NUM> points at <NUM> <COMMA> while the nasdaq composite rixf lightened prior losses to trade down <NUM> at <NUM> <PUNC>
-microsoft msft fell <NUM> cents to dollar <NUM> after that company also reported results that disappointed investors and also offered a disappointing outlook <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-u.s. stocks gained ground thursday <COMMA> with the dow jones industrial average and the s&p <NUM> at their best levels in nearly <NUM> years <COMMA> after tame inflation data lifted hopes the federal reserve may stop raising interest rates sooner rather than later <PUNC>
-the dow industrials dji were last up <NUM> points at <NUM> <PUNC>
-altria group inc. shares mo climbed <NUM> cents to dollar <NUM> after the food and tobacco giant said it plans to record roughly dollar <NUM> billion in tax benefits in the first quarter following the conclusion of an examination of its tax returns running from <NUM> through <NUM> by the internal revenue service <PUNC>
-the company lifted its <NUM> earnings outlook as a result of the tax decision <PUNC>
-ford motor co. f fell <NUM> cents to dollar <NUM> after j.p. morgan slashed its rating on the carmaker to underweight from overweight <PUNC>
-the broker cited concern about sports utility vehicle sales and the launch of a general motors corp. gm pick-up truck to rival ford s own product offering <PUNC>
-gm shares gm rallied <NUM> percent <PUNC>
-<PAR>

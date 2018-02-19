@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> its highest close since may <NUM> <PUNC>
-all but one of the dow s <NUM> components rose <COMMA> including international business machines corp. ibm <COMMA> which was up <NUM> percent after the company said it would buy business-software firm netezza corp. nz for dollar <NUM> billion <PUNC>
-<PAR>

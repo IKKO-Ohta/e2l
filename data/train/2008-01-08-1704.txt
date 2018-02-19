@@ -1,3 +1,0 @@
-up more than <NUM> points earlier on <COMMA> the dow jones industrial average dji more recently fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <COMMA> led by financials <COMMA> including american express co. axp <COMMA> which was down <NUM> percent <COMMA> citigroup inc. c <COMMA> off <NUM> percent <COMMA> and j.p. morgan chase jpm <COMMA> down <NUM> percent <PUNC>
-other blue-chip losses included shares of microsoft corp. msft <COMMA> off <NUM> percent <COMMA> after the technology giant s announcement that it would pay dollar <NUM> billion to acquire norwegian software developer fast search & transfer <PUNC>
-<PAR>

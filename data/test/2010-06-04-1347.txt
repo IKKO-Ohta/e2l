@@ -1,4 +1,0 @@
-the dow jones industrial average <COMMA> which is coming off its first two-day winning streak in more than a month <COMMA> was recently down <NUM> points <COMMA> off <NUM> percent <COMMA> at <NUM> <PUNC>
-given these disappointing numbers <COMMA> it does look like we re headed for a re-test of the lows from last week <COMMA> when the dow posted its first close below <NUM> since february <COMMA> said peter cardillo <COMMA> chief market economist at avalon partners <PUNC>
-the trend in private-sector jobs is still moving in the right direction here <COMMA> but the pace is really anemic <PUNC>
-of course <COMMA> that means people have to take another look at their profit forecasts and everything else <PUNC>

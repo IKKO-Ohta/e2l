@@ -1,8 +1,0 @@
-the dow jones industrial average dji managed to eke out its seventh-straight gain wednesday but market watchers are concerned about how much longer the winning streak can last if economic data continue to disappoint <PUNC>
-investors were initially encouraged that a <NUM> percent rise in j.p. morgan s jpm second-quarter profit was due in part to a <NUM> percent reduction in reserves for loans unlikely to be paid back <PUNC>
-however <COMMA> chief executive jamie dimon poured some cold water on the market s excitement over the results <COMMA> noting that losses from bad consumer loans remain at extremely high levels <PUNC>
-the dow fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-weighing on the measure <COMMA> intel fell <NUM> percent <COMMA> erasing part of the chip maker s wednesday climb that had followed a strong earnings report <PUNC>
-alcoa aa was also weak <COMMA> off <NUM> percent <COMMA> and bank of america bac fell <NUM> percent <PUNC>
-j.p. morgan jpm led the dow s gainers <COMMA> up <NUM> percent <PUNC>
-<PAR>

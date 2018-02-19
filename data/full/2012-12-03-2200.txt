@@ -1,3 +1,0 @@
-the dow jones industrial average dji ?shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> out of <NUM> components finishing the day lower <PUNC>
-the dow snapped a three-day winning streak <PUNC>
-<PAR>

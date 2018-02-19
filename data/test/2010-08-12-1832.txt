@@ -1,5 +1,0 @@
-the dow jones industrial average dji gave up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> putting the measure s drop this week at <NUM> percent <PUNC>
-the index fell some <NUM> points in the prior two sessions combined as recent economic reports have pointed to slower economic growth <COMMA> reigniting fears of a double-dip recession <PUNC>
-the latest economic snapshots showed u.s. weekly jobless claims unexpectedly rose and euro-zone industrial production fell <PUNC>
-cisco csco <COMMA> a technology bellwether seen as a proxy for broad corporate spending <COMMA> reported revenue that fell short of forecasts and offered a gloomy sales outlook <PUNC>
-<PAR>

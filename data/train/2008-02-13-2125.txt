@@ -1,4 +1,0 @@
-the dow jones industrial average dji rallied <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-twenty-five of its <NUM> components moved higher <COMMA> led by american express co. axp <COMMA> shares of which gained <NUM> percent <PUNC>
-blue chip coca-cola co. ko reported <NUM> percent quarterly profit growth and said that it expects to enjoy a good <NUM> <COMMA> but its shares were among the dow s laggards <COMMA> and finished off <NUM> percent <PUNC>
-<PAR>

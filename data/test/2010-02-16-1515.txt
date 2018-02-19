@@ -1,8 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-chevron corp. cvx was its best performer <COMMA> up <NUM> percent <PUNC>
-the stock was boosted by a rise in crude-oil futures in addition to a ratings upgrade from bernstein research <PUNC>
-among the dow s other strong performers <COMMA> merck & co. mrk gained <NUM> percent after its fourth-quarter profit and sales rose sharply on its recent takeover of schering-plough <PUNC>
-the drug maker also laid out plans to cut <NUM> percent of its work force to generate cost savings from the deal <PUNC>
-however <COMMA> kraft kft kept the dow s gains in check <PUNC>
-the stock fell <NUM> percent as its fourth-quarter revenue came in slightly short of analysts expectations <PUNC>
-<PAR>

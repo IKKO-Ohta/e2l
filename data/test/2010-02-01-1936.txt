@@ -1,8 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> led by a <NUM> percent gain in exxon xom <COMMA> which reported fourth-quarter earnings above analysts estimates <PUNC>
-other commodity producers rallied <PUNC>
-alcoa aa was up <NUM> percent <PUNC>
-us steel gained x <NUM> percent <PUNC>
-freeport-mcmoran copper & gold fcx rose <NUM> percent . <PUNC>
-investors on monday are trying to turn the page on last month s <NUM> percent decline in the dow <COMMA> the biggest monthly decline since february <NUM> <PUNC>
-the recent slide coincides with what has generally been a wave of better-than-expected profit reports <COMMA> though investors often bet last month that share prices had factored in the strong earnings prior to earnings season <PUNC>
-<PAR>

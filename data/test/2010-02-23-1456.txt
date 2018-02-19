@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> <COMMA> or <NUM> percent <COMMA> at <NUM> in early trading <PUNC>
-home depot inc. hd led the dow <COMMA> with the home-improvement retailer s stock climbing <NUM> percent after announcing its first dividend hike since <NUM> as its earnings topped estimates <PUNC>
-boeing co. ba was the measure s worst performer <PUNC>
-its stock fell <NUM> percent <PUNC>
-<PAR>

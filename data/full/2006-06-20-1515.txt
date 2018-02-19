@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-of the <NUM> dow-component stocks <COMMA> <NUM> contributed to gains <PUNC>
-<PAR>

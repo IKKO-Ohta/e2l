@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose nearly <NUM> points to <NUM> <PUNC>
-possibly the most anticipated number <COMMA> wal-mart stores inc. wmt reported a <NUM> percent rise in same-stores sales for august <COMMA> but warned hurricane katrina and higher oil prices could pressure september sales <PUNC>
-shares of wal-mart added two cents to dollar <NUM> out of the gate <PUNC>
-among the sector s key players <COMMA> intel intc was down <NUM> percent <COMMA> texas instruments tsn fell <NUM> percent to dollar <NUM> while applied materials inc. amat dropped <NUM> percent <PUNC>
-<PAR>

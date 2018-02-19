@@ -1,3 +1,0 @@
-the dow jones industrial average dji slid <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-telecommunications shares at&t inc. t and verizon communications vz fell the most <PUNC>
-<PAR>

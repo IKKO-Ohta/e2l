@@ -1,5 +1,0 @@
-after a roughly 40-point rise <COMMA> the dow jones industrial average dji was lately off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-on the dow average <COMMA> verizon communications inc. vz gained <NUM> percent on a wall street journal report that apple inc. aapl is developing a version of its iphone designed to work over the wireless carrier s network <PUNC>
-at&t t <COMMA> bank of america corp. bac and travelers cos. trv were the worst performers <PUNC>
-home depot inc. hd and lowe s cos. low gained after the s&p/case-shiller index of home prices beat expectations <PUNC>
-<PAR>

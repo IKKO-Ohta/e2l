@@ -1,5 +1,0 @@
-up for a sixth consecutive session and <NUM> percent for the week <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> or less than <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the dow on thursday closed at a level not hit since just before lehman brothers collapsed in september <NUM> <COMMA> as wall street celebrated the federal open market committee announcement the prior afternoon that it would buy as much as dollar <NUM> billion in bonds over an extended period <PUNC>
-jpmorgan chase & co. jpm was the dow s best performer during the week <COMMA> its shares up <NUM> percent <COMMA> bolstered by reports that the fed might let banks <COMMA> particularly the larger institutions <COMMA> resume dividend hikes <PUNC>
-on earnings front <COMMA> two dow components and <NUM> s&p <NUM> companies are expected to report earnings <COMMA> including retailer macy s inc. m and technology giant cisco systems inc. csco on wednesday <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> also setting a record high and extending its win streak to six sessions the longest since december <PUNC>
-the index gained a little more than <NUM> percent on the week <PUNC>
-<PAR>

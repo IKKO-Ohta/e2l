@@ -1,4 +1,0 @@
-u.s. stocks wavered friday as the dow industrials and s&p <NUM> struggled to surpass two-year highs while the nasdaq composite tallied solid gains on upbeat results from oracle corp. and research in motion ltd <PUNC>
-after brief forays into positive turf <COMMA> the dow jones industrial average dji was lately off <NUM> points to <NUM> <COMMA> with its <NUM> components evenly divided between gains and losses <PUNC>
-on thursday <COMMA> the dow and s&p <NUM> closed at their highest levels since september <NUM> <COMMA> with the dow now up <NUM> percent on the week and the s&p <NUM> percent higher than last friday s close <PUNC>
-<PAR>

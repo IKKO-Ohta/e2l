@@ -1,7 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-among the dow industrials <COMMA> shares of microsoft msft fell <NUM> percent to dollar <NUM> as the biggest percentage loser among blue chips <COMMA> after goldman sachs suggested that google goog may eventually offer a product that competes with microsoft s outlook product <COMMA> and its office product as well <PUNC>
-alcoa aa was down <NUM> cents at dollar <NUM> <COMMA> extending the prior session s losses amid concern that high energy prices will hurt its bottom line <PUNC>
-hewlett-packard hpq lost <NUM> cents to dollar <NUM> <COMMA> hurt by rival lexmark s third-quarter profit warning <PUNC>
-also within the dow <COMMA> procter & gamble pg fell <NUM> percent to dollar <NUM> after citigroup cut the household-products maker to hold from buy <COMMA> citing concerns over raw materials that the broker said it will limit upside to earnings-per-share estimates <PUNC>
-in addition <COMMA> citigroup also cut its price target to dollar <NUM> from dollar <NUM> <PUNC>
-<PAR>

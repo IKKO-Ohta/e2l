@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting declines and financials leading the way lower <PUNC>
-early broker action had oppenheimer & co. cutting first-quarter profit forecasts for u.s. banks on average by <NUM> percent <COMMA> led by citigroup inc. c <COMMA> its stock recently off <NUM> percent <PUNC>
-<PAR>

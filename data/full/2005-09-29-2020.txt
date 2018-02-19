@@ -1,4 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points <COMMA> or almost <NUM> percent <COMMA> at <NUM> <COMMA> marking the fourth straight session of gains for the dow <PUNC>
-dow component general electric co ge closed up <NUM> cents at dollar <NUM> <PUNC>
-the health-care unit will buy idx systems corp. in a deal to create a dollar <NUM> billion health-care technology vendor <COMMA> the companies said thursday <PUNC>
-<PAR>

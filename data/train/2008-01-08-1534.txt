@@ -1,2 +1,0 @@
-up <NUM> points ahead of the home sales data <COMMA> the dow jones industrial average dji more recently gained <NUM> points to <NUM> <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji reversed early gains to lose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
-the blue-chip average was boosted by gains in the likes of boeing co. ba <COMMA> alcoa inc. aa and verizon communications vz <COMMA> while hewlett-packard co. hpq and merck mrk weighed <PUNC>
-and intel corp intc lost <NUM> percent after earlier rising in sympathy with fellow chip-maker analog devices <PUNC>
-<PAR>

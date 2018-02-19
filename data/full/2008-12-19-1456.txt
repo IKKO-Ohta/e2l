@@ -1,7 +1,0 @@
-the dow jones industrial average dji climbed <NUM> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-general motors corp. gm led the blue-chip gains <COMMA> up <NUM> percent <PUNC>
-off the dow <COMMA> shares of ford motor co. f climbed <NUM> percent <PUNC>
-u.s. stocks ended lower thursday <COMMA> with energy-related shares pacing losses after the price of crude oil fell to a four-year low <PUNC>
-the dow jones industrial average lost <NUM> points <COMMA> the s&p <NUM> index fell <NUM> points and the nasdaq composite index gave up <NUM> points <PUNC>
-u.s. firms that were downgraded or had a banking division downgraded include bank of america bac <COMMA> citigroup c <COMMA> goldman sachs gs <COMMA> j.p. morgan jpm <COMMA> morgan stanley ms and wells fargo <PUNC>
-<PAR>

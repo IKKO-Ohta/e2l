@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> weighed by a near <NUM> percent slump for shares of alcoa inc. aa <PUNC>
-shares of alcoa inc. aa fell <NUM> percent to dollar <NUM> after the aluminum giant and dow component posted late tuesday third-quarter profits and sales that fell short of analyst expectations because of a steep drop in metals prices and rising costs <PUNC>
-<PAR>

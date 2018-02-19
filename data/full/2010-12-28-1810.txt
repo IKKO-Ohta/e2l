@@ -1,2 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by oil giant chevron corp. cvx <COMMA> up <NUM> percent <PUNC>
-<PAR>

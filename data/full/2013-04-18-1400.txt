@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with unitedhealth group inc. unh leading declines that included <NUM> of its <NUM> components <PUNC>
-verizon communications inc. vz and morgan stanley ms topped the morning parade of corporate earnings results <COMMA> while google inc. goog <COMMA> microsoft corp. msft and international business machines ibm are due after the close <PUNC>
-american express co. axp shares tilted higher thursday after declining in after-hours trade wednesday as earnings topped forecasts but revenue fell short <PUNC>
-<PAR>

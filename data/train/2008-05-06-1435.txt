@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <COMMA> the bleeding led by citigroup inc. c <COMMA> off <NUM> percent <PUNC>
-alcoa inc. aa fronted the dow s gainers <COMMA> up <NUM> percent <PUNC>
-after the close <COMMA> walt disney co. dis and cisco systems inc. csco report quarterly financials <PUNC>
-<PAR>

@@ -1,9 +1,0 @@
-the future contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
-futures contracts for the s&p <NUM> and the nasdaq <NUM> both were flat at <NUM> and <NUM> <PUNC>
-the dow jones prediction is that the chicago pmi survey will show a headline reading of <NUM> percent for september <COMMA> up from <NUM> percent in august <PUNC>
-in premarket electronic trade <COMMA> dow component boeing ba was <NUM> percent higher at dollar <NUM> <COMMA> after the company s machinists union approved a new three-year contract thursday <PUNC>
-the move ends a strike and restarts the world s largest aerospace company s jetliner production after almost a month of inactivity <PUNC>
-wal-mart stores wmt <COMMA> also in the dow <COMMA> was <NUM> cents lower at dollar <NUM> before the company ahead of the opening <PUNC>
-the retailer <COMMA> which entered japan in <NUM> by investing in struggling supermarket operator seiyu ltd. <COMMA> will raise its stake to over <NUM> percent in december <COMMA> seiyu officials said <PUNC>
-currently <COMMA> wal-mart has a <NUM> percent stake in the japanese company <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-u.s. stocks opened higher thursday <COMMA> lifting the dow jones industrial average into positive territory for the week <COMMA> as investors bet on at least a short-term fix to avert the so-called fiscal cliff <PUNC>
-after its first gain in three days the prior session <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

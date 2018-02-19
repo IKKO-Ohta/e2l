@@ -1,4 +1,0 @@
-the dow jones industrial average dji closed down <NUM> point at <NUM> <PUNC>
-for the month <COMMA> the dow rose <NUM> percent <COMMA> the s&p <NUM> advanced <NUM> percent and the nasdaq composite gained <NUM> percent <PUNC>
-wal-mart stores inc. s wmt monthly results were at the high end of its forecasts.the stock rose <NUM> percent to dollar <NUM> <PUNC>
-<PAR>

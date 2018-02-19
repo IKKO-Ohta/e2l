@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-twenty-three of its <NUM> components gained <COMMA> led by insurer travelers companies inc. trv <COMMA> up <NUM> percent <PUNC>
-hewlett-packard co. hpq climbed <NUM> percent one day after cisco systems inc. csco announced its first dividend <PUNC>
-trv <PUNC>
-<PAR>

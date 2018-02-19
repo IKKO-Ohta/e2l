@@ -1,4 +1,0 @@
-the dow jones industrial average dji was nearly flat <NUM> in recent activity <COMMA> with <NUM> out of <NUM> components gaining <COMMA> after being down as much as <NUM> points and up as much as <NUM> points higher earlier <PUNC>
-on the dow <COMMA> 3m co. mmm shares led the index rising <NUM> percent <COMMA> while shares of walt disney co. dis rose less than <NUM> percent following the media conglomerate s earnings late tuesday <PUNC>
-hewlett-packard co. hpq were nearly flat after being up more than <NUM> percent earlier after a media report said tuesday that h-p s board is studying a breakup of the technology company <PUNC>
-<PAR>

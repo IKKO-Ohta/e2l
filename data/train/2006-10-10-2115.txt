@@ -1,8 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of <NUM> components contributing to gains <PUNC>
-it was the index s fourth record close in two weeks <COMMA> less than a point above thursday s close of <NUM> <PUNC>
-gains for american express co. axp <COMMA> alcoa inc. aa <COMMA> intel corp. intc <COMMA> general motors corp. gm and at&t inc. t offset losses for dupont dd and altria group inc. mo <PUNC>
-the blue-chip barometer had been up as much as <NUM> points at an all-time high of <NUM> in intraday trading <PUNC>
-the dow has now made new highs in five of the past six sessions <PUNC>
-dow industrials component alcoa inc. aa reported its quarterly earnings after the market closed <PUNC>
-the release of aluminum maker s earnings is traditionally viewed as the beginning of the earnings season <PUNC>
-<PAR>

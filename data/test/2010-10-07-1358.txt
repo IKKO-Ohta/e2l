@@ -1,4 +1,0 @@
-u.s. stocks rose thursday <COMMA> putting the dow jones industrial average within reach of the key <NUM> level as better-than-expected employment and retail-sales numbers encouraged investors ahead of quarterly earnings reports and monthly jobs data <PUNC>
-the dow dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-alcoa aa led the dow s ascent with a <NUM> percent increase ahead of the aluminum giant s third-quarter earnings report due after the close <COMMA> marking the start of the reporting season <PUNC>
-<PAR>

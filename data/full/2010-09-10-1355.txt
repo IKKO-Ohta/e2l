@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> point to <NUM> <PUNC>
-chevron cvx limited the decline with a <NUM> percent jump after the international energy agency revised slightly higher its estimate for global oil demand for <NUM> <COMMA> although it also warned that there is a continuing significant downside risk to its forecasts if the world economy were to stall <PUNC>
-among stocks in focus <COMMA> u.s. shares of nokia nok climbed <NUM> percent after the handset maker said it was replacing embattled chief executive olli-pekka kallasvuo with microsoft s msft stephen elop <PUNC>
-the move comes as nokia seeks to reverse steep declines in earnings and market share that have decimated its share price <PUNC>
-<PAR>

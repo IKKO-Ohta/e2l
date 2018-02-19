@@ -1,6 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> rebounding from a morning low of <NUM> <PUNC>
-boeing co. ba <COMMA> a dow component <COMMA> was up <NUM> percent after news that german discount airline air berlin plc plans to order more than <NUM> airplanes <PUNC>
-after the big drop in the dow we saw yesterday <COMMA> those that feel they had missed some of the big rally we ve had since july want to jump in <COMMA> said a.g. edwards goldman <PUNC>
-sideline cash sees this as an opportunity <PUNC>
-on monday stocks closed with heavy losses as investors reacted to the weak dollar and concerns that consumption might be slowing following sluggish november sales from wal-mart stores inc. wmt <PUNC>
-<PAR>

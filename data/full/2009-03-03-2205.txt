@@ -1,6 +1,0 @@
-after trading in a 150-point range on either side of zero during the day <COMMA> the dow jones industrial average fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the nasdaq composite rixf declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-on monday <COMMA> the dow had closed at <NUM> <COMMA> a level not seen since <NUM> <PUNC>
-if nothing else <COMMA> the breach of 12-year lows is unusual <PUNC>
-other than monday s retesting of <NUM> lows <COMMA> such a crossing has occurred only twice before <COMMA> on dec. <NUM> <COMMA> <NUM> <COMMA> and april <NUM> <COMMA> <NUM> <PUNC>
-<PAR>

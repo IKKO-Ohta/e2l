@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
-the s&p <NUM> spx advance <NUM> points to <NUM> <COMMA> while the technology-laden nasdaq composite rixf gained <NUM> points to <NUM> <COMMA> with tech stocks bolstered by a wall street journal report that microsoft corp. msft was seeking partners for another attempt at acquiring yahoo yhoo <PUNC>
-<PAR>

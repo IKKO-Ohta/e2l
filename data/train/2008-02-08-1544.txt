@@ -1,7 +1,0 @@
-the dow jones industrial average dji was off <NUM> points at <NUM> in early trade <COMMA> off opening lows that had the blue-chip index sliding more than <NUM> points <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were falling <COMMA> with american express co. axp among the larger decliners <COMMA> its stock off <NUM> percent <PUNC>
-stocks advancing on the blue-chip index included technology shares <COMMA> with microsoft corp. msft up <NUM> percent and hewlett-packard co. hpq up <NUM> percent <PUNC>
-among dow stocks <COMMA> coca-cola co. ko won an upgrade to outperform from peer perform at bear stearns <COMMA> with the broker citing the good results at pepsico pep and other global consumer companies <PUNC>
-coca-cola s shares made early gains <PUNC>
-fellow blue chip mcdonald s mcd also moved higher <COMMA> gaining in the wake of january sales results <PUNC>
-<PAR>

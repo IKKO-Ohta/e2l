@@ -1,3 +1,0 @@
-after falling more than <NUM> points <COMMA> the dow jones industrial average dji climbed as much as <NUM> points <COMMA> and finished with a gain of <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the index is up <NUM> percent for the week <PUNC>
-<PAR>

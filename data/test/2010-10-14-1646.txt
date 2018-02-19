@@ -1,5 +1,0 @@
-after a four-session run-up <COMMA> the dow jones industrial average dji was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
-bank of america corp. bac weighed most on the blue-chip index <COMMA> off <NUM> percent <COMMA> with its shares and those of other banks hit as analysts attempted to estimate losses related to the halt in home foreclosures <PUNC>
-<PAR>
-fast-food chain mcdonald s corp. rose the most among the dow industrials <COMMA> its shares gaining <NUM> percent <PUNC>
-<PAR>

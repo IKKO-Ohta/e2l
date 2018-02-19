@@ -1,7 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the dow s energy components were among its weakest as crude-oil futures slipped in jumpy trading <PUNC>
-chevron cvx xom dropped <NUM> percent and exxon mobil xom fell <NUM> percent <PUNC>
-walt disney dis was also weak <COMMA> shedding <NUM> percent <PUNC>
-hewlett-packard hpq was one of only three dow components that managed to rise <PUNC>
-h-p gained <NUM> percent after the giant technology company late monday reported strong fiscal fourth-quarter results and issued a better-than-expected forecast <PUNC>
-<PAR>

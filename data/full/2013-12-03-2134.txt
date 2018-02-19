@@ -1,5 +1,0 @@
-u.s. stocks fell tuesday <COMMA> with the s&p <NUM> and the dow jones industrial average falling for a third straight day on uncertainty over when the federal reserve will begin to scale back stimulus and self-fulfilling fears the market was overdue for a pullback from record levels <PUNC>
-the dow jones industrial average dji dropped more than <NUM> points during the session before settling at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <COMMA> taking it well below the psychologically important <NUM> level <PUNC>
-the drop was the index s biggest one-day decline since nov. <NUM> <PUNC>
-among blue chips <COMMA> visa inc. v shares dropped <NUM> percent <PUNC>
-<PAR>

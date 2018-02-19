@@ -1,6 +1,0 @@
-the dow jones industrial average is set to end the year up <NUM> percent <PUNC>
-the s&p <NUM> index is clinging to a <NUM> percent gain <COMMA> while the nasdaq composite index is set to end the year down <NUM> percent for its first annual loss since <NUM> <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> with <NUM> of its <NUM> components retreating <PUNC>
-dow component verizon communictions inc. vz edged <NUM> percent higher as the mobile carrier fielded criticism for its planned dollar <NUM> convenience fee for customers who make one-time payments online or over the phone <PUNC>
-leading the s&p s gainers <COMMA> shares of metropcs communications inc. pcs climbed <NUM> percent after jpmorgan chase & co. said the pay-as-you-go carrier could be targeted for acquisition by bigger competitors at&t inc. t or t-mobile usa <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow transport index has broken above the <NUM> level <PUNC>
-the sector is a leading indicator of economic growth and may be responding to the outlook for improved activity and inventory replenishment <COMMA> said kalivas <PUNC>
-on friday <COMMA> stocks seesawed between gains and losses <COMMA> with consumer discretionary shares leading the gains and telecommunication services pacing the declines <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> its highest close since feb. <NUM> <PUNC>
-the blue-chip index tallied a weekly gain of <NUM> percent <PUNC>
-the s&p <NUM> index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a <NUM> percent rise from last week s finish <PUNC>
-the technology-laden nasdaq composite rixf climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> up <NUM> percent for the week <PUNC>
-<PAR>

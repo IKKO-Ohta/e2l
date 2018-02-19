@@ -1,4 +1,0 @@
-the s&p <NUM> spx and the dow jones industrial average dji ended lower in the past week <COMMA> unable to shrug off rate shivers after federal reserve detailed an end to some of its special liquidity programs <PUNC>
-these have effectively lowered rates on many consumer loans <PUNC>
-the fed also improved its outlook on the economy <PUNC>
-<PAR>

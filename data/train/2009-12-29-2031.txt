@@ -1,8 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in recent trading <PUNC>
-if the measure remains higher through the close <COMMA> it will mark the dow s seventh-straight session of gains and push the measure to another new closing high for the year <PUNC>
-walt disney co. dis was the dow s best performer <COMMA> up <NUM> percent <PUNC>
-microsoft corp. msft and 3m co. mmm were also strong <PUNC>
-microsoft climbed <NUM> percent <COMMA> while 3m gained <NUM> percent <PUNC>
-the dow s energy components kept its gains in check as the market awaited oil and fuel inventory data from the american petroleum institute after settlement tuesday <COMMA> as well as official government data wednesday <PUNC>
-chevron corp. cvx dropped <NUM> percent <COMMA> while exxon mobil corp. xom slipped <NUM> percent <PUNC>
-<PAR>

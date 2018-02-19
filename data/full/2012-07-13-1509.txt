@@ -1,2 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components climbing <COMMA> led by j.p. morgan chase jpm <COMMA> up <NUM> percent after the bank reported a dollar <NUM> billion profit in the second quarter <COMMA> which included a dollar <NUM> billion loss on synthetic credit derivatives <PUNC>
-<PAR>

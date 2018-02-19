@@ -1,9 +1,0 @@
-u.s. stocks finished mixed on tuesday <COMMA> with the dow jones industrial average brushing with record highs <COMMA> as investors welcomed upbeat economic data as well as earnings from coca-cola co. and johnson & johnson <COMMA> but remained cautious about key technology earnings due after the close <PUNC>
-the dow industrials dji gained <NUM> points to close at <NUM> <COMMA> as <NUM> of its <NUM> components advanced <PUNC>
-the dow earlier topped its all-time closing high of <NUM> and approached its all-time intraday high of <NUM> <PUNC>
-the blue-chip average was lifted by a <NUM> percent gain in the shares of coca cola ko and a <NUM> percent advance for johnson & johnson jnj <PUNC>
-shares of home depot inc. hd also helped <COMMA> rising <NUM> percent <PUNC>
-with the stock market now having made up most of its losses since its sharp downturn in late february - and with the dow industrials in record territory investors are looking for earnings and outlooks to provide direction <PUNC>
-there was also caution in the technology sector ahead of key earnings from international business machines corp. ibm <COMMA> intel corp. intc and yahoo inc. yhoo <COMMA> all due to report after the close <PUNC>
-on monday stocks staged a vigorous rally <COMMA> with the dow jones industrials rising by more than <NUM> points <COMMA> in the wake of upbeat earnings from citigroup inc. c and a dollar <NUM> billion leveraged buyout of sallie mae parent company slm corp. slm <PUNC>
-<PAR>

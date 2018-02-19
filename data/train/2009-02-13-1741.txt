@@ -1,4 +1,0 @@
-financials also led losses in friday trade <PUNC>
-telecommunication issues fronted the gains <PUNC>
-the dow jones industrial average dji was down <NUM> points at <NUM> in afternoon trading <PUNC>
-<PAR>

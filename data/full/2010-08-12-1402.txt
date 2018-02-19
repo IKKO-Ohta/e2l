@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <COMMA> putting the market on pace to extend a two-day slump <PUNC>
-the drop also pushes stocks deeper into the red for the year as economic data pointing to slower economic growth have refueled fears of a double dip <PUNC>
-cisco systems csco was the dow s worst performer with a <NUM> percent tumble after the maker of networking gear released quarterly results late wednesday that reinforced jitters that the pace of economic growth may be slowing <PUNC>
-cisco s revenue was a bit lower than analysts expected and it projected a slower pace of revenue growth for the current quarter <PUNC>
-in addition <COMMA> chief executive john chambers warned that a return to normal economic conditions would take longer than previously expected <PUNC>
-<PAR>

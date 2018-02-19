@@ -1,6 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> index spx rose <NUM> percent to <NUM> <COMMA> while the nasdaq composite rixf gained <NUM> percent to <NUM> <PUNC>
-stocks fell sharply on wednesday <COMMA> with the dow losing over <NUM> points <COMMA> as oil futures surged past dollar <NUM> a barrel <COMMA> with financials also in reverse before the latest set of results from american international group <PUNC>
-among the dow s financial components <COMMA> aig aig fell <NUM> percent with its results due out after thursday s close of trading <PUNC>
-wal-mart stores wmt and costco wholesale corp. cost both exceeded estimates as shoppers bought groceries <COMMA> pharmaceutical items and loaded up gasoline at wal-mart s sam s club and costco <COMMA> which sell the commodity at below the market rate as oil hits new highs <PUNC>
-<PAR>

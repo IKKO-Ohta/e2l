@@ -1,5 +1,0 @@
-the s&p <NUM> spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the dow jones industrial average dji sank <NUM> points <COMMA> to <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-dell s deal announcement follows kraft s kft unsolicited takeover offer for cadbury cby <COMMA> valued at dollar <NUM> billion when announced over the labor day holiday weekend <COMMA> and baker hughes bhi dollar <NUM> billion offer to bj services cos. bjs <PUNC>
-<PAR>

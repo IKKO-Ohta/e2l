@@ -1,5 +1,0 @@
-tuesday s bruising tumble on wall street and the declines in the following sessions hit the brakes on a record rally that saw eight straight months of stock gains <PUNC>
-the advances for february by the dow jones industrial average dji <COMMA> the nasdaq composite rixf and the s&p <NUM> index spx were wiped out in the last two days of the month <COMMA> leaving strategists divided over whether the losses are a blip on the market s radar or the start of a larger correction <PUNC>
-the exit out of equities continued friday <COMMA> pulling the dow down <NUM> points <COMMA> or nearly <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> fell <NUM> points to <NUM> and the nasdaq composite lost <NUM> points to <NUM> <PUNC>
-<PAR>

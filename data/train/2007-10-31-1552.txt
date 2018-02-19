@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were trading higher <COMMA> led by caterpillar inc. cat <COMMA> up <NUM> percent <PUNC>
-another blue chip <COMMA> verizon communications vz <COMMA> rose <NUM> percent in the wake of reports that the wireless carrier is in talks with google inc. goog about teaming up on a product to compete with apple inc. s iphone <PUNC>
-the dow s declining issues included wal-mart stores inc. wmt <COMMA> down <NUM> percent after the world s largest retailer said it would start its holiday discounting early <PUNC>
-<PAR>

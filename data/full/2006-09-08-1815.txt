@@ -1,6 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-if the market were to close at current levels <COMMA> the dow industrials would log a loss of <NUM> percent for the week <PUNC>
-the nasdaq composite would post a weekly loss of about <NUM> percent while the s&p <NUM> would be off about <NUM> percent <PUNC>
-hewlett-packard co hpq was up <NUM> percent at dollar <NUM> <PUNC>
-the company said chairwoman patricia dunn <COMMA> under fire for her role in an investigation that obtained the phone records of h-p board members and journalists without their knowledge <COMMA> has no plans to resign but will do so if asked to by the board <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the s&p <NUM> spx slipped by <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> while the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> as each index snapped a four-day winning streak <PUNC>
-the nasdaq composite rixf bucked the negative trend <COMMA> tacking on <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <PUNC>
-weekly performance <PUNC> the three main indexes all achieved their third weekly gain in a row <PUNC>
-the s&p <NUM> and nasdaq both advanced by <NUM> percent for the week <COMMA> while the dow rose <NUM> percent <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
-among dow components <COMMA> microsoft corp mst was down <NUM> percent at dollar <NUM> and intel corp. intc off <NUM> percent at dollar <NUM> in premarket trade <PUNC>
-on friday stocks ended lower <COMMA> with the dow jones industrial average posting its largest weekly percentage decline since march <NUM> <PUNC>
-equities last week were battered by the japanese yen s rally against the dollar <COMMA> more bad news for mortgage lenders and global anxieties <PUNC>
-alltel at also could see some gains <PUNC>
-the wall street journal reported that at&t corp. t is considering buying it <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-after an initial triple-digit rise <COMMA> the dow jones industrial average dji was lately down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting declines <PUNC>
-general motors corp. gm was among the dow s laggards <COMMA> with shares of the automaker sliding <NUM> percent <PUNC>
-also weighing on the dow <COMMA> shares of hewlett-packard co. hpq fell <NUM> percent amid speculation by some analysts that the technology company was overly optimistic in maintaining its relatively strong outlook for <NUM> <PUNC>
-among the limited blue-chip advancers <COMMA> shares of j.p. morgan chase & co. jpm <COMMA> rose <NUM> percent <PUNC>
-on monday <COMMA> u.s. stocks climbed for a second straight session as the government backed more than dollar <NUM> billion of citigroup inc. c assets and president-elect barack obama formally unveiled his economic team <PUNC>
-<PAR>

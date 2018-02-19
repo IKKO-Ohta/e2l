@@ -1,3 +1,0 @@
-u.s. stock prices dropped on thursday <COMMA> with the dow industrials shedding more than <NUM> points <COMMA> as investors digested mixed economic data only to return to fretting about the beleaguered housing sector s impact on the rest of the economy <PUNC>
-the dow industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-<PAR>

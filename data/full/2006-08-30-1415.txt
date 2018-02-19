@@ -1,2 +1,0 @@
-the dow jones industrial average dji was <NUM> point higher at <NUM> <PUNC>
-<PAR>

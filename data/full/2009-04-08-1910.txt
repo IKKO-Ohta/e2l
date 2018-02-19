@@ -1,4 +1,0 @@
-on wednesday <COMMA> stocks turned tail on earlier losses to post modest gains after a two-day decline <COMMA> with information technology pacing the afternoon rise <PUNC>
-at <NUM> p.m. eastern <COMMA> the dow jones industrial average stood at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-the s&p <NUM> index added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

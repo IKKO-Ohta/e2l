@@ -1,4 +1,0 @@
-on wednesday <COMMA> stocks closed higher <COMMA> following news of a narrower trade gap <COMMA> with the dow jones industrial average touching a three-week high with the help of an international business machines upgrade <PUNC>
-the dow industrials dji finished up <NUM> points at <NUM> <PUNC>
-shares of general motors corp. gm could get a boost in early trading as lehman bros. raised its recommendation on the company to equal weight <COMMA> as part of a broader upgrade of the auto and auto parts sector <PUNC>
-<PAR>

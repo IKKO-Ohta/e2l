@@ -1,3 +1,0 @@
-on friday <COMMA> the s&p <NUM> index spx closed at <NUM> <COMMA> its highest close since oct. <NUM> <COMMA> <NUM> <COMMA> just <NUM> points below its all-time high close of <NUM> reached on oct. <NUM> <COMMA> <NUM> <PUNC>
-on tuesday <COMMA> the dow jones industrial average dji topped its previous oct. <NUM> <COMMA> <NUM> closing record and has not closed lower since <PUNC>
-<PAR>

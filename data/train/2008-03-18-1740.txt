@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with all <NUM> of its components across all sectors posting gains <PUNC>
-citigroup inc. c was recently up <NUM> percent <COMMA> while jpmorgan chase & co. jpm rose <NUM> percent <PUNC>
-other standouts included general motors corp. gm <COMMA> up <NUM> percent <COMMA> and pharmaceutical conglomerate merck & co. mrk <COMMA> recently ahead <NUM> percent <PUNC>
-off the dow <COMMA> shares of goldman gs and lehman leh both gained <COMMA> with goldman <NUM> percent higher and lehman leaping <NUM> percent <PUNC>
-the large investment firms reported before the market open that their respective profits fell less than analysts had forecast <PUNC>
-another dow component <COMMA> exxon mobil corp. xom added <NUM> percent as crude futures gained ground after monday s slide <COMMA> with the spot month for crude recently up dollar <NUM> at dollar <NUM> a barrel on the new york mercantile exchange <PUNC>
-helping support the tech sector <COMMA> shares of yahoo inc. yhoo were up almost <NUM> percent after the online giant reaffirmed its belief that future growth is ahead and that microsoft corp. msft is grossly underestimating the company in offering to buy it for dollar <NUM> a share <PUNC>
-<PAR>

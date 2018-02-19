@@ -1,7 +1,0 @@
-the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
-at these levels <COMMA> the dow would end the week down <NUM> percent <PUNC>
-the nasdaq composite is looking at a weekly loss of about <NUM> percent <COMMA> while the s&p <NUM> is on course for a five-day loss of <NUM> percent <PUNC>
-ahead of the bell <COMMA> robert rubin <COMMA> a senior citigroup inc. c executive <COMMA> resigned from the automaker s board of directors <COMMA> on which he had served since <NUM> <PUNC>
-citigroup s multi-faceted relationship with ford could raise a question whether my relationship with ford and citigroup creates an appearance of conflict <COMMA> rubin said in his resignation letter <PUNC>
-shares of blue chip home depot inc. hd saw morning gains fade to trade down <NUM> cents at dollar <NUM> <PUNC>
-<PAR>

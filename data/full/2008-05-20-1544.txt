@@ -1,8 +1,0 @@
-the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-leading blue-chip decliners were financial stocks american express axp <COMMA> aig aig <COMMA> citigroup c <COMMA> and jp morgan chase jpm <PUNC>
-chevron cvx and exxon mobil xom were among the few rising stocks on the dow <PUNC>
-hewlett-packard hpq <COMMA> a blue-chip stock <COMMA> fell <NUM> percent ahead of posting delayed results after the close <PUNC>
-highlighting woes about u.s. consumers and the economy <COMMA> home depot hd said its profit dropped <NUM> percent and said the housing and home improvement markets remained difficult in the first quarter <PUNC>
-in fact <COMMA> conditions worsened in many areas of the country <COMMA> ceo frank blake said <PUNC>
-u.s. stocks ended mixed on monday <COMMA> as record crude oil prices led to another choppy session <COMMA> with the dow industrials rising <NUM> points and the s&p <NUM> adding a point <COMMA> while the tech-heavy nasdaq composite shed <NUM> points <COMMA> with sandisk disappointing on sales <PUNC>
-<PAR>

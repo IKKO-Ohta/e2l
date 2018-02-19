@@ -1,5 +1,0 @@
-word of the deal boosted the dow jones transportation average djt lately up <NUM> percent <COMMA> as well as the shares of burlington northern <COMMA> up more than <NUM> percent <COMMA> and other railways <PUNC>
-shares of union pacific corp. unp were up <NUM> percent <COMMA> while csx corp. csx advanced <NUM> percent and norfolk southern corp. nsc gained <NUM> percent <PUNC>
-yet worries about the financial sector weighed on the broader market <COMMA> with the dow jones industrial average dji off <NUM> points at <NUM> <COMMA> and the s&p <NUM> index spx down <NUM> points at <NUM> <PUNC>
-the nasdaq composite index rixf declined <NUM> points to <NUM> <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-u.s. stocks rallied sharply into monday s close <COMMA> pushing the dow jones industrial average above <NUM> after signs emerged that the credit markets were thawing and federal reserve chief ben bernanke said he backed more fiscal stimulus <PUNC>
-up more than <NUM> points in late afternoon trade <COMMA> the dow jones industrial average dji added another <NUM> points in the final <NUM> minutes of trade <COMMA> gaining <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> the blue-chip index s first close above the <NUM> level since last tuesday <PUNC>
-all of the dow s <NUM> components ended in positive territory <COMMA> with the gains led by oil giants exxon mobil corp. xom and chevron corp. cvx <COMMA> up <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-also bolstering the dow <COMMA> shares of general motors corp. gm gained <NUM> percent amid varying reports on the status of prospective merger talks between the automaker and chrysler <PUNC>
-on friday <COMMA> u.s. stocks slipped <COMMA> with the dow jones industrial average falling <NUM> points <COMMA> the nasdaq dropping <NUM> points and the s&p <NUM> losing <NUM> points <PUNC>
-<PAR>

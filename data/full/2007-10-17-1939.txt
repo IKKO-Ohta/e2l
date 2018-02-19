@@ -1,3 +1,0 @@
-up and down <NUM> points throughout the day <COMMA> the dow jones industrial average dji was more recently off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> component stocks in negative territory <PUNC>
-chipmaker intel intc reported a <NUM> percent quarterly profit rise late tuesday <COMMA> and fellow dow components united technologies utx <COMMA> j.p morgan chase jpm and coca-cola co. ko all checked in with higher earnings before the bell <PUNC>
-<PAR>

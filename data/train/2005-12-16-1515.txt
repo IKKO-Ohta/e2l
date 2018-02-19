@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-general motors corp. gm was <NUM> cents higher at dollar <NUM> <PUNC>
-the auto maker s chairman and chief executive rick wagoner told revelers at a holiday party that the company s revenue will improve <PUNC>
-wal-mart wmt was up <NUM> cents at dollar <NUM> and target tgt down <NUM> cents at dollar <NUM> <PUNC>
-<PAR>

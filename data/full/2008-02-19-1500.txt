@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-gains were led by american international group inc. aig <COMMA> up more than <NUM> percent in the wake of a report in barron s that the insurer is likely to recover dollar <NUM> billion in losses from credit-default swaps <PUNC>
-telecommunications stocks proved to be the only early laggards for the blue chips <COMMA> with at&t inc. t off <NUM> percent and verizon communications vz off <NUM> percent <PUNC>
-<PAR>

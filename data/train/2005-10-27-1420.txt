@@ -1,5 +1,0 @@
-the dow jones industrial average dji was lately down <NUM> points at <NUM> <PUNC>
-shares in general motors corp gm fell as much as <NUM> percent to dollar <NUM> in early trading even as the carmaker denied speculation it was planning to file for bankruptcy <PUNC>
-verizon communications vz climbed as much as <NUM> percent to dollar <NUM> after the telecom giant posted forecast-beating third-quarter results <COMMA> buoyed by continued strength in its wireless business and record additions of high-speed internet customers <PUNC>
-exxon mobil corp. xom <COMMA> another dow component <COMMA> rose as high as dollar <NUM> after the oil giant posted quarterly revenue that topped dollar <NUM> billion for the first time in its history <PUNC>
-<PAR>

@@ -1,9 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> trading recently at <NUM> <PUNC>
-the measure was led by a <NUM> percent gain in component exxon mobil corp. xom <COMMA> which posted better quarterly results than analysts expected <PUNC>
-monday s rally has erased part of january s <NUM> percent slide in the dow <COMMA> the biggest monthly decline since february <NUM> <PUNC>
-the recent pullback coincides with what has generally been a wave of better-than-expected profit reports <COMMA> though investors often bet last month that share prices had factored in the strong earnings prior to the reporting season <PUNC>
-metals producers rallied <PUNC>
-alcoa aa was up <NUM> percent <PUNC>
-us steel x gained <NUM> percent <PUNC>
-freeport-mcmoran copper & gold fcx rose <NUM> percent <PUNC>
-<PAR>

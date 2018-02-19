@@ -1,5 +1,0 @@
-dell s offer follows kraft s kft unsolicited takeover bid for cadbury cby <COMMA> valued at dollar <NUM> billion when announced <COMMA> and baker hughes bhi dollar <NUM> billion offer to bj services cos. bjs <PUNC>
-the s&p <NUM> spx was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the dow jones industrial average dji sank <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf gained less than <NUM> point <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

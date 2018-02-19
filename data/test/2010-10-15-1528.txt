@@ -1,6 +1,0 @@
-the dow jones industrial average dji tumbled <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
-general electric co. ge dropped <NUM> percent as the conglomerate s revenue came in short of wall street s view <COMMA> which the company blamed on lower equipment sales and the impact of reduced assets at ge capital <PUNC>
-the financial unit s revenue dropped <NUM> percent as it added dollar <NUM> billion to reserves <PUNC>
-bank of america corp. shares bac fell <NUM> percent and j.p. morgan chase & co. jpm dropped <NUM> percent as the weakness at ge capital weighed on other financial stocks while concerns over the foreclosure crisis persisted <PUNC>
-the crisis has been escalating for several weeks <COMMA> as banks suspend foreclosures across the country <COMMA> citing flaws they have uncovered <COMMA> including faulty or missing documentation <PUNC>
-<PAR>

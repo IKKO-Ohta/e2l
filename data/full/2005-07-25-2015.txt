@@ -1,3 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points at <NUM> and the nasdaq composite rixf down <NUM> points at <NUM> <PUNC>
-american express axp rose <NUM> cents to dollar <NUM> after reporting a <NUM> percent increase in quarterly profit <PUNC>
-<PAR>

@@ -1,9 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-leading the dow s advancers were shares of disney dis <COMMA> up <NUM> percent <PUNC>
-late tuesday <COMMA> the media and entertainment giant reported a first-quarter profit that fell <NUM> percent from the year-ago period <COMMA> results that topped expectations <PUNC>
-the dow s decliners included general motors corp. gm <COMMA> recently off <NUM> percent <COMMA> after its downgrade to underperform by bear stearns <COMMA> which also lowered its rating on ford motor co. f to peer perform <COMMA> citing worries over consumers ability to buy cars and trucks <PUNC>
-ford s shares also traded lower <PUNC>
-shares of yahoo inc. yhoo also edged higher <COMMA> up <NUM> percent <COMMA> with the internet giant s board still considering a dollar <NUM> billion bid from microsoft corp. msft <PUNC>
-<PAR>
-u.s. stocks plunged on tuesday <COMMA> with the dow industrials tumbling to their biggest drop in <NUM> months <COMMA> after a key service-sector gauge contracted in january <COMMA> another signal that a u.s. recession may be at hand <PUNC>
-<PAR>

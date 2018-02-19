@@ -1,3 +1,0 @@
-extending gains into a fourth day <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by home depot inc. hd and boeing co. ba <COMMA> each up more than <NUM> percent <PUNC>
-blue-chip laggards involved a trio of financial companies <COMMA> with bank of america corp. bac off <NUM> percent <PUNC> jpmorgan chase & co. jpm down <NUM> percent and travelers cos. inc. trv off <NUM> percent <PUNC>
-<PAR>

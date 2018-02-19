@@ -1,8 +1,0 @@
-the dow jones industrials average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of <NUM> components contributing to gains <PUNC>
-within the dow industrials <COMMA> dupont dd <NUM> percent and wal-mart wmt was up <NUM> percent to pace the gainers <COMMA> while verizon s vz <NUM> percent skid led the losers <PUNC>
-the dow had suffered its biggest one-day point drop in <NUM> months on tuesday to close at a two-week low <COMMA> as the yield curve inverted the yield on ten-year treasury notes fell below the yield on two-year notes for the first time in five years <PUNC>
-these occurrences had usually been followed by economic recessions <PUNC>
-<PAR>
-discount retailing giant target tgt said it sees december same-store sales rising <NUM> percent to <NUM> percent <COMMA> which was in line with prior forecasts <PUNC>
-that follows rival wal-mart s wmt assertion on saturday that december same-store sales would rise in line with previous forecasts of <NUM> percent to <NUM> percent <PUNC>
-<PAR>

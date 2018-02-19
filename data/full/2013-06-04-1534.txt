@@ -1,4 +1,0 @@
-u.s. stocks traded near unchanged <COMMA> possibly derailing a long-running tuesday winning streak for the dow industrials <COMMA> as wall street remained on alert for clues as to whether the federal reserve will begin trimming its monthly bond purchases <PUNC>
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with chevron corp. cvx falling the most among its <NUM> components <PUNC>
-if the dow industrials finish higher on tuesday <COMMA> it will mark the 21st straight tuesday win <COMMA> the longest trend of its kind since at least <NUM> <PUNC>
-read more about the tuesday phenomenon <PUNC>

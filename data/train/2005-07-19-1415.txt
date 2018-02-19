@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-ibm ibm is powering gains on the benchmark index in early trading as big blue s shares rallied dollar <NUM> <COMMA> or <NUM> percent to dollar <NUM> as analysts enthused over its second-quarter results <PUNC>
-johnson & johnson jnj shares edged up <NUM> cents to dollar <NUM> after it posted second-quarter results that topped analyst estimates on an <NUM> percent jump in sales year-over-year <PUNC>
-caterpillar inc. shares cat rose <NUM> percent <COMMA> with traders on the floor attributing the move to comments from wall street commentator jim kramer encouraging investors to buy into the stock ahead of the company s earnings due later this week <PUNC>
-shares of hewlett-packard co. hpq <COMMA> another dow component <COMMA> fell <NUM> percent as the computer and printer maker <COMMA> in a widely-anticipated move <COMMA> said it would cut <NUM> jobs <COMMA> or roughly <NUM> percent of its workforce <COMMA> as part of a major restructuring that chief executive mark hurd said is necessary for the printer and computer giant to reach its full potential <PUNC>
-earnings from merrill lynch mer offered a balm to those investors disappointed by monday s disappointing earnings from citigroup <PUNC>
-c <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji reversed early losses and was last up <NUM> points at <NUM> <COMMA> with its <NUM> components evenly divided between gainers and losers <PUNC>
-microsoft corp. msft was leading the gains on the dow <COMMA> rising <NUM> percent after citigroup lifted its earnings estimates for the software giant <PUNC>
-altria group inc. mo also continued to advance strongly <COMMA> while walt disney co. dis was the worst performer on the dow <PUNC>
-at&t inc. t <COMMA> meanwhile <COMMA> fell <NUM> percent amid reports that it is angling to acquire a stake in the parent company of italian carrier telecom italia spa ti for roughly dollar <NUM> billion <PUNC>
-on tuesday <COMMA> stocks staged a vigorous rally <COMMA> with the dow industrials rising nearly <NUM> points to a five-week high. <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-recovering <NUM> points from its intraday lows <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all <NUM> components declining <PUNC>
-<PAR>

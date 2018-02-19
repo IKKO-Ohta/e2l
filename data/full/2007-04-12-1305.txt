@@ -1,6 +1,0 @@
-the futures contract for the dow jones industrial average dji last was down <NUM> points at <NUM> <PUNC>
-on wednesday stocks ended lower <COMMA> with the dow jones industrial average breaking an 8-day winning streak <COMMA> after the minutes from the latest federal open market committee meeting dashed hopes that the inflation-focused fed could soon cut rates to boost the economy <PUNC>
-wal-mart stores inc. wmt <COMMA> stock rose <NUM> percent to dollar <NUM> before the opening <PUNC>
-the company had a <NUM> percent rise in march same-store sales <PUNC>
-analysts <COMMA> on average <COMMA> had expected its same-store sales to rise <NUM> percent <PUNC>
-<PAR>

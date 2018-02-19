@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> spx lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf slid <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-on thursday <COMMA> the dow closed at a record high for a third straight session and the s&p <NUM> set a record close for a second day <PUNC>
-stock futures friday had been heading lower before the 8:30 a.m. data after dow-component j.p. morgan chase & co. s jpm results <COMMA> while beating estimates <COMMA> weren t strong enough for investors <COMMA> who sold off shares by more than <NUM> percent <PUNC>
-<PAR>

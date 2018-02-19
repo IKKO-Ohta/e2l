@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components falling <COMMA> led lower by bank of america corp. bac <PUNC>
-cisco systems inc. csco climbed the most on the dow <COMMA> up <NUM> percent <COMMA> after oppenheimer & co. upgraded shares in the maker of computer-networking equipment to outperform from market perform <PUNC>
-stocks had recovered during the session <COMMA> with the dow headed for a fourth-straight day of gains <COMMA> helped by hopes of more stimulus <PUNC>
-among other blue chips on the rise <COMMA> shares of pfizer inc. pfe added <NUM> percent after the world s biggest pharmaceutical company unexpectedly announced late sunday that jeffrey kindler was retiring as chief executive and chairman <PUNC>
-<PAR>

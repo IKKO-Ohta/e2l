@@ -1,3 +1,0 @@
-the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
-futures contracts for the s&p <NUM> and the nasdaq <NUM> were up <NUM> points at <NUM> and up <NUM> points at <NUM> <PUNC>
-<PAR>

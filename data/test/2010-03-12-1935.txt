@@ -1,7 +1,0 @@
-the dow jones industrial average dji recently traded <NUM> points higher <COMMA> up <NUM> percent <COMMA> at <NUM> <COMMA> on track to post a fourth straight gain <PUNC>
-the measure s gains were tempered by a <NUM> percent slide in component pfizer pfe after the drug manufacturer said it ended a late-stage trial for an experimental lung-cancer drug <PUNC>
-some of those companies rivals fared better <COMMA> leaving the s&p <NUM> s financial sector little changed <COMMA> up <NUM> percent <PUNC>
-morgan stanley ms rose <NUM> percent <COMMA> american express axp rose <NUM> percent <COMMA> and goldman sachs gs was up <NUM> percent <PUNC>
-among stocks to watch on friday <COMMA> united technologies utx shed <NUM> percent after it reaffirmed its earnings guidance for this year and accelerated the margin target for its hamilton sundstrand aerospace unit <PUNC>
-but the manufacturer cut its forecast of operating profit at its otis elevator unit <PUNC>
-<PAR>

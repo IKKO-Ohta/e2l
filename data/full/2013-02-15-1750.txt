@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after hitting an intraday high of <NUM> <PUNC>
-the dow is currently down <NUM> percent for the week <PUNC>
-pfizer inc. pfe was the top gainer in the dow <COMMA> rising <NUM> percent <COMMA> and wal-mart stores inc. wmt was the biggest decliner <COMMA> down <NUM> percent <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-at <NUM> p.m. eastern time <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> index spx lapsed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite index rixf sank <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up almost <NUM> points at <NUM> <PUNC>
-dow component merck co. inc. mrk was up cent at dollar <NUM> in premarket electronic trade <PUNC>
-the pharmaceutical company s federal trial in the vioxx case is set to begin tuesday in houston <PUNC>
-wal-mart stores wmt <COMMA> also in the dow <COMMA> last was <NUM> cents higher at dollar <NUM> as holiday shopping gets underway <PUNC>
-<PAR>

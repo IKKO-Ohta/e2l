@@ -1,8 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-home depot hd dropped <NUM> percent to dollar <NUM> before the opening <PUNC>
-the home improvement retailer reported a <NUM> percent profit fall on <NUM> percent revenue rise <COMMA> with both profit and sales missing analyst estimates <PUNC>
-shares in wal-mart stores inc. wmt rose as the world s largest retailer turned in an <NUM> percent jump in quarterly profit <COMMA> although the company did trim its forecast for the full year <PUNC>
-the auto sector was a focus of attention <PUNC>
-the top executives of general motors corp. gm <COMMA> ford motor co. f and daimlerchrysler ag <PUNC>
-dcx are set to finally sit down tuesday with president bush <COMMA> with thorny issues such as health care <COMMA> trade policies and energy legislation likely on the docket <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-the dow s early gainers included mcdonald s corp. mcd <COMMA> up <NUM> percent <COMMA> following a wall street journal report that the fast-food chain would step into competition with starbucks corp. sbux by opening coffee bars offering cappuccinos and lattes <PUNC>
-fourth-quarter earnings could shed light about the u.s. economy <COMMA> with aluminum maker alcoa inc. aa on tuesday slated to be the first dow component to report financil results <PUNC>
-<PAR>

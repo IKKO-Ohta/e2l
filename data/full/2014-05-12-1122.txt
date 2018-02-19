@@ -1,6 +1,0 @@
-the changing of the guard was at play last week <PUNC>
-the one major index seeing a gain for the week was the dow jones industrial average dji <COMMA> which finished up <NUM> percent to notch out a new record closing high of <NUM> <PUNC>
-the s&p <NUM> index spx finished the week down <NUM> percent <PUNC>
-there s facebook inc. s fb dollar <NUM> billion acquisition of whatsapp inc. <COMMA> apple inc. s aapl reported dollar <NUM> billion deal to buy beats entertainment inc. <COMMA> along with big-ticket pharma courtships like pfizer inc. s pfe dollar <NUM> billion bid for astrazeneca plc azn and a campaign to buy allergan inc. agn for dollar <NUM> billion from valeant pharmaceuticals international inc. vrx and pershing square capital management <PUNC>
-of the dow components <COMMA> cisco systems inc. csco reports on wednesday <COMMA> and wal-mart stores inc. wmt reports on thursday <PUNC>
-<PAR>

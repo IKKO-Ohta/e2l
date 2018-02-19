@@ -1,5 +1,0 @@
-the s&p <NUM> spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> led by gains in industrials and health care sectors <PUNC>
-the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-earnings <PUNC> several heavyweights reported results ahead of the opening bell <PUNC>
-general electric co. ge shares rose <NUM> percent after third-quarter earnings topped market expectations <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji ended <NUM> points higher <COMMA> up <NUM> percent <COMMA> at <NUM> <COMMA> its best one-day rise in both point and percentage terms since feb. <NUM> <PUNC>
-the dow average was led by gains of more than <NUM> percent each in alcoa <COMMA> inc. aa <COMMA> boeing co. ba and american express co. axp shares <PUNC>
-<PAR>

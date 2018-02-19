@@ -1,4 +1,0 @@
-the dow jones industrial average dji shed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> with the blue-chip declines fronted by at&t corp. t <COMMA> down <NUM> percent <PUNC>
-u.s. stocks climbed on friday <COMMA> helped by data showing an in-line reading on the nation s core inflation rate <PUNC>
-the dow industrials jumped <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite added <NUM> points to close out a volatile week <PUNC>
-<PAR>

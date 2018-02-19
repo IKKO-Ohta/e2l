@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-for the week <COMMA> the dow is heading toward a <NUM> percent loss <COMMA> the s&p <NUM> is off <NUM> percent <COMMA> and the nasdaq composite is up <NUM> percent <PUNC>
-the early selloff was broad <PUNC>
-all <NUM> s&p <NUM> sectors were lower <COMMA> with half down more than <NUM> percent <PUNC>
-on the dow <COMMA> only three of <NUM> components <COMMA> led by mcdonald s corp. mcd <COMMA> were higher <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the s&p <NUM> spx ended the day down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> after touching an intraday record in early action <PUNC>
-the dow jones industrial average dji eked out a gain of <NUM> point to end at <NUM> <COMMA> marking another record close <PUNC>
-the nasdaq composite rixf held on to a <NUM> point increase to end at <NUM> <PUNC>
-among major stock movers <COMMA> exxon mobil corp. xom lost more than <NUM> percent <COMMA> while fellow dow component chevron corp. cvx lost <NUM> percent <PUNC>
-on a monthly basis <COMMA> the dow and s&p <NUM> each added <NUM> percent in november <COMMA> while the nasdaq added <NUM> percent <PUNC>
-black friday frenzy <PUNC> retailers were in the spotlight during early friday <COMMA> as shops opened the doors for their annual black friday sales with some having opened late thursday <PUNC>
-wal-mart stores inc. wmt advanced <NUM> percent <COMMA> amazon.com amzn rose <NUM> percent macy s inc. m added <NUM> percent <COMMA> and best buy co. bby advanced <NUM> percent <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji traded higher but off a session high of <NUM> points <PUNC>
-the benchmark index was last up <NUM> points at <NUM> <PUNC>
-the dow industrials is up about <NUM> percent on the month <COMMA> the nasdaq has climbed around <NUM> percent <COMMA> while the s&p has gained about <NUM> percent <PUNC>
-<PAR>

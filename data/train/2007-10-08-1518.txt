@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components lower <PUNC>
-alcoa aa fronted the blue-chip decline <COMMA> off <NUM> percent <PUNC>
-hewlett-packard co. hpq led the dow s advancing stocks <COMMA> up <NUM> percent <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-after a nearly 75-point advance and 12-point drop <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-disappointing adp data on wednesday helped drive a drop of <NUM> points <COMMA> or <NUM> percent <COMMA> for the dow industrials <COMMA> which finished that session at <NUM> <COMMA> while the s&p <NUM> lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-on tuesday <COMMA> the dow and s&p <NUM> both climbed to record closing highs <PUNC>
-<PAR>

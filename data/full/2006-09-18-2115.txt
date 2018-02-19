@@ -1,9 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-a rise in crude-oil prices helped lift oil services stocks osxx and energy companies oix <PUNC>
-exxon mobil xom was the biggest percentage gainer on the dow industrials <COMMA> climbing <NUM> percent to dollar <NUM> <PUNC>
-the auto sector came under pressure after a news report that general motors corp. gm and ford motor co. f have discussed a possible alliance <PUNC>
-the wall street journal s online edition reported that the two auto makers have abandoned the possibility after brief discussions <COMMA> however <PUNC>
-home depot hd shares fell to their lows for the session on monday s weak housing report <PUNC>
-the stock bounced off those lows but still ended down <NUM> percent at dollar <NUM> <PUNC>
-rival lowe s cos. low was down <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

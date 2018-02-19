@@ -1,4 +1,0 @@
-the december futures contracts for the dow jones industrial average <COMMA> the s&p <NUM> <COMMA> and the nasdaq <NUM> were all pointing toward fairly heavy losses in the early minutes of trade <PUNC>
-the nation s trade deficit narrowed in the month by <NUM> percent to dollar <NUM> billion <COMMA> the commerce department said <PUNC>
-the dow jones forecast was for the deficit to widen to dollar <NUM> billion <PUNC>
-<PAR>

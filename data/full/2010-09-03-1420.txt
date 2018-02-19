@@ -1,6 +1,0 @@
-the dow jones industrial average dji surged <NUM> points <COMMA> adding to a week of gains <PUNC>
-after a bruising august <COMMA> the measure is up <NUM> percent this week <COMMA> as traders seized on encouraging manufacturing and jobs data as signs that the economy may avoid a double-dip recession <PUNC>
-the nasdaq composite rixf gained <NUM> percent to <NUM> <PUNC>
-the standard & poor s 500-share index spx rose <NUM> percent to <NUM> <COMMA> climbing above the key <NUM> level <PUNC>
-the dow advanced <NUM> percent to <NUM> <COMMA> led by a <NUM> percent jump in bank of america corp. bac <PUNC>
-<PAR>

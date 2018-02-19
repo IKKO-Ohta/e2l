@@ -1,6 +1,0 @@
-u.s. stocks fell <COMMA> derailing a long-running tuesday winning streak for the dow industrials <COMMA> as wall street remained on alert for clues as to central-bank policy moves ahead <PUNC>
-rising as much as <NUM> points and falling as much as <NUM> <COMMA> the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> halting a tuesday winning streak at <NUM> consecutive sessions <PUNC>
-had the dow industrials finished the session in positive terrain <COMMA> it would have been the longest trend of its kind since at least <NUM> <PUNC>
-read more about the tuesday phenomenon <PUNC>
-home-improvement retailer home depot inc. hd fell the most among the blue-chip index s <NUM> components <PUNC>
-<PAR>

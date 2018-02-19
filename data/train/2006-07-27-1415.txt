@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
-dow component exxon mobil xom saw its stock climb <NUM> percent to dollar <NUM> after the world s biggest publicly-traded oil company <COMMA> reported a <NUM> percent jump in its second-quarter profit <COMMA> fueled by historically high oil prices and strong refining margins <PUNC>
-<PAR>

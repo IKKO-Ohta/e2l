@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-citigroup c was among the dow s advancing stocks <COMMA> recently up <NUM> percent <PUNC>
-on monday <COMMA> the dow fell <NUM> points <COMMA> bringing the blue chip index <COMMA> as well as the s&p <NUM> <COMMA> down <NUM> percent from recent october highs <PUNC>
-<PAR>

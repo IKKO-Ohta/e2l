@@ -1,9 +1,0 @@
-the dow jones industrial average dji declined <NUM> points to <NUM> <COMMA> off earlier lows that had the blue-chip index down nearly <NUM> points <PUNC>
-twenty-two of the blue-chip index s <NUM> components posted early losses <COMMA> led by caterpillar inc. cat <COMMA> off <NUM> percent <COMMA> and semiconductor giant intel corp. intc <COMMA> off <NUM> percent <PUNC>
-fronting the dow s limited gains <COMMA> citigroup inc. c shares advanced <NUM> percent after the wall street journal reported the bank is expected to slash at least <NUM> jobs around the globe in cuts already under way <PUNC>
-<PAR>
-u.s. stocks surged thursday after initially falling below oct. <NUM> lows <PUNC>
-after the lows were reached <COMMA> there was a wave of buying across the board that was led by oil producers <PUNC>
-the dow jones industrial average soared <NUM> points <COMMA> the nasdaq composite rose <NUM> points and the s&p <NUM> rose <NUM> points <PUNC>
-time to go fishing <PUNC>
-<PAR>

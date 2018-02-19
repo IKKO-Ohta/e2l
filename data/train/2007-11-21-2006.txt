@@ -1,6 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components remained in the red <PUNC>
-but the blue-chip average recovered from a <NUM> point-drop earlier <PUNC>
-financial stocks on the dow still saw some of the biggest drops <COMMA> with american international group inc. aig off <NUM> percent <COMMA> american express co. axp down <NUM> percent <COMMA> and j.p. morgan chase & co. jpm off <NUM> percent <PUNC>
-stocks ended with gains on tuesday <COMMA> as an upbeat forecast from hewlett-packard co. hpq and gains in the energy sector helped offset continued concerns about credit woes and financials <PUNC>
-government-sponsored mortgage investor freddie mac fre warned that it may have to slash its dividend <PUNC>
-<PAR>

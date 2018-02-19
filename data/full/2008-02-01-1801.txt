@@ -1,3 +1,0 @@
-up <NUM> points earlier on <COMMA> the dow jones industrial average dji recently was on the decline <COMMA> down <NUM> points to <NUM> <COMMA> with microsoft its biggest weight <COMMA> down <NUM> percent in the wake of the software titan s dollar <NUM> -a-share <COMMA> or dollar <NUM> billion <COMMA> offer for yahoo yhoo <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> remained higher <COMMA> with citigroup inc. c among its top gainers <COMMA> up <NUM> percent <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-the dow jones industrial average dji dipped <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> slipping for the third day in a row <PUNC>
-<PAR>

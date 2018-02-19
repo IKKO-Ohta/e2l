@@ -1,6 +1,0 @@
-the dow jones industrial average gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> poising it for a <NUM> percent loss from last friday s close <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> posted late afternoon gains <PUNC>
-alcoa inc. aa gained the most among the blue chips <COMMA> up <NUM> percent <PUNC>
-u.s. stocks on thursday thudded lower for a second day as investors braced for the october jobs report <PUNC>
-the dow jones industrial average fell <NUM> points to cap its largest two-day percent decline since oct. <NUM> <COMMA> <NUM> <COMMA> and the index s biggest two-day point drop ever <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji came off an early low of <NUM> <COMMA> and was last up <NUM> point at <NUM> <PUNC>
-altria group inc. mo gained <NUM> percent to dollar <NUM> <PUNC>
-goldman sachs said it it expects the stock to move higher ahead of an anticipated favorable decision in a consumer fraud case.the decision is due thursday <PUNC>
-shares in procter & gamble pg climbed <NUM> percent to dollar <NUM> after the household products giant lifted the lower end of its previous forecast range for second-quarter sales and earnings <PUNC>
-general motors corp. gm fell <NUM> percent to dollar <NUM> after standard & poor s analysts stirred up bankruptcy fears and downgraded the automaker s debt deeper into junk a day earlier <PUNC>
-<PAR>

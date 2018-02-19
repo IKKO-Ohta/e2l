@@ -1,8 +1,0 @@
-u.s stocks rose on wednesday <COMMA> briefly sending the dow jones industrial average above the key <NUM> level for the first time <COMMA> as news of better-than-expected orders for durable goods in march and surging profits at amazon.com boosted sentiment <PUNC>
-the dow jones industrial average dji was recently up <NUM> points at <NUM> <COMMA> after earlier crossing the key level <NUM> for the first time <PUNC>
-it reached a record intraday high of <NUM> <PUNC>
-alcoa inc. aa led the dow s advance <COMMA> rising <NUM> percent after saying it plans to explore the disposition of its packaging and consumer businesses <PUNC>
-shares of ibm ibm and hewlett packard co. hpq also rose solidly after their rival sun microsystems inc. sunw reported quarterly sales that fell short of expectations <PUNC>
-boeing co. ba <COMMA> which reported earnings wednesday <COMMA> played a big part in the march gains <COMMA> as orders for civilian aircraft zoomed <NUM> percent higher <PUNC>
-shares of boeing still fell <NUM> percent <COMMA> after its earnings outlook for the year disappointed some investors <PUNC>
-<PAR>

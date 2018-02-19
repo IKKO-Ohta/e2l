@@ -1,4 +1,0 @@
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> climbing to <NUM> <PUNC>
-the nasdaq composite rixf <COMMA> the best-performing index <COMMA> rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the tech-heavy index turned positive for the year after sharp gains on tuesday <PUNC>
-<PAR>

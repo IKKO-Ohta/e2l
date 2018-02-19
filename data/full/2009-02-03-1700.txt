@@ -1,5 +1,0 @@
-on tuesday <COMMA> shares of ford motor co. f and general motors corp. gm were down ahead of the results <COMMA> which are expected to show sales declines of more than <NUM> percent from a year ago <PUNC>
-<PAR>
-gm was among those weighing on the dow jones industrial average dji <COMMA> which at last check stood at <NUM> <COMMA> up <NUM> points <PUNC>
-the s&p <NUM> spx gained <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
-<PAR>

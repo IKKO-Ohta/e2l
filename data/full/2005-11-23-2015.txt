@@ -1,7 +1,0 @@
-new york dow jones u.s. stocks rallied wednesday afternoon <COMMA> with the dow jones industrial average on track to close at its best level in four-and-a-half years <COMMA> as mcdonald s shares advanced on hopes for strong sales of of its new holiday gift cards <PUNC>
-the dow jones industrial average dji was up almost <NUM> points at <NUM> <PUNC>
-if the blue chip index closes above <NUM> it will mark its highest close since june <COMMA> <NUM> <PUNC>
-dow component mcdonald s mcd gained more than <NUM> percent after launching a major u.s. media blitz for its arch card <COMMA> its latest twist on gift certificates <PUNC>
-though the card was introduced into restaurants earlier this year <COMMA> the fast-food chain waited until the holiday season to pull out the gift-giving marketing <PUNC>
-elsewhere on the dow <COMMA> intel intc was up <NUM> percent at dollar <NUM> <COMMA> general motors gm up <NUM> percent at dollar <NUM> <COMMA> american express axp up <NUM> percent at dollar <NUM> <COMMA> and international business machines ibm up <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

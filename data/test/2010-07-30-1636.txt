@@ -1,7 +1,0 @@
-after being off as much as <NUM> points earlier in friday s session <COMMA> the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> in recent trading <PUNC>
-merck mrk weighed with a <NUM> percent decline after the drug company s second-quarter earnings dropped <NUM> percent on acquisition and other charges while sales of its key drugs weren t as strong as in recent quarters <PUNC>
-merck s revenue missed expectations <COMMA> and the company narrowed its <NUM> earnings forecast while trimming the top end of its sales view for the year <PUNC>
-chevron cvx slipped <NUM> percent as its revenue also came in below analysts estimates <COMMA> even as the oil giant s second-quarter earnings more than tripled <PUNC>
-keeping the declines in check <COMMA> bank of america bac climbed <NUM> percent <COMMA> boeing ba rose <NUM> percent and caterpillar cat advanced <NUM> percent <PUNC>
-still <COMMA> the dow jones industrial average and the standard & poor s 500-stock index are on pace for their first monthly gains since april and their biggest monthly increases since july <NUM> <PUNC>
-<PAR>

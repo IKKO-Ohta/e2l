@@ -1,6 +1,0 @@
-two components of the dow jones industrial average are also scheduled to report <PUNC> insurer american international group aig and walt disney co. dis <PUNC>
-a slew of potential deals have been keeping stocks rising <COMMA> including reports friday later discounted of a possible tie-up between tech giants yahoo inc. yhoo and microsoft corp. msft <PUNC> a dollar <NUM> billion takeover bid for reuters group plc rtrsy <PUNC> and a dollar <NUM> billion bid from news corp. nws for dow jones & co. dj <COMMA> owner of marketwatch <COMMA> the publisher of this report <PUNC>
-the benchmark indexes fell following the release of the jobs report on friday <COMMA> but they pulled out of the red by session s end <PUNC>
-the dow industrials finished up <NUM> points to finish at a record close of <NUM> <PUNC>
-the index climbed <NUM> percent for the week <PUNC>
-<PAR>

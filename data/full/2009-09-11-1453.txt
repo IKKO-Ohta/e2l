@@ -1,4 +1,0 @@
-after wobbling up and down during the morning <COMMA> stock indexes most recently edged higher <COMMA> with energy and materials fronting the limited gains <PUNC>
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx added <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf climbed <NUM> points to <NUM> <PUNC>
-<PAR>

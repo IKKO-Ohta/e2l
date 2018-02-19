@@ -1,4 +1,0 @@
-at 11:45 a.m. eastern <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> index spx declined <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> while the technology-laden nasdaq composite rixf climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-on wednesday <COMMA> citigroup c <COMMA> fannie mae fnm <COMMA> freddie mac fre and bank of america bac topped the list of most actively traded stocks <COMMA> with american international group aig also qualifying as a regular on the list this month <COMMA> according to the wall street journal <PUNC>
-<PAR>

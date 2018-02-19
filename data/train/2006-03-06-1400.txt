@@ -1,5 +1,0 @@
-the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
-in premarket electronic trade <COMMA> shares of bellsouth bls shot up almost <NUM> percent to dollar <NUM> and at&t t dropped <NUM> percent to dollar <NUM> <PUNC>
-intel corp intc was <NUM> cents higher at dollar <NUM> <PUNC>
-in upgrading the stock to buy from hold <COMMA> citigroup said it sees improved prospects for the company <PUNC>
-<PAR>

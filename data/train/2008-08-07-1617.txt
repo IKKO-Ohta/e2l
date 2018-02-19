@@ -1,3 +1,0 @@
-off more than <NUM> points early on <COMMA> the dow jones industrial average was more recently off <NUM> points at <NUM> <PUNC>
-microsoft corp. fronted the dow s limited gains <COMMA> with shares of the software giant climbing <NUM> percent <PUNC>
-<PAR>

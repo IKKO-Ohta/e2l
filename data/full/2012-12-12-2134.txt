@@ -1,3 +1,0 @@
-halting a five-session winning run <COMMA> its longest since march <COMMA> the dow industrials dji declined <NUM> points to <NUM> <PUNC>
-dow gainers included dupont dd <COMMA> which rose <NUM> percent after the chemicals company said it would repurchase as much as dollar <NUM> billion of its shares in <NUM> and that <NUM> profit would come in at the high end of its outlook <PUNC>
-<PAR>

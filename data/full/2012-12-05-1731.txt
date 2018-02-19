@@ -1,4 +1,0 @@
-new york marketwatch <PUNC>
-u.s. stocks turned mostly higher on wednesday <COMMA> pushing the dow jones industrial average up triple digits <COMMA> as financial shares rallied but apple inc. weighed on the technology sector <PUNC>
-the dow jones industrial average dji ?rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with insurer travelers cos. inc. trv leading gains that included all but three of its <NUM> components <PUNC>
-<PAR>

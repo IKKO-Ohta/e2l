@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> stocks in positive territory <COMMA> led by caterpillar inc. cat and mcdonald s corp. mcd <COMMA> both of which rose <NUM> percent <PUNC>
-home depot hd fronted the dow s declines <COMMA> with its stock down more than <NUM> percent <PUNC>
-u.s. stocks climbed wednesday <COMMA> lifting the dow <NUM> points after bank of america <COMMA> citigroup inc. c <COMMA> jpmorgan chase & co. jpm <COMMA> deutsche bank ag <COMMA> and wachovia borrowed money from the federal reserve <PUNC>
-tapping the central bank for funds from the fed would usually be viewed in a negative light <COMMA> but the move came as a way of bolstering the financial system after the fed cut its discount rate last week <PUNC>
-<PAR>

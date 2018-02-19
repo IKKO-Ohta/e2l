@@ -1,7 +1,0 @@
-new york dow jones - u.s. stocks were mixed tuesday <COMMA> as investors looked to earnings reports and the dow jones industrial average outperformed other major averages on positive news from alcoa inc <COMMA> international business machines and other components <PUNC>
-the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
-stocks opened higher on positive response to earnings from alcoa aa and biotechnology bellwether genentech dna <COMMA> but the rise lost some of its steam as the morning wore on <PUNC>
-dow component mcdonald s mcd rose <NUM> percent to dollar <NUM> after ubs lifted its price target for the stock by dollar <NUM> to dollar <NUM> <PUNC>
-shares of general motors corp. gm <COMMA> also in the dow <COMMA> were <NUM> percent higher at dollar <NUM> <COMMA> after the stock monday lost <NUM> percent of its value in the wake of its former unit delphi s bankruptcy filing <PUNC>
-international business machines ibm was up <NUM> percent at dollar <NUM> after credit suisse first boston upgraded the stock to an outperform rating citing improving margins in some divisions <PUNC>
-<PAR>

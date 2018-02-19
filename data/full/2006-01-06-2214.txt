@@ -1,9 +1,0 @@
-u.s. stocks closed higher on the session and week friday <COMMA> with the dow jones industrial average reaching its highest close in four and a half years <COMMA> after a weaker than expected december jobs report raised hopes that the federal reserve may end its cycle of interest-rate hikes sooner rather than later <PUNC>
-the dow industrials dji closed <NUM> points higher at <NUM> <COMMA> its best level since mid-2001 <PUNC>
-the benchmark index registered a weekly gain of around <NUM> percent <PUNC>
-elsewhere on the dow <COMMA> wal-mart stores inc. wmt rose <NUM> cents to dollar <NUM> <COMMA> as the repercussions over its disappointing fourth-quarter profit outlook continued to reverberate <PUNC>
-exxon mobil corp. xom jumped dollar <NUM> to dollar <NUM> on the rise in crude <PUNC>
-separately <COMMA> yahoo unveiled a suite of services for mobile phones <COMMA> tv and desktop applications <PUNC>
-yahoo go <COMMA> as the product offering will be known <COMMA> will allow consumers direct access to yahoo content <PUNC>
-the company will be working with at&t t <COMMA> cingular wireless <COMMA> motorola inc. mot and nokia corp. nok to launch the service <PUNC>
-<PAR>

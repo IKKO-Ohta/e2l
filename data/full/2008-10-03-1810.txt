@@ -1,5 +1,0 @@
-the dow jones industrial average dji hit session highs as house members began to vote <COMMA> rising more than <NUM> points <COMMA> only to scale back as the measure passed <PUNC>
-the dow was recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components chalking up gains <COMMA> fronted by alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
-bank of america corp. bac also bolstered the blue-chip index <COMMA> up <NUM> percent <PUNC>
-citigroup inc. c fell the most among the blue chips <COMMA> losing <NUM> percent after the surprising announcement that wells fargo & co. wfc would buy wachovia wb <PUNC>
-<PAR>

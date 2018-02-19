@@ -1,5 +1,0 @@
-earlier thursday <COMMA> investors got a jolt when software titan microsoft msft reported an earnings drop and said it plans to shed as many as <NUM> workers <PUNC>
-it declared itself unable to offer a forecast for the remainder of <NUM> <COMMA> citing economic uncertainty <PUNC>
-the patchy results overall combined with bleak economic data on jobs and housing had the dow jones industrial average dji falling <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-all <NUM> of its component stocks traded in the red <PUNC>
-<PAR>

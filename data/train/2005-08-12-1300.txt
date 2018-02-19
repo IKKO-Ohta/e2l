@@ -1,6 +1,0 @@
-the futures contracts for the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq <NUM> all were pointing toward losses in the early minutes of trade <PUNC>
-dow component united technologies utx was up <NUM> percent at dollar <NUM> before the opening <COMMA> after banc of america upgraded the stock to buy from neutral <COMMA> citing an attractive valuation and earnings potential <PUNC>
-banc of america also initiated coverage on 3m mmm with a neutral rating <PUNC>
-other computer makers also were knocked lower in preopening trade <PUNC>
-apple aapl was down <NUM> percent at dollar <NUM> and hewlett-packard hpq down <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points at <NUM> <PUNC>
-on the week the benchmark index fell <NUM> percent <PUNC>
-quarterly results from caterpillar inc. cat <COMMA> however <COMMA> served as a reminder to investors that the third-quarter earnings season has been somewhat of a mixed bag so far <PUNC>
-shares of pfizer pfe extended an <NUM> percent loss on thursday after two brokers cut their price target on the drug giant after it lowered its <NUM> outlook and withdrew its forecast for <NUM> and <NUM> <PUNC>
-the stock ended at an eight-year low of dollar <NUM> <COMMA> down nearly <NUM> percent <PUNC>
-<PAR>

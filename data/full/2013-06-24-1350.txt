@@ -1,6 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with only one of its <NUM> components in positive territory <PUNC>
-bank of america corp. bac and j.p. morgan chase & co. jpm were the biggest decliners in the dow <COMMA> dropping <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-u.s. stocks fell sharply last week <COMMA> with investors spooked after the federal reserve signaled it may scale back bond purchases later this year if the economy continues to improve as the central bank expects <PUNC>
-last week <COMMA> the s&p <NUM> declined <NUM> percent and the dow industrials fell <NUM> percent <PUNC>
-read about seven ways to spot a market top <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to end at <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by dupont co. dd <COMMA> up <NUM> percent <COMMA> after its first-quarter earnings more than doubled as drought conditions prompted farmers to buy more of its drought-resistant seeds and other products to protect crops <PUNC>
-bank of america corp. bac added <NUM> percent after morgan stanley upgraded the dow member s shares to overweight from equal weight <PUNC>
-another dow component <COMMA> travelers companies inc. trv <COMMA> rose <NUM> percent after the dow member and insurer reported a jump in first-quarter profit <PUNC>
-but the session was not lacking in drama <COMMA> as the dow lost more than <NUM> points in a matter of seconds <COMMA> briefly trading down nearly <NUM> points on the day <COMMA> before springing back after the associated press said its twitter account was hacked <PUNC>
-the ap s twitter feed had erroneously said that there had been two explosions at the white house <PUNC>
-united technologies corp. utx shares slid after the diversified manufacturer on tuesday reported a better-than-estimated profit but its chief financial officer said the government s scheduled budget cuts have begun to dent orders <PUNC>
-<PAR>

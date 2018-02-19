@@ -1,7 +1,0 @@
-the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-on tuesday <COMMA> stocks rallied <COMMA> with the dow gaining <NUM> points <COMMA> a climb attributable in part to sept. <NUM> <COMMA> said pado <PUNC>
-yesterday was sort of patriotic <PUNC> it would be frowned upon to be shorting or selling into the market <PUNC>
-a lot of bears stayed out of the confrontation <COMMA> with room to lift easily on light volume <PUNC>
-shares of dow component exxon mobil corp. xom gained as did crude-oil futures <COMMA> with the former rising <NUM> percent and the latter trading above dollar <NUM> a barrel after u.s. government data showed supplies dropped more than <NUM> million barrels <PUNC>
-shares of amgen amgn and johnson & johnson jnj advanced <COMMA> amgen up <NUM> percent and johnson & johnson up <NUM> percent after a food and drug administration advisory committee did not back a limit on the use of anemia drugs the companies produce <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-ahead of the economic data <COMMA> stock futures had posted modest gains after wal-mart wmt reported a <NUM> percent rise in second-quarter profit and upped its annual earnings goal <PUNC>
-<PAR>

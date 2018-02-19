@@ -1,5 +1,0 @@
-off more than <NUM> points earlier <COMMA> the dow jones industrial average dji was recently off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components falling <COMMA> led by a <NUM> percent drop in shares of aig aig <PUNC>
-the market stumbled earlier <COMMA> with the dow losing more than <NUM> points <COMMA> after a fund managed by the carlyle group reported it is close to collapse <COMMA> dragging down the dollar and boosting oil <PUNC>
-counterparties of the carlyle fund in trouble include dow components citigroup c <COMMA> j.p. morgan chase jpm and banc of america bac <PUNC>
-among stocks in focus thursday <COMMA> microsoft msft and general electric ge are holding analyst meetings <COMMA> and tyco international tyc is holding its annual shareholder meeting <PUNC>
-<PAR>

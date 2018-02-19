@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-pfizer pfe zoomed almost <NUM> percent to dollar <NUM> a share <PUNC>
-other pharmaceutical stocks were swept higher <COMMA> too <COMMA> including merck & co. <COMMA> mrk which rose <NUM> percent to dollar <NUM> <COMMA> and bristol-myers squibb co. <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

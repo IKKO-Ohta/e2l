@@ -1,6 +1,0 @@
-the dow jones industrial average dji traded back and forth across the flat line <COMMA> and was last up <NUM> points at <NUM> <PUNC>
-shares in dow component hewlett-packard co hpq surged as much as <NUM> percent to a near five-year high of dollar <NUM> after the computer and printer maker posted forecast-beating results <PUNC>
-its first-quarter profit shot up <NUM> percent over year-ago levels <COMMA> buoyed by higher personal-computer sales and the implementation of a major restructuring of the company <PUNC>
-in other news <COMMA> a consortium led by cerberus capital management and citigroup s c private-equity arm is the front-runner to buy a majority stake in general motors acceptance corp. <COMMA> the financing arm of general motors corp. gm <COMMA> according to a report in the wall street journal <PUNC>
-gm shares were up <NUM> cents at dollar <NUM> in morning trading <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-a selloff in the morning after st. louis fed president james bullard s rate-hike comments sent the dow jones industrial average down <NUM> points at session lows <PUNC>
-the s&p <NUM> spx closed off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the dow jones industrial average dji dropped as much as <NUM> points <COMMA> but recovered and closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
-<PAR>

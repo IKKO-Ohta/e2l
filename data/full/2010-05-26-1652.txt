@@ -1,2 +1,0 @@
-after another triple-digit move <COMMA> the dow jones industrial average dji moderated its advance <COMMA> up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <COMMA> led by heavy-equipment maker caterpillar inc. cat <COMMA> up <NUM> percent <PUNC>
-<PAR>

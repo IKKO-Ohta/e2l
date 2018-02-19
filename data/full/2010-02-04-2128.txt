@@ -1,7 +1,0 @@
-fears about the global economy and sovereign credit hammered stocks thursday <COMMA> causing the dow jones industrial average to briefly cross below <NUM> for its worst day since april <PUNC>
-the dow average dji ended down <NUM> points <COMMA> its worst one-day point slide since april <NUM> <COMMA> <NUM> <PUNC>
-the measure was off <NUM> percent for the day to end at <NUM> <COMMA> a three-month low <PUNC>
-twenty-nine of the dow s <NUM> components fell <COMMA> with bank of america corp. bac suffering the most <COMMA> off <NUM> percent after new york attorney general andrew cuomo filed civil securities fraud charges against former bank executives kenneth lewis and joseph price over their handling of the merrill lynch acquisition <PUNC>
-the only dow stock to post gains was cisco systems inc. csco <COMMA> up <NUM> percent as investors responded to a better-than-expected profit report <PUNC>
-the dow jones-ubs commodity index was off <NUM> percent <PUNC>
-<PAR>

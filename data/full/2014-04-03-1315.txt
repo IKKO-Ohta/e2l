@@ -1,4 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> only a few points shy of its record close reached dec <NUM> <PUNC>
-<NUM> <PUNC>
-the blue-chip index is now flat for the year <PUNC>
-<PAR>

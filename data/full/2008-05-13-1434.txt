@@ -1,6 +1,0 @@
-the dow jones industrial average fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting early losses <PUNC>
-blue-chip declines were led by hewlett-packard co. hpq <COMMA> recently down <NUM> percent after the company said it would acquire electronic data systems corp. eds for dollar <NUM> billion to better compete with ibm ibm <PUNC>
-<PAR>
-off the dow <COMMA> shares of eds gained <NUM> percent <PUNC>
-stock indexes futures had fallen earlier on after wal-mart stores inc. wmt <COMMA> the world s largest retailer <COMMA> projected earnings that will likely fall below analysts forecasts <PUNC>
-<PAR>

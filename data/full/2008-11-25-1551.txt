@@ -1,5 +1,0 @@
-paring an initial triple-digit rise <COMMA> the dow jones industrial average dji was more recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting early gains <PUNC>
-the blue-chip advance was fronted by j.p. morgan chase & co. jpm <COMMA> shares of which moved up <NUM> percent <PUNC>
-general motors corp. gm proved the dow s greatest laggard <COMMA> with shares of the automaker sliding <NUM> percent <PUNC>
-on monday <COMMA> u.s. stocks climbed for a second session straight as the government backed more than dollar <NUM> billion of citigroup inc. c assets and president-elect barack obama formally unveiled his economic team <PUNC>
-<PAR>

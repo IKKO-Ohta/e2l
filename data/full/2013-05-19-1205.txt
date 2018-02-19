@@ -1,6 +1,0 @@
-the s&p <NUM> index spx rose <NUM> percent last week to close at a record of <NUM> friday <COMMA> its 16th record close this year <PUNC>
-similarly <COMMA> the dow jones industrial average dji rose <NUM> percent on the week to <NUM> <COMMA> its 21st record of the year <PUNC>
-the major benchmarks <COMMA> including the nasdaq composite rixf <COMMA> have made a nearly unchecked <NUM> percent -17 percent gain for the year <PUNC>
-next week will also see the last of the dow industrials reporting earnings along with much of the rest of the s&p <NUM> <PUNC>
-home depot inc. hd and hewlett-packard co. hpq are the final two dow components that will report for this season <PUNC>
-<PAR>

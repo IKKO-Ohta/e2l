@@ -1,5 +1,0 @@
-indeed <COMMA> the dow jones industrial average dji already endured a bludgeoning <COMMA> registered its worst percentage decline since nov. <NUM> <COMMA> <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <PUNC>
-it was also the worst week for the s&p <NUM> spx on a percentage basis since may <NUM> <COMMA> <NUM> <PUNC>
-the s&p <NUM> was down <NUM> <PUNC>
-<NUM> points and <NUM> percent on the week <PUNC>
-<PAR>

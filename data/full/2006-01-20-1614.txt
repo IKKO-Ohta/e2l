@@ -1,7 +1,0 @@
-u.s. stocks fell sharply friday <COMMA> with the dow jones industrial average falling more than <NUM> points <COMMA> after oil prices hit a four-month high and general electric co. and citigroup inc. disappointed on earnings <PUNC>
-the dow industrials dji were just off a session low of <NUM> <COMMA> down <NUM> points at <NUM> <PUNC>
-the benchmark index last posted a triple-digit in late december <PUNC>
-shares in general electric co. ge fell as much as <NUM> percent to dollar <NUM> after the industrial conglomerate s quarterly revenue fell shy of analyst expectations <COMMA> but an upward revision to the bottom end of its <NUM> outlook was helping put a floor on losses <PUNC>
-citigroup inc. c <COMMA> another dow component <COMMA> fell to a more than two-month low <COMMA> down <NUM> percent at dollar <NUM> after the new york banking and financial services group posted earnings from continuing operations that missed wall street estimates <PUNC>
-the bank noted a challenging interest rate environment and competitive pricing conditions <PUNC>
-<PAR>

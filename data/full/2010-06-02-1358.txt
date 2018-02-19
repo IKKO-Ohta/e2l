@@ -1,5 +1,0 @@
-the dow jones industrial average rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-j.p. morgan chase jpm led the measure s gains with a jump of <NUM> percent <COMMA> while alcoa aa was also strong <COMMA> up <NUM> percent <PUNC>
-at&t t rose <NUM> percent <PUNC>
-the company is lowering prices on some of its wireless calling plans for the second time in six months and moving to a model of charging users based on the amount of internet surfing they do and email traffic they generate on devices like the iphone <PUNC>
-<PAR>

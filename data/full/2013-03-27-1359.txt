@@ -1,3 +1,0 @@
-a day after closing at a record high <COMMA> the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-upbeat data on durable-goods orders and house prices helped lift u.s. stocks on tuesday <COMMA> with the dow jones industrial average hitting a record and the s&p <NUM> closing less than two points away from its all-time closing high <PUNC>
-<PAR>

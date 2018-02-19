@@ -1,4 +1,0 @@
-the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
-pfizer inc. pfe could be in focus <PUNC>
-the company last monday raised its divided and said it elected chief executive jeffrey kindler to serve as chairman <PUNC>
-<PAR>

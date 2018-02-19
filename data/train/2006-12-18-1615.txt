@@ -1,3 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-among blue-chips <COMMA> citigroup inc. c rose <NUM> percent after merrill lynch upgraded the stock to a buy from a neutral <COMMA> with the broker citing the stock s attractive valuation and saying it has greater confidence the bank will achieve its <NUM> earnings target <PUNC>
-<PAR>

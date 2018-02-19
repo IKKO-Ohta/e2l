@@ -1,3 +1,0 @@
-the dow jones industrial average dji lost <NUM> points to <NUM> <COMMA> with intel corp. intc leading the gains that extended to <NUM> of its <NUM> members <PUNC>
-alcoa aa shares edged higher a day after the aluminum producer reported results that marked the unofficial start of the earnings season <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> stocks posting gains <COMMA> led by hewlett-packard co. hpq up <NUM> percent <PUNC>
-<PAR>

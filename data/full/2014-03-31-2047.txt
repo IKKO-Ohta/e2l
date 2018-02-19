@@ -1,4 +1,0 @@
-the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and is <NUM> percent higher on the month <PUNC>
-however <COMMA> the blue-chip index lost <NUM> percent over the past quarter <PUNC>
-shares of johnson & johnson jnj rose <NUM> percent after agreeing to sell its ortho-clinical diagnostics unit to the carlyle group for about dollar <NUM> billion in a deal that s expected to close in the middle of the year <PUNC>
-<PAR>

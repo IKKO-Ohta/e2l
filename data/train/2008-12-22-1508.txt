@@ -1,7 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-the blue-chip declines were fronted by general motors corp. gm <COMMA> down <NUM> percent <PUNC>
-off the dow <COMMA> shares of ford motor co. f fell <NUM> percent and those of toyota motor corp. tm declined <NUM> percent after toyota forecast an operating loss for the current year <COMMA> which would be a first in the automaker s history since world war ii <PUNC>
-wal-mart stores wmt said late friday that it s launching a bid to take over chilean retailer distribucion y servicio d&s sa for almost <NUM> cents a share <PUNC>
-wal-mart would pay dollar <NUM> billion if all shares were tendered <PUNC>
-the dow jones industrial average dji closed at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <COMMA> to finish the week down <NUM> percent <PUNC>
-<PAR>

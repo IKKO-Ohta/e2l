@@ -1,6 +1,0 @@
-u.s. stocks monday were on track for their worst day in seven weeks <COMMA> with the dow industrial off more than <NUM> points <COMMA> after data pointing to a china slowdown and less optimism among home builders sapped momentum in what s been a near-vertical stock rally <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> spx lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf sank <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-on the dow <COMMA> heavy equipment maker caterpillar inc. cat fell the most <COMMA> followed by other blue chips considered heavily exposed to china or global resource demand <PUNC> oil-major chevron corp. cvx <COMMA> alcoa corp. aa <COMMA> exxon mobil corp. xom and general electric co. ge <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-down about <NUM> points before release of the summary of the federal open market committee meeting <COMMA> the dow jones industrial average dji was more recently off <NUM> points to <NUM> <PUNC>
-of the blue-chip index s <NUM> components <COMMA> all but two remained lower <COMMA> with technology stocks the hardest hit <PUNC>
-intel corp. intc was down <NUM> percent and ibm ibm dropped <NUM> percent <PUNC>
-on monday <COMMA> stocks fell amid worries about economic growth <COMMA> with the dow industrials losing <NUM> points <COMMA> the nasdaq composite shedding <NUM> points and the s&p <NUM> losing <NUM> points <PUNC>
-the credit crunch continued to take its toll <COMMA> with phh corp. phh <COMMA> a provider of residential-mortgage and vehicle-fleet-management services <COMMA> saying it had called off its plan to be acquired by general electric co. s ge ge capital financing unit <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in recent trading <PUNC>
-industrial giants boeing co. ba and caterpillar inc. cat were among the measure s best performers <COMMA> with boeing up <NUM> percent and caterpillar up <NUM> percent <PUNC>
-the measure s energy components were also particularly strong as crude-oil futures flirted with dollar <NUM> a barrel <PUNC>
-chevron corp. cvx climbed <NUM> percent while exxon mobil corp. xom rose <NUM> percent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-the dow s financial components mostly fell <COMMA> with citigroup c off <NUM> percent <COMMA> american express axp down <NUM> percent <COMMA> and j.p. morgan chase jpm off <NUM> percent <PUNC>
-hewlett-packard hpq <COMMA> also a blue chip <COMMA> rose <NUM> percent after the company posted an <NUM> percent rise in profits and issued earnings guidance that topped analyst estimates <PUNC>
-the blue-chip average s other technology stocks mostly rose <COMMA> with ibm ibm up <NUM> percent and intel corp. intc up <NUM> percent <PUNC>
-<PAR>

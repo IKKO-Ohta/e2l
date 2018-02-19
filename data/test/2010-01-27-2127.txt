@@ -1,6 +1,0 @@
-the dow jones industrial average dji was in the red for most of the session but ended with a 46-point gain <COMMA> up <NUM> percent <COMMA> at <NUM> <PUNC>
-its strongest component was boeing ba <COMMA> up <NUM> percent after the aircraft and defense company swung to a fourth-quarter profit that was bigger than analysts had projected <PUNC>
-but caterpillar cat shares slid <NUM> percent <COMMA> hurt by the equipment maker s report of a sharp decline in fourth-quarter earnings and forecast <NUM> earnings below analysts estimates <PUNC>
-the s&p <NUM> spx was up <NUM> percent <COMMA> led by a <NUM> percent jump in its financial sector <COMMA> which tends to benefit from low borrowing costs <PUNC>
-among the big individual winners were bank of america bac <COMMA> up <NUM> percent <PUNC> j.p. morgan chase jpm <COMMA> up <NUM> percent <PUNC> and wells fargo & co. wfc <COMMA> up <NUM> percent <PUNC>
-<PAR>

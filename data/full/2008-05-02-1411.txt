@@ -1,6 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <PUNC>
-top gainers on the dow industrials included citigroup inc. c <COMMA> up <NUM> percent <COMMA> and bank of america corp. bac <COMMA> ahead <NUM> percent <PUNC>
-procter & gamble co. pg led blue chip declines <COMMA> its stock off <NUM> percent <PUNC>
-also of note <COMMA> microsoft corp. msft and yahoo inc. yhoo were again in the headlines as the wall street journal reported that microsoft is leaning toward a hostile bid for the internet search group <COMMA> which has rejected the unsolicited takeover offer made in january <PUNC>
-yahoo shares rose over <NUM> percent to dollar <NUM> <PUNC>
-<PAR>

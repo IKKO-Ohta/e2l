@@ -1,5 +1,0 @@
-meanwhile <COMMA> the dow jones industrial average dji gained <NUM> points to close at <NUM> <COMMA> after shifting in and out of positive during the whole session <PUNC>
-but the blue chip average remained supported by gains from the likes of general motors corp. gm <COMMA> alcoa inc. aa <COMMA> honeywell inc. hon and dupont dd <PUNC>
-the dow was weighed by shares of hewlett-packard co. hpq <COMMA> which fell <NUM> percent after news that eastman kodak ek is introducing a competing line of higher-priced printers that feature lower-priced cartridges <PUNC>
-wal-mart stores inc. wmt rose slightly after the retailer announced that it is testing a possible video download service that would offer more than <NUM> films and television shows <PUNC>
-<PAR>

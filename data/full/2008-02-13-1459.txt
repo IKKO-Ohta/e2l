@@ -1,3 +1,0 @@
-the dow jones industrial dji rose <NUM> points to <NUM> in early action <PUNC>
-ahead of the opening bell <COMMA> blue chip coca-cola ko reported <NUM> percent quarterly profit growth and said it expects to enjoy a good <NUM> <PUNC>
-<PAR>

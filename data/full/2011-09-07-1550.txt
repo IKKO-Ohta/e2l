@@ -1,2 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with all <NUM> of its components rising <COMMA> led by bank of america corp. bac <COMMA> up <NUM> percent a day after a management shake-up <PUNC>
-<PAR>

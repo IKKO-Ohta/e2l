@@ -1,2 +1,0 @@
-the dow jones industrial average dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all <NUM> of its components in the red <COMMA> with american international group inc. and general motors corp. among those weighing heavily on the dow <COMMA> with aig down <NUM> percent and gm off 3;6 percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> <NUM> <COMMA> retreating from the 18-month closing high it reached tuesday <PUNC>
-declines in commodities weighed on alcoa aa and chevron cvx <COMMA> which fell <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-economically sensitive caterpillar cat <COMMA> which has a fair amount of international exposure <COMMA> was also weak with a drop of <NUM> percent <PUNC>
-boeing ba was one of the dow s few components in the black <PUNC>
-it climbed <NUM> percent as macquarie boosted its investment rating on the stock to outperform from neutral <COMMA> projecting a <NUM> percent increase in aircraft deliveries next year <PUNC>
-<PAR>

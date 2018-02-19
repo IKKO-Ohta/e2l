@@ -1,5 +1,0 @@
-while the dow jones industrial average dji held onto to slight gains <COMMA> the broad s&p <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the nasdaq composite rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the dow industrials <COMMA> which first rose more than to <NUM> points after the fed announcement <COMMA> ended with a slight gain of <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-blue-chip gains were led by shares of boeing co. ba <COMMA> up <NUM> percent <COMMA> j.p. morgan chase jpm <COMMA> up <NUM> percent <COMMA> and alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
-<PAR>

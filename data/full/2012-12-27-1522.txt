@@ -1,2 +1,0 @@
-in choppy action <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-<PAR>

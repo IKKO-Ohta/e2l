@@ -1,8 +1,0 @@
-stocks are coming off a rough week with the dow industrials finishing down <NUM> percent <COMMA> the s&p <NUM> off <NUM> percent <COMMA> and the nasdaq composite index rixf declining <NUM> percent <PUNC>
-even though federal reserve minutes revealing the central bank will end monthly bond purchases in october provided some lift <COMMA> other factors including renewed worries about portugal and a selloff in so-called momentum stocks put pressure on markets <PUNC>
-other highlights this week include dow components intel corp. intc on monday and international business machines corp. ibm on thursday <PUNC>
-other s&p <NUM> tech companies reporting earnings include yahoo inc. yhoo <COMMA> ebay inc. ebay <COMMA> sandisk corp. sndk <COMMA> and alliance data systems corp. ads <PUNC>
-citigroup inc. c reports results monday <PUNC>
-dow components j.p. morgan chase & co. jpm and goldman sachs group inc. gs report results on tuesday <PUNC>
-the remaining dow components reporting this week include johnson & johnson inc. jnj on tuesday <PUNC> unitedhealth group inc. unh on thursday <PUNC> and general electric co. ge on friday <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-u.s. stocks ended a volatile session mostly higher on tuesday <COMMA> with a rebound in materials <COMMA> financial and consumer shares helping the dow jones industrial average recover most of a nearly 300-point drop that had pushed it below the <NUM> mark <PUNC>
-fear over the impact of the sovereign debt crisis in europe and tensions between north and south korea had led the dow industrials dji to as low as <NUM> during the session <PUNC>
-but the blue-chip average recovered to end down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> by the close <PUNC>
-blue-chip gains were led by shares of home depot hd <COMMA> up <NUM> percent <COMMA> and alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
-<PAR>

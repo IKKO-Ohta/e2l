@@ -1,4 +1,0 @@
-an unexpected jump in home sales in july on friday propelled stocks <COMMA> leaving the dow jones industrial average dji with a triple-digit advance and up <NUM> percent for the week <PUNC>
-like the dow jones industrial average <COMMA> the s&p advanced <NUM> percent for the week and climbed <NUM> points on friday <PUNC>
-the nasdaq composite rixf rose <NUM> points on friday and ended the week up <NUM> percent <PUNC>
-<PAR>

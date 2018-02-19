@@ -1,5 +1,0 @@
-the dow jones industrial average dji was down <NUM> <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components tallying losses <COMMA> paced by aluminum giant alcoa inc. aa <COMMA> off <NUM> percent <PUNC>
-home depot inc. hd was also among the blue chips dragging down the dow <COMMA> off <NUM> percent a day before the largest home-improvement retailer reports quarterly results <PUNC>
-on friday <COMMA> the major u.s. stock indexes fell sharply for a second session <COMMA> yet still managed to halt a weekly losing streak before it hit a third week <PUNC>
-the dow industrials declined <NUM> points to end at <NUM> on friday <COMMA> its lowest close in a week <COMMA> while the s&p <NUM> index shed <NUM> points to finish at <NUM> and the nasdaq lost <NUM> points to end at <NUM> <PUNC>
-<PAR>

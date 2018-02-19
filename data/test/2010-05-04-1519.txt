@@ -1,4 +1,0 @@
-the dow jones industrial average dji tumbled <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <COMMA> led by aluminium giant alcoa inc. aa <COMMA> off <NUM> percent <PUNC>
-pfizer pfe and merck mrk were among the blue chips on the rise <PUNC>
-the drug giants stocks rose more than <NUM> percent each after the companies reported declining profits after making hefty mergers but also topped earnings estimates <PUNC>
-<PAR>

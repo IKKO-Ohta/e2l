@@ -1,8 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> just off an intraday high of <NUM> <PUNC>
-within the dow industrials <COMMA> caterpillar inc. cat shares dipped <NUM> cents to dollar <NUM> after merrill lynch downgraded the construction-equipment maker to neutral from buy <COMMA> mainly on valuation grounds <PUNC>
-analyst andrew obin believes investors are too optimistic about the positive impact of hurricane katrina on caterpillar s earnings <PUNC>
-since the end of august <COMMA> the stock has risen <NUM> percent <PUNC>
-shares of coca-cola ko rose <NUM> percent to dollar <NUM> after ban of america upgraded the beverage giant <COMMA> citing better-than-expected volume growth in <NUM> and the likelihood of an acceleration in profit growth for <NUM> <PUNC>
-general motors corp. gm <COMMA> another dow component <COMMA> erased early losses <COMMA> shrugging off deutsche bank cutting its debt rating to sell from hold <PUNC> the broker also reiterated its sell rating on the stock <PUNC>
-rounding out the dow action <COMMA> alcoa inc. aa was off a penny at dollar <NUM> as prudential downgraded the company as part of a more cautious stance on the aluminum sector <PUNC>
-<PAR>

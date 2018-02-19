@@ -1,6 +1,0 @@
-stocks rose strongly over the past week <COMMA> rebounding after a slide last friday when a number of multinationals <COMMA> notably caterpillar inc. cat and honeywell inc. hon <COMMA> warned of the impact of a slowing economy on their earnings <PUNC>
-investors still banked a lot on earnings from the technology sector <COMMA> which delivered this week starting with apple inc. aapl on monday and ending with microsoft corp. msft on thursday <PUNC>
-the dow jones industrial average dji rallied <NUM> points to <NUM> friday <COMMA> racking in a <NUM> percent advance for the week <PUNC>
-the decline to negative growth has been led by the likes of merrill lynch <COMMA> bank of america corp. bac <COMMA> citigroup inc. c and washington mutual inc. wm <COMMA> which have all taken bigger than expected hits from the their exposure to the meltdown in subprime mortgages and on associated securities <PUNC>
-next week <COMMA> the market will turn to earnings of dow components verizon communications inc. vz on monday <COMMA> procter & gamble co. pg on tuesday and exxon mobil corp. xom on wednesday <PUNC>
-<PAR>

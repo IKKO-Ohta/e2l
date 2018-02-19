@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with all but six of its <NUM> components losing ground <PUNC>
-american express co. axp led the blue-chip decliners <PUNC> its shares were down <NUM> percent <PUNC>
-bucking the down trend <COMMA> shares of oracle corp. orcl advanced <NUM> percent after the database-software titan said it hired former hewlett-packard co. hpq ceo mark hurd as one of its presidents <PUNC>
-<PAR>

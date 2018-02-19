@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-shares of delphi corp. dph plummeted <NUM> percent to dollar <NUM> in afternoon trading after the troubled auto-parts maker said it was in discussions with former parent general motors corp. gm and the united auto workers about a comprehensive restructuring of its unprofitable u.s. operations <COMMA> according to a wall street journal report <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji <COMMA> which had traded as high as <NUM> during the day <COMMA> fell <NUM> points <COMMA> or <NUM> percent <COMMA> to close at a session low of <NUM> <COMMA> its lowest close since june <NUM> <PUNC>
-among the dow s leading stocks <COMMA> boeing co. ba shares fronted losses <COMMA> falling <NUM> percent <COMMA> followed by intel corp. intc with a <NUM> percent decline <PUNC>
-shares of dow component alcoa inc. aa moved down <NUM> percent after the aluminum producer reported financial results late monday <PUNC>
-excluding charges <COMMA> the aluminum producer s second-quarter income from continuing operations was a penny short of expectations <PUNC>
-shares of cisco systems inc. csco <COMMA> however <COMMA> gained <NUM> percent on speculation the tech company may cut <NUM> jobs <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji declined <NUM> points at <NUM> <PUNC>
-intel intc led an opening drop among the blue chips <COMMA> sliding <NUM> percent <PUNC>
-the technology bellwether late tuesday reported a <NUM> percent jump in net profit <COMMA> but the results still came in shy of expectations <PUNC>
-<PAR>
-in earnings news <COMMA> j.p. morgan chase jpm said its fourth-quarter profit fell <NUM> percent <COMMA> driven down by a dollar <NUM> billion write-down of subprime assets and deteriorating performance in its home equity business <COMMA> and a big drop in investment-banking activity <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-on thursday <COMMA> the market failed to hold morning gains <PUNC>
-the s&p <NUM> was recently down <NUM> points at <NUM> <COMMA> while the dow jones industrial average was down <NUM> points at <NUM> and the nasdaq composite rixf fell <NUM> points to <NUM> <PUNC>
-<PAR>

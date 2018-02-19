@@ -1,4 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <PUNC>
-the dow has made three attempts to close above <NUM> over the last <NUM> days and failed each time <PUNC>
-that level appears to be a troublesome technical price resistance points that could prove stubborn to penetrate this week <COMMA> noted fred dickson <COMMA> chief investment strategist at davidson companies <PUNC>
-<PAR>

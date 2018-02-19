@@ -1,6 +1,0 @@
-u.s. stocks rose monday <COMMA> lifting the dow industrials within striking distance of the <NUM> mark <COMMA> after economic data added to optimism inspired by the largest gains in employment in three years <PUNC>
-should the dow clear the psychological hurdle <COMMA> it would help mainstream americans feel a little more comfortable taking some of their <NUM> k money out of the mattress and back into the market <COMMA> said art hogan <COMMA> chief market strategist at jefferies & co <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the dow industrials last traveled above the <NUM> level on sept. <NUM> <COMMA> <NUM> <COMMA> and last closed above that mark three days earlier <PUNC>
-twenty-one of the blue-chip benchmark s <NUM> components advanced <COMMA> with caterpillar inc. cat and general electric co. ge both up about <NUM> percent <PUNC>
-<PAR>

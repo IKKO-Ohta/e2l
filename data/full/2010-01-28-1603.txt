@@ -1,5 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-caterpillar cat led the measure s declines <COMMA> as the heavy-machinery maker dropped <NUM> percent <PUNC>
-tech companies weighed on the dow <COMMA> with hewlett-packard hpq down <NUM> percent <COMMA> microsoft msft down <NUM> percent <COMMA> and cisco systems csco down <NUM> percent <PUNC>
-at&t t slid after reporting fourth-quarter earnings rose <NUM> percent on fewer charges <COMMA> but the company has faced criticism for its spotty iphone service and speculation that its exclusivity agreement with apple could expire soon <PUNC>
-<PAR>

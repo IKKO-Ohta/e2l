@@ -1,2 +1,0 @@
-s&p <NUM> index futures sph3 fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while futures on the dow jones industrial average djh3 lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

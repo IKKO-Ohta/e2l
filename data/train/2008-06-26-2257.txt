@@ -1,9 +1,0 @@
-the dow jones industrial average dji tumbled <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it down nearly <NUM> points <COMMA> or <NUM> percent <COMMA> for the month <COMMA> with two trading days yet to go <PUNC>
-as things stand <COMMA> the month is the worst june so far since <NUM> when the index declined <NUM> percent <PUNC>
-it was the middle of march that the bear stearns debacle became public <COMMA> sending the dow to a low of <NUM> <PUNC>
-that level was broken within the first minute of trading today <COMMA> wrote kathy lien <COMMA> chief strategist of dailyfx.com <PUNC>
-general motors gm weighed most heavily on the blue chips <COMMA> down <NUM> percent <COMMA> after goldman sachs told clients to unload their positions in the face of the deteriorating automotive climate <PUNC>
-<PAR>
-all of the dow s <NUM> components closed in negative territory <PUNC>
-goldman sachs cut its rating on u.s. brokers to neutral from attractive <COMMA> and put citigroup inc. c on its conviction sell list <PUNC>
-<PAR>

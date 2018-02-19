@@ -1,5 +1,0 @@
-the dow jones industrial average dji never rose above its friday close and ended down <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> with <NUM> of its <NUM> components ending down <PUNC>
-the index traded within a narrow 53-point range throughout the session <PUNC>
-on the dow <COMMA> shares of home depot inc. hd and unitedhealth group inc. unh led the decline <COMMA> falling about <NUM> percent <PUNC>
-shares of blue-chips microsoft corp. msft and pfizer inc. pfe gained about <NUM> percent <PUNC>
-<PAR>

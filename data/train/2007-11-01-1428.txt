@@ -1,5 +1,0 @@
-u.s. stocks fell sharply thursday <COMMA> with the dow industrials sliding over <NUM> points <COMMA> after exxon mobil s worse-than-expected earnings and ongoing trouble in the financial sector sobered up the market after the euphoria of the federal reserve s rate cut <PUNC>
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in early action <COMMA> as <NUM> of its <NUM> components fell <COMMA> led lower by exxon mobil xom and financials stocks <COMMA> such as jp morgan chase jpm <COMMA> american express axp <COMMA> and aig aig <PUNC>
-citigroup c slid <NUM> percent after being downgraded to sector underperformer from sector performer at cibc world markets <COMMA> which cited potential worries about its dividend payments <PUNC>
-exxon mobil xom fell <NUM> percent after saying third-quarter income fell <NUM> percent as the rising cost of oil boosted expenses and outpaced any price increases that the petroleum giant could get for its products <PUNC>
-<PAR>

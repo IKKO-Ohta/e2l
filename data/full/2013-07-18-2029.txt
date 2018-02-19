@@ -1,8 +1,0 @@
-after striking an intraday record of <NUM> <COMMA> the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> marking its 27th record close this year <PUNC>
-pacing the dow s gains <COMMA> unitedhealth group inc. unh rose <NUM> percent after reporting a larger-than-expected increase in second-quarter net income <PUNC>
-dow component intel corp. intc retreated <NUM> percent after projecting third-quarter sales that could come in below expectations <PUNC>
-international business machines corp. ibm climbed <NUM> percent after hiking its full-year earnings outlook <PUNC>
-read commentary about skepticism on ibm s revenue growth <PUNC>
-verizon communications inc. vz fell <NUM> percent after the wireless carrier reported a jump in earnings and revenue <COMMA> with the latter coming in just shy of estimates <PUNC>
-among the companies that reported earnings after the bell on thursday are google inc. goog and microsoft corp. msft <PUNC>
-<PAR>

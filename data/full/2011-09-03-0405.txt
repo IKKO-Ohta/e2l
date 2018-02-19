@@ -1,6 +1,0 @@
-on friday <COMMA> the jobs report pulled all three stock markets into the red <PUNC>
-the dow jones industrial average c dji closed at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <PUNC>
-the nasdaq ndaq closed at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <PUNC>
-the s&p <NUM> spx finished at <NUM> <COMMA> down <NUM> points or <NUM> percent <PUNC>
-since july <NUM> <COMMA> the standard & poor s <NUM> index spx has declined more than <NUM> percent <COMMA> while the dow jones industrial average dji has fallen nearly <NUM> percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji was sitting just off its high for the session <COMMA> up <NUM> points at <NUM> <PUNC>
-in the discount arena <COMMA> wal-mart stores inc. wmt posted a <NUM> percent rise in same-stores sales for october <PUNC>
-same-store sales <COMMA> a widely-used measure of retail performance <COMMA> tracks sales from stores open at least a year <PUNC>
-looking ahead <COMMA> the world s largest retailer and a dow component forecast same-store sales growth of <NUM> percent to <NUM> percent for november <PUNC>
-the company s stock tacked on as much as <NUM> cents to dollar <NUM> in early trading <PUNC>
-<PAR>

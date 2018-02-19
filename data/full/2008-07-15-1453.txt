@@ -1,4 +1,0 @@
-after falling more than <NUM> points <COMMA> the dow jones industrial average dji recently stood at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
-of the blue-chip index s <NUM> components <COMMA> all but three were posting losses early on <COMMA> with the bleeding led by financials <COMMA> including american international group inc. aig down <NUM> percent <PUNC>
-johnson & johnson jnj led the minority gains on the dow <COMMA> rising <NUM> percent <COMMA> after the world s largest health-care company reported moderately higher second-quarter earnings <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji climbed <NUM> percent last week <PUNC>
-it s up <NUM> percent from its 52-week low on jan. <NUM> <PUNC>
-instead <COMMA> company news could spark some action <PUNC>
-a handful of large companies tied to the consumer will report earnings next week <COMMA> including the walt disney co. dis <COMMA> sara lee corp. sle and molson coors brewing co. tap.nv.t <PUNC>
-the tech sector <COMMA> which contributed to last week s advance <COMMA> has been focused on prolonged deal talks between microsoft inc. msft and yahoo inc. yhoo <PUNC>
-the peak weeks of the first-quarter earnings season are now finished <COMMA> according to thomson financial <PUNC>
-next week <COMMA> two components of the dow and <NUM> s&p <NUM> companies are slated to report <PUNC>
-<PAR>

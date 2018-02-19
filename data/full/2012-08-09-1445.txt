@@ -1,3 +1,0 @@
-recent gains <COMMA> which on thursday had both the dow and the s&p <NUM> rising for a fifth session <COMMA> have come along with rising hopes for further easing by central banks <PUNC>
-the dow jones industrial average dji climbed <NUM> points to <NUM> <PUNC>
-<PAR>

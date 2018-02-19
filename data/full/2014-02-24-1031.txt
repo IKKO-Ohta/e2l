@@ -1,5 +1,0 @@
-tech stocks outperformed last week <PUNC>
-the tech-heavy nasdaq composite index rixf closed up <NUM> percent for the week <COMMA> while the dow jones industrial average dji closed down <NUM> percent and the s&p <NUM> index spx slipped <NUM> percent <PUNC>
-year-to-date results show much the same story <PUNC> the nasdaq has risen <NUM> percent <COMMA> the dow industrials has fallen <NUM> percent <COMMA> and the s&p <NUM> has slipped <NUM> percent <PUNC>
-the one dow component scheduled to report is home depot inc. hd on tuesday <PUNC>
-<PAR>

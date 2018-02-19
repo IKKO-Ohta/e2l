@@ -1,7 +1,0 @@
-up <NUM> points ahead of the latest economic data <COMMA> the dow jones industrial average dji added to its opening gains <PUNC>
-the blue-chip barometer was recently ahead <NUM> points at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were on the rise <COMMA> led by shares of home depot inc. hd and e.i <PUNC>
-dupont de nemours & co. dd <COMMA> both up more than <NUM> percent <PUNC>
-and <COMMA> yahoo inc. yhoo gained <NUM> percent <PUNC>
-the internet-search company <COMMA> facing a hostile takeover attempt mounted by microsoft corp. msft <COMMA> extended its deadline for nominating directors to its board <PUNC>
-<PAR>

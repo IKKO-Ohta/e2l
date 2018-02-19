@@ -1,5 +1,0 @@
-u.s. stocks crept higher on monday <COMMA> giving the dow jones industrial average its 35th record close this year <PUNC>
-* the numbers <PUNC> the dow jones industrial average rose <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> topping its prior record close from friday <PUNC>
-the s&p <NUM> edged up <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> just below its record close of <NUM> hit on oct. <NUM> <PUNC>
-the nasdaq composite tacked on <NUM> point to close at <NUM> <PUNC>
-<PAR>

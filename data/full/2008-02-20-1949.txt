@@ -1,5 +1,0 @@
-up nearly <NUM> points ahead of the fed minutes <COMMA> the dow jones industrial average dji was more recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components tallying gains <PUNC>
-among the blue chips on the rise was hewlett-packard co. hpq <COMMA> shares of which rose following the computer maker s solid earnings <PUNC>
-<PAR>
-as was the case on tuesday <COMMA> telecommunications stocks led among the blue-chip decliners <COMMA> with at&t inc. t off <NUM> percent and verizon communications vz down <NUM> percent <PUNC>
-<PAR>

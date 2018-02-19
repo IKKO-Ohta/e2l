@@ -1,9 +1,0 @@
-the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <PUNC>
-exxon mobil corp. xom fared best among dow components <COMMA> rising <NUM> percent on news of warren buffett s conglomerate establishing a stake in the oil major <PUNC>
-* the buzz <PUNC> don t get too caught up in the all-time highs is what steve rees <COMMA> head of u.s. equity strategy for j.p. morgan private bank <COMMA> suggested when asked about the record closes for the dow and s&p <NUM> <PUNC>
-we re not as focused on the charts <PUNC>
-we re looking at the fundamentals of the equity markets <COMMA> he said in a phone interview on friday <PUNC>
-his team is still very comfortable being overweight u.s. equities and expects corporate earnings will improve in <NUM> <PUNC>
-factset said the s&p <NUM> forward 12-month price-to-earnings ratio reached <NUM> as of thursday s close <COMMA> above that valuation metric s five-year average of <NUM> and its 10-year average of <NUM> <PUNC>
-but that s below its 15-year average of <NUM> and its peak level of <NUM> hit in the late 1990s and early 2000s <PUNC>
-<PAR>

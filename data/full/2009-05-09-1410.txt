@@ -1,5 +1,0 @@
-on friday <COMMA> the dow jones industrial average dji rallied <NUM> points <COMMA> or nearly <NUM> percent <COMMA> to 8,574.the s&p <NUM> index spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-for the week <COMMA> the dow gained <NUM> percent <COMMA> the s&p <NUM> rose <NUM> percent <COMMA> and the nasdaq advanced <NUM> percent <PUNC>
-the rally since march has led the market into positive territory for the year <COMMA> with the s&p now up <NUM> percent <COMMA> and the nasdaq up <NUM> percent <COMMA> with on the dow industrials trailing behind <COMMA> down <NUM> percent year to date <PUNC>
-retail giant wal-mart wmt is due to reports its quarterly results on thursday <COMMA> along with urban outfitters urbn <COMMA> nordstrom jwn <COMMA> blockbuster inc. bbi and kohl s corp. kss <PUNC>
-<PAR>

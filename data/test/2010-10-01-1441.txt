@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> after rising more than <NUM> points earlier <PUNC>
-friday s gains come after the dow surged <NUM> percent last month <COMMA> marking its best september performance since <NUM> and rallied <NUM> percent in the third quarter <COMMA> its best quarterly performance in a year <PUNC>
-<PAR>

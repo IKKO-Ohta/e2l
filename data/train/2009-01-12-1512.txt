@@ -1,6 +1,0 @@
-the dow jones industrial average dji shed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-deutsche bank downgraded alcoa aa to sell from hold in the wake of last week s announced cuts in production and employees by the aluminum giant <PUNC>
-intel corp. intc reports its results on thursday <COMMA> with the chip maker and wal-mart stores inc. wmt among the companies offering bleak forecasts last week <PUNC>
-citigroup inc. c shares fell <NUM> percent with the banking powerhouse reportedly near a deal to combine its brokerage business with morgan stanley ms <PUNC>
-shares of morgan stanley led all s&p <NUM> financial stock gainers <COMMA> climbing <NUM> percent <PUNC>
-<PAR>

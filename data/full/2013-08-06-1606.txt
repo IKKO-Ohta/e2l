@@ -1,4 +1,0 @@
-recouping from what began as a 73.53-point fall from friday s record finish <COMMA> the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-united technologies corp. utx paced the losses that included two thirds of the index s <NUM> components <PUNC>
-wall street on friday had the dow industrials and s&p <NUM> hitting record-high closes as bonds rallied and the dollar fell <PUNC>
-<PAR>

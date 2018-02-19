@@ -1,4 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points at 11,250.11. <PUNC>
-intel corp. shares intc advanced <NUM> cents to close at dollar <NUM> <PUNC>
-general motors corp. gm saw its shares climb <NUM> percent to dollar <NUM> in what will be a crucial week for the troubled automaker <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx up <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf up <NUM> points at <NUM> <PUNC>
-dow component mcdonald s mcd rose <NUM> percent to dollar <NUM> after ubs lifted its price target for the stock by dollar <NUM> to dollar <NUM> <PUNC>
-shares of general motors corp. gm <COMMA> also in the dow <COMMA> were <NUM> percent higher at dollar <NUM> <COMMA> after the stock monday lost <NUM> percent of its value in the wake of its former unit delphi s bankruptcy filing <PUNC>
-yet another dow component <COMMA> international business machines ibm was up <NUM> percent at dollar <NUM> after credit suisse first boston upgraded the stock to an outperform rating <COMMA> citing improving margins in some divisions <PUNC>
-<PAR>

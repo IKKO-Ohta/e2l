@@ -1,4 +1,0 @@
-shortly after the opening bell <COMMA> the dow jones industrial average dji was down <NUM> points <COMMA> or nearly <NUM> percent <COMMA> to <NUM> <PUNC>
-on wednesday <COMMA> u.s. stocks surged for another day <COMMA> with the dow tallying its biggest two-day gain since <NUM> <COMMA> as investors cheered federal reserve talk seen as signaling a further interest-rate cut next month <PUNC>
-general motors gm rose <NUM> percent after it was upgraded to peer perform from underperform at bear stearns <PUNC>
-<PAR>

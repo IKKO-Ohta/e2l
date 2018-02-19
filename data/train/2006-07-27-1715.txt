@@ -1,5 +1,0 @@
-u.s. stocks rose thursday as strong earnings from exxon mobil corp. and a better-than-expected durable-goods report propelled the dow jones industrial average to its best level in more than two weeks <PUNC>
-the dow industrials dji rose <NUM> points to <NUM> <PUNC>
-the blue-chip benchmark is now at its best level since july <NUM> <PUNC>
-dow component exxon mobil xom saw its stock climb <NUM> percent to dollar <NUM> after the world s biggest publicly traded oil company reported a <NUM> percent jump in second-quarter profit <COMMA> fueled by historically high oil prices and strong refining margins <PUNC>
-<PAR>

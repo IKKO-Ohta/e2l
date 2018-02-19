@@ -1,4 +1,0 @@
-the dow jones industrial average dji tumbled <NUM> points to <NUM> <PUNC>
-goldman sachs cut its rating on u.s. brokers to neutral from attractive <COMMA> and put citigroup inc. c on its conviction sell list <PUNC>
-another negative note from goldman <COMMA> this one on general motors corp. gm <COMMA> sent the automaker s stock down <NUM> percent in pre-market trade <PUNC>
-<PAR>

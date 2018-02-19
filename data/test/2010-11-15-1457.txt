@@ -1,5 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-alcoa <COMMA> inc. aa was the measure s best performer <COMMA> up <NUM> percent <COMMA> while johnson & johnson jnj was also strong with a <NUM> percent increase <PUNC>
-just a handful of the dow s <NUM> components were in the red <COMMA> led by caterpillar <COMMA> inc. cat <PUNC>
-the heavy-equipment giant fell <NUM> percent after saying it will buy mining company bucyrus international bucy for about dollar <NUM> billion <PUNC>
-<PAR>

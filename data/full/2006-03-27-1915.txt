@@ -1,6 +1,0 @@
-the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
-intel corp. shares intc advanced <NUM> cents to dollar <NUM> in afternoon trading <PUNC>
-general motors corp. gm was back in focus after the detroit news reported that delphi corp. dphiq <COMMA> its main parts supplier <COMMA> will propose a gradual reduction in wages and benefits instead of abrupt pay cuts <PUNC>
-the offer would be contingent on gm subsidizing the wages for a time <PUNC>
-gm s stock was last up <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

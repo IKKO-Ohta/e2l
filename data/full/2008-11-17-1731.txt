@@ -1,7 +1,0 @@
-after sliding four of the last five trading days <COMMA> the dow jones industrial average dji succumbed again <COMMA> falling more than <NUM> points before drastically scaling back on early declines <PUNC>
-the dow was lately off <NUM> points at <NUM> <COMMA> with aluminum producer alcoa inc. aa bleeding the most <COMMA> off <NUM> percent <PUNC>
-shares of citigroup c declined <NUM> percent after the bank early monday said it would cut about <NUM> jobs in the latest and most dramatic round of layoffs to date in the battered financial sector <PUNC>
-<PAR>
-twelve of the blue-chip benchmark s <NUM> components pulled into positive turf <COMMA> with general motors corp. gm up the most <COMMA> gaining <NUM> percent <PUNC>
-the automaker looking for a government bailout from washington said it would raise dollar <NUM> million by selling a <NUM> percent stake in japan s suzuki motor corp. <PUNC>
-<PAR>

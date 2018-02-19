@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell for the first in five sessions <COMMA> with the blue-chip index recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-caterpillar inc. cat fronted blue-chip declines <COMMA> its stock down <NUM> percent <PUNC>
-general motors corp. gm led the dow s advancers <COMMA> with stock of the automaker rising <NUM> percent <PUNC>
-wall street rallied friday <COMMA> cheered by upbeat earnings from google inc. goog and write-downs from citigroup inc. c that weren t as bad as some had feared <PUNC>
-bank of america corp. bac reported a first-quarter earnings drop of <NUM> percent to dollar <NUM> billion <COMMA> or <NUM> cents a share <COMMA> as its provision for credit losses climbed and it posted dollar <NUM> billion in net charge-offs <PUNC>
-in other earnings news <COMMA> merck & co. mrk announced that first-quarter net income surged <NUM> percent to dollar <NUM> billion <COMMA> or dollar <NUM> a share <PUNC>
-adjusted to exclude special items <COMMA> merck posted income of <NUM> cents a share <COMMA> topping the 86-cent consensus <PUNC>
-<PAR>

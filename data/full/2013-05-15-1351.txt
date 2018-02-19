@@ -1,4 +1,0 @@
-the dow jones industrial average dji lost <NUM> points to <NUM> <PUNC>
-on tuesday <COMMA> both the dow and the s&p <NUM> index closed at all-time highs <PUNC>
-cisco systems inc. shares csco fell <NUM> percent ahead of the networking giant reporting third-quarter earnings <COMMA> projected to come in at <NUM> cents a share <PUNC>
-<PAR>

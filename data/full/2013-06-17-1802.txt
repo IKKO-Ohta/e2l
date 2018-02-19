@@ -1,4 +1,0 @@
-u.s. stocks rallied on monday <COMMA> with the dow jones industrial average looking to extend its streak of triple-digit moves <COMMA> as investors mulled the federal reserve s policy decision due in two days <PUNC>
-the dow jones industrial average dji has made a triple-digit move in <NUM> of the <NUM> sessions that have followed bernanke s may <NUM> briefing to congress <PUNC>
-on monday <COMMA> the dow rallied as much as <NUM> points <COMMA> and was lately ahead by <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with all but three of its <NUM> components advancing <COMMA> including boeing co. ba <COMMA> which said general electric co. s ge aircraft-leasing arm had pledged to buy <NUM> of its <NUM> jets <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-u.s. stocks closed a turbulent week on friday with losses <COMMA> with the dow industrials falling <NUM> points <COMMA> the s&p <NUM> down <NUM> points and the nasdaq composite losing <NUM> points <PUNC>
-shares of general motors gm fell <NUM> percent after a bankruptcy judge approved delphi s dphiq reorganization plan <PUNC>
-however <COMMA> deutsche bank warned that lenders have not signed up for delphi s dollar <NUM> billion financing package that would help it to exit bankruptcy proceedings <PUNC>
-verizon communications vz reported a <NUM> percent profit rise <COMMA> helped by growing subscriptions to its mobile arm <PUNC>
-over the weekend <COMMA> new york attorney general andrew cuomo launched a probe into merck mrk and schering-plough sgp over the timing of a release of a negative study into their cholesterol drug vytorin <PUNC>
-ubs upgraded merck to buy <COMMA> saying the sell-off on the trial s results was too steep <PUNC>
-<PAR>

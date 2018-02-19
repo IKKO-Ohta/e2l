@@ -1,2 +1,0 @@
-on track to snap a four-day winning streak <COMMA> the dow jones industrial average dji fell more than <NUM> points early on <COMMA> and recovered some to finish at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or nearly <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components finishing ahead <COMMA> led by alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
-<PAR>

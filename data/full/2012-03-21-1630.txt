@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
-in addition to apple inc. <COMMA> its shares up nearly <NUM> percent so far this year <COMMA> microsoft corp. msft started to do well over the last few months and international business machines corp. ibm continues to do well <COMMA> said nolte <PUNC>
-that is really what has been leading the overall market higher <COMMA> said nolte of the three technology companies <COMMA> which in addition to exxon mobil corp. xom <COMMA> represent the four biggest weights on the s&p <PUNC>
-<PAR>

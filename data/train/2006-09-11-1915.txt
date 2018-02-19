@@ -1,7 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-at one point <COMMA> the benchmark index was down <NUM> points to a session low of <NUM> <PUNC>
-by sector <COMMA> energy stocks xoi tumbled on the slide in crude prices <PUNC>
-oil giant and dow component exxon mobil corp. xom was a notable decliner <COMMA> off <NUM> percent at dollar <NUM> <COMMA> but had been as low as dollar <NUM> <PUNC>
-wal-mart stores inc. wmt were up <NUM> percent at dollar <NUM> <PUNC>
-chicago mayor richard daley has vetoed the ordinance requiring so-called big-box retailers to pay their employees substantially more than the minimum wage <PUNC>
-<PAR>

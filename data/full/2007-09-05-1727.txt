@@ -1,5 +1,0 @@
-already down about <NUM> points <COMMA> the dow jones industrial average dji extended its losses after the national association of realtors reported contract signings on existing homes fell <NUM> percent in july <COMMA> the weakest performance in nearly six years <PUNC>
-erasing tuesday s gains <COMMA> the dow was more recently off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> component stocks trading lower <PUNC>
-financials <COMMA> including american express co. axp and jpmorgan chase & co. jpm led the dow s decline <PUNC>
-dow component altria group inc. mo also lost ground <COMMA> falling <NUM> percent <COMMA> after the tobacco group s downgrade <COMMA> by goldman sachs <COMMA> to neutral from buy <PUNC>
-<PAR>

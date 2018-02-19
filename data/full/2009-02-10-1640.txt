@@ -1,4 +1,0 @@
-on tuesday <COMMA> equities investors offered a shaky response as the obama administration started unveiling its plan to shore up the financial system and stem the economic recession <PUNC>
-the dow jones industrial average fell more than <NUM> points before recovering slightly <PUNC>
-the blue-chip index was lately down <NUM> points at <NUM> <PUNC>
-<PAR>

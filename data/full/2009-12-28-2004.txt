@@ -1,7 +1,0 @@
-the dow jones industrial average dji was down <NUM> points recently to <NUM> <PUNC>
-earlier in the session <COMMA> it had been up as much as <NUM> points <PUNC>
-alcoa inc. aa <COMMA> walt disney co. dis and american express co. axp were the measure s weakest components in recent trading <PUNC>
-alcoa fell <NUM> percent <COMMA> while walt disney dropped <NUM> percent and american express fell <NUM> percent <PUNC>
-international business machines ibm and 3m co. mmm <COMMA> which have been strong throughout the session <COMMA> kept the declines in check <PUNC>
-ibm rose <NUM> percent <COMMA> while 3m added <NUM> percent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-among shares posting the biggest drops on the dow were american express co. axp <COMMA> dupont dd <COMMA> honeywell inc. hon <COMMA> home depot inc. hd and microsoft corp. msft <PUNC>
-wal-mart stores wmt was also among the decliners <COMMA> losing <NUM> percent <PUNC>
-the retail giant is reportedly studying whether its asda unit in britain would be allowed to make a bid for j sainsbury <COMMA> a rival u.k. supermarket operator worth around dollar <NUM> billion <COMMA> according to a report in the independent newspaper <PUNC>
-<PAR>

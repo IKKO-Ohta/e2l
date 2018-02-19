@@ -1,4 +1,0 @@
-after rallying <NUM> points <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or almost <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its components ahead <PUNC>
-bank stocks <COMMA> hit hard by the relentless credit market upheaval <COMMA> were among the dow s largest gainers <COMMA> with jp morgan chase co. jpm ahead <NUM> percent and citicorp inc. c up <NUM> percent <PUNC>
-u.s. stocks experienced a dramatic reversal in the final hour of trade thursday <COMMA> helping the dow industrials recoup much of a 340-point deficit to finish only slightly lower <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-new york dow jones - u.s. stocks were mixed late in tuesday s session <COMMA> as the dow jones industrial average outperformed rivals on good news for general motors <COMMA> alcoa and other components <COMMA> while uncertain investors pored over the first reports of the third-quarter earnings season <PUNC>
-with less than an hour of trade left <COMMA> the dow jones industrial average dji last was up almost <NUM> points at <NUM> and the s&p <NUM> spx off <NUM> points at <NUM> <PUNC>
-stocks opened higher on positive response to earnings from alcoa aa and biotechnology bellwether genentech dna <PUNC>
-the market later turned mixed <PUNC>
-shares of general motors corp. gm <COMMA> also in the dow <COMMA> were <NUM> percent higher at dollar <NUM> <COMMA> after the stock monday lost <NUM> percent of its value in the wake of its former unit delphi s bankruptcy filing <PUNC>
-yet another component <COMMA> exxon xom advanced <NUM> percent to dollar <NUM> <COMMA> as energy futures shot higher <PUNC>
-international business machines ibm was up <NUM> percent at dollar <NUM> after credit suisse first boston upgraded that dow component to an outperform rating citing improving margins in some divisions <PUNC>
-<PAR>

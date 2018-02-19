@@ -1,6 +1,0 @@
-the dow jones industrial average dji roe <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its highest close since early november <PUNC>
-for the week <COMMA> the dow gained <NUM> percent <COMMA> the s&p rose <NUM> percent <COMMA> and the nasdaq was up <NUM> percent <PUNC>
-and companies have been beating estimates by an average of <NUM> percent <COMMA> also an unusually high percentage <COMMA> thanks in large part to financial firms results <COMMA> including banks such as bank of america bac <COMMA> citigroup c <COMMA> and jp morgan chase jpm <PUNC>
-next week <COMMA> another <NUM> companies from the s&p <NUM> are expected to report <COMMA> including giant retailer wal-mart stores wmt on thursday <PUNC>
-on the same day <COMMA> earnings are also expected from kohl s corp. kss and nordstrom inc. jwn <PUNC>
-<PAR>

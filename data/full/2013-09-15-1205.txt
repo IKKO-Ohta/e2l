@@ -1,5 +1,0 @@
-still <COMMA> stocks have come back a bit recently <PUNC>
-in the past week <COMMA> the dow jones industrial average dji gained <NUM> percent <COMMA> its best week since january <PUNC>
-the s&p <NUM> rose <NUM> percent <COMMA> and the nasdaq composite rixf added <NUM> percent <PUNC>
-in the year to date <COMMA> the s&p <NUM> is up <NUM> percent <COMMA> the dow <NUM> percent and the nasdaq <NUM> percent <PUNC>
-<PAR>

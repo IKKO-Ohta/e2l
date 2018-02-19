@@ -1,4 +1,0 @@
-the dow jones industrial average dji finished down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components retreated <PUNC>
-general motors corp. gm led the way down <COMMA> losing <NUM> percent <PUNC>
-a coca-cola co. ko spokesman said wednesday the company is looking into buying cadbury schweppes plc s snapple iced tea brand or building its own tea brand <PUNC>
-<PAR>

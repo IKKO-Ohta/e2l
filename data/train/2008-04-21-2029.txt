@@ -1,8 +1,0 @@
-u.s. stocks mostly declined monday <COMMA> with both the dow and s&p falling for the first time in five sessions <COMMA> as oil hit new highs and bank of america corp. s earnings disappointed <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components settling lower <PUNC>
-caterpillar inc. cat was among the blue chips posting declines <COMMA> its stock down <NUM> percent <COMMA> as well as bank of america bac <COMMA> its stock off <NUM> percent after it reported a first-quarter earnings drop of <NUM> percent <PUNC>
-general motors corp. gm led the dow s advancers <COMMA> with stock of the automaker rising <NUM> percent <PUNC>
-wall street rallied friday <COMMA> cheered by upbeat earnings from google inc. goog and writedowns from citigroup inc. c that weren t as bad as some had feared <PUNC>
-in other earnings news <COMMA> merck & co. mrk announced that first-quarter net income surged <NUM> percent to dollar <NUM> billion <COMMA> or dollar <NUM> a share <PUNC>
-adjusted to exclude special items <COMMA> merck posted income of <NUM> cents a share <COMMA> topping the 86-cent consensus <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-with less than an hour of trade to go <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> positioning it for a weekly climb of nearly <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were ahead <COMMA> led by walt disney co. dis <COMMA> up <NUM> percent <PUNC>
-home depot inc. hd and american express co. axp fronted the dow s declines <COMMA> with home depot s share dropping <NUM> percent and amex falling <NUM> percent <PUNC>
-dow component exxon mobil corp. xom late thursday said it evacuated about <NUM> workers from the gulf of mexico due to a tropical disturbance <PUNC>
-its stock was up <NUM> percent <PUNC>
-wal-mart stores inc. wmt <COMMA> apple inc. aapl and real networks inc. rnwk are accused of copyright infringement over digital downloads of the band s songs in a lawsuit filed friday by a former drummer of the punk rock band the ramones.watch video of alice cooper at fashion week <PUNC>
-<PAR>

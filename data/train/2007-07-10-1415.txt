@@ -1,7 +1,0 @@
-the dow jones industrial average dji fell <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components fell <COMMA> led by its financial shares <COMMA> jp morgan chase jpm <COMMA> american express co. axp <COMMA> and citigroup inc. c <PUNC>
-general motors gm was among the few shares bucking the trend <COMMA> rising <NUM> percent <COMMA> thanks to a new upgrade from j.p. morgan <PUNC>
-alcoa inc. aa <COMMA> which kicked off earnings season monday after the close <COMMA> dropped <NUM> percent after the aluminum producer said its earnings slipped <COMMA> but matched analysts expectations <COMMA> while revenue was stronger than expected <PUNC>
-dow component home depot hd rose <NUM> percent <PUNC>
-even though it lowered earnings forecasts <COMMA> the company launched a tender offer for <NUM> million of its shares <PUNC>
-the retailer cut its <NUM> profit forecast <COMMA> saying the soft u.s. housing market is bruising earnings more than management had anticipated just two months ago <PUNC>
-<PAR>

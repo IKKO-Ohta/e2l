@@ -1,3 +1,0 @@
-the dow jones industrial average dji was up almost <NUM> points at <NUM> <PUNC>
-general motors corp. gm was up dollar <NUM> at dollar <NUM> after kerkorian s latest sally on the company <PUNC>
-<PAR>

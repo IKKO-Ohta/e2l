@@ -1,7 +1,0 @@
-with less than a half hour of trade left <COMMA> the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
-lowe s shares erased early losses <COMMA> helped by the broader market rally <COMMA> and were last up <NUM> cents at dollar <NUM> <PUNC>
-larger rival home depot s stock hd fell <NUM> cents to dollar <NUM> <PUNC>
-general motors corp. s gm discussions with france s renault sa and japan s nissan motor corp. over a possible alliance appeared to have hit a roadblock over how best to deal with rival toyota s global expansion plans <COMMA> according to a wall street journal report <PUNC>
-renault and nissan are also holding talks with ford motor co. f about a possible tie-up <PUNC>
-gm was the biggest percentage gainer on the dow industrials <COMMA> rallying <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

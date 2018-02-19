@@ -1,6 +1,0 @@
-after lapsing more than <NUM> points <COMMA> the dow jones industrial average dji recovered some to end at <NUM> <COMMA> down <NUM> percent for the day and <NUM> percent from last friday s close <COMMA> its worst week since oct. <NUM> <PUNC>
-earlier <COMMA> the blue-chip index fell to an intraday low of <NUM> <COMMA> its lowest level since october <NUM> <PUNC>
-the s&p <NUM> spx also pared losses <COMMA> falling <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> down <NUM> percent from a week ago <PUNC>
-the nasdaq composite rixf declined <NUM> point <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it down <NUM> percent on the week <PUNC>
-conversely <COMMA> agricultural giant archer-daniels midland co. adm <COMMA> beverage giant coca-cola co. ko and paint supplier sherwin-williams co. shw all boosted their payouts to investors during the month <PUNC>
-<PAR>

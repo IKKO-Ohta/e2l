@@ -1,2 +1,0 @@
-the dow jones industrial average dji was sitting just off its low for the session <COMMA> down <NUM> points to <NUM> <PUNC>
-<PAR>

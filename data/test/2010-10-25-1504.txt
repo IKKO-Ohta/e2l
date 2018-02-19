@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose more than <NUM> points before moderating <COMMA> recently trading up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-entering the month s final week of trading <COMMA> the dow is up <NUM> percent for october <COMMA> buoyed by hopes that the federal reserve will take further steps to stimulate the economy at its meeting next week <PUNC>
-materials and industrials led the dow on monday as a weaker dollar boosted companies with more international exports <PUNC>
-alcoa <COMMA> inc. aa rose <NUM> percent <COMMA> while dupont dd gained <NUM> percent and caterpillar <COMMA> inc. cat added <NUM> percent <PUNC>
-<PAR>

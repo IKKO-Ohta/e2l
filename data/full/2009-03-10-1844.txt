@@ -1,2 +1,0 @@
-the dow jones industrial average gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with citigroup shares up <NUM> percent <PUNC> bank of america corp. rising <NUM> percent and jpmorgan chase & co. jpm advancing <NUM> percent <PUNC>
-<PAR>

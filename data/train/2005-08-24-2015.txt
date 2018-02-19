@@ -1,7 +1,0 @@
-the dow jones industrial average dji was sitting close to its low for the session <COMMA> down <NUM> points at <NUM> <PUNC>
-within the dow industrials <COMMA> general motors corp. gm rallied <NUM> percent to dollar <NUM> on a report in the wall street journal that the united auto workers union is considering helping the world s no <PUNC>
-<NUM> automaker cut costs <PUNC>
-the article is sourced to unidentified people who attended a gathering of union leaders monday <PUNC>
-caterpillar inc. cat was the biggest percentage decliner on the blue-chip index <COMMA> down <NUM> percent after the weak durable goods report raised concern about a possible slowdown in sales of heavy equipment and machinery <PUNC>
-merck & co. mrk rose <NUM> percent to dollar <NUM> in a modest rebound after suffering steep losses linked to an unfavorable court ruling related to its painkiller vioxx <PUNC>
-<PAR>

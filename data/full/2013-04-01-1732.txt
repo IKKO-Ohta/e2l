@@ -1,5 +1,0 @@
-after rising as much as <NUM> points and falling as much as <NUM> points <COMMA> the dow jones industrial average dji was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-two thirds of its <NUM> components were in the red <COMMA> led by intel corp. intc <COMMA> down <NUM> percent <COMMA> and aluminum producer alcoa inc. aa <COMMA> off <NUM> percent <PUNC>
-both the s&p <NUM> and the dow industrial finished are record highs on thursday <PUNC>
-the quarter was also one for the bulls <COMMA> with the s&p <NUM> rising <NUM> percent <COMMA> the best performance in a year <PUNC>
-<PAR>

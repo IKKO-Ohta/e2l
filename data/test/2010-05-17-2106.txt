@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> snapping a two-day losing streak and led by a <NUM> percent gain in kraft foods inc. kft and a <NUM> percent rise in at&t inc. t shares <PUNC>
-out of <NUM> components <COMMA> <NUM> ended higher <PUNC>
-the tech sector also closed up higher <COMMA> lifted by a <NUM> percent gain in the shares of akamai technologies inc. akam and a reversal higher in apple inc. aapl and hewlett-packard co. hpq <PUNC>
-shares of rival home depot inc. hd ended <NUM> percent higher a day ahead of quarterly results <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-off about <NUM> points earlier on <COMMA> the dow jones industrial average dji was more recently down <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx dropped <NUM> points to <NUM> <COMMA> and the nasdaq composite index rixf shed <NUM> points to <NUM> <PUNC>
-coming into wednesday s session <COMMA> the dow industrials <COMMA> s&p <NUM> and nasdaq were all up more than <NUM> percent for the quarter <PUNC>
-<PAR>

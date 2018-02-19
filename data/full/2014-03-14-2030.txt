@@ -1,5 +1,0 @@
-the s&p <NUM> spx ended the day <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <COMMA> finishing below a technical level of <NUM> for the second day in a row <PUNC>
-the index recorded a <NUM> percent loss over the week <PUNC>
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> falling for the fifth consecutive day <PUNC>
-the blue-chip index is down <NUM> percent over the week <PUNC>
-<PAR>

@@ -1,9 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> index spx gained <NUM> percent to <NUM> <COMMA> while the nasdaq composite rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the gains were better for the week <COMMA> with the dow up <NUM> percent <COMMA> the s&p <NUM> percent <COMMA> and the nasdaq up <NUM> percent <PUNC>
-gains were even better for the month <COMMA> with the dow rallying <NUM> percent to mark its best monthly gain since oct.2002 and its best july since <NUM> <PUNC>
-the s&p <NUM> rose <NUM> percent for the month and the nasdaq gained <NUM> percent <PUNC>
-tuesday will bring results from d.r <PUNC>
-horton dhi <COMMA> duke energy duk <COMMA> tenet healthcare thc <COMMA> avis car <COMMA> kraft foods kft <COMMA> and whole foods market wfmi <PUNC>
-on wednesday will be results from ambac financial abk <COMMA> devon energy dvn <COMMA> polo ralph lauren rl <COMMA> cisco systems csco <COMMA> murphy oil mro <COMMA> procter & gamble pg <COMMA> sunoco sun and xto energy xto <PUNC>
-<PAR>

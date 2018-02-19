@@ -1,7 +1,0 @@
-after closing at an eight-week high friday <COMMA> the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-twenty-one of the dow s <NUM> components remained mired in the red <COMMA> with verizon communications inc. vz fronting the declines <COMMA> its shares lately off <NUM> percent in the wake of its downgrade by bernstein research <PUNC>
-shares of j.p. morgan chase & co. jpm also slumped <COMMA> down <NUM> percent after deutsche bank cut its estimates on the bank <PUNC>
-<PAR>
-end-of-the-year results from the auto industry proved dismal <COMMA> but investors expected worse <PUNC>
-shares of ford motor co. f gained <NUM> percent after it reported a <NUM> percent drop in december sales <PUNC> general motors corp. gm rose <NUM> percent after gm said sales fell <NUM> percent last month <PUNC>
-<PAR>

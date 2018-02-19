@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-the biggest gainer among its components was mcdonald s mdc <COMMA> which was up <NUM> percent <PUNC>
-general motors corp. gm rose <NUM> percent to dollar <NUM> on news that it and the canadian auto workers union on tuesday night tentatively agreed to a three-year contract <COMMA> avoiding a potentially costly strike <PUNC>
-<PAR>

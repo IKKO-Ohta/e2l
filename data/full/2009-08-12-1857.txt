@@ -1,4 +1,0 @@
-after climbing more than <NUM> points <COMMA> the dow jones industrial average dji stood at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-the s&p <NUM> gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite index rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-wal-mart <COMMA> part of the dow industrials <COMMA> early on thursday will report financial results for the second quarter ended july <NUM> <PUNC>
-<PAR>

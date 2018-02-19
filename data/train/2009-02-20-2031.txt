@@ -1,5 +1,0 @@
-after lapsing more than <NUM> points <COMMA> the dow jones industrial average dji was more recently off <NUM> points to trade at <NUM> <PUNC>
-earlier <COMMA> the blue-chip index fell to an intraday low of <NUM> <COMMA> its lowest level since october <NUM> <PUNC>
-the s&p <NUM> spx also pared losses <COMMA> lately off <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf shifted to positive turf <COMMA> up <NUM> points to <NUM> <PUNC>
-conversely <COMMA> agricultural giant archer-daniels midland co. adm <COMMA> beverage giant coca-cola co. ko and paint supplier sherwin-williams co. shw all boosted their payouts to investors during the month <PUNC>
-<PAR>

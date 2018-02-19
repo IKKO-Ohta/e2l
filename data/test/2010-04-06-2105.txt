@@ -1,3 +1,0 @@
-yet equities resumed treading water in the final half hour of trade <COMMA> and the dow jones industrial average dji ended down <NUM> points at <NUM> <PUNC>
-shares of aluminum giant alcoa aa <COMMA> up <NUM> percent <COMMA> led gainers among blue-chips <COMMA> while travelers trv led decliners <COMMA> losing <NUM> percent after an analyst downgraded the insurer s stock <PUNC>
-<PAR>

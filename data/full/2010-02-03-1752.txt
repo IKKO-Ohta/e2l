@@ -1,7 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-pfizer inc. pfe was its worst performer <COMMA> off <NUM> percent <COMMA> on the heels of its quarterly earnings report <PUNC>
-the drug giant said its fourth-quarter profit more than doubled to dollar <NUM> million <COMMA> but the result lagged wall street estimates <PUNC>
-the company also scaled back <NUM> revenue estimates <COMMA> hurting sentiment around the sector <PUNC>
-fellow drug component merck & co. mrk fell <NUM> percent <PUNC>
-mcdonald s corp. mcd helped keep the dow s declines in check <PUNC>
-the stock climbed <NUM> percent after goldman sachs upgraded its investment rating on the stock to conviction buy from buy <COMMA> saying the fast-food giant offers a scarce combination of positive same-store sales and accelerating margin gains <PUNC>

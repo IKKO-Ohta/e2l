@@ -1,9 +1,0 @@
-earnings have largely beaten analysts expectations and have helped propel the dow jones industrial average dji to climb more than <NUM> percent this month <COMMA> but economic data have been pointing to a slowdown <PUNC>
-nonetheless <COMMA> with just a week left to july <COMMA> the dow is on pace to close out its best month since july <NUM> <PUNC>
-it is now trading near the flatline for the year to date <PUNC>
-the dow jones industrial average edged up <NUM> points to <NUM> in early trading <PUNC>
-leading the measure s gains <COMMA> general electric co. ge climbed <NUM> percent <COMMA> at&t corp. t advanced <NUM> percent and walt disney co. dis advanced <NUM> percent <PUNC>
-international business machines ibm shares weighed with a drop of <NUM> percent <PUNC>
-the european commission monday launched a formal antitrust probe against the company on suspicion that it has abused its dominant position in the mainframe computer markets <PUNC>
-alcoa <COMMA> inc. aa dropped <NUM> percent as the aluminum giant began tender offers for up dollar <NUM> million in notes maturing over the next three years as part of a debt-refinancing effort <PUNC>
-<PAR>

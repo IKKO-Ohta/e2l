@@ -1,9 +1,0 @@
-u.s. stocks on wednesday started off <NUM> with a whimper instead of a bang as escalating commodity prices and a gauge of manufacturing activity fueled worries about the economy <COMMA> propelling the dow to its steepest start-of-a-year point drop ever <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> after falling as low as <NUM> during the session <PUNC>
-the dow s slide marked its biggest point drop yet for the first trading day of the year <COMMA> and its largest percentage decline since <NUM> <COMMA> when the index fell <NUM> percent <PUNC>
-of the blue-chip index s <NUM> components <COMMA> <NUM> ended lower <COMMA> with technology stocks the hardest hit <PUNC>
-intel corp. intc lost <NUM> percent and ibm ibm dropped <NUM> percent <PUNC>
-drugmaker pfizer inc. pfe was the dow s sole advancing issue <COMMA> ending ahead <NUM> percent <PUNC>
-on monday <COMMA> stocks fell amid worries about economic growth <COMMA> with the dow industrials losing <NUM> points <COMMA> the nasdaq composite shedding <NUM> points and the s&p <NUM> losing <NUM> points <PUNC>
-the credit crunch continued to take its toll <COMMA> with phh corp. phh <COMMA> a provider of residential-mortgage and vehicle-fleet-management services <COMMA> saying it had called off its plan to be acquired by general electric co. s ge ge capital financing unit <PUNC>
-<PAR>

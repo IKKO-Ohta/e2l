@@ -1,4 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with home depot inc. hd pacing losses that included <NUM> of its <NUM> components <PUNC>
-coca-cola co. ko shares shed <NUM> percent after the beverage maker reported a rise in third-quarter profit <PUNC>
-johnson & johnson jnj climbed <NUM> percent after the provider of health-care products raised its full-year outlook <PUNC>
-<PAR>

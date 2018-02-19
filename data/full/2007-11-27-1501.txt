@@ -1,4 +1,0 @@
-the dow industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-citigroup c fronted the dow s advance <COMMA> its stock up <NUM> percent <PUNC>
-since the dow industrials are now down <NUM> percent from their october peak <COMMA> the losing run has met the definition of correction <COMMA> and analysts at deutsche bank said from a technical perspective <COMMA> the s&p <NUM> is in danger of falling through a major support <PUNC>
-<PAR>

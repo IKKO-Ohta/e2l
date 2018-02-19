@@ -1,5 +1,0 @@
-the dow jones industrial average <COMMA> however <COMMA> received a boost after component general motors corp rallied on news it has sealed a labor deal with its main union <PUNC>
-the dow industrials dji was last up <NUM> points at <NUM> <PUNC>
-general motors corp. gm was the biggest percentage gainer on the dow <COMMA> up <NUM> percent at dollar <NUM> <COMMA> after the carmaker <COMMA> the united auto workers union and bankrupt auto parts maker delphi corp. dphiq agreed on a plan to buy out <NUM> hourly workers with a maximum of dollar <NUM> in payments each <PUNC>
-other tech stocks that were pulled lower after the news included intel corp. intc <COMMA> which fell <NUM> cents to dollar <NUM> <COMMA> and dell corp. dell which dipped <NUM> cents to dollar <NUM> <PUNC>
-<PAR>

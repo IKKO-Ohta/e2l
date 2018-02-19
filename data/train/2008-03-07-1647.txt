@@ -1,5 +1,0 @@
-u.s. stocks on friday were mostly lower <COMMA> with the dow industrials just below the key psychological level of <NUM> <COMMA> as federal reserve action to stem the credit crunch helped offset job losses viewed as the most blatant sign yet of recession <PUNC>
-down more than <NUM> points early on <COMMA> the dow jones industrial average dji was more recently off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
-dupont co. dd was among the dow s bigger decliners <COMMA> off <NUM> percent <COMMA> as the chemical giant vowed to appeal a judgment that it pay dollar <NUM> in damages in a pollution case <PUNC>
-shares of financial stocks were mixed <COMMA> with j.p. morgan chase jpm up <NUM> percent <COMMA> american express co. axp ahead <NUM> percent and citigroup inc. c down <NUM> percent <PUNC>
-<PAR>

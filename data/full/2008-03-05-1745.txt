@@ -1,7 +1,0 @@
-up more than <NUM> points earlier <COMMA> the dow jones industrial average dji was recently ahead <NUM> points to <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were on the rise <COMMA> led by shares of microsoft corp. msft <COMMA> up <NUM> percent <PUNC>
-other blue-chip gainers included home depot inc. hd <COMMA> up <NUM> percent <COMMA> and e.i <PUNC>
-dupont de nemours & co. dd <COMMA> up nearly <NUM> percent <PUNC>
-and <COMMA> yahoo inc. yhoo gained <NUM> percent <PUNC>
-the internet-search company <COMMA> facing a hostile takeover attempt by microsoft corp. msft <COMMA> extended its deadline for nominating directors to its board <PUNC>
-<PAR>

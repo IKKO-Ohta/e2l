@@ -1,9 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
-the s&p <NUM> spx ended down <NUM> points at <NUM> and the nasdaq composite rixf down <NUM> points at <NUM> <PUNC>
-on the back of the rising crude price <COMMA> exxonmobil xom <COMMA> a dow component <COMMA> rose <NUM> percent to dollar <NUM> <COMMA> pushing market capitalization over dollar <NUM> billion <PUNC>
-chevrontexaco cvx gained <NUM> percent to dollar <NUM> <PUNC>
-dow component general motors gm closed down <NUM> percent at dollar <NUM> <PUNC>
-ford motor f was off <NUM> percent at dollar <NUM> <PUNC>
-boeing ba <COMMA> also a dow component <COMMA> lost <NUM> percent to dollar <NUM> <COMMA> after a media report raised questions about how much a strike by the company s machinists could cost the company <PUNC>
-peregrine systems prgn shot up <NUM> percent to dollar <NUM> after news it will be purchased by hewlett-packard hpq for dollar <NUM> million <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points at <NUM> after snapping a seven-session winning streak in the prior session <COMMA> a feat not equaled since march <NUM> <PUNC>
-within the dow <COMMA> boeing co. ba fell <NUM> percent after smith barney analysts said the aerospace giant s shares will begin to weaken now that the <NUM> paris air show has ended even if the company <COMMA> in all likelihood <COMMA> will raise its earnings outlook after the second quarter <PUNC>
-the brokerage said it earnings performance will not be sufficient to justify the stock s current lofty levels <PUNC>
-alcoa inc. shares aa fell <NUM> percent amid a broad pullback in the metals markets <PUNC>
-<PAR>

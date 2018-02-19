@@ -1,6 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-exxon mobil xom and chevron corp. cvx shares led the broad decline with <NUM> percent drops <PUNC>
-alcoa aa also fell <NUM> percent <PUNC>
-hewlett-packard hpq was the only dow component that managed to rise <PUNC>
-h-p hpq gained <NUM> percent after the giant technology company late monday reported strong fiscal fourth-quarter results and issued a better-than-expected forecast <PUNC>
-<PAR>

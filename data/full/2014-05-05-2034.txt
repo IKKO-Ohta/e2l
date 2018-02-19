@@ -1,7 +1,0 @@
-the dow jones industrial average dji turned a more-than 100-point-loss to a gain of <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-j.p. morgan chase & co jpm shares dropped <NUM> percent after the bank said it expected revenue from fixed income and equities trading to fall <NUM> percent in the second quarter <PUNC>
-the bank also reported it had incurred legal expenses of dollar <NUM> million in the first quarter <PUNC>
-shares of other investment banks were hit as well <PUNC>
-goldman sachs group <COMMA> inc. gs fell <NUM> percent <COMMA> morgan stanley ms dropped <NUM> percent <PUNC>
-shares of pfizer pfe fell <NUM> percent after first-quarter revenue fell short of expectations <PUNC>
-<PAR>

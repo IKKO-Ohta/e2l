@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with all but four of its <NUM> components sinking in the early going <COMMA> with the financial sector among those declining <PUNC>
-the financial times reported toyota motor corp. tm may cut its u.s. sales forecast due to disappointing truck sales <PUNC>
-automakers report monthly vehicle sales on tuesday <PUNC>
-on the flip side <COMMA> general motors corp. gm may rise after a story in barron s suggested the stock could reach dollar <NUM> <COMMA> and up to dollar <NUM> <COMMA> once big cost reductions impact earnings in <NUM> <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-financial shares again led the way down <COMMA> with aig aig off <NUM> percent <COMMA> citigroup c off <NUM> percent and bank of america bac down <NUM> percent and jp morgan chase jpm down <NUM> percent <PUNC>
-<PAR>

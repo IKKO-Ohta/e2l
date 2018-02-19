@@ -1,5 +1,0 @@
-off earlier lows <COMMA> the dow jones industrial average dji was recently down <NUM> points to <NUM> <PUNC>
-the blue-chip index had gained <NUM> percent the prior session <COMMA> topping the <NUM> percent advance tallied in <NUM> when ronald reagan won a second term <PUNC>
-on wednesday <COMMA> twenty-four of the dow s <NUM> components posted declines <COMMA> the losses led by boeing co. ba <COMMA> down <NUM> percent <COMMA> and citigroup inc. c <COMMA> off <NUM> percent <PUNC>
-general motors corp. gm led the blue-chip index s limited gains <COMMA> with shares of the automaker rising <NUM> percent <PUNC>
-<PAR>

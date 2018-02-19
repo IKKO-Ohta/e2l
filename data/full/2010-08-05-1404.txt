@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points in early trading <PUNC>
-investors have been jittery all week in the run-up to friday s nonfarm payrolls data <COMMA> as mixed readings on the economy have left the market seeking clearer signs of the economic recovery s sustainability <PUNC>
-the dow dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-leading the measure s decline <COMMA> hewlett-packard hpq dropped <NUM> percent and merck mrk fell <NUM> percent <PUNC>
-also weighing <COMMA> chevron cvx fell <NUM> percent and exxon mobil xom declined <NUM> percent as crude-oil futures slipped below dollar <NUM> a barrel <PUNC>
-<PAR>

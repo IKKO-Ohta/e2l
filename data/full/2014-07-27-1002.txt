@@ -1,5 +1,0 @@
-big-time first-half deals include at&t s t agreement to purchase satellite-television provider directv dtv and medtronic s mdt pact to purchase fellow medical-equipment maker covidien cov for dollar <NUM> billion <PUNC>
-meanwhile <COMMA> next week brings a flood of earnings <COMMA> including results from twitter inc. twtr on wednesday <COMMA> exxon mobil xom on thursday <COMMA> and berkshire hathaway brk/a on friday <PUNC>
-wall street turned in a flat-to-weaker performance last week <COMMA> with the dow jones industrial average dji slipping back below the <NUM> level to post its biggest weekly decline in six weeks <PUNC>
-the s&p <NUM> spx ended the week virtually flat after notching another record earlier in the week <COMMA> and the nasdaq composite rixf gave back <NUM> percent <PUNC>
-<PAR>

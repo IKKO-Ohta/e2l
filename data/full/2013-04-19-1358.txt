@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-dow component <COMMA> international business machines corp. ibm <COMMA> retreated <NUM> percent a day after the computer-services provider reported a drop in revenue and profits <PUNC>
-among other fellow dow components <COMMA> general electric co. ge <COMMA> fell after the jet-engine manufacturer reported profit in line with estimates <PUNC> mcdonald s corp. mcd slid <NUM> percent after the fast-food chain reported first-quarter profit that missed estimates <PUNC>
-<PAR>

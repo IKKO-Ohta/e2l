@@ -1,9 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the blue-chip index and the other main stock averages held at session highs after trading in negative territory earlier <PUNC>
-the dow and s&p <NUM> are on pace to achieve record closes again <COMMA> as bullish sentiment remains strong <PUNC>
-deutsche bank and goldman sachs both raised their year-end targets for the s&p <NUM> on tuesday to <NUM> and <NUM> <COMMA> respectively <PUNC>
-home depot inc. hd was the top gainer in the dow <COMMA> with its shares up <NUM> percent after the home-improvement retailer reported a jump in quarterly earnings <COMMA> buoyed by the recovery in the housing market <PUNC>
-also in the dow <COMMA> j.p. morgan chase & co. jpm shares gained <NUM> percent <PUNC>
-the bank s annual meeting is taking place in florida tuesday and a nonbinding shareholder vote on splitting the ceo and chairman roles currently held by jamie dimon has not passed <PUNC>
-read a live blog on the j.p. morgan s annual meeting <PUNC>
-<PAR>

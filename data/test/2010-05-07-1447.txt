@@ -1,4 +1,0 @@
-the dow jones industrial average dji slid <NUM> points and then pared losses <COMMA> down <NUM> points at <NUM> <PUNC>
-the morning s tumble sent the dow <COMMA> the s&p <NUM> and the nasdaq into the red for the year <PUNC>
-the moves follow a volatile thursday when the dow fell nearly <NUM> points mid-afternoon <COMMA> before closing off <NUM> percent <PUNC>
-<PAR>

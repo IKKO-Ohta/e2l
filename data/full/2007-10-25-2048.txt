@@ -1,4 +1,0 @@
-u.s. stocks veered erratically thursday on a mix of economic data <COMMA> record oil prices <COMMA> corporate earnings and fretting about the economy <COMMA> with the dow industrials recovering late in the day after falling more than <NUM> points earlier on <PUNC>
-down more than <NUM> points earlier on <COMMA> the dow industrial average dji closed with a 3.3-point loss <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components ending in the red <PUNC>
-it s amazing how we keep bring it back from the dead <PUNC> i m also amazed at the amount of rumors <COMMA> said mendelsohn <COMMA> pointing to talk thursday involving american international group inc. aig <PUNC>
-<PAR>

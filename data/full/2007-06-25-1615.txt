@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components rose <COMMA> led altria group inc. mo <COMMA> honeywell international inc. hon <COMMA> mcdonalds corp. mcd and 3m co. mmm <PUNC>
-general motors corp. gm rose <NUM> percent <COMMA> after the u.s. automaker was upgraded to buy from neutral at goldman sachs <COMMA> which said it was making a tactical trading call that shares will rise on expectations for sizable concessions from gm s unionized workers <PUNC>
-u.s. stocks took a heavy hit on friday due to nervousness about a combination of rising treasury yields <COMMA> global interest rates and whether subprime lending woes have further to unwind <PUNC>
-the dow industrials dropped <NUM> points <PUNC>
-<PAR>

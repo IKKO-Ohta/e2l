@@ -1,4 +1,0 @@
-retreating after a four-session advance that added <NUM> points <COMMA> the dow jones industrial average dji on wednesday fell as much as <NUM> points <COMMA> and ended down <NUM> points at <NUM> <PUNC>
-twenty-five of the dow s <NUM> components lost ground <COMMA> including merck & co. mrk <PUNC>
-the drug maker reported quarterly revenue below market expectations and reduced its <NUM> outlook <PUNC>
-<PAR>

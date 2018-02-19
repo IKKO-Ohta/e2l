@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-ahead of the opening bell <COMMA> dow jones & co. disclosed plans to replace dow industrials components altria group inc. mo and honeywell international inc. hon with bank of america corp. bac and chevron corp. cvx <COMMA> effective feb. <NUM> <PUNC>
-yahoo yhoo rejected microsoft s takeover bid as inadequate <COMMA> while microsoft msft is expected to take its offer directly to shareholders as its next move <PUNC>
-<PAR>

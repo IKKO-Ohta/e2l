@@ -1,7 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in late afternoon trading <COMMA> while the nasdaq composite rixf rose <NUM> percent to <NUM> and the standard & poor s 500-stock index spx edged up <NUM> percent to <NUM> <PUNC>
-the modest gains came after better-than-expected housing and retail data provided some encouragement <COMMA> but caution prevailed following wednesday s big run-up <PUNC>
-the dow traded in a tight range of just over <NUM> points throughout the day <PUNC>
-meanwhile <COMMA> computer maker dell dell withdrew from the bidding war for 3par <COMMA> surrendering the storage maker to rival hewlett-packard hpq after the tech giant lifted its offer to dollar <NUM> billion <PUNC>
-3par par <COMMA> which makes storage products used in cloud computing <COMMA> accepted h-p s offer <COMMA> valuing the company at dollar <NUM> a share <PUNC>
-h-p edged up <NUM> percent <COMMA> while dell rose <NUM> percent and 3par climbed <NUM> percent to dollar <NUM> <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> on friday <PUNC>
-the measure rose <NUM> percent over the week <PUNC>
-the dow worked its way higher late in the session friday as worries eased about the impact of more tightening in china <PUNC>
-many in the market already had braced for further curbs earlier in the week <PUNC>
-boeing co. ba was the measure s worst performer <COMMA> with a <NUM> percent drop <COMMA> while walt disney co. dis was also weak <COMMA> off <NUM> percent <PUNC>
-helping limit the drop <COMMA> hewlett-packard co. hpq climbed <NUM> percent ahead of its fiscal fourth-quarter earnings report monday <PUNC>
-<PAR>

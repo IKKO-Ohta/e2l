@@ -1,5 +1,0 @@
-the dow jones industrial average dji slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-exxon mobil corp. xom shares led the declines <COMMA> falling <NUM> percent <PUNC>
-wal-mart stores inc. wmt shares were also weak <COMMA> down <NUM> percent <PUNC>
-keeping the dow s losses in check <COMMA> general electric co. ge rose <NUM> percent after agreeing to buy the well-support division of u.k. firm john wood group plc for dollar <NUM> billion in cash to bolster its oil and gas services business in areas like extracting natural gas from shale <PUNC>
-<PAR>

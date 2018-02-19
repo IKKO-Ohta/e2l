@@ -1,3 +1,0 @@
-futures for the dow jones industrial average djm3 fell <NUM> points to <NUM> <COMMA> while those for the standard & poor s <NUM> index spm3 fell <NUM> points to <NUM> <PUNC>
-the dow industrials dji stretched their winning run to <NUM> sessions on thursday <COMMA> climbing <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> the eighth straight record close <PUNC>
-<PAR>

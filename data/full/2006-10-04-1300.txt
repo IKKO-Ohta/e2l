@@ -1,8 +1,0 @@
-u.s. stock futures are pointing to a flat to lower open wednesday after a lowered sales outlook from blue chip retailer wal-mart offset investors attempts to validate the market s strength after the dow industrials run to record territory <PUNC>
-on tuesday <COMMA> stocks ended higher <COMMA> with the dow jones industrial average logging a new record close <COMMA> after the price of oil slumped to a 14-month low <COMMA> raising hopes falling energy costs will boost consumer spending and moderate any slowdown in the economy <PUNC>
-the dow industrials ended up <NUM> points at <NUM> <COMMA> surpassing its previous record closing high of <NUM> struck on jan. <NUM> <COMMA> <NUM> <PUNC>
-wal-mart stores inc. wmt is likely to come under pressure after the retail giant cuts its september same-store sales forecast <PUNC>
-same-store sales <COMMA> a key measure of retail performance <COMMA> track sales from stores open at least a year <PUNC>
-general motors corp. gm rose nearly <NUM> percent in pre-open trading after bear stearns upgraded the automaker to peer perform from underperform <PUNC>
-ford motor co. s f stock declined about <NUM> percent after the same broker lowered its rating on gm s rival to peer perform from outperform <PUNC>
-<PAR>

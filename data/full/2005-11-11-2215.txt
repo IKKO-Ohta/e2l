@@ -1,7 +1,0 @@
-dell inc. dell stock rose in a favorable response to its latest earnings while general motors gm recovered from its recent rout <PUNC>
-the dow jones industrial average dji <COMMA> also marking a third consecutive week of gains <COMMA> closed up <NUM> points at <NUM> <PUNC>
-for the week <COMMA> the dow industrials and nasdaq composite each rose <NUM> percent <COMMA> while the s&p <NUM> advanced <NUM> percent <PUNC>
-dow component merck & co. mrk closed unchanged at dollar <NUM> <COMMA> after earlier falling about <NUM> percent <PUNC>
-the wall street journal reported a new jersey judge hearing lawsuits brought against the company over its vioxx drug wants the next <NUM> cases to involve plaintiffs who took the drug for <NUM> months or longer <PUNC>
-shares of general motors gm <COMMA> also in the dow <COMMA> gained <NUM> percent to dollar <NUM> <COMMA> as it recovered from its recent rout after the united auto workers ratified a health care agreement with the company <PUNC>
-<PAR>

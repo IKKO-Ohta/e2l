@@ -1,5 +1,0 @@
-after an initial jump of about <NUM> points <COMMA> the dow jones industrial average dji scaled back its advance <PUNC>
-the index was recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by microsoft corp. msft <COMMA> up <NUM> percent <COMMA> and intel corp. intc <COMMA> ahead <NUM> percent <PUNC>
-the dow s financial stocks were lower <COMMA> with citigroup inc. c down <NUM> percent <COMMA> american express axp off <NUM> percent <COMMA> j.p. morgan chase & co. jpm off <NUM> percent and bank of america corp. bac off <NUM> percent <PUNC>
-dow laggards were led by general electric corp. ge <COMMA> off <NUM> percent <PUNC>
-<PAR>

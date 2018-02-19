@@ -1,3 +1,0 @@
-the dow jones industrial average dji tacked on <NUM> points <COMMA> or nearly <NUM> percent <COMMA> to finish at <NUM> <COMMA> while the nasdaq composite rixf edged down by <NUM> points <COMMA> or less than <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p and dow have advanced for three days in a row <COMMA> while the nasdaq snapped a five-session winning streak <PUNC>
-<PAR>

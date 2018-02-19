@@ -1,7 +1,0 @@
-the dow jones industrial average dji was lately up by <NUM> points at <NUM> <COMMA> off an early high of <NUM> <PUNC>
-within the dow industrials <COMMA> boeing co. ba was the biggest percentage gainer <COMMA> up dollar <NUM> <COMMA> or <NUM> percent at dollar <NUM> after brokerage prudential started coverage on the stock with an overweight rating <PUNC>
-the shares are up <NUM> percent this year and still have room for more gains <COMMA> the analysts said <COMMA> as the machinists strike has been settled and commercial airplane margins could improve into <NUM> <PUNC>
-shares of general electric co. ge rose <NUM> cents to dollar <NUM> after the diversified industrial conglomerate posted third-quarter revenue that topped analyst expectations <PUNC>
-general motors corp. gm fell <NUM> cents to dollar <NUM> as the wall street journal reported the carmaker has signaled to the united auto workers union that an agreement to cut gm s dollar <NUM> billion annual u.s. health-care bill must come within the next few days <COMMA> or the company could act unilaterally to cut uaw health-care spending <PUNC>
-the carmaker is also due to report quarterly results on monday <PUNC>
-<PAR>

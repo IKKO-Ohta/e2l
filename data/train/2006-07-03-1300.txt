@@ -1,8 +1,0 @@
-the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
-wal-mart stores inc. wmt shares were <NUM> cents lower at dollar <NUM> <PUNC>
-the retailer over the weekend said its comparable store sales for june would be up about <NUM> percent <PUNC>
-earlier wal-mart had projected a <NUM> percent increase <PUNC>
-general motors gm was <NUM> percent higher at dollar <NUM> in premarket electronic trade <PUNC>
-banc of america upgraded the stock to neutral from sell <COMMA> citing the value of a potential transaction with renault and nissan nsany <PUNC>
-analyst ron tadross also raised his stock price target on gm to dollar <NUM> from dollar <NUM> <PUNC>
-<PAR>

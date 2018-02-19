@@ -1,5 +1,0 @@
-on friday <COMMA> the dow jones industrial average gained <NUM> points to end at <NUM> <COMMA> for a whopping <NUM> percent gain for the week <PUNC>
-the s&p <NUM> index gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> jumping more than <NUM> percent on the week <PUNC>
-the nasdaq composite rixf gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> on friday <COMMA> putting on a <NUM> percent weekly gain <PUNC>
-on the dow <COMMA> seven stocks whose prices hover well above others now call the shots in terms of influencing the blue-chip average <PUNC> ibm ibm <COMMA> chevron corp. cvx <COMMA> exxon mobil corp. xom <COMMA> mcdonald s corp. mcd <COMMA> wal-mart wmt <COMMA> coca-cola and procter & gamble pg <PUNC>
-<PAR>

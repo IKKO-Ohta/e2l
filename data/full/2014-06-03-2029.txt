@@ -1,3 +1,0 @@
-the s&p <NUM> spx closed less than a point lower at <NUM> <PUNC>
-the dow industrials dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

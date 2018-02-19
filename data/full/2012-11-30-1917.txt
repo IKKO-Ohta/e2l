@@ -1,2 +1,0 @@
-the dow jones industrial average dji declined <NUM> points at <NUM> <COMMA> leaving it down <NUM> percent from the month-ago close <PUNC>
-<PAR>

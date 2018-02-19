@@ -1,7 +1,0 @@
-by the end of the week <COMMA> the dow jones industrial average dji had gained <NUM> percent <PUNC>
-the s&p <NUM> index spx was up <NUM> percent <COMMA> and the nasdaq composite rixf rose <NUM> percent <PUNC>
-for april <COMMA> the dow scored a <NUM> percent gain <COMMA> the s&p <NUM> rose <NUM> percent <COMMA> and the nasdaq composite jumped <NUM> percent <PUNC>
-but the reference was to most not all <COMMA> said michael gregory <COMMA> market analyst at bmo capital markets <COMMA> in a note <PUNC>
-given the subsequent negative equity market reaction to media reports this week saying bank of america bac and citigroup c had capital shortfalls <COMMA> raising new equity could prove problematic for some banks <COMMA> he said <PUNC>
-finally <COMMA> another <NUM> s&p <NUM> companies are due to report next week <COMMA> including two dow components <COMMA> kraft foods inc. kft and walt disney co. dis <COMMA> both of which report on tuesday <PUNC>
-<PAR>

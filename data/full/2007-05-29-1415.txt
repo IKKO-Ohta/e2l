@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components advanced <COMMA> led by boeing co. ba <COMMA> ibm ibm and verizon communications vz <PUNC>
-norsk hydro nhy and rio tinto rtp are considering making bids for alcan inc. <COMMA> al according to reports <PUNC>
-alcan has turned down a hostile bid from fellow aluminum producer alcoa aa <PUNC>
-<PAR>

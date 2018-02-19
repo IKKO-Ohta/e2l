@@ -1,3 +1,0 @@
-the dow jones industrial average finished down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> off an earlier low of <NUM> <PUNC>
-out of the dow s <NUM> component stocks <COMMA> <NUM> retreated <COMMA> with particular pressure seen in shares of alcoa inc. <COMMA> dupont and exxon mobil corp. <PUNC>
-<PAR>

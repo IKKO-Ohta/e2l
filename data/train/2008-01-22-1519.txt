@@ -1,3 +1,0 @@
-down more than <NUM> points after the open <COMMA> the dow jones industrial average dji recovered slightly <COMMA> recently down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> and with hewlett-packard co. hpq down the most <COMMA> off <NUM> percent <PUNC>
-home depot inc. hd remained the sole blue chip to stay positive <COMMA> up <NUM> percent <PUNC>
-<PAR>

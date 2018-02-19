@@ -1,5 +1,0 @@
-the dow jones industrial average dji gave up its prior gains to trade down <NUM> points at <NUM> <COMMA> while the s&p <NUM> spx fell <NUM> to <NUM> <PUNC>
-dow component caterpillar cat rose almost <NUM> percent to dollar <NUM> after r.w <PUNC>
-baird lifted its price target on the stock to dollar <NUM> <PUNC>
-delphi corp. dph shares fell <NUM> percent to dollar <NUM> <COMMA> a new all-time low as the company continued negotiations with general motors gm <COMMA> its biggest customer <COMMA> aimed at staving off bankruptcy <PUNC>
-<PAR>

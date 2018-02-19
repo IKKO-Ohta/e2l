@@ -1,6 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-j.p. morgan chase & co. jpm led gainers <COMMA> rising <NUM> percent <PUNC>
-intel corp. intc was off the most <COMMA> with a <NUM> percent slide <PUNC>
-extending the week s choppy trading <COMMA> stocks spent most of thursday s session bouncing between gains and losses <COMMA> pushing the dow average across zero <NUM> times <PUNC>
-the index has closed in a different direction from its prior session for <NUM> straight sessions <COMMA> the longest such streak since may <NUM> <COMMA> when stocks were climbing off bear market lows hit in march of that year <PUNC>
-<PAR>

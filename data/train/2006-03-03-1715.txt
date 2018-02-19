@@ -1,4 +1,0 @@
-the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> recovering from an early low of <NUM> <PUNC>
-tower said the intel news was hardly a surprise <PUNC>
-the chipmaker and tech bellwether intc has struggled since its shares tumbled by more than <NUM> percent on jan. <NUM> <COMMA> when first-quarter profit outlook fell short of expectations <PUNC>
-<PAR>

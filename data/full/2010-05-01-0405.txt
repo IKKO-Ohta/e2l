@@ -1,3 +1,0 @@
-up for a third consecutive month <COMMA> the dow jones industrial average dji on friday tallied a <NUM> percent gain for april but snapped its longest streak of weekly gains since early <NUM> with a weekly loss of <NUM> percent <PUNC>
-several bellwether companies <COMMA> including kraft foods inc. kft and mastercard inc. ma <COMMA> will report quarterly results <PUNC>
-<PAR>

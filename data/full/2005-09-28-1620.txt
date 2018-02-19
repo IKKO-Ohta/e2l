@@ -1,7 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> after earlier rallying more than <NUM> points <PUNC>
-dow component mcdonald s mcd was up <NUM> percent at dollar <NUM> after a wall street journal report that a hedge fund with a stake in the company envisions splitting the fast-food giant into three businesses <PUNC>
-general motors corp. gm <COMMA> also a dow component <COMMA> rose <NUM> percent to dollar <NUM> after the canadian auto workers union tentatively agreed late tuesday to a three-year contract proposal <COMMA> avoiding a potentially costly strike <PUNC>
-putting pressure on the dow <COMMA> caterpillar cat was <NUM> percent lower at dollar <NUM> <PUNC>
-dealers were uncertain whether the stock was impacted by a downgrade of farm-machinery seller agco corp by ubs <PUNC>
-agco was down <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

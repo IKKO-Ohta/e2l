@@ -1,5 +1,0 @@
-futures for the dow jones industrials average slipped <NUM> points to <NUM> <COMMA> but had been up as much as <NUM> points prior to the release of inflation data <PUNC>
-on tuesday <COMMA> ended a seesaw session with a sharp <COMMA> late-day sell-off <COMMA> with the dow industrials dji wiping out all of its gains for the year and the nasdaq composite rixf suffering its second eight-session losing streak in a month <COMMA> on concerns that a combination of higher inflation <COMMA> rising interest rates and slowing economic growth would hurt corporate profits. <PUNC>
-covello also upgraded dow component intel intc to outperform from in line <COMMA> and recommended buying the stock after an imminent earnings disappointment given that margins have likely bottomed <COMMA> expected market share gains and attractive valuation <PUNC>
-goldman also upgraded aerospace giant and dow component boeing ba to in line from underperform <COMMA> citing an increased outlook for aircraft deliveries <PUNC>
-<PAR>

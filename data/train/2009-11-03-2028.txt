@@ -1,4 +1,0 @@
-word of the deal boosted the dow jones transportation average djt <COMMA> up <NUM> percent lately <COMMA> as well as individual shares of other railways <PUNC>
-consumer staples fronted declines and industrials led the limited gains as the dow jones industrial average dji declined <NUM> points at <NUM> <PUNC>
-the s&p <NUM> index spx fell <NUM> points at <NUM> and the nasdaq composite index rixf declined <NUM> points to <NUM> <PUNC>
-<PAR>

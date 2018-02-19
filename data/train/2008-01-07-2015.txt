@@ -1,5 +1,0 @@
-up and down in a 150-point trading range <COMMA> the dow jones industrial average dji was recently off <NUM> points at <NUM> <PUNC>
-blue-chip losses were fronted by alcoa inc. aa <COMMA> down <NUM> percent ahead of the aluminum producer s fourth-quarter results <COMMA> due wednesday <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> remained higher <COMMA> led by altria group inc. mo <COMMA> up <NUM> percent <PUNC>
-other dow gainers included mcdonald s corp. mcd <COMMA> up <NUM> percent <COMMA> following a wall street journal report that the fast-food chain would compete with starbucks corp. sbux by opening coffee bars offering cappuccinos and lattes <PUNC>
-<PAR>

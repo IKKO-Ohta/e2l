@@ -1,9 +1,0 @@
-u.s. stocks closed sharply lower monday <COMMA> with the dow jones industrial average falling almost <NUM> points and the nasdaq declining for a seventh day <COMMA> as investors remained skittish ahead of key inflation data and three speeches from federal reserve chief ben bernanke this week <PUNC>
-the dow jones industrial average dji closed down <NUM> points to <NUM> <PUNC>
-of the dow industrials <NUM> components <COMMA> <NUM> traded lower <PUNC>
-the nasdaq composite index rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its lowest level since oct. <NUM> <PUNC>
-general motors corp. gm gained <NUM> percent at dollar <NUM> after delphi corp. dphiq <COMMA> its main parts supplier <COMMA> announced a broad employee buyout program that reduces the risk of a strike that could cripple the no <PUNC>
-<NUM> automaker <PUNC>
-the program also takes delphi a step closer to emerging from chapter <NUM> bankruptcy <PUNC>
-fellow dow component walt disney co. dis fell <NUM> percent at dollar <NUM> after citigroup downgraded the media and entertainment giant to hold from buy <COMMA> saying it believes the shares are less attractive at their current level following a strong run <PUNC>
-<PAR>

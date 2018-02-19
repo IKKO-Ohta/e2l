@@ -1,6 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-caterpillar cat led the measure s gains up <NUM> percent <PUNC>
-chevron cvx was also strong <COMMA> up <NUM> percent <COMMA> after the oil giant said it expects first-quarter profit to be higher than the previous quarter <COMMA> driven by higher earnings from its production and exploration operations <COMMA> which are benefiting from higher commodity prices <PUNC>
-however <COMMA> alcoa aa was the dow s weakest performer friday with a decline of <NUM> percent <COMMA> after j.p. morgan cuts its investment rating on the stock to neutral from overweight <PUNC>
-the firm cited lower earnings expectations for the aluminum giant <COMMA> based on a lower aluminum price forecast <PUNC>
-<PAR>

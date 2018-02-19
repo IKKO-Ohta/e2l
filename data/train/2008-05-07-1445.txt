@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting early losses <PUNC>
-blue-chip declines were led by verizon communications inc. vz <COMMA> off <NUM> percent <COMMA> and chevron corp. cvx <COMMA> down <NUM> percent <PUNC>
-the dow s advancing stocks included walt disney dis <COMMA> shares of which were recently up <NUM> percent <COMMA> after the entertainment giant reported a <NUM> percent rise in fiscal second-quarter profit <PUNC>
-<PAR>

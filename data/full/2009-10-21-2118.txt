@@ -1,8 +1,0 @@
-wal-mart inc. wmt shares fell <NUM> percent after announcing hundreds of millions of dollars worth of price cuts for the holiday season <PUNC>
-<PAR>
-the dow jones industrial average dji ended at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
-the s&p <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the technology-laden nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-in the prior session <COMMA> the indexes posted modest losses as data on the housing market overshadowed earnings from caterpillar inc. cat <COMMA> united technologies corp. utx and pfizer inc. pfe <COMMA> all of which reported results that topped estimates <PUNC>
-then there was dupont dd <COMMA> just meeting expectations and still sounding more cautious than optimistic <PUNC>
-after gaining <NUM> percent over the past few weeks <COMMA> dupont gave back <NUM> percent yesterday <COMMA> the analyst said <PUNC>
-<PAR>

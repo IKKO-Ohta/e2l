@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> points with less than an hour left in trading after earlier falling as low as <NUM> <PUNC>
-investors piled into treasurys after release of the government s monthly jobs data <COMMA> pushing the yield on the 10-year note to its lowest level in more than a year <PUNC>
-kraft foods kft gained <NUM> percent after reporting a <NUM> percent jump in its second-quarter profit as its new cadbury business helped drive sales in developing markets in asia and latin america <PUNC>
-earnings topped wall street s expectations and kraft affirmed its <NUM> earnings outlook <PUNC>
-<PAR>

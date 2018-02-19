@@ -1,4 +1,0 @@
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-dupont dd was the measure s worst performer with a <NUM> percent drop <COMMA> while kraft foods kft was also weak <COMMA> off <NUM> percent <PUNC>
-keeping the decline in check <COMMA> bank of america climbed <NUM> percent <COMMA> alcoa aa edged up <NUM> percent and travelers trv added <NUM> percent <PUNC>
-<PAR>

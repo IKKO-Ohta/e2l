@@ -1,4 +1,0 @@
-among dow components <COMMA> pfizer inc. pfe rose <NUM> percent after the drug maker reported positive results from a drug study <PUNC>
-cisco systems inc. csco and home depot inc. hd were also among the gainers in the blue-chip index <COMMA> rising <NUM> percent and <NUM> percent respectively <PUNC>
-at&t inc. t and microsoft corp. msft <COMMA> both dow components <COMMA> are due to release quarterly results after the closing bell <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-stocks added to losses in afternoon trade <COMMA> with the dow jones industrial average dji recently down <NUM> points to <NUM> <PUNC>
-on wednesday <COMMA> all but one of the dow s <NUM> components posted late session declines <COMMA> with the losses led by boeing co. ba <COMMA> down <NUM> percent <COMMA> and citigroup inc. c <COMMA> off <NUM> percent <PUNC>
-general motors corp. gm erased earlier gains <COMMA> off <NUM> percent <PUNC>
-the detroit news cited an internal gm memo in reporting on its web site that the automaker would announce important changes to its operation when it releases third-quarter results on friday <PUNC>
-<PAR>

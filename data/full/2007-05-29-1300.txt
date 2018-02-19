@@ -1,4 +1,0 @@
-the futures contact for the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
-norsk hydro nhy and rio tinto rtp are considering making bids for alcan inc. <COMMA> al according to reports <PUNC>
-alcan has turned down a hostile bid from fellow aluminum producer alcoa aa <PUNC>
-<PAR>

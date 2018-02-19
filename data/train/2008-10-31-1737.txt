@@ -1,7 +1,0 @@
-up and down during the morning <COMMA> the financial- and telecommunication-services sectors helped lift stocks solidly higher at midday <COMMA> with the dow jones industrial average dji recently ahead <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-the dow s financial components helped in pacing the rise <COMMA> with american express co. axp and j.p. morgan chase & co. jpm both up about <NUM> percent <PUNC>
-general motors corp. gm proved the blue-chip index s biggest decliner <COMMA> down <NUM> percent <COMMA> <PUNC>
-on the earnings front <COMMA> oil giant and dow industrials component chevron corp. cvx fell almost <NUM> percent after reporting third-quarter income rose <NUM> percent to dollar <NUM> billion <PUNC>
-u.s. stocks closed with strong gains thursday as amid indications of furthering easing in troubled credit markets <PUNC>
-the dow jones industrial average rose <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite added <NUM> points <PUNC>
-<PAR>

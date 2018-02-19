@@ -1,4 +1,0 @@
-the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
-merck & co inc. mrk was <NUM> cent lower at dollar <NUM> before the opening <PUNC>
-the drug maker has affirmed its <NUM> forecast <PUNC>
-<PAR>

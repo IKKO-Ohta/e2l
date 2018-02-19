@@ -1,5 +1,0 @@
-after dropping more than <NUM> points during the session <COMMA> the dow industrial average dji ended <NUM> points <COMMA> or <NUM> percent <COMMA> ahead <COMMA> at <NUM> <PUNC>
-of the blue-chip index s <NUM> components <COMMA> <NUM> ended higher <COMMA> with the late-session move up led by honeywell hon <COMMA> which climbed <NUM> percent after the manufacturer said it expects to meet or beat its earnings target for next year <PUNC>
-<PAR>
-the dow s laggards included its financials stocks <COMMA> with citigroup inc. c down <NUM> percent <COMMA> j.p. morgan chase co. jpm off <NUM> percent <COMMA> and american express co. axp closing down <NUM> percent <PUNC>
-<PAR>

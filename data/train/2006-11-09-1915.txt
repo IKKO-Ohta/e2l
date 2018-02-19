@@ -1,9 +1,0 @@
-the dow jones industrial average dji last was off <NUM> points at <NUM> <COMMA> with <NUM> of <NUM> components contributing to losses <PUNC>
-within the dow industrials <COMMA> losers were led by drugmakers merck mrk <COMMA> which was down more than <NUM> percent <COMMA> and pfizer pfe <COMMA> which fell nearly <NUM> percent <PUNC>
-hewlett-packard corp hpq tacked on more than <NUM> percent to lead the winners <PUNC>
-on wednesday <COMMA> u.s. stocks shook off early weakness to close higher <COMMA> with the dow industrials rising for a third-straight session to end at a record after democrats took control of the house of representatives for the first time in <NUM> years. <PUNC>
-dow component 3m co. mmm said it would sell its global branded pharmaceutical business for a total of dollar <NUM> billion <PUNC>
-that stock lost early gains to trade down <NUM> cents at dollar <NUM> <PUNC>
-hewlett-packard hpq <COMMA> also in the dow <COMMA> rose after goldman sachs raised its earnings estimates and price target for the stock <COMMA> ahead of what was expected to be strong fiscal fourth-quarter results <PUNC>
-the stock gained <NUM> percent to dollar <NUM> <PUNC>
-<PAR>

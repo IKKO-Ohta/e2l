@@ -1,3 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components up <COMMA> led by altria group inc. mo <COMMA> up <NUM> percent <PUNC>
-other dow gainers included mcdonald s corp. mcd <COMMA> up <NUM> percent <COMMA> following a wall street journal report that the fast-food chain would compete with starbucks corp. sbux by opening coffee bars offering cappuccinos and lattes <PUNC>
-<PAR>

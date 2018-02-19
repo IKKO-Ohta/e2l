@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-the dow s advance was fronted by honeywell hon <COMMA> shares of which traded <NUM> percent higher after the conglomerate reported an <NUM> percent profit increase for the fourth quarter <COMMA> and microsoft msft <COMMA> up <NUM> percent after the software giant posted an <NUM> percent surge in quarterly profit <PUNC>
-caterpillar cat also saw its stock move up <COMMA> adding <NUM> percent after it said fourth-quarter earnings grew about <NUM> percent <PUNC>
-in an earlier interview with marketwatch <COMMA> caterpillar ceo james owens said his expectations were for no worse than a mild u.s. recession <PUNC>
-u.s. stocks on thursday claimed higher ground for a second straight day after the white house and the house leadership unveiled a tentative economic-stimulus package <COMMA> lifting an equities market battered by worries about a recession <PUNC>
-the dow industrials rose <NUM> points <COMMA> the s&p <NUM> added <NUM> and the nasdaq composite rose <NUM> points <PUNC>
-earnings for companies outside the dow <NUM> were also squarely in focus <PUNC>
-<PAR>

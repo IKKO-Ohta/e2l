@@ -1,7 +1,0 @@
-with less than an hour of trade left <COMMA> the dow jones industrial average dji is off <NUM> points at <NUM> <COMMA> well off an earlier high of <NUM> <PUNC>
-of the dow industrials <NUM> components <COMMA> <NUM> contributed to losses. <PUNC>
-the dow is on track to post its largest one-day point loss since mid-july <PUNC>
-dow component hewlett-packard hpq fell <NUM> percent to dollar <NUM> <PUNC>
-on friday <COMMA> the company will hold a press briefing at which ceo hurd will address the company s investigation of leaks from its boardroom <PUNC>
-elsewhere <COMMA> shares of drug retailers were knocked lower after dow member wal-mart wmt said it would sell nearly <NUM> generic drugs at dollar <NUM> per prescription beginning in florida this week and spreading to as many states as possible in <NUM> <PUNC>
-<PAR>

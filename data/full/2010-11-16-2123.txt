@@ -1,7 +1,0 @@
-the dow jones industrial average dji tumbled <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-earlier in the session <COMMA> the index fell more than <NUM> points <COMMA> marking its first intraday lapse below <NUM> since oct. <NUM> <PUNC>
-a close below <NUM> would have been its first since oct. <NUM> <PUNC>
-home depot inc. hd and wal-mart stores inc. wmt were the sole advancers among the dow s <NUM> components after both major retailers reported improved earnings <PUNC>
-we have been benefiting from a weaker dollar <COMMA> said pado <COMMA> pointing to higher overseas sales for u.s. companies like general electric co. ge <COMMA> which derives half of its revenue internationally <PUNC>
-a cheaper dollar lowers the cost of a company s goods and services for holders of other currencies <PUNC>
-<PAR>

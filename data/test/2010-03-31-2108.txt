@@ -1,4 +1,0 @@
-the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> for the session to close at <NUM> <PUNC>
-it gained <NUM> percent for the month and <NUM> percent for the quarter <PUNC>
-twenty-four of the blue-chip index s <NUM> components tallied losses wednesday <COMMA> with cisco systems inc. csco fronting decliners with a drop of <NUM> percent <PUNC>
-<PAR>

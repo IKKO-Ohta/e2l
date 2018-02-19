@@ -1,5 +1,0 @@
-after a modest climb early on <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
-blue-chip laggards included merck & co. mrk <COMMA> which along with schering-plough corp. sgp delayed releasing their second-quarter earnings until after the market s close to let researchers report results from a study of a cholesterol drug marketed by the two companies in a joint venture <PUNC>
-<PAR>
-bank of america bac fronted the minority advance <COMMA> with shares of the retail banking giant up <NUM> percent after it reported a <NUM> percent profit decline for the second quarter <COMMA> but still exceeded wall street s estimates <PUNC>
-<PAR>

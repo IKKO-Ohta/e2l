@@ -1,5 +1,0 @@
-the dow jones industrial average dji was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf gained <NUM> percent <COMMA> to <NUM> <COMMA> helped by the strong earnings reports from technology companies <PUNC>
-surprisingly strong quarterly reports from computer chip-maker intel corp. intc and dutch semiconductor-equipment maker asml holding nv asmld buoyed technology stocks <COMMA> but other sectors weakened as investors looked ahead to earnings later in the week and braced for comments from u.s. federal reserve officials later in the day <PUNC>
-intel corp. intc shares rose <NUM> percent after its second-quarter earnings handily beat analyst expectations <PUNC>
-the company forecast strong third-quarter revenues and said demand for its chips would increase for the foreseeable future <PUNC>

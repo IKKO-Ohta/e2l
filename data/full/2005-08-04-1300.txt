@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-wal-mart wmt reported a <NUM> percent rise in same-store sales for the month <COMMA> bang in line with its forecast <PUNC>
-target corp tgt bested its rival with a <NUM> percent increase in same-store sales <PUNC>
-the company also reiterated its second-quarter profit outlook <PUNC>
-on the earnings front <COMMA> shares of gillette g rose <NUM> percent to dollar <NUM> in pre-market dealings after the maker of m3 power razors and duracell batteries posted forecast-beating second-quarter results <PUNC>
-the company is in the process of being acquired by procter & gamble <PUNC>
-pg <PUNC>
-<PAR>

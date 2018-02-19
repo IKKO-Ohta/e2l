@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with all <NUM> components in the red for the day <PUNC>
-the blue-chip average s loss broke two straight days of gains <PUNC>
-intel intc led declines in the dow industrials <COMMA> with shares falling <NUM> percent after the company announced plans to acquire security software maker mcafee mfe for cash in the chipmaker s largest-ever deal <PUNC>
-intel is paying a roughly <NUM> percent premium over mcafee s closing price wednesday <PUNC>
-<PAR>

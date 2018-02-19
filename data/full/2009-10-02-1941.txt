@@ -1,6 +1,0 @@
-consumer discretionary shares weighed the most and consumer staples fronted limited gains as the major indexes declined in late afternoon trade <PUNC>
-after an early fall of more than <NUM> points <COMMA> the dow jones industrial average dji was down <NUM> points to <NUM> <COMMA> readying it for a weekly fall of <NUM> percent <PUNC>
-the s&p <NUM> index spx shed <NUM> points to <NUM> <COMMA> also readying it for a loss of <NUM> percent from last friday s close <PUNC>
-and <COMMA> the nasdaq composite index rixf dropped <NUM> points to <NUM> <COMMA> leaving the tech-laden index poised for a <NUM> percent drop for the week <PUNC>
-on thursday <COMMA> the dow industrials dropped <NUM> points in tallying its largest single-day fall since early july <PUNC>
-<PAR>

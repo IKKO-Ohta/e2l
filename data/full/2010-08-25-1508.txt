@@ -1,2 +1,0 @@
-down <NUM> points earlier in the session <COMMA> the dow jones industrial average dji was lately off <NUM> points to <NUM> <COMMA> with the blue-chip index down for the fifth straight session <PUNC>
-<PAR>

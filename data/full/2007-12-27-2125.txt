@@ -1,7 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-all of the dow s <NUM> components finished in negative territory <PUNC>
-among the biggest decliners were citigroup c <COMMA> whose shares fell <NUM> percent to dollar <NUM> <COMMA> and j.p. morgan chase jpm <COMMA> which fell <NUM> percent to dollar <NUM> <PUNC>
-on wednesday <COMMA> u.s. stocks finished with mild gains amid concerns over holiday retail sales and downbeat housing data <PUNC>
-the dow industrials rose <NUM> points <COMMA> the nasdaq composite rose <NUM> points and the s&p <NUM> added a point <PUNC>
-shares of citigroup c fell <NUM> percent after goldman sachs analysts said the financial-services giant may be forced to cuts its dividend by <NUM> percent due to write-downs now estimated at dollar <NUM> billion in the fourth quarter <PUNC>
-<PAR>

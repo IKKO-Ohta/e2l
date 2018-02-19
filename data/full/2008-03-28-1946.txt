@@ -1,4 +1,0 @@
-the dow jones industrial average dji declined <NUM> points to <NUM> <COMMA> off <NUM> percent from the prior week s close <PUNC>
-of the blue chip s <NUM> components <COMMA> <NUM> were trading lower <COMMA> with financials including j.p. chase morgan & co. jpm erasing the bulk of earlier gains to trade near flat <PUNC>
-other financials on the dow fell <COMMA> with citigroup inc. c off <NUM> percent and american express co. axp down <NUM> percent <PUNC>
-<PAR>

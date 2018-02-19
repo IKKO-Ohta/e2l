@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> including american international group inc. aig <COMMA> which on monday will be replaced by kraft foods inc. kft in the blue-chip benchmark <PUNC>
-and washington mutual inc. wm <COMMA> the nation s biggest thrift <COMMA> is also reportedly looking for a buyer <COMMA> with wells fargo co. wfc <COMMA> j.p. morgan chase & co. jpm and hsbc holdings plc hbc viewed as potential bidders <PUNC>
-<PAR>

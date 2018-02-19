@@ -1,8 +1,0 @@
-down for a fifth session <COMMA> the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> spx also fell for a fifth session <COMMA> closing down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with health care losing the most and financials the best performing among its <NUM> major industry groups <PUNC>
-the loss streak is the longest since dec. <NUM> <COMMA> a time that had wall street fretting as politicians argued over combined spending cuts and tax hikes dubbed the fiscal cliff <PUNC>
-the index is up nearly <NUM> percent for the year <PUNC>
-wal-mart stores inc. wmt paced blue-chip losses <COMMA> its shares off <NUM> percent after bloomberg news reported the discount retailer was reducing orders with suppliers this quarter and next to deal with climbing inventories <PUNC>
-a wal-mart spokesperson told marketwatch the report is completely false <PUNC>
-j.p. morgan chase & co. jpm led advancers on the dow <COMMA> its shares up <NUM> percent <COMMA> after the associated press and the wall street journal report the bank and government officials were in discussions to settled federal and state mortgage investigations <PUNC>
-<PAR>

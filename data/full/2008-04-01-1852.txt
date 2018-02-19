@@ -1,3 +1,0 @@
-the dow industrials were recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all <NUM> components posting gains <PUNC>
-shares of citigroup inc. c led the way <COMMA> up <NUM> percent <PUNC>
-<PAR>

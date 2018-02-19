@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up less than one point at <NUM> in recent trading <PUNC>
-earlier in the session <COMMA> it had climbed as much as <NUM> points <PUNC>
-home depot hd was the measure s worst performer <COMMA> down <NUM> percent and wiping out its tuesday gain that had followed better-than-expected existing-home sales <PUNC>
-financial components j.p. morgan chase jpm and bank of america bac were also weak <PUNC>
-<PAR>

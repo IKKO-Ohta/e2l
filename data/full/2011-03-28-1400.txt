@@ -1,2 +1,0 @@
-after posting its biggest weekly advance since early july <COMMA> the dow jones industrial average dji lately added <NUM> points to <NUM> <COMMA> with all but five of its <NUM> components rising <PUNC>
-<PAR>

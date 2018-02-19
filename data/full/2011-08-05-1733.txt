@@ -1,4 +1,0 @@
-trading in a more than 400-point range that had the blue chips up <NUM> points at the start and then more than <NUM> lower <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-bank of america corp. bac fell hardest among the blue chips <COMMA> off more than <NUM> percent after the financial-services company said in a regulatory filing thursday it had unexpected demand for refunds on loans gone bad from fannie mae and freddie mac <PUNC>
-on thursday <COMMA> the dow industrials fell <NUM> points <COMMA> its biggest daily point decline since december <NUM> <PUNC>
-<PAR>

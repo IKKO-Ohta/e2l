@@ -1,6 +1,0 @@
-the dow jones industrial average climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-the measure was led by its industrial giants reliant to global growth <PUNC>
-dupont dft led the measure s gains with a jump of <NUM> percent <COMMA> while boeing ba climbed <NUM> percent <PUNC>
-cisco csco was also strong <COMMA> up <NUM> percent <PUNC>
-just a handful of the dow s components were in the red <COMMA> led by walt disney dis <COMMA> which dropped <NUM> percent <PUNC>
-<PAR>

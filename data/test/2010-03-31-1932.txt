@@ -1,3 +1,0 @@
-with an hour of trading left <COMMA> the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> up <NUM> percent for the month so far and nearly <NUM> percent for the nearly ended first quarter <PUNC>
-twenty-four of the blue-chip index s <NUM> components tallied losses <COMMA> with cisco systems inc. csco fronting afternoon losses among the blue chips <COMMA> off <NUM> percent <PUNC>
-<PAR>

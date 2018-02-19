@@ -1,2 +1,0 @@
-after a three-day decline <COMMA> the dow jones industrial average climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components ending higher <PUNC>
-<PAR>

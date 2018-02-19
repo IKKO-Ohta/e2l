@@ -1,5 +1,0 @@
-after falling nearly <NUM> points <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with all but two of its <NUM> components in the green <COMMA> led by intel corp. intc <COMMA> up <NUM> percent <COMMA> and merck & co. inc. mrk <COMMA> up <NUM> percent <PUNC>
-dow component bank of america corp. bac fell <NUM> percent as court proceedings reportedly began monday over an dollar <NUM> billion settlement between the bank and investors in mortgage securities <COMMA> with the legal battle coming two years after an accord to resolve claims over home loans packaged as securities <PUNC>
-on friday <COMMA> the dow jones industrial average ended down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> its steepest drop since mid-april <PUNC>
-in may <COMMA> the dow rose <NUM> percent <COMMA> the s&p added <NUM> percent and the nasdaq composite rose <NUM> percent <PUNC>
-<PAR>

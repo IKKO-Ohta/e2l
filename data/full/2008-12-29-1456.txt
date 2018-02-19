@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components advancing <COMMA> led by shares of exxon mobil xom <COMMA> chevron corp. cvx <COMMA> and alcoa inc. aa <PUNC>
-u.s. stocks ended higher in light trading friday <COMMA> led by gains in energy shares <COMMA> with retailers also in focus as post-christmas sales began in earnest <PUNC>
-the dow jones industrial average closed up <NUM> points <COMMA> the s&p <NUM> gained <NUM> points and the nasdaq composite advanced <NUM> points <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-after falling in the red after the new home sales report <COMMA> the dow jones industrial average dji traded on both sides of unchanged for most of the session to finish up <NUM> points at <NUM> <PUNC>
-alcoa aa led the measure <COMMA> up <NUM> percent <PUNC>
-dupont dd was also a strong performer <COMMA> up <NUM> percent <PUNC>
-home depot hd finished down <NUM> percent <PUNC>
-<PAR>

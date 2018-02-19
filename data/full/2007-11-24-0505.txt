@@ -1,7 +1,0 @@
-the dow jones industrial average dji rallied <NUM> points to finish at <NUM> <PUNC>
-the s&p <NUM> index spx gained <NUM> points to <NUM> <COMMA> while the nasdaq composite index rixf rose <NUM> points to <NUM> <PUNC>
-for the week <COMMA> the market still posted losses <COMMA> with the dow losing <NUM> percent <COMMA> the s&p <NUM> down <NUM> percent and the nasdaq off <NUM> percent <PUNC>
-among retailer shares in the dow <COMMA> wal-mart stores inc. wmt gained <NUM> percent and home depot inc. hd rose over <NUM> percent <PUNC>
-elsewhere <COMMA> electronic retailer circuit city stores inc. cc surged nearly <NUM> percent and best buy co. bby gained <NUM> percent <PUNC>
-clothing retailer j.c. penney co. jcp gained <NUM> percent and home retailer bed bath & beyond inc. bbby rose <NUM> percent <PUNC>
-<PAR>

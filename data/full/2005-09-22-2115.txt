@@ -1,7 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-the nasdaq composite index rixf climbed <NUM> points to <NUM> <COMMA> while the s&p <NUM> index spx was up <NUM> points at <NUM> <PUNC>
-within the dow industrials <COMMA> caterpillar inc. cat tacked on <NUM> cents to dollar <NUM> as a potential cleanup of the area hit by rita saw some investors predicting higher orders for the company s industrial equipment and machinery <PUNC>
-similarly <COMMA> home depot hd rose <NUM> percent to dollar <NUM> on expectations that the home improvement retailer would also benefit from reconstruction in the region <PUNC>
-mcdonald s corp. shares mcd rose <NUM> percent to dollar <NUM> <COMMA> buoyed by a slew of product announcements <PUNC>
-wal-mart stores inc. wmt rose <NUM> percent to dollar <NUM> <COMMA> erasing much of its prior-session losses sparked by a trade association suggesting retail sales in the holiday season will be not be as strong as last year s <PUNC>
-<PAR>

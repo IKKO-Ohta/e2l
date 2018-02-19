@@ -1,3 +1,0 @@
-after starting the session in the red <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> the index s 20th record finish this year <PUNC>
-dow component cisco systems inc. shares csco leapt higher after wednesday s closing bell as the networking giant reported quarterly results that beat wall street s projections <PUNC>
-<PAR>

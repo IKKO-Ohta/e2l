@@ -1,3 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-stocks rallied to a sharply higher close monday <COMMA> allowing the dow jones industrial average to break a six-session losing streak <COMMA> after an upbeat fed official s remarks and a dollar <NUM> billion takeover offer for four season hotels inc. lent cheer to the market <PUNC>
-<PAR>

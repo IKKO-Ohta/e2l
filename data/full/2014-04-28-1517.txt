@@ -1,8 +1,0 @@
-both utilities and energy stocks have been the best performers for the quarter and year <COMMA> even as the broader market has struggled to find direction <PUNC>
-the dow jones industrial average dji declined <NUM> percent last week and is down <NUM> percent for the year <PUNC>
-the nasdaq composite index rixf fell <NUM> percent last week for a <NUM> percent deficit on the year <PUNC>
-only the s&p <NUM> index spx is showing a gain on the year <COMMA> up <NUM> percent <COMMA> as it finished down less than <NUM> percent last week <PUNC>
-with quarterly reports out from dow energy components like exxonmobil xom on thursday and chevron cvx on friday <COMMA> investors will be combing outlooks for evidence of the economic recovery <COMMA> said robert pavlik <COMMA> chief market strategist at banyan partners <PUNC>
-other earnings reports due this week include dow component merck & co. mrk on tuesday <PUNC>
-health-care earnings are also due from bristol-myers squibb co. bmy <COMMA> express scripts holding co. esrx <COMMA> boston scientific corp. bsx <COMMA> wellpoint inc. wlp <COMMA> and cardinal health inc. cah <PUNC>
-<PAR>

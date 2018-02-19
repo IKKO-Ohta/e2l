@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> stocks advanced <PUNC>
-among blue chips <COMMA> mcdonald s corp. mcd led the gains <COMMA> rising <NUM> percent after saying global same-restaurant sales rose <NUM> percent in may <PUNC>
-after dropping nearly <NUM> points on thursday <COMMA> the dow industrials losses amounted to <NUM> points over the past three sessions <PUNC>
-<PAR>

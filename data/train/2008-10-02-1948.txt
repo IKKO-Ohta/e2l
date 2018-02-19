@@ -1,8 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-the shares of firms benefiting from global growth <COMMA> such as alcoa inc. aa and caterpillar inc. cat <COMMA> led the declines among blue chips <COMMA> with the aluminum giant s stock off <NUM> percent and the equipment maker s stock down <NUM> percent <PUNC>
-general electric s ge stock fell <NUM> percent <PUNC>
-its shares came under pressure wednesday amid concerns about its financial arm <PUNC>
-it also announced a dollar <NUM> billion public offering to be priced thursday <COMMA> and an investment from billionaire warren buffett <PUNC>
-away from the dow <COMMA> conocophillips cop <COMMA> the no <PUNC>
-<NUM> u.s. oil major <COMMA> said it sees lower prices for crude and natural gas in the third quarter and refining margins falling worldwide <PUNC>
-<PAR>

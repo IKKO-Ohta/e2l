@@ -1,7 +1,0 @@
-the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
-on tuesday stocks had a mixed closing <COMMA> with the nasdaq composite ending in positive territory <COMMA> but a slightly lower close for the dow jones industrial average <PUNC>
-the dow was dented after its component alcoa inc. aa released earnings that disappointed the market and general motors gm <COMMA> also in the dow <COMMA> announced price cuts <PUNC>
-fears that the fourth-quarter earnings season will prove weak were back in the foreground wednesday <COMMA> following a new dupont dd warning <PUNC>
-hewlett-packard hpq <COMMA> also in the dow <COMMA> was <NUM> cents higher at dollar <NUM> before the opening <PUNC>
-the company got an upgrade from prudential equity <COMMA> which noted positive cost savings <PUNC>
-<PAR>

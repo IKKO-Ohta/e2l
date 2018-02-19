@@ -1,6 +1,0 @@
-after rising as much as <NUM> points and falling <NUM> <COMMA> the dow jones industrial average dji finished at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <PUNC>
-the s&p <NUM> index spx shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with telecommunications the worst performing and health care faring best of its <NUM> major sectors <PUNC>
-the nasdaq composite rixf was off a fraction at <NUM> <PUNC>
-up more than <NUM> percent on the year and down <NUM> percent in august <COMMA> the dow industrials on friday marked a third consecutive weekly drop <COMMA> the longest weekly losing streak since mid-november <NUM> <PUNC>
-both the s&p <NUM> and nasdaq composite gained last week <COMMA> with the former off <NUM> percent in august but up <NUM> percent for the year and the latter up <NUM> percent for the month and <NUM> percent year-to-date <PUNC>
-<PAR>

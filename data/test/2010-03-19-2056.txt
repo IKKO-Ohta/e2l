@@ -1,4 +1,0 @@
-u.s. stocks closed modestly lower on friday <COMMA> with the dow average snapping its eight-day string of gains <COMMA> as renewed worries over greek finances and and an upcoming vote on health care unnerved investors <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-still <COMMA> the measure climbed <NUM> percent this week <COMMA> its third-straight weekly gain <COMMA> and is up <NUM> percent since jan. <NUM> <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-exxon mobil xom said third-quarter income fell <NUM> percent as the rising cost of oil boosted expenses and outpaced any price increases that the petroleum giant could get for its products <PUNC>
-in the financial sector <COMMA> blue chip citigroup c was downgraded to sector underperformer from sector performer at cibc world markets <COMMA> which cited potential worries about its dividend payments <PUNC>
-<PAR>

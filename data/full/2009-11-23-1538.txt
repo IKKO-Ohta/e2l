@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> recently <PUNC>
-its materials and energy components had the biggest percentage gains <COMMA> with chevron cvx up <NUM> percent <COMMA> alcoa aa up <NUM> percent and exxon mobil xom climbing <NUM> percent <PUNC>
-just because we saw people back off the risk trade a bit thursday and friday <COMMA> people got all up in arms <COMMA> lynch said <PUNC>
-but it s still very much with us <COMMA> and i think that s going to continue <PUNC>
-i think it s very telling that the stock market is still near its highs <COMMA> with the dow jones industrial average on track to set a new 13-month closing high if it can hold onto its recent gains through the bell <PUNC>
-<PAR>

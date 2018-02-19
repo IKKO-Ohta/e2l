@@ -1,6 +1,0 @@
-the dow jones industrial average and the s&p <NUM> rang out <NUM> with record closes tuesday <COMMA> ensuring blue chips posted the biggest annual gain in <NUM> years <PUNC>
-the dow industrials dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> its 52nd record close of the year <PUNC>
-the blue chips ended <NUM> with an annual rise of <NUM> percent <COMMA> the largest since <NUM> <PUNC>
-among blue chips <COMMA> american express co. axp rose <NUM> percent <COMMA> while united technologies utx advanced <NUM> percent to lead the dow higher <PUNC>
-boeing co. ba <COMMA> followed by american express axp <COMMA> were the top dow performers in <NUM> <COMMA> with boeing posting an annual rise of more than <NUM> percent and american express gaining nearly <NUM> percent <PUNC>
-<PAR>

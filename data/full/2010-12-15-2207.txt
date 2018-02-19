@@ -1,4 +1,0 @@
-the dow jones industrial average dji ended off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> after bouncing between small gains and losses for most of the session <PUNC>
-of the <NUM> components <COMMA> <NUM> fell <COMMA> led by alcoa inc. aa and j.p. morgan chase & co. jpm <PUNC>
-on tuesday <COMMA> the dow industrials closed at their highest level of the year <COMMA> with 10-year treasury note yields ust10y <COMMA> used in determining consumer loans <COMMA> surging to seven-month highs <PUNC>
-<PAR>

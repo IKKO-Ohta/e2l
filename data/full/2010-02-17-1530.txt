@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> <COMMA> or <NUM> percent <COMMA> at <NUM> in early trading <PUNC>
-industrial giant caterpillar cat was the measure s top performer <COMMA> up <NUM> percent after the federal reserve reported that industrial production and capacity rose in january <PUNC>
-home depot hd also rose <NUM> percent after housing starts rose to their highest level in six months <COMMA> according to data released before the opening bell <PUNC>
-weighing on the dow <COMMA> kraft foods kft lost <NUM> percent <COMMA> extending its losses from the previous session <PUNC>
-<PAR>

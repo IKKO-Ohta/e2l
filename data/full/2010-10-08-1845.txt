@@ -1,6 +1,0 @@
-u.s. stocks rose friday <COMMA> with the dow jones industrial average wavering around <NUM> <COMMA> as a bleak jobs report boosted expectations that the federal reserve will take additional action to stimulate economic growth <PUNC>
-the dow dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and earlier traded above <NUM> for the first time since may <NUM> <COMMA> just days before the may <NUM> flash crash <PUNC>
-alcoa <COMMA> inc. aa shares led the blue-chip index <COMMA> surging <NUM> percent after kicking off earnings season late thursday with results that exceeded analysts expectations <PUNC>
-the company also lifted its forecast for global aluminum demand in <NUM> <PUNC>
-caterpillar <COMMA> inc. cat shares jumped <NUM> percent <COMMA> walt disney & co. dis rose <NUM> percent and boeing co. ba gained <NUM> percent to help power the dow s gains <PUNC>
-<PAR>

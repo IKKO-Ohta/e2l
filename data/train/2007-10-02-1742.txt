@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of the blue-chip barometer s <NUM> components trading lower <PUNC>
-exxon mobil corp. xom fronted the dow s losses <COMMA> its stock off <NUM> percent <PUNC>
-home depot inc. hd and general motors corp. gm led among dow advancers <COMMA> with home depot up <NUM> percent and gm ahead <NUM> percent <PUNC>
-wall street rallied monday <COMMA> pushing the dow to a record close as the disclosure of sizable write-downs by citigroup inc. c bolstered thinking that investors now have a better handle on the extent of the damage stemming from riskier subprime home loans <PUNC>
-<PAR>

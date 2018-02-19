@@ -1,3 +1,0 @@
-better-than expected unemployment figures friday helped boost the dow and other indexes to their first weekly gain since early august <PUNC>
-for the week <COMMA> the dow jones industrial average dji closed up <NUM> percent at <NUM> <PUNC> the s&p <NUM> spx rose <NUM> percent for the week to <NUM> <PUNC> and the nasdaq composite index rixf ended at <NUM> <COMMA> up <NUM> percent for the week <PUNC>
-<PAR>

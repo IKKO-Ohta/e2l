@@ -1,8 +1,0 @@
-new york dow jones with upbeat earnings from technology giant ibm corp. paving the way <COMMA> wall street advanced thursday on mainly optimistic earnings reports <COMMA> taking the dow industrials to its first-ever close above <NUM> <PUNC>
-the dow jones industrial average dji ended <NUM> points higher at <NUM> <COMMA> as <NUM> of its <NUM> stocks advanced <COMMA> led by the likes of hewlett-packard hpq <COMMA> altria mo <COMMA> and american express axp <PUNC>
-alcoa inc. aa reversed course on earlier gains <COMMA> with its stock down nearly <NUM> percent on a report the aluminum giant is not longer being eyed as an acquisition target by bhp billiton plc bhp <PUNC>
-leading the dow s advance thursday <COMMA> ibm ibm gained <NUM> percent <COMMA> after reporting its strongest quarterly performance since <NUM> <COMMA> with its profit up <NUM> percent led by sales of it services to corporations <PUNC>
-microsoft corp. msft rose <NUM> percent ahead of reporting earnings after the close <PUNC>
-honeywell international inc. hon <COMMA> another dow component <COMMA> gained <NUM> percent <COMMA> after posting stronger-than-expected earnings and lifting its <NUM> guidance <PUNC>
-the stock touched a 52-week high on tuesday <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji moved down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
-the blue-chip barometer was weighed down by caterpillar inc. cat <COMMA> general motors corp. gm <COMMA> and merck mrk <COMMA> while only exxon mobil corp. xom <COMMA> 3m corp. mmm and verizon communications vz rose <PUNC>
-<PAR>

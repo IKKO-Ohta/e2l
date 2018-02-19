@@ -1,8 +1,0 @@
-the dow jones industrial average dji recently traded down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> well off an earlier high of <NUM> <COMMA> and after falling more than <NUM> points to a low of <NUM> <PUNC>
-all of the blue-chip index s <NUM> components posted declines <COMMA> with microsoft corp. msft losing morning gains <COMMA> recently down <NUM> percent following its report of a small profit gain for the september quarter <PUNC>
-<PAR>
-general motors corp. gm fell the most <COMMA> down nearly <NUM> percent <PUNC>
-the dow s decline <COMMA> while steep under normal circumstances <COMMA> proved far less severe than some had feared after stock futures plummeted to their daily limits in preopen trades <PUNC>
-so-called circuit-breakers would have kicked in <COMMA> had the dow industrials fallen <NUM> points before <NUM> p.m. eastern time <COMMA> freezing trading for an hour <PUNC>
-a 2,200-point plunge before <NUM> p.m. would have stopped trading for two hours <COMMA> and a 3,350-point drop would have shuttered trades for the rest of the day <PUNC>
-<PAR>

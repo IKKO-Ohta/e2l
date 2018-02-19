@@ -1,5 +1,0 @@
-the dow jones industrials average dji was down <NUM> points at <NUM> as the s&p <NUM> spx fell <NUM> points to <NUM> <PUNC>
-general motors gm <COMMA> a dow component that suffered a <NUM> percent drop monday in the wake of delphi s dphiq bankruptcy filing <COMMA> was slightly higher again after making back some of the loss on tuesday <PUNC>
-pfizer inc pfe <COMMA> also in the dow <COMMA> shot up almost <NUM> percent to dollar <NUM> benefiting from a favorable uk court ruling for its lipitor patent <PUNC>
-intel intc was down <NUM> percent at dollar <NUM> after prudential cut its rating on the chipmaker to underweight from neutral <COMMA> saying a number of challenges will hurt revenue and margins <PUNC>
-<PAR>

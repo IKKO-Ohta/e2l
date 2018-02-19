@@ -1,2 +1,0 @@
-after a 109-point fall <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or less than <NUM> percent <COMMA> at <NUM> <COMMA> with boeing co. ba and j.p. morgan chase & co. jpm leading the losses among <NUM> of its <NUM> components <PUNC>
-<PAR>

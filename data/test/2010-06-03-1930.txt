@@ -1,4 +1,0 @@
-trading in a 140-point range <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components losing ground <PUNC>
-home depot inc. hd and dupont dd fell the most <COMMA> both down nearly <NUM> percent <PUNC>
-on wednesday <COMMA> the dow climbed <NUM> points <COMMA> or <NUM> percent <COMMA> in tallying its first gain in three days <PUNC>
-<PAR>

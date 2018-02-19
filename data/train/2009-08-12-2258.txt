@@ -1,6 +1,0 @@
-after a 175-point climb <COMMA> the dow jones industrial average dji scaled back to finish at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-the s&p <NUM> gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite index rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-we will get a better picture of the health of the nation s retailers as several big ones report second-quarter earnings <COMMA> including wal-mart stores inc. wmt <COMMA> kohl s corp. kss and nordstrom inc. jwn <COMMA> said jacob meyer <COMMA> an equity analyst at d.a <PUNC>
-davidson & co <PUNC>
-wal-mart <COMMA> part of the dow industrials <COMMA> early on thursday will report financial results for the second quarter ended july <NUM> <PUNC>
-<PAR>

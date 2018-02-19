@@ -1,4 +1,0 @@
-the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <COMMA> a day after sliding <NUM> percent <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
-shares of microsoft corp. msft closed slightly lower the day the software giant had named satya nadella <COMMA> head of the company s cloud and enterprise business <COMMA> as its new chief executive officer <PUNC>
-<PAR>

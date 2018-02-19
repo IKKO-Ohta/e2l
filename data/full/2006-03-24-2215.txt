@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-on the week <COMMA> the benchmark index was flat <PUNC>
-boeing co. shares ba were up <NUM> cents at dollar <NUM> after the latest durable goods report showed healthy demand for civilian aircraft <PUNC>
-<PAR>

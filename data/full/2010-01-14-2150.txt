@@ -1,7 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its highest close since oct. <NUM> <COMMA> <NUM> <PUNC>
-the blue-chip measure was helped by a <NUM> percent jump in intel s stock <COMMA> a dow component <PUNC>
-the market has stalled since alcoa inc. s aa quarterly report marked a disappointing kickoff to fourth-quarter earnings season monday <PUNC>
-some traders are increasingly worried that the market s overall profits may not be as strong as expected <COMMA> while others are nervous that stocks are simply due for a pullback after <NUM> s big gains <PUNC>
-consumer stocks were weak after the commerce department reported an unexpected drop in u.s. retail sales in december from the previous month <PUNC>
-wal-mart stores inc. wmt dropped <NUM> percent <COMMA> while walt disney co. dis fell <NUM> percent and mcdonald s corp. mcd slipped <NUM> percent <PUNC>
-<PAR>

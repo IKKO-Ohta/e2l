@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-coca-cola co. ko will be in focus as investors gauge the impact of a decision by financial investment guru warren buffett and j. pedro reinhard not to run for reelection to the company s board <PUNC>
-buffett <COMMA> the chairman and chief executive of berkshire hathaway <COMMA> brka said he was leaving coke to focus on berkshire s acquisitions <PUNC>
-he added that berkshire hathaway will maintain its equity stake in coke <PUNC>
-the stock <COMMA> a component of the dow industrials <COMMA> ended monday down <NUM> cents at dollar <NUM> <PUNC>
-elsewhere on the dow <COMMA> shares of 3m mmm are likely to post early gains after the industrial group raised its quarterly cash dividend and approved a share buyback of dollar <NUM> billion <PUNC>
-on monday <COMMA> the stock rose <NUM> cents to dollar <NUM> <PUNC>
-<PAR>

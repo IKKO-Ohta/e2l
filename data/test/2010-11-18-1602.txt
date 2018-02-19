@@ -1,2 +1,0 @@
-after two days of losses that shaved <NUM> points off the dow jones industrial average dji <COMMA> the blue-chip index on thursday recouped the bulk of those losses <COMMA> lately up <NUM> points to <NUM> <PUNC>
-<PAR>

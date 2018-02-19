@@ -1,5 +1,0 @@
-wall street shares continued to slide on wednesday <COMMA> with the dow industrials down more than <NUM> points <COMMA> its path greased by a combination of persistent financial woes <COMMA> the dollar at record lows <COMMA> surging oil <COMMA> and general motors corp. s largest-ever quarterly loss <PUNC>
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in late afternoon action <PUNC>
-all but two of its <NUM> components traded in the red <COMMA> led by insurance giant american international group inc. aig <COMMA> down <NUM> percent ahead of its quarterly report <PUNC>
-general motors gm also weighed on the dow <COMMA> with share of the u.s. auto maker sliding <NUM> percent after it reported third-quarter net losses of dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> due to an accounting change <PUNC>
-<PAR>

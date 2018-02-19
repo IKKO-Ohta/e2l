@@ -1,5 +1,0 @@
-the dow jones industrial average dji was <NUM> points lower at <NUM> <PUNC>
-j.p. morgan chase & co. jpm last was <NUM> percent lower at dollar <NUM> <PUNC>
-the blue-chip brokerage and investment bank restated its <NUM> earnings <COMMA> at the request of authorities <COMMA> to account for investments in mortgages <PUNC>
-the company s earnings were unchanged <PUNC>
-<PAR>

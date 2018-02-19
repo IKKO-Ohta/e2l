@@ -1,9 +1,0 @@
-trading in a narrow range <COMMA> the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after rising <NUM> points <PUNC>
-on the dow jones industrial average <COMMA> chevron corp. cvx was its best performer <COMMA> up <NUM> percent <PUNC>
-the stock was boosted by a rise in crude-oil futures in addition to a ratings upgrade from bernstein research <PUNC>
-bank of america corp. bac climbed <NUM> percent after reporting significant gains in the number of modified mortgages it handles through the government s home affordable modification program <COMMA> designed to lower monthly payments for struggling customers <PUNC>
-merck mrk gained <NUM> percent after its fourth-quarter profit and sales rose sharply on its recent takeover of schering-plough corp <PUNC>
-the drug maker also laid out plans to cut <NUM> percent of its work force to generate cost savings from the deal <PUNC>
-however <COMMA> kraft foods kft kept the dow s gains in check <PUNC>
-the stock fell <NUM> percent as its fourth-quarter revenue came in slightly short of analysts expectations <PUNC>
-<PAR>

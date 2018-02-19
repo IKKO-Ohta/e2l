@@ -1,3 +1,0 @@
-u.s. stocks moderated losses on thursday <COMMA> with the dow industrials lifted into positive territory <COMMA> as headlines out of europe competed with another round of largely positive reports on the economy <PUNC>
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with half of its <NUM> components rising <PUNC>
-<PAR>

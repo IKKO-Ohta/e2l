@@ -1,6 +1,0 @@
-the dow jones industrial average dji has climbed some <NUM> percent this week <COMMA> marking its best week since the week ended july <NUM> <COMMA> <NUM> <PUNC>
-the rally comes as investors have grown hopeful that the market s recent drop to <NUM> lows may have exaggerated expected effects on corporate earnings from the slumping euro and slower global growth <PUNC>
-the dow was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
-alcoa aa rose <NUM> percent ahead of its second-quarter report due monday <PUNC>
-caterpillar cat was also strong <COMMA> up <NUM> percent <COMMA> and chevron cvx climbed <NUM> percent as crude-oil futures climbed above dollar <NUM> a barrel <PUNC>
-<PAR>

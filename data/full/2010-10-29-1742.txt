@@ -1,9 +1,0 @@
-the dow jones industrial average dji was up <NUM> percent at <NUM> in recent trading <PUNC>
-microsoft msft led the measure s gains <COMMA> up <NUM> percent <PUNC>
-the software giant s fiscal first-quarter profit climbed <NUM> percent <COMMA> benefitting from a continued strong response to the windows <NUM> operating system and office <NUM> <COMMA> with each business seeing year-over-year revenue growth <PUNC>
-meanwhile <COMMA> chevron corp. cvx and merck & co. mrk fell to the bottom of the dow <PUNC>
-chevron shares fell <NUM> percent after the oil major s third-quarter earnings and revenue missed analysts expectations <PUNC>
-read more on chevron <PUNC>
-friday <COMMA> which marks the 81st anniversary of the crash of <NUM> <COMMA> is the final trading day of what has been a strong october for stocks <PUNC>
-coming into friday s session <COMMA> the dow was up <NUM> percent for the month and the s&p <NUM> was up <NUM> percent for october <COMMA> marking the dow s best october since <NUM> and the s&p <NUM> s best october since <NUM> <PUNC>
-<PAR>

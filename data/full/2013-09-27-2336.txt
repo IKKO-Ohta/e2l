@@ -1,5 +1,0 @@
-one of five dow components on the rise <COMMA> nike inc. nke jumped <NUM> percent after the athletic-apparel seller reported fiscal first-quarter profit that beat expectations <PUNC>
-j.c. penney co. jcp fell <NUM> percent after the retailer started selling <NUM> million shares <PUNC>
-after a nearly 117-point fall <COMMA> the dow jones industrial average dji retreated <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with cisco systems inc. csco leading declines that included <NUM> of its <NUM> components <PUNC>
-the blue-chip index tallied a <NUM> percent weekly decline <PUNC>
-<PAR>

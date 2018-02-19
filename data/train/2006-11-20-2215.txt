@@ -1,5 +1,0 @@
-u.s. stocks closed mixed monday <COMMA> with the dow jones industrial average snapping a six-day winning streak <COMMA> as waning forward momentum led to selling pressure <PUNC>
-the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> freighted in part by heavy sales of component general motors corp gm and merck & co. inc. mrk <PUNC>
-dow component microsoft msft rose <NUM> percent to dollar <NUM> <PUNC>
-the stock was upgraded by credit suisse to outperform <COMMA> on increased confidence in earnings estimates <PUNC>
-<PAR>

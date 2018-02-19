@@ -1,3 +1,0 @@
-the dow jones industrial average dji was recently down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components retreated <COMMA> led by jp morgan chase & co. jpm <COMMA> mcdonald s corp. mcd <COMMA> merck & co. mrk <COMMA> and pfizer inc. pfe <PUNC>
-leading the gains among blue chips <COMMA> shares of home depot hd surged <NUM> percent after the home-improvement announced it would buy back up to dollar <NUM> billion of its own shares <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components advancing <PUNC>
-hewlett-packard co. hpq led gains with shares of the personal computer giant up <NUM> percent <PUNC>
-<PAR>

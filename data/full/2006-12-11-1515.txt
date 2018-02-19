@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-among blue-chips <COMMA> dupont dd gained <NUM> percent after it lifted its <NUM> earnings forecast and said it would <NUM> jobs worldwide <PUNC>
-dow component johnson & johnson jnj dropped <NUM> percent <PUNC>
-the firm is expected to be one of several that may make an offer for biomet inc. bmet <COMMA> according to the financial times <PUNC>
-citigroup inc. c gained <NUM> percent after u.k. press reports over the weekend identified it as having made an unsolicited offer for egg internet bank <COMMA> part of u.k. insurer prudential plc puk <PUNC>
-home depot inc. hd dropped <NUM> percent after a report said the company is going to pay dollar <NUM> million for a majority stake in china s homeway <PUNC>
-at&t inc. t gained <NUM> percent after bear stearns said in a note that the telecom company will likely complete its merger with bellsouth by year end <PUNC>
-<PAR>

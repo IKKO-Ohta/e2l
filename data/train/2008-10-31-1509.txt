@@ -1,6 +1,0 @@
-up and down during the morning <COMMA> the dow jones industrial average dji was recently ahead <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-jp morgan chase jpm gained the most <COMMA> up <NUM> percent <COMMA> while general motors corp. gm proved the blue-chip index s biggest decliner <COMMA> down <NUM> % <COMMA> <PUNC>
-u.s. stocks closed with strong gains thursday as amid indications of furthering easing in troubled credit markets <PUNC>
-the dow jones industrial average rose <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite added <NUM> points <PUNC>
-on the earnings front <COMMA> oil giant and dow industrials component chevron corp. cvx fell <NUM> percent after reporting third-quarter income rose <NUM> percent to dollar <NUM> billion <PUNC>
-<PAR>

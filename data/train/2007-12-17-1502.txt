@@ -1,4 +1,0 @@
-the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> led by caterpillar inc. cat <COMMA> which fell <NUM> percent after its downgrade to underweight from equal-weight by morgan stanley <PUNC>
-u.s. stocks closed sharply lower on friday <COMMA> as rising inflation dismayed investors already concerned that credit-market turbulence may prompt a recession <PUNC>
-the dow industrials fell <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite fell <NUM> points <PUNC>
-<PAR>

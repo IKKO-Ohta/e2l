@@ -1,4 +1,0 @@
-u.s. stocks were slammed hard again on wednesday <COMMA> with the dow jones industrial average skidding to its lowest close since late <NUM> <COMMA> as tightening credit conditions intensified fears about further failures in the financial sector <PUNC>
-down more than <NUM> points <COMMA> or <NUM> percent <COMMA> so far this week <COMMA> the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> its lowest closing level since nov. <NUM> <COMMA> <NUM> <PUNC>
-all <NUM> of the blue-chip indexes components finished in the red <COMMA> with american international group inc. aig down the most <COMMA> losing <NUM> percent to finish at dollar <NUM> a share <PUNC>
-<PAR>

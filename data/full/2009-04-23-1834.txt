@@ -1,4 +1,0 @@
-general motors gm was among the components weighing on the dow jones industrial average dji on thursday <COMMA> its shares lately off <NUM> percent at dollar <NUM> a share <COMMA> <NUM> cents above its march <NUM> closing low of dollar <NUM> <PUNC>
-but the blue-chip index overall erased earlier losses to trade higher in the afternoon <COMMA> with the dow most recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <PUNC>
-the s&p <NUM> index spx climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf declined <NUM> points to <NUM> <PUNC>
-<PAR>

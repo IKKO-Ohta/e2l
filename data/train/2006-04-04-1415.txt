@@ -1,4 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-in the first quarter <COMMA> ended friday <COMMA> the nasdaq composite rose <NUM> percent <COMMA> while the dow jones industrials and the s&p <NUM> both advanced <NUM> percent <PUNC>
-citigroup inc. c has been given the green light to hit the acquisition trail after new york federal reserve chief william rutledge lifted a year-old ban on big mergers <PUNC>
-<PAR>

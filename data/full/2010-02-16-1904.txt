@@ -1,4 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> led by a <NUM> percent gain in the shares of bank of america corp. bac after it reported significant gains in the number of modified mortgages it handles through the government s home affordable modification program <COMMA> designed to lower monthly payments for struggling customers <PUNC>
-among stocks to watch <COMMA> merck & co. mrk gained <NUM> percent as its fourth-quarter profit and sales rose sharply on its recent takeover of schering-plough <PUNC>
-kraft foods kft fell <NUM> percent as its fourth-quarter revenue came in slightly short of analysts expectations <PUNC>
-<PAR>

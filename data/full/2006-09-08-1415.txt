@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-dow component mcdonald s mcd launched an offer to shareholders to exchange its stock for the class b shares that it owns of the popular chain chipolte mexican grill inc. cmg <PUNC>
-<PAR>

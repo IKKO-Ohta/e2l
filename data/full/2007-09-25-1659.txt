@@ -1,7 +1,0 @@
-the dow jones industrial average dji was more recently down <NUM> points at <NUM> <COMMA> coming off an earlier low of <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were higher <COMMA> with microsoft corp. msft among the blue chips advancing <PUNC> its stock is up <NUM> percent <PUNC>
-home depot inc. hd fronted the dow s losses <COMMA> its stock off <NUM> percent <PUNC>
-wal-mart stores inc. wmt also weighed on the index <COMMA> its stock off <NUM> percent <PUNC>
-dow component general motors corp. gm fell <NUM> percent with shares of the automaker under pressure for a second day in the wake of a united auto workers strike called monday <PUNC>
-microsoft corp. msft saw its shares rise for a second day <COMMA> recently up <NUM> percent <COMMA> on the debut of its halo <NUM> video game <PUNC>
-<PAR>

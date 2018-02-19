@@ -1,7 +1,0 @@
-the dow jones industrial average dji <COMMA> ended up <NUM> points at <NUM> <COMMA> well below an intraday high of <NUM> <PUNC>
-fourteen of the average s <NUM> components closed lower and the other <NUM> ended in positive territory <PUNC>
-despite the market downturn <COMMA> dow component procter & gamble pg closed <NUM> percent higher after receiving a favorable mention in barron s <COMMA> which said the stock is undervalued <PUNC>
-dow fellow intel intc <COMMA> rose <NUM> percent <COMMA> benefiting from news late friday of a solid book-to-bill ratio in the latest semiconductor industry survey <PUNC>
-another component <COMMA> merck mrk <COMMA> which dropped <NUM> percent on friday on news of a texas jury award to the widow of a patient who died taking vioxx <COMMA> closed down <NUM> cents at dollar <NUM> <PUNC>
-the company monday received an upgrade from credit suisse first boston <COMMA> citing valuation <PUNC>
-<PAR>

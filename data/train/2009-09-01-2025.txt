@@ -1,3 +1,0 @@
-after dropping more than <NUM> points <COMMA> the dow jones industrial average dji finished at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent its worst showing in two weeks <PUNC>
-the s&p <NUM> index spx lapsed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in its first finish below <NUM> since aug. <NUM> <COMMA> while the nasdaq composite index rixf sank <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

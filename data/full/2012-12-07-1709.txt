@@ -1,2 +1,0 @@
-the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> where <NUM> out of <NUM> components traded higher <COMMA> led by gains in shares of j.p. morgan chase & co. jpm <PUNC>
-<PAR>

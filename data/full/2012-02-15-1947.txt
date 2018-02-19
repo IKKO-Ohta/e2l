@@ -1,4 +1,0 @@
-after starting higher <COMMA> the dow jones industrial average dji declined more than <NUM> points and was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-of its <NUM> components <COMMA> <NUM> lost ground <PUNC>
-kellogg co. k shares climbed <NUM> percent after it said it would buy procter & gamble co. s pg potato-chip unit for about dollar <NUM> billion in cash <PUNC>
-<PAR>

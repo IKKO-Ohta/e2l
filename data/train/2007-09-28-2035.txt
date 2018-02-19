@@ -1,3 +1,0 @@
-the dow jones industrial average dji shed <NUM> points to close at <NUM> <COMMA> with <NUM> of its <NUM> components closing lower <PUNC>
-yet the dow settled <NUM> percent higher on the month <COMMA> <NUM> percent for the quarter and <NUM> percent year-to-date <PUNC>
-<PAR>

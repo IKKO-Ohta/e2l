@@ -1,7 +1,0 @@
-the dow jones industrial average dji was last up more than <NUM> points at <NUM> <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
-verizon vz moved up <NUM> cents at dollar <NUM> after the telecom operator and dow component posted adjusted quarterly results that topped analyst estimates <PUNC>
-the company also said it added <NUM> high-speed internet customers and <NUM> million wireless subscribers in the march quarter <PUNC>
-automotive stocks are in focus as the big three and their overseas rivals release april sales figures <PUNC>
-general motors corp. gm turned in weak monthly results <PUNC>
-<PAR>

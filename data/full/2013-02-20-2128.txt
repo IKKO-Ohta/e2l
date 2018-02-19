@@ -1,3 +1,0 @@
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with caterpillar inc. cat shares among those hit as the manufacturer of construction and mining equipment reported global sales fell in the first quarter <PUNC>
-among individual stock moves <COMMA> boeing co. ba rose <NUM> percent a day after engineers approved the plane maker s contract offer <COMMA> deflating a labor dispute <PUNC>
-<PAR>

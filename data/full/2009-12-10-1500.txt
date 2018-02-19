@@ -1,3 +1,0 @@
-shortly after the opening bell <COMMA> the dow jones industrial average dji traded up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-of the index s <NUM> components <COMMA> <NUM> traded in the green <COMMA> led by united technologies corp. utx <COMMA> walt disney co. dis and alcoa inc. aa <PUNC>
-<PAR>

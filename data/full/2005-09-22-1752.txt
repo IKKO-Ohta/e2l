@@ -1,6 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-within the dow industrials <COMMA> american international group inc aig fell <NUM> cents to dollar <NUM> on concern it will face huge insurance claims due to rita <PUNC>
-caterpillar inc. cat tacked on <NUM> cents to dollar <NUM> as a potential cleanup of the area hit by rita saw some investors predicting higher orders for the company s industrial equipment and machinery <PUNC>
-mcdonald s corp. shares mcd rose <NUM> percent to dollar <NUM> as it updated investors on its strategic plans <PUNC>
-wal-mart stores inc. wmt rose <NUM> percent to dollar <NUM> <COMMA> erasing prior session losses <COMMA> sparked by a trade association suggesting retail sales in the holiday season will be not be as strong as last year <PUNC>
-<PAR>

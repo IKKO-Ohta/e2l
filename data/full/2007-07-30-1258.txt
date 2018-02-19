@@ -1,6 +1,0 @@
-the futures contract for the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
-last week private-equity and credit-market jitters forced the major averages to suffer their worst week since march <NUM> <PUNC>
-the dow jones industrials dropped <NUM> percent <COMMA> the s&p <NUM> fell <NUM> percent and the nasdaq composite lost <NUM> percent <PUNC>
-verizon communications vz reported an inline <NUM> percent rise in profit <PUNC>
-the stock ran up <NUM> percent to dollar <NUM> before the opening <PUNC>
-<PAR>

@@ -1,9 +1,0 @@
-even so <COMMA> hopes for resolution to euro-zone debt woes buoyed u.s. stocks for most of the past week <COMMA> fueling weekly gains of <NUM> percent for the dow jones industrial average dji and <NUM> percent for the s&p <NUM> index spx <PUNC>
-the nasdaq composite index rixf <COMMA> however <COMMA> lost <NUM> percent for the week <PUNC>
-stocks had suffered sharp declines on wednesday <COMMA> with the dow logging its worst single-day drop in nearly seven weeks as italy s borrowing costs shot up to levels seen as unsustainable <COMMA> further worsening europe s credit mess <PUNC>
-among notable u.s. financial reports scheduled for next week <COMMA> the market will see third-quarter results from dell inc. dell and wal-mart stores inc. wmt on tuesday and fiscal fourth-quarter results from applied materials inc. amat on wednesday <PUNC>
-a significant positive surprise would likely help stocks related to personal computers including hewlett-packard co. hpq and microsoft corp. msft <COMMA> said coffelt <PUNC>
-also reporting third quarter results next week <PUNC> target corp. tgt <COMMA> urban outfitters inc. urbn <COMMA> lowe s cos. inc. low <COMMA> j.c. penney co. inc. jcp <COMMA> the home depot inc. hd <COMMA> staples inc. spls <COMMA> abercrombie & fitch co. anf <COMMA> and sears holdings corp. shld <PUNC>
-h.j <PUNC>
-heinz co. hnz will post results for the second quarter <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-making a triple-digit move for an 11th session out of the last <NUM> <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> leaving it up <NUM> percent for the week after a two-week slide <PUNC>
-and <COMMA> while the current earnings season is mostly over <COMMA> the coming days will bring results from a collection of big names <COMMA> including results slated for tuesday from three dow components wal-mart stores inc. wmt <COMMA> home depot inc. hd and hewlett-packard co. hpq <PUNC>
-<PAR>

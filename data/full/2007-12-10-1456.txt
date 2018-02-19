@@ -1,2 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <COMMA> led by j.p. morgan chase jpm <COMMA> up <NUM> percent <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the futures contract for the dow jones industrial average dji last was <NUM> points higher at <NUM> <PUNC>
-walt disney & co. dis was little moved after it reported a <NUM> percent profit rise and agreed to buy club penguin for dollar <NUM> million <PUNC>
-<PAR>

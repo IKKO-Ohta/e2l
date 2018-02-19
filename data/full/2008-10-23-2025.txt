@@ -1,5 +1,0 @@
-after triple-digit rises and falls <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <COMMA> led by oil giants exxon mobil corp. xom and chevron corp. cvx <COMMA> up <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-aerospace company boeing co. ba led the limited dow gains <COMMA> up <NUM> percent <PUNC>
-among those weighing on the blue-chip index <COMMA> hewlett-packard co. hpq <COMMA> fell <NUM> percent <PUNC>
-u.s. stocks fell to more than five-year lows on wednesday <COMMA> with the dow industrials closing more than <NUM> points lower <PUNC>
-<PAR>

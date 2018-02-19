@@ -1,3 +1,0 @@
-the s&p <NUM> index eked out a marginal gain on thursday <COMMA> while the dow jones industrial average dropped <COMMA> weighed down by losses for verizon communications inc. and at&t inc <PUNC>
-the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent to <NUM> <COMMA> with verizon vz and at&t t both dropping <NUM> percent <PUNC>
-<PAR>

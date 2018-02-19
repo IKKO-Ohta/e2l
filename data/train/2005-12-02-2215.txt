@@ -1,5 +1,0 @@
-the dow jones industrial average dji <COMMA> which jumped more than <NUM> points in the previous session <COMMA> ended down <NUM> points at <NUM> <PUNC>
-for the week <COMMA> the benchmark index fell <NUM> percent <PUNC>
-since the market rallied off its october lows <COMMA> the dow has gained <NUM> percent <COMMA> the nasdaq has climbed <NUM> percent and the s&p <NUM> has risen <NUM> percent <PUNC>
-rival general motors corp. gm <COMMA> which announced an <NUM> percent drop in u.s. vehicle sales for november <COMMA> ended down <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

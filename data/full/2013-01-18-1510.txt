@@ -1,5 +1,0 @@
-general electric co. s results helped neutralize disappointment with intel corp. s quarterly release <COMMA> lifting the dow jones industrial average friday even as consumer confidence fell <PUNC>
-shares of general electric ge climbed <NUM> percent after its earnings beat estimates <PUNC> brokerage morgan stanley ms also gained for the same reason <PUNC>
-intel intc lost ground a day after the semiconductor maker said it was bracing for a third consecutive quarter of declining sales <COMMA> illustrating the global move to mobile devices and away from personal computers <PUNC>
-the dow jones industrial average dji climbed <NUM> points to <NUM> <PUNC>
-<PAR>

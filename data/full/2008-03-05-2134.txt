@@ -1,6 +1,0 @@
-u.s. stocks on wednesday found their footing late in the day <COMMA> with the dow industrials gaining for the first time in five days <COMMA> after ambac financial group shook up investors looking for a bailout of the embattled bond insurer <PUNC>
-up more than <NUM> points earlier <COMMA> the dow jones industrial average dji turned into negative territory only to recoup losses as the closing bell neared <COMMA> ending up <NUM> points at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> ended higher <COMMA> with chevron corp. cvx fronting the gains <COMMA> up <NUM> percent <PUNC>
-technology stocks were largely on the rise <COMMA> with yahoo inc. yhoo gaining <NUM> percent <PUNC>
-the online giant <COMMA> facing a hostile takeover attempt by microsoft corp. msft <COMMA> extended its deadline for nominating directors to its board <PUNC>
-<PAR>

@@ -1,9 +1,0 @@
-the dow jones industrial average was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-boeing ba led the measure s declines with a drop of <NUM> percent while alcoa aa was also weak <COMMA> down <NUM> percent <COMMA> as metals futures fell <PUNC>
-just a handful of the dow s components were in the black <COMMA> led by hewlett-packard hpq <COMMA> which rose <NUM> percent <PUNC>
-the company s fiscal second-quarter profit grew <NUM> percent on higher world-wide sales and profit growth in its core personal-computer business <COMMA> where shipments jumped <PUNC>
-the report helped lift the dow s other technology components <PUNC>
-intel intc climbed <NUM> percent <COMMA> cisco csco rose <NUM> percent and international business machines ibm advanced <NUM> percent <PUNC>
-wednesday is the first day of germany s ban on some short-selling <PUNC>
-the announcement of the ban helped exacerbate losses in u.s. stocks tuesday afternoon <COMMA> with the dow closing down nearly <NUM> points <COMMA> as it served to reinforce <COMMA> rather than dispel <COMMA> worries over the health of european governments and the lenders that possess their debt <PUNC>
-<PAR>

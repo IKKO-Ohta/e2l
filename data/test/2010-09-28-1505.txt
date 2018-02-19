@@ -1,2 +1,0 @@
-erasing an 80-point slide <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components falling <COMMA> led by cisco systems inc. csco <COMMA> off <NUM> percent <PUNC>
-<PAR>

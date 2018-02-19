@@ -1,2 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its worst one-day percentage drop in more than two months <PUNC>
-<PAR>

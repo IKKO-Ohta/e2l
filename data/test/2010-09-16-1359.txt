@@ -1,9 +1,0 @@
-the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-alcoa inc. aa was the measure s worst performer <COMMA> off <NUM> percent <PUNC>
-financial components also weakened <PUNC>
-j.p. morgan chase & co. jpm shed <NUM> percent <COMMA> while bank of america corp. bac lost <NUM> percent <PUNC>
-benchmark indexes have surged this month <PUNC>
-the dow is up nearly <NUM> percent since the start of september and the s&p <NUM> up <NUM> percent in the same period <COMMA> as fears of a double-dip recession have relaxed <PUNC>
-still <COMMA> the recent muddy economic data has left investors hesitant about the rally s sustainability <PUNC>
-and concerns are mounting over tensions between the u.s. relationship with china <PUNC>
-<PAR>

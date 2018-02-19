@@ -1,2 +1,0 @@
-the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
-<PAR>

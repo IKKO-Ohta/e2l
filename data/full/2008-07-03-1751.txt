@@ -1,4 +1,0 @@
-after rising more than <NUM> points during the holiday-shortened session <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> ended in the green <COMMA> with united technologies corp. utx <COMMA> up the most <COMMA> gaining <NUM> percent <PUNC>
-american insurance group inc. aig proved the dow s biggest decliner <COMMA> off <NUM> percent <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-on tuesday <COMMA> energy and financials led stocks rebound from another beating during the prior session <COMMA> which had stocks nearing 12-year lows <PUNC>
-in recent action <COMMA> the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
-the s&p <NUM> spx added <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf gained <NUM> points to <NUM> <PUNC>
-<PAR>

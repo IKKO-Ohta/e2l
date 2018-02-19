@@ -1,9 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> after posting its biggest one-day drop in more than two months <PUNC>
-economists were expecting orders to rise <NUM> percent <PUNC>
-economists were expecting a big increase in aircraft orders after boeing co ba reported orders soared to <NUM> in may from <NUM> in april <PUNC>
-shares of alcoa inc. aa fell <NUM> percent after the aluminum producer said it would take a second-quarter charge of <NUM> cents to <NUM> cents a share and eliminate <NUM> jobs as part of a previously disclosed plan to streamline the aluminum producer s operations <PUNC>
-in the financial sector <COMMA> citigroup c said it ll sell its asset management business in exchange for the broker-dealer business of legg mason <COMMA> inc. lm in a deal valued at dollar <NUM> billion <PUNC>
-the company is currently in the process of being bought by johnson & johnson <PUNC>
-jnj analysts said guidant s problems are unlikely to derail the acquisition <PUNC>
-johnson & johnson shares were up <NUM> percent in morning trading <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> after touching an intraday low of <NUM> <PUNC>
-the biggest decliner was visa inc. v <COMMA> down <NUM> percent <COMMA> with j.p. morgan chase & co. jpm and international business machines corp. ibm both finishing down about <NUM> percent <PUNC>
-stocks have been pretty resilient so far during the shutdown <PUNC>
-since the shutdown started on oct. <NUM> <COMMA> the dow industrials are off by <NUM> percent <COMMA> the s&p <NUM> is down <NUM> percent <COMMA> and the nasdaq is off by <NUM> percent <COMMA> with tuesday s losses making up a big part of the month-to-date loss <PUNC>
-<PAR>

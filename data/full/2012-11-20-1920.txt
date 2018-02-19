@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with hewlett-packard hpq pacing losses among <NUM> of its <NUM> components <PUNC>
-h-p s shares skidded <NUM> percent after the dow component reported fourth-quarter revenue below expectations and earnings above estimates <COMMA> but only after excluding a large accounting charge tied to alleged fraud by an acquired company <PUNC>
-<PAR>

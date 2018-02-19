@@ -1,6 +1,0 @@
-u.s. stocks plunged sharply wednesday <COMMA> the dow jones industrial average losing more than <NUM> points <COMMA> after consumer prices climbed more than analysts had expected <COMMA> heightening worries that rising inflation could restrict future interest-rate cuts by the federal reserve <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-among blue chips on the rise <COMMA> hewlett-packard co. hpq shares rose <NUM> percent <COMMA> after the computer maker s solid earnings <PUNC>
-<PAR>
-as on tuesday <COMMA> telecommunications stocks led the blue-chip declines <COMMA> with at&t inc. t off <NUM> percent and verizon communications vz down <NUM> percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <COMMA> with all but one of its components in the black <PUNC>
-caterpillar cat led the measure s gains <COMMA> rising <NUM> percent as expectations for global demand rose <PUNC>
-technology components also strengthened as demand for riskier stocks returned <PUNC>
-hewlett-packard hpq rose <NUM> percent <COMMA> while intel intc gained <NUM> percent <PUNC>
-only j.p. morgan intc slipped into the red <COMMA> falling <NUM> percent <PUNC>
-<PAR>

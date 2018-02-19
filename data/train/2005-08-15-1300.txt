@@ -1,3 +1,0 @@
-the futures contracts for the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq composite all were pointing toward small losses in the early minutes of trade <PUNC>
-fellow retailer wal-mart wmt could be active monday <COMMA> due to news over the weekend that it continues to expect august same-store sales growth to be within its prior forecast of <NUM> percent to <NUM> percent <PUNC>
-<PAR>

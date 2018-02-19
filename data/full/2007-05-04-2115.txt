@@ -1,7 +1,0 @@
-u.s. stocks rose slightly friday <COMMA> sending the dow jones industrial average to record highs and locking in solid weekly gains <COMMA> after a weak april jobs report was offset by merger reports <COMMA> including one that microsoft corp. was in talks to buy yahoo inc. <COMMA> and news that reuters group plc has been approached by a potential buyer <PUNC>
-still <COMMA> the market s nearly uninterrupted advance since mid-march which has taken the dow jones industrial average to new highs took a breather ahead of the federal reserve s decision on interest rates next week <PUNC>
-the dow industrials dji rose <NUM> points to finish at <NUM> <COMMA> a new record close <COMMA> led by the likes of alcoa inc. aa <COMMA> citigroup inc. c <COMMA> coca cola co. ko and at&t inc. t <PUNC>
-among blue chips friday <COMMA> microsoft corp. msft fell <NUM> percent after reports that it is trying to buy internet search engine yahoo inc. yhoo <COMMA> which jumped <NUM> percent <PUNC>
-yahoo was up as much as <NUM> percent but pared gains after another report said the merger talk was not active <PUNC>
-outside of the dow <COMMA> reuters rtrsy stock shot up <NUM> percent after the financial times said reuters appeared willing to recommend the bid from thomson corporation <PUNC>
-<PAR>

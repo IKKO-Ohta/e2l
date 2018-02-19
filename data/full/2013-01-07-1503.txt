@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-bank of america corp. bac rose <NUM> percent after global central banks said they would soften and postpone liquidity restrictions <PUNC>
-alcoa inc. aa reports after tuesday s close <COMMA> with the aluminum producer the first dow component slated to release fourth-quarter results <PUNC>
-mortgage lender wells fargo & co. wfc reports earnings friday <PUNC>
-<PAR>

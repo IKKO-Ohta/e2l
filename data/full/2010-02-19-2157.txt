@@ -1,9 +1,0 @@
-the dow jones industrial average dji briefly slipped into the red late in the session during a speech by president obama calling for further action on banking regulation <COMMA> health-care reform <COMMA> and other issues <PUNC>
-however <COMMA> it recovered to end with a modest gain akin to the one it had posted most of the day <COMMA> up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the dow rose in every session of the holiday-shortened week <COMMA> ending with a <NUM> percent weekly gain <COMMA> its second-straight weekly gain <PUNC>
-most of the gains came tuesday as investors shifted their attention away from a simmering debt crisis in greece and toward increasing signs that a recovery is taking hold in the u.s <PUNC>
-financial stocks were mostly stronger <PUNC>
-bank of america corp. bac shares shook off earlier declines to climb <NUM> percent <PUNC>
-insurance companies also gained <COMMA> as premiums invested in fixed-income assets stand to benefit if interest rates rise <PUNC>
-insurer chubb corp. cb gained <NUM> percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-alcoa aa was the measure s worst performer <COMMA> off <NUM> percent as metals futures fell <PUNC>
-general electric ge was also particularly weak <COMMA> down <NUM> percent <PUNC>
-cisco csco was the dow s only component in the black <COMMA> up <NUM> percent after the big maker of networking gear reported a <NUM> percent profit rise and said current quarter sales may grow as much as <NUM> percent <PUNC>
-the company also plans to hire <NUM> to <NUM> workers over the next few quarters <PUNC>
-<PAR>

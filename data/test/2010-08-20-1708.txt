@@ -1,7 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <PUNC>
-the measure is now firmly in the red for the week <COMMA> as disappointing jobs and manufacturing data on thursday wiped out gains from excitement over a resurgence in global merger activity <PUNC>
-the dow fell <NUM> percent to <NUM> <PUNC>
-among the measure s worst performers <COMMA> caterpillar cat fell <NUM> percent <COMMA> general electric ge shed <NUM> percent and manufacturing giant 3m mmm slid <NUM> percent <PUNC>
-among stocks in focus <COMMA> hewlett-packard hpq dropped <NUM> percent <COMMA> even as its profit climbed <NUM> percent on higher worldwide sales in its fiscal third-quarter <COMMA> the technology giant s final quarter with mark hurd at its helm <PUNC>
-but investors have been skittish about h-p since hurd left the company two weeks ago <COMMA> during which the stock has lost about <NUM> percent of its value <PUNC>
-<PAR>

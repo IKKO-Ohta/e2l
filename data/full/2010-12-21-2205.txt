@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <COMMA> led by financial stocks <PUNC>
-bank of america corp. bac gained <NUM> percent <COMMA> j.p. morgan chase & co. jpm added <NUM> percent and american express co. axp rallied <NUM> percent <PUNC>
-the close above <NUM> may prove notable <PUNC>
-before tuesday <COMMA> the dow had made three attempts to close above that level over the prior <NUM> days <COMMA> and failed at that point of resistance <COMMA> noted fred dickson <COMMA> chief investment strategist at davidson cos <PUNC>
-<PAR>

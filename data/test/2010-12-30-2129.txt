@@ -1,5 +1,0 @@
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> a day after registering its highest close since aug. <NUM> <COMMA> <NUM> <PUNC>
-among the dow s worst performers <COMMA> american express co. axp fell <NUM> percent <COMMA> while dupont dd lost <NUM> percent <COMMA> and pfizer pfe dropped <NUM> percent <PUNC>
-intel corp. intc helped keep the declines in check with a <NUM> percent increase <PUNC>
-it s a good data set <COMMA> mark schultz <COMMA> portfolio manager of the mtb mid cap growth fund <PUNC>
-i m happy <COMMA> even with the dow off a couple points <PUNC>

@@ -1,9 +1,0 @@
-the dow jones transportation average djt hit a record high as investors adopted a buy the break mentality <PUNC>
-the index of <NUM> transport companies including shippers fedex corp. fdx and united parcel service inc. ups <COMMA> as well as airlines and trucking firms <COMMA> is viewed as an indicator of economic activity <PUNC>
-after a 122-point surge <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-dow gainers included intel corp. intc <COMMA> up <NUM> percent after releasing fourth-quarter earnings just before the close <PUNC>
-cisco systems inc. csco fell <NUM> percent after j.p. morgan reduced its rating to underweight from neutral <PUNC>
-bank of america corp. bac lost <NUM> percent after the lender reported a <NUM> percent decline in fourth-quarter profit <PUNC>
-boeing co. ba shares rose <NUM> percent <COMMA> reversing losses that came after u.s. regulators ordered its global fleet of <NUM> dreamliners grounded after one of the planes made an emergency landing <COMMA> the latest in a series of mishaps <PUNC>
-off the dow <COMMA> shares of cbs corp. cbs jumped <NUM> percent after the media company said it would convert its outdoor advertising unit to a real-estate investment trust and would solicit a buyer for the asian and european portions of that business <PUNC>
-<PAR>

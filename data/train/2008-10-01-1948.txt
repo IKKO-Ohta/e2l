@@ -1,5 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> rebounding off an earlier low of <NUM> <PUNC>
-seventeen of the dow s <NUM> components traded lower <COMMA> led by the likes of alcoa inc. aa <COMMA> caterpillar inc. cat and international business machines corp. ibm <PUNC>
-general electric co. ge was off <NUM> percent <COMMA> off earlier lows <COMMA> after saying it will sell dollar <NUM> billion in common stock in a secondary offering and sell dollar <NUM> billion in preferred shares to warren buffett s berkshire hathaway inc <PUNC>
-dow component exxon mobil corp. xom rose <NUM> percent <COMMA> bucking a mostly negative trend in energy shares as crude prices slumped more than <NUM> percent <PUNC>
-<PAR>

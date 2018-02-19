@@ -1,5 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> the s&p <NUM> spx down <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf down <NUM> points at <NUM> <PUNC>
-shares of dow component citigroup c fell <NUM> cents to dollar <NUM> after news that marge magner <COMMA> a prot&#195;&#169;g&#195;&#169 <PUNC> of sandy weill s who ran citigroup s consistently profitable consumer division <COMMA> will step down at the end of september <PUNC>
-another dow component <COMMA> intel intc rose <NUM> cents to dollar <NUM> ahead of a speech by the company s chief executive <COMMA> paul otellini <PUNC>
-he will discuss strategic plans during the intel developer forum <COMMA> a semi-annual gathering of chip engineers and designers <PUNC>
-<PAR>

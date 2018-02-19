@@ -1,6 +1,0 @@
-the dow jones industrial average dji advanced <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components higher <COMMA> led by general motors corp. gm <COMMA> up <NUM> percent <PUNC>
-ge ge fronted the dow s declines <COMMA> its stock off <NUM> percent <PUNC>
-shares of citigroup inc. c were down <NUM> percent <COMMA> a day after the bank announced a shakeup <PUNC>
-u.s. stocks on thursday staged a dramatic reversal <COMMA> closing lower after the dow first hit record highs on a gain of <NUM> points before plunging to a loss of more than <NUM> points <PUNC>
-traders cited profit-taking in technology shares as the main culprit <PUNC>
-<PAR>

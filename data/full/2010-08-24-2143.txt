@@ -1,7 +1,0 @@
-a broad decline in u.s. stocks that sent the dow industrials briefly below <NUM> ended with a thud tuesday <COMMA> after dismal data on the housing market intensified worries about the global economic recovery <PUNC>
-of the dow s <NUM> components <COMMA> all but five closed in the red <PUNC>
-industrial conglomerates particularly sensitive to global economic trends led decliners <COMMA> with boeing co. ba down the most <COMMA> off <NUM> percent <PUNC>
-alcoa inc. aa fell <NUM> percent and caterpillar inc. cat lost <NUM> percent <PUNC>
-at&t inc. t and kraft foods inc. wmt rose the most <COMMA> posting gains of <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-shares of 3par inc. par gained <NUM> percent after bloomberg news reported dell inc. dell was preparing to increase its bid for the data-storage provider after hewlett-packard co. hpq topped its prior offer <PUNC>
-<PAR>

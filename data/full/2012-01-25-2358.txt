@@ -1,5 +1,0 @@
-u.s. stocks gained wednesday <COMMA> with the dow industrials erasing losses to end at an eight-month high after the federal reserve said interest rates would remain low through late <NUM> <PUNC>
-after falling as much as <NUM> points <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-it was the index s highest close since may <NUM> <PUNC>
-boeing co. ba was among the dow components reversing course <COMMA> with the aerospace manufacturer shedding losses that came on its weaker-than-expected <NUM> earnings forecast <PUNC>
-<PAR>

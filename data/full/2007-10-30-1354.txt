@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-the s&p <NUM> spx shed <NUM> points to <NUM> <COMMA> while nasdaq composite declined <NUM> points to <NUM> <PUNC>
-in corporate earnings <COMMA> consumer-goods maker procter & gamble co. pg failed to match analysts expectations in reporting fiscal first-quarter income <COMMA> and said rising prices for energy and commodities would curb profits in the current quarter <PUNC>
-<PAR>

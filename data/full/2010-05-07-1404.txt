@@ -1,9 +1,0 @@
-the dow jones industrial average dji was up <NUM> percent <COMMA> or <NUM> points recently <COMMA> to <NUM> <COMMA> while the standard & poor s spx <NUM> rose <NUM> percent to <NUM> <PUNC>
-the nasdaq composite rixf was up <NUM> percent <PUNC>
-the moves follow a volatile thursday when the dow fell nearly <NUM> points mid-afternoon <COMMA> before closing off <NUM> percent <PUNC>
-the action comes after one of the most tumultuous stock sessions in history <PUNC>
-u.s. tocks ended with steep losses thursday after an afternoon meltdown lopped nearly <NUM> points off the dow its biggest intraday drop on a point basis ever before a partial recovery <PUNC>
-the dow finished the day down <NUM> points <COMMA> or <NUM> percent <PUNC>
-in the dow <COMMA> alcoa aa jumped <NUM> percent <COMMA> while kraft foods kft climbed <NUM> percent and bank of america advanced <NUM> percent <PUNC>
-procter & gamble pg fell <NUM> percent <COMMA> while american express axp dropped <NUM> percent and intel intc slipped <NUM> percent <PUNC>
-<PAR>

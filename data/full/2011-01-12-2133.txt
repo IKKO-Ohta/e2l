@@ -1,4 +1,0 @@
-the financial sector also received a lift after jpmorgan chase s jpm chief executive suggested the bank might pay a yearly dividend of dollar <NUM> and an analyst recommended buying shares of large u.s. banks <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with jp morgan leading the advance <COMMA> up <NUM> percent <COMMA> followed by bank of america corp. bac <COMMA> up <NUM> percent <PUNC>
-on tuesday <COMMA> both the dow industrials and the s&p <NUM> snapped a three-session losing streak <PUNC>
-<PAR>

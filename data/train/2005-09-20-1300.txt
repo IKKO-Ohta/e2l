@@ -1,4 +1,0 @@
-the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
-futures contracts for the s&p <NUM> and the nasdaq <NUM> were up <NUM> points at <NUM> <COMMA> and up <NUM> points at <NUM> <COMMA> respectively <PUNC>
-in premarket trade <COMMA> wal-mart wmt was down <NUM> cents at dollar <NUM> <COMMA> after the retailer said it was making its first foray into central american retailing <COMMA> buying a stake in the region s top retailer from dutch retailer royal ahold aho <PUNC>
-<PAR>

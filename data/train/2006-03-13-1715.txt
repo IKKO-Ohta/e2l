@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> but off an early high of <NUM> <PUNC>
-boeing co. shares ba tacked on <NUM> percent to dollar <NUM> after weekly financial newspaper barron s said the company is in the midst of a turnaround against european rival airbus <PUNC>
-<PAR>

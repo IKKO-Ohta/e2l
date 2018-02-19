@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed <NUM> points higher at <NUM> <PUNC>
-within the dow <COMMA> caterpillar cat trotted <NUM> percent higher to close at dollar <NUM> <PUNC>
-credit suisse first boston called the stock its top large-cap machinery choice for <NUM> <PUNC>
-aig <COMMA> also in the dow <COMMA> rose <NUM> percent to dollar <NUM> <COMMA> after merrill lynch named it one of its favorite large-cap insurance stocks <PUNC>
-<PAR>

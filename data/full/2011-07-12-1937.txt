@@ -1,9 +1,0 @@
-the dow jones industrial average dji gained as much as <NUM> points <COMMA> hitting its highs of the day <COMMA> before losing them all <PUNC>
-it was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-intel corp. intc fell <NUM> percent <PUNC>
-shares of dow component alcoa inc. aa moved down <NUM> percent after reporting financial results late monday <PUNC>
-excluding charges <COMMA> the aluminum producer s second-quarter income from continuing operations was a penny short of expectations <PUNC>
-shares of cisco systems inc. csco <COMMA> however <COMMA> saw <NUM> percent gain on speculation the tech company may cut <NUM> jobs <PUNC>
-u.s. stocks were recovering from a rocky monday session as soaring bond yields in spain as well as italy posed the risk that a potential default by greece would create a mass exodus from other european countries debt <PUNC>
-the dow lost <NUM> points monday to close at <NUM> <COMMA> its lowest close since june <NUM> <PUNC>
-<PAR>

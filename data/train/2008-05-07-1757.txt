@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
-blue-chip declines were led by financials <COMMA> with shares of american international group inc. aig and american express co. axp both falling <NUM> percent <COMMA> while citigroup inc. c retreated <NUM> percent <PUNC>
-the dow s advancers included walt disney co. dis <COMMA> shares of which were recently up <NUM> percent <COMMA> after the entertainment giant reported a <NUM> percent rise in profit for the second quarter of fiscal <NUM> <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with all <NUM> of its components trading in the red <PUNC>
-the blue-chip bleeding was fronted by american international group aig <COMMA> which dropped nearly <NUM> percent in the aftermath of the insurance giant s late thursday report of a dollar <NUM> billion fourth-quarter net loss <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
-shares of procter & gamble co. pg were down <NUM> percent at dollar <NUM> before the opening in electronic trade <PUNC>
-the company affirmed its previous third-quarter earnings projection of <NUM> to <NUM> cents a share <PUNC>
-the cincinnati household products company also still expects revenue growth of <NUM> percent to <NUM> percent for the current quarter <PUNC>
-at&t corp. t and yahoo inc. yhoo are negotiating potentially sweeping changes that could scale back their partnership <COMMA> which expires in april <NUM> <COMMA> and could cost yahoo millions in revenue <COMMA> according to a report from the wall street journal <PUNC>
-<PAR>

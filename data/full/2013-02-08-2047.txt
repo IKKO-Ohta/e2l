@@ -1,8 +1,0 @@
-u.s. stocks pared gains friday <COMMA> sending the dow industrials back below <NUM> <COMMA> as wary investors anticipated a pullback given a recent bullish run in equities <PUNC>
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> after touching an intraday high of <NUM> earlier <PUNC>
-nineteen out of <NUM> components of the dow traded higher with hewlett-packard co. hpq leading the way with a <NUM> percent gain <PUNC>
-the dow hits <NUM> and then goes back <COMMA> it s a big barrier from a technical standpoint <PUNC>
-that level of bullishness is something to pay attention to <COMMA> briaud said <PUNC>
-in corporate news <COMMA> mcdonald s corp. mcd said its global comparable sales in january fell <NUM> percent <PUNC>
-shares rose <NUM> percent <PUNC>
-<PAR>

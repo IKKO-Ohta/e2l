@@ -1,9 +1,0 @@
-the dow jones industrial average dji put in a fractional loss <COMMA> down <NUM> point at <NUM> <PUNC>
-dow industrials component procter & gamble pg was off <NUM> percent at dollar <NUM> in pre-market dealings after it said it now expects organic sales growth - excluding the impact of acquisitions <COMMA> divestitures and foreign exchange - of <NUM> percent to <NUM> percent <COMMA> at the low end of its earlier forecast of <NUM> percent to <NUM> percent growth <PUNC>
-american international group <COMMA> aig may see early gains after broker merrill lynch reiterated its buy rating on the insurer <COMMA> and added it to its focus <NUM> list <PUNC>
-on monday <COMMA> the stock gained <NUM> cents to dollar <NUM> <PUNC>
-continuing the dow theme <COMMA> walt disney co. dis is in talks to sell the remainder of its e <PUNC>
-entertainment television inc. unit to comcast corp. cmcsa <COMMA> according to a report in the wall street journal <PUNC>
-chipotle mexican grill inc. cmg is expected to move higher out of the gate after the recent mcdonald s spin-off mcd posted a forecast-beating fourth-quarter <PUNC>
-on monday <COMMA> the stock rose dollar <NUM> to dollar <NUM> <PUNC>
-<PAR>

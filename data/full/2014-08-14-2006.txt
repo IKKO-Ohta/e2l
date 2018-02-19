@@ -1,6 +1,0 @@
-the s&p <NUM> spx closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with health-care stocks leading the gains <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-dow industrials component wal-mart wmt lowered its full-year earnings forecast <COMMA> while second-quarter operating profit met analyst expectations and sales topped those views <PUNC>
-cisco systems csco shares fell after the network-equipment maker said late wednesday that it plans to cut up to <NUM> jobs <PUNC>
-read more about the day s notable movers here <PUNC> <PUNC>

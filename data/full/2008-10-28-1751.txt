@@ -1,6 +1,0 @@
-after jumping more than <NUM> points <COMMA> the dow jones industrial average dji was recently up <NUM> points to <NUM> <PUNC>
-twenty-six of the blue-chip index s <NUM> components advanced <COMMA> led by boeing corp. ba <COMMA> up <NUM> percent <COMMA> after the company reached a tentative pact with its machinists <PUNC>
-also offering strong support <COMMA> general motors corp. gm gained <NUM> percent after the wall street journal reported the department of energy is working to arrange dollar <NUM> billion in loans to the auto maker <COMMA> which would help gm merge with chrysler <PUNC>
-j.p. morgan chase jpm was the dow s greatest laggard <COMMA> down <NUM> percent <PUNC>
-on monday <COMMA> a bout of late-session selling sent u.s. stocks lower <COMMA> with the dow jones industrial average falling <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its lowest close since april <NUM> <COMMA> <NUM> <COMMA> with the blue-chip index down <NUM> percent so far for october <PUNC>
-<PAR>

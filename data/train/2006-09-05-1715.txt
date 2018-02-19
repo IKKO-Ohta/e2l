@@ -1,8 +1,0 @@
-u.s. stocks were mostly higher tuesday led by strength in the technology sector <COMMA> although the dow jones industrial average pulled back slightly from multi-month highs <PUNC>
-the dow industrials dji were last down <NUM> points at <NUM> <COMMA> erasing earlier gains of as much as <NUM> points at a <NUM> 1/2-year high of <NUM> <PUNC>
-the dow industrials have ended higher on the day after labor day nine out of the last eleven sessions <COMMA> according to the stock trader s almanac <PUNC>
-dow component caterpillar inc. cat shares rose <NUM> percent to dollar <NUM> <COMMA> and reached a more than two-week high of dollar <NUM> <COMMA> after the heavy equipment maker said it would be raising machinery and engine prices beginning january <NUM> <PUNC>
-the move prompted merrill lynch to upgrade the company <PUNC>
-procter & gamble s pg stock was off <NUM> percent at dollar <NUM> <PUNC>
-the world s largest consumer-products company affirmed its outlook for fiscal first-quarter earnings and sales <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the s&p <NUM> index spx and the dow jones industrial average dji are <NUM> percent and <NUM> percent below their respective all-time highs set in earlier in the month <COMMA> after they both closed down about <NUM> percent this past week <PUNC>
-this past week saw august consumer sentiment taking a turn for the worse <COMMA> while wal-mart stores inc. wmt and other retailers reported cautious consumer spending <PUNC>
-another consequence of higher interest rates <COMMA> along with a rise in housing prices <COMMA> is that home owners are more likely to renovate than move <COMMA> and that could bode well for home improvement companies like dow component home depot inc. hd and lowe s cos. hd <COMMA> which report this week <COMMA> said greenhaus <PUNC>
-<PAR>

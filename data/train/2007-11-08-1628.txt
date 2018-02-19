@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components lower <COMMA> with ibm ibm fronting the slide <COMMA> its stock down <NUM> percent <PUNC>
-within the dow <COMMA> shares of american international group inc. aig fell to lows not seen for more than a year <PUNC>
-late wednesday <COMMA> the insurance giant reported a <NUM> percent drop in third-quarter net income <COMMA> with fallout from the subprime mortgage crisis pushing its results below expectations <PUNC>
-wal-mart wmt reported same-store sales rose <NUM> percent in october <COMMA> less than the <NUM> percent hike anticipated by analysts <PUNC>
-<PAR>

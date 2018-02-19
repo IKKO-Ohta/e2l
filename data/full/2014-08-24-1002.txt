@@ -1,2 +1,0 @@
-in the past week <COMMA> the dow jones industrial average dji <COMMA> the s&p <NUM> index spx <COMMA> and the nasdaq composite index rixf all notched low-volume gains for a third week in a row on a host of better-than-expected economic data <PUNC>
-<PAR>

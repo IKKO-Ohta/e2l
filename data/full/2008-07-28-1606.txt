@@ -1,3 +1,0 @@
-the dow jones industrial average declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but two of its <NUM> components trading lower <PUNC>
-shares of general motors corp. also weighed on the dow <COMMA> with shares of the world s biggest automaker slumping more than <NUM> percent as toyota motor corp. warned its full-year sales results are likely to fall shy of past targets <PUNC>
-<PAR>

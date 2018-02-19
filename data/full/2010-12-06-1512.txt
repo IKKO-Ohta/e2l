@@ -1,3 +1,0 @@
-after three days of gains <COMMA> the dow jones industrial average dji on monday was down <NUM> points at <NUM> <PUNC>
-twenty-two of its <NUM> components were on the decline <PUNC>
-<PAR>

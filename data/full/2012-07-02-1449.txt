@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with dupont dd leading the decliners <PUNC>
-twenty three of the dow s <NUM> components traded lower <PUNC>
-the benchmark index was trading around <NUM> shortly before the data on manufacturing <PUNC>
-u.s. stocks had rallied on friday after european union leaders agreed on fresh measures to tackle the euro-zone debt crisis <PUNC>
-the dow gained <NUM> percent in june <COMMA> posting its best month since october <NUM> <PUNC>
-<PAR>

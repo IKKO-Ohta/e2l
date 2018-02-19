@@ -1,4 +1,0 @@
-futures for the dow jones industrial average dju4 rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while those for the s&p <NUM> index spu4 added <NUM> point <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-futures for the nasdaq <NUM> index ndu4 gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-u.s. markets remain undaunted by the dizzying highs they re currently standing at and futures are suggesting there s more gains to be seen at the open <COMMA> said joao monteiro <COMMA> analyst at valutrades <COMMA> in a note <PUNC>
-ahead of the open we re calling the dow up <NUM> at <NUM> and the s&p up <NUM> at <NUM> <PUNC>

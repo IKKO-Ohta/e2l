@@ -1,7 +1,0 @@
-the dow jones industrial average dji <COMMA> which was up about <NUM> points before the fed rate committee s announcement at 2:15 p.m. eastern time <COMMA> recently posted a 7-point gain <COMMA> up <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite index rixf added <NUM> percent <PUNC>
-the standard & poor s <NUM> index spx advanced <NUM> percent <COMMA> led by a <NUM> percent gain in its basic-materials sector <COMMA> which benefited from a rally in commodity prices <PUNC>
-among other stocks to watch <COMMA> boeing co. ba fell <NUM> percent a day after its dreamliner made its first flight <COMMA> setting up the challenge of churning out large numbers of the cutting-edge aircraft <PUNC>
-<PAR>
-intel corp. intc dropped <NUM> percent as the u.s. federal trade commission sued the chip maker <COMMA> alleging the company engaged in a decade-long campaign to stifle competition <PUNC>
-<PAR>

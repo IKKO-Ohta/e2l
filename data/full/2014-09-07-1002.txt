@@ -1,2 +1,0 @@
-even though the s&p <NUM> closed at a record high friday <COMMA> gains across the board were slight with both the dow jones industrial average dji and s&p <NUM> index spx up <NUM> percent <COMMA> and the nasdaq composite index rixf finishing up less than <NUM> percent <PUNC>
-<PAR>

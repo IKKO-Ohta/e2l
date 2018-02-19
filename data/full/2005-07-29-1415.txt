@@ -1,3 +1,0 @@
-the dow jones industrial average dji was off prior lows <COMMA> down just <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-dupont dd was up <NUM> percent at dollar <NUM> <COMMA> due to an upgrade to overweight from equal weight at lehman brothers <COMMA> which cited a more attractive valuation <PUNC>
-<PAR>

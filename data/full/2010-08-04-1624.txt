@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the standard & poor s <NUM> index spx added <NUM> points at <NUM> and the nasdaq composite index rixf rose <NUM> points to <NUM> <PUNC>
-leading the way were consumer discretionary stocks <PUNC>
-pg&e pg gained <NUM> percent after second-quarter profit dropped <NUM> percent on higher charges and revenue came in below expectations <PUNC>
-the dow had edged down <NUM> percent on tuesday <COMMA> hurt by disappointing earnings and economic reports that cast more doubt on the turnaround <PUNC>
-<PAR>

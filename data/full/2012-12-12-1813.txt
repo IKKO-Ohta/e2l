@@ -1,5 +1,0 @@
-u.s. stocks added to wednesday gains <COMMA> with the dow jones industrial average extending its longest winning run in eight months <COMMA> as wall street cheered further easing from the federal reserve <PUNC>
-up about <NUM> points ahead of the fed s decision <COMMA> the dow industrials dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-among individual stock movers <COMMA> shares of dupont dd rose <NUM> percent <COMMA> making the company one of the top gainers in the dow <PUNC>
-the firm announced late tuesday a dollar <NUM> billion share buyback <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with hewlett-packard co. hpq the leading decliner among its <NUM> components <COMMA> all of which lost ground <PUNC>
-personal-computer maker h-p reports financial results after the close <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell as much as <NUM> points in early trading and was recently down <NUM> points at <NUM> as data continued to underscore slowing growth both in the u.s. and overseas <PUNC>
-one of the two dow components in the black <COMMA> hewlett-packard hpq edged up <NUM> percent <COMMA> erasing some of its monday tumble after its chief executive suddenly resigned late friday <PUNC>
-procter & gamble pg shares added <NUM> percent <PUNC>
-intel intc led the dow s declines <COMMA> tumbling <NUM> percent after j.p. morgan chase cut its calendar <NUM> estimates on intel after checks with technology companies in taiwan indicate order rates from the pc end market deteriorated sharply during the last part of july <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-on monday <COMMA> financial shares led a broad rally <COMMA> with investor sentiment lifted by the treasury department s plan to rid banks of bad assets <COMMA> as well as better-than-expected data on the troubled housing market <PUNC>
-the dow jones industrial average rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> index climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-after rising more than <NUM> points at the start only to dip into negative territory <COMMA> the dow jones industrial average dji again reversed course <COMMA> and was lately up <NUM> points at <NUM> <PUNC>
-oil giants chevron corp. cvx and exxon mobil corp. xom were among the top gainers on the dow <COMMA> up <NUM> percent and <NUM> percent respectively <PUNC>
-<PAR>

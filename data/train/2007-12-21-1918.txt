@@ -1,4 +1,0 @@
-hitting new highs for the week <COMMA> the dow jones industrial average dji advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> setting the blue-chip index in play for a weekly advance of about <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were trading higher <COMMA> led by at&t inc. t <COMMA> its stock up <NUM> percent <PUNC>
-the dow s sole laggard was honeywell international inc. hon <COMMA> recently off <NUM> percent <PUNC>
-<PAR>

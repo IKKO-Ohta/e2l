@@ -1,6 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <COMMA> led by dupont dd <COMMA> up <NUM> percent <PUNC>
-blue-chip declines were led by general motors corp. gm <COMMA> down <NUM> percent after citigroup global markets inc. downgraded the automaker to hold from buy <PUNC>
-oil giants exxon mobil corp. xom and chevron corp cvx also weighed on the dow <COMMA> with both down around <NUM> percent <PUNC>
-the upbeat start for equities comes in the wake of heavy losses last week <COMMA> with the dow shedding nearly <NUM> percent of its value in what was the blue-chip benchmark s worst showing since february <PUNC>
-j.p. morgan chase & co. jpm <COMMA> part of the dow industrials <COMMA> was up <NUM> percent after the financial institution and first data corp. said they had reached terms on ending their joint payments and merchant acquiring venture by the end of the year <PUNC>
-<PAR>

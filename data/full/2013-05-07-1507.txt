@@ -1,3 +1,0 @@
-u.s. stocks mostly rose tuesday <COMMA> lifting the dow jones industrial average back above <NUM> and extending the s&p <NUM> s record climb <COMMA> after a surprise rate cut by australia s central bank <PUNC>
-rising to a record high of <NUM> <COMMA> the dow industrials dji were lately up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-<PAR>

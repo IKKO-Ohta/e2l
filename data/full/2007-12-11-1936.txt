@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-at&t t was up <NUM> percent after the telecommunications giant said it is increasing its dividend by <NUM> percent and buying back <NUM> million shares <PUNC>
-<PAR>
-dow laggards included its financial shares <COMMA> with american express co. axp recently off <NUM> percent and jp morgan chase co. jpm down <NUM> percent <PUNC>
-citigroup inc. c was off <NUM> percent after an earlier rise on a wall street journal report it would name vikram pandit as its chief executive officer <PUNC>
-<PAR>

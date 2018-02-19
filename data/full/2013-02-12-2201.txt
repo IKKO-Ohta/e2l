@@ -1,7 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> with <NUM> of <NUM> components finishing in positive territory <PUNC>
-tuesday s close is the best since oct. <NUM> <COMMA> <NUM> <COMMA> and <NUM> percent off its record close of <NUM> <COMMA> set on oct. <NUM> <COMMA> <NUM> <PUNC>
-the index hit an intraday high of <NUM> on tuesday <PUNC>
-financial stocks boosted blue chips with bank of america corp. bac leading the way with a <NUM> percent gain <PUNC>
-shares of j.p. morgan chase & co. jpm rose <NUM> percent <COMMA> travelers cos. trv advanced <NUM> percent <COMMA> and american express co. axp closed <NUM> percent higher <PUNC>
-coca-cola co. ko was the worst performer on the dow industrials <COMMA> declining <NUM> percent <COMMA> after the beverage giant s quarterly revenue growth came in below analyst estimates <PUNC>
-<PAR>

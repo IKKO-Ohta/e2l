@@ -1,2 +1,0 @@
-after a two-day rise <COMMA> the dow jones industrial average dji was down <NUM> points <COMMA> or less than <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> led by diversified manufacturer 3m co. mmm <COMMA> off <NUM> percent <PUNC>
-<PAR>

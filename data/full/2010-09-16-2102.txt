@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by a <NUM> percent rise in shares of hewlett-packard hpq <PUNC>
-the scenario has helped drive recent merger activity <COMMA> said ali <COMMA> pointing to intel corp. s intc recent deal for mcafee inc. mfe <COMMA> sanofi-aventis sa s sny attempt to purchase biotech firm genzyme corp. genz and bhp billiton ltd. s proposed takeover of fertilizer giant potash corporation of saskatchewan inc. pot <PUNC>
-<PAR>

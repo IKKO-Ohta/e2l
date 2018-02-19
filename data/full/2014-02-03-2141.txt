@@ -1,6 +1,0 @@
-the s&p <NUM> and the dow jones industrial average ended the day with the steepest decline since june <NUM> <PUNC>
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> falling below its 200-day moving average <PUNC>
-the drop is the seventh triple-digit decline this year <PUNC>
-pfizer inc pfe shares pared earlier losses to gain <NUM> percent <PUNC>
-the pharmaceutical giant said a trial for its advanced breast cancer treatment met its primary goal <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> its <NUM> components trading higher <COMMA> with the gains led by american insurance group inc. aig <COMMA> up <NUM> percent <PUNC>
-<PAR>

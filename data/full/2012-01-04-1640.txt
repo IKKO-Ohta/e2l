@@ -1,3 +1,0 @@
-but the slide in u.s. equities was relatively mild in context of the previous session s strong advance <COMMA> which had the dow jones industrial average rising <NUM> points and closing at a five-month high <PUNC>
-on wednesday <COMMA> the dow dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
-<PAR>

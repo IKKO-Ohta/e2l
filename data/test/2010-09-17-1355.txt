@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <PUNC>
-boeing b was the measure s best performer <COMMA> up <NUM> percent after russia said it would buy <NUM> of the company s jets for dollar <NUM> billion and boeing said it plans to boost further production of its next-generation <NUM> airplanes <PUNC>
-pharmaceutical and health-care giant johnson & johnson jnj edged up <NUM> percent after saying it is in advanced talks to buy all the shares of dutch vaccine firm crucell n.v. it doesn t already own for eur1.75 billion dollar <NUM> billion <PUNC>
-j&j now holds about <NUM> percent of crucell s shares <PUNC>
-<PAR>

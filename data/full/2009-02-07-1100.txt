@@ -1,6 +1,0 @@
-on friday <COMMA> the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the s&p <NUM> index spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf rallied <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-after posting their worst january performance on record <COMMA> stocks entered the month of february on a positive note <PUNC>
-for the week <COMMA> the dow rose <NUM> percent <COMMA> the s&p gained <NUM> percent <COMMA> and the nasdaq jumped <NUM> percent <PUNC>
-next week <COMMA> another <NUM> companies from the s&p <NUM> are expected to report <COMMA> including one dow component <COMMA> coca-cola co. ko <COMMA> on thursday <PUNC>
-<PAR>

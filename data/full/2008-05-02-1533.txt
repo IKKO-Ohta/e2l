@@ -1,7 +1,0 @@
-off its early highs <COMMA> the dow jones industrial average dji was more recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <PUNC>
-top gainers on the dow industrials included citigroup inc. c <COMMA> up <NUM> percent <COMMA> and bank of america corp. bac <COMMA> ahead <NUM> percent <PUNC>
-wal-mart stores inc. wmt and ibm corp. ibm led the blue-chip decliners <COMMA> with the discount retailer off <NUM> percent and the tech company down <NUM> percent <PUNC>
-in the technology sector <COMMA> microsoft corp. msft and yahoo inc. yhoo were again in the headlines <PUNC>
-on the earnings front <COMMA> media giant viacom via via reported a <NUM> percent quarterly profit rise <COMMA> topping analyst estimates <COMMA> but its shares were little moved <COMMA> while chevron cvx generated <NUM> percent profit growth <PUNC>
-the oil giant s shares made marginal gains <PUNC>
-<PAR>

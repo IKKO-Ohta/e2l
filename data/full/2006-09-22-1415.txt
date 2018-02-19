@@ -1,3 +1,0 @@
-the dow jones industrial average dji last was down <NUM> points at <NUM> <PUNC>
-shares of dow industrials component hewlett-packard hpq were down more than <NUM> percent <PUNC>
-<PAR>

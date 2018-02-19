@@ -1,5 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-among dow stocks entering the earnings fray <COMMA> shares of citigroup inc. c fell <NUM> percent to dollar <NUM> after the financial services group s second-quarter results fell short of analyst expectations <COMMA> due in large part to a significant decline in its fixed-income revenue <PUNC>
-3m co <COMMA> mmm <COMMA> the second dow component to report monday <COMMA> could get a lift in early trading after the diversified industrial group raised the lower-end of its <NUM> earnings forecast <PUNC>
-after the market close <COMMA> fellow dow member international business machines ibm reports its quarterly results <PUNC>
-<PAR>

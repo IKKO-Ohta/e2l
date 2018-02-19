@@ -1,4 +1,0 @@
-the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
-on tuesday <COMMA> stocks had their best one-day performance since july <COMMA> with the dow industrials jumping <NUM> points <COMMA> the nasdaq composite rising <NUM> points and the s&p <NUM> adding <NUM> points <PUNC>
-those gains followed last week s sell-off in global stock markets that wiped out trillions of dollars in market capitalization <PUNC>
-<PAR>

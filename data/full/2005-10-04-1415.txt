@@ -1,7 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-the warning prompted investors to take a second look at rival hewlett-packard s hpq prospects for the rest of the year <PUNC>
-h-p s stock fell <NUM> percent in morning trading <PUNC>
-shares of procter & gamble pg fell <NUM> percent to dollar <NUM> after citigroup cut the household products maker to hold from buy <COMMA> citing concerns over raw material pricing <PUNC>
-the broker said it will limit upside to earnings-per-share estimates <PUNC>
-in addition <COMMA> citigroup also cut its price target to dollar <NUM> from dollar <NUM> <PUNC>
-<PAR>

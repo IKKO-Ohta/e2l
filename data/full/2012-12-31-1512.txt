@@ -1,2 +1,0 @@
-the dow jones industrial average d rose <NUM> points <COMMA> or less than <NUM> percent <COMMA> to <NUM> <COMMA> following a big selloff on friday <PUNC>
-<PAR>

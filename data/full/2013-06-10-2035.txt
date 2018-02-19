@@ -1,5 +1,0 @@
-after swinging between gains and losses during the session <COMMA> the dow jones industrial average dji finished down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in positive terrain <PUNC>
-walt disney co. dis fell <NUM> percent <COMMA> the biggest decliner in the dow <PUNC>
-among dow gainers <COMMA> mcdonald s corp. mcd added <NUM> percent after it posted stronger-than-expected same-store sales for may <PUNC>
-the fast-food giant is benefiting from its expanded menu <PUNC>
-<PAR>

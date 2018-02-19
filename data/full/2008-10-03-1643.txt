@@ -1,4 +1,0 @@
-off its session highs <COMMA> the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components ahead in the early afternoon <PUNC>
-bank of america corp. bac was among those fronting the advance <COMMA> up <NUM> percent <PUNC>
-citigroup inc. c fell the most among the blue chips <COMMA> losing <NUM> percent after the surprising announcement that wells fargo & co. wfc would buy wachovia wb <PUNC>
-<PAR>

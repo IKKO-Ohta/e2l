@@ -1,5 +1,0 @@
-extending losses into a second session <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-wall street stocks finished monday s session little changed after standard & poor s revised its u.s. credit-rating outlook to stable from negative <PUNC>
-in choppy trading <COMMA> the dow jones industrial average dji finished down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> spx dipped <NUM> point to end at <NUM> <PUNC>
-<PAR>

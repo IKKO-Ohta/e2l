@@ -1,3 +1,0 @@
-the futures contract for the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
-later in the day general motors corp gm will make a presentation to analysts <PUNC>
-<PAR>

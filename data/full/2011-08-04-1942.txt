@@ -1,4 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all <NUM> components trading lower and the index down <NUM> percent for <NUM> <PUNC>
-kraft foods inc. kft <COMMA> the sole gainer for much of the session <COMMA> turned lower as stock losses mounted <PUNC>
-the food giant said it planned to split into two publicly trading companies <PUNC>
-<PAR>

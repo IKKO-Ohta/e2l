@@ -1,5 +1,0 @@
-better-than-expected readings of u.s. gross domestic product and profits at microsoft corp. msft failed to elicit much response from investors <COMMA> with many content to hang on to their profits from the market s big gains in <NUM> <PUNC>
-the dow jones industrial average dji was recently off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> hurt by a <NUM> percent decline in microsoft despite its report of a <NUM> percent jump in fiscal second-quarter profit <PUNC>
-the dow s losses were tempered by gains of more than <NUM> percent each in wal-mart stores inc. wmt <COMMA> home depot inc. hd and dupont co. dd <PUNC>
-if its recent performance holds through the close <COMMA> the dow will finish january down nearly <NUM> percent <COMMA> its biggest monthly loss since february <NUM> <PUNC>
-<PAR>

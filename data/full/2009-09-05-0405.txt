@@ -1,5 +1,0 @@
-on friday <COMMA> the dow jones industrial average dji rallied <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the s&p <NUM> index spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the tech-heavy nasdaq composite rixf finished up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-friday s rise only partially offset losses from earlier in the week <PUNC>
-the dow industrials still finished down <NUM> percent for the week <COMMA> the s&p <NUM> index fell <NUM> percent <COMMA> and the nasdaq was off <NUM> percent from the previous friday <PUNC>
-<PAR>

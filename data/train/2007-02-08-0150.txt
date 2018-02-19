@@ -1,5 +1,0 @@
-new york dow jones u.s. stocks closed slightly higher <COMMA> with the dow jones industrial average barely finishing in positive territory after hitting a new record high <COMMA> as a drop in crude-oil prices weighed on the energy sector while cisco systems inc. s upbeat earnings boosted the technology sector <PUNC>
-after rising to an intraday high of <NUM> <COMMA> the dow industrials dji closed fractionally higher <COMMA> adding <NUM> points to close at <NUM> <COMMA> weighed by the likes of alcoa inc. aa <COMMA> merck & co. inc. mrk and at&t inc. t <PUNC>
-the blue-chip average still received support from gains in caterpillar inc. cat <COMMA> and a few tech shares such as hewlett-packard co. hpq <COMMA> and intel corp. intc <PUNC>
-but with energy shares falling along with oil <COMMA> including exxon mobil corp. xom on the dow <COMMA> the broad market was weighed down <PUNC>
-<PAR>

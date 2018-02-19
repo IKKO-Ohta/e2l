@@ -1,3 +1,0 @@
-after falling as much as <NUM> points <COMMA> the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> a level that has it up <NUM> percent from the week-ago close <PUNC>
-all but two of the dow s <NUM> components finished in the red <COMMA> led by bank of america corp. bac <COMMA> down <NUM> percent <PUNC>
-<PAR>

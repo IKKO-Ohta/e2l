@@ -1,3 +1,0 @@
-the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
-on wednesday stocks ended higher <COMMA> as more stable long-term interest rates <COMMA> strong morgan stanley earnings and a labor deal at general motors corp. lifted the dow jones industrials to its best level in nearly five years <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
-general motors corp. gm was <NUM> cent higher at dollar <NUM> before the opening in electronic trade <PUNC>
-the auto maker s chairman and chief executive rick wagoner told revelers at a holiday party that the company s revenue will improve <PUNC>
-<PAR>

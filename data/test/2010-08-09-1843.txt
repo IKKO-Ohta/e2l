@@ -1,6 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by cisco systems inc. csco <COMMA> up <NUM> percent a day ahead of the networking-gear maker s quarterly report <PUNC>
-<PAR>
-conversely <COMMA> shares of hewlett-packard co. hpq fell the most <COMMA> off <NUM> percent in the first day of trade after chief executive mark hurd s abrupt ouster on friday <PUNC>
-<PAR>
-shares of mcdonald s corp. mcd also bolstered the dow after the fast-food giant reported its largest monthly jump in sales in more than a year <PUNC>
-<PAR>

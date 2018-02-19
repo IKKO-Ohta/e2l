@@ -1,2 +1,0 @@
-at the start of a shortened trading day <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components opening higher <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components falling in early action <PUNC>
-among dow stocks <COMMA> coca-cola co. ko won an upgrade to outperform from peer perform at bear stearns <COMMA> with the broker citing the good results at pepsico pep and other global consumer companies <PUNC>
-coca-cola s shares made early gains <PUNC>
-fellow blue chip mcdonald s mcd also moved higher <COMMA> gaining in the wake of january sales results <PUNC>
-<PAR>

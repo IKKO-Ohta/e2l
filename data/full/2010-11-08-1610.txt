@@ -1,2 +1,0 @@
-after six consecutive sessions higher <COMMA> the dow jones industrial average dji on monday fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its eight components on the decline <PUNC>
-<PAR>

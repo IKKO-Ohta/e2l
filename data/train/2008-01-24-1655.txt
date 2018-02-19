@@ -1,7 +1,0 @@
-after adding more than <NUM> points and then dropping into negative territory in the first hour of trade <COMMA> the dow jones industrial average dji was more up <NUM> points at <NUM> in late morning action <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-alcoa inc. aa led the blue-chip gains <COMMA> up <NUM> percent <PUNC>
-the stock indexes are higher in the wake of wednesday s technical bounce off a couple of levels on the dow and s&p <COMMA> said pavlik <COMMA> who pegged near-term resistance on the dow at <NUM> and <NUM> on the s&p <PUNC>
-u.s. stocks had stormed higher wednesday after huge early losses <COMMA> with the dow industrials finishing <NUM> points higher after dropping <COMMA> at one point <COMMA> down <NUM> points <PUNC>
-the nasdaq composite rose <NUM> points and the s&p <NUM> rose <NUM> points <PUNC>
-at&t t reported a <NUM> percent profit rise after the exclusive distributor of the iphone saw wireless growth <PUNC>
-<PAR>

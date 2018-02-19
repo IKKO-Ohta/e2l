@@ -1,4 +1,0 @@
-after falling as much as <NUM> points <COMMA> the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with two thirds of its <NUM> components in the red <PUNC>
-moderating the drop <COMMA> component hewlett-packard co. hpq rose <NUM> percent before reporting first-quarter results after the close <PUNC>
-wal-mart stores inc. wmt climbed <NUM> percent after the retailer reported a fourth-quarter profit that beat estimates and hiked its dividend <PUNC>
-<PAR>

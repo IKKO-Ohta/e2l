@@ -1,8 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> lifted by a <NUM> percent rise in shares of microsoft corp. msft <PUNC>
-the firm said it is gearing up for the introduction of new wireless internet networks on unused u.s. t.v <PUNC>
-airwaves <PUNC>
-technology shares were also lifted by an acquisition deal from hewlett-packard co. hpq <PUNC>
-after monday s gains <COMMA> the dow industrials are now up <NUM> percent for the year <PUNC>
-domestically <COMMA> m&a activity helped support wall street s rally <PUNC>
-hewlett-packard co. hpq said it would pay dollar <NUM> billion for security-software company arcsight inc. arst <COMMA> with h-p s latest acquisition continuing a recent shopping spree <PUNC>
-<PAR>

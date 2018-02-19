@@ -1,2 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> but finished the week marginally lower <PUNC>
-<PAR>

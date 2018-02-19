@@ -1,3 +1,0 @@
-after rising to within a few points of the psychologically significant <NUM> level <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in retreat <PUNC>
-the declines were led by a <NUM> percent drop in alcoa inc. aa <COMMA> which is slated to release third-quarter financial results after the close <COMMA> the first blue chip to report <PUNC>
-<PAR>

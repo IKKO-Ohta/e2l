@@ -1,5 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its lowest close since the blue-chip barometer fell under the <NUM> mark on nov. <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> closed lower <PUNC>
-caterpillar inc. cat led the losers in the group <COMMA> down <NUM> percent following its downgrade to underweight from equal-weight by morgan stanley <PUNC>
-citigroup inc. c paced the dow s gainers <COMMA> its stock up <NUM> percent <PUNC>
-<PAR>

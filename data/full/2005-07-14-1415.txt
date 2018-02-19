@@ -1,3 +1,0 @@
-the dow jones industrial average dji was last up <NUM> at <NUM> <PUNC>
-shares of general motors corp. gm rose <NUM> percent as lehman bros. raised its recommendation on the company to equal weight <COMMA> as part of a broader upgrade of the auto and auto parts sector <PUNC>
-<PAR>

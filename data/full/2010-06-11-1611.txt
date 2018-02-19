@@ -1,6 +1,0 @@
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in recent trading <PUNC>
-procter & gamble pg led the measure s declines with a drop of <NUM> percent <COMMA> while coca-cola ko fell <NUM> percent and at&t t dropped <NUM> percent <PUNC>
-but pfizer pfe led the dow higher with a jump of <NUM> percent <PUNC>
-pfizer and bristol-myers squibb said they had stopped a clinical trial early because the data so far suggest an experimental drug for irregular heart rhythm is superior to aspirin <PUNC>
-bristol-myers squibb bmy <COMMA> which isn t a dow component <COMMA> rose <NUM> percent <PUNC>
-<PAR>

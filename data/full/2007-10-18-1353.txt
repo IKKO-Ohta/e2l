@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> in early action <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-stocks have been in the doldrums for much of this week <PUNC>
-on wednesday <COMMA> wall street closed mixed after surging oil prices quashed an early rally <COMMA> although the technology-laden nasdaq composite retained gains amid well-received earnings from intel corp. intc <COMMA> among others <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-hewlett-packard co. hpq was the measure s top performer <COMMA> up <NUM> percent <COMMA> after reporting a <NUM> percent profit rise in the first quarter and a boost to its fiscal-year revenue outlook <PUNC>
-wal-mart wmt dragged <COMMA> falling <NUM> percent after posting a <NUM> percent gain in fourth-quarter profit <COMMA> but providing tepid first-quarter earnings guidance <PUNC>
-the retail giant s sales fell at u.s. stores open more than a year <PUNC>
-<PAR>

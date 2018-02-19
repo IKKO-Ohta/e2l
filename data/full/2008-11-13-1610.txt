@@ -1,7 +1,0 @@
-after rising more than <NUM> points at the start only to lapse into negative turf early on <COMMA> the dow jones industrial average dji was more recently off <NUM> points at <NUM> <PUNC>
-fifiteen the blue-chip index s <NUM> components gained <COMMA> led by petroleum giant exxon mobil corp. xom <COMMA> up <NUM> percent <PUNC>
-intel intc erased earlier declines to climb fractionally after it late wednesday offered a pessimistic outlook <COMMA> warning fourth-quarter revenue would be as much as <NUM> percent lower than previously forecast due to significantly weaker-than-expected demand in all geographies and market segments <PUNC>
-dow component wal-mart stores wmt fell <NUM> percent after the retailing giant reported a better-than-forecast <NUM> percent profit rise in the third quarter but lowered its <NUM> earnings view <PUNC>
-u.s. stocks slumped wednesday <COMMA> with the dow jones industrial average falling <NUM> points <COMMA> the s&p <NUM> losing <NUM> points and the nasdaq composite dropping <NUM> points <PUNC>
-the drop came as best buy warned over its profit outlook <COMMA> google traded at its worst level since <NUM> and treasury secretary henry paulson shelved the idea of buying troubled mortgage assets <PUNC>
-<PAR>

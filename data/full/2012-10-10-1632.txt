@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with chevron cvx among the <NUM> issues decliners among its <NUM> components <PUNC>
-wal-mart stores inc. wmt led blue-chip gains after the discount retailer said it would add u.s. stores after a very strong back-to-school season <PUNC>
-dow component alcoa aa late tuesday reported third-quarter profit that topped expectations on increased demand from airplane and automobile makers <COMMA> but trimmed its forecast for the world s appetite for the metal it produces <COMMA> citing china s economic slowdown <PUNC>
-<PAR>

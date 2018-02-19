@@ -1,5 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> weighed down by big drops in home depot inc. hd and microsoft corp. msft <PUNC>
-financial stocks on the dow - american express co. axp <COMMA> citigroup inc. c and jp morgan chase & co. jpm - also gave up some of their strong from the previous session <PUNC>
-bucking the trend among blue chips <COMMA> procter & gamble pg rose <NUM> percent after bear stearns upgraded the stock to outperform <COMMA> citing valuation <PUNC>
-even amid the market s rollercoaster action since the dow plunged <NUM> points in late february <COMMA> we never got to the fear factor <COMMA> the strategist said <PUNC>
-that tells me we have more work to do on the downside <COMMA> and that will be determined by the housing sector and the subprime issues <PUNC>

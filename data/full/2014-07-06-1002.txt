@@ -1,4 +1,0 @@
-on thursday <COMMA> the dow jones industrial average dji closed above <NUM> for the first time and the s&p <NUM> index spx set a new closing high just north of <NUM> to end the fourth of july-foreshortened week following strong job numbers <PUNC>
-this week <COMMA> investors will be girding for second-quarter earnings season as alcoa inc. aa reports on tuesday and wells fargo & co. wfc releases results on friday <PUNC>
-earnings reports ramp up considerably the following week with a slew of bank earnings from such dow components as j.p. morgan chase & co. jpm and goldman sachs group inc. gs <COMMA> along with other heavy-hitters like intel corp. intc and google inc. goog <PUNC>
-<PAR>

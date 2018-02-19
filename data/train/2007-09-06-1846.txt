@@ -1,5 +1,0 @@
-after trading lower earlier on <COMMA> the dow jones industrial average dji rose <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-leading the dow higher <COMMA> united technologies corp. utx gained <NUM> percent and honeywell international inc. hon rose <NUM> percent <PUNC>
-shares of merck & co. mrk rose <NUM> percent after the drugmaker said thursday that the new jersey supreme court has ruled that lawsuits filed by health management organizations and insurers over merck s recalled drug vioxx can t be consolidated into a class action suit <PUNC>
-wal-mart inc. wmt reported a stronger-than-forecast <NUM> percent sales rise for august <PUNC>
-<PAR>

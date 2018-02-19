@@ -1,9 +1,0 @@
-u.s. stocks climbed on monday <COMMA> with the dow industrials and s&p <NUM> extending gains into a fourth session <COMMA> as lawmakers appeared to be inching towards an agreement to raise the debt ceiling <COMMA> three days before u.s. borrowing authority is set to expire <PUNC>
-after a 101-point drop <COMMA> the dow jones industrial average dji ended with a gain of <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with pfizer inc. pfe leading gains that included <NUM> of its <NUM> components <PUNC>
-tuesday s schedule includes citigroup inc. c <COMMA> coca-cola co. ko and intel corp. intc <PUNC> results from international business machines corp. ibm are expected wednesday <COMMA> while thursday s lineup includes union pacific corp. unp <COMMA> verizon communication inc. vz and google inc. goog <PUNC>
-on friday <COMMA> general electric co. ge is among those expected to report <PUNC>
-on friday <COMMA> the dow industrials halted a two-week losing streak and tallied their largest three-day points gain since dec. <NUM> <COMMA> <NUM> <COMMA> on signs of progress toward a debt accord on capitol hill <PUNC>
-but the effort at avoiding a default lost steam during the weekend <PUNC>
-senate majority leader harry reid on sunday said he d held a productive conversation with minority leader mitch mcconnell <PUNC>
-but the discussion has failed to yield a definitive plan yet to put to congress for a vote <PUNC>
-<PAR>

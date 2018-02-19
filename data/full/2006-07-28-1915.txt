@@ -1,8 +1,0 @@
-u.s. stocks rallied friday <COMMA> with the dow jones industrial average looking at its best week since march <NUM> <COMMA> on hopes the federal reserve will interpret a sharper-than-expected slowdown in economic growth in the second quarter as a signal that it no longer needs to raise interest rates <PUNC>
-the dow industrials dji rose <NUM> points to <NUM> <PUNC>
-the benchmark index is now at its best level since july <NUM> and is on track to deliver its best weekly point-gain since march <NUM> <PUNC>
-wal-mart stores inc. wmt rose <NUM> percent to dollar <NUM> as investors welcomed its decision to pull out of germany <COMMA> with the sale of all its <NUM> hypermarkets to metro ag <PUNC>
-the retail giant <COMMA> however <COMMA> will have to take a dollar <NUM> billion charge on the deal in the second quarter <PUNC>
-general motors gm rose <NUM> cents to dollar <NUM> <PUNC>
-the auto maker s global sales were <NUM> million vehicles in the second quarter <COMMA> representing an <NUM> percent sequential gain <PUNC>
-<PAR>

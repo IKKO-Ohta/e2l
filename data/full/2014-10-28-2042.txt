@@ -1,2 +1,0 @@
-the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> closing above the <NUM> level for the first time since oct <NUM> <PUNC>
-<PAR>

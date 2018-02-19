@@ -1,6 +1,0 @@
-after rising in early trade <COMMA> the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
-among the worst performers on the dow were alcoa inc. aa <COMMA> american express co. axp <COMMA> dupont dd <PUNC>
-among rising blue chips <COMMA> hewlett-packard co. hpq rose <NUM> percent after its board authorized an additional dollar <NUM> billion in its share buyback plan <PUNC>
-and microsoft corp. msft gained <NUM> percent after news that it has won a partial victory in its ongoing patent dispute with alcatel-lucent alu <PUNC>
-wal-mart stores inc. wmt rose <NUM> percent after news that it s abandoning plans to launch an industrial loan company <PUNC>
-<PAR>

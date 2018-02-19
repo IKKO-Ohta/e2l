@@ -1,3 +1,0 @@
-the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to end at dji <NUM> <COMMA> capping a <NUM> percent weekly decline <PUNC>
-financials stocks ended friday s session mixed with citigroup inc. c off <NUM> percent <COMMA> while j.p. morgan chase jpm was up <NUM> percent <COMMA> and american express co. axp <NUM> percent higher <PUNC>
-<PAR>

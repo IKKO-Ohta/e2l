@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> as component alcoa inc. aa gained <NUM> percent <COMMA> citigroup inc. c rose <NUM> percent and hewlett-packard co. hpq also gained <NUM> percent <PUNC>
-some media outlets speculated that ford president and chief executive alan mulally and toyota chairman fujio cho were discussing a possible tie-up between the troubled u.s. automaker and toyota <COMMA> which is on the verge of passing general motors corp. gm as the world s top vehicle manufacturer by production volume <PUNC>
-<PAR>

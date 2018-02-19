@@ -1,8 +1,0 @@
-new york dow jones stocks rallied at the outset of the fourth quarter on monday <COMMA> pushing the dow to record heights as traders tried to put this summer s credit crisis behind after a hefty profit-warning from citigroup inc <PUNC>
-after crossing the 14,000-level for the first time since late july <COMMA> the dow jones industrial average dji gained <NUM> points to close at a new record of <NUM> <PUNC>
-earlier <COMMA> the blue-chip average hit a new record intraday high of <NUM> <PUNC>
-all but two of the dow s <NUM> components advanced <COMMA> led by citigroup inc. c and financial peers american express axp and jp morgan chase jpm <PUNC>
-the best performer on the dow was mcdonald s corp. mcd <COMMA> which rose <NUM> percent <COMMA> while general motors corp. gm fronted the dow s declines <COMMA> losing <NUM> percent <PUNC>
-dow component citigroup c said it anticipates a third-quarter profit drop of about <NUM> percent <COMMA> blaming this on dislocations in the mortgage-backed securities and credit markets <COMMA> and deterioration in the consumer-credit environment <PUNC>
-its stock gained <NUM> percent <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the u.s. stock market on monday gave up some of last week s gains that sent the dow jones industrial average above <NUM> for the first time <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf was dragged down by losses in biotech and internet companies <COMMA> ending the day down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

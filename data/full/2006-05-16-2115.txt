@@ -1,8 +1,0 @@
-home depot inc. shares fell to a seven-month low following disappointing quarterly results <COMMA> weighing on the dow jones industrial average <PUNC>
-the dow dji fell <NUM> points to <NUM> <PUNC>
-wal-mart stores wmt tacked on <NUM> percent to dollar <NUM> <PUNC>
-the retail giant had a stronger-than-expected <NUM> percent increase in first-quarter profit on sales <COMMA> in line with wall street s consensus estimate <PUNC>
-the company attributed its strong performance to keeping inventory in check and to its new-fashioned merchandise <PUNC>
-home depot hd <COMMA> a dow component <COMMA> saw its shares fall <NUM> percent to dollar <NUM> as the home-improvement retailer reported a <NUM> percent increase in first-quarter profit <COMMA> but sales fell short of analysts consensus expectation <PUNC>
-chief executive bob nardelli blamed bad weather and weakness in flooring products for the miss <PUNC>
-<PAR>

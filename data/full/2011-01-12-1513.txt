@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-the blue-chip advance was led by j.p. morgan chase & co. jpm <COMMA> its shares up <NUM> percent after its chief executive said the banking giant might pay a yearly dividend of up to dollar <NUM> once government stress tests of it and other large financial institutions are completed <PUNC>
-on tuesday <COMMA> both the dow industrials and the s&p <NUM> snapped a three-session losing streak <PUNC>
-<PAR>

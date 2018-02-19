@@ -1,8 +1,0 @@
-the dow jones industrial average dji rallied <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-american express co. axp and jpmorgan chase & co. jpm were the top-performing blue chips <COMMA> climbing <NUM> percent each <PUNC>
-the s&p <NUM> finished above its 50-day moving average <COMMA> a closely watched chart level <COMMA> for the first time since june <NUM> <PUNC>
-for the week <COMMA> the benchmark index added <NUM> percent <COMMA> while the dow rose <NUM> percent and the nasdaq gained <NUM> percent <PUNC>
-with the jobs report out <COMMA> investors now will focus on the start of second-quarter earnings season and additional news from the federal reserve next week <PUNC>
-alcoa aa <COMMA> which rose <NUM> percent on friday <COMMA> will kick off earnings season with its report after the market s close on monday <PUNC>
-jpmorgan and wells fargo & co. wfc will deliver their quarterly reports at the end of the week <COMMA> on july <NUM> <PUNC>
-<PAR>

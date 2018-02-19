@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> but managed a weekly gain of <NUM> percent <PUNC>
-caterpillar inc. shares cat fell <NUM> percent to dollar <NUM> in pre-market trading on instinet after merrill lynch downgraded the construction equipment maker to neutral from buy <COMMA> mainly on valuation grounds <PUNC>
-analyst andrew obin believes investors are too optimistic about the positive impact of hurricane katrina on caterpillar s earnings <PUNC>
-since the end of august <COMMA> the stock has risen <NUM> percent <PUNC>
-shares of coca-cola ko could get a lift in early trading after bank of america upgraded the beverage giant <COMMA> citing better-than-expected volume growth in <NUM> and the likelihood of an acceleration in profit growth for <NUM> <PUNC>
-the stock <COMMA> a component of the dow industrials <COMMA> closed friday up <NUM> cents at dollar <NUM> <PUNC>
-general motors corp. gm <COMMA> another dow component <COMMA> may also face some downward pressure out of the gate after deutsche bank lowered its rating on the world s biggest car maker s debt to sell from hold <COMMA> and reiterated a sell rating on the stock <PUNC>
-<PAR>

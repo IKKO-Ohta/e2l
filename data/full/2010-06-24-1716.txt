@@ -1,4 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
-financials led the blue-chip measure s decline <COMMA> as j.p. morgan chase jpm dropped <NUM> percent and bank of america bac fell <NUM> percent <PUNC>
-within the dow <COMMA> shares of home depot hd also traded weak <COMMA> slipping <NUM> percent <COMMA> as did pfizer pfe <COMMA> down <NUM> percent after the drug maker said it would suspend osteoarthritis trials of its pain drug tanezumab <PUNC>
-<PAR>

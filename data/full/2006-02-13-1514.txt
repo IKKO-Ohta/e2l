@@ -1,7 +1,0 @@
-the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
-in the article <COMMA> barron s warns the company s shares could be cut in half over the next year on competition from microsoft msft and yahoo inc. yhoo <COMMA> pricing pressures for online ad sales and mounting concern over click fraud <PUNC>
-elsewhere in the sector <COMMA> j.p. morgan chase s jpm worldwide securities services unit bought the middle and back-office operations of paloma partners management co. for an undisclosed sum <PUNC>
-j.p. morgan was off <NUM> cents at dollar <NUM> <PUNC>
-also on the deal front <COMMA> home depot inc. hd is in talks to buy a <NUM> percent stake in china s orient home <COMMA> one of the mainland s leading do-it-yourself chains <COMMA> for more than dollar <NUM> million <COMMA> the financial times reported monday,citing people close to the situation <PUNC>
-home depot was off <NUM> cents at dollar <NUM> <PUNC>
-<PAR>

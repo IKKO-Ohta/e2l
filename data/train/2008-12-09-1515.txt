@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-u.s. markets climbed monday <COMMA> with the dow jones industrial average closing at its highest level in a month <COMMA> as investors cheered president-elect barack obama s pledge on infrastructure investment and a likely deal for the auto industry <PUNC>
-<PAR>

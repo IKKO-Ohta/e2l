@@ -1,9 +1,0 @@
-u.s. stocks were solidly higher friday <COMMA> as the dow jones industrial average set yet another record in the wake of reports showing more jobs were created may than expected and inflation has fallen back into the federal reserve s comfort zone <PUNC>
-the dow jones industrial average dji last was up <NUM> points at <NUM> <COMMA> after setting a new intraday record of <NUM> <PUNC>
-in addition <COMMA> may sales figures for ford motor co. f <COMMA> general motors corp. gm and chrysler will be released during the trading session <PUNC>
-shares of dell dell were <NUM> percent higher at dollar <NUM> <PUNC>
-on thursday the company reported a slight drop in quarterly earnings and said it would slash <NUM> percent of its workforce <COMMA> or about <NUM> jobs <PUNC>
-the company is attempting to recoup some of the market share it has lost to the likes of rival hewlett-packard co. hpq <PUNC>
-among dow components <COMMA> 3m mmm was off <NUM> cents at dollar <NUM> <PUNC>
-the company has acquired the manufacturing and marketing rights to the peridex brand periodontal rinse product from zila inc. for dollar <NUM> million in cash <PUNC>
-<PAR>

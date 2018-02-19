@@ -1,3 +1,0 @@
-financial shares fronted the losses as the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it up <NUM> percent for the week <PUNC>
-the s&p <NUM> index spx dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving it a weekly rise of <NUM> percent <COMMA> while the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> up <NUM> percent from last friday s close <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with only <NUM> of its <NUM> components trading in negative territory <PUNC>
-intraday <COMMA> the index touched a high of <NUM> earlier and was down as low as <NUM> <PUNC>
-cisco systems inc. csco was the biggest decliner in the dow <COMMA> down <NUM> percent <PUNC>
-general electric co. ge shares rose after ge capital corp. said it would pay its parent company dollar <NUM> billion in dividends and another dollar <NUM> billion in special dividends in <NUM> <PUNC>
-wall street advanced to a fourth weekly gain last week <PUNC>
-the s&p <NUM> index rose <NUM> percent last week to close at a record of <NUM> friday <COMMA> its 16th record close this year <PUNC>
-similarly <COMMA> the dow jones industrial average rose <NUM> percent on the week to <NUM> <COMMA> its 21st record of the year <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-within the dow industrials <COMMA> shares of coca-cola ko dropped <NUM> percent as investors worried about its earnings outlook after coca-cola enterprises <COMMA> its major bottler <COMMA> warned third-quarter earnings won t meet the consensus analyst estimate <PUNC>
-cce said european volume in the third quarter has been below expectations <COMMA> despite share gains in key markets <PUNC>
-intel intc shares were up <NUM> percent <PUNC>
-the chipmaker is due to provide its mid-quarter update after trading closes <PUNC>
-<PAR>

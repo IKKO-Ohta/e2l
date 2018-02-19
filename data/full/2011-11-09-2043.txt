@@ -1,4 +1,0 @@
-u.s. stock indexes dropped sharply wednesday <COMMA> with the dow industrials in line for their worst single-day hit in nearly seven weeks <COMMA> as italy s borrowing costs shot up to levels seen as unsustainable <COMMA> further worsening europe s credit mess <PUNC>
-after falling <NUM> points <COMMA> the dow jones industrial average dji was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all of its <NUM> components on the run <PUNC>
-two stocks on the s&p <NUM> advanced <PUNC> electronics retailer best buy co. inc. bby was up <NUM> percent and yahoo inc. yhoo gained <NUM> percent a day after the online search engine <COMMA> microsoft corp. msft and aol inc. aol said they had established an advertising partnership <PUNC>
-<PAR>

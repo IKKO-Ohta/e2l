@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> and the nasdaq composite index rixf dropped <NUM> point to <NUM> <PUNC>
-for the week <COMMA> the dow lost <NUM> percent <COMMA> the s&p <NUM> fell <NUM> percent and the nasdaq lost <NUM> percent of its strength <PUNC>
-among the u.s. companies mentioned in the note <COMMA> deutsche bank continues to recommend value stocks hess corp. hes <COMMA> conocophillips cop <COMMA> exxon mobil corp. xom <COMMA> chevron corp. cvx as well as combination winners occidental petroleum oxy and marathon oil corp. mro <PUNC>
-alcoa inc. aa finished up <NUM> cents at dollar <NUM> <PUNC>
-the maker of aluminum products sealed a four-year labor contract with its united steelworkers union <COMMA> but it also said it expects to book a second-quarter charge of <NUM> cents a share on costs related to the ratification of the contract <PUNC>
-<PAR>

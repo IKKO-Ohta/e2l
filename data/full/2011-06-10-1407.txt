@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> led by a <NUM> percent drop in travelers co. trv shares <PUNC>
-all components were lower <PUNC>
-<PAR>

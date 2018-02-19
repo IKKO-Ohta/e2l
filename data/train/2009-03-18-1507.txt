@@ -1,4 +1,0 @@
-on wednesday <COMMA> energy and industrials led sector declines as stocks reversed course on the prior day s rally <PUNC>
-the dow jones industrial average was down <NUM> points at <NUM> <PUNC>
-the s&p <NUM> index declined <NUM> points to <NUM> and the nasdaq composite rixf fell <NUM> points to <NUM> <PUNC>
-<PAR>

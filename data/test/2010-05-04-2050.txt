@@ -1,5 +1,0 @@
-the dow jones industrial average dji <COMMA> which during the day fell more than <NUM> points <COMMA> closed down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its worst point-drop since feb. <NUM> <PUNC>
-of the dow average s <NUM> components <COMMA> <NUM> closed lower <COMMA> with equipment maker caterpillar inc. cat and aluminium producer alcoa inc. aa leading declines with drops of more than <NUM> percent <PUNC>
-drug goliaths pfizer inc. pfe and merck & co. mrk were among the trio of blue chips on the rise <COMMA> up <NUM> percent and <NUM> percent <COMMA> respectively <COMMA> after both companies reported earnings that topped estimates <PUNC>
-investors also sought refuge in discount retailer and dow component wal-mart stores inc. wmt <COMMA> its shares up <NUM> percent <PUNC>
-<PAR>

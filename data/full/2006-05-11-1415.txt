@@ -1,7 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-american international group aig was the biggest percentage decliner on the dow industrials <COMMA> down <NUM> percent at dollar <NUM> after the insurance giant posted lower-than-expected first-quarter earnings late wednesday <COMMA> as a strong performance by its property and casualty division was offset by weakness in its foreign life insurance business <PUNC>
-fellow blue chip johnson & johnson jnj was up <NUM> percent after being upgraded to buy from neutral at banc of america <COMMA> which cited valuation <COMMA> the company s relatively minimal exposure to generics over the next two years and an improving pharmaceuticals pipeline <PUNC>
-also <COMMA> pfizer inc. shares pfe rose <NUM> percent to dollar <NUM> after getting u.s. food and drug administration approval for chantix <COMMA> a drug aimed at helping people give up smoking <PUNC>
-outside the dow <COMMA> news corp. nws advanced after the media conglomerate s profit more than doubled <COMMA> led by its cable-network operations <PUNC>
-bskyb bsy <COMMA> the u.k. satellite operator run by rupert murdoch s son james and partly owned by news corp. <COMMA> should also see gains <COMMA> buoyed by an upgrade from morgan stanley <PUNC>
-<PAR>

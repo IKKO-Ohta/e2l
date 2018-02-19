@@ -1,4 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-financial stocks <COMMA> which took a beating over the past two sessions <COMMA> led the way higher on the dow <COMMA> with american express axp up <NUM> percent <COMMA> citigroup c up <NUM> percent <COMMA> bank of america bac up <NUM> percent and jp morgan chase jpm up <NUM> percent <PUNC>
-u.s. stocks fell sharply wednesday <COMMA> with the dow industrials slumping <NUM> points <COMMA> as oil surged and the federal reserve increased its inflation estimate while seeing slower economic growth put pressure on stocks <PUNC>
-<PAR>

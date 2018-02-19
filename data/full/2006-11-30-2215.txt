@@ -1,9 +1,0 @@
-throughout most of the day stocks were lower after a chicago-region manufacturing survey showed contraction in november <PUNC>
-a weak outlook from wal-mart stores inc. wmt <COMMA> crude oil prices close to dollar <NUM> <COMMA> and a continued slide in the dollar also weighed <PUNC>
-the dow jones industrial average dji closed down just <NUM> points at <NUM> <COMMA> after rebounding from an intraday low of <NUM> <PUNC>
-for november <COMMA> the dow rose <NUM> percent <PUNC>
-pfizer inc. pfe provided support for the dow <COMMA> gaining <NUM> percent after raising its earnings outlook for <NUM> <PUNC>
-it helped offset the impact of wal-mart wmt <COMMA> which dropped <NUM> percent after forecasting that december same-store sales will be flat to up <NUM> percent in december <PUNC>
-general motors corp. gm <COMMA> another dow component <COMMA> dropped <NUM> percent on news that billionaire investor kirk kerkorian s tracinda investment vehicle will sell another <NUM> million shares of the company s stock <PUNC>
-microsoft corp. msft <COMMA> which begins shipping its next-generation vista operating system to corporate customers on thursday <COMMA> dropped <NUM> percent <PUNC>
-<PAR>

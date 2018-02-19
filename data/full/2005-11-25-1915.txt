@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> marking an eight-month high <PUNC>
-the day s gains marked the sixth consecutive higher close <PUNC>
-the dow rose <NUM> percent during the holiday-shortened week <COMMA> while the s&p <NUM> and nasdaq composite both racked up <NUM> percent gains <PUNC>
-dow industrials component wal-mart stores wmt gave up initial gains to close down <NUM> cents at dollar <NUM> on the first day of the holiday shopping season <PUNC>
-<PAR>

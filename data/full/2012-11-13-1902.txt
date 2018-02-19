@@ -1,4 +1,0 @@
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with home depot hd pacing the gains that included two-thirds of its <NUM> components after the home-improvement retailer reported profit that topped expectations <PUNC>
-microsoft corp. msft paced dow losses after the software maker said its windows chief was leaving <COMMA> effective immediately <PUNC>
-the technology sector weighed <COMMA> with hewlett-packard co. hpq and citrix systems inc. ctxs among the notable decliners <PUNC>
-<PAR>

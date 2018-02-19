@@ -1,2 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with eight of its <NUM> components in negative terrain <COMMA> led by shares of hewlett-packard co. hpq <COMMA> which were up <NUM> percent <PUNC>
-<PAR>

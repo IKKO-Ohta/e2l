@@ -1,8 +1,0 @@
-in recent action <COMMA> the dow jones industrial average dji dropped <NUM> points to <NUM> <COMMA> after earlier falling to a low of <NUM> <PUNC>
-the blue-chip average remained supported by a handful of issues <COMMA> including home depot inc. hd <COMMA> which gained <NUM> percent after a report the company may be the target of a leveraged buy-out <PUNC>
-meanwhile <COMMA> the dow industrials remained supported by a few components <PUNC>
-general motors corp. gm rose <NUM> percent after reports that kirk kerkorian has completely sold out of the stock <PUNC>
-boeing co. ba rise <NUM> percent after merrill lynch added the stock to its focus list <PUNC>
-pressure came not only from the chicago survey but also from weak retail sales <COMMA> a weak december outlook from wal-mart stores inc. wmt <PUNC>
-crude oil prices close to dollar <NUM> <COMMA> and a continued slide in the dollar also weighed <PUNC>
-<PAR>

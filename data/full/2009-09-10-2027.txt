@@ -1,5 +1,0 @@
-on thursday <COMMA> the health-care sector was among those on the rise <COMMA> as the major indexes ended at <NUM> highs to extend a winning streak to a fifth consecutive day <PUNC>
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> index spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite index rixf climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the credit markets have healed enough to allow specialty drugmaker warner chilcott ltd. wcrx to raise about dollar <NUM> billion to refinance debt and purchase procter & gamble co. s pg drug business <COMMA> he said of the transaction announced late last month <PUNC>
-<PAR>

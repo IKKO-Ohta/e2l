@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components declining <PUNC>
-blue-chip gainers included pfizer inc. pfe up nearly <NUM> percent after lifting its <NUM> outlook and topping fourth-quarter expectations <PUNC>
-on tuesday <COMMA> the dow fell at one point by more than <NUM> points before recovering to close with more modest losses after the fed surprised investors by cutting its main interest-rate target by three-quarters of a percentage point <COMMA> to <NUM> percent <COMMA> with the move coming one week ahead of the fed s scheduled monetary-policy meeting <PUNC>
-<PAR>

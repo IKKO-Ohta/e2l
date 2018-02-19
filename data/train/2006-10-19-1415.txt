@@ -1,9 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-citigroup c fell <NUM> cents to dollar <NUM> <PUNC>
-the banking giant reported a <NUM> percent decline in third-quarter net income <PUNC>
-revenue was dollar <NUM> billion in the latest quarter <COMMA> compared with dollar <NUM> billion in the prior-year quarter <PUNC>
-pfizer pfe shares gained about <NUM> percent to dollar <NUM> after the drugs giant reported a large jump in quarterly earnings <COMMA> due to hefty charges absorbed in the year ago period <PUNC>
-earnings beat expectations <PUNC>
-coca cola ko gained <NUM> percent to dollar <NUM> after the company s earnings and revenue exceeded expectations <PUNC>
-wal-mart stores inc. wmt rose <NUM> cents to dollar <NUM> after the world s largest retailer said it will expand its dollar <NUM> generic prescription program to <NUM> more states <PUNC>
-<PAR>

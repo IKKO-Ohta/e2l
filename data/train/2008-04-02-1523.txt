@@ -1,4 +1,0 @@
-after an attempting rise and early fall <COMMA> the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> its <NUM> components trading lower <PUNC>
-financials <COMMA> which led tuesday s rally <COMMA> continued to show some strength among the blue chips <COMMA> with citigroup inc. c up <NUM> percent and j.p. morgan chase & co. jpm gaining <NUM> percent <PUNC>
-a drag on the pharmaceutical sector <COMMA> shares of pfizer inc. pfe fell after the drug company late tuesday said it was stopping a study of an experimental drug for melanoma <PUNC>
-<PAR>

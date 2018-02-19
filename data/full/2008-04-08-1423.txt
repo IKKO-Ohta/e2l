@@ -1,4 +1,0 @@
-off more than <NUM> points ahead of the housing data <COMMA> the dow jones industrial average dji was more recently down <NUM> points at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were trading lower in the early going <COMMA> with aluminum manufacturer alcoa aa among the blue chips on the decline <PUNC>
-after monday s close <COMMA> alcoa reported a first-quarter profit drop of more than <NUM> percent <PUNC>
-<PAR>

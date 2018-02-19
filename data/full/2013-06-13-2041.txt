@@ -1,4 +1,0 @@
-after falling as much as <NUM> points <COMMA> the dow jones industrial average dji rose as much as <NUM> <COMMA> and finished at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-after three consecutive sessions of losses <COMMA> its longest such streak this year <COMMA> thursday s gains cut the dow s weekly losses down to <NUM> percent <PUNC>
-a day after boosting its quarterly dividend by <NUM> cents to <NUM> cents a share <COMMA> heavy-equipment maker caterpillar inc. cat led blue-chip gains <COMMA> which included <NUM> of the index s <NUM> components <PUNC>
-<PAR>

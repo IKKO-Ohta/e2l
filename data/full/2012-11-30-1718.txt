@@ -1,2 +1,0 @@
-the dow jones industrial average dji declined <NUM> points at <NUM> <PUNC>
-<PAR>

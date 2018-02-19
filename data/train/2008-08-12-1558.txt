@@ -1,5 +1,0 @@
-snapping a two-day winning streak that had the blue-chip index up <NUM> points <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> in late morning trading <COMMA> with <NUM> of its <NUM> components chalking up losses <PUNC>
-the declines were led by financials <COMMA> including j.p. morgan jpm <COMMA> off <NUM> percent <COMMA> and american international group inc. aig <COMMA> down <NUM> percent <PUNC>
-general motors corp. gm fronted blue-chip gains <COMMA> with shares of the automaker gaining <NUM> percent <PUNC>
-weighing on the blue-chip index as well as the broader market was the disclosure late monday by j.p. morgan jpm of dollar <NUM> billion in housing market-related losses since july <COMMA> the latest illustration that the credit crisis remains an ongoing concern <PUNC>
-<PAR>

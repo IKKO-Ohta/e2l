@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with two-thirds of its <NUM> components in the red <COMMA> led by verizon communications inc. vz and at&t inc. t shares <PUNC>
-the first dow component scheduled to report earnings <COMMA> alcoa aa was expected to report a fourth-quarter profit of <NUM> cents a share <COMMA> compared to a year-earlier loss of <NUM> cents <COMMA> in results due out after tuesday s u.s. close <PUNC>
-alcoa s shares added <NUM> percent <COMMA> while fellow blue chip boeing co. ba fell <NUM> percent after bb&t capital markets downgraded its rating on the aerospace manufacturer to hold from buy <PUNC>
-<PAR>

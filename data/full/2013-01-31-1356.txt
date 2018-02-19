@@ -1,5 +1,0 @@
-on the last trading day of the month <COMMA> futures for the dow jones industrial average djh3 djh3 djh3 were off <NUM> points to <NUM> <COMMA> while those for the standard & poor s <NUM> index sph3 eased <NUM> points to <NUM> <PUNC>
-futures for the nasdaq <NUM> index ndh3 fell <NUM> points to <NUM> <PUNC>
-the dow industrials dji and s&p <NUM> spx have each gained over <NUM> percent as the month winds down <PUNC>
-on wednesday <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> while the s&p <NUM> index spx dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

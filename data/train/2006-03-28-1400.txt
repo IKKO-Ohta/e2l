@@ -1,7 +1,0 @@
-general motors corp. gm is likely to be in focus after the carmaker announced the first step in its plan to lay off <NUM> percent of its workforce this year <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-general motors corp. gm is likely to see active trading after the carmaker <COMMA> in a widely-anticipated move <COMMA> said it is laying off several hundred u.s. salaried workers as part of a plan to bring its north american operations back to profitability <PUNC>
-citigroup inc. c and the national bank of greece are battling to win control of a turkish bank <COMMA> the wall street journal reported <PUNC>
-should citi secure control of finansbank in a deal expected to be worth more than dollar <NUM> billion <COMMA> it would be the biggest deal since chuck prince became chief executive <PUNC>
-on monday <COMMA> citigroup shares fell <NUM> cents to dollar <NUM> <PUNC>
-<PAR>

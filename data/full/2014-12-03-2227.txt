@@ -1,5 +1,0 @@
-the dow jones industrial average dji also set an intraday record and closed at an all-time high for the 33rd time in <NUM> <PUNC>
-the blue-chip index added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-energy sector stocks rose sharply <COMMA> with major oil producers <COMMA> such as exxon mobile corp xom and conocophillips cop up <NUM> percent and <NUM> percent respectively <PUNC>
-energy companies dropped more than <NUM> percent since this summer when oil prices peaked in <NUM> at more than dollar <NUM> a barrel <PUNC>
-<PAR>

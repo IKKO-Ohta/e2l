@@ -1,2 +1,0 @@
-after a 218-point climb <COMMA> the dow jones industrial average dji was lately up <NUM> points to <NUM> <COMMA> with all but one of its <NUM> components rising <PUNC>
-<PAR>

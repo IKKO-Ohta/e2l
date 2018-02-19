@@ -1,5 +1,0 @@
-the dow jones industrial average dji slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-weighing on the measure <COMMA> wal-mart stores inc. wmt fell <NUM> percent after j.p. morgan cut the company s stock investment rating to neutral from overweight <COMMA> predicting that same-store sales deterioration could last for years <COMMA> not quarters <PUNC>
-verizon communications vz was also weak <COMMA> down <NUM> percent <PUNC>
-keeping the dow s losses in check <COMMA> general electric co. ge rose <NUM> percent after the conglomerate agreed to buy the well-support division of u.k. firm john wood group plc for dollar <NUM> billion in cash to bolster its oil and gas services business in areas like extracting natural gas from shale <PUNC>
-<PAR>

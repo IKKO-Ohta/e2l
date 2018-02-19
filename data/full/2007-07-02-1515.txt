@@ -1,7 +1,0 @@
-the dow jones industrial average dji last was up <NUM> points at <NUM> <COMMA> as caterpillar inc. cat rose <NUM> percent to dollar <NUM> and honeywell international inc. hon gained <NUM> percent to dollar <NUM> <PUNC>
-the dow jones industrial average fell <NUM> points to <NUM> on friday <COMMA> as rising crude-oil prices dented an earlier rally due to end-of-the quarter purchases <COMMA> while the s&p <NUM> index sank <NUM> points to <NUM> and the nasdaq composite dropped <NUM> points to <NUM> <PUNC>
-still <COMMA> global growth helped the market put in a strong performance for the second quarter <PUNC> the dow gained <NUM> percent in the quarter <COMMA> the s&p <NUM> advanced <NUM> percent and the nasdaq gained <NUM> percent <PUNC>
-late friday <COMMA> at&t corp. t agreed to buy dobson communications dcel in a deal valuing the rural mobile operator at dollar <NUM> billion <COMMA> or dollar <NUM> a share <PUNC>
-at&t also will be in focus on reports of activation problems for the apple iphone <PUNC>
-the stock last was down <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

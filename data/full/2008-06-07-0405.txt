@@ -1,2 +1,0 @@
-at the end of friday <COMMA> the dow jones industrial average plunged <NUM> points <COMMA> or <NUM> percent <COMMA> to end <NUM> <COMMA> giving it a weekly loss of <NUM> percent <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to end at <NUM> <COMMA> pressured by financial stocks american express co. axp <COMMA> citigroup inc. c and j.p. morgan chase & co. jpm but oil stocks chevron corp. cvx and exxon mobil corp. xom helped support the blue-chip index <PUNC>
-for the week <COMMA> the dow industrials rose <NUM> percent <COMMA> the s&p <NUM> <NUM> percent and the nasdaq <NUM> percent <PUNC>
-<PAR>

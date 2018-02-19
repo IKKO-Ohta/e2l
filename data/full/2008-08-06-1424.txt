@@ -1,2 +1,0 @@
-the dow jones industrial average lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components opening lower <COMMA> led by a <NUM> percent drop in shares of aig <COMMA> whose stock was downgraded by societe generale <PUNC>
-<PAR>

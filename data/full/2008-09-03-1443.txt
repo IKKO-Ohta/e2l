@@ -1,2 +1,0 @@
-the dow jones industrial average dji edged up <NUM> points to <NUM> <COMMA> <NUM> <PUNC>
-<PAR>

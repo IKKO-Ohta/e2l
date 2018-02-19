@@ -1,4 +1,0 @@
-after an initial triple-digit drop <COMMA> the dow jones industrial average dji was recently down <NUM> points to 8,855.33.15 <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-j.p. morgan chase & co. jpm was the greatest laggard on the blue-chip index <COMMA> its shares off <NUM> percent <PUNC>
-u.s. markets climbed monday <COMMA> with the dow jones industrial average closing at its highest level in a month <COMMA> as investors cheered president-elect barack obama s pledge on infrastructure investment and a likely deal for the auto industry <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-u.s. stocks extended losses in afternoon trade <COMMA> dropping to session lows <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all of its <NUM> components in negative territory <PUNC>
-intel corp. intc and walt disney co. dis led the dow lower <COMMA> with both stocks dropping more than <NUM> percent <PUNC>
-the dow is on pace for its eight straight triple-digit move <COMMA> nearing a record set in <NUM> <COMMA> when there were <NUM> swings of that magnitude <PUNC>
-it s also trading below its 50-day moving average <COMMA> and it s set to close below that key stock chart level for the first time since december <PUNC>
-plus <COMMA> the index is on pace to finish below <NUM> <COMMA> a level that it last closed below on june <NUM> <PUNC>
-<PAR>

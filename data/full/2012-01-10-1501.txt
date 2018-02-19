@@ -1,2 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with alcoa aa among the components boosting the blue-chip index <COMMA> its shares up <NUM> percent after it gave an upbeat industry forecast <PUNC>
-<PAR>

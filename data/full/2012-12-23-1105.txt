@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> percent for the day <COMMA> and rose <NUM> percent for the week <PUNC>
-the s&p <NUM> index spx also declined <NUM> percent for the day <COMMA> and gained <NUM> percent for the week <PUNC>
-the nasdaq composite index rixf dropped <NUM> percent for the day <COMMA> and gained <NUM> percent for the week <PUNC>
-<PAR>

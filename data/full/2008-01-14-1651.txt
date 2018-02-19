@@ -1,6 +1,0 @@
-u.s. stocks rebounded on monday <COMMA> with the dow industrials triple-digit rise triggered by strong results from international business machines corp. <COMMA> giving an oversold market reason to turn higher <PUNC>
-u.s. stocks dropped steeply last week amid worries of a recession <COMMA> with the dow socked by its worst first-eight-trading-days-of-a-year run in <NUM> years <PUNC>
-on monday <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <COMMA> led by ibm ibm <COMMA> up <NUM> percent <COMMA> and hewlett-packard co. hpq <COMMA> up <NUM> percent <PUNC>
-shares of citigroup inc. c were up <NUM> percent amid reports the bank would announce a write-down of as much as dollar <NUM> billion and job cuts of between <NUM> and <NUM> <PUNC>
-dow laggards included merck & co. mrk <COMMA> shares of which traded down <NUM> percent after disappointing results from a study for a cholesterol drug <PUNC>
-<PAR>

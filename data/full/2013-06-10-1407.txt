@@ -1,4 +1,0 @@
-the dow jones industrial average dji edged up <NUM> points <COMMA> or less than <NUM> percent <COMMA> to <NUM> <COMMA> while the standard & poor s <NUM> index spx slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-mcdonald s corp. mcd added <NUM> percent after it posted stronger-than-expected same-store sales for may <PUNC>
-the fast-food giant is benefiting from its expanded menu <PUNC>
-<PAR>

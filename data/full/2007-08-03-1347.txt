@@ -1,4 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-shares of procter & gamble co. pg rose <NUM> percent to dollar <NUM> in premarket electronic trade <PUNC>
-the company reported a <NUM> percent gain in quarterly profit due to some new products and also said it will buy back up to dollar <NUM> billion of its stock <PUNC>
-<PAR>

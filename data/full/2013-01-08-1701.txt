@@ -1,5 +1,0 @@
-while alcoa s aa release signals the unofficial start of the earnings season <COMMA> the dow component is not a reliable predictor of earnings generally <COMMA> with the <NUM> s&p <NUM> companies that have already reported fourth-quarter earnings a better indicator <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <COMMA> led by hewlett-packard co. hpq and verizon communications inc. vz <PUNC>
-the first dow component scheduled to report earnings <COMMA> alcoa aa was expected to report a fourth-quarter profit of <NUM> cents a share <COMMA> compared to a year-earlier loss of <NUM> cents <COMMA> in results due after tuesday s u.s. close <PUNC>
-alcoa s shares added <NUM> percent <COMMA> while fellow blue chip boeing co. ba fell <NUM> percent after bb&t capital markets downgraded its rating on the aerospace manufacturer to hold from buy <PUNC>
-<PAR>

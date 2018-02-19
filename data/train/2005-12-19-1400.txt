@@ -1,4 +1,0 @@
-the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
-in premarket electronic trade <COMMA> pfizer pfe zoomed up more than <NUM> percent to dollar <NUM> an ounce <PUNC>
-other pharmaceutical stocks were swept higher before the opening <COMMA> too <COMMA> including merck & co. inc. mrk <COMMA> which rose <NUM> percent to dollar <NUM> and bristol-myers squibb co. <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

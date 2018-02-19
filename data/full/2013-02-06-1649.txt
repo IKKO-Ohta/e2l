@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading in positive territory <COMMA> as shares of walt disney co. rose nearly <NUM> percent following the media giant s earnings late tuesday <PUNC>
-hewlett-packard co. hpq led gains on the index with its shares up <NUM> percent after quartz reported on tuesday that h-p s board is studying a breakup of the technology company <PUNC>
-<PAR>

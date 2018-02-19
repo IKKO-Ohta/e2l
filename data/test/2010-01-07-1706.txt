@@ -1,8 +1,0 @@
-the dow jones industrial average dji was recently down <NUM> points to <NUM> <PUNC>
-it has been fluctuating between slight gains and losses after trading down as much as <NUM> points earlier in the session <PUNC>
-bank of america corp. bac was one of the dow s best performers <COMMA> up <NUM> percent after credit suisse upgraded its investment rating on the stock <COMMA> calling the shares the cheapest among large-cap banks <PUNC>
-the move helped lift sentiment for the financial sector <COMMA> as it was seen as a sign that wall street s opinions on the big banks are improving <PUNC>
-boeing ba was also strong <COMMA> up <NUM> percent after the company said it delivered <NUM> commercial aircraft during <NUM> <COMMA> up <NUM> percent from a year earlier and matching the company s expectations <PUNC>
-alcoa inc. aa was the dow s worst performer <COMMA> off <NUM> percent as metals futures slipped <PUNC>
-the measure s other decliners included intel corp. intc <COMMA> which fell <NUM> percent <COMMA> and johnson & johnson jnj <COMMA> which dropped <NUM> percent <PUNC>
-<PAR>

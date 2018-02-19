@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> with american express co. axp leading the dow s decline <COMMA> its stock off <NUM> percent <PUNC>
-dow component intel corp. intc fell <NUM> percent after its downgrade to neutral from buy by merrill lynch <COMMA> which cited the valuation of the world s biggest chipmaker <PUNC>
-<PAR>

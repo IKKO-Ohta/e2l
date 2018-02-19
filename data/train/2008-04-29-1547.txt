@@ -1,3 +1,0 @@
-the dow jones industrial average dji was down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-shares of pharmaceutical giant merck mrk weighed on the dow <COMMA> losing <NUM> percent as the food and drug administration rejected its cholesterol drug cordaptive <COMMA> one of the key drugs in its pipeline <PUNC>
-<PAR>

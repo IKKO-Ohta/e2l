@@ -1,5 +1,0 @@
-on tuesday <COMMA> wall street wavered between gains and losses after a two-day drop that had the dow jones industrial average dji losing more than <NUM> points <PUNC>
-the dow industrials were recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> index spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with consumer discretionary shares fronting the losses and energy shares up the most <PUNC>
-the nasdaq composite index rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

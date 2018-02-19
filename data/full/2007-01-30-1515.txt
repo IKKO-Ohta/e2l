@@ -1,8 +1,0 @@
-u.s. stocks opened mixed on tuesday <COMMA> with the dow jones industrial average weighed down by a disappointing earnings outlook from 3m co. <COMMA> while investors brace for the start of the federal reserve s two-day meeting on interest rates <PUNC>
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-3m mmm weighed on the blue-chip average after its outlook for the year disappointed the market <PUNC>
-likewise <COMMA> procter & gamble pg fell <NUM> percent even after raising its earnings outlook <COMMA> as investors focused on its organic sales growth <COMMA> which came in at the lower end of its guidance <PUNC>
-pharmaceutical giant and dow component merck mrk also fell <COMMA> even after its earnings <COMMA> excluding special items <COMMA> matched analyst forecasts <PUNC>
-fellow drug maker wyeth wye dropped <NUM> percent after its earnings fell short of forecasts <PUNC>
-but microsoft corp. msft fell <NUM> percent <COMMA> even after the software giant launched vista <COMMA> its new operating system <COMMA> at retailers in <NUM> countries <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components advancing <PUNC>
-the major indexes all climbed monday <COMMA> with the dow industrials finishing at their highest level since oct. <NUM> <COMMA> <NUM> <COMMA> after the u.s. house of representatives approved an overhaul of the health-care system that would add about <NUM> million to the rolls of the insured <PUNC>
-<PAR>

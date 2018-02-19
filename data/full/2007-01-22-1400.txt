@@ -1,9 +1,0 @@
-futures for the dow jones industrial average tacked on <NUM> points to <NUM> <PUNC>
-within the dow industrials <COMMA> pfizer inc. shares pfe tacked on <NUM> cents to dollar <NUM> in pre-open trading after the drug maker reported fourth-quarter earnings that declined <COMMA> but topped expectations on an adjusted basis <PUNC>
-citigroup c gained <NUM> percent to dollar <NUM> in the pre-open after the financial services giant agreed to buy abn amro s mortgage group for an estimated dollar <NUM> billion <PUNC>
-in other early dow movers <COMMA> boeing co. shares ba slumped <NUM> percent to dollar <NUM> ahead of the open after being downgraded to market perform from outperform by wachovia on concerns that the commercial aircraft order cycle has peaked <PUNC>
-the technology sector was likely to remain a focus after suffering last week as a result of disappointing results from heavyweights apple inc. aapl and ibm ibm <PUNC>
-the technology-rich nasdaq composite rixf fell <NUM> percent last week <COMMA> despite virtually flat performances by the dow dji and s&p <NUM> index spx . <PUNC>
-wall street journal reported that sun microsystems sunw was near an agreement to use intel intc chips <PUNC>
-that could be a blow to intel rival advanced micro devices amd <COMMA> the journal report said <PUNC>
-<PAR>

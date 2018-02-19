@@ -1,3 +1,0 @@
-the dow jones industrial average dji was <NUM> points lower <COMMA> at <NUM> <COMMA> while the s&p <NUM> spx declined <NUM> points at <NUM> and the nasdaq composite rixf fell <NUM> points at <NUM> <PUNC>
-dow component altria mo was also in focus <COMMA> after the tobacco group s downgrade <COMMA> by goldman sachs <COMMA> to neutral from buy <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> off an earlier low of <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> advanced <COMMA> led by financial stocks <COMMA> including citicorp c <COMMA> which was up <NUM> percent <COMMA> and j.p. morgan jpm up <NUM> percent <PUNC>
-dow component home depot hd gained <NUM> percent <PUNC>
-stocks slid on tuesday <COMMA> with the dow falling more than <NUM> points <COMMA> amid further signs that trouble in the subprime mortgage market is prompting a tightening of credit <PUNC>
-<PAR>

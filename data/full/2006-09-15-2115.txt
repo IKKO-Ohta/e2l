@@ -1,6 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> <PUNC>
-friday s gains place the blue-chip barometer within striking distance of its all-time high <PUNC>
-the dow reached an all-time intraday high of <NUM> on jan. <NUM> <COMMA> <NUM> <PUNC> the all-time closing high of <NUM> occurred the same day <PUNC>
-all three major averages closed at fresh four-month highs <PUNC>
-for the week the nasdaq posted a rise of <NUM> percent <COMMA> the dow industrials gained <NUM> percent and the s&p <NUM> advanced <NUM> percent <PUNC>
-<PAR>

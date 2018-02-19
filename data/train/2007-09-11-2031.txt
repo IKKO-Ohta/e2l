@@ -1,4 +1,0 @@
-stocks closed higher tuesday <COMMA> snapping a two-day losing streak <COMMA> with the dow industrials buttressed by fast-food giant mcdonald s corp. s solid august sales and word from general motors corp. that it is enticing buyers with fewer incentives <PUNC>
-the dow jones industrial average dji rose <NUM> points to end at <NUM> <COMMA> with <NUM> of its <NUM> components higher <COMMA> led by gm gm <COMMA> up <NUM> percent after the largest u.s. automaker said it was spending less on incentives for newly released crossover vehicles <COMMA> and mcdonald s mcd <COMMA> up <NUM> percent on a strong rise in august sales <PUNC>
-the retail sector gained along with the broader market <COMMA> with shares of dow member wal-mart stores inc. wmt <NUM> percent higher after it revised its second-quarter profit lower by dollar <NUM> million late monday <PUNC>
-<PAR>

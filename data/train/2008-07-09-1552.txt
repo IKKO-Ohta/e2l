@@ -1,5 +1,0 @@
-u.s. stocks on wednesday wobbled higher <COMMA> with the dow industrials trying to extend the blue-chip index s largest jump in nearly a month as a mild rise in oil prices offset cheer over alcoa inc. s better-than-forecast results <PUNC>
-the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components gaining ground <PUNC>
-alcoa axp fronted the dow s gains <COMMA> up <NUM> percent <COMMA> with the aluminum producer s stock bolstered by an earnings report late tuesday <PUNC>
-american express co. axp was among the bigger laggards <COMMA> its stock off <NUM> percent <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-futures for the dow industrials were up <NUM> points at <NUM> <PUNC>
-general motors gm slid in pre-open trade after goldman sachs downgraded the automaker s stock to neutral from buy <COMMA> saying likely union concessions are priced into the stock <PUNC>
-procter & gamble pg reiterated quarterly profit and sales forecasts <PUNC>
-<PAR>

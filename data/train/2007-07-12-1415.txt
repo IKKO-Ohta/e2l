@@ -1,9 +1,0 @@
-u.s. stocks rose sharply thursday <COMMA> sending the dow jones industrial average to a new record high <COMMA> on enthusiasm for rio tinto plc s dollar <NUM> billion tender offer for aluminum producer alcan inc. and wal-mart stores inc. s better-than-expected june sales <PUNC>
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> after earlier hitting a new record high of <NUM> <PUNC>
-the dow was lifted by the likes of home depot inc. hd general motors corp. gm and jp morgan chase & co. jpm <PUNC>
-leading the gains on the dow <COMMA> alcoa inc. aa surged <NUM> percent <PUNC>
-the aluminum giant s hostile bid for canada s alcan inc. al was topped by anglo-australian rio tinto plc <PUNC>
-rtp <PUNC>
-also among blue chips <COMMA> wal-mart wmt gained <NUM> percent after its june same-store sales beat expectations <PUNC>
-away from the dow <COMMA> nordstrom jwn and limited brands inc. ltd also topped expectations <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the futures contract for the dow jones industrial average dji last was down <NUM> points at <NUM> <PUNC>
-u.s. markets finished mixed on wednesday <COMMA> with the dow jones industrial average achieving a record close after upbeat earnings from j.p. morgan chase & co. and intel corp <PUNC>
-weakness in the technology sector persisted <COMMA> however <COMMA> after lower-than-expected earnings from yahoo inc. and a downgrade of international business machines corp <PUNC>
-shares of dow component altria group mo moved <NUM> percent lower to dollar <NUM> before the opening in electronic trade <PUNC>
-the company s first-quarter net income fell below year-earlier levels <COMMA> but beat analysts expectations on an adjusted level <PUNC>
-altria also raised its profit forecast from continuing operations for the year to a range of dollar <NUM> to dollar <NUM> a share from dollar <NUM> to dollar <NUM> a share <PUNC>
-merck & co. inc. mrk rose <NUM> percent to dollar <NUM> before the bell <PUNC>
-<PAR>

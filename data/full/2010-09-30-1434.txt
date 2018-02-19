@@ -1,3 +1,0 @@
-after rising more than <NUM> points <COMMA> the dow jones industrial average dji was more recently up <NUM> points at <NUM> <PUNC>
-twenty-eight of its <NUM> components were on the advance <COMMA> led by boeing co. ba <COMMA> up <NUM> percent <PUNC>
-<PAR>

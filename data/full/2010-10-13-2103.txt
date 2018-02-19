@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by cisco systems inc. csco <COMMA> up <NUM> percent <PUNC>
-j.p. morgan chase & co. jpm shares slipped <NUM> percent after the banking giant reported a third-quarter profit that exceeded estimates <COMMA> but revenue that missed expectations <PUNC>
-intel corp. intc topped expectations for both income and revenue <COMMA> and the chip maker s fourth-quarter outlook suggested sales should be stable through the rest of <NUM> <PUNC>
-off the dow <COMMA> shares of csx corp. csx gained <NUM> percent after the railway operator s results beat forecasts <PUNC>
-<PAR>

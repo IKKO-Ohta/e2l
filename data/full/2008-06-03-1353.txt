@@ -1,3 +1,0 @@
-the dow jones industrial average fell <NUM> points to 12,496;.81 <COMMA> with <NUM> of its <NUM> components rising in the early going <PUNC>
-elsewhere on the dow <COMMA> wal-mart stores inc. gained <NUM> percent after the world s largest retailer drew an upgrade to outperform from morgan keegan analyst john lawrence <PUNC>
-<PAR>

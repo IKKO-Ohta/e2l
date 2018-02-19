@@ -1,6 +1,0 @@
-up <NUM> points before the fed released its results <COMMA> the dow jones industrial average dji furthered its advance in their wake <COMMA> gaining <NUM> points to <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> traded higher <COMMA> with financials fronting the blue-chip index s early gains <PUNC>
-citigroup inc. c was up <NUM> percent and jp morgan chase jpm gained <NUM> percent <PUNC>
-u.s. stocks closed a choppy session with gains on tuesday <COMMA> with best buy and adobe systems closing higher after quarterly reports <PUNC>
-the dow industrials rose <NUM> points <COMMA> the s&p <NUM> ended <NUM> points higher and the nasdaq composite tacked on <NUM> points <PUNC>
-<PAR>

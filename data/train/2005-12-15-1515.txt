@@ -1,8 +1,0 @@
-the dow jones industrial average dji was up as much as <NUM> points at <NUM> <PUNC>
-noting that the s&p <NUM> s closed wednesday at a new four-and-a-half year high <COMMA> marc pado <COMMA> chief u.s. market strategist at cantor fitzgerald <COMMA> said <COMMA> the dow and nasdaq composite still have some work to do <PUNC>
-j.p. morgan jpm fell <NUM> cents to dollar <NUM> <PUNC>
-the company will pay dollar <NUM> million in cash to buy collegiate funding services as the financial-services giant moves to expand its student-lending business <PUNC>
-merck & co. inc mrk advanced <NUM> percent to dollar <NUM> after announcing new restructuring efforts that it calculates will yield dollar <NUM> billion in savings <PUNC>
-microsoft msft was down <NUM> cents at dollar <NUM> after the software maker raised its dividend by <NUM> percent <PUNC>
-altria mo was up <NUM> cents at dollar <NUM> as investors await a key ruling by the illinois supreme court in a dollar <NUM> billion class action lawsuit against it <PUNC>
-<PAR>

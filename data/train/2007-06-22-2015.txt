@@ -1,3 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> were in the red <COMMA> led by the likes of citigroup inc. c <COMMA> microsoft corp. msft <COMMA> exxon mobil corp. xom and intel corp. intc <PUNC>
-the dow was on track for a <NUM> percent drop on the week <PUNC>
-<PAR>

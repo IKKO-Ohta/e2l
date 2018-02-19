@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with all but two of its <NUM> components trading lower <PUNC>
-major u.s. stock indexes closed mixed thursday <COMMA> as a lowered profit outlook from wal-mart stores wmt hurt the dow industrials <COMMA> while expectations for a better-than-expected profit helped sears holdings shld <PUNC>
-in the final hour of trading <COMMA> investors seemed cheered by news of a breakthrough agreement that could help curtail home foreclosures <PUNC>
-the dow jones industrial average closed <NUM> points lower <COMMA> while the s&p <NUM> rose <NUM> points and the nasdaq composite added <NUM> points <PUNC>
-<PAR>

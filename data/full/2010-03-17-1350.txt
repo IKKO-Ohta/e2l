@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in early trading <PUNC>
-the dow s economically-sensitive components were its strongest performers <COMMA> with alcoa up <NUM> percent aa and general electric up <NUM> percent ge <PUNC>
-caterpillar cat gained <NUM> percent <PUNC>
-energy components also strengthened as the price of crude-oil rose above dollar <NUM> per barrel <PUNC>
-chevron rose <NUM> percent cvx <COMMA> while exxon gained <NUM> percent xom <PUNC>
-<PAR>

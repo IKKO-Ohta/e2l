@@ -1,4 +1,0 @@
-on wednesday <COMMA> stock investors were anything but clear <COMMA> with wall street meandering from early gains to afternoon losses as the energy sector lost its steam <PUNC>
-at 12:25 p.m. eastern <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> spx was off <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf fell <NUM> points to <NUM> <PUNC>
-<PAR>

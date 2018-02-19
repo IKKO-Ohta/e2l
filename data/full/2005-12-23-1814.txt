@@ -1,5 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-the university of michigan s december consumer sentiment survey came in with a final reading of <NUM> points <PUNC>
-the dow jones forecast <COMMA> based on a poll of economists <COMMA> was for an unchanged reading of <NUM> <PUNC>
-boeing ba was up <NUM> cents at dollar <NUM> after a media report that it may edge out airbus to win deal worth more than dollar <NUM> billion with singapore airlines <PUNC>
-<PAR>

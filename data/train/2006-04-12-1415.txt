@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-on tuesday <COMMA> the blue-chip index <COMMA> like the s&p <NUM> <COMMA> also ended at a one-month low <PUNC>
-shares in boeing co. ba rose <NUM> percent to dollar <NUM> after morgan stanley raised its price target on the company to dollar <NUM> from dollar <NUM> <PUNC>
-the broker said the stock even has the potential to reach dollar <NUM> in <NUM> years if investors begin viewing the company as an asian infrastructure play and if the aerospace mid-cycle persists <PUNC>
-<PAR>

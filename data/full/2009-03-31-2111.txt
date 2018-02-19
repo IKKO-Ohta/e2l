@@ -1,4 +1,0 @@
-on tuesday <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> while the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-for march <COMMA> the dow <NUM> percent and the nasdaq rose <NUM> percent <PUNC>
-but for the first quarter <COMMA> the dow remains down <NUM> percent <COMMA> the s&p down <NUM> percent <COMMA> and the nasdaq down <NUM> percent <PUNC>
-<PAR>

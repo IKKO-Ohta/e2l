@@ -1,6 +1,0 @@
-the forwards contracts for the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq <NUM> all are pointing towards small losses in the early minutes of trade <PUNC>
-in pre-opening trade wal-mart stores wmt was <NUM> percent higher <COMMA> trading up dollar <NUM> at dollar <NUM> <COMMA> after saturday announcing it expects u.s. june same-store sales to be up <NUM> percent from year-earlier levels <PUNC>
-previously <COMMA> the company forecast an increase in the range of <NUM> percent to <NUM> percent <PUNC>
-boston scientific bsx zoomed ahead <NUM> percent <COMMA> rising dollar <NUM> to dollar <NUM> <COMMA> after a jury friday concluded that johnson & johnson jnj infringed on a boston scientific heart stent <PUNC>
-procter & gamble pg and gillette co g should be in focus after news that the european commission s review of the companies proposed merger could be extended due to concerns about competition <PUNC>
-<PAR>

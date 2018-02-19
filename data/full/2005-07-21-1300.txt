@@ -1,8 +1,0 @@
-the futurescontract for the dow jones industrial average was up <NUM> points at <NUM> while the futures contract for the nasdaq <NUM> was down <NUM> point at <NUM> <PUNC>
-coca-cola ko posted a <NUM> percent rise in second-quarter net profit to dollar <NUM> billion <COMMA> topping analyst expectations amid a strong performance in latin america <PUNC>
-that stock was up <NUM> percent at dollar <NUM> <PUNC>
-mcdonald s mcd reported second-quarter earnings of dollar <NUM> million <COMMA> or <NUM> cents a share <COMMA> down from dollar <NUM> million <COMMA> or <NUM> cents a share in the same period a year ago <PUNC>
-the results were lowered by expenses from the repatriation of overseas earnings <PUNC>
-there also are new earnings reports from eli lilly lly and merck & co. mrk <PUNC>
-microsoft msft and google goog will unveil results after the close of trade <PUNC>
-<PAR>

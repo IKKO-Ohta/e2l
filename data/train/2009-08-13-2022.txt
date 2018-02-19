@@ -1,4 +1,0 @@
-the data helped offset early-day investor cheer <COMMA> bolstered in part by earnings results from retail goliath wal-mart stores inc. wmt <COMMA> leaving the major stock indexes meandering between positive and negative turf before finishing with modest gains <PUNC>
-up for a second consecutive day <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-finishing at its highest level since early october <COMMA> the s&p <NUM> index spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the technology-led nasdaq composite rixf gained <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <PUNC>
-<PAR>

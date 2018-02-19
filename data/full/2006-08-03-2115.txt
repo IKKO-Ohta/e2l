@@ -1,9 +1,0 @@
-u.s. stocks closed higher thursday <COMMA> with the dow jones industrial average reaching its highest close in a month <COMMA> as investors hoped friday s monthly employment report will help convince the federal reserve to soften its monetary policy <PUNC>
-the dow jones industrial average dji threw off weakness to close up <NUM> points at <NUM> <COMMA> its strongest finish since july <NUM> <PUNC>
-earlier the dow was down as much as <NUM> points <PUNC>
-dow component wal-mart stores inc. wmt closed <NUM> percent higher at dollar <NUM> <PUNC>
-the retailer s july same-store sales rose <NUM> percent <COMMA> in line with its own prediction and outstripping the forecasts of wall street analysts polled by thomson first call <PUNC>
-ford motor co. f closed <NUM> percent lower at dollar <NUM> <PUNC>
-late wednesday <COMMA> the automaker doubled its previously reported second-quarter loss <PUNC>
-but rival general motors corp gm <COMMA> a dow component <COMMA> was down <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

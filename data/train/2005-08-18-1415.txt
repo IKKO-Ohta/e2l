@@ -1,2 +1,0 @@
-the dow jones industrial average dji was down almost <NUM> points at <NUM> <COMMA> the s&p <NUM> spx down <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf down <NUM> points at <NUM> <PUNC>
-<PAR>

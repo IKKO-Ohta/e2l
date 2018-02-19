@@ -1,2 +1,0 @@
-after opening in negative turf <COMMA> the dow jones industrial average was more recently up <NUM> points at <NUM> <PUNC>
-<PAR>

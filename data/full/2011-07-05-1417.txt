@@ -1,2 +1,0 @@
-on tuesday <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-<PAR>

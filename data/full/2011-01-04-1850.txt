@@ -1,4 +1,0 @@
-the dow jones industrial average dji recently dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> one day after closing at a 28-month high <PUNC>
-the nasdaq composite rixf fell <NUM> percent to <NUM> <PUNC>
-the standard & poor s 500-stock index spx lost <NUM> percent to <NUM> <PUNC>
-<PAR>

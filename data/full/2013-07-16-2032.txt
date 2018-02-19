@@ -1,6 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-shares of coca-cola ko fell <NUM> percent <COMMA> pacing the index s losses after the beverage maker reported a drop in quarterly earnings <PUNC>
-see slideshow <PUNC> coke goes flat in a sluggish <COMMA> soggy spring <PUNC>
-intel corp. intc rose <NUM> percent <COMMA> the top dow gainer ahead of the chip company s results on wednesday afternoon <PUNC>
-johnson & johnson jnj ended unchanged after the dow component and health-care giant reported results that beat wall street estimates and raised its profit outlook <PUNC>
-<PAR>

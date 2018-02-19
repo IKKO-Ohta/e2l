@@ -1,7 +1,0 @@
-the s&p <NUM> spx ended the day at session lows <COMMA> down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with the financial and consumer-discretionary sectors leading the decline <PUNC>
-the dow jones industrial average dji dropped <NUM> or <NUM> percent to <NUM> <COMMA> with <NUM> of <NUM> members of the index closing in the red <PUNC>
-shares in walt disney company dis rose <NUM> percent after quarterly results came above wall street s expectations <PUNC>
-in deal news <COMMA> merck mrk agreed to sell its consumer-products business <COMMA> including the allergy-treatment claritin and nasal decongestant afrin <COMMA> to german drug maker bayer ag for dollar <NUM> billion <PUNC>
-shares fell <NUM> percent <PUNC>
-also read <PUNC> why the deal isn t helping merck shares <PUNC>
-<PAR>

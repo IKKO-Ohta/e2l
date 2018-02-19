@@ -1,8 +1,0 @@
-continuing a recent trend of triple-digit swings in either direction <COMMA> the dow jones industrial average dji rallied <NUM> points <COMMA> or almost <NUM> percent <COMMA> to <NUM> <COMMA> giving it a <NUM> percent rise from the prior week s close <PUNC>
-the u.s. stock market is closed friday <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> ended in positive turf <COMMA> with blue-chip financials leading the gains <PUNC>
-american express co. axp was ahead <NUM> percent and citigroup inc. c gained <NUM> percent <PUNC>
-shares of jpmorgan chase & co. jpm advanced <NUM> percent and american international group inc. aig rose <NUM> percent <PUNC>
-off the dow <COMMA> shares of merrill lynch co. inc. mer climbed <NUM> percent and visa inc. v gained nearly <NUM> percent <COMMA> one day after the credit card giant s market debut <PUNC>
-technology stocks also bolstered the blue-chip index <COMMA> with intel corp. intc up <NUM> percent after its board increased its quarterly dividend about <NUM> percent <PUNC>
-<PAR>

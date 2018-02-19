@@ -1,5 +1,0 @@
-the past week was tough for equities in general with the dow jones industrial average dji down <NUM> percent <COMMA> the s&p <NUM> index spx falling <NUM> percent <COMMA> and the nasdaq composite index rixf slipping <NUM> percent for the holiday-shortened period <PUNC>
-all three benchmarks <COMMA> however <COMMA> finished up for the month of may <COMMA> with the dow industrials up <NUM> percent <COMMA> the s&p <NUM> up <NUM> percent <COMMA> and most notably <COMMA> the tech-heavy nasdaq rising <NUM> percent <PUNC>
-stocks with a dividend of <NUM> percent or more that fell <NUM> percent or more during may in the s&p <NUM> included firstenergy corp. fe <COMMA> duke energy corp. duk <COMMA> consolidated edison inc. ed <COMMA> and verizon communications inc. vz <PUNC>
-no one stock in the s&p <NUM> with more than a <NUM> percent gain had a rise of <NUM> percent or more <PUNC>
-<PAR>

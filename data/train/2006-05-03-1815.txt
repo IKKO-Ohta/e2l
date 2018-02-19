@@ -1,8 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to losses <PUNC>
-on tuesday <COMMA> the benchmark index ended at a six-year high <PUNC>
-shares of procter & gamble co. pg tumbled <NUM> percent to dollar <NUM> <PUNC>
-the world s largest consumer-goods company said third-quarter profit rose <NUM> percent <COMMA> helped by the gillette acquisition <COMMA> price increases and cost controls <PUNC>
-but sales fell short of expectations <COMMA> hurt by inventory-reduction efforts at retail customers like wal-mart stores inc. wmt <PUNC>
-microsoft corp. shares msft were down <NUM> percent at dollar <NUM> after the wall street journal <COMMA> quoting people familiar with the company <COMMA> said its top management remains open to a deal with yahoo yhoo <COMMA> which may include acquiring a stake in the internet giant <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-the dow jones industrial average dji shed <NUM> points to <NUM> <COMMA> with all but three of its <NUM> components losing ground <PUNC>
-<PAR>

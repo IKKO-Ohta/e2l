@@ -1,8 +1,0 @@
-the dow jones industrial average dji <COMMA> which was off <NUM> points at its session low <COMMA> was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> bolstered by gains in all its financial components <PUNC>
-bank of america corp. bac rose <NUM> percent <COMMA> american express axp and j.p. morgan chase jpm were up more than <NUM> percent each <COMMA> and travelers trv was up <NUM> percent <PUNC>
-participants are also concerned about how earnings of big u.s. multinational companies could be hurt by currency translations if the euro keeps sliding <PUNC>
-caterpillar cat dropped <NUM> percent <COMMA> boeing ba fell <NUM> percent and dupont declined <NUM> percent <PUNC>
-strong earnings reports from deere de and hewlett-packard hpq also helped to stabilize the broader market <PUNC>
-deere shares rose <NUM> percent after the company posted a <NUM> percent increase in fiscal second-quarter earnings on strong demand for its large machinery <PUNC>
-the farm-equipment giant also raised its current-year earnings forecast <PUNC>
-<PAR>

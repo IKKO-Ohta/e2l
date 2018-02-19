@@ -1,5 +1,0 @@
-thursday afternoon <COMMA> the market staged a sizeable comeback from losses that followed a pre-opening jolt when software titan microsoft msft reported an earnings drop and said it plans to shed as many as <NUM> workers <PUNC>
-it declared itself unable to offer a forecast for the remainder of <NUM> <COMMA> citing economic uncertainty <PUNC>
-we ve been rallying since noon and rallying quite hard since 1:40 p.m. eastern on the backs of financial and tech names which have come off their lows considerably <COMMA> said greenhaus <COMMA> who gave microsoft <COMMA> ibm ibm and ebay inc. ebay as examples <PUNC>
-the patchy results overall combined with bleak economic data on jobs and housing had the dow jones industrial average dji falling roughly <NUM> points <COMMA> and more recently off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> component stocks trading in the red <PUNC>
-<PAR>

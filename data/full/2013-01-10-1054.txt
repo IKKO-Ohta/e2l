@@ -1,2 +1,0 @@
-futures for the dow jones industrial average djh3 rose <NUM> points to <NUM> <COMMA> while those for the standard & poor s <NUM> index sph3 rose <NUM> points to <NUM> <PUNC>
-<PAR>

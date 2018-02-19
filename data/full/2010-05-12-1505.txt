@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by heavy equipment maker caterpillar inc. cat <COMMA> up <NUM> percent <COMMA> and chemical giant dupont dd <COMMA> up <NUM> percent <PUNC>
-another dow component <COMMA> industrial conglomerate 3m co. mmm <COMMA> gained <NUM> percent after it late tuesday declared a cash dividend for a 375th consecutive quarter <PUNC>
-<PAR>

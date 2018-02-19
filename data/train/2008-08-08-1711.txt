@@ -1,2 +1,0 @@
-after setting aside initial declines <COMMA> the dow jones industrial average was lately up <NUM> at <NUM> <COMMA> positioning it for a <NUM> percent advance from last friday s close <PUNC>
-<PAR>

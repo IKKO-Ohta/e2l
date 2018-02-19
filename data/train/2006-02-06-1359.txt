@@ -1,9 +1,0 @@
-the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
-futures contracts for the s&p <NUM> and the nasdaq <NUM> were up <NUM> points at <NUM> and up <NUM> points at <NUM> <PUNC>
-higher crude prices were helping oil companies score gains in premarket electronic trade <PUNC>
-chevron corp. cvx was <NUM> cents higher at dollar <NUM> as exxon mobil xom rose almost <NUM> percent to dollar <NUM> <PUNC>
-chevon also was upgraded by j.p. morgan <PUNC>
-earlier in frankfurt shares of american international group aig fell a bit after the wall street journal reported that it is near a deal to resolve accounting fraud and other allegations against it from u.s. and state regulators <PUNC>
-walt disney & co. dis and fast food outlets operator yum brands inc. yum should be in focus monday <PUNC>
-both companies will report earnings later in the day <PUNC>
-<PAR>

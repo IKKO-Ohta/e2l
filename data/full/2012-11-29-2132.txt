@@ -1,4 +1,0 @@
-u.s. stocks on thursday rose for a second day <COMMA> lifting the dow industrials into positive terrain for the week <COMMA> as investors bet on at least a short-term fix to avert the so-called fiscal cliff <PUNC>
-after a 77-point rise <COMMA> the dow jones industrial average dji dipped <NUM> points as boehner spoke <COMMA> but finished up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it up <NUM> percent for the week <COMMA> with one session remaining <PUNC>
-walt disney co. dis shares climbed after the entertainment company and dow component hiked its dividend <PUNC>
-<PAR>

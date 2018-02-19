@@ -1,7 +1,0 @@
-u.s. stocks ended higher tuesday <COMMA> with the dow jones industrial average logging a new record close <COMMA> after the price of oil slumped to a 14-month low <COMMA> raising hopes falling energy costs will boost consumer spending and moderate any slowdown in the economy <PUNC>
-the dow industrials dji ended up <NUM> points at <NUM> <COMMA> surpassing its previous record closing high of <NUM> struck on jan. <NUM> 2000 <PUNC>
-by sector <COMMA> energy xoi and oil-services osxx stocks fell sharply as crude prices logged a fresh decline <PUNC>
-among dow stocks <COMMA> exxon mobil corp. xom was the biggest percentage decliner <COMMA> down <NUM> percent at dollar <NUM> <PUNC>
-general motors gm fell <NUM> cents to dollar <NUM> after the car maker posted a <NUM> percent drop in light vehicle sales for september and anounced a cut in its fourth quarter production target <PUNC>
-boeing co. ba shares rose <NUM> percent to dollar <NUM> after european rival eads <COMMA> struggling to roll out the airbus a380 superjumbo jet <COMMA> said it will push back the aircraft s already-delayed delivery schedule by up to another year <PUNC>
-<PAR>

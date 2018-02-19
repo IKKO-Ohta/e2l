@@ -1,5 +1,0 @@
-the dow jones industrial average dji shed <NUM> points to finish at <NUM> <COMMA> with <NUM> of its <NUM> components finishing in the red <COMMA> led by the likes of alcoa inc. aa <COMMA> off <NUM> percent <COMMA> and intel corp. intc <COMMA> which ended off <NUM> percent in the wake of its underweight rating from morgan stanley <PUNC>
-home depot inc. hd also among the blue chips fronting the dow s gains <COMMA> closing up <NUM> percent <COMMA> along with general motors corp. gm <COMMA> which advanced <NUM> percent after its upgrade by banc of america to neutral from sell <PUNC>
-telecommunications stocks also retreated <COMMA> with at&t inc. t down <NUM> percent <PUNC>
-the financial times says blue-chip consumer products giant proctor & gamble co. pg has hired blackstone group to help sell brands including duracell batteries and pringles potato chips. <PUNC>
-<PAR>

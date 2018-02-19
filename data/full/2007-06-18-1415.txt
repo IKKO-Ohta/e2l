@@ -1,9 +1,0 @@
-the dow jones industrial average dji was up just <NUM> points at <NUM> <COMMA> while the s&p <NUM> spx fell a little more than <NUM> point to <NUM> <PUNC>
-among blue chips <COMMA> alcoa aa rose <NUM> percent <COMMA> after a report in the times of london newspaper said bhp billiton ltd. bhp is reviewing plans to buy the aluminum producer <PUNC>
-wal-mart stores inc. wmt rose <NUM> percent <PUNC>
-the giant retailer has asked a state court in michigan to dismiss the lawsuit filed by fired advertising executive julie roehm <COMMA> contending that she lives in arkansas <PUNC>
-boeing ba was in focus as the paris air show began <PUNC>
-airbus won orders from middle eastern airlines qatar airways and emirates as well as us airways lcc <COMMA> while boeing ba inked two smaller deals.but the stock traded flat at t dollar <NUM> as investors also absorbed news of contracts for its rival airbus <PUNC>
-in other deal-making news monday <COMMA> shares of dow jones & co. dj <COMMA> publisher of this report <COMMA> gained <NUM> percent <PUNC>
-general electric co. ge and the publisher of the financial times <COMMA> pearson plc <COMMA> are in talks about making a joint bid for the publishing company <COMMA> according to the wall street journal <PUNC>
-<PAR>

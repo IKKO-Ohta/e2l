@@ -1,9 +1,0 @@
-the next two weeks will be the final peak weeks <COMMA> with <NUM> s&p <NUM> companies reporting next week <COMMA> including five components of the dow jones industrial average <COMMA> said john butters <COMMA> earnings analyst at thomson financial <PUNC>
-<PAR>
-similarly <COMMA> microsoft corp. msft posted a <NUM> percent profit decline and the first year-over-year sales drop in its public history <COMMA> yet even its results were better than forecast <COMMA> with shares of the software goliath also rising <COMMA> up <NUM> percent <PUNC>
-<PAR>
-on friday <COMMA> u.s. stocks finished higher for a second day but mostly lower for the week <COMMA> snapping a six-week string of gains <COMMA> after the federal reserve said most banks tested for stress have enough capital and as companies including american express co. axp reported results topping forecasts <PUNC>
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it down <NUM> percent from a week ago <PUNC>
-the s&p <NUM> index spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a weekly slip of <NUM> percent <PUNC>
-the nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> up <NUM> percent for the week <PUNC>
-<PAR>

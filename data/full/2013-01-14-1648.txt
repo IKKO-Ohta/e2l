@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with hewlett-packard co. hpq leading gains after j.p. morgan chase & co. upgraded the personal-computer maker to neutral from underweight <PUNC>
-h-p also reclaimed the top pc-maker ranking from lenovo group ltd <PUNC>
-bank of america corp. bac was the biggest loser among the dow s <NUM> components <PUNC>
-international business machines corp. ibm shares dropped <NUM> percent after j.p. morgan downgraded the firm to neutral from overweight <PUNC>
-<PAR>

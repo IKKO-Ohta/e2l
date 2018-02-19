@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points at <NUM> off a session low of <NUM> <PUNC>
-if it were to end the session at this level <COMMA> the index would log a record close <PUNC>
-within the dow <COMMA> shares of merck & co. mrk led the decliners <COMMA> down more than <NUM> percent as a news report said the drug maker has disclosed four separate tax disputes in canada and the united states with potential liabilities totaling dollar <NUM> billion <PUNC>
-<PAR>

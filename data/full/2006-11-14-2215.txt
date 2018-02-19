@@ -1,9 +1,0 @@
-u.s. stocks staged a late rally tuesday as gains for wal-mart stores inc. <COMMA> home depot inc and intel corp. boosted the dow jones industrial average to a fresh all-time high <PUNC>
-the dow jones industrial average dji rose <NUM> points to close at an all-time high of <NUM> <COMMA> beating a previous record of <NUM> <PUNC>
-wal-mart stores inc. wmt rallied <NUM> percent and home depot inc. hd gained <NUM> percent after releasing their results <PUNC>
-intel corp. intc was another significant gainer on the blue-chip index <COMMA> rising nearly <NUM> percent <PUNC>
-over the last three sessions <COMMA> the chip maker has risen over <NUM> percent <PUNC>
-home depot hd reversed course to close up <NUM> percent at dollar <NUM> <PUNC>
-the rally in the home building sector coupled with falling long-term interest rates helped temper the negative impact of wake quarterly results and a lowered financial outlook <PUNC>
-shares of wal-mart stores inc. wmt rose as the world s largest retailer turned in an <NUM> percent jump in quarterly profit <COMMA> although the company did trim its forecast for the full year <PUNC>
-<PAR>

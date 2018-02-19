@@ -1,6 +1,0 @@
-stocks were also taking their cues off the dollar <COMMA> which has been weakening against the euro since the opening bell.at last check <COMMA> the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-merck mrk led the dow gainers <COMMA> surging <NUM> percent after it predicted annual earnings growth in the high-single digits on a percentage basis until <NUM> <PUNC>
-walt disney dis was up <NUM> percent after it got the go-ahead from china s central government to pursue plans to build a theme park in shanghai <PUNC>
-kraft foods kft was the only component in the red <COMMA> down <NUM> percent after reporting weaker-than-expected third-quarter sales and lowering its outlook for sales growth this year <PUNC>
-the materials and industrials sectors were also sharply higher <PUNC>
-<PAR>

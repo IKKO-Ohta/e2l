@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-corporate america starts reporting first-quarter results next week <COMMA> with alcoa inc. aa slated to release its earnings for the period on monday <PUNC>
-<PAR>

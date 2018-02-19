@@ -1,4 +1,0 @@
-after falling by as much as <NUM> points and rising as much as <NUM> <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <PUNC>
-intel corp. intc led gains that included <NUM> of the blue-chip index s <NUM> components <PUNC>
-intel s gains came a day after reuters reported samsung electronics had picked an intel processor to power a new version of one of its tablets <PUNC>
-<PAR>

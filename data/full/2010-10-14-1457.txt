@@ -1,3 +1,0 @@
-the dow jones industrial average dji was lately up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-bank of america corp. bac weighed most on the blue-chip index <COMMA> with its shares and those of other banks hit as analysts attempted to estimate losses related to the halt in home foreclosures <PUNC>
-<PAR>

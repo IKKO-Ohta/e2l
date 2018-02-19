@@ -1,7 +1,0 @@
-u.s. stocks stumbled sharply tuesday <COMMA> with the dow industrials lapsing under <NUM> for the first time since early july <COMMA> after dismal data on the housing market intensified worries about the recovery <PUNC>
-down for a fourth consecutive session <COMMA> the dow jones industrial average dji was lately off <NUM> points at <NUM> <PUNC>
-it fell as low as <NUM> earlier on <COMMA> it first dip under the <NUM> mark since the first week of july <PUNC>
-of the blue-chip index s <NUM> components <COMMA> all but one were on the decline <COMMA> with boeing co. ba down the most <COMMA> off <NUM> percent <PUNC>
-kraft foods inc. kft was up <NUM> percent <COMMA> the sole gainer <PUNC>
-shares of 3par inc. par gained <NUM> percent after bloomberg reported dell inc. dell was readying to hike its bid for the data-storage provider after hewlett-packard co. hpq topped its prior offer <PUNC>
-<PAR>

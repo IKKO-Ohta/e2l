@@ -1,4 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> in early morning trade <COMMA> with <NUM> of its <NUM> components falling <COMMA> led by a <NUM> percent drop in shares of aig aig <PUNC>
-counterparties of the carlyle fund in trouble include dow components <COMMA> citigroup c <COMMA> jp morgan chase jpm <COMMA> and banc of america bac <COMMA> <PUNC>
-among stocks in focus thursday <COMMA> microsoft msft and general electric ge are holding analyst meetings <COMMA> and tyco international tyc is hold its annual shareholder meeting <PUNC>
-<PAR>

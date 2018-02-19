@@ -1,2 +1,0 @@
-the dow jones industrial average dji hit an intraday record of <NUM> <COMMA> <NUM> <COMMA> but ended lower <COMMA> shedding <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

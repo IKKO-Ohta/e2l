@@ -1,6 +1,0 @@
-the dow jones industrial average dji finished up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-while the blue-chip average fell <NUM> percent for the month of november <COMMA> it jumped <NUM> percent over the past week <PUNC>
-even more impressive <COMMA> the dow gained <NUM> points <COMMA> or <NUM> percent <COMMA> in just five sessions <COMMA> marking its best five-day percentage gain since <NUM> <COMMA> and its best five-day point gain on record <PUNC>
-adding to the positive tone <COMMA> the government stepped in to bailout citigroup inc. c <COMMA> which allowed shares of the ailing bank to rebound <NUM> percent over the past week after plunging below dollar <NUM> amid fear about its future <PUNC>
-and continued hopes for a bailout of the u.s. auto industry also helped shares of general motors corp. gm to rebound over <NUM> percent <PUNC>
-<PAR>

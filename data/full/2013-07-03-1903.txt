@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> with shares of boeing co. ba and cisco systems inc. csco leading the way <PUNC>
-earlier in the session <COMMA> the dow was down by as many as <NUM> points <PUNC>
-shares of alcoa inc. aa fell <NUM> percent <COMMA> the worst performer on the index after a downgrade from j.p. morgan analysts <PUNC>
-the aluminum giant will kick off second-quarter earnings season on monday after the bell <PUNC>
-<PAR>

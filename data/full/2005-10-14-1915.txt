@@ -1,7 +1,0 @@
-the dow jones industrial average dji has been up as much as <NUM> points to stand at an intraday high of <NUM> <PUNC>
-within the dow industrials <COMMA> boeing co. ba gained as much as <NUM> percent after brokerage prudential started coverage on the stock with an overweight rating <PUNC>
-the shares are up <NUM> percent this year and still have room for more gains <COMMA> the analysts said <COMMA> as the machinists strike has been settled and commercial airplane margins could improve into <NUM> <PUNC>
-shares of general electric co. ge rose as much as <NUM> percent after the diversified industrial conglomerate posted third-quarter revenue that topped analyst expectations <PUNC>
-general motors corp. gm climbed as much as <NUM> cents to dollar <NUM> as the wall street journal reported the carmaker has signaled to the united auto workers union that an agreement to cut gm s dollar <NUM> billion annual u.s. health-care bill must come within the next few days <COMMA> or the company could act unilaterally to cut uaw health-care spending <PUNC>
-the carmaker is also due to report quarterly results on monday <PUNC>
-<PAR>

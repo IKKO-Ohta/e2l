@@ -1,7 +1,0 @@
-u.s. stocks rose sharply tuesday <COMMA> lifting the dow jones industrial average above its all-time intraday and closing highs <COMMA> after a report illustrating continuing improvement in the service sector <PUNC>
-the dow industrials dji were up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> topping its all-time closing and intraday highs set in october <NUM> <PUNC>
-see <PUNC> ibm led gains in dow s return to record territory <PUNC>
-the nasdaq composite rixf climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-see <PUNC> apple s not in the dow <COMMA> thank goodness <PUNC>
-overseas markets took the lead from monday s second-best close for the dow industrials <COMMA> with asian markets attracting buyers <COMMA> especially chinese stocks <COMMA> which had been beaten down the prior day <PUNC>
-<PAR>

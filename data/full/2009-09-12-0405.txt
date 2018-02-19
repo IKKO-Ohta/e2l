@@ -1,6 +1,0 @@
-on friday <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
-the broad s&p <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <PUNC>
-the nasdaq composite rixf declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-for the week <COMMA> the dow rose <NUM> percent <COMMA> the s&p <NUM> gained <NUM> percent and the nasdaq jumped <NUM> percent <PUNC>
-for september so far <COMMA> the broad market <COMMA> as measured by the s&p <NUM> <COMMA> is up <NUM> percent <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-after falling as much as <NUM> points <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> a level that has it up <NUM> percent from the week-ago close <PUNC>
-all <NUM> of the dow s components were in the red <COMMA> led by caterpillar inc. cat <COMMA> down <NUM> percent <PUNC>
-<PAR>

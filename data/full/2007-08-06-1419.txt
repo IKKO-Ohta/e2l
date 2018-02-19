@@ -1,5 +1,0 @@
-but the dow jones industrial average dji gave up an advance of over <NUM> points and was recently up <NUM> points at <NUM> <PUNC>
-out of the dow s <NUM> stocks <COMMA> <NUM> still advanced <COMMA> led by altria group inc. mo <COMMA> verizon communications vz <COMMA> merck & co. inc. mrk and wal-mart stores inc. wmt <PUNC>
-on friday <COMMA> credit concerns and a weak jobs report drove a sell-off that marked the dow s third worst day of the year <PUNC>
-the dow industrials dropped <NUM> points <COMMA> the s&p <NUM> fell <NUM> points and the nasdaq composite lost <NUM> points <PUNC>
-<PAR>

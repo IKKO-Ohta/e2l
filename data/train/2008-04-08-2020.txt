@@ -1,4 +1,0 @@
-off session lows <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with citigroup inc. c fronting the declines <COMMA> off <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> posted losses <COMMA> with aluminum producer alcoa inc. aa among the blue chips on the decline <COMMA> its stock down <NUM> percent <PUNC>
-after monday s close <COMMA> alcoa reported a first-quarter profit drop of more than <NUM> percent <PUNC>
-<PAR>

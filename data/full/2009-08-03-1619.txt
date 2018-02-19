@@ -1,5 +1,0 @@
-on monday <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> index spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after briefly topping <NUM> for the first time since nov. <NUM> <PUNC>
-in july <COMMA> the dow rallied <NUM> percent to mark its best monthly gain since oct. <NUM> and its best july since <NUM> <PUNC>
-the s&p <NUM> rose <NUM> percent for the month <COMMA> its best july since <NUM> <COMMA> and the nasdaq gained <NUM> percent <PUNC>
-<PAR>

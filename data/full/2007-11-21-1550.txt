@@ -1,6 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-financial stocks on the dow saw some of the biggest drops <COMMA> with aig aig off <NUM> percent <COMMA> american express axp down <NUM> percent <COMMA> and jp morgan chase jpm off <NUM> percent <PUNC>
-even exxon mobil corp. xom lost early gains as crude oil prices turned slightly lower following inventory data <PUNC>
-stocks ended with gains on tuesday <COMMA> as an upbeat forecast from hewlett-packard hpq and gains in the energy sector helped offset continued concerns about credit woes and financials <PUNC>
-government-sponsored mortgage investor freddie mac fre warned it may have to slash its dividend <PUNC>
-<PAR>

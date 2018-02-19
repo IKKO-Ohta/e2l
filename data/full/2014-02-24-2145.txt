@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> led by unitedhealth group inc. unh <COMMA> which jumped <NUM> percent <PUNC>
-shares in humana and unitedhealth <COMMA> both health insurers <COMMA> rallied following a jpmorgan note saying medicare advantage reimbursements will drop less than expected next year <PUNC>
-<PAR>

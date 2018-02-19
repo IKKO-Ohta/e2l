@@ -1,6 +1,0 @@
-the dow jones industrial average dji edged up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
-home depot hd led the measure s gains with a <NUM> percent jump as the home-improvement retailer was boosted by the housing and retail sales reports <PUNC>
-meanwhile <COMMA> computer maker dell dell withdrew from the bidding war for 3par par <COMMA> surrendering the storage maker to rival hewlett-packard hpq after the tech giant lifted its offer to dollar <NUM> billion <PUNC>
-3par <COMMA> which makes storage products used in cloud computing <COMMA> accepted h-p s offer <COMMA> valuing the company at dollar <NUM> a share <PUNC>
-h-p edged up <NUM> percent <COMMA> while dell rose <NUM> percent and 3par climbed <NUM> percent <PUNC>
-<PAR>

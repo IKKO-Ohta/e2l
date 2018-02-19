@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-of the <NUM> stocks making up the benchmark index <COMMA> <NUM> contributed to gains <PUNC>
-wal-mart wmt stock rallied <NUM> percent to dollar <NUM> <PUNC>
-the retail giant over the weekend estimated that april same-store sales improved by <NUM> percent <COMMA> aided by a late easter <PUNC>
-the company had forecast a rise of <NUM> percent to <NUM> percent <PUNC>
-shares of boeing ba were up <NUM> cents at dollar <NUM> the company confirmed a wall street journal report that it is buying aviall inc. avl for dollar <NUM> a share <COMMA> or dollar <NUM> billion <COMMA> plus dollar <NUM> million of debt <PUNC>
-aviall <COMMA> an after-market parts maker for aviation and marine companies <COMMA> will become part of boeing s commercial-aviation services <PUNC>
-<PAR>

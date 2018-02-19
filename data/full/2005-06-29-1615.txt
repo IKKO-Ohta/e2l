@@ -1,6 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> while the nasdaq composite index rixf rose <NUM> points or <NUM> percent <COMMA> at <NUM> and the s&p <NUM> spx added <NUM> point <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-back in the equity markets <COMMA> american international group aig was the best performer on the dow <COMMA> spiking <NUM> percent after it said first-quarter net income jumped <NUM> percent while revenue in the period rose <NUM> percent <PUNC>
-revenue was dollar <NUM> billion <COMMA> up from dollar <NUM> billion a year ago <PUNC>
-hewlett-packard co. hpq <COMMA> sbc communications inc. sbc and procter & gamble co. pg were other notable blue chip gainers <PUNC>
-united technologies corp. utx <COMMA> exxon mobil corp. xom <COMMA> boeing co. ba and walt disney co. dis posted the biggest losses on the dow <PUNC>
-<PAR>

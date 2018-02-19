@@ -1,7 +1,0 @@
-the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
-general motors corp. gm and ford motor co. f are in focus ahead of their release of june s auto tallies <PUNC>
-both companies have been struggling with weak sales at a time when toyota motor corp. tm has roared forward <PUNC>
-among dow components <COMMA> caterpillar inc. cat last was <NUM> percent lower at dollar <NUM> <COMMA> after the company was downgraded to reduce from neutral at ubs <COMMA> which also cut the company s price target to dollar <NUM> from dollar <NUM> <PUNC>
-merck & co. mrk rose <NUM> cents to dollar <NUM> <PUNC>
-the wall street journal reported in its online edition that merck s attempts to defend its vioxx heart drug may be hurt by results from an unpublished study that suggest that increased heart risks associated with the painkiller began immediately after patients started taking the drug <PUNC>
-<PAR>

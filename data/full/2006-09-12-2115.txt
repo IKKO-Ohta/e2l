@@ -1,8 +1,0 @@
-u.s. stocks rallied tuesday <COMMA> pushing the dow jones industrial average to its highest close since mid-may <COMMA> aided by a sharp fall in crude-oil prices <COMMA> a drop in bond yields and strong earnings from goldman sachs <PUNC>
-the dow industrials dji rose <NUM> points to <NUM> <COMMA> its best finish in four months <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
-shares of hewlett-packard hpq gained <NUM> percent to close at dollar <NUM> after chairman patricia dunn said she would step down from her post in january <NUM> <PUNC>
-chief executive mark hurd will replace her as chairman of the blue-chip technology bellwether at that date <PUNC>
-mcdonald s corp. mcd saw its shares soar to their best levels since may <NUM> after the fast-food giant said august same-store sales rose <NUM> percent <COMMA> buoyed by strength in europe and the introduction of its new snack wrap <PUNC>
-the stock rose <NUM> percent to dollar <NUM> <PUNC>
-<PAR>

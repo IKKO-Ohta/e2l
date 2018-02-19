@@ -1,5 +1,0 @@
-the dow jones industrial average dji ended down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> led by roughly <NUM> percent drops in bank of america corp. bac and j.p. morgan chase jpm shares <PUNC>
-among the dow s <NUM> components <COMMA> only pfizer inc. pfe ended higher <COMMA> up <NUM> percent <PUNC>
-it was the second day of more-than <NUM> percent losses for the s&p <NUM> and dow <PUNC>
-the fierce two-day drop sent the s&p <NUM> and nasdaq back into negative territory for <NUM> <COMMA> while the dow clung to a <NUM> percent year-to-date gain <PUNC>
-<PAR>

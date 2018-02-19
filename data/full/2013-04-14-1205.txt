@@ -1,6 +1,0 @@
-just this past week <COMMA> the dow jones industrial average dji hit three record closes <COMMA> and the s&p <NUM> index spx notched two record finishes <COMMA> in addition to taking out a sticky intraday high set in <NUM> <PUNC>
-the next test for stocks comes from corporate profits <PUNC>
-earnings season is in full swing in the coming week with one-third of the dow industrials reporting <PUNC>
-dow components coca-cola co. ko <COMMA> intel corp. intc <COMMA> and johnson & johnson inc. jnj report on tuesday <PUNC> american express co. axp and bank of america corp. bac release results on wednesday <PUNC> followed by international business machines corp. ibm <COMMA> microsoft corp. msft <COMMA> and unitedhealth group inc. unh on thursday <PUNC> with general electric co. ge and mcdonalds corp. mcd reporting on friday <PUNC>
-other prominent companies reporting in the coming week include citigroup inc. c <COMMA> goldman sachs group inc. gs <COMMA> yahoo inc. yhoo <COMMA> google inc. goog <COMMA> morgan stanley ms <COMMA> and verizon communications inc. vz <PUNC>
-<PAR>

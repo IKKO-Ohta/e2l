@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> point to <NUM> <PUNC>
-merck & co. mrk tacked on <NUM> cents to dollar <NUM> <PUNC>
-the company agreed to license technology to make anti-hypertension drugs from french biotech nicox <COMMA> in return for up to dollar <NUM> million in milestone payments as well as other payments <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji slid <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <COMMA> with banc of america bac among the index s decliners <COMMA> its stock falling <NUM> percent <PUNC>
-blue-chip gains were led by microsoft msft <COMMA> its stock up <NUM> percent in the wake of its weekend decision to pull the plug on its takeover attempt of internet portal yahoo yhoo <PUNC>
-off the dow <COMMA> shares of yahoo were down <NUM> percent <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji climbed to an early high of <NUM> <PUNC>
-quarterly results from caterpillar inc. cat <COMMA> however <COMMA> served as a reminder to investors that the third-quarter earnings season has been somewhat of a mixed bag so far <PUNC>
-<PAR>

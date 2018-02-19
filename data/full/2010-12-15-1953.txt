@@ -1,3 +1,0 @@
-scaling back limited gains <COMMA> the dow jones industrial average dji was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <COMMA> led by general electric co. ge <COMMA> its shares falling <NUM> percent <PUNC>
-on tuesday <COMMA> the dow industrials closed at their highest level of the year <COMMA> with 10-year treasury note yields ust10y <COMMA> used in determining consumer loans <COMMA> surging to seven-month highs <PUNC>
-<PAR>

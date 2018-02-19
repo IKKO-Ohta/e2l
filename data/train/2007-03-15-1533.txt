@@ -1,8 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-among blue-chips alcoa inc. aa was up <NUM> percent after reports that an aluminum smelter it jointly operates with the government of ghana will shut down indefinitely on friday amid power shortages <PUNC>
-aluminum prices received a boost on the prospect of supply shortages <PUNC>
-and wal-mart stores inc. wmt rose <NUM> percent <PUNC>
-its planned foray into banking emerged as the wall street journal and the new york times both published details about the company s leases <COMMA> which allow the retailer to offer mortgages <COMMA> debit cards <COMMA> investment and insurance products <PUNC>
-the dow industrials dropped as much as <NUM> points in early trading on wednesday <COMMA> but buyers came back in and sent the blue-chip index up <NUM> points <PUNC>
-the s&p <NUM> climbed <NUM> points and the nasdaq composite climbed <NUM> points <PUNC>
-<PAR>

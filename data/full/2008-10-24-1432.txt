@@ -1,6 +1,0 @@
-after dropping <NUM> points <COMMA> the dow jones industrial average dji trimmed its decline <COMMA> recently off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-oil giant chevron corp. cvx fell the most among the blue chips <COMMA> off <NUM> percent <COMMA> while wal-mart stores inc. wmt fell the least <PUNC>
-thursday s session for u.s. stocks was erratic but generally positive <COMMA> with the dow jones industrial average closing <NUM> points higher and the s&p <NUM> rising <NUM> points <COMMA> though the nasdaq composite slipped <NUM> points <PUNC>
-but that didn t feed through to asia <COMMA> where the nikkei <NUM> tumbled <NUM> percent in tokyo <COMMA> as japanese traders got their first chance to react to sony s sne profit warning <COMMA> and the kospi equities benchmark plunged <NUM> percent in south korea <PUNC>
-european stocks also were crushed <COMMA> with the dow jones stoxx <NUM> losing <NUM> percent <PUNC>
-<PAR>

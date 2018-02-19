@@ -1,9 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving it a <NUM> percent gain on the week <PUNC>
-blue chips were supported by a smaller-than-expected loss at american express co. axp <COMMA> shares of which gained nearly <NUM> percent <PUNC>
-software giant microsoft corp. msft disappointed the market with revenue for the previous quarter and its outlook for the next falling short of wall street s expectations <PUNC>
-two weeks ago <COMMA> the market was shocked by general electric co. ge <COMMA> with a surprise loss at the stalwart conglomerate fueling fear that global growth wouldn t be enough to overcome the impact of the credit crisis and of a u.s. recession on profits <PUNC>
-but since then <COMMA> industrial firms such as honeywell inc. hon <COMMA> caterpillar inc. cat and 3m co. mmm <COMMA> along with the likes of fast-food giant mcdonald s corp. mcd and coca-cola co. ko have all cited international sales as helping to shore up overall profits <PUNC>
-the industrial sector of the s&p is now on track to post earnings growth of <NUM> percent for the first quarter <COMMA> while the technology sector is expected to gain <NUM> percent <COMMA> thanks to the likes of international business machines corp. ibm <PUNC>
-energy <COMMA> which is expected to be the best-performing sector of the s&p <COMMA> will be in focus next week with dow components exxon mobil corp. xom due to report on thursday and chevron corp. s cvx results due out friday <PUNC>
-three other blue chips are due to report next week <COMMA> starting with telecom giant verizon communications inc. vz and general motors corp. gm <COMMA> with procter & gamble co. pg on wednesday <PUNC>
-<PAR>

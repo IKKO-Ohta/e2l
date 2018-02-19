@@ -1,4 +1,0 @@
-energy fronted gains among the s&p <NUM> s <NUM> industry groups <COMMA> with industrials and information technology shares leading the losses <PUNC>
-the s&p <NUM> was lately down <NUM> points at <NUM> <PUNC>
-the nasdaq composite rixf declined <NUM> points to <NUM> <COMMA> while the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-<PAR>

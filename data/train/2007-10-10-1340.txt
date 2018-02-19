@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-on tuesday <COMMA> wall street rallied <COMMA> taking the dow and s&p to fresh closing highs after minutes from the federal reserve s september meeting furthered thoughts that the central bank would cut interest rates again at a two-day federal open markets committee gathering at the end of the month <PUNC>
-alcoa aa also reported third-quarter results after tuesday s close <COMMA> with the company s earnings falling a penny short of expectations at <NUM> cents a share <PUNC>
-<PAR>

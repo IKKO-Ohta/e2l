@@ -1,8 +1,0 @@
-new york marketwatch - u.s. stocks traded mixed wednesday afternoon <COMMA> with strength in the technology sector lending some support to the nasdaq <COMMA> but a profit warning from dupont weighed on the dow jones industrial average <PUNC>
-the dow industrials dji were last down <NUM> points at <NUM> <PUNC>
-shares of dupont dd fell as much as <NUM> percent to a session low of dollar <NUM> after the chemicals manufacturer became the second dow component after alcoa inc. aa to disappoint investors on earnings <PUNC>
-the company warned that its fourth-quarter will not meet analysts expectations due to hurricane-linked disruptions <PUNC>
-hewlett-packard <COMMA> hpq also in the dow <COMMA> was <NUM> cents higher at dollar <NUM> <PUNC>
-the company got an upgrade from prudential equity <COMMA> which noted positive cost savings <PUNC>
-johnson & johnson jnj was in focus after the new york times said the drug giant is considering a new bid for medical devices maker guidant corp. gdt <PUNC>
-<PAR>

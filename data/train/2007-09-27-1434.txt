@@ -1,3 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> after rising to <NUM> earlier on <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were trading higher <PUNC>
-<PAR>

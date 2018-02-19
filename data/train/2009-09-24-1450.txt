@@ -1,4 +1,0 @@
-the dow jones industrial average dji slipped <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx dropped <NUM> points to <NUM> <PUNC>
-the nasdaq composite rixf declined <NUM> points to <NUM> <PUNC>
-<PAR>

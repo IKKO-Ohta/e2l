@@ -1,6 +1,0 @@
-the sector s heaviest hitter <COMMA> wal-mart stores inc. wmt <COMMA> in march hiked its yearly dividend by <NUM> percent to dollar <NUM> per share <PUNC>
-<PAR>
-on wall street late tuesday <COMMA> material issues led gainers <COMMA> and health-care shares paced declines <COMMA> as the major u.s. stock indexes wavered near flat after hitting new intraday highs for the year a day before <PUNC>
-the dow jones industrial average dji stood at <NUM> <COMMA> off <NUM> points <PUNC>
-the s&p <NUM> index spx declined <NUM> points to <NUM> <COMMA> and the nasdaq composite index rixf added <NUM> points to <NUM> <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji <COMMA> which entered wednesday s trading on a two-day losing streak <COMMA> posted a small gain just after the open but recently retreated to trade <NUM> points lower at <NUM> <COMMA> led by a <NUM> percent decline in chevron cvx <PUNC>
-its growth-sensitive industrial names were mixed <COMMA> with caterpillar cat off <NUM> percent <COMMA> while united technologies utx was flat <PUNC>
-boeing ba climbed <NUM> percent <PUNC>
-<PAR>

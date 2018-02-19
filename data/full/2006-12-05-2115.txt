@@ -1,9 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points at <NUM> <PUNC>
-coca cola co. ko was the biggest gainer among blue chips <COMMA> rising <NUM> percent to dollar <NUM> after merrill lynch raised its price target on the stock to dollar <NUM> from dollar <NUM> <PUNC>
-the move earlier sent coke shares to a <NUM> 1/2-year high of dollar <NUM> <PUNC>
-general motors corp. gm <COMMA> another blue chip <COMMA> turned around to gain <NUM> % <COMMA> lifting the dow industrials after news that competitor ford motor co. f plans to take on another dollar <NUM> billion in debt <PUNC>
-on monday <COMMA> stocks shrugged off pfizer inc. s pfe decision to halt development of a once-promising cholesterol drug <COMMA> as a flurry of merger activity sent major indexes higher <PUNC>
-american express co. axp <COMMA> a dow component <COMMA> dropped <NUM> cents to dollar <NUM> after a.g. edwards downgraded the stock to hold from buy <COMMA> citing valuation concerns <PUNC>
-microsoft corp. msft <COMMA> another member of the dow <COMMA> dropped <NUM> percent <PUNC>
-the company s chief financial officer <COMMA> christopher liddell <COMMA> said that the company remains on track to achieve revenue growth of <NUM> percent to <NUM> percent in <NUM> <PUNC>
-<PAR>

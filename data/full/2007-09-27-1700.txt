@@ -1,3 +1,0 @@
-in afternoon trade <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> after rising as high as <NUM> earlier <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were trading higher <COMMA> with alcoa inc. aa leading the advance with a <NUM> percent gain <PUNC>
-<PAR>

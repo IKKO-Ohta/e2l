@@ -1,6 +1,0 @@
-the dow jones industrial average dji last was down <NUM> points at <NUM> <PUNC>
-general motors gm <COMMA> a dow component <COMMA> was <NUM> cents lower at dollar <NUM> <PUNC>
-the struggling auto maker s chief executive rick wagoner late thursday said the company will slow the production pace of its new lineup of full-size sport utility vehicles during the second half of the year in an effort to cope with rising inventory <PUNC>
-citigroup inc. c fell <NUM> cents to dollar <NUM> <PUNC>
-the banking giant s retail-brokerage unit was fined dollar <NUM> million for its supposed role in a plot to improperly waive mutual-fund sales charges <PUNC>
-<PAR>

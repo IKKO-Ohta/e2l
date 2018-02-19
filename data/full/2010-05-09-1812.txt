@@ -1,7 +1,0 @@
-topping off its worst first five days of may ever <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it with a weekly loss of <NUM> percent <PUNC>
-and there are unanswered questions about what happened yesterday <COMMA> said frederick of thursday s plunge <COMMA> a thrashing that eroded trust in trading mechanisms and had regulators looking into the drop that had the dow dropping nearly <NUM> points before scaling back to a more comprehensible decline of <NUM> points <PUNC>
-the <NUM> percent rout proved the dow s worst point decline since feb. <NUM> <COMMA> <NUM> <COMMA> and largest percentage fall since april <NUM> <COMMA> <NUM> <PUNC>
-with the peak weeks of the first-quarter earnings season over <COMMA> the week ahead still brings results from companies including <NUM> from the s&p <NUM> and two components on the dow <PUNC>
-dow component walt disney co. dis is expected to report results on tuesday <COMMA> along with electronic arts inc. erts <PUNC>
-retailer macy s inc. m and technology giant cisco systems inc. csco will offer results in the middle of the week <COMMA> while jp penney company inc. jcp is expected to report on friday <PUNC>
-<PAR>

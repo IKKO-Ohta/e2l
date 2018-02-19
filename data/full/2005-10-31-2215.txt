@@ -1,6 +1,0 @@
-there were monthly declines of <NUM> percent for the dow jones industrial average dji <COMMA> <NUM> percent for the nasdaq composite index rixf and of <NUM> percent for the s&p <NUM> index spx <PUNC>
-the dow industrials rose <NUM> points to <NUM> <COMMA> after earlier rallying more than <NUM> clicks higher <PUNC>
-among dow components <COMMA> general motors corp. gm closed up <NUM> cents at dollar <NUM> <COMMA> after rising as much as <NUM> percent higher on the news that it kept its dividend rate unchanged <COMMA> while caterpillar inc. cat rallied almost <NUM> percent <COMMA> rising dollar <NUM> to dollar <NUM> <COMMA> after unveiling bullish growth goals to analysts <PUNC>
-wal-mart stores inc. wmt <COMMA> also in the dow <COMMA> rallied almost <NUM> percent <COMMA> closing up dollar <NUM> at dollar <NUM> <PUNC>
-over the weekend the megaretailer said it s october same-store sales outstripped internal forecasts <PUNC>
-<PAR>

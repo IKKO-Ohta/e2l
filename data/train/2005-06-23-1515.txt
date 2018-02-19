@@ -1,6 +1,0 @@
-new york dow jones - u.s. stocks traded lower thursday as oil reversed a two-day fall to move higher <COMMA> with the dow jones industrial average under pressure on a pullback in shares of merck <PUNC>
-the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
-within the dow <COMMA> merck shares mrk fell <NUM> percent on a associated press report the drug company s scientists had already been looking to reformulate its controversial vioxx drug in <NUM> in order to reduce its now well-publicized cardiovascular risks <PUNC>
-moving to the upside <COMMA> microsoft msft was up <NUM> percent and intel intc gained <NUM> percent amid broad strength in semiconductor and software stocks <PUNC>
-general electric co s stock ge slipped <NUM> percent as the industrial conglomerate announced it would re-organize from <NUM> businesses into six in a move that would lead to dollar <NUM> million to dollar <NUM> million in cost savings <PUNC>
-<PAR>

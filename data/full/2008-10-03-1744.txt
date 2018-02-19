@@ -1,5 +1,0 @@
-hitting session highs as house members began to vote <COMMA> the dow jones industrial average dji rose more than <NUM> points only to scale back as the measure passed <PUNC>
-the dow was up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components chalking up gains <PUNC>
-bank of america corp. bac was among the advancers <COMMA> up <NUM> percent <PUNC>
-citigroup inc. c fell the most among the blue chips <COMMA> losing <NUM> percent after the surprising announcement that wells fargo & co. wfc would buy wachovia wb <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-u.s. stocks rallied on friday <COMMA> reclaiming weekly gains and pushing the dow jones industrials average to a nearly three-month high <COMMA> as investors anticipated central-bank moves in europe as well as by the u.s. federal reserve <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-it hasn t touched <NUM> intraday since may <NUM> <PUNC>
-merck & co. inc. mrk led the gains that included all but three of its <NUM> components <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji was off <NUM> points to <NUM> after several attempts at modest gains <PUNC>
-procter & gamble inc. pg advanced <NUM> percent after the consumer products giant said late thursday that a.g. lafley would return as chief executive <COMMA> replacing the embattled bob mcdonald <COMMA> whose tenure had been criticized by an activist investor <PUNC>
-at its lows of the day <COMMA> the dow was down <NUM> points <PUNC>
-the indexes opened with moderate losses <COMMA> with the dow off about <NUM> points <COMMA> then slumped further around midmorning before coming back to trade at their session highs <PUNC>
-for the week <COMMA> the dow <COMMA> s&p <NUM> and nasdaq are all on pace to snap four-week winning streaks <PUNC>
-each index reached an all-time or multiyear high during this past week <COMMA> but then turned tail <COMMA> as comments from federal reserve chairman ben bernanke signaled the fed could start reducing its bond-buying program in the next few meetings <PUNC>
-read <PUNC> bernanke dares you to buy stocks <PUNC>
-<PAR>

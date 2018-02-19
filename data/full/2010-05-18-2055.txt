@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components declining <PUNC>
-earlier it had gained more than <NUM> points <PUNC>
-wal-mart stores inc. wmt were the only gainer on the dow average <PUNC>
-shares rose <NUM> percent after the world s largest retailer said profit climbed a better-than-expected <NUM> percent in the first quarter <PUNC>
-<PAR>

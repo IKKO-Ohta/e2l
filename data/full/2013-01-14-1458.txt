@@ -1,3 +1,0 @@
-the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-hewlett-packard hpq rose <NUM> percent after j.p. morgan chase & co. upgraded the personal-computer maker to neutral from underweight <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-on friday <COMMA> financials led the declines <COMMA> with gains in technology helping offset the damage <PUNC>
-the s&p <NUM> spx dropped <NUM> points to <NUM> <COMMA> while the dow jones industrial average dji was recently off <NUM> points to <NUM> <PUNC>
-the technology laden nasdaq composite rixf gained <NUM> point to <NUM> <PUNC>
-<PAR>

@@ -1,9 +1,0 @@
-u.s. stocks remained higher thursday afternoon <COMMA> as the dow jones industrial average outperformed the other major averages on a ruling favorable to altria group while investors eagerly awaited friday s monthly unemployment report <PUNC>
-the dow jones industrials dji were up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx up <NUM> points at <NUM> and the nasdaq composite rixf up <NUM> points at <NUM> <PUNC>
-the dow jones industrials got some help from a favorable ruling for tobacco companies <PUNC>
-which boosted dow component altria group <PUNC>
-the florida supreme court threw out a dollar <NUM> billion damages award against the company and decertified a class-action case <PUNC>
-altria mo rose <NUM> percent to dollar <NUM> <PUNC>
-other defendants in the case included various units of reynolds american inc. rai <COMMA> which was <NUM> percent higher at dollar <NUM> <PUNC>
-shares of retail giant and dow component wal-mart stores inc. wmt gave up premarket gains to trade <NUM> cents lower at dollar <NUM> <PUNC>
-<PAR>

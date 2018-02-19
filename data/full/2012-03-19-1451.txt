@@ -1,4 +1,0 @@
-the dow jones industrial average dji slid <NUM> <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> shaving about half its losses after the national association of home builders and wells fargo said their builders sentiment index held at <NUM> in march <COMMA> at a near five-year high <PUNC>
-tech shares <COMMA> led by hewlett-packard co. hpq <COMMA> the most among the blue-chip index s <NUM> components <PUNC>
-bank of america corp. bac led the dow s percentage gainers <PUNC>
-<PAR>

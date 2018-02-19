@@ -1,9 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components advanced <PUNC>
-it earlier hit another record intraday high of <NUM> <PUNC>
-leading the dow <COMMA> caterpillar inc. cat gained <NUM> percent after morgan stanley upgraded the stock to equal weight from underweight <COMMA> citing solid first-quarter results <PUNC>
-pfizer inc. pfe weighed the most on the blue-chip average <COMMA> losing <NUM> percent after prudential downgraded the stock to neutral from overweight <COMMA> citing a lack of catalysts to drive the stock price any higher <PUNC>
-the dow s impressive run - it powered ahead <NUM> percent last week for its third straight week of gains - could continue with more blue-chips due to report earnings later this week <PUNC>
-blue chip earnings and weakness in the dollar gave the large cap <COMMA> multinationals the boost that sent the dow rocketing on friday <COMMA> said marc pado <COMMA> market strategist at cantor fitzgerald <PUNC>
-crude oil futures rose <NUM> cents to dollar <NUM> amid tensions in nigeria <PUNC>
-the gains helped lift shares of oil companies <COMMA> including exxon mobil corp. xom <COMMA> which gained <NUM> percent even after deutsche bank downgraded the stock to hold from buy <COMMA> citing valuation <PUNC>
-<PAR>

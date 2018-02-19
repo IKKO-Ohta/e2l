@@ -1,6 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
-cisco systems inc. csco and hewlett-packard co. hpq led blue-chip declines <COMMA> dropping <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-cisco fell after fbr capital markets downgraded the networking-equipment maker to underperform from market perform <PUNC>
-after jumping <NUM> points to an intraday high <COMMA> the dow industrials finished wednesday at <NUM> <COMMA> a rise of <NUM> points <COMMA> or <NUM> percent <COMMA> but short of a new closing record <PUNC>
-the standard & poor s <NUM> index finished wednesday within <NUM> points of its all-time closing high of october <NUM> <PUNC>
-<PAR>

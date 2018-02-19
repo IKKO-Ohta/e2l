@@ -1,5 +1,0 @@
-the dow jones industrial average dji made triple-digit moves in three of the last five trading sessions <COMMA> tacking on <NUM> points by tuesday s close <PUNC>
-the blue-chip average then gave back the entire advance <COMMA> and then some <COMMA> ending <NUM> percent lower for the week <PUNC>
-along the way <COMMA> the measure staged a late <COMMA> sharp reversal friday that brought the dow from a 167-point loss to a 10-point gain by the finish <COMMA> and a return above the key <NUM> level <PUNC>
-plus <COMMA> two dow industrials components and <NUM> s&p <NUM> companies <COMMA> including coca-cola co ko <COMMA> walt disney & co. dis <COMMA> viacom via and sprint nextel corp. us-s <COMMA> will report results <PUNC>
-<PAR>

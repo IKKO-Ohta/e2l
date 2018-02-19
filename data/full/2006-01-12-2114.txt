@@ -1,9 +1,0 @@
-the dow industrials dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> spx was <NUM> points lower at <NUM> and the nasdaq composite rixf down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-jim awad of awad asset management said rising energy prices are also creating a new test for the dow in holding above the <NUM> level <PUNC>
-the biggest gainer on the dow was caterpillar cat <COMMA> which rose <NUM> percent to dollar <NUM> <PUNC>
-credit suisse first boston said the company s fourth-quarter earnings should exceed expectations <COMMA> due to strong european sales <PUNC>
-shares of fellow dow component coca-cola co. ko ended down <NUM> percent after goldman sachs reduced its rating on the soft drink maker to in-line from outperform <COMMA> urging investors not to put fresh money into the stock <PUNC>
-j.p. morgan chase jpm fell <NUM> percent to dollar <NUM> <PUNC>
-the bank was cut to market perform at piper jaffray <COMMA> which thinks that synergy benefits from the bank one merger are fully priced into the stock <PUNC>
-<PAR>

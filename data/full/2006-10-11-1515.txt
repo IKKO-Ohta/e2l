@@ -1,4 +1,0 @@
-u.s. stocks fell wednesday on concern over the outlook for corporate profits as alcoa inc shares tumbled to an 11-month low after the dow industrials component s earnings came up short <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> weighed by a more than <NUM> percent slump for shares of alcoa inc. aa <PUNC>
-shares of alcoa inc. aa fell as much as <NUM> percent to an 11-month low of dollar <NUM> after the aluminum giant posted late tuesday third-quarter profit and sales that fell short of analyst expectations because of a steep drop in metals prices <COMMA> and rising costs <PUNC>
-<PAR>

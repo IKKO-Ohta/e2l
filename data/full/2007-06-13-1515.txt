@@ -1,7 +1,0 @@
-u.s. stocks rallied wednesday <COMMA> bouncing back from a slide in the previous session and sending the dow jones industrial average up <NUM> points <COMMA> as bond yields backed off from 5-year highs while strong may retail sales lifted hopes about the shape of the u.s. economy <PUNC>
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> after gaining <NUM> points to a high of <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> advanced led by alcoa inc. aa <COMMA> boeing co. ba <COMMA> citigroup inc. c dupont dd <COMMA> coca cola co. ko <COMMA> general motors corp. gm and intel corp. intc <PUNC>
-shares of walt disney co. dis rose <NUM> percent after the company said it completed the sale of its abc radio unit to citadel cdl for dollar <NUM> billion <PUNC>
-stocks sold off on tuesday <COMMA> with the dow jones industrials taking a triple-digit decline <COMMA> as the benchmark yield hovered near the <NUM> percent level of the fed funds rate <PUNC>
-higher rates drive up borrowing costs for individuals and companies <COMMA> threatening an economy that already slowed significantly in the first quarter <PUNC>
-<PAR>

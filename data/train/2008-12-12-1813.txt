@@ -1,4 +1,0 @@
-down about <NUM> points at the start <COMMA> the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting afternoon gains <PUNC>
-with an imminent industry failure less of a concern <COMMA> general motors corp. gm erased its earlier slide <COMMA> gaining <NUM> percent <PUNC>
-also weighing on the blue-chip benchmark <COMMA> bank of america corp. bac fell <NUM> percent in the wake of its downgrade by standard & poor s equity research <COMMA> which followed word the bank would cut as many as <NUM> jobs during the next three years <PUNC>
-<PAR>

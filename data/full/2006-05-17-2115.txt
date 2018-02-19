@@ -1,8 +1,0 @@
-u.s. stocks ended sharply lower wednesday <COMMA> with the dow jones industrial average logging its biggest one-day point drop in more than three years <COMMA> after the latest inflation report raised the odds of further interest-rate rises <PUNC>
-the dow industrials dji fell <NUM> points at <NUM> <COMMA> its worst one-day performance since march <NUM> <COMMA> <NUM> <COMMA> when the blue-chip index fell more than <NUM> points <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to losses. <PUNC>
-since the federal reserve last raised interest rates on may <NUM> <COMMA> the dow has pulled back <NUM> percent and the nasdaq has fallen <NUM> percent <COMMA> while the s&p has shed <NUM> percent <PUNC>
-hewlett-packard co. hpq was the only dow component posting gains <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
-the company reported a <NUM> percent rise in its second-quarter profit as the technology giant saw strong sales at its personal-computer and printing and imaging divisions <PUNC>
-the company s earnings also beat wall street expectations <PUNC>
-<PAR>

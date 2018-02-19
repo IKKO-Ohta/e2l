@@ -1,6 +1,0 @@
-the dow jones industrial average climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-bank of america bac led the measure s gains <COMMA> up <NUM> percent <COMMA> while j.p. morgan chase jpm rose <NUM> percent <PUNC>
-among the dow s other top performers <COMMA> alcoa aa rose <NUM> percent <COMMA> general electric ge added <NUM> percent and boeing ba rose <NUM> percent <PUNC>
-at&t t was among the dow s few decliners with a slip of <NUM> percent <PUNC>
-the company plans to allow its customers to move nearly any cellphone but not the apple aapl iphone to another carrier as part of a settlement of a class-action lawsuit <PUNC>
-<PAR>

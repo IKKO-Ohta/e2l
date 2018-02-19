@@ -1,6 +1,0 @@
-the dow jones industrial average dji closed <NUM> points higher at <NUM> <COMMA> with <NUM> of its <NUM> posting gains <PUNC>
-dow component hewlett-packard co. hpq gained <NUM> percent after bank of america started coverage of the firm with a buy rating <PUNC>
-bofa also initiated coverage of dow stock ibm ibm <COMMA> but offered a neutral rating <COMMA> citing ibm s valuation <PUNC>
-ibm was up <NUM> percent <PUNC>
-walt disney & co. dis was up nearly <NUM> percent it reported a <NUM> percent profit rise and agreed to buy club penguin for dollar <NUM> million <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji came in and out of positive territory <COMMA> and was last up <NUM> points at <NUM> <COMMA> lifted by gains in shares of at&t inc. t <COMMA> 3m co. mmm and verizon communications vz <PUNC>
-also lifting the dow <COMMA> procter & gamble pg rose <NUM> percent after bear stearns upgraded the stock to outperform <COMMA> citing valuation <PUNC>
-and exxon mobil corp xom rose <NUM> percent as crude oil prices surged <NUM> percent to above dollar <NUM> a barrel <PUNC>
-but financial stocks on the dow - american express co. axp <COMMA> citigroup inc c and jp morgan chase & co. jpm - gave up some of their strong gains from the previous session <PUNC>
-yet <COMMA> even amid the market s rollercoaster action since the dow plunged <NUM> points in late february <COMMA> we never got to the fear factor <COMMA> nolte said <PUNC>
-that tells me we have more work to do on the downside <COMMA> and that will be determined by the housing sector and the subprime issues <PUNC>

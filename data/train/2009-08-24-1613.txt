@@ -1,3 +1,0 @@
-nearing mid-day <COMMA> energy <COMMA> financials and materials paced sector gains as the dow jones industrial average dji stood at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-the s&p <NUM> index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-on friday <COMMA> the s&p <NUM> spx finished the week up <NUM> percent at <NUM> for an all-time high close and its longest winning streak since late november <PUNC>
-the dow jones industrial average dji finished the week up <NUM> percent and the nasdaq composite index rixf rose <NUM> percent <PUNC>
-retail sector stocks are not as attractive seeing the sector has been sending mixed messages with players like wal-mart stores inc. wmt cutting its outlook while companies like tiffany & co. tif raising theirs <PUNC>
-that would suggest the average consumer <COMMA> who drives the bulk of the economy <COMMA> is strapped <PUNC>
-another area to keep an eye on is how homebuilders and retailers like home depot inc. hd and lowe s cos. low are performing <COMMA> seeing that job and wage growth lead more people to buy homes or fix them up <COMMA> kinahan said <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-bush s final week as president left the dow jones wilshire <NUM> index as of friday s close down <NUM> percent on an annualized basis during his second term <PUNC>
-in combination with the <NUM> percent gain eked out during his first four years <COMMA> bush leaves office with the stock market down <NUM> percent <COMMA> annualized <COMMA> over eight years <PUNC>
-the market s downward trend persisted tuesday <COMMA> with the dow jones industrial average dji falling <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> its first close below the <NUM> mark since nov. <NUM> <PUNC>
-financials were the heaviest weights on the blue-chip index <PUNC>
-shares of bank of america corp. bac dropped <NUM> percent <COMMA> while citigroup inc. c plummeted <NUM> percent <PUNC>
-<PAR>

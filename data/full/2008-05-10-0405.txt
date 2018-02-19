@@ -1,8 +1,0 @@
-highlighting the woes of a weak u.s. economy and surging prices <COMMA> retailers reported april sales over the past week <COMMA> with mostly discounters such as wal-mart stores inc. wmt and costco wholesale corp. cost coming out ahead as shoppers loaded up on necessities <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> on friday <COMMA> hit by resurging woes from the financial sector <COMMA> as american international group inc. aig posted a staggering loss <PUNC>
-for the week <COMMA> the dow lost more than <NUM> points <COMMA> or <NUM> percent <PUNC>
-<PAR>
-this season was a tale of two earnings <PUNC> which came from overseas and which came from the financial sector and the u.s. <COMMA> hinsdale s nolte said <PUNC>
-banks and ge ge got whacked <COMMA> but the likes of caterpillar cat <COMMA> deere de and intel intc did fine and said that international is doing real well <PUNC>
-hewlett-packard co. hpq will be the highlight thursday after the market close <PUNC>
-<PAR>

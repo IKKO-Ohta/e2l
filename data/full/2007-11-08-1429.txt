@@ -1,4 +1,0 @@
-futures for the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-shares of american international group inc. aig fell to lows not seen for more than a year after the insurance giant late wednesday reported a <NUM> percent drop in third-quarter net income <COMMA> with the subprime mortgage crisis pushing its results below expectations <PUNC>
-wal-mart stores inc. wmt reported same-store sales rose <NUM> percent in october <COMMA> less than the <NUM> percent hike anticipated by analysts <PUNC>
-<PAR>

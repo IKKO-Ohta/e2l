@@ -1,4 +1,0 @@
-markets have already been responding to the political posturing <PUNC>
-in the past week <COMMA> stocks posted their first weekly drop since august <COMMA> with the dow jones industrial average dji and the s&p <NUM> index spx closing down <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-the nasdaq composite index rixf managed to squeak by with a <NUM> percent gain <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-erasing an 80-point slide <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components gaining <COMMA> led by chip maker intel corp. intc and pharma giant pfizer inc. pfe <PUNC>
-<PAR>

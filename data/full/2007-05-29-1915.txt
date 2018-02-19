@@ -1,6 +1,0 @@
-the dow jones industrial average dji was down <NUM> points to <NUM> <COMMA> led lower by <NUM> of its <NUM> components <PUNC>
-gainers included the likes of ibm ibm <COMMA> microsoft corp. msft and verizon communications vz <PUNC>
-also among blue chips <COMMA> shares of alcoa inc. aa dropped <NUM> percent <PUNC>
-last week <COMMA> alcan inc. al turned down alcoa s dollar <NUM> billion hostile bid <PUNC>
-general motors corp. gm slumped <NUM> percent amid reports that bmw is interested in buying ford motor co s f volvo unit <PUNC>
-<PAR>

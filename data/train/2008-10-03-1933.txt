@@ -1,6 +1,0 @@
-the dow jones industrial average dji hit session highs as house members began to vote <COMMA> rising more than <NUM> points <COMMA> only to scale back as the measure passed <PUNC>
-the dow was recently up <NUM> points at <NUM> <COMMA> setting it up for a weekly loss of <NUM> percent <PUNC>
-nineteen of the dow s <NUM> components remained in positive turf <COMMA> with exxon mobil corp. xom up the most at <NUM> percent <PUNC>
-bank of america corp. bac reversed course <COMMA> shedding early gains to slide <NUM> percent <PUNC>
-citigroup inc. c fell the most among the blue chips <COMMA> losing <NUM> percent after the surprising announcement that wells fargo & co. wfc would buy wachovia wb <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the market has advanced every day so far this week <COMMA> giving about a <NUM> percent gain to the dow jones industrial average <COMMA> the s&p <NUM> index <COMMA> and the nasdaq composite index <PUNC>
-some technical analysts especially noted the strong action seen on wednesday <COMMA> as stocks rallied in the wake of intel corp. intc and its surprisingly good second-quarter earnings <PUNC>
-on wednesday <COMMA> the dow jumped <NUM> points <COMMA> or <NUM> percent <PUNC>
-but for lane <COMMA> that wasn t the most important aspect of the rally <PUNC>
-on friday <COMMA> the market was little changed for the most part <COMMA> with the dow industrials dji up <NUM> points at <NUM> <COMMA> while the s&p <NUM> spx dipped <NUM> points to <NUM> and the nasdaq rixf fell fractionally to <NUM> <PUNC>
-bellwethers such as ibm ibm and general electric ge have topped expectations thanks to cost-cutting measures not because of improving business conditions <COMMA> ritholtz said <COMMA> noting that revenue actually missed analyst expectations in the case of both companies <PUNC>
-<PAR>

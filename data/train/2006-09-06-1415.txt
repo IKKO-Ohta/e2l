@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-on tuesday stocks ended higher <COMMA> aided by strength in the technology sector <COMMA> with caterpillar inc. cat a notable gainer after the heavy equipment maker said it would be raising its prices in <NUM> <PUNC>
-intel corp. intc <COMMA> a dow component <COMMA> was off <NUM> percent at dollar <NUM> in early trading <PUNC>
-the chip giant said late tuesday it will cut <NUM> jobs <COMMA> or about <NUM> percent of its work force <COMMA> by the middle of <NUM> as it looks to slash costs and boost profits amid stiffer competition from smaller rival advanced micro devices inc. amd <PUNC>
-<PAR>

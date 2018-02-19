@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> lifted by shares of bank of america bac <COMMA> up <NUM> percent <COMMA> and jp morgan chase jpm <COMMA> up <NUM> percent <PUNC>
-shares of home depot inc. <COMMA> hd rose <NUM> percent after the home-improvement retailer hiked its earnings outlook for the second time in two months <PUNC>
-<PAR>

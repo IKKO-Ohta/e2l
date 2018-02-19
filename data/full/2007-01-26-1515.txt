@@ -1,7 +1,0 @@
-u.s. stocks opened higher friday <COMMA> after new data depicted an improving manufacturing sector and with the dow jones industrial average getting a boost from microsoft corp. s and caterpillar inc. s better-than-expected quarterly reports <PUNC>
-the dow dji was up <NUM> points at <NUM> <PUNC>
-among blue-chips <COMMA> microsoft msft shares rose <NUM> percent after the company late thursday said its quarterly sales rose a better-than-forecast <NUM> percent amid strong demand for its xbox <NUM> video game player <PUNC>
-likewise <COMMA> caterpillar cat shares gained <NUM> percent after its revenue topped expectations <PUNC>
-on the downside <COMMA> honeywell international inc. hon dropped <NUM> percent after its <NUM> outlook disappointed investors <PUNC>
-we did back off yesterday <COMMA> after the dow touched a new high earlier in the week <COMMA> said steve goldman <COMMA> chief market strategist at weeden & co. but i still think that <COMMA> even with all this choppiness the market will still finish the month higher <COMMA> he said <PUNC>
-<PAR>

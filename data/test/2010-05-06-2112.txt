@@ -1,5 +1,0 @@
-u.s. stocks ended with steep losses thursday after an afternoon meltdown had the dow falling nearly <NUM> points - its biggest intraday drop ever - before a comeback of sorts <COMMA> as europe s troubles took hold on wall street and amid talk errant trades exacerbated the swift selloff <PUNC>
-at the worst of the afternoon freefall <COMMA> the major stock indexes were all down <NUM> percent <COMMA> with the dow jones industrial average dji diving <NUM> points before halting its decline <COMMA> finishing at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
-the finish marked the dow s biggest point drop since feb. <NUM> <COMMA> <NUM> and largest percentage decline since april <NUM> <COMMA> <NUM> <COMMA> according to preliminary data from dow jones indexes <PUNC>
-as analysts sifted through the details of the day s yo-yo action <COMMA> a brief plunge in procter & gamble co. pg and other shares <COMMA> including s&p <NUM> index futures <COMMA> came into focus <PUNC>
-<PAR>

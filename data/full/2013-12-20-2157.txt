@@ -1,8 +1,0 @@
-u.s. stocks rallied friday <COMMA> lifting the dow jones industrial average and the s&p <NUM> to record levels <COMMA> after a government report showed the economy grew at its fastest pace in two years last quarter <PUNC>
-the dow jones industrial average dji closed at a record level for the third day in a row <PUNC>
-the dow rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and gained <NUM> percent over the week <PUNC>
-that was its best week since september <NUM> <PUNC>
-in terms of point gain <COMMA> it was the best since early january <PUNC>
-thursday saw a mixed trading session <COMMA> with the dow average closing at its 46th record of the year <COMMA> while the two other benchmarks inched lower <PUNC>
-earlier in the week <COMMA> the u.s. indexes soared as investors interpreted the federal reserve s decision to begin tapering bond purchases in january as confidence in the underlying strength of the economy <PUNC>
-<PAR>

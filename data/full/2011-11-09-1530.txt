@@ -1,2 +1,0 @@
-the dow jones industrial average dji skidded <NUM> points to <NUM> <COMMA> with all of its <NUM> components on the run <PUNC>
-<PAR>

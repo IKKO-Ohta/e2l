@@ -1,9 +1,0 @@
-in recent trades the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> the s&p <NUM> spx down <NUM> points at <NUM> <PUNC>
-the nasdaq composite rixf was down <NUM> points at <NUM> <PUNC>
-on thursday alcoa inc. aa will kick off the earnings season with its second-quarter report <PUNC>
-alcoa traditionally is the first dow component to release quarterly results <PUNC>
-shares of american international group aig were up <NUM> cents at dollar <NUM> <PUNC>
-tuesday the insurer named former securities and exchange commission chairman arthur levitt as a special adviser to its board <PUNC>
-general electric ge was down <NUM> cents at dollar <NUM> after news that its commercial finance division will acquire dollar <NUM> billion in aircraft assets from cit group <PUNC>
-intel intc was up <NUM> cents at dollar <NUM> after ubs raised its earnings estimates for the chips maker <PUNC>
-<PAR>

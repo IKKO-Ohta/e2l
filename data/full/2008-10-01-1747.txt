@@ -1,5 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> rebounding off an earlier low of <NUM> <PUNC>
-seventeen of the dow s <NUM> components traded lower <COMMA> led by the likes of alcoa inc. aa <COMMA> caterpillar inc. cat and ibm ibm <PUNC>
-shares of general electric co. ge fell <NUM> percent <COMMA> recoiling after deutsche bank cut its price target on the blue-chip stock <PUNC>
-dow component exxon mobil xom rose <NUM> percent <COMMA> bucking a mostly negative trend in energy shares as crude-oil prices slumped more than <NUM> percent <PUNC>
-<PAR>

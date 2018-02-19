@@ -1,3 +1,0 @@
-on monday <COMMA> the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> index spx was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> while the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

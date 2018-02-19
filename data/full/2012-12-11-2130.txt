@@ -1,4 +1,0 @@
-after surging as much as <NUM> points <COMMA> the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its highest closing level since oct. <NUM> <PUNC>
-the dow rose for a fifth consecutive trading session <COMMA> marking its longest win streak since mid-march <PUNC>
-chip manufacturer intel corp. intc was the top gainer in the dow <COMMA> rising <NUM> percent <PUNC>
-<PAR>

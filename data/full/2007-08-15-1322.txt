@@ -1,3 +1,0 @@
-futures for the dow jones industrial average dji were down <NUM> points at <NUM> <COMMA> while those for the s&p <NUM> spx fell <NUM> points to <NUM> <PUNC>
-stocks slid on tuesday <COMMA> with the dow falling more than <NUM> points <COMMA> amid further signs that trouble in the subprime mortgage market is prompting a tightening of credit <PUNC>
-<PAR>

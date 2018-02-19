@@ -1,3 +1,0 @@
-the dow jones industrial average dji rallied <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> marking its best day since sept. <NUM> <PUNC>
-blue-chip gains were led by home depot inc. hd <COMMA> up <NUM> percent <PUNC>
-<PAR>

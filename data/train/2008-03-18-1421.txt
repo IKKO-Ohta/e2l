@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points in early morning trade to <NUM> <COMMA> with all <NUM> of its components posting opening gains <PUNC>
-citigroup inc. c was up <NUM> percent at the start <COMMA> while j.p. morgan chase & co. jpm rose <NUM> percent <PUNC>
-another dow component <COMMA> exxon mobil corp. xom jumped <NUM> percent as crude-oil futures gained ground after monday s slide <PUNC>
-<PAR>

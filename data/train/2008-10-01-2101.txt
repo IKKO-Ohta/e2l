@@ -1,6 +1,0 @@
-on monday <COMMA> the house of representatives turned down the bill <COMMA> leading the dow industrials to slide <NUM> points <COMMA> its worst point drop ever <PUNC>
-but hopes that the package might still pass led stocks to rebound on tuesday <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> rebounding off an earlier low of <NUM> <PUNC>
-the blue-chip average was weighed down by a <NUM> percent drop in shares of alcoa inc. aa <COMMA> a <NUM> percent drop in shares of caterpillar inc. cat <COMMA> and <NUM> percent fall in international business machines corp. ibm <PUNC>
-general electric co. ge was off <NUM> percent <COMMA> off earlier lows <COMMA> after saying it will sell dollar <NUM> billion in common stock in a secondary offering and sell dollar <NUM> billion in preferred shares to warren buffett s berkshire hathaway inc <PUNC>
-<PAR>

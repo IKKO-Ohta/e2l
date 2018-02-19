@@ -1,7 +1,0 @@
-the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the blue-chip average is on track for strong weekly gains of over <NUM> percent <COMMA> its best performance in four weeks <PUNC>
-banking giant citigroup c posted a first-quarter loss of dollar <NUM> a share <COMMA> worse than the loss of <NUM> cents expected by analysts <COMMA> but revenue exceeded expectations <PUNC>
-the dow also received strong support from upbeat results at equipment-maker caterpillar inc. cat <COMMA> whose shares jumped <NUM> percent <PUNC>
-away from the dow <COMMA> honeywell inc. hon <COMMA> another industrial firm <COMMA> rose <NUM> percent <PUNC>
-last week <COMMA> the market was shocked by general electric co. s ge surprise loss <COMMA> which was largely due to the international conglomerate s financial businesses in the u.s <PUNC>
-<PAR>

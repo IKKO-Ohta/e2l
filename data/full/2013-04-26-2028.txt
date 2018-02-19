@@ -1,7 +1,0 @@
-however <COMMA> gains for hewlett-packard co. and chevron corp. helped the dow jones industrial average finish in positive territory <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> leaving it up <NUM> percent for the week <PUNC>
-hewlett-packard co. hpq rose <NUM> percent <COMMA> leading gainers in the 30-stock blue-chip index <PUNC>
-chevron corp. cvx was another gainer in the dow <COMMA> rising <NUM> percent <PUNC>
-the oil major said its first-quarter earnings fell to dollar <NUM> billion <COMMA> or dollar <NUM> per share <COMMA> from dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> in the same period a year ago <COMMA> but the results still exceeded analyst expectations <PUNC>
-alcoa inc. aa and united technologies corp. utx were the biggest decliners in the dow <COMMA> dropping <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-after climbing more than <NUM> points <COMMA> the dow industrials dji scaled back <COMMA> recently up <NUM> points at <NUM> <COMMA> with half of its <NUM> components on the rise <PUNC>
-the ascent in stocks comes one day after stocks rallied <COMMA> with the dow tallying the blue-chip benchmark s largest point jump since april <NUM> <COMMA> as sliding oil prices and banks upbeat results fueled optimism <PUNC>
-within the dow <COMMA> shares of j.p. morgan chase jpm climbed <NUM> percent <COMMA> citigroup inc. c added <NUM> percent <COMMA> and american international group inc. aig and american express co. axp both added about <NUM> percent <PUNC>
-coca-cola ko reported a <NUM> percent decline in quarterly profit <COMMA> and shares traded lower <PUNC>
-<PAR>

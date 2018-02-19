@@ -1,5 +1,0 @@
-federal reserve chairman ben bernanke s reiteration this week that monetary stimulus would continue helped support equities <COMMA> with the dow jones industrial average dji on thursday coming within <NUM> points of its all-time closing high hit on oct. <NUM> <COMMA> <NUM> <PUNC>
-on friday <COMMA> the dow ended <NUM> points from its record finish <COMMA> recovering from a 116-point drop following a report by the institute for supply management <COMMA> which said its manufacturing index accelerated in february <COMMA> rising to <NUM> percent from <NUM> percent the month before <PUNC>
-read more on ism <PUNC> <PUNC>
-up <NUM> percent for the week <COMMA> the dow industrials added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

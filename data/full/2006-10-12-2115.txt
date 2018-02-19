@@ -1,9 +1,0 @@
-u.s. stocks rallied thursday on stronger-than-expected earnings from mcdonald s corp. <COMMA> costco wholesale corp. and yum brands inc <COMMA> with a batch of new orders for boeing co. helping propel the dow jones industrial average to a new closing high <PUNC>
-the dow industrials dji closed up <NUM> points at a record <NUM> <PUNC>
-gains for mcdonald s mcd <COMMA> boeing co. ba <COMMA> intel corp. intc and microsoft corp. msft spurred the blue-chip advance <PUNC>
-the record high close for the dow left investors wondering what the market s next target might be <PUNC>
-a.g. edwards strategist mark keller said he is careful to mention that investors shouldn t overplay the significance of the dow nearing the <NUM> milestone <PUNC>
-instead <COMMA> he recommends paying attention to the overall portfolio and not the stock market indexes <PUNC>
-telecom stocks dj_6000 moved higher as at&t inc. t rose <NUM> percent after the justice department approved its acquisition of bellsouth corp. bls <COMMA> saying the merger is likely to benefit consumers <PUNC>
-boeing co. ba shares rose almost <NUM> percent to close at dollar <NUM> <COMMA> after the company said it s booked <NUM> new orders for its <NUM> dreamliner plane in the last week <COMMA> including <NUM> from an unidentified buyer <COMMA> according to updated figures on the aircraft maker s web site thursday <PUNC>
-<PAR>

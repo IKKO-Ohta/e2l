@@ -1,2 +1,0 @@
-after sliding more than <NUM> points early on <COMMA> touching its lowest level since late november <COMMA> the dow jones industrial average dji was more recently off <NUM> points at <NUM> <PUNC>
-<PAR>

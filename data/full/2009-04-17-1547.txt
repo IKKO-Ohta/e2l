@@ -1,4 +1,0 @@
-on friday <COMMA> stocks see-sawed between gains and losses <COMMA> with information technology fronting the declines and energy shares pacing the gains <PUNC>
-the dow jones industrial average dji was lately off <NUM> points at <NUM> <PUNC>
-the s&p <NUM> index spx shed <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf dipped <NUM> points to <NUM> <PUNC>
-<PAR>

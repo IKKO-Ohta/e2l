@@ -1,6 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> leaving it up <NUM> percent for the week <PUNC>
-the s&p <NUM> index spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> up <NUM> percent from the prior friday s close <PUNC>
-the nasdaq composite index rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it with a weekly rise of <NUM> percent <PUNC>
-wall street s end-of-the week retreat came one day after the stock market s strongest performance since late may <COMMA> with the dow rising <NUM> points in its third-biggest daily jump so far this year <PUNC>
-morgan stanley ms and jpmorgan chase & co. jpm are likely to be the lead underwriters in bailed-out auto manufacturer german motors initial public offering which could prove as large as dollar <NUM> billion <COMMA> according to the wall street journal <COMMA> citing people familiar with the matter <PUNC>
-<PAR>

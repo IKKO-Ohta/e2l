@@ -1,8 +1,0 @@
-down nearly <NUM> points after the open <COMMA> the dow jones industrial average dji recouped the bulk of its early losses <COMMA> and was down in late afternoon trade by about <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were trading lower <COMMA> with verizon communications vz down the most <COMMA> off <NUM> percent <PUNC>
-of the eight blue chips on the rise <COMMA> home depot inc. hd gained the most <COMMA> up <NUM> percent <PUNC>
-on the corporate front <COMMA> e.i <PUNC>
-du pont nemours & co. dd reported a <NUM> percent decline in fourth-quarter profit <COMMA> with shares of the dow component off <NUM> percent in afternoon action <PUNC>
-<PAR>
-johnson & johnson jnj fell <NUM> percent <COMMA> even after the drug manufacturer reported a <NUM> percent rise in fourth-quarter profit <PUNC>
-<PAR>

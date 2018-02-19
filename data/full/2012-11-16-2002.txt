@@ -1,4 +1,0 @@
-after rising <NUM> points and falling <NUM> <COMMA> the dow jones industrial average dji was lately neutral at <NUM> <PUNC>
-thank you <COMMA> congressional leadership <COMMA> for coming to your senses <PUNC>
-i guess more than a 1,000-points down on the dow industrials since the election was their wake-up call <COMMA> noted elliot spar <COMMA> market strategist at stifel nicolaus <PUNC>
-<PAR>

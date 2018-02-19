@@ -1,5 +1,0 @@
-with less than an hour to go before the fed releases its verdict <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-of the blue-chip index s <NUM> components <COMMA> <NUM> were trading higher <COMMA> led by at&t t <COMMA> which advanced <NUM> percent after the telecommunications giant said it is increasing its dividend by <NUM> percent and buying back <NUM> million shares <PUNC>
-<PAR>
-dow laggards included its financial shares <COMMA> with american express co. axp recently off <NUM> percent and jp morgan chase co. jpm down <NUM> percent <PUNC>
-<PAR>

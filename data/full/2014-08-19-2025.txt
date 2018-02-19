@@ -1,4 +1,0 @@
-apple inc. aapl achieved an all-time split-adjusted closing high <COMMA> while home depot inc. hd was the biggest gainer in the dow jones industrial average in the wake of quarterly results that topped forecasts <PUNC>
-the s&p <NUM> spx advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> while the dow industrials dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the s&p <NUM> stands <NUM> percent off its july <NUM> record close at <NUM> <COMMA> recovering from its drop in late july and early august <PUNC>
-<PAR>

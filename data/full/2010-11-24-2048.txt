@@ -1,2 +1,0 @@
-down <NUM> points after the past two days of trading <COMMA> the dow jones industrial average dji on wednesday climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but two of its <NUM> components trading higher <PUNC>
-<PAR>

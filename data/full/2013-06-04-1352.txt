@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-wall street stocks rallied late on monday after disappointing factory data and after federal reserve bank of atlanta president dennis lockhart told bloomberg television that the central bank is committed to its record stimulus program <PUNC>
-the dow jones industrial average dji on monday gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> while the s&p <NUM> index spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-if the dow industrials finish higher on tuesday <COMMA> it will mark the 21st straight tuesday win <COMMA> the longest trend of its kind since at least <NUM> <PUNC>
-read more about the tuesday phenomenon <PUNC>

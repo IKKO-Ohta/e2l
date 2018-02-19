@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-on friday <COMMA> the dow jones industrial average ended down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> its steepest drop since mid-april <PUNC>
-for may <COMMA> the dow industrials rose <NUM> percent <COMMA> the s&p added <NUM> percent and the nasdaq composite index rose <NUM> percent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the blue-chip gauge stands just <NUM> percent off its july <NUM> record close <PUNC>
-for the week <COMMA> the s&p <NUM> tacked on nearly <NUM> percent <PUNC>
-the dow scored advances of <NUM> percent for the week and <NUM> percent for the month <COMMA> while the nasdaq climbed <NUM> percent for the week and <NUM> percent for august <PUNC>
-<PAR>

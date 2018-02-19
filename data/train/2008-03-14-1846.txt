@@ -1,9 +1,0 @@
-the news sent the dow jones industrial average dji plummeting over <NUM> points before moving back up <PUNC>
-by late afternoon <COMMA> it was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
-among blue-chip financials <COMMA> citigroup inc. c was down <NUM> percent <COMMA> j.p. morgan jpm was off <NUM> percent and american express co. axp declined <NUM> percent <PUNC>
-boeing co. ba proved the sole dow component chalking up gains <COMMA> up <NUM> percent after its upgrade to overweight from equal weight at morgan stanley <PUNC>
-bear stearns had worked with j.p. morgan chase jpm and the federal reserve bank of new york to secure funding <COMMA> bear stearns and j.p. morgan said in separate statements <PUNC>
-<PAR>
-on thursday <COMMA> u.s. stocks had recovered from opening losses <COMMA> and the dow industrials ended up <NUM> points <COMMA> the nasdaq composite advanced <NUM> points and the s&p <NUM> gained <NUM> points <PUNC>
-shares of both microsoft corp. msft and its reluctant target <COMMA> yahoo inc. yhoo <COMMA> were down microsoft off <NUM> percent and yahoo declining <NUM> percent on reports the two met earlier this week without reaching agreement on microsoft s merger proposal <PUNC>
-<PAR>

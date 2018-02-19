@@ -1,4 +1,0 @@
-the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
-intel corp. shares intc advanced <NUM> cents to dollar <NUM> in afternoon trading <PUNC>
-general motors corp. gm saw its shares climb <NUM> percent to dollar <NUM> in what will be a crucial week for the troubled automaker <PUNC>
-<PAR>

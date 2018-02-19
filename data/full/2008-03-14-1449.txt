@@ -1,9 +1,0 @@
-bear stearns bsc revealed before the market opened that its liquidity had significantly deteriorated during the past <NUM> hours <PUNC>
-the brokerage financial firm is working with j.p. morgan chase jpm and the federal reserve bank of new york to secure funding <COMMA> bear stearns and j.p. morgan said in separate statements <PUNC>
-<PAR>
-the news sent the dow jones industrial average dji plummeting over <NUM> points before moving back up <PUNC>
-an hour after the open it was down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> and with financial stocks leading the blue-chip declines <PUNC>
-citigroup inc. c was down <NUM> percent <PUNC> j.p. morgan jpm was off <NUM> percent and american express co. axp declined <NUM> percent <PUNC>
-boeing co. ba proved the sole dow component chalking up gains <COMMA> up <NUM> percent after its upgrade to overweight from equal weight at morgan stanley <PUNC>
-on thursday <COMMA> u.s. stocks had recovered from opening losses <COMMA> and the dow industrials ended up <NUM> points <COMMA> the nasdaq composite advanced <NUM> points and the s&p <NUM> gained <NUM> points <PUNC>
-<PAR>

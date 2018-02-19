@@ -1,4 +1,0 @@
-after heading lower in the immediate aftermath of the central bank s move <COMMA> the dow jones industrial average dji advanced 41.1.1 points to <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <PUNC>
-boeing co. ba and american express co. axp among the stocks fronting the dow s losses <COMMA> with boeing off <NUM> percent <COMMA> while american express was down <NUM> percent <PUNC>
-automaker general motors corp. gm fronted the dow s advancing stocks <COMMA> gained <NUM> percent after gm said it completed the sale of its allison transmission commercial and military business to the carlyle group and onex corp. for about dollar <NUM> billion <PUNC>
-<PAR>

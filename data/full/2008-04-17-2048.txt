@@ -1,7 +1,0 @@
-upbeat earnings at international business machines ibm earlier failed to offset mixed outlooks and results at nokia nok and ebay inc. ebay <COMMA> keeping tech shares in the red <PUNC>
-the dow jones industrial average dji rose <NUM> points to end at <NUM> <COMMA> with <NUM> of its <NUM> components gaining ground <PUNC>
-pfizer pfe <COMMA> a dow component <COMMA> slipped <NUM> percent as the drug-making giant said its profit dropped <NUM> percent but held onto its profit guidance for the year <PUNC>
-but financial shares on the dow turned higher <COMMA> with american express axp <COMMA> bank of america bac <COMMA> and jp morgan chase jpm recouping earlier losses <PUNC>
-ibm ibm <COMMA> another dow component <COMMA> rose <NUM> percent after the technology giant recorded a <NUM> percent profit rise <COMMA> topping analyst forecasts <COMMA> and upped its <NUM> forecast <PUNC>
-u.s. stocks had rallied wednesday as results and outlooks from intel corp. intc <COMMA> j.p. morgan chase and others helped boost confidence in earnings season <COMMA> while resource stocks were helped by commodities strength <PUNC>
-<PAR>

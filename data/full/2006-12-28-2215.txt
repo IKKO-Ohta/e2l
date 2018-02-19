@@ -1,7 +1,0 @@
-u.s. stocks closed mildly lower thursday after the dow jones industrial average managed to set a new intraday high <COMMA> as the brunt of selling pressure seen earlier in the day disappeared ahead of the final trading day of the year <PUNC>
-the dow jones industrial average dji ended down <NUM> points at <NUM> <PUNC>
-during an afternoon attempt at a rally <COMMA> the dow struck a new intraday high of <NUM> <PUNC>
-dow components closing higher included walt disney dis and home depot inc. hd <PUNC>
-citigroup c <COMMA> a component of the dow industrials <COMMA> and other investors may take stakes in china s budget carrier spring airlines <COMMA> reuters reported <COMMA> citing two sources familiar with the matter <PUNC>
-international business machines ibm and siemens si won a 10-year dollar <NUM> billion contract from the german federal armed forces to modernize non-military information and communications technology <PUNC>
-<PAR>

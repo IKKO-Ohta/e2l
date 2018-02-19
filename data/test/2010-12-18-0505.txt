@@ -1,5 +1,0 @@
-those improving numbers helped lift equities in recent weeks <COMMA> and the most recent period was not an exception <PUNC>
-the dow jones industrial average dji last week gained <NUM> percent <COMMA> while the standard & poor s <NUM> index spx rose <NUM> percent and the nasdaq composite rixf climbed <NUM> percent <PUNC>
-on friday <COMMA> at&t inc. t said it would pay a quarterly dividend of <NUM> cents a share <COMMA> up a penny from prior quarters <COMMA> with the telecommunications giant remaining at the top of the heap for dividend payers <COMMA> said silverblatt <PUNC>
-oil giant exxon mobil corp. xom and pfizer inc. pfe are the second and third runners up <COMMA> by silverblatt s accounting <PUNC>
-<PAR>

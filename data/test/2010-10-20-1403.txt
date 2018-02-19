@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in early trading <COMMA> while the standard & poor s 500-stock index spx was higher by six points to <NUM> and the nasdaq composite rixf gained <NUM> points to <NUM> <PUNC>
-investors were looking to bounce back from the worst one-day drubbing in over two months <COMMA> as investors reeled from china s surprise rate hike <COMMA> negative outlooks from apple aapl and international business machines ibm <COMMA> as well as fears that bank of america bac may have to repurchase bad mortgages <PUNC>
-united technologies utx fell <NUM> percent after third-quarter earnings for the maker of otis elevators and pratt & whitney plane engines posted slower-than-expected revenue growth <PUNC>
-<PAR>

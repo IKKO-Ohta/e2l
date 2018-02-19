@@ -1,2 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> with declines led by boeing co. ba <COMMA> off <NUM> percent <COMMA> and citigroup inc c <COMMA> down <NUM> percent <PUNC>
-<PAR>

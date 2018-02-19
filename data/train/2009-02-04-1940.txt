@@ -1,6 +1,0 @@
-it is clear that some of the rhetoric that has come out today about regulations on the new tarp funds seems to be affecting bank of america corp. bac more negatively than the rest of the financial space <COMMA> hogan said <COMMA> dismissing market chatter that bank of america could be nationalized wednesday <PUNC>
-at last check <COMMA> the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-the s&p <NUM> spx shed <NUM> points to <NUM> and the nasdaq composite rixf fell <NUM> points to <NUM> <PUNC>
-on tuesday <COMMA> a wall street journal interview with geithner helped rev the market higher <COMMA> pushing the dow above the <NUM> level <PUNC>
-the article in the wsj quoted geithner as having learned from what happened in japan and that the u.s. needed to act swiftly <COMMA> saying fiscal policy is about to get very aggressive <COMMA> said pado <PUNC>
-<PAR>

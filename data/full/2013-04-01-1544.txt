@@ -1,4 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <COMMA> led by intel corp. intc <COMMA> down <NUM> percent <COMMA> and aluminum producer alcoa inc. aa <COMMA> off <NUM> percent <PUNC>
-both the s&p <NUM> and the dow industrial finished are record highs on thursday <PUNC>
-the quarter was also one for the bulls <COMMA> with the s&p <NUM> rising <NUM> percent <COMMA> the best performance in a year <PUNC>
-<PAR>

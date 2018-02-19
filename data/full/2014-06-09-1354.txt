@@ -1,4 +1,0 @@
-once again <COMMA> the dow jones industrial average dji and the s&p <NUM> index spx finished the week at record closing highs and the russell <NUM> index rut finally broke back into a gain on the year <PUNC>
-a dow bull market on average experiences a correction roughly every <NUM> months <COMMA> their analysts note <PUNC>
-the dow is now up approximately <NUM> percent from its last correction low on october <NUM> <COMMA> <NUM> and is on its 32nd month without a <NUM> percent pullback <PUNC>
-<PAR>

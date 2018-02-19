@@ -1,6 +1,0 @@
-the dow jones industrial average dji was down <NUM> points to <NUM> <COMMA> while the s&p <NUM> spx fell <NUM> points to <NUM> and nasdaq composite rixf eased <NUM> points to <NUM> <PUNC>
-but dow component wal-mart wmt over the weekend said u.s. same-store sales in november fell <NUM> percent <COMMA> the first drop for the giant retailer since <NUM> <PUNC>
-the broker also lifted its price target on home depot inc. hd <COMMA> a dow component <COMMA> to dollar <NUM> from dollar <NUM> previously <PUNC>
-on friday <COMMA> stocks fell slightly in light volume on a sharp decline in the dollar <PUNC>
-in a holiday shortened week <COMMA> the dow fell <NUM> percent <COMMA> the s&p <NUM> ended almost unchanged and the nasdaq advanced <NUM> percent <PUNC>
-<PAR>

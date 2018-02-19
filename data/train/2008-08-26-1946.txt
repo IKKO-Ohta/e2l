@@ -1,4 +1,0 @@
-after traveling between positive and negative turf <COMMA> the dow jones industrial average dji was recently ahead <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-the initial look at the still-to-be completed month had the u.s. consumer services index climbing the most <COMMA> posting a <NUM> percent gain <COMMA> while the dow jones u.s <PUNC>
-basic materials index lost the most <COMMA> falling <NUM> percent in august <COMMA> dow jones indexes said <PUNC>
-<PAR>

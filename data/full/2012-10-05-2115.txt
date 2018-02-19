@@ -1,5 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> its highest closing value since december <NUM> <PUNC>
-the blue-chip index posted a weekly gain of <NUM> percent <PUNC>
-in late trade <COMMA> however <COMMA> stocks turned mostly lower as investors eyed the start of third-quarter earnings season on tuesday when aluminum giant alcoa inc. aa will report results <PUNC>
-in a twitter posting <COMMA> former general electric co. ge chief executive officer jack welch accused the white house of manipulating the employment report for political gain <PUNC>
-<PAR>

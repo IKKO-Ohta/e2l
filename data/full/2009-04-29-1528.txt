@@ -1,4 +1,0 @@
-on wednesday <COMMA> stocks tallied strong gains after two days of losses <COMMA> with rising crude prices fueling shares of energy companies <PUNC>
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the technology-heavy nasdaq composite rixf gained <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at 1,710.88. <PUNC>
-<PAR>

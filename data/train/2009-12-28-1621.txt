@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> recently <PUNC>
-ibm ibm was the measure s strongest performer <COMMA> up <NUM> percent <PUNC>
-however <COMMA> alcoa inc. aa weighed on the dow as the aluminum company dropped <NUM> percent <PUNC>
-among stocks in focus <COMMA> kraft foods inc. kft rose <NUM> percent following a report that ferrero s.p.a. <COMMA> the italian confectionery company <COMMA> has reiterated interest in joining the bid for u.k. chocolate maker cadbury plc cby <PUNC>
-<PAR>

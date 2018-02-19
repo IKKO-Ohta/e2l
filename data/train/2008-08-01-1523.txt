@@ -1,3 +1,0 @@
-the dow jones industrial average dipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components retreating <PUNC>
-among blue chips <COMMA> shares of general motors corp. fell <NUM> percent after the auto maker posted a dollar <NUM> billion loss <PUNC>
-<PAR>

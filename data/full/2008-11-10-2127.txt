@@ -1,6 +1,0 @@
-u.s. stocks finished lower on monday <COMMA> sending the dow jones industrial average back below <NUM> <COMMA> after early enthusiasm over china s economic stimulus faded in favor of ongoing worries about u.s. companies <COMMA> including general motors corp <PUNC>
-up more than <NUM> points early on <COMMA> the dow dji closed at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
-general motors corp. gm weighed the most on the blue-chip index <COMMA> falling <NUM> percent after deutsche bank said shares of the automaker were likely worthless and that gm might not be able to fund its u.s. business past december without the government s help <PUNC>
-gains were led by aluminum producer alcoa inc. aa <COMMA> up <NUM> percent <PUNC>
-u.s. stocks had ended with strong gains friday as investors looked past a report showing <NUM> jobs lost in october and big quarterly losses at gm and ford motor co. f but over the past week <COMMA> the dow <COMMA> the s&p <NUM> and the nasdaq each lost about <NUM> percent <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji ended up <NUM> points at <NUM> <COMMA> but well below its session high of <NUM> <PUNC>
-caterpillar inc. shares cat closed up <NUM> percent at dollar <NUM> <PUNC>
-the heavy-equipment maker said sales of engines to dealers rose in the march-through-may period <COMMA> with demand especially noteworthy in the marine and oil and gas industries <PUNC>
-<PAR>

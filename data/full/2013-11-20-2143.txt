@@ -1,4 +1,0 @@
-the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> after briefly trading as many as <NUM> points lower <PUNC>
-the main indexes remain just below milestone levels <COMMA> such as <NUM> for the s&p <NUM> and <NUM> for the dow <PUNC>
-market strategists have said stocks could see profit-taking and back-and-forth action around these big round numbers <PUNC>
-<PAR>

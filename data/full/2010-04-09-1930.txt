@@ -1,8 +1,0 @@
-a rosy profit forecast from chevron corp. prompted an energy-led stock rally <COMMA> but the gains were limited as technicians seized the dow jones industrial average s daily highs near <NUM> as an opportunity to sell <PUNC>
-for the third time this week <COMMA> the dow dji came within <NUM> points of <NUM> before faltering <PUNC>
-the measure recently traded <NUM> points higher <COMMA> up <NUM> percent <COMMA> at <NUM> <COMMA> off about <NUM> points from the milestone that it hasn t pierced since late september <NUM> <PUNC>
-chevron cvx <COMMA> a dow component <COMMA> jumped <NUM> percent after the oil giant said it expects first-quarter profit to be higher than the previous quarter <COMMA> driven by higher earnings from its production and exploration operations <PUNC>
-exxon mobil corp. xom also climbed <COMMA> up <NUM> percent <PUNC>
-though the dow has struggled to break <NUM> <COMMA> most traders and analysts believe it will eventually break through <COMMA> especially with earnings season due to kick off next week <PUNC>
-the only category in the s&p trading lower recently was basic materials <COMMA> off <NUM> percent <PUNC>
-it was hurt by a <NUM> percent dip in alcoa aa which is due to kick off the broader earnings season with its report on monday <COMMA> after j.p. morgan chase cut its rating on the aluminum maker to neutral from overweight <PUNC>

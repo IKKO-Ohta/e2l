@@ -1,7 +1,0 @@
-the futures contract for the dow jones industrial average was off <NUM> points at <NUM> <PUNC>
-s&p <NUM> futures were down <NUM> of a point while nasdaq <NUM> futures were down <NUM> of a point <PUNC>
-on monday <COMMA> markets closed off highs after a rocky session spent tracking mercurial oil prices in the wake of hurricane rita <PUNC>
-the dow industrials rose <NUM> points at <NUM> <COMMA> the s&p <NUM> rose <NUM> points at <NUM> and the nasdaq composite rose <NUM> points at <NUM> <PUNC>
-in contrast <COMMA> j.p. morgan cut exxon mobil xom to neutral from overweight <COMMA> citing the recent rise in the shares <PUNC>
-total tot was downgraded to neutral from overweight to reflect a less impressive combination of valuation and potential catalysts in comparison to other stocks <PUNC>
-<PAR>

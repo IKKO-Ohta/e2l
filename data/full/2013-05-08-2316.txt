@@ -1,2 +1,0 @@
-a day after closing above <NUM> for the first time <COMMA> the dow jones industrial average dji added <NUM> points to <NUM> <COMMA> its second straight record close <PUNC>
-<PAR>

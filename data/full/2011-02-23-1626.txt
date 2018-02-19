@@ -1,3 +1,0 @@
-a day after its largest fall since nov. <NUM> <COMMA> the dow jones industrial average dji was off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components tallying losses <COMMA> led by hewlett-packard hpq <PUNC>
-h-p shares fell <NUM> percent <COMMA> after new ceo leo apotheker projected revenue for the current fiscal year will be below expectations <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-a coca-cola co. ko spokesman said wednesday the company is looking into buying cadbury schweppes plc s snapple iced tea brand or building its own tea brand <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed <NUM> points higher <COMMA> giving it a weekly gain of nearly <NUM> percent and a monthly gain of <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> finished higher <COMMA> led by home depot inc. hd <COMMA> which gained <NUM> percent <COMMA> and hewlett-packard co. hpq <COMMA> up <NUM> percent <PUNC>
-financial stocks rallied <COMMA> boosted by president bush s proposal to expand the role of the federal government to stem a wave of mortgage defaults <PUNC>
-dow components citigroup inc. c gained <NUM> percent and j.p. morgan chase & co. jpm rose <NUM> percent <PUNC>
-<PAR>

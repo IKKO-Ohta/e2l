@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-wall street ended lower on tuesday <COMMA> with the dow industrials falling <NUM> points <COMMA> the nasdaq composite shedding <NUM> points and the s&p <NUM> slipping <NUM> points <PUNC>
-over the last month <COMMA> the dow industrials have slumped <NUM> percent and other major indexes also have dropped <COMMA> on worries about oil prices over dollar <NUM> a barrel and about the health of the financial sector <PUNC>
-<PAR>

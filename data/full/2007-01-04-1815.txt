@@ -1,7 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of <NUM> components contributed to losses <COMMA> but the blue-chip barometer had been down as much as <NUM> points in morning action <PUNC>
-helping spark the rebound was a sharp gain in semiconductor maker intel intc <COMMA> shares of which rallied nearly <NUM> percent after banc of america raised its earnings estimate for the fourth quarter and <NUM> <PUNC>
-wal-mart stores wmt rose <NUM> percent after reporting same-store-sales that were in line with its latest forecast and laying out its growth target for january <PUNC>
-other dow industrials gainers included merck mrk and general motors gm <COMMA> which both rose more than <NUM> percent <PUNC>
-dow decliners were led by mcdonald s mcd and at&t t <COMMA> both of which both fell nearly <NUM> percent <PUNC>
-exxon mobil xom also lost ground as oil prices continued sharply lower for a second day in a row <PUNC>
-<PAR>

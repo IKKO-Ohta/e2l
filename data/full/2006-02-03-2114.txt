@@ -1,4 +1,0 @@
-the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
-on the week <COMMA> the benchmark index is on track for a loss of <NUM> percent <PUNC>
-shares of merck mrk rose <NUM> percent to dollar <NUM> on a media report that the second and third federal trials related to its vioxx painkiller drug have been postponed for about two months <PUNC>
-<PAR>

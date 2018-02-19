@@ -1,8 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-for a week that included three triple-digit point declines <COMMA> the dow was off <NUM> percent its worst week since march <NUM> <PUNC>
-its weekly point drop was the worst since october <NUM> <PUNC>
-friday s stock slump followed a hair-raising session thursday <COMMA> when the dow fell nearly <NUM> points <COMMA> before closing off <NUM> percent <COMMA> or <NUM> points <PUNC>
-the implications of that plunge continued to reverberate on friday <COMMA> as exchanges and traders struggled to figure out what went wrong <PUNC>
-in the dow <COMMA> american express axp led decliners <COMMA> down <NUM> percent <COMMA> followed by hewlett-packard & co. hpq <COMMA> off <NUM> percent <COMMA> and cisco systems csco <COMMA> off <NUM> percent <PUNC>
-kraft foods kft led gainers <COMMA> up <NUM> percent <PUNC>
-<PAR>

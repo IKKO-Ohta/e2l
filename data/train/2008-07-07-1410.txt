@@ -1,7 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points to 11,370.94. with the blue-chip index s advance led by general motors corp. gm <COMMA> up <NUM> percent <COMMA> with shares of the biggest u.s. automaker bolstered by crude s fall and a wall street journal report that gm is considering more job cuts and whether to close more brands <PUNC>
-helping lift the technology sector <COMMA> microsoft corp. msft said it is open to discussing a major transaction with a new board of directors at yahoo inc. yhoo <PUNC>
-u.s. stocks ended lower during the holiday-shortened week <COMMA> with the dow jones industrial average falling into bear-market territory <PUNC>
-and <COMMA> general electric co. s ge nbc universal led a group buying the weather channel in what is expected to be a multi-billion-dollar deal <PUNC>
-terms weren t disclosed <PUNC>
-merck & co. inc. mrk was downgraded to neutral from buy at ubs <COMMA> while another top drugmaker <COMMA> astrazeneca plc azn <COMMA> separately was downgraded to hold by deutsche bank <PUNC>
-<PAR>

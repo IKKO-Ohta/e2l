@@ -1,3 +1,0 @@
-the dow jones industrial average dropped <NUM> points to <NUM> <COMMA> with only two - chevron corp. and exxon mobil corp. of the blue-chip s <NUM> components on the rise <PUNC>
-american international group inc. and general motors corp. were among those weighing heavily on the dow <COMMA> with aig down <NUM> percent and gm off <NUM> percent <PUNC>
-<PAR>

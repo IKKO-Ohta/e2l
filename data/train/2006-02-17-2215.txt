@@ -1,9 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> above an early low of <NUM> <PUNC>
-the average attempted late-day gains <COMMA> but was pushed lower in the final hour by some disappointing news for general motors <PUNC>
-for the week the dow racked up a <NUM> percent advance <PUNC>
-on thursday <COMMA> dell rival hewlett-packard co. hpq saw its shares surge on a strong quarterly earnings report and solid outlook <PUNC>
-general motors corp. gm fell <NUM> percent to dollar <NUM> after its major parts supplier <COMMA> delphi corp. said it won t immediately move to cut retiree-health benefits to speed its exit from bankruptcy <COMMA> a decision welcomed by the auto manufacturer s largest union <PUNC>
-shares of intel corp. intc fell almost <NUM> percent to dollar <NUM> after rbc capital markets lowered its price target on the stock to dollar <NUM> from dollar <NUM> <PUNC>
-the research house said it expects the stock to go noticeably below our new price target in the near-term <PUNC>
-rbc said it turned negative on intel and the semiconductor sector on jan. <NUM> <PUNC>
-<PAR>

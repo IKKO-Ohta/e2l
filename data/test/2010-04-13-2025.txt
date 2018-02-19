@@ -1,3 +1,0 @@
-after a morning swoon <COMMA> the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> <NUM> <COMMA> with <NUM> of its <NUM> components finishing ahead <PUNC>
-while alcoa could put some weight on the basic-material stocks <COMMA> the more important earnings are still to come <COMMA> said marc pado <COMMA> u.s. market strategist at cantor fitzgerald <COMMA> who pointed to upcoming reports from intel corp. intc and bank of america corp. bac <PUNC>
-<PAR>

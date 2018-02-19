@@ -1,2 +1,0 @@
-the dow jones industrial dji fell <NUM> points to <NUM> <COMMA> with nine of its <NUM> components trading lower <COMMA> the losses led by exxon mobil <COMMA> off <NUM> percent <PUNC>
-<PAR>

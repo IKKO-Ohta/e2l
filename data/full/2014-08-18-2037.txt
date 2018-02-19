@@ -1,6 +1,0 @@
-the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
-the blue-chip barometer achieved its biggest point gain since aug. <NUM> <PUNC>
-alastair mccaig <COMMA> market analyst at ig <COMMA> pointed out the dow might regain a big round number <PUNC>
-helping out <COMMA> he said <COMMA> was the bounce off session lows seen friday <COMMA> when the dow recovered from a triple-digit fall <PUNC>
-also read <PUNC> where soros and other big investors are putting their money right now <PUNC>
-<PAR>

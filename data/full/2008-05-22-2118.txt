@@ -1,5 +1,0 @@
-the dow jones industrial average dji finished up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-the blue-chip index lost <NUM> point in the previous two sessions as oil surged past dollar <NUM> a barrel <PUNC>
-financial stocks <COMMA> which took a beating over the past two sessions <COMMA> led the dow s way higher <COMMA> with american express co. axp up <NUM> percent <COMMA> bank of america corp. bac up <NUM> percent <COMMA> citigroup inc. c up <NUM> percent and j.p. morgan chase & co. jpm up <NUM> percent <PUNC>
-u.s. stocks fell sharply wednesday <COMMA> with the dow industrials slumping <NUM> points <COMMA> as oil surged and the federal reserve increased its inflation estimate while seeing slower economic growth <PUNC>
-<PAR>

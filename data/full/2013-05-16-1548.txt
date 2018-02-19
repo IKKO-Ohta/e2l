@@ -1,7 +1,0 @@
-cisco systems inc. csco rallied <NUM> percent <COMMA> helping curb losses on the dow jones industrial average dji and the s&p <NUM> index spx and boost the nasdaq composite rixf <PUNC>
-the network-equipment manufacturer late wednesday reported a better-than-estimated quarterly profit <PUNC>
-see <PUNC> cisco sparks rally in networking shares <PUNC> amd drops <PUNC>
-wal-mart stores inc. wmt led losses on the dow after the discount-retailing giant reported quarterly earnings beneath wall street s expectations and offered a disappointing forecast for the second quarter <PUNC>
-the dow wobbled between small gains and losses <COMMA> last up <NUM> points at <NUM> <PUNC>
-on wednesday <COMMA> the dow industrials and s&p <NUM> index rose to all-time closing highs on hopes for continuing central-bank stimulus <PUNC>
-<PAR>

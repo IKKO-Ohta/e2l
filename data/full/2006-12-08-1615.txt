@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-several stocks were moving the blue-chip average <PUNC>
-3m co. mmm fell <NUM> percent after prudential downgraded the stock to neutral from overweight <COMMA> citing valuation <PUNC>
-hewlett-packard co. hpq fell <NUM> percent on reports that it agreed to pay dollar <NUM> million to settle charges related to management s spying on board members <COMMA> employees and journalists <PUNC>
-mcdonald s corp. mcd gained <NUM> percent after it said global november sales at restaurants open at least one year rose <NUM> percent <PUNC>
-<PAR>

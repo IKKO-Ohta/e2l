@@ -1,5 +1,0 @@
-the s&p <NUM> spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> ending near its intraday record high <PUNC>
-the large-cap index gained for five consecutive days <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> also extending a winning streak to <NUM> days <PUNC>
-the nasdaq composite rixf defied the trend and ended the day down <NUM> points <COMMA> or <NUM> percent at <NUM> <PUNC>
-<PAR>

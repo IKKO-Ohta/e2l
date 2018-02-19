@@ -1,7 +1,0 @@
-futures for the dow jones industrial average dji were up <NUM> at <NUM> <COMMA> while those for the s&p <NUM> index spx fell <NUM> points to <NUM> <PUNC>
-among blue chips <COMMA> alcoa aa dropped <NUM> percent before the open <PUNC>
-the aluminum giant has offered dollar <NUM> a share <COMMA> or dollar <NUM> billion <COMMA> in cash and stock for canada s alcan al <PUNC>
-the offer represents a <NUM> percent premium to alcan s average closing price over the past <NUM> days <PUNC>
-technology shares might see some pressure after a report late friday said microsoft corp. msft was no longer holding talks about a possible merger with yahoo inc. yhoo <PUNC>
-yahoo shares slumped <NUM> percent before the open <PUNC>
-<PAR>

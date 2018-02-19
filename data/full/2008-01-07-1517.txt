@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points in early morning trade to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher and with altria group inc. mo leading the blue-chip index s early gains <COMMA> its stock up <NUM> percent <PUNC>
-other dow gainers included mcdonald s corp. mcd <COMMA> up <NUM> percent <COMMA> following a wall street journal report that the fast-food chain would step into competition with starbucks corp. sbux by opening coffee bars offering cappuccinos and lattes <PUNC>
-fourth-quarter earnings could shed light about the u.s. economy <COMMA> with aluminum maker alcoa inc. aa slated tuesday to be the first dow component to report results <PUNC>
-<PAR>

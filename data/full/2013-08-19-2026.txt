@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with <NUM> of its <NUM> components ending in negative territory <PUNC>
-this was the fourth consecutive session of declines for both the dow industrials and the s&p <NUM> <COMMA> marking the longest losing streak since dec. <NUM> <COMMA> <NUM> <COMMA> when the market fell for five straight trading days <PUNC>
-stocks fell friday <COMMA> leaving the dow with its biggest weekly percentage drop and point loss of <NUM> <COMMA> while the s&p <NUM> saw its biggest weekly point loss <PUNC>
-shares of intel corp. intc rose <NUM> percent <COMMA> making it the biggest gainer on the dow <PUNC>
-the rise came after piper jaffray analyst auguste gus richard raised the stock s rating to neutral from underweight <COMMA> citing potential gains from the corporate market and the coming release of windows <NUM> <PUNC>
-j.p. morgan chase & co. jpm fell <NUM> percent <COMMA> making it the largest loser in the dow <PUNC>
-news reports said u.s. regulators are looking into the bank s hiring practices in china <PUNC>
-<PAR>

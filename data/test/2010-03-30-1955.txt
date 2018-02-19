@@ -1,5 +1,0 @@
-the dow jones industrial average dji was lately up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-financial stocks were among the hardest blue-chips hit <COMMA> with bank of america corp. bac off <NUM> percent and j.p. morgan chase & co. jpm down <NUM> percent <PUNC>
-the dow s best performer <COMMA> verizon communications inc. vz gained <NUM> percent on a wall street journal report that apple inc. aapl is developing a version of its iphone designed to work over the wireless carrier s network <PUNC>
-home depot inc. hd edged <NUM> percent higher after the s&p/case-shiller index of home prices beat expectations <PUNC>
-<PAR>

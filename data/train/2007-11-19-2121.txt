@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with just three of its <NUM> components ending in positive territory <PUNC>
-last week <COMMA> the dow fell below the key psychological level of <NUM> in intraday trade in two out of five trading sessions <COMMA> yet still closed above <NUM> <PUNC>
-the dow last closed below <NUM> aug. <NUM> <PUNC>
-general motors corp. gm fronted the dow s decline <COMMA> its stock off <NUM> percent <PUNC>
-other blue-chip laggards include citigroup c <COMMA> off <NUM> percent and at&t inc. t <COMMA> down <NUM> percent <PUNC>
-<PAR>

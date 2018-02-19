@@ -1,7 +1,0 @@
-in recent action <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-home depot hd helped lift the blue-chip average <COMMA> gaining <NUM> percent after a report the company may be the target of a leveraged buy-out <PUNC>
-among other dow components <COMMA> general motors corp. gm gained <NUM> percent after reports that kirk kerkorian has completely sold out of the stock <PUNC>
-boeing co. ba rose <NUM> percent after merrill lynch issued a positive note on the stock <PUNC>
-pressure came not only from the chicago survey but also from weak retail sales <COMMA> a weak december outlook from wal-mart stores inc. wmt <PUNC>
-crude oil prices close to dollar <NUM> <COMMA> and a continued slide in the dollar also weighed <PUNC>
-<PAR>

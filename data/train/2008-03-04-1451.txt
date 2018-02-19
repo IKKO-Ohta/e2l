@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with all but two of its <NUM> components posting opening losses <PUNC>
-blue-chip decliners included intel intc <COMMA> down more than <NUM> percent after the chipmaker lowered its gross-margin outlook for the current quarter <PUNC>
-<PAR>
-and <COMMA> citigroup inc. c fell nearly <NUM> percent as merrill lynch cut the bank s earnings estimates <PUNC>
-<PAR>

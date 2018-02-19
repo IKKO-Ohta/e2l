@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-boeing ba climbed <NUM> percent as the federal reserve bank of philadelphia said mid-atlantic manufacturers posted better-than-expected improvement this month <COMMA> paced by new orders <PUNC>
-hewlett-packard co. hpq jumped <NUM> percent after posting a <NUM> percent rise in fiscal first-quarter profit and raising its full-year earnings forecast <PUNC>
-however <COMMA> wal-mart wmt fell <NUM> percent as its namesake stores experienced their first quarterly u.s. sales drop in the retailer s memory <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-up more than <NUM> points earlier <COMMA> the dow jones industrial average dji was recently off <NUM> at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-u.s. stocks closed a choppy session with gains on tuesday <COMMA> with best buy and adobe systems closing higher after quarterly reports <PUNC>
-the dow industrials rose <NUM> points <COMMA> the s&p <NUM> ended <NUM> points higher and the nasdaq composite tacked on <NUM> points <PUNC>
-<PAR>

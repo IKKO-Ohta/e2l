@@ -1,9 +1,0 @@
-with trading volumes thin ahead of the thanksgiving holiday <COMMA> the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
-it earlier reached an all-time intraday high of <NUM> <PUNC>
-gm gm dropped <NUM> percent and has lost <NUM> percent in three sessions - on speculation <COMMA> later confirmed in a filing with the securities and exchange commission <COMMA> that billionaire kirk kerkorian has reduced his stake in the automaker <PUNC>
-meanwhile <COMMA> dow component alcoa inc. aa gained <NUM> percent after unveiling a broad restructuring program that will cut <NUM> percent of its workforce and lead to a spin-off of its molded soft-alloy business via a joint venture with norway s orkla asa <PUNC>
-on tuesday stocks closed higher as gains by alcoa <COMMA> caterpillar inc. cat and boeing co. ba supported the dow and helped offset concern about crude oil prices <COMMA> which topped the dollar <NUM> -a-barrel mark <PUNC>
-international business machines corp. ibm rose <NUM> percent after it said the defense advanced research projects agency has given the company a 4-year <COMMA> dollar <NUM> million contract to develop a supercomputer that is more efficient and simpler to program <PUNC>
-comcast corp. cmcsa said late tuesday it has bought walt disney co. s dis <NUM> percent stake in e networks for dollar <NUM> billion <PUNC>
-comcast dropped <NUM> percent and disney fell <NUM> percent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-only five of the dow jones industrial average s <NUM> components were in positive territory <PUNC>
-overall <COMMA> the dow industrials dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-shares of bank of america bac fell <NUM> percent <COMMA> citigroup c dropped <NUM> percent and j.p. morgan chase jpm sank <NUM> percent <PUNC>
-in addition <COMMA> shares of american express axp fell <NUM> percent and american international group aig dropped <NUM> percent <PUNC>
-<PAR>

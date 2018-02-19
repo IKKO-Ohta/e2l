@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with only four of the average s <NUM> components in negative territory <PUNC>
-dow component procter & gamble pg was <NUM> percent higher after receiving a favorable mention in barron s <COMMA> which said the stock is undervalued <PUNC>
-a number of other dow components had gains greater than <NUM> percent <COMMA> including intel intc <COMMA> home depot hd <COMMA> and boeing ba <PUNC>
-merck mrk <COMMA> which dropped <NUM> percent on friday on news of a texas jury award to the widow of a patient who died taking vioxx <COMMA> received an upgrade from credit suisse first boston <COMMA> which cited valuation <PUNC>
-the share was <NUM> percent lower in morning y trade <PUNC>
-<PAR>

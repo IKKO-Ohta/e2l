@@ -1,2 +1,0 @@
-the dow jones industrial average dji fell <NUM> points in opening trade to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
-<PAR>

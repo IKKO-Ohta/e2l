@@ -1,8 +1,0 @@
-futures added to early gains in the wake of the claims data <COMMA> with the dow industrials gaining <NUM> points to <NUM> <PUNC>
-also in pre-open trading <COMMA> shares of blue chip general motors corp. gm gained after the auto maker s upgrade to buy by citigroup <PUNC>
-mcdonald s corp. mcd climbed <NUM> percent <PUNC>
-the fast-food giant late wednesday raised its cash dividend for shareholders <PUNC>
-microsoft corp. msft also saw early gains as the software goliath lifted its quarterly dividend by a penny <COMMA> to <NUM> cents a share <PUNC>
-outside the dow <COMMA> target corp. tgt gained after the discount retailer said it had hired banking advisors to explore a possible sale of dollar <NUM> billion in credit-card receivables <PUNC>
-on wednesday <COMMA> wall street saw a mixed finish <COMMA> with the dow industrials down <NUM> points and the s&p <NUM> off <NUM> points but the nasdaq composite ending fractionally higher <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-after a 119-point opening leap <COMMA> the dow jones industrial average dji fell as much as <NUM> points <COMMA> and was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-<PAR>

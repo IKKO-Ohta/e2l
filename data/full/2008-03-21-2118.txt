@@ -1,6 +1,0 @@
-the dow jones industrial average dji rallied <NUM> percent <COMMA> the broad s&p <NUM> index spx rose <NUM> percent <COMMA> and the tech-heavy nasdaq composite rixf gained <NUM> percent <PUNC>
-global markets first went into a tail-spin after as news emerged that bear stearns bsc was near collapse <PUNC>
-on monday <COMMA> the fed backed a deal for jp morgan chase jpm to buy bear stearns for dollar <NUM> million <COMMA> or a mere dollar <NUM> a share <PUNC>
-yet <COMMA> the market managed to surmount the trauma on monday <COMMA> throwing on some fireworks on tuesday <COMMA> after the fed delivered a 75-basis-point cut in its key interest rate <PUNC>
-the dow rallied <NUM> points <COMMA> or <NUM> percent <COMMA> its best one-day gain since july of <NUM> <PUNC>
-<PAR>

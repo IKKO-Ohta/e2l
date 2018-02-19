@@ -1,4 +1,0 @@
-in pre-market trade monday future contracts for the dow jones industrial average <COMMA> the s&p <NUM> and nasdaq <NUM> all were signalling gains in early trade <PUNC>
-exxonmobil xom was up <NUM> cents at dollar <NUM> in premarket electroic trade <COMMA> benefiting from the continued rise of crude prices <PUNC>
-mcdonald s mcd was up <NUM> cents at dollar <NUM> before the opening after reporting solid july sales gains <PUNC>
-<PAR>

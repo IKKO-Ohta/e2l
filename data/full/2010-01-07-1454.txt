@@ -1,4 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <PUNC>
-alcoa inc. aa was its worst performer <COMMA> off <NUM> percent as metals futures fell <PUNC>
-bank of america corp. bac was the measure s biggest gainer <COMMA> up <NUM> percent after credit suisse upgraded its investment rating on the stock <COMMA> calling the shares the cheapest among large-cap banks <PUNC>
-<PAR>

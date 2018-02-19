@@ -1,2 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-on wednesday <COMMA> stocks declined sharply in the final <NUM> minutes of trading <COMMA> with the dow industrials falling almost <NUM> points <COMMA> after the fed said it would rebalance its portfolio <COMMA> as expected <COMMA> but also said it sees significant downside risks to the economic outlook <PUNC>

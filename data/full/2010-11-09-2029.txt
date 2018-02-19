@@ -1,4 +1,0 @@
-in day <NUM> of a decline that halted a six-session winning streak <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-ahead of wall street s start <COMMA> oil company chevron corp. cvx had said it would buy natural-gas producer atlas energy inc. atls for dollar <NUM> billion <PUNC>
-the federal reserve s plan to funnel as much as dollar <NUM> billion into the economy through a series of treasury purchases is largely expected to weaken the dollar <COMMA> making products produced by u.s. corporations like caterpillar inc. cat less expensive overseas <PUNC>
-<PAR>

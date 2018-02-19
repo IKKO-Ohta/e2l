@@ -1,6 +1,0 @@
-the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
-on tuesday stocks closed higher <COMMA> after news of a slump in crude-oil prices and an unsolicited bid for dow jones & co. by news corp bolstered media stocks as well <PUNC>
-the dow jones industrial average rose <NUM> points <COMMA> the s&p <NUM> added <NUM> points and the nasdaq composite rose <NUM> points <PUNC>
-citigroup inc. c <COMMA> a member of the dow <COMMA> announced it will buy financial services outsourcing company bisys group bsg for dollar <NUM> billion in cash <PUNC>
-shares of bisys rose <NUM> percent to dollar <NUM> before the opening <PUNC>
-<PAR>

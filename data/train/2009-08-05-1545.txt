@@ -1,2 +1,0 @@
-the dow jones industrial average dji fell more than <NUM> points and was recently down <NUM> points to <NUM> <PUNC>
-<PAR>

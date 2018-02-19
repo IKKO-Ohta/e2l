@@ -1,2 +1,0 @@
-in its biggest one-day surge since last november <COMMA> the dow jones industrial average gained <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> with citigroup shares up <NUM> percent <COMMA> bank of america corp. rising <NUM> percent and j.p. morgan chase & co. jpm advancing nearly <NUM> percent <PUNC>
-<PAR>

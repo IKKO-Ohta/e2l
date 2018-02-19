@@ -1,7 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-boeing co. ba was weighing on the blue-chip average <COMMA> losing <NUM> percent after wachovia downgraded the stock to market perform from outperform <COMMA> citing concerns that the commercial-aircraft-order cycle has peaked <PUNC>
-also weighing <COMMA> pfizer inc. pfe fell <NUM> percent after the drugmaker reported fourth-quarter earnings declined but topped expectations on an adjusted basis <PUNC>
-on the upside <COMMA> financial-services giant citigroup c <COMMA> which rose <NUM> percent after news that chief financial officer sallie krawcheck was promoted to become chairman and chief executive of its global wealth management division <PUNC>
-the tech sector remained in focus after suffering last week as investors were disappointed by forecasts from heavyweights apple inc. aapl and ibm ibm <PUNC>
-among blue-chip tech stocks <COMMA> intel corp. intc was adding <NUM> percent after the wall street journal reported that sun microsystems sunw was near an agreement to use intel intc chips <PUNC>
-<PAR>

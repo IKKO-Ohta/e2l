@@ -1,6 +1,0 @@
-corporate earnings will command the attention of investors in the coming week with about one-third of the s&p <NUM> and the dow jones industrial average reporting quarterly results <PUNC>
-among the big earnings reports beginning tuesday are apple inc. aapl along with dow components at&t inc. t <COMMA> united technologies corp. utx <COMMA> and 3m co. mmm <PUNC>
-other dow dji components reporting include boeing co. ba and caterpillar inc. cat on wednesday <COMMA> exxon mobil corp. xom on thursday <COMMA> with chevron corp. cvx <COMMA> procter & gamble co. pg <COMMA> and merck & co. mrk wrapping up the week on friday <PUNC>
-that follows a week where bank of america corp. bac and citigroup inc. c met or exceeded earnings <PUNC>
-the previous week <COMMA> j.p. morgan chase & co. jpm and wells fargo & co. wfc surpassed wall street expectations <PUNC>
-<PAR>

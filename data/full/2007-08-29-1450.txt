@@ -1,6 +1,0 @@
-u.s. stocks rose wednesday <COMMA> as traders fished for bargains following the steep decline in the previous session <COMMA> with general motors corp. and intel corp. leading the dow s gains <PUNC>
-the dow jones industrial average dji rose <NUM> points at <NUM> points <COMMA> with <NUM> of the <NUM> dow components in positive territory <PUNC>
-leading the dow higher <COMMA> general motors corp. gm and intel corp. intc rose nearly <NUM> percent <PUNC>
-shares of altria group inc. mo fell <NUM> percent after the company said wednesday it plans to spin off the tobacco unit philip morris international inc. to altria s shareholders <PUNC>
-the company said it expects to finalize its decision and announce the precise timing of the spin-off at its regularly scheduled meeting on jan. <NUM> <COMMA> <NUM> <PUNC>
-<PAR>

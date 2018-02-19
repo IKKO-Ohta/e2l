@@ -1,5 +1,0 @@
-the dow industrials dji surged <NUM> points to <NUM> <COMMA> its biggest one-day point gain since june <NUM> <PUNC>
-intel corp. intc <COMMA> another technology heavyweight <COMMA> is set to report results after the market closes wednesday <PUNC>
-it was another busy session for earnings in the financial sector <COMMA> led by quarterly results from j.p. morgan chase & co. jpm <PUNC>
-the investment bank s stock was up <NUM> percent to dollar <NUM> after its net income more than tripled on a boost from its investment-banking business <COMMA> which saw record fees and solid market results <PUNC>
-<PAR>

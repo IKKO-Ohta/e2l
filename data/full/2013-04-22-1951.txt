@@ -1,6 +1,0 @@
-after rising <NUM> points and losing nearly <NUM> <COMMA> the dow jones industrial average dji added <NUM> points to <NUM> <COMMA> with microsoft corp. msft leading gains that included <NUM> of its <NUM> members <PUNC>
-general electric co. ge fell <NUM> percent <PUNC>
-the stock was cut to neutral from overweight by j.p. morgan & chase after ge reported results friday <PUNC>
-caterpillar inc. s stock cat rose <NUM> percent after the heavy-equipment maker and dow member said it would restart a share repurchase for the first time in years <PUNC>
-the company also reported disappointing quarterly results and cut its <NUM> profit outlook <COMMA> but its ceo said production would likely increase in the second quarter <PUNC>
-<PAR>

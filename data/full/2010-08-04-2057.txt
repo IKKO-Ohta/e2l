@@ -1,3 +1,0 @@
-the dow jones industrial average dji finished up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the advance puts the blue-chip index <NUM> percent higher than where it started the month <COMMA> close to a three-month high <PUNC>
-<PAR>

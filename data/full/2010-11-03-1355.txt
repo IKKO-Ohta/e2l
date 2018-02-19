@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained eight points to <NUM> in early trading <COMMA> while the standard & poor s 500-stock index spx gained less than one point to <NUM> and the nasdaq composite rixf edged down two points to <NUM> <PUNC>
-companies in focus include blackrock <COMMA> which tumbled <NUM> percent after bank of america said it is offering at least <NUM> million shares it holds in the money manager <COMMA> while fellow part-owner pnc financial services group is selling up to <NUM> million shares <PUNC>
-bank of america bac may also sell another <NUM> million shares in the overallotment option <PUNC>
-pnc pnc gained <NUM> percent while bank of america added <NUM> percent <PUNC>
-<PAR>

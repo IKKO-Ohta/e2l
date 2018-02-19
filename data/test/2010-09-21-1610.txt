@@ -1,2 +1,0 @@
-one day after finishing at a four-month high <COMMA> the dow jones industrial average dji meandered on either side of neutral and was recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
-<PAR>

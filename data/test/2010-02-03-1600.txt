@@ -1,6 +1,0 @@
-the dow jones industrial average dji recently dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-pfizer pfe was its worst performer <COMMA> off <NUM> percent <COMMA> after posting earnings <PUNC>
-the drug giant said its fourth-quarter profit more than doubled to dollar <NUM> million <COMMA> but the result lagged wall street estimates <PUNC>
-it also scaled back <NUM> revenue estimates and weighed on other health-care stocks <COMMA> including dow-component merck & co. mrk <COMMA> down <NUM> percent <PUNC>
-mcdonald s mcd was the measure s best performer <PUNC>
-the stock climbed <NUM> percent after goldman sachs upgraded its investment rating on the stock to conviction buy from buy <COMMA> said the fast-food giant offers a scarce combination of positive same-store sales and accelerating margin gains <PUNC>

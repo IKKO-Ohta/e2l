@@ -1,3 +1,0 @@
-after climbing nearly <NUM> points <COMMA> the dow jones industrial average dji was recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <PUNC>
-american express co. axp climbed <NUM> percent <COMMA> citigroup inc. c gained <NUM> percent and bank of america corp. bac climbed <NUM> percent <PUNC>
-<PAR>

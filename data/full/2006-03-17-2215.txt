@@ -1,7 +1,0 @@
-but general motors corp. was a weak spot on the dow jones industrial average friday after it said its <NUM> loss will be dollar <NUM> billion steeper than it originally reported <PUNC>
-the dow industrials dji rose <NUM> points to close at 11,279.65. <COMMA> rising <NUM> percent for the week <PUNC>
-shares in american international group inc. aig fell <NUM> cents to dollar <NUM> after the insurance group s profit tumbled <NUM> percent in the fourth quarter after booking more than dollar <NUM> billion in charges for regulatory settlements <PUNC>
-the company also took a dollar <NUM> billion after-tax charge for increased reserves for losses and loss expenses <PUNC>
-shares in general motors corp. gm fell <NUM> percent to dollar <NUM> after the company said its <NUM> loss will be dollar <NUM> billion steeper than it originally reported <PUNC>
-the automaker revised its reported loss for the year to dollar <NUM> billion from the dollar <NUM> billion it announced in january <PUNC>
-<PAR>

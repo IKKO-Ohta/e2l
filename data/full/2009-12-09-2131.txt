@@ -1,4 +1,0 @@
-the dow jones industrial average dji ended near its intraday highs <COMMA> up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> recouping about half of tuesday s steep loss <PUNC>
-3m mmm jumped <NUM> percent after the industrial bellwether was upgraded by citigroup analysts to a buy rating from hold <PUNC>
-the industrial giant s gains contributed about <NUM> points to the dow s overall rise <PUNC>
-<PAR>

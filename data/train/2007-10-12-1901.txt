@@ -1,9 +1,0 @@
-with an hour to go before the close <COMMA> the dow jones industrial average dji advanced <NUM> points to <NUM> <COMMA> setting the blue-chip index in play for a weekly gain of <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> traded higher <COMMA> led by general motors corp. gm <COMMA> up <NUM> percent <PUNC>
-ge ge fronted the dow s declines <COMMA> with its stock off <NUM> percent <PUNC>
-other technology stocks rose as well <COMMA> including arch oracle rival sap ag sap <COMMA> up <NUM> percent <COMMA> and microsoft corp. msft up <NUM> percent <PUNC>
-<PAR>
-shares of citigroup inc. c were down <NUM> percent <COMMA> a day after the bank announced a shake-up <PUNC>
-u.s. stocks on thursday staged a dramatic reversal <COMMA> closing lower after the dow first hit record highs before plunging to a loss <PUNC>
-traders cited profit-taking in technology shares as the main culprit <PUNC>
-<PAR>

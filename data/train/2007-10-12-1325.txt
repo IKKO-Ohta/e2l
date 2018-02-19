@@ -1,7 +1,0 @@
-futures for the dow jones industrial average dji advanced <NUM> points to <NUM> <PUNC>
-futures for the dow jones industrial average dji advanced <NUM> points to <NUM> <PUNC>
-the dow drew some early support as general electric reported better-than-expected earnings for the third quarter <COMMA> and said it would hit wall street targets for the coming period <PUNC>
-<PAR>
-u.s. stocks on thursday staged a dramatic reversal <COMMA> closing lower after the dow first hit record highs on a gain of <NUM> points before plunging to a loss of more than <NUM> points <PUNC>
-traders cited profit-taking in technology shares as the main culprit <PUNC>
-<PAR>

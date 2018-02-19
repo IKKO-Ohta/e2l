@@ -1,4 +1,0 @@
-the dow jones industrial average dropped below <NUM> on friday on disappointing earnings <COMMA> leaving it with its biggest weekly decline in six weeks <PUNC>
-the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> weighed down by losses in visa inc. for the week <COMMA> the blue-chip index fell <NUM> percent <COMMA> its biggest weekly loss since june <NUM> <PUNC>
-a big contributor was visa inc. v <COMMA> which dropped <NUM> percent after the credit-card company trimmed its forecast for annual revenue growth <PUNC>
-<PAR>

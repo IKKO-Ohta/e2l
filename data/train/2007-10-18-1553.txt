@@ -1,7 +1,0 @@
-the dow jones industrial average dji fell <NUM> points in early trades to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-american express co. axp led the dow s decline <COMMA> its stock off <NUM> percent <PUNC>
-in an echo of disappointments from other financial institutions this week including citigroup inc. c <COMMA> bank of america bac reported before the bell a third-quarter decline in net profit of <NUM> percent <PUNC>
-pfizer inc. pfe the world s largest drug manufacturer topped wall street expectations <COMMA> despite reporting a bottom-line drop <PUNC>
-<PAR>
-on wednesday <COMMA> wall street closed mixed after surging oil prices quashed an early rally <COMMA> although the technology-laden nasdaq composite retained gains amid well-received earnings from intel corp. intc <COMMA> among others <PUNC>
-<PAR>

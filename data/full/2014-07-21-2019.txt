@@ -1,4 +1,0 @@
-the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <COMMA> with <NUM> of <NUM> sectors in the red <PUNC>
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf slipped by <NUM> points <COMMA> or <NUM> percent at <NUM> <PUNC>
-<PAR>

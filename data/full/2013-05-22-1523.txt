@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the blue-chip index had been up nearly <NUM> points <COMMA> or <NUM> percent <COMMA> but it gave up some ground after bernanke began responding to lawmakers questions <PUNC>
-<PAR>

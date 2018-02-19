@@ -1,8 +1,0 @@
-grim <COMMA> dismal and decidedly morose <COMMA> said dan alpert of westwood capital in accessing the fed s take <PUNC>
-i think it clearly reflected what folks expected <COMMA> but markets are reacting to any news that was expected as though it was good news <PUNC>
-imagine this report hitting the street three months ago <COMMA> you would have lost <NUM> points on the dow <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to settle at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by american international group inc. aig <COMMA> up <NUM> percent <PUNC>
-laggards on the blue-chip index included boeing co. ba <COMMA> down <NUM> percent after the chicago-based manufacturer reported its quarterly profit fell <NUM> percent <PUNC>
-also weighing <COMMA> mcdonald s corp. mcd fell <NUM> percent after the fast-food chain reported a stronger-than-expected second-quarter profit from a year-earlier loss <PUNC>
-pfizer inc. pfe shares gained <NUM> percent after the world s largest drug maker reported its second-quarter profit more than doubled <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji has climbed nearly <NUM> percent this week <COMMA> thanks in part to investors hopes that the market s recent drop to <NUM> lows may have exaggerated expected effects on corporate earnings from the slumping euro and slower global growth <PUNC>
-however <COMMA> investors are hesitant to push stocks up much more before the reports begin <COMMA> especially after conflicting reports recently on retail sales and wholesale inventories <PUNC>
-the dow rose <NUM> points to <NUM> in recent trading <PUNC>
-alcoa rose <NUM> percent ahead of its second-quarter report due monday <PUNC>
-caterpillar inc. cat was also strong <COMMA> up <NUM> percent <COMMA> and chevron corp. cvx climbed <NUM> percent as crude-oil futures climbed to nearly dollar <NUM> a barrel <PUNC>
-offsetting the gains <COMMA> johnson & johnson jnj fell <NUM> percent and boeing co. ba declined <NUM> percent <PUNC>
-the aerospace giant submitted its attempt to win a multi-billion-dollar contract to provide the u.s. air force with new aerial refueling tankers a day after european aeronautic defence & space submitted its own proposal for the contract <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-up at the start <COMMA> the dow jones industrial average dji was more recently off <NUM> points at <NUM> <COMMA> <NUM> of its <NUM> components trading lower <COMMA> with american express co. axp fronting the blue chip s drop <COMMA> its shares down <NUM> percent <PUNC>
-alcoa inc. aa led the dow s minority advance <COMMA> its stock climbing <NUM> percent <PUNC>
-<PAR>

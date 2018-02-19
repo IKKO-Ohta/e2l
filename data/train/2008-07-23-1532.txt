@@ -1,4 +1,0 @@
-off its session highs <COMMA> the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by general motors corp. gm <COMMA> up <NUM> percent <PUNC>
-laggards on the blue-chip index included mcdonald s corp. mcd <COMMA> off <NUM> percent <COMMA> after the fast-food chain reported a stronger-than-expected second-quarter profit from a year-earlier loss <PUNC>
-pfizer inc. pfe shares gained <NUM> percent after the world s largest drug maker reported its second-quarter profit more than doubled <PUNC>
-<PAR>

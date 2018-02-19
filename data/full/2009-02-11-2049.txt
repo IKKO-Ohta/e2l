@@ -1,5 +1,0 @@
-on tuesday <COMMA> the dow jones industrial average dji slumped more than <NUM> points <COMMA> or nearly <NUM> percent <COMMA> marking the blue-chip average s worst drop in more than two months <PUNC>
-on wednesday <COMMA> stocks seemed to regain some footing <COMMA> with the dow industrials recently up <NUM> points at <NUM> <COMMA> the s&p <NUM> index spx up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> and the nasdaq composite rixf up <NUM> point <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the financial sector of the s&p <NUM> <COMMA> which slumped <NUM> percent on tuesday <COMMA> rebounded some <COMMA> gaining <NUM> percent <PUNC>
-shares of bank of america bac gained more than <NUM> percent <COMMA> j.p. morgan chase jpm was up <NUM> percent and citigroup c rose <NUM> percent <PUNC>
-<PAR>

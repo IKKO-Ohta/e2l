@@ -1,9 +1,0 @@
-the dow jones industrial average had the worst selling day in more than two months <COMMA> settling at the lowest levels since mid-august <PUNC>
-the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the russell <NUM> dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-among worst hit sectors were retailers and transportation companies <PUNC>
-the spdr s&p retail etf fell <NUM> percent <COMMA> while the dow jones transportation average fell <NUM> percent <PUNC>
-read <PUNC> u.s. stocks test key technical levels <PUNC>
-<PAR>

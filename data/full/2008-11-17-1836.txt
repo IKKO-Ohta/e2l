@@ -1,6 +1,0 @@
-the dow jones industrial average dji was recently off <NUM> points at <NUM> <COMMA> with aluminum producer alcoa inc. aa bleeding the most <COMMA> off <NUM> percent <PUNC>
-shares of citigroup inc. c declined <NUM> percent after the bank early monday said it would cut about <NUM> jobs in the latest and most dramatic round of layoffs to date in the battered financial sector <PUNC>
-<PAR>
-shares of general motors corp. gm were up the most <COMMA> gaining <NUM> percent <PUNC>
-the automaker looking for a bailout from washington said that it would raise dollar <NUM> million by selling a <NUM> percent stake in japan s suzuki motor corp. <PUNC>
-<PAR>

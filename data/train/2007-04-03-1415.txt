@@ -1,8 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components rose <PUNC>
-leading the gains on the dow were shares of altria group inc. mo <COMMA> home depot inc. hd and united technologies corp. utx <PUNC>
-exxon mobil corp. xom was the only blue-chip stock falling <COMMA> as crude oil prices fell <NUM> cents to dollar <NUM> a barrel <PUNC>
-auto sales reports for march from ford motor co. f <COMMA> general motors corp gm and daimlerchrysler ag dcx u.s. unit chrylser corp will dribble out throughout the day and is expected to show that the domestic auto industry is still having trouble selling to consumers <PUNC>
-among dow components <COMMA> procter & gamble co. pg gained after saying the products manufactured by its petcare unit are completely safe <PUNC>
-last week <COMMA> the food and drug administration recalled products after a new contaminant known as melamine had been found <COMMA> though p&g said its lams- and eukanuba- branded dry foods were not part of the recall <PUNC>
-the company has suspended production of some other products and is working with retailers to recall others <PUNC>
-<PAR>

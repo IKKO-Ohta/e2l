@@ -1,2 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> with citigroup c fronting the dow s decline <COMMA> its stock off <NUM> percent <PUNC>
-<PAR>

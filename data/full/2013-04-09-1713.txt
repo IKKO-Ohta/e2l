@@ -1,5 +1,0 @@
-u.s. stock indexes rose on tuesday <COMMA> lifting the dow jones industrial average above its record close <COMMA> as investors considered the start of the first-quarter earnings season <PUNC>
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> near its session high and a level that has it above its all-time finish of <NUM> <COMMA> set one week ago <PUNC>
-intel corp. intc and microsoft corp. msft paced gains that included <NUM> of the blue-chip index s <NUM> members <PUNC>
-alcoa inc. aa shares drifted between slight gains and losses a day after the aluminum producer reported results that marked the unofficial start of the earnings season <PUNC>
-read more about how alcoa earnings could boost the market <PUNC> <PUNC>

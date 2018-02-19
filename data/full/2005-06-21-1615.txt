@@ -1,7 +1,0 @@
-the dow jones industrial average dji was last up <NUM> point at <NUM> after having snapped a seven-session winning streak in the prior session a feat not equaled since march <NUM> <PUNC>
-within the dow <COMMA> boeing co. ba fell <NUM> percent after smith barney analysts said the aerospace giant s shares will begin to weaken now that the <NUM> paris air show has ended even if the company <COMMA> as seems likely <COMMA> raises its earnings outlook after the second quarter <PUNC>
-boeing s earnings performance will not be sufficient to justify the stock s current lofty levels <COMMA> the brokerage said <PUNC>
-fellow blue chip caterpillar inc. cat moved up <NUM> percent to dollar <NUM> <COMMA> helped by positive broker comment <PUNC>
-lehman bros. analyst joel tiss said a meeting with management has left him more confident that margins should improve in the second half of <NUM> and in <NUM> as orders remain strong and as price increases appear to be sticking <PUNC>
-hewlett-packard hpq rose <NUM> percent as soleil securities initiated research coverage of the computer and peripherals maker with a buy rating <COMMA> citing the expected benefits of cost-cutting measures <PUNC>
-<PAR>

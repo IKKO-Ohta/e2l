@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components down <PUNC>
-the decline was led by american express co. axp <COMMA> off <NUM> percent <PUNC>
-leading retailer wal-mart stores wmt said profit will feel some pressure from higher interest expenses in the fourth quarter <COMMA> but reaffirmed its fourth-quarter earnings view <PUNC>
-investors also will consider a wall street journal report that citigroup c and merrill lynch & co. mer are both negotiating further capital injections from overseas investors <PUNC>
-<PAR>

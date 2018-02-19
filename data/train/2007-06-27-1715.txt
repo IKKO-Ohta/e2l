@@ -1,3 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> stocks retreated <COMMA> led by the likes of caterpillar inc. cat <COMMA> alcoa inc. aa <COMMA> boeing co. ba <COMMA> general motors corp. gm <COMMA> and citigroup inc. c <PUNC>
-leading the gains on the dow <COMMA> merck & co. inc. mrk gained <NUM> percent after the pharmaceutical giant said that its hiv drug isentress was granted a priority review status by the food and drug administration <PUNC>
-<PAR>

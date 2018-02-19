@@ -1,3 +1,0 @@
-after setting aside initial declines <COMMA> the dow jones industrial average rose more than <NUM> points for a second day this week to close at <NUM> <COMMA> up <NUM> points for a weekly gain of <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> all but two finished in the green <COMMA> with the advance led by home depot inc. <COMMA> up <NUM> percent <PUNC>
-<PAR>

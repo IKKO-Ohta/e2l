@@ -1,4 +1,0 @@
-the dow jones industrial average dji slid <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components on the decline <PUNC>
-the dow had surged more than <NUM> points in the early going after general motors corp. gm reported a return to profitability <PUNC>
-the automaker s stock retained some of its advance <COMMA> with its stock up <NUM> percent <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> on friday <PUNC>
-the blue-chip gauge recorded a weekly tumble of <NUM> percent <COMMA> its biggest decline since the week ended jan. <NUM> <PUNC>
-procter & gamble co. pg finished up <NUM> percent <COMMA> performing the best among the <NUM> dow stocks <PUNC>
-the world s largest consumer products company announced plans to shed brands <COMMA> along with earnings that beat forecasts <PUNC>
-meanwhile <COMMA> western union co. wu and perkinelmer inc. pki led s&p <NUM> decliners <COMMA> as each stock dropped nearly <NUM> percent <PUNC>
-western union s quarterly profit dropped <COMMA> and earnings at perkinelmer <COMMA> a manufacturer of health-testing equipment <COMMA> also fell <PUNC>
-<PAR>

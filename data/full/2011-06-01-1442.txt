@@ -1,3 +1,0 @@
-at last check <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-on tuesday <COMMA> the dow industrials finished may with a loss of <NUM> percent <COMMA> their first monthly drop in six months <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-off session lows that had the dow jones industrial average dji down more than <NUM> points <COMMA> the blue-chip index finished at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> closed in the red <COMMA> with the heaviest losses tallied by general motors corp. gm shares of which surrendered <NUM> percent <PUNC>
-the dow industrials closed at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <COMMA> to finish the week down <NUM> percent <PUNC>
-<PAR>

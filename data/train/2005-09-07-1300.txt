@@ -1,7 +1,0 @@
-on tuesday <COMMA> stocks ended at multiweek highs <COMMA> with the dow jones industrial average posting its first triple-digit gain in nearly two months <COMMA> on a sharp pullback in oil prices and an economic report showing the nation s services sector in robust health <PUNC>
-the dow industrials dji ended up <NUM> points <COMMA> or <NUM> percent at <NUM> <COMMA> offering the benchmark index its best one-day performance since july <NUM> <PUNC>
-shares of mcdonald s corp. mcd rose <NUM> percent to dollar <NUM> in pre-market dealings after bear stearns upgraded the fast-food giant to outperform from peer perform <COMMA> citing improved valuation and the belief that its u.s. performance will continue to be positive <PUNC>
-ubs raised its view on hewlett-packard hpq to buy from neutral on hopes that cost cutting and better executive can continue to deliver earnings per share upside <PUNC>
-meanwhile <COMMA> jp morgan chase jpm could get a boost in opening trade after piper jaffray upgraded the investment bank to outperform from market perform <COMMA> citing an attractive valuation on expectations merger cost savings will continue and that the capital markets will enjoy a solid turnaround in the second half of <NUM> <PUNC>
-on wednesday <COMMA> the stock rose <NUM> percent to dollar <NUM> <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> good enough for a <NUM> percent advance to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-shares of general motors corp. gm <COMMA> hit hard this week <COMMA> led the blue-chip gains <COMMA> up <NUM> percent <PUNC>
-shares of wal-mart stores inc. wmt added <NUM> percent <PUNC>
-the world s largest retailer said late tuesday it will settle <NUM> wage-and-hour class-action lawsuits against the company <COMMA> some of which have been pending over the last several years <PUNC>
-in recent days <COMMA> santa claus has been clearly absent from the equities market <COMMA> with the dow jones industrial average down a collective <NUM> points since its dec. <NUM> close of <NUM> <PUNC>
-the dow industrials finished tuesday s trading at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
-the s&p <NUM> shed <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> while the nasdaq composite lapsed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

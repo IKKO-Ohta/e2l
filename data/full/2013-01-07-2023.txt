@@ -1,6 +1,0 @@
-after a 91-point fall <COMMA> the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-intel corp. intc was one of the gainers in the dow <COMMA> its shares up <NUM> percent after lazard capital markets upgraded the chip maker <PUNC>
-intel <COMMA> along with qualcomm inc. qcom and some other tech companies <COMMA> will hold media presentations monday at the consumer electronics show in las vegas <PUNC>
-<PAR>
-alcoa inc. aa reports after tuesday s close <COMMA> with the aluminum producer the first dow component slated to release fourth-quarter results <PUNC>
-<PAR>

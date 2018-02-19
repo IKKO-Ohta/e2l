@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> point at <NUM> <PUNC>
-general motors gm stock last was down <NUM> percent at dollar <NUM> <PUNC>
-late monday the embattled auto maker said <NUM> of its workers agreed to buyout packages <PUNC>
-shares of dupont dd fell <NUM> percent to dollar <NUM> after france s vivendi v sold its entire <NUM> million in the chemicals giant of dollar <NUM> million <COMMA> or dollar <NUM> a share <PUNC>
-the stake sale was expected after vivendi said <COMMA> earlier in the month <COMMA> that it had resolved a dispute with the u.s. internal revenue service over a <NUM> sale of dupont shares <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-caterpillar s cat shares edged higher after the heavy-equipment maker and dow member said it would restart a share repurchase for the first time in years <PUNC>
-the company also reported disappointing quarterly results and cut its <NUM> profit outlook <COMMA> but its ceo said production would likely increase in the second quarter <PUNC>
-<PAR>

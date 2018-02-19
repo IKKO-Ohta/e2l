@@ -1,4 +1,0 @@
-u.s. stocks ended mostly lower on wednesday <COMMA> with the s&p <NUM> and the dow jones industrial average extending their losing streak to four straight sessions <PUNC>
-the s&p <NUM> spx dipped <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> retreating further below the milestone level of <NUM> <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> staying below its own big round number of <NUM> <PUNC>
-<PAR>

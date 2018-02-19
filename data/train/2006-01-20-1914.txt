@@ -1,9 +1,0 @@
-u.s. stocks plunged friday afternoon <COMMA> with the dow jones industrial average turning negative for <NUM> <COMMA> after oil prices hit a four-month high and general electric co. and citigroup inc. disappointed with their fourth-quarter earnings <PUNC>
-the dow jones industrial average dji was trading near its low for the session <COMMA> down <NUM> points at <NUM> <PUNC>
-the blue-chip index is on track for its biggest one-day decline since april <NUM> <COMMA> and is now below <NUM> <COMMA> the level at which it closed out <NUM> <PUNC>
-shares of general electric ge slumped <NUM> percent to dollar <NUM> after the industrial conglomerate s quarterly revenue fell shy of analyst expectations <COMMA> but an upward revision to the bottom end of its <NUM> outlook was helping put a floor on losses <PUNC>
-citigroup c <COMMA> another dow component <COMMA> fell to a more than two-month low <COMMA> down <NUM> percent at dollar <NUM> after the banking and financial-services giant posted earnings from continuing operations that missed wall street estimates <PUNC>
-the bank noted a challenging interest-rate environment and competitive pricing conditions during the december quarter <PUNC>
-also <COMMA> diversified industrial group danaher corp. dhr said it has agreed to buy u.k. company first technology for around dollar <NUM> million <COMMA> topping an offer from honeywell international hon <PUNC>
-danaher s shares fell <NUM> cents to dollar <NUM> <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-extending losses into a second session <COMMA> the dow jones industrial average dji fell as much as <NUM> points before briefly turning positive <COMMA> and was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with microsoft corp. msft pacing declines and home depot inc. hd leading gains among its <NUM> components <PUNC>
-wall street stocks finished monday s session little changed after standard & poor s revised its u.s. credit-rating outlook to stable from negative <PUNC>
-on monday <COMMA> the dow finished down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the s&p <NUM> dipped <NUM> point to <NUM> <PUNC>
-<PAR>

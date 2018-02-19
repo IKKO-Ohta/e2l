@@ -1,9 +1,0 @@
-u.s. stocks fell wednesday <COMMA> with the dow jones industrial average dropping <NUM> points <COMMA> after minutes from the federal reserve s last meeting on interest rates confirmed that the central bank s focus on inflation remains intact <COMMA> dashing hopes it would soon cut rates to boost a slowing economy <PUNC>
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components dipped in negative territory <PUNC>
-it earlier fell by over <NUM> points to a low of <NUM> <PUNC>
-among the biggest decliners were shares of general motors corp. gm <COMMA> ibm ibm <COMMA> citigroup inc. c and honeywell international inc. hon <PUNC>
-among blue chips <COMMA> citigroup c fell <NUM> percent <PUNC>
-the bank said it was cutting <NUM> jobs worldwide in a bid to save dollar <NUM> billion a year by <NUM> <PUNC>
-the stock had gained on tuesday after the new york times reported that the bank might cut or reassign <NUM> positions <PUNC>
-alcoa aa shares rose <NUM> percent after it kicked off the first-quarter earnings season after the close on tuesday with a <NUM> percent rise in profits and an upbeat outlook for the year <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji advanced <NUM> points to <NUM> <PUNC>
-of the <NUM> components <COMMA> <NUM> were contributing to gains <PUNC>
-hewlett-packard s hpq stock rose <NUM> percent to dollar <NUM> ahead of its third-quarter results due after the market closes <PUNC>
-the computer and printer maker is expected to show per-share earnings growth of <NUM> percent from a year earlier <COMMA> based on analyst forecasts <PUNC>
-<PAR>

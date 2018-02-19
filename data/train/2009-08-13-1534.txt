@@ -1,4 +1,0 @@
-the data helped offset early-day investor cheer <COMMA> bolstered in part by earnings results from retail goliath wal-mart stores inc. wmt <COMMA> leaving the major stock indexes meandering between positive and negative turf <PUNC>
-the dow jones industrial average dji was lately up <NUM> points at <NUM> <PUNC>
-the s&p <NUM> index spx rose <NUM> points to <NUM> <COMMA> while the technology-led nasdaq composite rixf gained <NUM> points to stand at <NUM> <PUNC>
-<PAR>

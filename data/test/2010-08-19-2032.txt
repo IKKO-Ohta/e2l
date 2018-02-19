@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with all <NUM> blue-chip components in the red for the day <PUNC>
-intel intc led the declines in the dow industrials <COMMA> falling <NUM> percent to <NUM> after announcing plans to acquire security software maker mcafee inc. mfe in the chipmaker s largest-ever deal <PUNC>
-intel is paying a roughly <NUM> percent premium over mcafee s closing price wednesday <PUNC>
-<PAR>

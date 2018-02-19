@@ -1,6 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> among them wal-mart wmt <COMMA> up <NUM> percent <PUNC>
-among blue-chip decliners <COMMA> american international group inc. aig dropped <NUM> percent after a standard & poor s equity analyst slashed her forecasts for aig ahead of the giant insurer s first-quarter results <COMMA> due after the closing bell <PUNC>
-stocks fell sharply on wednesday <COMMA> with the dow losing more than <NUM> points <COMMA> as oil futures surged past dollar <NUM> a barrel <PUNC>
-wal-mart wmt and costco wholesale corp. cost both exceeded estimates as shoppers bought groceries <COMMA> pharmaceutical items and loaded up on gasoline at wal-mart s sam s club and costco <PUNC>
-these warehouse stores sell fuel cheaper than other retailers <COMMA> a lure as oil prices hit new highs <PUNC>
-<PAR>

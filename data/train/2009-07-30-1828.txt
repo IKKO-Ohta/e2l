@@ -1,4 +1,0 @@
-on thursday <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a level unseen since nov. <NUM> <PUNC>
-the broad s&p <NUM> index spx was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> also its highest since nov. <NUM> <PUNC>
-the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after earlier topping the <NUM> mark for the first time since oct. <NUM> <PUNC>
-<PAR>

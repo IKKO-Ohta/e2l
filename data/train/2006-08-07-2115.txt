@@ -1,6 +1,0 @@
-the dow jones industrial average dji closed <NUM> points lower at <NUM> <PUNC>
-the s&p <NUM> index spx and the nasdaq composite index rixf <COMMA> respectively <COMMA> finished down almost <NUM> points at <NUM> and <NUM> points lower at <NUM> <PUNC>
-other oil majors were higher <COMMA> including dow component exxon mobil corp. xom <COMMA> which ended <NUM> percent higher at dollar <NUM> <COMMA> as well as chevron corp. cvx <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
-dow component intel corp. intc was under pressure <COMMA> after prudential cut its earnings and revenue forecasts for the chip manufacturer <PUNC>
-the stock closed down <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

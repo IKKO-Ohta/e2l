@@ -1,4 +1,0 @@
-down about <NUM> points at the start <COMMA> the dow jones industrial average dji was more recently off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
-with an industry rescue in doubt <COMMA> general motors corp. gm fronted the dow s decline <COMMA> its shares off <NUM> percent <PUNC>
-also weighing on the blue-chip benchmark <COMMA> bank of america corp. bac fell <NUM> percent in the wake of its downgrade by standard & poor s equity research <COMMA> which followed word the bank would cut as many as <NUM> jobs during the next three years <PUNC>
-<PAR>

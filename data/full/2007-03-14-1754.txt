@@ -1,9 +1,0 @@
-u.s. stocks saw their losses accelerate in volatile trading wednesday <COMMA> with the dow jones industrial average falling over <NUM> points to below <NUM> for the first time since late <NUM> <COMMA> in a follow through of the previous session s sell-off and amid more evidence of the meltdown in the subprime mortgage market <COMMA> this time from h&r block inc <PUNC>
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> breaking through the <NUM> level for the first time in four months <PUNC>
-it earlier fell by <NUM> points <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
-weighing on the blue-chip average were the likes of aig aig <COMMA> dupont dd <COMMA> home depot inc. hd and wal-mart stores inc. wmt <PUNC>
-among other dow components <COMMA> general motors corp. gm fell <NUM> percent <COMMA> even after the company returned to profitability in the fourth quarter <PUNC>
-and citigroup c dropped <NUM> percent after one of its executives said the bank won t lift its offer for nikko cordial any further <PUNC>
-the bank on tuesday hiked its takeover bid by <NUM> percent to dollar <NUM> billion <PUNC>
-on tuesday <COMMA> further trouble for subprime lenders and data showing mortgage defaults on the rise sent the dow industrials down <NUM> points for its second-worst performance of the year so far <PUNC>
-<PAR>

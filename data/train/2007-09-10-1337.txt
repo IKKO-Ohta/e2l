@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points at <NUM> <PUNC>
-the technology sector may also draw investor focus <COMMA> with yahoo inc. yhoo likely to hold onto the web-search-advertising businesses that it had considered outsourcing to google inc. goog or microsoft corp msft <COMMA> the wall street journal reported <PUNC>
-advanced micro devices amd rolled out its latest microchip <COMMA> barcelona <COMMA> which is designed to be the heart of corporate server networks <PUNC>
-amd has lost market share recently in the server market to arch-rival intel corp. intc <PUNC>
-<PAR>

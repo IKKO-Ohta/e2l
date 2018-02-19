@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-mcdonald s corp. mcd tacked on <NUM> cents to dollar <NUM> after the fast-food giant posted a <NUM> percent rise in same store sales for february <PUNC>
-strong results at its european restaurants generated much of the growth <PUNC>
-<PAR>

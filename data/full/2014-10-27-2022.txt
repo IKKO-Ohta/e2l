@@ -1,5 +1,0 @@
-meanwhile <COMMA> the dow jones industrial average dji and the nasdaq composite rixf eked out marginal gains <COMMA> finishing up less than a percentage point <PUNC>
-dow industrials finished at <NUM> and the nasdaq ended the day at <NUM> <PUNC>
-merck & co. inc. mrk tightened its outlook for the rest of the year as expiring patents weighed on sales <PUNC>
-its top line fell short and shares fell <NUM> percent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-stocks lost their grip on an earlier rally <COMMA> with the dow jones industrial average dji lately at <NUM> <COMMA> up <NUM> points <COMMA> and readying the blue-chip index for a <NUM> percent april rise <PUNC>
-the s&p <NUM> index spx added <NUM> points to <NUM> <COMMA> positioning it for a <NUM> percent climb for the nearly finished month <PUNC>
-and the nasdaq composite rixf gained <NUM> points to stand at <NUM> <COMMA> up <NUM> percent from its march <NUM> close <PUNC>
-the energy sector was hit as exxon mobil corp. xom <COMMA> reported first-quarter profits that fell below expectations <COMMA> with shares of the oil giant slipping <NUM> percent <PUNC>
-<PAR>

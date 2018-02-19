@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> at midday while the s&p <NUM> spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite index rixf <COMMA> however <COMMA> was fractionally lower <PUNC>
-home depot inc. hd <COMMA> 3m co. mmm and exxon mobil corp. xom weighed in as the dow s biggest gainers <PUNC>
-alcoa inc. aa <COMMA> pfizer inc. pfe and united technologies corp. utx were the blue chip gauge s biggest losers <PUNC>
-<PAR>

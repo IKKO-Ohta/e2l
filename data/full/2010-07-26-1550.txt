@@ -1,6 +1,0 @@
-u.s. stocks on monday climbed for a third session <COMMA> lifting the dow industrials back into positive territory for <NUM> after the government reported new-home sales rose in june and shipper fedex corp. hiked its outlook <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by aluminum maker alcoa inc. aa <COMMA> up <NUM> percent <COMMA> and home-improvement retailer home depot inc. hd <COMMA> up <NUM> percent <PUNC>
-should the dow close at or above <NUM> <COMMA> it would be the first finish above its dec. <NUM> <COMMA> <NUM> <COMMA> close in five weeks <PUNC>
-conversely <COMMA> shares of international business machines corp. ibm were among the blue chips getting hit <COMMA> with shares of the technology giant falling <NUM> percent after european union regulators announced probes of allegations ibm took unfair advantage of its dominant position in the mainframe computer market <PUNC>
-ibm rejected the allegations <COMMA> while blaming microsoft corp. msft and other rivals for arousing the eu action <PUNC>
-<PAR>

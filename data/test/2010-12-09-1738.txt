@@ -1,2 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components losing ground <COMMA> including dupont co. dd <COMMA> shares of which fell almost <NUM> percent after it projected <NUM> earnings that could miss wall street s expectations <PUNC>
-<PAR>

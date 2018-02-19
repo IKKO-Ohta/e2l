@@ -1,3 +1,0 @@
-after an early fall <COMMA> the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-financials <COMMA> which led tuesday s rally <COMMA> continued to show some strength among the blue chips <COMMA> with citigroup inc. c up <NUM> percent <PUNC>
-<PAR>

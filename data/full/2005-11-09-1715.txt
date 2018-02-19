@@ -1,6 +1,0 @@
-the dow jones industrial average dji and the s&p <NUM> spx both flitted back and forth between positive and negative territory <COMMA> but held above their lows <PUNC>
-gm gm fell by almost <NUM> percent at one point <COMMA> hitting a 13-year low <COMMA> after a negative research note from deutsche bank raised questions about how the auto manufacturer would fare if its parts supplier delphi suffers a strike <PUNC>
-shares of aig aig dropped as much as <NUM> percent <PUNC>
-the insurer revealed it will have to restate its financial results again and will delay its 10-q filing by five days <COMMA> after finding errors that resulted in a dollar <NUM> million understatement of third-quarter results <PUNC>
-home depot hd stock advanced nearly <NUM> percent after receiving the piper jaffray upgrade <PUNC>
-<PAR>

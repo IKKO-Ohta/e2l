@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to finish at <NUM> <COMMA> with <NUM> of the blue-chip barometer s <NUM> components trading lower <PUNC>
-exxon mobil corp. xom fronted the dow s losses <COMMA> its stock off <NUM> percent <PUNC>
-general motors corp. gm led among dow advancers <COMMA> with its stock gaining <NUM> percent after it managed to post a slight september sales gain while rivals ford motor co. f and toyota motor corp. tm tallied sales declines <PUNC>
-wall street rallied monday <COMMA> pushing the dow to a record close as the disclosure of sizable write-downs by citigroup inc. c bolstered thinking that investors now have a better handle on the extent of the damage stemming from riskier subprime home loans <PUNC>
-<PAR>

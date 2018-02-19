@@ -1,4 +1,0 @@
-u.s. stocks rallied friday to cap a fifth week of gains that lifted the dow jones industrial average above <NUM> for the first time in five years after reports on jobs and manufacturing brightened wall street s view of the economic recovery <PUNC>
-the dow s reaching <NUM> is another positive sign after finishing one of the strongest months on record <COMMA> said darrell cronk <COMMA> regional chief investment officer at wells fargo private bank <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its first finish above the <NUM> level since oct. <NUM> <COMMA> <NUM> <PUNC>
-<PAR>

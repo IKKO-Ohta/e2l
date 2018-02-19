@@ -1,8 +1,0 @@
-the s&p <NUM> spx closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf ended the day down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the home-improvement chain home depot s shares hd defied the trend <COMMA> rising <NUM> percent <PUNC>
-the company s quarterly results missed expectations <PUNC>
-but the company raised its full-year outlook <PUNC>
-caterpillar inc. cat shares dropped <NUM> percent <COMMA> weighing on the dow jones industrial average <COMMA> after reporting a sharp drop in global retail machinery sales for the three months through april <PUNC>
-<PAR>

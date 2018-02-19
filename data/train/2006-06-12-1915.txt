@@ -1,7 +1,0 @@
-on the upside <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-of the dow industrials <NUM> components <COMMA> <NUM> traded lower <PUNC>
-general motors corp. gm gained <NUM> percent at dollar <NUM> after delphi corp. dphiq <COMMA> its main parts supplier <COMMA> announced a broad employee buyout program that reduces the risk of a strike that could cripple the no <PUNC>
-<NUM> automaker <PUNC>
-the program also takes delphi a step closer to emerging from chapter <NUM> bankruptcy <PUNC>
-fellow dow component walt disney co. dis fell <NUM> percent at dollar <NUM> after citigroup downgraded the media and entertainment giant to hold from buy <COMMA> saying it believes the shares are less attractive at their current level following a strong run <PUNC>
-<PAR>

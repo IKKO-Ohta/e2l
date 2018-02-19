@@ -1,6 +1,0 @@
-new york dow jones - u.s. stocks opened higher friday <COMMA> as the dow jones industrial average got a lift from new upgrades for intel and exxonmobil <PUNC>
-the dow jones industrials dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> component stocks in positive territory <PUNC>
-intel intc rose <NUM> percent to dollar <NUM> after getting an upgrade to neutral from underperform from cs first boston <COMMA> which said the stock price now adequately discounts concerns over declining market share and eroding average selling prices <PUNC>
-deutsche bank upgraded exxon mobil corp. xom to buy from hold and raised its price target to dollar <NUM> <COMMA> giving the stock a <NUM> percent lift to dollar <NUM> <PUNC>
-the broker said that rex tillerson taking over as chief executive in <NUM> could be a key catalyst <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-in the second quarter <COMMA> the dow jones industrial average dji rose <NUM> percent <COMMA> the s&p <NUM> index spx advanced <NUM> percent <COMMA> and the nasdaq composite index rixf gained <NUM> percent <PUNC>
-stock buybacks are also losing their ability to prop up earnings and support stock prices as they go higher <PUNC>
-while buyback authorizations have been big in the news lately <COMMA> most recently with pfizer inc. s pfe new dollar <NUM> -billion authorization <COMMA> that doesn t reflect actual buyback activity <COMMA> said howard silverblatt <COMMA> senior index analyst at s&p dow indices <PUNC>
-possibly competing with second-quarter earnings season <COMMA> which traditionally will kick off with alcoa inc. aa on july <NUM> <COMMA> will be the release of minutes on july <NUM> from the last federal open market committee meeting <PUNC>
-but those minutes are likely to carry less of a punch this time around following the dovish chorus of fed officials in the past week <COMMA> according to silverblatt <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-on thursday <COMMA> stocks ended higher as strong april sales results for retailers and a drop in crude-oil prices to a one-month low lifted the dow jones industrial average to its best level in more than six years <PUNC>
-the dow industrials dji rose <NUM> points to <NUM> <COMMA> its best closing level since jan. <NUM> <PUNC>
-<PAR>

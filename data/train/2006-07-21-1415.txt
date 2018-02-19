@@ -1,9 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-the round rock <COMMA> texas-based dell now sees earnings of <NUM> to <NUM> cents a share for the july period on revenue of about dollar <NUM> billion <PUNC>
-the current average estimate of analysts polled by thomson first call is for a profit of <NUM> cents a share on revenue of dollar <NUM> billion <PUNC>
-dell s stock was last off <NUM> percent at dollar <NUM> <PUNC>
-rival hewlett-packard s shares hpq were off <NUM> percent <PUNC>
-shares of caterpillar inc. cat rose <NUM> percent to dollar <NUM> after the heavy-equipment maker lifted its profit forecast for the year after reporting a <NUM> percent jump in second-quarter earnings <PUNC>
-the company attributed the strong quarter to better prices for its products and higher sales volume <PUNC>
-in other news <COMMA> microsoft corp. msft <COMMA> the world s largest software maker <COMMA> rose <NUM> percent to dollar <NUM> after it issued an upbeat financial forecast for the upcoming fiscal year and announced plans to buy back up to dollar <NUM> billion worth of its own stock with a dollar <NUM> billion tender offer and a five-year share-repurchase program <PUNC>
-<PAR>

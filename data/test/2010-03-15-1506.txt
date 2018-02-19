@@ -1,6 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
-caterpillar inc. cat was the measure s worst performer <COMMA> down <NUM> percent <PUNC>
-energy components exxon mobil corp. xom and chevron corp. cvx were both weak as crude-oil futures fell below dollar <NUM> per barrel <PUNC>
-exxon fell <NUM> percent <COMMA> while chevron slipped <NUM> percent <PUNC>
-offsetting some of the declines <COMMA> wal-mart stores inc. wmt shares gained <NUM> percent after citigroup upgraded the retail giant to buy from hold <COMMA> predicting more aggressive pricing <PUNC>
-<PAR>

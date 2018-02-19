@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-it had fallen as much as <NUM> points during choppy trade early in the session <PUNC>
-travelers cos. trv shares rallied <NUM> percent <COMMA> leading dow gainers <COMMA> after the insurer s earnings report included progress on raising prices <COMMA> signaling the industry may be on the mend <PUNC>
-intel corp. intc shares also helped lift the dow <COMMA> adding <NUM> percent after the semiconductor maker reported a <NUM> percent jump in quarterly earnings late tuesday <PUNC>
-<PAR>

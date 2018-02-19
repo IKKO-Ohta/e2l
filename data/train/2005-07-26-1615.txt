@@ -1,7 +1,0 @@
-the dow jones industrial average dji was off just <NUM> points at <NUM> <PUNC>
-the s&p <NUM> spx was up <NUM> points at <NUM> and the nasdaq composite rixf up <NUM> at <NUM> <PUNC>
-stocks opened higher tuesday <COMMA> but the dow fell back after the conference board reported a decline in its july consumer-confidence headline figure to <NUM> from june s <NUM> <PUNC>
-the result was below the wall street consensus of <NUM> <PUNC>
-tuesday marks one of the busiest days of the second-quarter earnings season <COMMA> featuring reports from dow components verizon communications vz and dupont dd <COMMA> lockheed martin lmt <COMMA> international paper ip and texas instruments txn <COMMA> among others <PUNC>
-dragging on the dow <COMMA> dupont was <NUM> percent lower at dollar <NUM> after the company missed analysts expectations with its report of second-quarter earnings before special items of <NUM> cents a share <PUNC> thomson first call had been looking for earnings per share of <NUM> cents <COMMA> based on the average of analysts estimates <PUNC>
-<PAR>

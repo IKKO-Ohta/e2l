@@ -1,7 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> on friday <COMMA> and finished the week <NUM> percent lower <PUNC>
-general motors gm stock fell the hardest among blue chips <COMMA> losing <NUM> percent <PUNC>
-gm said it expects to take a dollar <NUM> billion hit and cut production by another <NUM> vehicles in the second quarter due to the now-settled strike at american axle & manufacturing holdings <PUNC>
-the dow s financial components <COMMA> aig aig <COMMA> american express axp <COMMA> citigroup c and j.p. morgan chase jpm were also under pressure <PUNC>
-u.s. stocks ended higher as crude futures lost ground on thursday after two sessions of heavy losses <PUNC>
-the dow industrials finished <NUM> points higher <COMMA> the nasdaq composite rose <NUM> points and the s&p <NUM> added <NUM> points <PUNC>
-<PAR>

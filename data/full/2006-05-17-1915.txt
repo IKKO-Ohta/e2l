@@ -1,9 +1,0 @@
-u.s. stocks plunged wednesday afternoon after inflation data raised the odds of further interest rate hikes <COMMA> and put the dow jones industrial average on course to post its biggest one-day point drop in more than three years <PUNC>
-hewlett-packard was the only bright spot on the dow industrials as the computer and printer maker s shares rose following strong quarterly earnings <PUNC>
-the dow dji was last down <NUM> points at <NUM> <COMMA> after falling more than <NUM> points to a session low of <NUM> <PUNC>
-the benchmark is looking at its biggest one-day point drop since march <NUM> 2003 <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to losses. <PUNC>
-hewlett-packard co. hpq was the only dow component posting gains <COMMA> up <NUM> percent at dollar <NUM> <PUNC>
-the company reported a <NUM> percent rise in its second-quarter profit as the technology giant saw strong sales at its personal-computer and printing and imaging divisions <PUNC>
-the company s earnings also beat wall street expectations <PUNC>
-<PAR>

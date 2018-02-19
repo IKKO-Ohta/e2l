@@ -1,3 +1,0 @@
-ahead of monday s open <COMMA> futures for the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> while those for the s&p <NUM> dropped <NUM> points to <NUM> and nasdaq <NUM> futures declined <NUM> to <NUM> <PUNC>
-dow component alcoa inc. aa on tuesday reports its third-quarter results <PUNC>
-<PAR>

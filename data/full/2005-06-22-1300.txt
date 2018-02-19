@@ -1,5 +1,0 @@
-the dow jones industrial average dji ended down <NUM> points at <NUM> <PUNC>
-the benchmark index posted its first back-to-back losses since may <NUM> <PUNC>
-shares of the coca-cola company ko could receive a lift in early trading after the beverage giant and the european commission reached an anti-trust settlement <COMMA> ending a six-year probe into its aggressive marketing techniques on the continent <PUNC>
-on tuesday <COMMA> the stock ended down <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <COMMA> which were most recently led by microsoft <COMMA> off <NUM> percent <COMMA> in the wake of its earnings report thursday <COMMA> which had the company reporting an <NUM> percent profit drop on virtually flat revenue <PUNC>
-<PAR>
-blue-chip gains were fronted by american express co. axp <COMMA> up <NUM> percent after the credit card giant on thursday reported a less-than-forecast first-quarter profit drop <PUNC>
-<PAR>

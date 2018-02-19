@@ -1,9 +1,0 @@
-after dipping below <NUM> for a second day <COMMA> the dow jones industrial average dji was recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components advancing <COMMA> led by american insurance group inc. aig <COMMA> up <NUM> percent <COMMA> after a citigroup analyst upgraded his view of the insurance giant and dow component to a buy <PUNC>
-blue-chip decliners included citigroup inc. c off <NUM> percent after its chief financial officer told a conference call the embattled financial-services giant is likely to take substantial additional markdowns if current trends prevail <PUNC>
-<PAR>
-also among the blue chips <COMMA> general motors corp. gm weighed <COMMA> with shares of the automaker recently down <NUM> percent <PUNC>
-gm said it would divert more of its capital toward the development and production of smaller cars <PUNC>
-<PAR>
-u.s. stocks had another tough session wednesday as fedex s outlook <COMMA> morgan stanley s earnings and fifth third bancorp s dividend cut all took a toll <PUNC>
-the dow industrials closed at a three-month low <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-alcoa aa shares rose <NUM> percent <PUNC>
-the aluminum producer and dow component will release results after the market close <PUNC>
-after climbing <NUM> points <COMMA> the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with wal-mart stores inc. wmt leading the rise that included <NUM> of its <NUM> members <PUNC>
-<PAR>

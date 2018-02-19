@@ -1,9 +1,0 @@
-u.s. stocks traded mixed monday as a broker downgrade of apple computer weighed on the technology sector <COMMA> but the dow jones industrial average moved higher <COMMA> buoyed by solid gains for hewlett-packard <COMMA> general motors corp. and others <PUNC>
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> just off a session high of <NUM> <PUNC>
-it would need to close above <NUM> <COMMA> struck on jan. <NUM> <COMMA> <NUM> <COMMA> to end at a new record high <PUNC>
-wal-mart stores inc. wmt fell <NUM> percent to dollar <NUM> after the company said same-store sales rose <NUM> percent in september from the same period a year ago <COMMA> coming in close to the mid-point of its <NUM> percent to <NUM> percent forecast range for the month <PUNC>
-also on the dow <COMMA> general electric co. ge rose <NUM> percent to dollar <NUM> <PUNC>
-prudential reiterated its overweight rating on the company <COMMA> citing the belief that the diversified industrial giant s growth and profitability of its sales in developing markets appear poised to improve steadily indefinitely <PUNC>
-hewlett-packard shares hpq rose <NUM> percent to dollar <NUM> after an upbeat article on the computer and printer maker in barron s <COMMA> the weekly financial newspaper <PUNC>
-general motors corp. gm was up <NUM> percent at <NUM> percent after its south korean unit gm daewoo auto & technology co. said monday that its sales in september increased <NUM> percent on year to <NUM> units <COMMA> up from <NUM> units a year earlier <COMMA> buoyed by rising demand for its new models <PUNC>
-<PAR>

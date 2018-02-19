@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-wal-mart stores wmt reported a <NUM> percent rise in same-store sales for the month <COMMA> in line with forecasts <PUNC>
-on the earnings front <COMMA> gillette co. g <COMMA> which is in the process of being acquired by procter & gamble pg <COMMA> posted forecast-beating second-quarter results <PUNC>
-it leaves just capital one cof and american express axp as independent credit-card issuers <PUNC>
-<PAR>

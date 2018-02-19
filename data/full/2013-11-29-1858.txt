@@ -1,3 +1,0 @@
-the dow lost <NUM> points <COMMA> or less than <NUM> percent <COMMA> to finish at <NUM> <COMMA> easing from its record close on wednesday and snapping a five-session winning streak <PUNC>
-the blue-chip index rose <NUM> percent for the week and <NUM> percent for november <PUNC>
-<PAR>

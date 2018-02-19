@@ -1,4 +1,0 @@
-the gains come after a friday session in which both the dow jones industrial average and the nasdaq composite succumbed to their biggest one-day declines since <NUM> <PUNC>
-the dow industrials dji were trading at session highs <COMMA> up <NUM> points at <NUM> <COMMA> after giving up more than <NUM> points on friday <PUNC>
-rival automaker gm gm benefited from ford s surprisingly upbeat quarterly report <COMMA> adding <NUM> cents to dollar <NUM> <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-after a 100-point fall <COMMA> the dow jones industrial average dji was off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-materials components sank as u.s. economic prospects clouded <COMMA> following a sharp drop in the consumer confidence index <PUNC>
-alcoa inc. aa was the dow s worst performer <COMMA> down <NUM> percent <COMMA> while caterpillar inc. cat shares sank <NUM> percent <PUNC>
-tech components also struggled <PUNC>
-intel corp. intc shares fell <NUM> percent after the chip-maker said it was hit by a cyber-attack in january <COMMA> according to its annual filing with regulators <PUNC>
-microsoft corp. msft shares fell <NUM> percent after the technology conglomerate reached a patent licensing agreement with amazon.com amzn that gives the online retailer rights to use open-source software in its kindle electronic book reader for an undisclosed sum <PUNC>
-home depot inc. hd was the dow s strongest performer <COMMA> with the home-improvement retailer s stock climbing <NUM> percent after announcing its first dividend hike since <NUM> as earnings topped estimates <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-on wednesday <COMMA> hopes for quick passage of additional economic stimulus as well as reports of a possible fdic-run bank to soak up toxic assets had financials leading a broad-market rally <PUNC>
-the dow jones industrial average dji was lately up <NUM> points to <NUM> <PUNC>
-the s&p <NUM> spx rose <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
-<PAR>

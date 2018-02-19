@@ -1,7 +1,0 @@
-new york dow jones - u.s. stocks were mixed early wednesday <COMMA> with the dow jones industrial average outperforming other indices <COMMA> as an intel downgrade and a disappointing revenue result put pressure on the technology sector <PUNC>
-the dow jones industrials average dji was up <NUM> points at <NUM> and the s&p <NUM> spx up <NUM> points at <NUM> <PUNC>
-general motors gm <COMMA> a dow component <COMMA> continued to claw higher <COMMA> after suffering a <NUM> percent wipeout on monday in the wake of delphi s bankruptcy filing <PUNC>
-the stock rose <NUM> percent to dollar <NUM> after getting an upgrade from deutsche bank <PUNC>
-pfizer inc <COMMA> also in the dow <COMMA> shot up <NUM> percent at dollar <NUM> <COMMA> benefiting from a favorable uk court ruling <PUNC>
-intel intc stock was down <NUM> cents at dollar <NUM> after prudential cut its rating on the chips maker to underweight from neutral <COMMA> saying a number of challenges will hurt revenue and margins <PUNC>
-<PAR>

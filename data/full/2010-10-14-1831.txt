@@ -1,4 +1,0 @@
-after a four-session run-up <COMMA> the dow jones industrial average dji was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components falling <PUNC>
-bank of america corp. bac weighed most on the blue-chip index <COMMA> off <NUM> percent <COMMA> followed by j.p. morgan chase & co. jpm <COMMA> down <NUM> percent <PUNC>
-among the dow s minority risers <COMMA> shares of verizon communications inc. vz were up <NUM> percent after the telecom and apple inc. aapl said verizon wireless <COMMA> a joint venture of verizon and britain s vodafone group plc vod <COMMA> would begin selling apple s ipad at the end of the month <PUNC>
-<PAR>

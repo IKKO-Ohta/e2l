@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
-at&t inc. t helped support the blue-chip average <COMMA> rising <NUM> percent at the open <PUNC>
-on thursday stocks closed mildly lower after the dow jones industrials managed to set a new intraday high <COMMA> as the brunt of selling pressure seen earlier in the day disappeared <PUNC>
-the new high for the dow was <NUM> <PUNC>
-<PAR>

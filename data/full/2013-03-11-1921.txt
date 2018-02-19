@@ -1,5 +1,0 @@
-u.s. stocks recouped monday declines <COMMA> with the financial sector paving the way <COMMA> lifting the s&p <NUM> closer to a record and the dow industrials in position to chalk up another one <PUNC>
-after hitting an all-time high last week on a better-than-expected monthly jobs report <COMMA> the dow industrials dji on monday rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the dow is what gets all the news among the public <COMMA> as it is more widely recognized <COMMA> but for the insider and for technical reasons <COMMA> it s more important for the s&p <NUM> to breach its previous closing high <COMMA> said mark luschini <COMMA> chief investment strategist at janney montgomery scott <PUNC>
-as long as there is this widely held view that we re in for a correction <COMMA> we re likely not going to have one <COMMA> added luschini of expectations that the market was due for a pullback <COMMA> given the more than <NUM> percent rise by the dow so far this year <PUNC>
-<PAR>

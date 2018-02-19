@@ -1,3 +1,0 @@
-after rising to within a few points of the psychologically significant <NUM> level <COMMA> the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components in retreat <PUNC>
-after the close <COMMA> alcoa inc. aa releases third-quarter financial results <COMMA> with the aluminum manufacturer the first of the dow s <NUM> components to report <PUNC>
-<PAR>

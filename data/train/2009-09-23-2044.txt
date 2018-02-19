@@ -1,3 +1,0 @@
-abruptly pulling back after its 80-point rise <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> off <NUM> points <PUNC>
-the s&p <NUM> index spx lost <NUM> points to <NUM> <COMMA> and the nasdaq composite index rixf shed <NUM> points to <NUM> <PUNC>
-<PAR>

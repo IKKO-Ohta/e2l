@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-all of the blue-chip index s <NUM> components posted early gains <COMMA> with exxon mobil xom among the early gainers <PUNC>
-on wednesday <COMMA> u.s. stocks staged another last-ditch turnaround to end most lower <COMMA> pushing the dow industrials back below the <NUM> level after the federal reserve cut its federal funds target rate as anticipated <PUNC>
-<PAR>

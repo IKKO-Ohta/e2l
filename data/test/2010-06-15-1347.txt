@@ -1,4 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-caterpillar was the dow s strongest performer with a <NUM> percent jump <PUNC>
-microsoft was also strong <COMMA> up <NUM> percent <COMMA> along with boeing <COMMA> which rose <NUM> percent <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-u.s. stocks rose friday <COMMA> with the s&p <NUM> index joining the dow industrials in positive turf for the week <COMMA> after germany and france jointly pledged to protect the euro zone <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

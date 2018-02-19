@@ -1,7 +1,0 @@
-the dow jones industrial average dji recently shed <NUM> points <COMMA> or <NUM> percent <COMMA> to trade at <NUM> <COMMA> led by a <NUM> percent decline in component caterpillar cat <COMMA> which reported a sharp decline in fourth-quarter earnings <PUNC>
-among the dow s other big losers were alcoa aa <COMMA> off <NUM> percent <COMMA> and united technologies utx <COMMA> off <NUM> percent <PUNC>
-the latter also reported fourth-quarter financial results before the bell <PUNC>
-in addition <COMMA> dow industrials and s&p <NUM> component boeing ba was up <NUM> percent after it announced it had swung to a fourth-quarter profit <COMMA> recovering from a machinists strike last year <PUNC>
-the dow has fallen in four of the last five full trading sessions <COMMA> losing a combined <NUM> percent <PUNC>
-it also came into wednesday s action down <NUM> percent for january a troublesome sign for traders who look at the early-year moves as a harbinger of things to come for the next <NUM> months <PUNC>
-<PAR>

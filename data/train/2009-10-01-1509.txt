@@ -1,2 +1,0 @@
-the s&p <NUM> spx shed <NUM> points to <NUM> <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM>,and the nasdaq composite rixf declined <NUM> points to <NUM> <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-dow component boeing ba was up1.5 percent at dollar <NUM> after the company lifted its earnings guidance for the year <PUNC>
-the company s second-quarter results showed boeing benefiting from overseas demand and u.s. government spending <PUNC>
-<PAR>
-however <COMMA> fellow dow component citigroup c was down <NUM> cents at dollar <NUM> after merrill lynch downgraded both citigroup and bank of america to neutral <PUNC>
-<PAR>

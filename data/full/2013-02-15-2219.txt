@@ -1,9 +1,0 @@
-u.s. stocks hit their lows of the day in afternoon trading following a bloomberg news report that a wal-mart stores inc. wmt executive called the retailer s february sales a total disaster in an internal email <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or less than <NUM> percent <COMMA> to close at <NUM> <PUNC>
-that comeback wasn t enough to save the dow for the week as it logged its second week of losses in a row <COMMA> with a <NUM> percent decline <PUNC>
-sixteen of the dow s <NUM> components closed in positive territory with coca-cola co. ko shares <NUM> percent higher <PUNC>
-reflecting the day s choppy trading <COMMA> the index crossed zero <NUM> times during the session <PUNC>
-wal-mart shares <COMMA> which closed down <NUM> percent <COMMA> dragged on the dow <PUNC>
-the nation s largest retailer is scheduled to report fourth-quarter earnings february <NUM> <PUNC>
-consumer spending <COMMA> as evidenced by earnings reports from other retail-focused companies <COMMA> has been a relative bright spot in the slow-going economic recovery <PUNC>
-<PAR>

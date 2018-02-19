@@ -1,6 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points to <NUM> <PUNC>
-weaker-than-expected economic data hit cyclical blue-chip stocks <COMMA> such as alcoa inc. aa <COMMA> which fell <NUM> percent and caterpillar inc. cat <COMMA> which lost almost <NUM> percent <PUNC>
-meanwhile <COMMA> jp morgan chase & co. jpm provided support <COMMA> gaining nearly <NUM> percent <PUNC>
-still <COMMA> investors have been discretely bailing out of economically-sensitive sector <COMMA> such as rail and trucking companies <PUNC>
-the dow jones transportation average <NUM> has now fallen <NUM> percent since late november <PUNC>
-<PAR>

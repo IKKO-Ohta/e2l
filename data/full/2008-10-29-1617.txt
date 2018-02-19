@@ -1,9 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-chevron corp. cvx fronted the dow s gains <COMMA> rising <NUM> percent <PUNC>
-household-products giant procter & gamble co. pg led the blue-chip benchmark s losses <COMMA> recently down <NUM> percent <PUNC>
-p&p earlier reported a <NUM> percent rise in first-quarter profit but also lowered the bottom end of its earnings forecast for fiscal <NUM> <PUNC>
-earnings reports included kraft foods inc. kft <COMMA> which said third-quarter income more than doubled after the food maker exited the post cereal business <PUNC>
-<PAR>
-u.s. stocks surged on tuesday in a session that led traders and analysts to debate whether a bottom has been reached or if simply a bear-market rally has unfolded <PUNC>
-the dow industrials surged <NUM> points <COMMA> the second biggest-point jump ever <PUNC>
-<PAR>

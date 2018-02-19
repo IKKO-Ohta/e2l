@@ -1,4 +1,0 @@
-stocks had jumped to session highs after the central bank said it would add further stimulus <COMMA> with the dow jones industrial average rising as much as <NUM> points <PUNC>
-the dow industrials dji declined <NUM> points at <NUM> <PUNC>
-dow gainers included dupont dd <COMMA> up <NUM> percent after the chemicals company said it would repurchase as much as dollar <NUM> billion of its shares in <NUM> and that <NUM> profit would come in at the high end of its outlooks <PUNC>
-<PAR>

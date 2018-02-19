@@ -1,9 +1,0 @@
-the dow jones industrial average dji last was down almost <NUM> points at <NUM> <PUNC>
-however <COMMA> the most recent philadelphia federal reserve s survey of manufacturing was disappointing <PUNC>
-the headline figure for december was <NUM> <COMMA> up from <NUM> in november <COMMA> but below the dow jones forecast of <NUM> <PUNC>
-altria mo was up as much as <NUM> percent after the illinois supreme court held that the company had a right to market certain cigarettes as being light in nicotine <PUNC>
-also in financials <COMMA> j.p. morgan chase jpm rose <NUM> cent to dollar <NUM> <PUNC>
-the company will pay dollar <NUM> million in cash to buy collegiate funding services as the financial-services giant moves to expand its student-lending business <PUNC>
-meanwhile <COMMA> merck & co. mrk advanced as much as <NUM> percent to dollar <NUM> after announcing new restructuring efforts that it calculates will yield dollar <NUM> billion in savings <PUNC>
-and microsoft msft was down about <NUM> percent after the software maker raised its dividend by <NUM> percent <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at 10.587.93 <COMMA> off an intraday high of <NUM> <PUNC>
-the benchmark index has now fallen for three straight sessions <PUNC>
-general electric co s stock ge could get a lift in early trading after the industrial conglomerate said it would re-organize from <NUM> businesses into six in a move that would lead to dollar <NUM> million to dollar <NUM> million in cost savings <PUNC>
-<PAR>

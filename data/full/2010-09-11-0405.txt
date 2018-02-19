@@ -1,4 +1,0 @@
-up <NUM> percent for the week <COMMA> the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with the blue-chip index ending back in the black for the year for the first time in the holiday-shortened week <PUNC>
-global shipper fedex corp. fdx and business software titan oracle corp. orcl are on tap for thursday <PUNC>
-oracle <COMMA> which recently hired ousted hewlett-packard hpq executive mark hurd <COMMA> is expected to report sharp gains in profit and sales <PUNC>
-<PAR>

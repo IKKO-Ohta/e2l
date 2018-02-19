@@ -1,3 +1,0 @@
-the dow jones industrial average dji declined <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
-coca-cola co. ko shares edged lower in the wake of the company s announcement that it was offering as much as dollar <NUM> billion to buy china huiyuan juice group ltd. <PUNC>
-<PAR>

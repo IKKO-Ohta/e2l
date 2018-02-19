@@ -1,7 +1,0 @@
-new york dow jones - u.s. stocks traded mixed in the final hour of trading thursday as caterpillar s weaker-than-expected earnings kept the dow jones industrial average under pressure <COMMA> but a strong quarter from google lent support to the broader market <PUNC>
-the dow jones industrial average dji fell as low as <NUM> after a brief foray into positive territory early in the session <PUNC>
-the benchmark index is on course to post a drop of around <NUM> percent on the week <PUNC>
-quarterly results from caterpillar inc. cat <COMMA> however <COMMA> served as a reminder to investors that the third-quarter earnings season has been somewhat of a mixed bag so far <PUNC>
-shares of pfizer pfe extended an <NUM> percent loss on thursday after two brokers cut their price target on the drug giant after it lowered its <NUM> outlook and withdrew its forecast for <NUM> and <NUM> <PUNC>
-the stock fell as much as <NUM> percent to dollar <NUM> in afternoon trading <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in early trading <COMMA> while the standard & poor s <NUM> stock index spx added <NUM> points at <NUM> and the nasdaq composite rixf rose <NUM> points to <NUM> <PUNC>
-the dow had edged down <NUM> percent on tuesday <COMMA> hurt by disappointing earnings and economic reports that cast more doubt on the turnaround <PUNC>
-<PAR>

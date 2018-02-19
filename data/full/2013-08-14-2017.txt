@@ -1,5 +1,0 @@
-u.s. stocks fell sharply on wednesday <COMMA> with the first triple-digit drop for the dow since june <COMMA> as investors worried about the recent spike in borrowing costs as well as the timing and pace of potential reductions in the federal reserve s bond purchases <PUNC>
-after a 134-point drop <COMMA> the dow jones industrial average dji finished down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <COMMA> led by home-improvement retailer home depot inc. hd <COMMA> down <NUM> percent <PUNC>
-cisco systems inc. csco erased losses <COMMA> with the technology company and dow component ending up <NUM> percent ahead of its quarterly results after the close <PUNC>
-wall street will be looking to wal-mart stores inc. wmt for further confirmation on the state of the consumer when the largest u.s. retailer reports quarterly earnings tomorrow morning <COMMA> dickson added <PUNC>
-<PAR>

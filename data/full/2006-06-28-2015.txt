@@ -1,3 +1,0 @@
-with less than an hour of trade left <COMMA> the dow jones industrial average dji was near its best levels <COMMA> up <NUM> points at <NUM> <PUNC>
-the relatively quiet price action followed a rout on tuesday <COMMA> when the dow gave its worst one-day performance since june <NUM> <COMMA> losing <NUM> points amid nervousness ahead of the fed s expected rate hike on thursday <PUNC>
-<PAR>

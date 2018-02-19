@@ -1,6 +1,0 @@
-after falling early on <COMMA> the dow jones industrial average dji was more recently up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <COMMA> led by ibm <COMMA> up <NUM> percent <PUNC>
-blue-chip laggards included american express co. axp <COMMA> general electric co. ge <COMMA> and at&t inc. t <PUNC>
-another blue chip <COMMA> automaker general motors corp. gm <COMMA> edged lower as a key gm supplier staged walkouts at several plants <PUNC>
-in other earnings <COMMA> home depot hd reported a <NUM> percent profit fall a day after smaller rival lowe s low unveiled a <NUM> percent profit fall <PUNC>
-home depot expects <NUM> adjusted earnings per share to fall as much as <NUM> percent on a <NUM> percent sales fall <PUNC>
-<PAR>

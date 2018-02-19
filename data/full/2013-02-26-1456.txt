@@ -1,3 +1,0 @@
-after losing <NUM> points in monday s session <COMMA> the dow jones industrial average dji on tuesday rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-twenty-five of the dow s <NUM> components were in the green <COMMA> led by shares of home depot inc. hd <COMMA> up <NUM> percent after the home-improvement retailer beat profit expectations and approved a share repurchase <PUNC>
-<PAR>

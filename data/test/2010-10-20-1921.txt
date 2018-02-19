@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the standard & poor s 500-stock index spx was higher by <NUM> points to <NUM> and the nasdaq composite rixf gained <NUM> points to <NUM> <PUNC>
-transport stocks also leapt <COMMA> with the dow jones transport average djt gaining <NUM> percent after a trio of airlines reported strong earnings <PUNC>
-intel intc and boeing ba helped advance the broad-based rally <COMMA> which included all but one of the dow s <NUM> components and all <NUM> sectors of the s&p <NUM> <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-u.s. stocks closed higher on the day and week thursday <COMMA> with the dow jones industrial average posting its first six-session string of gains in more than four months <COMMA> although price action was restrained ahead of the three-day easter holiday <PUNC>
-the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> marking its first six-session winning streak since november <NUM> <PUNC>
-dow component general motors gm closed <NUM> percent higher at dollar <NUM> after billionaire investor kirk kerkorian switched his sights from reshaping the company to focus on trying to buy its rival chrysler <PUNC>
-in the abbreviated week <COMMA> the dow gained <NUM> percent <COMMA> the s&p <NUM> ran up <NUM> percent and the nasdaq took a <NUM> percent gain <PUNC>
-the nasdaq had its first 6-session run of gains since february <NUM> <PUNC>
-the first-quarter earnings season will begin in earnest next week <COMMA> with results from aluminum producer alcoa inc. aa <PUNC>
-<PAR>

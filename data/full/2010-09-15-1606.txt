@@ -1,5 +1,0 @@
-the major indexes meandered on either side of neutral <COMMA> with the dow jones industrial average dji lately up <NUM> points at <NUM> <PUNC>
-eighteen of its <NUM> components gained <COMMA> led by insurer travelers companies inc. trv <COMMA> up <NUM> percent <PUNC>
-hewlett-packard co. hpq climbed <NUM> percent one day after cisco systems inc. csco announced its first dividend <PUNC>
-trv <PUNC>
-<PAR>

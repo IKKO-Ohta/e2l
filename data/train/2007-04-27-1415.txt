@@ -1,7 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> stocks fell <PUNC>
-still <COMMA> microsoft msft bucked the trend <COMMA> providing support for the blue-chip average <PUNC>
-its shares were up <NUM> percent after the software giant posted a <NUM> percent profit rise <COMMA> buoyed by sales of its new vista operating system <PUNC>
-also on the dow <COMMA> at&t t dropped <NUM> percent after the wall street journal reported that edward whitacre jr. stands to get a pension package of dollar <NUM> million when he steps down <PUNC>
-on thursday <COMMA> u.s. stocks closed with another record level for the dow industrials and a 6.6-point rise for the nasdaq composite <COMMA> which was boosted by an upbeat earnings report from apple inc <PUNC>
-the s&p <NUM> closed <NUM> points lower <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-after early losses <COMMA> futures for the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-on thursday <COMMA> further worries about the beleaguered financial sector hit stocks again <COMMA> with the dow falling <NUM> points <COMMA> marketing its sixth down day in the last seven sessions <PUNC>
-<PAR>

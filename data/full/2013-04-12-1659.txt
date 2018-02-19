@@ -1,7 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after touching an intraday low of <NUM> <COMMA> with <NUM> out of <NUM> components trading lower <PUNC>
-cisco systems inc. csco and dupont dd led the index lower with a <NUM> percent declines <PUNC>
-on thursday <COMMA> the dow closed at a record high for a third straight session and the s&p <NUM> set a record close for a second day <PUNC>
-until now <COMMA> investors have been dazzled by record levels in the dow industrials and s&p <NUM> <COMMA> but weaker economic data may be taking some of the luster off the rally <PUNC>
-stock futures friday had been heading lower before the open after dow-component j.p. morgan chase & co. jpm quarterly results beat wall street estimates but not by enough for investors <PUNC>
-shares fell <NUM> percent <PUNC>
-<PAR>

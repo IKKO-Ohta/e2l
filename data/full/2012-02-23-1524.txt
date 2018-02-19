@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-hewlett-packard co. hpq fell the most among its <NUM> components after thje computer maker projected second-quarter profit short of estimates <PUNC>
-<PAR>

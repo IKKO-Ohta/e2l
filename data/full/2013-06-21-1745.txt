@@ -1,7 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-merck & co. mrk and procter & gamble co. pg were its top gainers <PUNC>
-the dow s slide on wednesday and thursday a drop of <NUM> points or <NUM> percent was its worst two-day drop since the two sessions ended nov. <NUM> <COMMA> <NUM> <COMMA> both in terms of points and percentage <PUNC>
-it s on track for a third straight day <PUNC>
-on thursday <COMMA> the dow dived <NUM> points <COMMA> or <NUM> percent <COMMA> representing its largest one-day percentage decline since nov. <NUM> <COMMA> the day after the u.s. election <COMMA> and its largest one-day points drop since nov. <NUM> <COMMA> <NUM> <PUNC>
-gold and oil prices also tumbled <COMMA> while the dollar and the 10-year treasury yield jumped <PUNC>
-<PAR>

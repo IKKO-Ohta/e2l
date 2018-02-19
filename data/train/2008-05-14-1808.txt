@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but two of its <NUM> components trading higher <PUNC>
-hewlett-packard co. hpq and verizon communications inc. vz led the blue-chip advance <COMMA> with h-p up <NUM> percent and verizon communications inc. climbing <NUM> percent <PUNC>
-caterpillar inc. cat and mcdonald s corp. mcd both lost ground <COMMA> each down nearly <NUM> percent <PUNC>
-on wednesday <COMMA> u.s. equities ended mixed <COMMA> with the blue chips hit by a cautious second-quarter outlook from wal-mart stores inc. wmt and tech stocks drawing a late-session lift from reports billionaire carl icahn had acquired a significant stake in yahoo inc. yhoo <COMMA> potentially in an attempt to force a sale of the internet search company <COMMA> which rebuffed would-be acquirer microsoft corp. msft recently <PUNC>
-<PAR>

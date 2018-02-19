@@ -1,5 +1,0 @@
-finishing about <NUM> points away from its session high <COMMA> the dow jones industrial average dji ended up <NUM> points at <NUM> <PUNC>
-construction-machinery giant caterpillar cat said it would acquire mining-equipment maker bucyrus international inc. bucy <PUNC>
-<PAR>
-before tuesday s open <COMMA> wal-mart stores inc. wmt will report its third-quarter results <COMMA> with analysts looking for signs of improvement from the world s largest retailer <PUNC>
-<PAR>

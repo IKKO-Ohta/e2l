@@ -1,5 +1,0 @@
-the dow jones industrial average dji opened nearly flat then moved decisively higher <PUNC>
-intel intc jumped up <NUM> percent higher to dollar <NUM> after the buyback and dividend news <PUNC>
-general motors gm fell more than <NUM> percent to dollar <NUM> <PUNC>
-the world s largest auto maker announced it will restate its earnings for <NUM> because an accounting error led it to overstate its <NUM> profit by up to dollar <NUM> million <PUNC>
-<PAR>

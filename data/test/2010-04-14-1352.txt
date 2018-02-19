@@ -1,9 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a fresh 52-week high <COMMA> in early trading <PUNC>
-the standard & poor s 500-stock index spx rose <NUM> percent and broke above the key <NUM> level for the first time in nearly <NUM> months <PUNC>
-intel intc rose <NUM> percent after the world s leading microchip maker said late tuesday its quarterly profit nearly quadrupled on <NUM> percent revenue growth <PUNC>
-j.p. morgan chase jpm jumped <NUM> percent after its first-quarter earnings rose a bigger-than-expected <NUM> percent <COMMA> as delinquencies continued to decline and the bank set aside less money to cover loans expected to go bad <PUNC>
-intel and j.p. morgan were the dow s top two performers <PUNC>
-other financial components also strengthened <COMMA> with bank of america bac up <NUM> percent and american express axp up <NUM> percent <PUNC>
-microsoft msft gained <NUM> percent <COMMA> while hewlett-packard hpq rose <NUM> percent <PUNC>
-some investors cautioned wednesday that the market s recent climb <COMMA> including the dow s push past <NUM> <COMMA> may not be based on stock fundamentals <PUNC>
-<PAR>

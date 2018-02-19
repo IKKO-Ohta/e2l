@@ -1,6 +1,0 @@
-the dow jones industrial average dji ended just off its low for the session <COMMA> down <NUM> points at <NUM> <PUNC>
-for november <COMMA> the benchmark index gained <NUM> percent <PUNC>
-within the dow <COMMA> general motors gm <COMMA> along with other carmakers <COMMA> was under pressure <COMMA> a day before those companies are slated to post their november u.s. sales results <PUNC>
-analysts are expecting another lackluster month of sales despite second-half promotions and easing gasoline prices <PUNC>
-gm was the biggest percentage decliner on the benchmark index <COMMA> down <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose by more than <NUM> points in morning trade <PUNC>
-among dow components <COMMA> gm gm was as much as <NUM> percent higher on the news it kept its dividend rate unchanged <COMMA> while caterpillar cat rallied more than <NUM> percent after unveiling bullish growth goals to analysts <PUNC>
-wal-mart stores wmt <COMMA> also in the dow <COMMA> rallied <NUM> percent <PUNC>
-over the weekend the mega-retailer said it s october same-store sales outstripped internal forecasts <PUNC>
-<PAR>

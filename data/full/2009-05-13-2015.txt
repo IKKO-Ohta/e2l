@@ -1,5 +1,0 @@
-on wednesday <COMMA> stocks tallied steep losses in the wake of disappointing retail sales data for april <PUNC>
-after sliding as much as <NUM> points <COMMA> the dow jones industrial average dji finished at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
-the s&p <NUM> index spx shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-health-care stocks fared the best amid the broad market decline <COMMA> with pharmaceutical giant merck & co. inc. mrk up <NUM> percent <COMMA> although down <NUM> percent year-to-date <PUNC>
-<PAR>

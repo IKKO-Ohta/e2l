@@ -1,6 +1,0 @@
-on friday <COMMA> the u.s. labor department will release its jobs report for february <PUNC>
-the report follows federal reserve chairman ben bernanke s congressional testimony last week <COMMA> when he backed the central bank s efforts to help stimulate economic activity <PUNC>
-his assertion ignited a rally that brought the dow jones industrial average dji within <NUM> points of its all-time record closing high of <NUM> <PUNC>
-on friday <COMMA> the dow industrials rose <COMMA> ending <NUM> points away from its record finish <PUNC>
-the s&p <NUM> index spx gained <NUM> percent to <NUM> and the nasdaq composite rixf climbed <NUM> percent to <NUM> <PUNC>
-<PAR>

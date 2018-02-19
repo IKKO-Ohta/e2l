@@ -1,9 +1,0 @@
-u.s. stocks were mixed on tuesday <COMMA> with the dow jones industrial average edging towards <NUM> amid upbeat news from ibm <COMMA> but with the broad market under pressure after news that existing home sales had their worst drop in <NUM> years in march <COMMA> while consumer confidence edged further down in april <PUNC>
-the dow industrials dji were up <NUM> points at <NUM> <COMMA> with only <NUM> of its <NUM> components leading the advance <PUNC>
-ibm ibm was the strongest source of support for blue chips <COMMA> rising <NUM> percent after the company raised its quarterly dividend by <NUM> cents <COMMA> and increased its stock buyback plan by dollar <NUM> billion <PUNC>
-honeywell international inc. hon <COMMA> whose earnings topped expectations by a wide margin friday thanks to strong international operations <COMMA> also helped <COMMA> rising <NUM> percent <PUNC>
-and dupont dd gained <NUM> percent after its earnings topped expectations <PUNC>
-on the nasdaq <COMMA> fellow chip-maket sandisk sndk gained <NUM> percent <PUNC>
-but on the dow <COMMA> fellow chip-market intel corp. intc reversed early gains and was down <NUM> percent <PUNC>
-on the dow <COMMA> at&t t dropped <NUM> percent after the telecom firm posted earnings <COMMA> adjusted for one-time costs <COMMA> which topped analysts forecasts <PUNC>
-<PAR>

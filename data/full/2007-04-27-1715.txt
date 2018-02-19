@@ -1,7 +1,0 @@
-still <COMMA> the market took the news in stride <PUNC>
-the dow jones industrial average dji was recently up <NUM> points at <NUM> <COMMA> after gyrating between positive and negative territory <COMMA> and with <NUM> of its <NUM> components falling <PUNC>
-weighing on the dow were shares of general motors corp. gm <COMMA> home depot inc. hd <COMMA> intel corp. intc <COMMA> and jp morgan chase & co. jpm <PUNC>
-but microsoft msft bucked the trend <COMMA> providing support for the blue-chip average <PUNC>
-its shares were up <NUM> percent after the software giant posted a <NUM> percent profit rise <COMMA> buoyed by sales of its new vista operating system <PUNC>
-and general electric co. ge also gained <COMMA> rising <NUM> percent after citigroup suggested the company would benefit from spinning off its tv networks <COMMA> movie studios and mortgage lending units <PUNC>
-<PAR>

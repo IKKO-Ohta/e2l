@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components in positive territory <PUNC>
-the blue-chip average was boosted by gains in the likes of boeing co. ba <COMMA> alcoa inc. aa and verizon communications vz <PUNC>
-intel corp. intc also helped <COMMA> rising <NUM> percent in sympathy with fellow chip-maker analog devices <PUNC>
-<PAR>

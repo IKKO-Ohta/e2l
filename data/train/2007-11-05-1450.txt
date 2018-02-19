@@ -1,6 +1,0 @@
-wall street opened sharply lower monday <COMMA> with the dow industrials shedding more than <NUM> points <COMMA> after blue chip citigroup inc. said it might have to write off dollar <NUM> billion more in losses <COMMA> amplifying worries about the extent of the credit crisis <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-citigroup c stirred investor discontent with its announcement that charles prince would step down as chairman and chief executive of the largest u.s. bank <COMMA> which is also looking at writing off up to dollar <NUM> billion more of the dollar <NUM> billion in subprime-related securities it holds <PUNC>
-<PAR>
-and shares of petrochina co. ptr more than doubled in their shanghai debut <COMMA> giving the oil giant a dollar <NUM> trillion market capitalization and easily passing exxon mobil corp. xom as the world s largest company <PUNC>
-<PAR>

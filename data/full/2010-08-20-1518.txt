@@ -1,7 +1,0 @@
-the dow jones industrial average is now firmly in the red for the week <COMMA> as disappointing jobs and manufacturing data wiped out gains from excitement over a resurgence in global merger activity <PUNC>
-the dow dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-among the measure s worst performers <COMMA> manufacturing giant 3m mmm shed <NUM> percent <COMMA> caterpillar cat fell <NUM> percent and aluminum producer alcoa aa dropped <NUM> percent <PUNC>
-chip maker intel intc rose <NUM> percent <COMMA> erasing a sliver of its thursday bruising after the company agreed to acquire computer-security software company mcafee mfe <PUNC>
-however <COMMA> hewlett-packard hpq dropped <NUM> percent <COMMA> even as its profit climbed <NUM> percent on higher worldwide sales in its fiscal third quarter <COMMA> the technology giant s final quarter with mark hurd at its helm <PUNC>
-but investors have been skittish about h-p since hurd left the company two weeks ago <COMMA> during which the stock has lost about <NUM> percent of its value <PUNC>
-<PAR>

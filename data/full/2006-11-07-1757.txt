@@ -1,7 +1,0 @@
-u.s. stocks rallied for a second session tuesday as gains in boeing co. shares on the back of an aircraft order helped lift the dow jones industrial average to fresh highs <COMMA> with investors also mulling what impact the outcome of the midterm elections will have on the market <PUNC>
-the dow industrials dji rose as much as <NUM> points to <NUM> <COMMA> beating its previous record high of <NUM> <PUNC>
-the blue-chip benchmark was last up <NUM> points at <NUM> as boeing ba gained <NUM> percent after fedex corp. fdx ordered <NUM> new <NUM> freighter aircraft from the aircraft manufacturer <PUNC>
-intel corp. intc <COMMA> procter & gamble co. pg and general electric co. ge were other notable gainers <PUNC>
-dow component general motors gm rose <NUM> cents to dollar <NUM> <PUNC>
-the auto maker said in a securities and exchange commission filing that it s revised its third-quarter net loss to dollar <NUM> million <COMMA> down dollar <NUM> million from what it previously reported <COMMA> due to additional loan sales that had not been previously reported by its gmac arm <PUNC>
-<PAR>

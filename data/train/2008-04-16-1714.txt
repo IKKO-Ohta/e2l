@@ -1,9 +1,0 @@
-the dow jones industrial average dji was up <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components advancing <PUNC>
-shares of intel intc climbed <NUM> percent as the chipmaker predicted a <NUM> percent gross margin for the second quarter and said revenue would be better than analysts expected <PUNC>
-fueling gains for financial stocks on the dow and the broad market <COMMA> j.p. morgan chase s jpm first-quarter profit <COMMA> while cut in half <COMMA> wasn t as bad as analysts predicted <PUNC>
-j.p. morgan shares rose <NUM> percent <COMMA> while citigroup inc. c gained <NUM> percent <COMMA> bank of america bac gained <NUM> percent and aig aig rose <NUM> percent <PUNC>
-also on the dow <COMMA> coca-cola ko fell <NUM> percent <COMMA> even after the beverage giant reported a <NUM> percent profit rise during the first quarter <COMMA> also topping forecasts <PUNC>
-after the close <COMMA> international business machines ibm and ebay ebay are due to report results <PUNC>
-well-received results from regional banks helped u.s. stocks rise on tuesday <COMMA> albeit on light volumes <PUNC>
-the dow industrials rose <NUM> points <COMMA> the s&p <NUM> added <NUM> points and the nasdaq composite rose <NUM> points <PUNC>
-<PAR>

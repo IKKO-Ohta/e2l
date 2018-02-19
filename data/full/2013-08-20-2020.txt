@@ -1,3 +1,0 @@
-after briefly slipping below <NUM> for the first time since july <NUM> <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <COMMA> extending its losing streak to five sessions <PUNC>
-reversing course <COMMA> home depot inc. hd slid <NUM> percent after the home-improvement retailer and dow component raised its outlook for yearly profit growth <PUNC>
-<PAR>

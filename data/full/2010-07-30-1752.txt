@@ -1,8 +1,0 @@
-the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> in recent trading <PUNC>
-still <COMMA> the measure is up <NUM> percent on the month <PUNC>
-the standard & poor s <NUM> spx <COMMA> meanwhile <COMMA> slipped <NUM> percent to <NUM> recently <COMMA> below the psychologically important <NUM> level <COMMA> but it is up <NUM> percent for july <PUNC>
-friday marks the final session of a blockbuster month that has seen the dow and the s&p <NUM> climb more than they have in any month since last july <PUNC>
-it also marks the measures first positive month since april <PUNC>
-merck mrk fell <NUM> percent after the drug company s second-quarter earnings dropped <NUM> percent on acquisition and other charges while sales of its key drugs weren t as strong as in recent quarters <PUNC>
-merck s revenue missed expectations <COMMA> and the company narrowed its <NUM> earnings forecast while trimming the top end of its sales view for the year <PUNC>
-<PAR>

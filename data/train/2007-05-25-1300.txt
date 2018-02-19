@@ -1,4 +1,0 @@
-futures for the dow jones industrial average dji were up <NUM> points at <NUM> <COMMA> while those for the s&p <NUM> spx gained <NUM> points to <NUM> <PUNC>
-dow component coca-cola ko gained <NUM> percent before the open after saying it s agreed to buy energy brands inc. <COMMA> also known as glaceau <COMMA> for dollar <NUM> billion <PUNC>
-the acquisition will provide coca-cola with energy brands enhanced water products <COMMA> including the vitaminwater and smartwater brand <PUNC>
-<PAR>

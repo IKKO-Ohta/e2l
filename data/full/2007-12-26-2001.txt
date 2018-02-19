@@ -1,8 +1,0 @@
-the dow jones industrial average dji edged up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-earlier <COMMA> the index hit an intraday low of <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> eleven traded higher <PUNC>
-among the biggest decliners were citigroup c <COMMA> down <NUM> percent at dollar <NUM> <COMMA> and walt disney dis <COMMA> down <NUM> percent <PUNC>
-bucking the negative trend <COMMA> shares of exxon mobil corp. xom gained <NUM> percent to stand at dollar <NUM> <COMMA> as crude-oil futures rallied <PUNC>
-fellow blue chip caterpillar inc. cat also rose <COMMA> tacking on <NUM> percent to dollar <NUM> <PUNC>
-in a shortened trading session monday <COMMA> the dow rose <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
-<PAR>

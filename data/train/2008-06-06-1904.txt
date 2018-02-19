@@ -1,2 +1,0 @@
-the dow jones industrial average slid <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all of its <NUM> components in the red <PUNC>
-<PAR>

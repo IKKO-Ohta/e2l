@@ -1,8 +1,0 @@
-the dow jones industrial average dji was last down <NUM> points at <NUM> <PUNC>
-altria group inc. s mo shares fell <NUM> cents to dollar <NUM> after offering up a fiscal <NUM> profit forecast that fell shy of analyst expectations <PUNC>
-the dow industrials component s outlook came as it reported a higher fourth-quarter profit <COMMA> helped by growth in its tobacco business <COMMA> which was partially offset by weakness in its kraft foods inc. kft division <PUNC>
-altria owns about <NUM> percent of kraft <PUNC>
-merck mrk <COMMA> another dow industrials component <COMMA> saw its shares pick up <NUM> cents to dollar <NUM> in early trading after the pharmaceutical company posted adjusted earnings that topped wall street s view <PUNC>
-its results included significant contributions to its legal defense fund to fight a number of lawsuits related to vioxx <COMMA> its painkiller drug <PUNC>
-also <COMMA> shares of alcoa inc. aa rose <NUM> percent to dollar <NUM> after ubs upgraded the maker of aluminum products to buy from neutral on an increased aluminum price forecast <PUNC>
-<PAR>

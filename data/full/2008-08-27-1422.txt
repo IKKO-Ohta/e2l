@@ -1,2 +1,0 @@
-up four of the last five trading days <COMMA> the dow jones industrial average dji see-sawed in and out of positive territory in early action <COMMA> with the blue-chip index most recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components pulling higher <PUNC>
-<PAR>

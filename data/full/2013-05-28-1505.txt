@@ -1,2 +1,0 @@
-the dow jones industrial average dji rallied <NUM> points to <NUM> <PUNC>
-<PAR>

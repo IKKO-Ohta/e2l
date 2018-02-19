@@ -1,4 +1,0 @@
-wednesday s mild gains come a day after another record-setting rally that had the dow jones industrial average dji and the s&p <NUM> index spx closing at all-time highs <PUNC>
-the dow industrials added <NUM> points to <NUM> <PUNC>
-cisco systems inc. shares csco edged lower ahead of the networking giant reporting third-quarter earnings <COMMA> projected to come in at <NUM> cents a share <PUNC>
-<PAR>

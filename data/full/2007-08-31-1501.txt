@@ -1,2 +1,0 @@
-up more than <NUM> points ahead of bernanke s speech <COMMA> the dow jones industrial average dji was more recently up <NUM> points at <NUM> <COMMA> with all of its <NUM> stocks posting gains <COMMA> led by intel corp. intc and boeing co. ba <COMMA> both up more than <NUM> percent <PUNC>
-<PAR>

@@ -1,9 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> recovering from earlier losses that saw the blue-chip barometer fall as low as <NUM> <PUNC>
-helping spark stocks bounce <COMMA> intel inc. intc <COMMA> a component of the dow <COMMA> jumped <NUM> percent to dollar <NUM> <PUNC>
-banc of america raised its estimate for the chip king s earnings in the fourth quarter and <NUM> <PUNC>
-shares of wal-mart stores wmt rose <NUM> % after reporting same-store-sales that were in line with its latest forecast <COMMA> laying out its growth target for january and affirming its quarterly profit outlook <PUNC>
-other dow gainers included merck mrk <COMMA> which gained <NUM> percent <COMMA> and general motors gm <COMMA> which advanced <NUM> percent <PUNC>
-dow decliners were led by exxon mobil xom <COMMA> which fell <NUM> percent as oil prices continued sharply lower for a second day <PUNC>
-mcdonald s mcd <COMMA> alcoa aa and at&t t were also notable losers. <PUNC>
-the february gold futures contract fell dollar <NUM> to close at dollar <NUM> an ounce as the dow jones aig commodity futures index gave up <NUM> percent <PUNC>
-<PAR>

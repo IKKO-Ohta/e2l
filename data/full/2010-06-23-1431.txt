@@ -1,3 +1,0 @@
-the dow jones industrial average dji <COMMA> which entered wednesday s trading on a two-day losing streak <COMMA> held steady just after the open but recently turned lower <COMMA> trading down <NUM> points to <NUM> <COMMA> led by declines of more than <NUM> percent each in caterpillar inc. cat <COMMA> dupont dd <COMMA> chevron cvx and microsoft msft <PUNC>
-home depot hd <COMMA> which is often sensitive to housing-related news <COMMA> was off <NUM> percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-futures for the dow jones industrial average dji were down <NUM> point at <NUM> <COMMA> while those for the s&p <NUM> index spx fell back <NUM> points to <NUM> <PUNC>
-among blue-chips <COMMA> pfizer inc. pfe fell <NUM> percent before the open after prudential downgraded the stock to neutral from overweight <COMMA> citing a lack of catalysts to drive the stock price any higher <PUNC>
-and exxon mobil corp. xom fell <NUM> percent after deutsche bank downgraded the oil company to hold from buy <COMMA> citing valuation <PUNC>
-the dow s impressive run - it powered ahead <NUM> percent last week for its third straight week of gains - could continue with more blue-chips due to report earnings later this week <PUNC>
-blue chip earnings and weakness in the dollar gave the large cap <COMMA> multinationals the boost that sent the dow up rocketing on friday <COMMA> said marc pado <COMMA> market strategist at cantor fitzgerald <PUNC>
-<PAR>

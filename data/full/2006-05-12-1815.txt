@@ -1,8 +1,0 @@
-u.s. stocks tumbled friday afternoon <COMMA> with the nasdaq composite index at a two-month low and the dow jones industrial average shedding more than <NUM> points over the past two sessions <COMMA> as fresh economic data did little to ease concerns about inflation and the outlook for interest rates <PUNC>
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-of the <NUM> dow components <COMMA> <NUM> traded to the downside <PUNC>
-resuming their recent run <COMMA> shares of general motors corp. gm added <NUM> percent to dollar <NUM> <PUNC>
-yahoo inc. yhoo shares eased <NUM> cents to dollar <NUM> <PUNC>
-chairman and ceo terry semel said at a syracuse university question-and-answer session that the company turned down an offer from microsoft corp. msft to buy a stake <COMMA> according to the financial times <PUNC>
-microsoft shares were off <NUM> percent <PUNC>
-<PAR>

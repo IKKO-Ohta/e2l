@@ -1,9 +1,0 @@
-a mixed performance on friday still left the dow jones industrial average dji with its third-best weekly performance of <NUM> <PUNC>
-the dow gained <NUM> points to end at <NUM> friday <PUNC>
-but for the week <COMMA> the blue-chip average rallied <NUM> points <COMMA> or <NUM> percent <PUNC>
-the rally began tuesday <COMMA> following a slide on monday <COMMA> after news that citigroup inc. c received a dollar <NUM> billion injection from the abu dhabi investment authority a welcome development as the banking giant continues to struggle with write-downs linked to bad home loans <PUNC>
-broad losses for november <COMMA> however <COMMA> reflected the market s continuing concerns about a resurgence of this summer s credit crisis <PUNC>
-the dow industrials ended november down <NUM> points <COMMA> or <NUM> percent <PUNC>
-the s&p <NUM> finished the month <NUM> points <COMMA> or <NUM> percent <COMMA> lower <PUNC>
-the nasdaq composite lost <NUM> pts <COMMA> or <NUM> percent <PUNC>
-<PAR>

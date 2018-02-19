@@ -1,3 +1,0 @@
-helped by a late-session rally friday <COMMA> the dow jones industrial average dji finished the week up <NUM> percent <COMMA> a performance that masked triple-digit swings in two of the five sessions <PUNC>
-in the coming week <COMMA> nine s&p <NUM> companies are scheduled to announce results <COMMA> along with dow component and personal-computer maker hewlett-packard co. hpq <COMMA> which is slated to report on monday <COMMA> along with analog devices inc. adi and tyson foods inc. tsn <PUNC>
-<PAR>

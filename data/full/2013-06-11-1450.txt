@@ -1,4 +1,0 @@
-extending losses into a second session <COMMA> the dow jones industrial average dji fell as much as <NUM> points <COMMA> and was lately down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with j.p. morgan chase & co. jpm pacing declines that included all but four of its <NUM> components <PUNC>
-wall street stocks finished monday s session little changed after standard & poor s revised its u.s. credit-rating outlook to stable from negative <PUNC>
-in choppy trading <COMMA> the dow finished down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> and the s&p <NUM> spx dipped <NUM> point to <NUM> <PUNC>
-<PAR>

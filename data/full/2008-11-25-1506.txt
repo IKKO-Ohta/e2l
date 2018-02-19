@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to 8,538.64. <PUNC>
-on monday <COMMA> u.s. stocks climbed for a second session straight after and government backed more than dollar <NUM> billion of citigroup inc. c assets and president-elect barack obama formally unveiled his economic team <PUNC>
-<PAR>

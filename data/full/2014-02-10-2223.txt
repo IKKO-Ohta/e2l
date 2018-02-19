@@ -1,4 +1,0 @@
-the dow jones industrial average dji traded in negative territory most of the session but managed to rise in the last hour of trading and closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-travelers cos. trv and walt disney co. dis led gains among the dow s <NUM> stocks <PUNC>
-mcdonald s corp. mcd said its global same-store sales improved in january <COMMA> with stronger performances in china and europe making up for softness in the u.s. shares in the dow component were <NUM> percent lower <PUNC>
-<PAR>

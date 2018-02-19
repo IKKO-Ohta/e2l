@@ -1,6 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
-the dow industrials dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> on monday <COMMA> while may gold gck3 finished the day with a loss of more than dollar <NUM> <COMMA> its worst one-day performance since the early 1980s <PUNC>
-earnings season is in full swing <PUNC>
-coca-cola co. s ko shares rose <NUM> percent after the beverage maker reported first-quarter results that beat expectations while retailer target corp. tgt warned first-quarter earnings would come in below expectations <COMMA> with its shares off <NUM> percent <PUNC>
-johnson & johnson jnj gained after the maker of drugs and medical devices reported first-quarter revenue that beat expectations <PUNC>
-<PAR>

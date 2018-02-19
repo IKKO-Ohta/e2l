@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-thirteen of its <NUM> components traded higher <COMMA> with alcoa inc. aa among the standouts <COMMA> up <NUM> percent <PUNC>
-the dow s bigger losers included citigroup inc. c <COMMA> off <NUM> percent <PUNC>
-<PAR>

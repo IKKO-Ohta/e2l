@@ -1,4 +1,0 @@
-the dow jones industrial average dji was essentially flat at <NUM> <COMMA> as <NUM> of its <NUM> components rose <PUNC>
-the dow s financial components aig aig <COMMA> citigroup c and j.p. morgan chase jpm all advanced <COMMA> providing support for the dow <PUNC>
-in the markets monday <COMMA> the dow industrials ended with a gain of <NUM> points to <NUM> a small rebound in the wake of friday s nearly 400-point slide <PUNC>
-<PAR>

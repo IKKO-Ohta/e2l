@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with two-thirds of its <NUM> components rising <PUNC>
-exxon mobil corp. xom led declines among the blue chips <COMMA> with shares falling <NUM> percent after the texas oil giant reported a <NUM> percent rise in second-quarter profit <COMMA> which came in shy of estimates <PUNC>
-<PAR>

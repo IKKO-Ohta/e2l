@@ -1,7 +1,0 @@
-the dow jones industrial average dji gained <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components opening higher <PUNC>
-among dow components <COMMA> shares of wal-mart stores inc. wmt <COMMA> the world s biggest retailer <COMMA> slipped <NUM> percent <PUNC>
-general motors corp. gm gained <NUM> percent after a bloomberg news report that the automaker is studying whether to cut its saab <COMMA> saturn and pontiac brands <PUNC>
-the move could be part of the company s pitch to the u.s. government for funds from a potential dollar <NUM> billion loan package for the u.s. auto industry <PUNC>
-exxon mobil xom was down <NUM> percent <COMMA> and chevron cvx fell <NUM> percent <PUNC>
-crude oil futures were under pressure <COMMA> falling dollar <NUM> to dollar <NUM> a barrel <COMMA> amid talk that the organization of the petroleum exporting countries may delay production cuts to december <PUNC>
-<PAR>

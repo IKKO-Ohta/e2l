@@ -1,9 +1,0 @@
-on friday stocks overtook new territory that placed the dow jones industrial average within striking distance of <NUM> <PUNC>
-the dow industrials dji rose <NUM> points to <NUM> <COMMA> just off a new record of <NUM> <PUNC>
-among the dow s <NUM> components <COMMA> <NUM> advanced led by the likes of alcoa inc. aa <COMMA> dupont dd <COMMA> coca-cola inc. ko <COMMA> and united technologies corp. utx <PUNC>
-leading the gains on the dow <COMMA> verizon corp. vz rose <NUM> percent <PUNC>
-the financial times reported the uk s vodafone group vod is considering a dollar <NUM> billion offer for verizon as a way to take control of the jointly held verizon wireless venture <PUNC>
-vodafone denied the report <PUNC>
-also on the dow <COMMA> mcdonald s corp. mcd rose <NUM> percent <COMMA> after the fast food giant announced it will take a second-quarter loss related to the sale of some assets <COMMA> but that its earnings before special charges will be above analysts expectations <PUNC>
-sentiment last week was bolstered by new merger deals <COMMA> some positive economic reports and in-line earnings from industrial conglomerate general electric co. ge <PUNC>
-<PAR>

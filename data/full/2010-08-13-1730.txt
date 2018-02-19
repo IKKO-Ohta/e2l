@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> led by a <NUM> percent rise in shares of bank of america corp. bac <COMMA> followed by gains of more than <NUM> percent each in hewlett-packard co. hpq and travelers cos. trv <PUNC>
-the upside move slightly reduced the index s weekly loss <COMMA> to <NUM> percent <PUNC>
-<PAR>

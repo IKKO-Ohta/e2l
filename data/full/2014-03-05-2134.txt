@@ -1,4 +1,0 @@
-the s&p <NUM> spx finished roughly where it closed on tuesday <COMMA> down less than a point at <NUM> with the energy sector hit the most <PUNC>
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf closed in positive territory <COMMA> gaining <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> the highest level since april <NUM> <PUNC>
-<PAR>

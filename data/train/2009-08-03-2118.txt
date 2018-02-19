@@ -1,7 +1,0 @@
-in july <COMMA> the dow rallied <NUM> percent to mark its best monthly gain since oct. <NUM> and its best july since <NUM> <PUNC>
-the s&p <NUM> rose <NUM> percent for the month <COMMA> its best july since <NUM> <COMMA> and the nasdaq gained <NUM> percent <PUNC>
-on monday <COMMA> at least <COMMA> the market continued on its merry way higher <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> its highest close since oct. <NUM> <PUNC>
-the s&p <NUM> index spx rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> also its highest close since nov. <NUM> <PUNC>
-the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its highest close since oct. <NUM> <PUNC>
-<PAR>

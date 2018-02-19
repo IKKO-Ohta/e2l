@@ -1,4 +1,0 @@
-the dow jones industrial average dji slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-leading the measure lower <COMMA> walt disney dis dropped <NUM> percent <PUNC>
-disney s drop came after the entertainment giant said it bought the maker of the popular tap tap revenge game for apple s aapl mobile devices like the iphone <PUNC>
-<PAR>

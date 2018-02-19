@@ -1,7 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> boosted by strong gains in the likes of caterpillar inc. cat and verizon inc. vz <PUNC>
-among blue-chips <COMMA> ibm ibm dropped <NUM> percent <PUNC>
-the company has claimed a breakthrough in developing circuitry to store data on future microprocessor chips <COMMA> according to a report in the wall street journal <PUNC>
-coca-cola ko <COMMA> another dow component <COMMA> dropped <NUM> percent <PUNC>
-the company said fourth-quarter net income dropped <NUM> percent <COMMA> hurt by a charge on an impairment at coca-cola enterprises <PUNC>
-results excluding the charge still beat forecasts <PUNC>
-<PAR>

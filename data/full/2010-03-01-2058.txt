@@ -1,6 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> just points shy of its <NUM> close <PUNC>
-caterpillar cat <COMMA> which often benefits from signs of strength in the global economy s manufacturing sector <COMMA> was among the dow s big winners <COMMA> up <NUM> percent <PUNC>
-travelers trv was also strong <COMMA> up <NUM> percent <COMMA> amid a broader rally among insurers after u.k.-based prudential plc puk agreed to buy american international group s aig asia operations for dollar <NUM> billion in cash and stock <PUNC>
-the greenback s strength helped to fuel a general pullback in prices of raw materials <COMMA> with the dow jones-ubs commodity index off <NUM> percent <PUNC>
-but copper was a notable exception to the pullback <COMMA> in part because of the weekend s earthquake in chile <COMMA> which is the world s largest producer of the metal <PUNC>
-<PAR>

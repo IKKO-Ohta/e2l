@@ -1,6 +1,0 @@
-on friday <COMMA> the dow jones industrial average ended at a four-month low in a week where the market succumbed to heavy losses on concerns over inflation <COMMA> rising global interest rates and slowing economic growth <PUNC>
-the nasdaq composite index fell for a sixth straight session to end at a more than seven-month low <PUNC>
-general motors corp. gm was up <NUM> percent at dollar <NUM> in pre-market dealings after delphi corp dphiq <COMMA> its main auto parts supplier <COMMA> announced a broad employee buyout program that reduces the risk of a strike that could have crippled the auto maker <PUNC>
-the program also takes delphi a step closer to emerging from bankruptcy <PUNC>
-fellow dow component walt disney co. dis fell <NUM> percent to dollar <NUM> ahead of the bell after citigroup downgraded the media giant to hold from buy <COMMA> saying it believes the shares are less attractive at their current level following a strong run <PUNC>
-<PAR>

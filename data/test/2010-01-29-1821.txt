@@ -1,4 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> helped by gains of more than <NUM> percent each in wal-mart stores wmt <COMMA> american express axp and caterpillar cat <PUNC>
-but microsoft msft was down <NUM> percent <COMMA> retreating despite the software giant posting a <NUM> percent rise in fiscal second-quarter profit late thursday <PUNC>
-among the blue chips <COMMA> dupont dd and caterpillar rose more than <NUM> percent each <PUNC>
-<PAR>

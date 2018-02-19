@@ -1,9 +1,0 @@
-the dow jones industrial average dji came off an early low of <NUM> <COMMA> and was last up <NUM> points at <NUM> <PUNC>
-within the dow industrials <COMMA> altria group inc. mo gained <NUM> percent to dollar <NUM> <PUNC>
-goldman sachs said it expects the stock to move higher ahead of an anticipated favorable decision in a consumer fraud case <PUNC>
-the decision is due thursday <PUNC>
-hewlett-packard co. hpq shares fell <NUM> cents <COMMA> or <NUM> percent <COMMA> to dollar <NUM> <COMMA> after the company gave a <NUM> revenue forecast that potentially falls shy of previous wall street estimates <PUNC>
-pfizer inc shares pfe rallied more than <NUM> percent to a session high of dollar <NUM> <COMMA> buoyed by a <NUM> percent increase in its quarterly dividend <PUNC>
-shares in procter & gamble pg climbed <NUM> percent to dollar <NUM> after the household products giant lifted the lower end of its previous forecast range for second-quarter sales and earnings <PUNC>
-general motors corp. gm fell <NUM> percent to dollar <NUM> after standard & poor s analysts stirred up bankruptcy fears and downgraded the automaker s debt deeper into junk a day earlier <PUNC>
-<PAR>

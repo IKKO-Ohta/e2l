@@ -1,4 +1,0 @@
-up more than <NUM> points at the start <COMMA> the dow jones industrial average dji closed at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <COMMA> leaving the blue-chip index with a weekly loss of <NUM> percent <PUNC>
-case in point <PUNC> bank of america corp. s bac dividend reduction from dollar <NUM> to <NUM> cents <COMMA> a slashing that brings the s&p <NUM> payout and yield down by <NUM> percent <COMMA> according to silverblatt s calculations <PUNC>
-shares of bank of america fell nearly <NUM> percent <COMMA> proving the heaviest weight on the dow <PUNC>
-<PAR>

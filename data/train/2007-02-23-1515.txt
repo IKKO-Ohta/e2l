@@ -1,3 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-microsoft msft weighed on the blue-chip average losing <NUM> percent <PUNC>
-<PAR>

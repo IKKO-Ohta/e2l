@@ -1,5 +1,0 @@
-near session highs <COMMA> the dow jones industrial average gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> giving the blue chips a weekly decline of <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> all but two ended in the green <COMMA> with alcoa inc. aa gaining the most <COMMA> up <NUM> percent <PUNC>
-u.s. stocks on thursday thudded lower for a second day as investors braced for the october jobs report <PUNC>
-the dow jones industrial average fell <NUM> points to cap its largest two-day percent decline since oct. <NUM> <COMMA> <NUM> <COMMA> and the index s biggest two-day point drop ever <PUNC>
-<PAR>

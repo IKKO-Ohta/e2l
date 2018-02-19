@@ -1,5 +1,0 @@
-u.s. stocks tallied small gains on friday <COMMA> lifting the dow industrials and s&p <NUM> to record closes <COMMA> as bonds rallied and the dollar fell after the july jobs report fell short of forecasts <PUNC>
-after trading lower for most of the day <COMMA> u.s. stocks erased losses in the afternoon to end higher <PUNC>
-erasing a 69-point drop <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> its 30th record close this year and leaving it up <NUM> percent on the week <PUNC>
-shares of bank of america corp. bac slid <NUM> percent after the lender disclosed that the justice department may sue the bank over jumbo prime securitizations <PUNC>
-<PAR>

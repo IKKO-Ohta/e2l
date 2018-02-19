@@ -1,7 +1,0 @@
-the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
-on friday stocks posted gains on the day and week <COMMA> benefiting from upbeat earnings and forecasts from blue chip stocks <COMMA> including merck co inc. mrk <COMMA> general electric co.. ge and mcdonald s corp. mcd <PUNC>
-citigroup c stock rose <NUM> percent to dollar <NUM> before the bell <PUNC>
-the dow component reported a first-quarter profit that was down <NUM> percent <COMMA> but the decline was linked to restructuring costs <PUNC>
-elsewhere on the dow <COMMA> procter & gamble pg increased its quarterly dividend by <NUM> percent <PUNC>
-that stock rose <NUM> percent to dollar <NUM> before the opening <PUNC>
-<PAR>

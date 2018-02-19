@@ -1,2 +1,0 @@
-the dow jones industrial average dji declined <NUM> points to <NUM> <COMMA> with losses led by merck mrk after the drug maker reported quarterly revenue below market expectations <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-after a more than 80-point fall <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
-<PAR>

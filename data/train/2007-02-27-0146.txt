@@ -1,7 +1,0 @@
-the dow jones industrial average dji gave up early gains to close down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components finishing in negative territory <PUNC>
-the dow rose to <NUM> in early action but quickly gave up its gains <COMMA> weighed by the likes of boeing co. ba <COMMA> hewlett-packard hpq and ibm ibm <PUNC>
-merck & co. mrk still supported the blue-chip average <COMMA> rising <NUM> percent after being upgraded to buy at citi on its outlook for januvia <COMMA> a diabetes drug that will compete with novartis ag s nvs galvus <PUNC>
-coca-cola ko rose <NUM> percent after being upgraded to buy at deutsche bank based on valuation and the company s willingness to change <PUNC>
-among other dow components <COMMA> citigroup c fell <NUM> percent after the banking giant named gary crittenden as its new chief financial officer <PUNC>
-crittenden held the same post at american express axp <COMMA> which fell <NUM> percent after it named dan henry as interim chief financial officer <COMMA> while it searches for a permanent successor <PUNC>
-<PAR>

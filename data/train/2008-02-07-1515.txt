@@ -1,3 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-among the blue chips <COMMA> wal-mart stores wmt shares edged <NUM> percent higher after the planet s biggest retailer led a slew of u.s.-based retailers reporting a miserable start to the year <PUNC>
-<PAR>

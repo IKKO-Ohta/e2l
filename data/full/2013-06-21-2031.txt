@@ -1,7 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it down <NUM> percent for the week <PUNC>
-this was the dow s worst week since the one ended on april <NUM> <PUNC>
-hewlett-packard co. hpq was the top decliner <COMMA> while procter & gamble co. pg was the top gainer in the dow on friday <PUNC>
-the dow s slide on wednesday and thursday a drop of <NUM> points or <NUM> percent was its worst two-day drop since the two sessions ended nov. <NUM> <COMMA> <NUM> <PUNC>
-on thursday <COMMA> the dow dived <NUM> points <COMMA> or <NUM> percent <COMMA> representing its largest one-day percentage decline since nov. <NUM> <COMMA> the day after the u.s. election <COMMA> and its largest one-day points drop since nov. <NUM> <COMMA> <NUM> <PUNC>
-gold and oil prices also tumbled <COMMA> while the dollar and the 10-year treasury yield jumped <PUNC>
-<PAR>

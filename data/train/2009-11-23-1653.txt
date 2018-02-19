@@ -1,7 +1,0 @@
-u.s. stocks remained higher near midday monday <COMMA> as cheer over a bigger-than-expected jump in home resales and a statement from a federal reserve member that the u.s. should continue buying mortgage-backed securities pushed the dow jones industrial average to new intraday highs for the year <PUNC>
-the dow industrials dji were was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-chevron corp. cvx was the measure s best performer <COMMA> climbing <NUM> percent as crude oil jumped above dollar <NUM> <PUNC>
-<PAR>
-other top gainers included caterpillar inc. cat <COMMA> which rose <NUM> percent <COMMA> and j.p. morgan chase co. jpm <COMMA> which climbed <NUM> percent <PUNC>
-just one of the dow s <NUM> components was in the red <PUNC> merck & co. mrk <COMMA> which edged <NUM> percent lower <PUNC>
-<PAR>

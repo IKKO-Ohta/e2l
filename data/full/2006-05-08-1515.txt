@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> extending a six-year high <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
-on friday <COMMA> stocks ended sharply higher after a weaker-than-expected jobs report improved the odds the fed will stop raising interest rates sooner rather than later <COMMA> catapulting the dow jones industrial average and the s&p <NUM> index to multiyear highs <PUNC>
-intel shares intc rallied <NUM> percent to dollar <NUM> after broker caris & co upgraded the chipmaker to above average from average <COMMA> citing a solid forecast for ng processor sales and increased confidence in the quarter s second-half outlook <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the s&p <NUM> spx ended the day less than a point higher at <NUM> <PUNC>
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
-<PAR>

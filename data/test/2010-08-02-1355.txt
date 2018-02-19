@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> adding early to its <NUM> percent jump in july <PUNC>
-financial stocks led the dow s <NUM> percent gain <COMMA> boosted by upbeat earnings from hsbc holdings hbc and bnp paribas <PUNC>
-among dow components <COMMA> bank of america bac advanced <NUM> percent and j.p. morgan jpm rose <NUM> percent in the wake of strong earnings reports from european peers <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-verizon vz was its strongest component <COMMA> with shares up <NUM> percent after the wall street journal reported that apple is designing new iphones <COMMA> including a version that could work on verizon s network <PUNC>
-at&t inc. t plunged to the bottom of the dow <COMMA> with shares slipping <NUM> percent <COMMA> while apple inc. aapl <COMMA> not a dow component <COMMA> gained <NUM> percent <PUNC>
-other technology components also strengthened <COMMA> with both cisco systems inc. csco and hewlett-packard co. hpq up <NUM> percent <PUNC>
-weighing on the dow <COMMA> alcoa aa slipped <NUM> percent as metals futures were mixed <PUNC>
-caterpillar cat fell <NUM> percent <PUNC>
-<PAR>

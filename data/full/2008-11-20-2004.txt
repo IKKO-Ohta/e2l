@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the blue-chip average earlier fell to an intraday low of <NUM> <COMMA> just one point above its oct. <NUM> low <PUNC>
-reid said congress would return the week of dec. <NUM> if ford motor f <COMMA> general motors gm and chrysler could come up with a new plan <PUNC>
-citigroup inc. c remained in the red <COMMA> falling more than <NUM> percent <PUNC>
-but that s well off earlier lows that saw the bank s shares plunging as much as <NUM> percent even after saudi investor prince alaweed said he would raise his stake in the bank to <NUM> percent <PUNC>
-on wednesday <COMMA> stocks were crushed to <NUM> 1/2-year lows <COMMA> with credit market-led fears and citigroup s dollar <NUM> billion balance sheet addition punishing markets <PUNC>
-the dow jones industrial average dropped <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite fell <NUM> points <PUNC>
-<PAR>

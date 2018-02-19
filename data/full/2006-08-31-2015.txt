@@ -1,3 +1,0 @@
-the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
-wal-mart stores inc. s wmt monthly results were at the high end of its forecasts <PUNC>
-<PAR>

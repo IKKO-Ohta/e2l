@@ -1,9 +1,0 @@
-the dow jones industrial average dji <COMMA> which was up more than <NUM> points at its intraday high <COMMA> was recently down 22up just two points at <NUM> <PUNC>
-industrial giant caterpillar inc. cat rose <NUM> percent as the economically sensitive company was boosted by the latest round of improving data points <PUNC>
-general electric co. ge rose <NUM> percent <COMMA> boosted by the signs of economic growth <COMMA> along with materials components alcoa inc. aa and dupont dd <PUNC>
-alcoa rose <NUM> percent and dupont climbed <NUM> percent <PUNC>
-the dow was also bolstered by its financial components as fitch ratings said u.s. credit card delinquencies declined in the january collection period <COMMA> though charge-offs spiked <PUNC>
-drug maker pfizer pfe was the dow s worst component <PUNC>
-the stock shed <NUM> percent after medivation said its experimental alzheimer s disease treatment dimebon <COMMA> which was in development with pfizer <COMMA> failed to show effectiveness in a large late-stage study <PUNC>
-the news sent shares of medivation mdvn which has no products on the market and isn t a dow component plunging <NUM> percent on heavy volume <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the s&p <NUM> spx added <NUM> points to <NUM> <COMMA> registering a fresh record <PUNC>
-the dow jones industrial average dji ended the day essentially flat at <NUM> <PUNC>
-the nasdaq composite rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

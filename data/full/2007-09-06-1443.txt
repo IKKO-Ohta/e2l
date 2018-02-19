@@ -1,3 +1,0 @@
-the dow industrials dji were down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
-wal-mart stores inc. wmt reported a stronger-than-forecast <NUM> percent sales rise for august <PUNC>
-<PAR>

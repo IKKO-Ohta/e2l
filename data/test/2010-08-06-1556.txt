@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points and risk-averse investors moved into treasurys <COMMA> with the yield on the 10-year note touching its lowest level in more than a year <PUNC>
-major stock indexes turned lower <COMMA> with the dow tumbling <NUM> percent to <NUM> <PUNC>
-broader indexes also declined <COMMA> with the nasdaq composite index rixf down <NUM> percent to <NUM> <PUNC>
-the s&p <NUM> index dji slid below its 200-day moving average <COMMA> falling <NUM> percent to <NUM> <PUNC>
-<PAR>

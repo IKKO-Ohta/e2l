@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points in early morning trade to <NUM> <PUNC>
-shares of bear stearns bsc soared nearly <NUM> percent at the start before the new york stock exchange halted trade pending news <PUNC>
-the halt followed reports j.p. morgan jpm may boost its offer for the 85-year-old firm to dollar <NUM> a share from an initial bid of dollar <NUM> a share <COMMA> with the sweetened bid valuing the firm at more than dollar <NUM> billion <PUNC>
-<PAR>

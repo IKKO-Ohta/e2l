@@ -1,6 +1,0 @@
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in recent trading <COMMA> reversing an earlier triple-digit climb <PUNC>
-kraft foods kft lead the dow s declines <COMMA> falling <NUM> percent <PUNC>
-alcoa aa was also weak <COMMA> down <NUM> percent <PUNC>
-limiting the measure s losses <COMMA> technology stocks rose after the semiconductor industry association said global chip sales rose <NUM> percent in september from a month earlier <PUNC>
-intel climbed <NUM> percent <COMMA> while hewlett-packard hpq rose <NUM> percent <PUNC>
-<PAR>

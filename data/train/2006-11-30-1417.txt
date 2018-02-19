@@ -1,4 +1,0 @@
-futures for the dow jones industrial average dji recently dropped <NUM> point to <NUM> <PUNC>
-among dow components expected to move <COMMA> wal-mart wmt forecast that december same-store sales will be flat to weaker in december <PUNC>
-also <COMMA> microsoft corp. msft begins shipping its next-generation vista operating system to corporate customers on thursday <PUNC>
-<PAR>

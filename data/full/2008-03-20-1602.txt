@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points by midday to <NUM> <COMMA> readying it for a <NUM> percent rise from the prior week s close <PUNC>
-the u.s. stock market is closed friday <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were trading higher <COMMA> with blue-chip gains led by the financials <PUNC>
-american express co. axp was ahead <NUM> percent and citigroup inc. c gained <NUM> percent <PUNC>
-shares of j.p. morgan chase & co. jpm advanced <NUM> percent and american international group inc. aig rose <NUM> percent <PUNC>
-<PAR>

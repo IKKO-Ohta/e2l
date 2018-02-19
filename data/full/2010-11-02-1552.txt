@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-gains were led by home-improvement retailer home depot inc. hd <COMMA> whose shares rose <NUM> percent <PUNC>
-<PAR>

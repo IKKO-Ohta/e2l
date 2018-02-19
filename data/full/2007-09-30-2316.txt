@@ -1,9 +1,0 @@
-on friday <COMMA> stocks eased back from strong gains scored on the back of the fed s hefty rate cut the prior week <PUNC>
-the dow jones industrial average dji finished down <NUM> points at <NUM> <PUNC>
-the blue-chip average still booked a strong september gain of <NUM> percent <COMMA> the best monthly gain for the dow since may of this year <COMMA> and the best september performance since <NUM> <PUNC>
-for the quarter <COMMA> the dow gained <NUM> percent leading to a year-to-date gain of <NUM> percent <PUNC>
-but wall street has also pushed up the stocks of u.s. multinationals that cater to global growth while benefiting from a weaker dollar <COMMA> when they repatriate overseas profits <PUNC>
-amongst the dow s best performing stocks this year are the likes of honeywell inc. hon <COMMA> which is up <NUM> percent year to date <COMMA> along with alcoa inc. aa <COMMA> united technologies utx and caterpillar inc. cat <PUNC>
-at the opposite end of the spectrum <COMMA> financial shares have been hard-hit by the credit crisis and retail stocks have also taken a beating <PUNC>
-amongst the dow s worst performers this year are home depot inc. hd <COMMA> which is down <NUM> percent year to date <COMMA> along with citigroup inc. c <COMMA> wal-mart stores wmt and jp morgan chase jpm <PUNC>
-<PAR>

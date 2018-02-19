@@ -1,3 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> a fresh 1-month low <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> ended with gains <PUNC>
-<PAR>

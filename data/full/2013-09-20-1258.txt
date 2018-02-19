@@ -1,4 +1,0 @@
-after a four-session winning run <COMMA> the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> spx index lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-on wednesday <COMMA> both the dow industrials and the s&p <NUM> index finished at record highs <COMMA> treasury yields fell sharply and gold rallied <COMMA> as the federal open market committee said it needed further signs of economic improvement before it starts cutting its dollar <NUM> billion in monthly bond purchases <COMMA> otherwise known as quantitative easing <PUNC>
-<PAR>

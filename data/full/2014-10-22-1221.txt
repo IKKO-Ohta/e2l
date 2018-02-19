@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and turned positive for the year <PUNC>
-coca-cola ko shares fell <NUM> percent after the company s revenue slipped <COMMA> while it lowered its long-term revenue target and warned it did not expect to meet its earnings view <PUNC>
-<PAR>

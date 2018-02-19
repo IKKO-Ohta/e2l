@@ -1,9 +1,0 @@
-in recent action <COMMA> the dow jones industrial average dji was up <NUM> points to <NUM> <COMMA> off an earlier high of <NUM> <PUNC>
-dow component intel corp. intc rose <NUM> percent after ubs reiterated a buy on the stock <COMMA> citing a positive meeting with intel chief executive paul otellini <PUNC>
-verizon communications vz gained <NUM> percent after ag edwards upgraded the stock to buy from hold <COMMA> citing increased confidence in the company s deployment of its fiber optic internet service and the recent sale of its phone directories business <PUNC>
-among other dow-components <COMMA> pfizer inc. pfe reversed earlier gains and dropped <NUM> cents to dollar <NUM> after news it plans to cut <NUM> percent of its u.s. sales force in an effort to reduce costs <PUNC>
-general motors corp. gm also turned around <COMMA> losing <NUM> percent <COMMA> after competitor ford motor co. f said that half of its blue collar workforce has accepted buyout offers <PUNC>
-ford also lost earlier gains and was recently flat at dollar <NUM> <PUNC>
-boeing co. ba rose <NUM> percent after prudential raised its price target on the stock to dollar <NUM> from dollar <NUM> <PUNC>
-new york times co. nyt advanced <NUM> percent after a report in the new york post said that hank greenberg <COMMA> the former head of american international group inc. aig <COMMA> is buying huge blocks of the stock in a bid to break the sulzberger family s control <PUNC>
-<PAR>

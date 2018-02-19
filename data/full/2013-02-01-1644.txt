@@ -1,4 +1,0 @@
-u.s. stocks on friday started a new month with strong gains <COMMA> as the dow industrials moved above <NUM> <COMMA> after january jobs report bolstered thinking that the lackluster recovery remains on track <PUNC>
-we re back to a level we haven t been at since <NUM> <COMMA> the dow hitting <NUM> is just like the s&p <NUM> hitting <NUM> again <COMMA> said darrell cronk <COMMA> regional chief investment officer at wells fargo private bank <PUNC>
-the dow jones industrial average dji was lately up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> crossing the <NUM> level for the first time since october <NUM> <PUNC>
-<PAR>

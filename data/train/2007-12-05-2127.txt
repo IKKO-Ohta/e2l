@@ -1,5 +1,0 @@
-up more than <NUM> points in the final <NUM> minutes of trade <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> with <NUM> of its <NUM> components ending higher <PUNC>
-american international group inc. aig fronted the dow s advance <COMMA> its stock up <NUM> percent after the insurance giant s ceo tried to reassure investors about the company s exposure to subprime mortgage losses <PUNC>
-<PAR>
-intel corp. intc also joined the blue-chip advance <COMMA> gaining <NUM> percent <COMMA> after the chip giant s stock drew an upgrade on expectations of a robust personal computer market in <NUM> <PUNC>
-<PAR>

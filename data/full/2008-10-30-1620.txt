@@ -1,9 +1,0 @@
-u.s. stocks erased the bulk of their gains midday thursday <COMMA> pushing the dow jones industrial average briefly back below the <NUM> level <COMMA> as investors mulled the economic slowdown and next week s employment report for october <PUNC>
-after rising <NUM> points <COMMA> the dow jones industrial average dji gave much of it back <COMMA> recently up <NUM> points to <NUM> <PUNC>
-nineteen of the blue-chip index s <NUM> components advanced in early afternoon trade <COMMA> with merck & co. inc. mrk pacing the gains <COMMA> up <NUM> percent <PUNC>
-american express co. axp also bolstered the dow industrials <COMMA> its shares rising <NUM> percent after the financial-services company said it would slash <NUM> percent of its workforce <PUNC>
-<PAR>
-oil giant exxon mobil corp. xom <COMMA> another dow component <COMMA> fell <NUM> percent after it reported nearly dollar <NUM> million in profit for the third quarter in what is a likely swan song for groundbreaking profit tied to this past summer s triple-digit prices for crude oil <PUNC>
-<PAR>
-on wednesday <COMMA> u.s. stocks staged another last-ditch turnaround to end mostly lower <COMMA> pushing the dow industrials back below the <NUM> level after the federal reserve cut its federal funds target rate as anticipated <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
-procter & gamble co. pg <COMMA> a dow component <COMMA> slipped <NUM> percent in early trading even as the household products giant posted forecast-beating results on a <NUM> percent rise in revenue <PUNC>
-shares of wal-mart stores inc. wmt rose <NUM> percent in early action after the discount retailer said july same-stores sales growth is expected to come in at <NUM> percent <PUNC>
-the company previously forecast same-store sales for the month would rise in a range of <NUM> percent to <NUM> percent <PUNC>
-cingular is owned by sbc communications sbc and bellsouth bls <PUNC> verizon is owned by verizon communications vz and vodafone group vod <PUNC>
-verizon shares traded lower on the news while share of bellsouth and sbc edged higher <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> but still off a morning high of <NUM> <PUNC>
-within the dow <COMMA> general motors corp. gm was the biggest percentage decliner <COMMA> down <NUM> percent <COMMA> as ford s profit warning sent investors scurrying out of the automotive sector <PUNC>
-also in the blue chips <COMMA> hewlett-packard hpq was down <NUM> percent as brokerage first albany downgraded the company to neutral from buy due primarily to concern over valuation <PUNC>
-shares of coca-cola co. ko dipped <NUM> cents to dollar <NUM> after the beverage giant and the european commission reached an antitrust settlement <COMMA> ending a six-year probe into its aggressive marketing techniques on the continent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-we would like to see a quiet summer <COMMA> where the market marks some time and consolidates some recent gains <COMMA> added russell of wall street s advance <COMMA> which has both the dow jones industrial average dji and the s&p <NUM> index spx up nearly <NUM> percent in may <COMMA> and the nasdaq composite rixf up <NUM> percent for the month <PUNC>
-after falling by as much as <NUM> points and rising as much as <NUM> <COMMA> the dow jones industrial average dji was lately off <NUM> points at <NUM> <PUNC>
-intel corp. intc led gains that included just eight of the blue-chip index s <NUM> components <PUNC>
-intel s gains came a day after reuters reported samsung electronics had picked an intel processor to power a new version of one of its tablets <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-merck & co. inc. mrk led the dow s declines <COMMA> its stock off <NUM> percent <PUNC>
-shares of dow component exxon mobil corp. xom gained as did crude-oil futures <COMMA> with the former rising <NUM> percent and the latter trading above dollar <NUM> a barrel after updated reports on u.s. petroleum supplies <PUNC>
-shares of amgen amgn and johnson & johnson jnj advanced <COMMA> amgen up <NUM> percent and johnson & johnson up <NUM> percent after a food and drug administration advisory committee did not back a limit on the use of anemia drugs the companies produce <PUNC>
-<PAR>

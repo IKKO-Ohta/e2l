@@ -1,3 +1,0 @@
-the dow jones industrial average dji declined <NUM> points to <NUM> <PUNC>
-boeing co. ba led the decline that extended to all <NUM> of the dow s components <COMMA> with shares of the aerospace company down <NUM> percent <PUNC>
-<PAR>

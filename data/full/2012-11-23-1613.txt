@@ -1,3 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all <NUM> of its components in positive territory <PUNC>
-hewlett-packard co. hpq and microsoft corp. msft were the top gainers <COMMA> rising <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-<PAR>

@@ -1,9 +1,0 @@
-with alcoa inc. spearheading the start of the second-quarter earnings season <COMMA> analysts say the lack of revenue growth from the aluminum giant and the other <NUM> companies that make up the dow jones industrial average is a major factor contributing to wall street s lackluster sentiment <PUNC>
-on thursday <COMMA> energy shares led limited gains and health care shares fronted sector declines as wall street registered a mixed performance <PUNC>
-the dow was off <NUM> points at <NUM> <PUNC>
-the s&p <NUM> spx rose <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
-the first dow component to report results for the quarter <COMMA> alcoa aa late wednesday reported a narrower-than-expected loss <PUNC>
-<PAR>
-judging from individual company weightings that make up the dow <COMMA> nearly <NUM> percent of the blue-chip index is unlikely to show positive revenue comparisons until <NUM> <COMMA> at the earliest <COMMA> said colas <PUNC>
-the strategist lists ibm ibm <COMMA> chevron cvx <COMMA> 3m co. mmm and caterpillar inc. cat as examples <PUNC>
-<PAR>

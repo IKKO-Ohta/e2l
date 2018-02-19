@@ -1,4 +1,0 @@
-the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> off an early low of <NUM> <PUNC>
-dow component coca-cola ko fell <NUM> percent as investors worried about its earnings outlook after coca-cola enterprises <COMMA> its major bottler <COMMA> warned third-quarter earnings won t meet consensus analyst estimates <PUNC>
-it said european volume in the third quarter has been below expectations <COMMA> despite share gains in key markets <PUNC>
-<PAR>

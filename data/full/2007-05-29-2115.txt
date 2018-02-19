@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to close at <NUM> <COMMA> led by the likes of procter & gamble co. pg <COMMA> microsoft corp. msft and verizon communications vz <PUNC>
-also among blue chips <COMMA> shares of alcoa inc. aa dropped <NUM> percent <PUNC>
-last week <COMMA> alcan inc. al turned down alcoa s dollar <NUM> billion hostile bid <PUNC>
-general motors corp. gm slumped <NUM> percent amid reports that bmw is interested in buying ford motor co s f volvo unit <PUNC>
-<PAR>

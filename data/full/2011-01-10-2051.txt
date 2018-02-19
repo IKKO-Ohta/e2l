@@ -1,6 +1,0 @@
-poised for its third straight session of declines <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> tallied losses <COMMA> including dupont co. dd <COMMA> down after it agreed to acquire danish foods-ingredient maker danisco a/s for dollar <NUM> billion <COMMA> excluding assumed debt <PUNC>
-decliners remained just ahead of advancers on the new york stock exchange <COMMA> where trading volume exceeded <NUM> million as of 3:20 p.m. eastern <PUNC>
-wall street s retreat comes after both the dow and s&p finished a sixth consecutive week higher <PUNC>
-after the close <COMMA> alcoa aa <COMMA> part of the dow industrials <COMMA> unofficially starts the fourth-quarter earnings season when it reports results <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-off session lows that had it down <NUM> points <COMMA> the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the dow ended last week at an all-time high of <NUM> <PUNC>
-bank of america corp. bac was among the blue-chip decliners <COMMA> off <NUM> percent <COMMA> a day after the justice department filed suit against the bank for allegedly misleading investors about loans linked to mortgage-backed securities <PUNC>
-also weighing on the dow <COMMA> walt disney co. dis declined <NUM> percent after the entertainment company reported fiscal third-quarter profit little changed from the year-ago period <PUNC>
-<PAR>

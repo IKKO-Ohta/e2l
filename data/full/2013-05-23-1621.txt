@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after falling as much as <NUM> percent earlier thursday <PUNC>
-the blue-chip index was helped by a <NUM> percent jump by hewlett-packard co. hpq on its earnings report <PUNC>
-meanwhile <COMMA> the standard & poor s <NUM> index spx dipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf joined the dow in turning positive <COMMA> rising <NUM> point to <NUM> <PUNC>
-<PAR>

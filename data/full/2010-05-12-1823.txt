@@ -1,4 +1,0 @@
-after finishing nearly <NUM> points lower on tuesday <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by international business machines corp. ibm <COMMA> up <NUM> percent after its chief executive said the tech company would double its earnings by <NUM> <PUNC>
-also bolstering the blue chips <COMMA> caterpillar inc. cat was up <NUM> percent <COMMA> and chemical giant dupont dd rose <NUM> percent <PUNC>
-another dow component <COMMA> industrial conglomerate 3m co. mmm <COMMA> gained <NUM> percent after it declared a cash dividend late tuesday for a 375th consecutive quarter <PUNC>
-<PAR>

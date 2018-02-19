@@ -1,9 +1,0 @@
-u.s. stocks closed sharply lower friday <COMMA> with the dow jones industrial average ending below <NUM> for the first time in three months <COMMA> as escalating oil prices and more trouble in the financial sector compounded market anxiety <PUNC>
-the dow dji ended at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <COMMA> for the session <PUNC>
-it lost about <NUM> <COMMA> or <NUM> percent <COMMA> on the week <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> posted losses <COMMA> with blue-chip financials among the hardest hit <PUNC>
-citigroup inc. c fell <NUM> percent <COMMA> american express co. axp fell <NUM> percent and american international group inc. aig declined <NUM> percent <PUNC>
-the blue-chip bleeding <COMMA> however <COMMA> was led by shares of general motors corp. gm <COMMA> down <NUM> percent <PUNC>
-off the dow <COMMA> shares of ford slid <NUM> percent <PUNC>
-the coca-cola co. ko proved the sole member of the dow <NUM> to remain in the green <COMMA> trading <NUM> percent higher <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-a surprisingly stronger-than-expected jobs report lifted both the s&p <NUM> and the dow jones industrial average to record levels <COMMA> but rally proved to be short-lived <PUNC>
-the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent to <NUM> <COMMA> but still recorded a gain of <NUM> percent over the past week <PUNC>
-merck & co. inc. mrk slipped <NUM> percent after reports german drug maker bayer ag is in exclusive talks to buy merck s consumer-health care unit for dollar <NUM> billion <PUNC>
-<PAR>

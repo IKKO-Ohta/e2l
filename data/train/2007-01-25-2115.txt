@@ -1,5 +1,0 @@
-u.s. stocks fell sharply in afternoon trade thursday <COMMA> with the dow jones industrial average suffering its worst day of the year so far <COMMA> with investors shaken by a sell-off in the bond market <COMMA> which sent long-term interest rates to five-month highs and fueled jitters about the housing market and the economy <PUNC>
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <COMMA> marking the first time triple-digit losses for the blue-chip average this year <PUNC>
-the dow was especially weighed down by the likes of american international group inc. aig <COMMA> boeing co. ba and exxon mobil corp. xom <PUNC>
-among the few gaining blue-chips <COMMA> at&t t was up after its earnings topped analyst forecasts.but microsoft corp. msft slid <NUM> percent ahead of its earnings <COMMA> expected after the close of trading <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> point at <NUM> <PUNC>
-leone noted that market players in recent sessions have tended to become leery whenever the dow jones industrials approach the <NUM> level <PUNC>
-dow component wal-mart stores inc. wmt <COMMA> which had previously disclosed a criminal probe into its handling of hazardous waste <COMMA> revealed a new criminal probe over possible violations of the resource conservation and recovery act <PUNC>
-among other dow components <COMMA> embattled general motors gm flirted with its all-time low stock price of dollar <NUM> <COMMA> which it struck in october <COMMA> <NUM> <PUNC>
-<PAR>

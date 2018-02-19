@@ -1,5 +1,0 @@
-the dow jones industrial average dji declined <NUM> points to end at <NUM> <COMMA> giving it a <NUM> percent weekly gain <PUNC>
-of the dow s <NUM> component stocks <COMMA> <NUM> ended in the red <COMMA> led by american express co. axp <COMMA> off <NUM> percent <COMMA> and general motors corp. gm <COMMA> down <NUM> percent <PUNC>
-oil giants chevron corp. cvx and exxon mobil corp. xom led the dow s winners <COMMA> with chevron up <NUM> percent and exxon up <NUM> percent <PUNC>
-their advances coincided with a rise in crude futures <COMMA> which rallied to a fresh high of dollar <NUM> a barrel <COMMA> before retreating a bit to close at dollar <NUM> a barrel up dollar <NUM> <PUNC>
-<PAR>

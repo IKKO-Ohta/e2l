@@ -1,5 +1,0 @@
-the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> putting a brake on three sessions of gains <PUNC>
-with the dow industrials <COMMA> general motors corp. gm fell <NUM> percent to dollar <NUM> after deutsche bank raised concerns about the stock as the automaker prepares for a confrontation with the united auto workers union on healthcare cost issues <PUNC>
-shares of intel corp. intc dipped <NUM> percent after the chip giant and several information technology firms manufacturing or selling computers were raided by the european commission as part of an ongoing investigation into possible anti-trust violations <COMMA> a spokesman for the commission said <PUNC>
-in other news <COMMA> shares of walt disney co. dis edged up <NUM> percent on a wall street journal report it is looking to spin off its radio-station network group <PUNC>
-<PAR>

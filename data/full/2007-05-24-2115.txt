@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> despite surging nearly <NUM> points early on to a new record high of <NUM> <PUNC>
-the dow was weighed by the likes of intel corp. intc <COMMA> disney dis <COMMA> and microsoft corp. msft <PUNC>
-among blue-chip shares <COMMA> boeing co. ba gained <NUM> percent to an all-time high <COMMA> bouncing back from the previous session when it affirmed its earnings outlook for <NUM> and <NUM> <PUNC>
-although the outlook disappointed investors on wednesday <COMMA> analysts on thursday said the selling pressure provided a good buying opportunity for the stock <PUNC>
-general motors gm fell <NUM> percent <PUNC>
-in a filing with the securities and exchange commission <COMMA> gm said it sees a dollar <NUM> billion exposure from helping delphi get out of bankruptcy <PUNC>
-gm previously said it would cost between dollar <NUM> billion and dollar <NUM> billion <PUNC>
-<PAR>

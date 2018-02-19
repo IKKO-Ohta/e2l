@@ -1,5 +1,0 @@
-the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
-walt disney co. dis rose almost <NUM> percent to dollar <NUM> before the opening <PUNC>
-the entertainment conglomerate reported a higher quarterly profit and revenue <PUNC>
-the earnings also exceeded wall street expectations <PUNC>
-<PAR>

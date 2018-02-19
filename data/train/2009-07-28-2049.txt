@@ -1,5 +1,0 @@
-stocks took a hit partly in reaction to the report <COMMA> although they finished mixed and well off earlier lows <PUNC>
-the dow jones industrial average dji ended down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> and the nasdaq composite rixf lost <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-even earnings misses from amazon amzn <COMMA> microsoft msft and american express axp dampened investor s enthusiasm only briefly <COMMA> he wrote in a note <PUNC>
-however <COMMA> the markets may be setting up for a fall decline <COMMA> as expectations are getting well ahead of economic reality <PUNC>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points to <NUM> <PUNC>
-wal-mart stores wmt affirmed its second-quarter earnings view after reporting solid monthly net and same-store sales <PUNC>
-the world s largest retailer said june same-store sales rose <NUM> percent <COMMA> helped by sales of seasonal merchandise such as air conditioners and summer clothes <PUNC>
-the stock rose <NUM> cents to dollar <NUM> <PUNC>
-<PAR>

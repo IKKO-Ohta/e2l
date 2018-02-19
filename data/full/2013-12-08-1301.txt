@@ -1,7 +1,0 @@
-trading may be muted on monday following the nearly 200-point-gain notched by the dow jones industrial average dji on friday <COMMA> according to joe heider <COMMA> regional managing principal at wealth-management firm rehmann <PUNC>
-government data showed friday that nonfarm payrolls rose by <NUM> in november and the jobless rate fell to <NUM> percent <COMMA> propelling a rally on wall street <PUNC>
-in the past week <COMMA> stocks finished mostly lower <COMMA> with the s&p <NUM> spx down less than <NUM> percent for the week <COMMA> while the dow jones industrial average dipped <NUM> percent <PUNC>
-the nasdaq composite rixf advanced less than <NUM> percent for the week <PUNC>
-the s&p <NUM> snapped an eight-week winning streak <COMMA> but the benchmark index remains up <NUM> percent for the year and just below its record intraday peak of <NUM> hit on nov. <NUM> <PUNC>
-the dow also ended an eight-week advance <COMMA> yet it s up <NUM> percent for the year <PUNC>
-<PAR>

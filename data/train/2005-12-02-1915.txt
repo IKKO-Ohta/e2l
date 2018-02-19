@@ -1,5 +1,0 @@
-the dow industrials dji was last down <NUM> points at <NUM> <COMMA> with <NUM> of <NUM> components contributing to losses <PUNC>
-the dow had rallied <NUM> points on thursday <COMMA> the first triple-digit gain in over a month <COMMA> while the nasdaq posted its best one-day point gain in six weeks <PUNC>
-<PAR>
-rival general motors corp. gm <COMMA> which announced an <NUM> percent drop in u.s. vehicle sales for november <COMMA> was down <NUM> percent at dollar <NUM> in afternoon trading after ending thursday s session with a gain <PUNC>
-<PAR>

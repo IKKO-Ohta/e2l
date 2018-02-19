@@ -1,6 +1,0 @@
-marking its third straight session of declines <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-at&t t led blue-chip declines <COMMA> its shares falling <NUM> percent <COMMA> while other telecom shares sank ahead of verizon s vz expected launch of apple s aapl iphone <PUNC>
-shares of dupont co. dd fell <NUM> percent after the firm agreed to acquire danish foods-ingredient maker danisco a/s for dollar <NUM> billion <COMMA> excluding assumed debt <PUNC>
-advancing issues still barely topped decliners on the new york stock exchange <COMMA> where trading volume reached <NUM> million <PUNC>
-wall street s retreat comes after both the dow and s&p finished a sixth consecutive week higher <PUNC>
-<PAR>

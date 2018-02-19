@@ -1,9 +1,0 @@
-after jumping right out of the gates <COMMA> however <COMMA> the dow jones industrial average dji quickly lost some steam and was last up <NUM> points at <NUM> <PUNC>
-the advance was led by gains in shares of alcoa inc. aa <COMMA> boeing co. ba and mcdonald s corp. mcd <PUNC>
-among other dow components <COMMA> procter & gamble co. pg rose <NUM> percent <PUNC>
-the company affirmed its previous third-quarter earnings projection of <NUM> to <NUM> cents a share <PUNC>
-the cincinnati household products company also still expects revenue growth of <NUM> percent to <NUM> percent for the current quarter <PUNC>
-at&t corp. t gained <NUM> percent <PUNC>
-the telecom company and yahoo inc. yhoo are negotiating potentially sweeping changes that could scale back their partnership <COMMA> which expires in april <NUM> <COMMA> and could cost yahoo millions in revenue <COMMA> according to a report in the wall street journal <PUNC>
-yahoo dropped <NUM> percent <PUNC>
-<PAR>

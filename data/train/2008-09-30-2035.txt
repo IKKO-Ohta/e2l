@@ -1,8 +1,0 @@
-u.s. stock indexes on tuesday blasted back from the prior session s historic rout <COMMA> with the dow jones industrial average chalking up its third-biggest point gain on optimism that a rescue plan would make a comeback in coming days on capitol hill <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a level that has the blue-chip index down <NUM> percent from the end of august <COMMA> and <NUM> percent for the third quarter <PUNC>
-of the dow s <NUM> components <COMMA> all but one ended higher <COMMA> with blue-chip financials fronting the advance <PUNC>
-citigroup inc. c gained <NUM> percent <COMMA> j.p. morgan chase & co. jpm rose <NUM> percent <COMMA> and bank of america corp. bac climbed <NUM> percent <PUNC>
-the dow s sole laggards <COMMA> caterpillar inc. cat fell <NUM> percent <PUNC>
-u.s. stocks plunged monday the single-worst point drop ever for the dow jones industrial average after the house voted down the so-called troubled assets relief package <PUNC>
-at monday s finish <COMMA> the dow was down <NUM> percent for the nearly finished month <COMMA> which proved to be a watershed one for the nation s financial system <PUNC>
-<PAR>

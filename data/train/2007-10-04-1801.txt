@@ -1,4 +1,0 @@
-at <NUM> p.m. eastern <COMMA> the dow jones industrial average dji slid <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-alcoa inc. aa and caterpillar inc. cat were among the dow s laggards <COMMA> with alcoa s stock off <NUM> percent and caterpillar s down <NUM> percent <PUNC>
-pharmaceuticals fronted the blue-chip advance <COMMA> with merck & co. inc. mrk up <NUM> percent and pfizer inc. pfe <COMMA> ahead <NUM> percent <COMMA> after naming a new head of research and development <PUNC>
-<PAR>

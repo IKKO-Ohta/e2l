@@ -1,8 +1,0 @@
-the dow jones industrial average dji ended at a fresh three and a half month high <COMMA> up <NUM> points at <NUM> <PUNC>
-the benchmark index has now posted gains for <NUM> out of its last <NUM> sessions <PUNC>
-by sector <COMMA> retailers rlx rallied after healthy earnings reports from wal-mart wmt and lowe s low <PUNC>
-energy xoi and oil services osx also put in solid gains <PUNC>
-home depot hd <COMMA> the larger rival of lowe s that s set to report results on tuesday <COMMA> gained as much as <NUM> percent to dollar <NUM> on expectations its competitors strong earnings presage a good quarter for the company <PUNC>
-the stock <COMMA> a dow component <COMMA> ended up <NUM> cents at dollar <NUM> <PUNC>
-general motors corp. gm <COMMA> another member of the dow <COMMA> fell <NUM> percent to dollar <NUM> on persistent concern over the financial health of the automaker <PUNC>
-<PAR>

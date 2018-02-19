@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points at <NUM> <PUNC>
-honeywell international inc. hon was the biggest percentage gainer on the dow industrials <COMMA> up <NUM> percent at dollar <NUM> <COMMA> after the diversified industrial manufacturer affirmed its earnings and sales targets for <NUM> <COMMA> and forecast <NUM> results that would be in line with analysts projections <PUNC>
-boeing co. shares ba rose <NUM> cents to dollar <NUM> after the aerospace giant confirmed it has received orders for up to <NUM> of <NUM> dreamliner airplanes from australian airline qantas <PUNC>
-<PAR>

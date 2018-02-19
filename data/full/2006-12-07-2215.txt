@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-several blue-chips weighed on the dow industrials <COMMA> especially home depot inc. hd <COMMA> which fell <NUM> percent <PUNC>
-the company said late wednesday that it had routinely backdated stock options for <NUM> years <PUNC>
-merck & co. mrk lost <NUM> percent <COMMA> falling for a second day <PUNC>
-competitor eli lilly and co. lly eased <NUM> percent after its <NUM> forecast fell short of wall street expectations <PUNC>
-<PAR>

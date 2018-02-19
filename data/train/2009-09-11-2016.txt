@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to rest at <NUM> <COMMA> giving the blue-chips a weekly advance of <NUM> percent <PUNC>
-the s&p <NUM> index spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <COMMA> a level that translates into a <NUM> percent gain from last friday s close <PUNC>
-the nasdaq composite rixf declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with the technology-heavy index tallying a <NUM> percent rise for the week <PUNC>
-<PAR>

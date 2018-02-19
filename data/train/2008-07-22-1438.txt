@@ -1,8 +1,0 @@
-off its opening lows <COMMA> the dow jones industrial average dji was recently up <NUM> points to stand at <NUM> <COMMA> with <NUM> of its <NUM> components in the green <PUNC>
-gains were led by the coca-cola co. ko <COMMA> up <NUM> percent <PUNC>
-american express axp was among those weighing on the blue-chip index <COMMA> with the credit-card company s shares dropping <NUM> percent after it said it would not meet earnings targets until the economy improves <PUNC>
-merck & co. inc. mrk weighed on the dow for a second day <COMMA> falling <NUM> percent after the drug giant reported a modest earnings rise on what amounted to flat sales <PUNC>
-but the earnings reports were not uniformly negative <PUNC>
-atlanta s suntrust banks inc. sti beat wall street estimates <COMMA> and dupont dd lifted the low end of its <NUM> earnings estimate <PUNC>
-on monday <COMMA> u.s. stock indexes sustained minor losses after better-than-expected quarterly earnings from bank of america corp. bac offset losses in the technology <COMMA> pharmaceutical and consumer discretionary sectors <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-up more than <NUM> points earlier on <COMMA> the dow jones industrial average dji more recently fell <NUM> points to <NUM> <COMMA> with half of its <NUM> components trading lower <PUNC>
-on tuesday <COMMA> the dow industrials rose <NUM> points <COMMA> the s&p <NUM> added <NUM> points and the nasdaq composite rose <NUM> points after lehman brothers holdings inc. leh and goldman sachs group inc. gs offered relief on earnings and the federal reserve cut interest rates by three-quarters of a percentage point <PUNC>
-<PAR>

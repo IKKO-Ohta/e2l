@@ -1,5 +1,0 @@
-the dow jones industrial average dji had its best weekly point gain of more than <NUM> points since november <NUM> while the nasdaq composite index rixf rose more than <NUM> points on the week <COMMA> its best weekly point gain since january <NUM> <PUNC>
-wal-mart stores inc. wmt tacked on <NUM> percent to dollar <NUM> in pre-market trading on inet after the world s largest retailer said over the weekend that it expects july same-store sales to have grown at a <NUM> percent rate <COMMA> which is at the high end of its previous estimate of <NUM> percent to <NUM> percent <PUNC>
-in other broker moves <COMMA> j.p. morgan chase upgraded oil giant exxon mobil corp. to overweight from neutral <COMMA> citing an improved outlook for production growth and the stock s defensive characteristics in the face of downside risks surrounding crude oil prices <PUNC>
-the dow component edged up <NUM> percent to dollar <NUM> on inet <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-u.s. stocks declined friday <COMMA> with the dow industrials and the s&p <NUM> halting their longest stretch of weekly gains since august <COMMA> as investors fixated on the lack of a federal government budget deal and ignored upbeat economic reports in the u.s. and china <PUNC>
-the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it off <NUM> percent for the week <PUNC>
-both the dow and the s&p <NUM> ended a three-week winning stretch <PUNC>
-<PAR>

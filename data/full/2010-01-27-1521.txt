@@ -1,6 +1,0 @@
-the dow jones industrial average dji <COMMA> which was off about <NUM> points prior to the release of the home-sales data at <NUM> a.m. <COMMA> recently slumped to trade down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the s&p <NUM> spx was down <NUM> percent <COMMA> led by declines in its utilities and basic-materials sectors <PUNC>
-the nasdaq composite index rixf was flat <COMMA> bolstered by a <NUM> percent rise in yahoo yhoo following its better-than-expected earnings report <PUNC>
-the dow has fallen in four of the last five full trading sessions <COMMA> losing a combined <NUM> percent <PUNC>
-it also came into wednesday s action down <NUM> percent for january a perhaps troublesome harbinger for the rest of the year <PUNC>
-<PAR>

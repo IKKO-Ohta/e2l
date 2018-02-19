@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> stocks advanced <PUNC>
-among blue chips <COMMA> intel intc rose <NUM> percent after it said it would make design changes to boost microchip performance <COMMA> including adopting techniques from rival advanced micro devices amd <PUNC>
-amd fell <NUM> percent <PUNC>
-citigroup c rose <NUM> percent after saying it planned to roughly double its china branch network in 2007.. and boeing co. ba gained <NUM> percent after colombia s largest airline <COMMA> avianca sa <COMMA> said it would buy <NUM> of boeing s <NUM> dreamliner aircraft. <PUNC>
-<PAR>

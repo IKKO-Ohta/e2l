@@ -1,3 +1,0 @@
-the s&p <NUM> index ended slightly lower on monday <COMMA> while the dow jones industrial average eked out a small gain after global powers agreed a deal with iran to curb the nation s nuclear program <PUNC>
-the dow jones industrial average rose <NUM> points <COMMA> or less than <NUM> percent <COMMA> to finish at <NUM> <COMMA> scoring another record close and pushing further above the <NUM> mark <PUNC>
-<PAR>

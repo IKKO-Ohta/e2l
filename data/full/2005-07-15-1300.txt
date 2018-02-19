@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> a four-month high for the benchmark index <PUNC>
-the core rate of inflation of inflation at the wholesale level fell <NUM> percent <COMMA> the agency said.economists had expected the producer price index to rise <NUM> percent in june <COMMA> according to the dow jones survey <PUNC>
-core inflation was expected to rise <NUM> percent <PUNC>
-general electric co s stock ge slipped <NUM> percent in pre-market trading on instinet as the industrial conglomerate s in-line second quarter failed to inspire investors <PUNC>
-shares of mcdonald s mcd <COMMA> another dow member <COMMA> rose <NUM> percent to dollar <NUM> in pre-market dealings after the restaurant giant said second-quarter earnings should exceed wall street s target <PUNC>
-shares of hewlett-packard co. hpq could receive a lift in early trading on media reports the computer and printer maker is set to announce a major restructuring plan as early as next week <PUNC>
-procter & gamble pg looks close to overcoming another hurdle in its bid to seal its purchase of gillette co. g after people close to the deal said european antitrust regulators are close to approving the acquisition <COMMA> with only minimum conditions <PUNC>
-<PAR>

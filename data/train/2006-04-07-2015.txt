@@ -1,6 +1,0 @@
-the dow jones industrial average <COMMA> however <COMMA> still remains on track to post a modest rise <PUNC>
-the dow industrials dji were down <NUM> points at <NUM> <PUNC>
-shares in alcoa aa were up <NUM> cents at dollar <NUM> <PUNC>
-the maker of aluminum products is set to report earnings on monday <PUNC>
-its results <COMMA> traditionally <COMMA> mark the start of the reporting season for earnings <PUNC>
-<PAR>

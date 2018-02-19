@@ -1,7 +1,0 @@
-the dow jones industrial average dji reversed an early 120-point loss to close down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-still <COMMA> he said many were concerned about the volatility in july <COMMA> which saw several days in which the dow gained or fell by <NUM> points or more <PUNC>
-i think people would like to see some of this volatility settle out of the market <COMMA> o rourke commented <PUNC>
-leading the dow gainers were shares of home depot hd <COMMA> up <NUM> percent <COMMA> followed by alcoa aa and boeing ba <COMMA> both of which rose <NUM> percent <PUNC>
-weighing on the downside was merck mrk <COMMA> which dropped <NUM> percent after the drug company s second-quarter earnings fell <NUM> percent <PUNC>
-merck s revenue missed expectations <COMMA> and the company narrowed its <NUM> earnings forecast while trimming the top end of its sales view for the year <PUNC>
-<PAR>

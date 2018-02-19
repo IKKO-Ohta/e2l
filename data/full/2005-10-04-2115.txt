@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> off an intraday high of <NUM> <PUNC>
-among the dow industrials <COMMA> microsoft msft fell <NUM> percent to dollar <NUM> <COMMA> on worries that a software partnership between google inc. goog and sun microsystems inc. sunw may challenge its dominance in the software market <PUNC>
-boeing co. shares ba were up <NUM> cents at dollar <NUM> as investors cheered a report from the company showing solid aircraft deliveries in the third quarter <PUNC>
-alcoa aa was down <NUM> cents at dollar <NUM> <COMMA> extending the prior session s losses amid concern that high energy prices will hurt its bottom line <PUNC>
-hewlett-packard hpq lost <NUM> cents to dollar <NUM> <COMMA> hurt by rival lexmark s third-quarter profit warning <PUNC>
-also within the dow <COMMA> procter & gamble pg fell <NUM> percent to dollar <NUM> after citigroup cut the household-products maker to hold from buy <COMMA> citing concerns over raw materials that the broker said it will limit upside to earnings-per-share estimates <PUNC>
-in addition <COMMA> citigroup also cut its price target to dollar <NUM> from dollar <NUM> <PUNC>
-<PAR>

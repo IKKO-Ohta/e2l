@@ -1,7 +1,0 @@
-the dow jones industrial average dji ended down <NUM> points at <NUM> <COMMA> putting in a weekly loss of <NUM> percent <PUNC>
-shares in merck & co. mrk fell <NUM> percent after its lawyers said it may settle a small group of vioxx lawsuits <COMMA> but it has no intention of entering into a class-action settlement <PUNC>
-hewlett-packard co. hpq tacked on <NUM> cents to dollar <NUM> after it said late thursday it would allocate an additional dollar <NUM> billion to buy back common stock <PUNC>
-in a note to clients <COMMA> merrill lynch analysts said some investors may be disappointed with organic growth at the agency <COMMA> but they should take heart from raised margin targets <PUNC>
-wpp counts samsung corp <COMMA> unilever plc and procter & gamble pg among its roster of clients <PUNC>
-the stock was off <NUM> cents at dollar <NUM> <PUNC>
-<PAR>

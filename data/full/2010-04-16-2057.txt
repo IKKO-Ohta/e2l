@@ -1,4 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-still <COMMA> the dow posted its seventh straight week of gains <COMMA> its longest winning streak since the seven-week period ending in may <NUM> <PUNC>
-while most of the market s drop came after the sec filed its charges <COMMA> the dow had started the session down <COMMA> weighed by disappointment over the latest slate of earnings from companies including bank of america corp. bac and general electric co. ge <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-the dow jones industrial average dji reversed early losses to advance <NUM> points <NUM> <COMMA> with the blue-chip index starting the day looking at quarterly losses of roughly <NUM> percent <PUNC>
-<PAR>

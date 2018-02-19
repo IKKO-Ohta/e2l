@@ -1,8 +1,0 @@
-after falling more than <NUM> points early on <COMMA> the dow jones industrial average was up <NUM> points at <NUM> in mid-afternoon trading <COMMA> its highest intraday level since late june <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> posted gains <COMMA> led by general motors corp. <COMMA> up <NUM> percent <COMMA> and home depot inc. <COMMA> up <NUM> percent <PUNC>
-telecommunications firms also were among those gaining on the dow <COMMA> with verizon communications inc. and at&t inc. both up nearly <NUM> percent <PUNC>
-the gains came in the wake of a labor agreement between verizon and two unions representing <NUM> workers <PUNC>
-<PAR>
-u.s. stocks had ended sharply higher friday as strength in the dollar triggered losses for commodities <COMMA> notably oil <PUNC>
-transport and housing stocks led the advance <COMMA> in which the dow industrials rallied <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq added <NUM> points <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-such concerns have helped drive the dow jones industrial average dji to fresh six-year lows <PUNC>
-for the week <COMMA> the blue-chip average fell more than <NUM> percent <COMMA> marking its worst week since october of last year <PUNC>
-a big chunk of the pain came from the financial sector <COMMA> where bank of america bac sank to new lows and citigroup c fell to an 18-year low on friday amid concern the government may take over the banks <COMMA> wiping out their shareholders <PUNC>
-next week <COMMA> another <NUM> s&p <NUM> companies will report results <COMMA> including dow component home depot hd on thursday <PUNC>
-<PAR>

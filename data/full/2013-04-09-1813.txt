@@ -1,5 +1,0 @@
-u.s. stock indexes rose on tuesday <COMMA> lifting the s&p <NUM> index and the dow jones industrial average to record intraday highs <COMMA> as wall street embraced the start of first-quarter earnings <PUNC>
-after climbing <NUM> points to an all-time intraday high of <NUM> <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <COMMA> above its all-time finish of <NUM> <COMMA> set one week ago <PUNC>
-intel corp. intc and microsoft corp. msft paced gains that included all but five of the blue-chip index s <NUM> members <PUNC>
-alcoa inc. aa shares drifted between slight gains and losses a day after the aluminum producer reported results that marked the unofficial start of the earnings season <PUNC>
-read more about how alcoa earnings could boost the market <PUNC> <PUNC>

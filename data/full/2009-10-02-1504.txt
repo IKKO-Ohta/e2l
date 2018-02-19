@@ -1,4 +1,0 @@
-consumer discretionary shares fronted the declines as the major indexes slipped towards weekly losses of nearly <NUM> percent <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-the s&p <NUM> spx dropped <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf declined <NUM> points to <NUM> <PUNC>
-<PAR>

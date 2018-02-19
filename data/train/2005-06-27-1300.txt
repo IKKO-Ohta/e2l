@@ -1,3 +1,0 @@
-exxon mobil corp. xom <COMMA> a component of the dow jones industrial average <COMMA> after friday s closing bell said it will take an after-tax charge of dollar <NUM> million in the second quarter in connection with a supreme court ruling a day ruling that granted a lower federal court the right to hear the claims of several thousand exxon service station dealers who challenged a discount for cash program <PUNC>
-the charge is in addition to an after-tax charge of dollar <NUM> million recorded in the third quarter of <NUM> <PUNC>
-<PAR>

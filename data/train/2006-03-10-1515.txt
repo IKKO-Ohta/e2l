@@ -1,6 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-citigroup inc. c was up <NUM> cents at dollar <NUM> in early trading <PUNC>
-the french magazine le nouvel observateur reported that a large u.s. bank has contacted the french government about the possibility of making an offer for a bank in that country <PUNC>
-the magazine believes it to be citigroup <PUNC>
-shares of societe generale rose <NUM> percent in paris trade <PUNC>
-<PAR>

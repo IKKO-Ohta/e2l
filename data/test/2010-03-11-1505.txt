@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx declined <NUM> points to <NUM> <COMMA> with materials and financials the heaviest-weighing sectors <PUNC>
-the nasdaq composite rixf fell <NUM> points to <NUM> <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-u.s. stocks dipped wednesday after another piece of disappointing economic data gave wall street a reason to take a break from an upswing that lifted the dow jones industrial average the past four days <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with two-thirds of its <NUM> components on the decline <PUNC>
-aerospace giant boeing co. ba was among the laggards after it reported results that beat profit expectations but missed on revenue <PUNC>
-<PAR>

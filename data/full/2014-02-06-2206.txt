@@ -1,7 +1,0 @@
-the s&p <NUM> index spx closed up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the dow jones industrial average dji closed near session highs <COMMA> adding <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-both indexes saw their biggest gains since dec.18 <COMMA> when the federal reserve announced it would start reducing its economy-stoking bond purchases <PUNC>
-disney dis shares jumped <NUM> percent <COMMA> leading gains on the dow average <COMMA> after earnings topped estimates <COMMA> helped by the popularity of the frozen animated movie <PUNC>
-shares of green mountain coffee roasters gmcr surged <NUM> percent after the company said it would sign a 10-year drink deal with coca-cola ko <PUNC>
-coca-cola is taking a <NUM> percent stake in the company for dollar <NUM> billion <PUNC>
-<PAR>

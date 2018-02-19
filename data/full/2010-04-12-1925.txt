@@ -1,6 +1,0 @@
-poised for its first finish above <NUM> since sept. <NUM> <COMMA> <NUM> <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with alcoa aa and caterpillar inc. cat pacing the gains <PUNC> both were up more than <NUM> percent <PUNC>
-the first of the dow s <NUM> components to report first-quarter results <COMMA> alcoa is expected to swing to a profit under the steam of higher aluminium prices and increased demand <PUNC>
-on wednesday <COMMA> j.p. morgan chase & co. jpm is slated to release its results in what analysts said should provide a barometer of financial-sector fiscal conditions <PUNC>
-other big names set to report results include blue chips intel corp. intc <COMMA> bank of america corp. bac and general electric co. ge <PUNC>
-on friday <COMMA> u.s. stock benchmarks closed out a sixth consecutive week of gains <COMMA> taking the dow industrials above <NUM> intraday for the first time since late september <NUM> <PUNC>
-<PAR>

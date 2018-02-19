@@ -1,7 +1,0 @@
-after climbing more than <NUM> points <COMMA> the dow jones industrial average dji was more recently down <NUM> points at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> traded lower <PUNC>
-shares of honeywell hon shares were recently up <NUM> percent <PUNC>
-late thursday <COMMA> the blue-chip conglomerate reported an <NUM> percent profit increase for the fourth quarter <PUNC>
-shares of microsoft msft rose <NUM> percent after the software giant posted an <NUM> percent surge in quarterly profit <PUNC>
-and caterpillar cat gained <NUM> percent after it said fourth-quarter earnings grew about <NUM> percent <PUNC>
-<PAR>

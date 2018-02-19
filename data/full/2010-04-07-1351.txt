@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-dupont dft was the measure s worst performer <COMMA> off <NUM> percent <COMMA> while procter & gamble pg and walt disney dis were also weak <COMMA> down <NUM> percent each <PUNC>
-just a handful of the dow s components were in the black <COMMA> led by financials <PUNC>
-bank of america bac climbed <NUM> percent while j.p. morgan chase jpm edged up <NUM> percent <PUNC>
-<PAR>

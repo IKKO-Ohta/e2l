@@ -1,2 +1,0 @@
-futures for the dow jones industrial average rose <NUM> points to <NUM> <PUNC>
-<PAR>

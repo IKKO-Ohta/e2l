@@ -1,3 +1,0 @@
-after falling as much as <NUM> points <COMMA> the dow jones industrial average dji was lately off <NUM> points at <NUM> with bank of america corp. bac the leading decliner among its <NUM> components <COMMA> all of which lost ground <PUNC>
-the blue-chip index joined the other two major u.s. benchmarks in negative turf for <NUM> <PUNC>
-<PAR>

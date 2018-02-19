@@ -1,2 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> recovering some of the steep losses from the previous two sessions <PUNC>
-<PAR>

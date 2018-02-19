@@ -1,6 +1,0 @@
-down more than <NUM> points during the day <COMMA> the dow jones industrial average dji ended down <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <PUNC>
-twenty-four of the dow s <NUM> components finished with losses <COMMA> fronted by citigroup inc. c <COMMA> off <NUM> percent <PUNC>
-the finish marked a sizeable comeback from losses that followed a pre-opening jolt <COMMA> when software titan microsoft msft reported an earnings drop and said it plans to shed as many as <NUM> workers <PUNC>
-it declared itself unable to offer a forecast for the remainder of <NUM> <COMMA> citing economic uncertainty <PUNC>
-we ve been rallying since noon and rallying quite hard since 1:40 p.m. eastern on the backs of financial and tech names which have come off their lows considerably <COMMA> said greenhaus <COMMA> who gave microsoft <COMMA> ibm ibm and ebay inc. ebay as examples <PUNC>
-<PAR>

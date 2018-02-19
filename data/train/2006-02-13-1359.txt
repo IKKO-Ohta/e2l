@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-on the week <COMMA> the benchmark index was up <NUM> percent <PUNC>
-in the article <COMMA> barron s warns the company s share could be cut in half over the next year on competition from microsoft msft and yahoo inc. yhoo <COMMA> pricing pressures for online ad sales and mounting concern over click fraud <PUNC>
-yahoo shares were off <NUM> cents at dollar <NUM> while microsoft s stock dipped <NUM> cents to dollar <NUM> in thin pre-market trading <PUNC>
-elsewhere in the sector <COMMA> j.p. morgan s jpm worldwide securities services unit bought the middle and back office operations of paloma partners management co. for an undisclosed sum <PUNC>
-also on the deal front <COMMA> the home depot inc. hd is in talks to buy a <NUM> percent stake in china s orient home <COMMA> one of the mainland s leading do-it-yourself chains <COMMA> for more than dollar <NUM> <COMMA> the financial times reported monday,citing people close to the situation <PUNC>
-on friday <COMMA> the stock rose <NUM> cents to dollar <NUM> <PUNC>
-<PAR>

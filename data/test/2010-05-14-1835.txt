@@ -1,7 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in recent trading <PUNC>
-all but one of the dow s components were in the red <PUNC> travelers cos. trv <COMMA> which edged up <NUM> percent <PUNC>
-shares of blue chip american express axp sank <NUM> percent as investors shunned riskier stocks <COMMA> including financials <COMMA> and fellow dow component alcoa aa sank <NUM> percent as metals futures declined <PUNC>
-financials also weakened as investors flocked toward more defensive stocks <PUNC>
-j.p. morgan chase jpm slid <NUM> percent <COMMA> while citigroup c fell <NUM> percent <PUNC>
-against this backdrop <COMMA> shares of visa v tumbled <NUM> percent <COMMA> while mastercard ma fell <NUM> percent and bank of america bac fell <NUM> percent <PUNC>
-<PAR>

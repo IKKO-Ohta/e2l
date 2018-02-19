@@ -1,7 +1,0 @@
-the last-minute collapse of the rescue sent shares in car makers tumbling <COMMA> with general motors corp. gm off <NUM> percent and ford motor co. f down more than <NUM> percent <PUNC>
-<PAR>
-the dow jones industrial average dji shed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components down early on <PUNC>
-u.s. stocks finished deep in negative territory on thursday as fears over the future of the bailout plan mounted and amid renewed concerns over the health of financial firms <PUNC>
-the dow jones industrial average closed down <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite lost <NUM> points <PUNC>
-bank of america corp. bac late thursday said it would cut as many as <NUM> jobs during the next three years as it adjusts to the recession and completes its pending acquisition of merrill lynch & co. mer <PUNC>
-<PAR>

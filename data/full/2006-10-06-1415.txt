@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-on thursday <COMMA> stocks ended higher for a third day <COMMA> as a more than <NUM> percent gain for caterpillar inc. cat lifted the dow jones industrial average to a new all-time record close <COMMA> and helped offset a fall in shares of wal-mart stores inc wmt sparked by weak september sales <PUNC>
-<PAR>

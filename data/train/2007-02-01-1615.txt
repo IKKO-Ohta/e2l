@@ -1,6 +1,0 @@
-u.s. stocks were higher on thursday <COMMA> sending the dow jones industrial average to new highs <COMMA> as investors were encouraged by a tame reading on inflation <COMMA> as well as a management shake-up at dell inc. and upbeat earnings from exxon mobil corp <PUNC>
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> after earlier touching a record high of <NUM> <COMMA> led by gains in the shares of alcoa inc. aa <COMMA> boeing co. ba <COMMA> caterpillar inc cat and dupont dd <PUNC>
-exxon mobil corp. xom gyrated between positive and negative territory <COMMA> along with crude oil prices <COMMA> after the company posted a drop in earnings but still managed to beat expectations <PUNC>
-the news offset dell s warning that it expects fourth-quarter earnings to fall below expectations <PUNC>
-competitor hewlett-packard co. hpq <COMMA> however <COMMA> dropped <NUM> percent <COMMA> weighing on the blue-chip average <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-after posting gains at the start <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> by midday <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-the declines were led by general motors corp. gm <COMMA> down <NUM> percent <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components up at the start <PUNC>
-financial stocks <COMMA> however <COMMA> continued to falter <COMMA> with citigroup inc. c down <NUM> percent amid reports the bank had tabbed the same executive who steered its role in the rescue of collapsed hedge fund long-term capital management to run a new dedicated subprime unit <PUNC>
-<PAR>

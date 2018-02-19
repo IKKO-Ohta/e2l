@@ -1,2 +1,0 @@
-the dow jones industrial average dji rose by more than <NUM> points in early action <PUNC>
-<PAR>

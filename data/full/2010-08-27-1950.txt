@@ -1,8 +1,0 @@
-the dow jones industrial average dji vaulted <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> during afternoon trading <PUNC>
-the blue-chip index closed below the psychologically important <NUM> level on thursday <COMMA> which could have provided some motivation behind friday s rally <PUNC>
-among stocks in focus <COMMA> intel intc shares rose <NUM> percent <COMMA> even after it warned that weakening consumer demand for computers will hurt sales during the third quarter <PUNC>
-investors bracing for a broad lowering of semiconductor demand estimates said recent revisions have not been as severe as feared <PUNC>
-data-storage company 3par par soared <NUM> percent as the bidding war for the company escalated <PUNC>
-hewlett-packard hpq raised its offer <NUM> percent above dell s bid made only hours before <PUNC>
-h-p on friday lifted its bid to dollar <NUM> billion <COMMA> or dollar <NUM> a share <COMMA> topping dell s most recent offer of dollar <NUM> made before the start of trading friday <PUNC>
-<PAR>

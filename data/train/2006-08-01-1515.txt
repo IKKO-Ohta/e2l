@@ -1,3 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-verizon communications inc. vz was <NUM> percent lower at dollar <NUM> <PUNC>
-<PAR>

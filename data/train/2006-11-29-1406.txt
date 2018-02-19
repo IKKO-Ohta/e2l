@@ -1,5 +1,0 @@
-in recent action <COMMA> futures for the dow jones industrial average dji were rising <NUM> points to <NUM> <PUNC>
-pfizer pfe <COMMA> a dow component <COMMA> will likely gain after news of its job cut plans amid efforts to reduce costs <PUNC>
-boeing co. ba may also lend support to the blue-chip average after prudential raised its price target on the stock to dollar <NUM> from dollar <NUM> <PUNC>
-new york times co. nyt will also be in focus after a report in the new york post said that hank greenberg <COMMA> the former head of american international group inc. aig is buying huge blocks of the stock in a bid to break the sulzberger family s control <PUNC>
-<PAR>

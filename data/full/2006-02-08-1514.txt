@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-shares in pfizer inc. pfe rose <NUM> percent to dollar <NUM> after the drugs giant late tuesday said it will explore strategic alternatives for its consumer products business <COMMA> including a possible spinoff or sale <PUNC>
-mcdonald s mcd added <NUM> cents to dollar <NUM> after reporting a <NUM> percent advance in january same-store sales <PUNC>
-shares in general motors corp. gm fell <NUM> percent to dollar <NUM> after deutsche bank cut the automaker from to sell from hold <COMMA> saying it continues to be disappointed by the limited cash savings targeted by the current restructuring efforts <PUNC>
-<PAR>

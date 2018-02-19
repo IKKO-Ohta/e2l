@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <PUNC>
-among companies reporting earnings <COMMA> aircraft manufacturer boeing ba detailed a <NUM> percent profit rise <COMMA> sending the stock up <NUM> percent <PUNC>
-<PAR>

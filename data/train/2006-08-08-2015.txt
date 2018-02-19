@@ -1,3 +1,0 @@
-with less than an hour of trade left <COMMA> the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-dow component mcdonald s corp. mcd was <NUM> cents lower at dollar <NUM> <COMMA> the fast food empire reported a <NUM> percent increase in july same-store sales <COMMA> but u.s. results were light last month <PUNC>
-<PAR>

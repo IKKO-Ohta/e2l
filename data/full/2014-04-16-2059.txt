@@ -1,7 +1,0 @@
-markets got a boost from better-than-expected economic growth data in china and an upbeat industrial production report in the u.s. <COMMA> while positive earnings from yahoo <PUNC>
-inc. yhoo and intel corp. intc lifted tech stocks <PUNC>
-the s&p <NUM> spx ended the day <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
-the dow jones industrial average dji jumped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-ibm corp. ibm shares sid <NUM> percent after the company s revenue fell short of wall street expectations <PUNC>
-shares in american express co axp fell <NUM> percent as revenue disappointed investors <PUNC>
-<PAR>

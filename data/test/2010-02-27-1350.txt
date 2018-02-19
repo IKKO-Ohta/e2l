@@ -1,2 +1,0 @@
-the dow jones industrial average dji ended the week <NUM> percent lower but gained <NUM> percent for the month <PUNC>
-<PAR>

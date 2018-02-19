@@ -1,6 +1,0 @@
-the dow jones industrial average dji surged <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> marking its 50th record close this year <PUNC>
-j.p. morgan chase & co. jpm was the only component in the 30-stock index that ended in negative territory <PUNC>
-the dow and s&p <NUM> closed at record highs on tuesday in a holiday-shortened session and were closed on wednesday for christmas <PUNC>
-historically <COMMA> markets see abnormally high returns in the trading days between christmas and new year s day <PUNC>
-bill stone <COMMA> chief investment strategist at pnc asset management group <COMMA> gave three reasons for this <PUNC> portfolio adjustments for maximizing tax benefits before year end <COMMA> investor optimism associated with the holiday season or the fact that a large number of short sellers are on vacation until the new year <PUNC>
-<PAR>

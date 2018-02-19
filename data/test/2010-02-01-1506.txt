@@ -1,9 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> in early trading <PUNC>
-aluminum giant alcoa aa led the dow <COMMA> up <NUM> percent <PUNC>
-exxon mobil xom also surged <COMMA> up <NUM> percent after reporting fourth-quarter earnings of dollar <NUM> per share that topped analysts estimate of dollar <NUM> per share <PUNC>
-weighing on the dow <COMMA> coca-cola ko declined <NUM> percent <PUNC>
-the market s opening climb followed a heavy slump last week <COMMA> with the dow closing out january down <NUM> percent <COMMA> snapping a string of six straight monthly gains <PUNC>
-the rebound in the stock market comes as president barack obama s proposed a dollar <NUM> trillion budget for fiscal <NUM> that projects the deficit will shoot up to a record dollar <NUM> trillion this year <COMMA> but would push the red ink down to about dollar <NUM> billion <COMMA> or <NUM> percent of the gross domestic product by <NUM> <PUNC>
-meanwhile <COMMA> boston scientific bsx dropped <NUM> percent after agreeing to pay johnson & johnson jnj dollar <NUM> billion to settle its dispute over heart stents patents <PUNC>
-the stock market ended last week in a slump <COMMA> with the dow closing out january down <NUM> percent <COMMA> snapping a string of six straight monthly gains <PUNC>
-<PAR>

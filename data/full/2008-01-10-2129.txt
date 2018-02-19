@@ -1,3 +1,0 @@
-down as much as <NUM> points during the day <COMMA> the dow jones industrial average dji closed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <COMMA> with general motors corp. gm ahead the most <COMMA> ending up <NUM> percent <PUNC>
-wal-mart stores wmt said profit will feel some pressure from higher interest rates in the fourth quarter <COMMA> but it reaffirmed its fourth-quarter earnings view <PUNC>
-<PAR>

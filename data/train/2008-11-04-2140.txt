@@ -1,7 +1,0 @@
-after surging as much as <NUM> points <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-all but one of the blue-chip index s <NUM> components posted gains <COMMA> fronted by general electric co. ge <COMMA> up <NUM> percent <PUNC>
-the dow s sole laggard was hewlett-packard co. hpq <COMMA> its shares off <NUM> percent <PUNC>
-other developments in technology included word from apple inc. aapl that tony fadell is stepping down from his job heading the company s ipod division and will be replaced by a veteran international business machines corp. ibm executive <PUNC>
-<PAR>
-u.s. stocks ended monday s session in a muted tone <COMMA> with the dow industrials falling <NUM> points <COMMA> the s&p <NUM> losing <NUM> points and the nasdaq composite adding <NUM> points <PUNC>
-<PAR>

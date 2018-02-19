@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> in early trade <COMMA> with <NUM> of its <NUM> components gaining at the start <PUNC>
-the index was bolstered in part by ibm ibm <COMMA> up <NUM> percent <COMMA> in the wake of its quarterly earnings report <COMMA> which had ibm posting a <NUM> percent earnings growth <PUNC>
-also adding to blue-chip gains <COMMA> general electric ge advanced <NUM> percent after the industrial bellwether reported a fourth-quarter profit rise of <NUM> percent <PUNC>
-<PAR>

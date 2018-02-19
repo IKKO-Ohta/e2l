@@ -1,5 +1,0 @@
-on thursday <COMMA> jpmorgan jpm is scheduled to release its results <COMMA> with citigroup c results coming on friday <PUNC>
-on tuesday <COMMA> financial shares fronted the losses as stocks fell for a second consecutive session <PUNC>
-at <NUM> p.m. eastern <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
-the s&p <NUM> index spx declined <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf shed <NUM> points to <NUM> <PUNC>
-<PAR>

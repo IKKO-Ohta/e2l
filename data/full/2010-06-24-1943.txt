@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
-pfizer pfe was the measure s worst performer <COMMA> down <NUM> percent after saying it would suspend osteoarthritis trials of its pain drug tanezumab <PUNC>
-j.p. morgan chase jpm dropped <NUM> percent and bank of america bac fell <NUM> percent as house and senate lawmakers sought to reach agreement on the final pieces of legislation that is expected to tighten oversight of the financial industry more than many had expected <PUNC>
-<PAR>

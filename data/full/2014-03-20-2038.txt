@@ -1,4 +1,0 @@
-the s&p <NUM> index spx ended the day <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-nike inc. nke shares rose nearly <NUM> percent in aftermarket trade after the company s quarterly results topped estimates <PUNC>
-<PAR>

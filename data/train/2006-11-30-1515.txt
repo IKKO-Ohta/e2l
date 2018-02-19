@@ -1,5 +1,0 @@
-the dow jones industrial average dji recently dropped <NUM> points to <NUM> <PUNC>
-wal-mart wmt dropped <NUM> percent after it forecast that december same-store sales will be flat to weaker in december <PUNC>
-the blue chips average <COMMA> meanwhile <COMMA> received support from pfizer inc. pfe <COMMA> up <NUM> percent <COMMA> which raised its earnings guidance for <NUM> <PUNC>
-microsoft corp. msft <COMMA> which begins shipping its next-generation vista operating system to corporate customers on thursday <COMMA> dropped <NUM> percent <PUNC>
-<PAR>

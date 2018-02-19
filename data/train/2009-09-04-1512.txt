@@ -1,3 +1,0 @@
-the dow jones industrial average dji stood at <NUM> <COMMA> up <NUM> points <PUNC>
-the s&p <NUM> index spx gained <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
-<PAR>

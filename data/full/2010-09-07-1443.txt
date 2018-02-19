@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with all but five of its <NUM> components losing ground <PUNC>
-american express co. axp led the blue-chip decliners <PUNC> its shares were down <NUM> percent <PUNC>
-<PAR>

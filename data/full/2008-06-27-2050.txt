@@ -1,7 +1,0 @@
-after plunging <NUM> points on thursday <COMMA> the dow jones industrial average dji fell another <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> on friday <PUNC>
-after sliding <NUM> percent this week <COMMA> the dow has now lost nearly <NUM> percent since its october <NUM> record high of <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> fell <COMMA> with investors again heavily selling battered financial components american express co. axp <COMMA> citigroup inc. c <COMMA> and j.p. morgan chase & co. jpm <PUNC>
-american international group inc. aig fell <NUM> percent <COMMA> after the insurance giant said it will absorb dollar <NUM> billion in losses from securities lending <COMMA> bloomberg news reported <COMMA> citing an executive there <PUNC>
-stocks were crushed on thursday after tepid earnings outlooks from technology bellwethers oracle corp. orcl and research in motion ltd. rimm <PUNC> negative notes from goldman sachs on brokers and general motors corp. gm <PUNC> and oil prices reaching dollar <NUM> a barrel <PUNC>
-the dow plunged <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the tech-heavy nasdaq slumped <NUM> points <PUNC>
-<PAR>

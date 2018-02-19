@@ -1,7 +1,0 @@
-stocks ended friday with session gains but <COMMA> except for the blue chips <COMMA> losses for the week <PUNC>
-the dow jones industrial average dji rose <NUM> percent for the week <COMMA> while the s&p <NUM> index spx shed <NUM> percent <COMMA> and the nasdaq composite index rixf suffered its worst weekly loss since october <NUM> <COMMA> dropping <NUM> percent <PUNC>
-heading into the end of the first-quarter on monday <COMMA> the dow industrials are down <NUM> percent and the nasdaq is off <NUM> percent <PUNC>
-only the s&p <NUM> is showing a gain <COMMA> of <NUM> percent to <NUM> <COMMA> about <NUM> percent off its march <NUM> closing high of <NUM> <PUNC>
-after that anemic performance <COMMA> investors are hoping first-quarter malaise was all about bad weather that garbled economic data <PUNC>
-within the health-care sector <COMMA> riskier <COMMA> high-flying biotechs like celgene corp. celg and gilead sciences inc. gild have been some of the worst performers among large caps <COMMA> while more traditional pharma companies like eli lilly & co. lly and merck & co. mrk have been some of the best performers <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-falling to session lows with <NUM> minutes left in the session <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-all but one of the dow s <NUM> components traded lower <PUNC>
-intel corp. intc dropped <NUM> percent after the world s largest computer-chip manufacturer said it would pay about dollar <NUM> billion to acquire infineon technologies ag s wireless unit <PUNC>
-also weighing on the dow <COMMA> shares of 3m co. mmm were off <NUM> percent after the company said it would buy cogent inc. cogt <PUNC>
-hewlett-packard co. hpq was the sole blue-chip gainer <COMMA> with shares of the technology titan bolstered by a share-repurchase plan amid its pursuit of a deal to acquire 3par par <PUNC>
-<PAR>

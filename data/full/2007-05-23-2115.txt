@@ -1,7 +1,0 @@
-the dow jones industrial average dji finished down <NUM> points at <NUM> <COMMA> after earlier hitting a new record high of <NUM> <PUNC>
-weighing on the dow were the likes of ibm ibm <COMMA> intel intc <COMMA> and mcdonald s mcd <PUNC>
-the dow remained supported by alcoa inc. aa <COMMA> which rose <NUM> percent <PUNC>
-alcan al late tuesday rejected the dollar <NUM> billion hostile offer from the dow-component <PUNC>
-alcan shares rose <NUM> percent <PUNC>
-elsewhere on the dow <COMMA> boeing co. ba fell <NUM> percent after reaffirming earnings guidance for <NUM> and <NUM> <PUNC>
-<PAR>

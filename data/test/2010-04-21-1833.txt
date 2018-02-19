@@ -1,9 +1,0 @@
-the civil suit came as a shocker and gave the market a reason to retreat after a nearly uninterrupted seven-week climb that pushed the dow jones industrial average dji on thursday to its highest close since sept. <NUM> <COMMA> <NUM> <PUNC>
-the dow in friday s session fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving it with a weekly gain of <NUM> percent <PUNC>
-the seven-week streak is its longest in nearly three years <PUNC>
-earnings reports in the week ahead may help lure investors who view friday s fall as a chance to buy beaten-down shares on the relative cheap <PUNC>
-two industry giants and dow components <COMMA> ibm ibm and citigroup inc. c <COMMA> set the stage <COMMA> reporting their respective quarterly results monday <PUNC>
-stocks on friday were mildly lower even ahead of the goldman news <COMMA> with the market running out of steam even as general electric co. ge and bank of america corp. bac reported earnings that beat forecasts <PUNC>
-but <COMMA> like many companies in the technology sector <COMMA> amd had seen its shares had jump ahead of the release of quarterly results following the strong earnings and forecast at midweek from intel corp. intc <COMMA> which bolstered the tech sector at large <PUNC>
-and the same could be said for financial shares <COMMA> which <COMMA> while slammed friday <COMMA> had moved up substantially after j.p. morgan chase & co. jpm exceeded expectations with a dollar <NUM> billion profit <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with mcdonald s corp. mcd among the components down the most <PUNC>
-shares of the fast-food chain declined <NUM> percent after it reported global sales at stores open at least <NUM> months rose <NUM> percent in may <COMMA> short of expectations <COMMA> on sales declines in japan and china <PUNC>
-<PAR>

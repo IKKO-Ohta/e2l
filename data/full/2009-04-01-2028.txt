@@ -1,9 +1,0 @@
-the dow was down six months in a row before the march rally <PUNC>
-the s&p was down five out of six months <PUNC>
-we just had a little mean reversion for march <COMMA> but i would not necessarily read too much into it <COMMA> said peter bookvar <COMMA> equity strategist at miller tabak <PUNC>
-last year brought <NUM> dividend cuts totaling a combined trimming of dollar <NUM> billion <COMMA> while the first quarter of <NUM> brought <NUM> more cuts totaling dollar <NUM> billion <PUNC>
-in march <COMMA> seven companies increased dividends <COMMA> including a <NUM> percent hike by wal-mart stores inc. wmt and a <NUM> percent increase by staples inc. spls <PUNC>
-on wednesday <COMMA> stocks reversed course on early declines <COMMA> with materials pacing the gains <PUNC>
-after a drop of more than <NUM> points earlier <COMMA> the dow jones industrial average dji finished at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-the s&p <NUM> spx advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

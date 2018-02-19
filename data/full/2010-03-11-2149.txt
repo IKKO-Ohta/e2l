@@ -1,2 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components advancing <COMMA> led by technology bellwether ibm ibm <COMMA> up <NUM> percent <PUNC>
-<PAR>

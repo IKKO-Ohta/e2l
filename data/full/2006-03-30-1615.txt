@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> while the s&p <NUM> index spx rose <NUM> points to <NUM> <PUNC>
-general motors corp. gm was off <NUM> cents at dollar <NUM> <PUNC>
-the troubled car maker is discussing the sale of its stake in isuzu motors that is worth about dollar <NUM> million <PUNC>
-<PAR>

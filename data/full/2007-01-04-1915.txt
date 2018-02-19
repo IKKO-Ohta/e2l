@@ -1,8 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components contributed to losses <COMMA> but the blue-chip barometer had been down as much as <NUM> points in morning action <PUNC>
-helping spark stocks bounce was a sharp gain in semiconductor maker intel intc <COMMA> shares of which rallied nearly <NUM> percent after banc of america raised its earnings estimate for the fourth quarter and <NUM> <PUNC>
-wal-mart stores wmt rose <NUM> percent after reporting same-store-sales that were in line with its latest forecast <COMMA> laying out its growth target for january and affirming its quarterly profit outlook <PUNC>
-other dow gainers included merck mrk <COMMA> which gained more than <NUM> percent <COMMA> and general motors gm <COMMA> which advanced more than <NUM> percent <PUNC>
-dow decliners were led by exxon mobil xom <COMMA> which fell more than <NUM> percent as oil prices continued sharply lower for a second day <PUNC>
-mcdonald s mcd <COMMA> alcoa aa and at&t t were also notable losers. <PUNC>
-the dow jones aig commodity futures index eased <NUM> percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji dipped in an out of negative territory but closed marginally higher <COMMA> adding <NUM> points to <NUM> <PUNC>
-the blue-chip index hit a record high for the 29th time this year <PUNC>
-diversified industrial conglomerate united technologies corp. utx said chairman and chief executive louis chenevert will retire <COMMA> effective immediately <COMMA> after <NUM> years with the company <PUNC>
-united technologies also affirmed its <NUM> per-share earnings and sales outlooks <PUNC>
-shares slid <NUM> percent <PUNC>
-<PAR>

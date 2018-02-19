@@ -1,4 +1,0 @@
-after trading modestly higher for much of the session <COMMA> equity indexes erased their gains <COMMA> with the dow jones industrial average dji declining <NUM> points to <NUM> <COMMA> off <NUM> percent from the prior week s close <PUNC>
-of the blue chip s <NUM> components <COMMA> <NUM> posted losses <COMMA> with financials including j.p. chase morgan & co. jpm erasing the bulk of earlier gains to close down nearly <NUM> percent <PUNC>
-other financials on the dow also fell <COMMA> with citigroup inc. c off <NUM> percent and american express co. axp down <NUM> percent <PUNC>
-<PAR>

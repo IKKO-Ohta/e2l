@@ -1,6 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-stocks <COMMA> which wavered in opening trades <COMMA> fell after data on housing <COMMA> sending the dow as much as <NUM> points lower <PUNC>
-a lower close for the dow and s&p <NUM> would cap the indexes fourth straight loss and push weekly declines <COMMA> of <NUM> percent and <NUM> percent <COMMA> respectively <COMMA> to their worst since mid-december <PUNC>
-<PAR>

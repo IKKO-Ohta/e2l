@@ -1,6 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> after climbing as high as <NUM> in early trading <PUNC>
-shares in general electric co. ge rose <NUM> percent to dollar <NUM> after morgan stanley said it believes the stock could double in three years <COMMA> citing expected improvements in margins and returns on invested capital <PUNC>
-the broker also lifted its price target on the conglomerate by dollar <NUM> to dollar <NUM> <PUNC>
-general motors corp. gm was off <NUM> cents at dollar <NUM> <PUNC>
-the troubled car maker is discussing the sale of its stake in isuzu motors that is worth about dollar <NUM> million <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> well off an earlier high of <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> advanced <COMMA> led by merck & co. mrk <COMMA> johnson & johnson jnj and at&t inc. t <PUNC>
-also among blue chips <COMMA> altria group inc. mo rose <NUM> percent <PUNC>
-the company said will take a charge of dollar <NUM> million <COMMA> or <NUM> cents a share <COMMA> to shut down its 2,500-employee philip morris cigarette factory in cabarrus <COMMA> n.c. <COMMA> by <NUM> in a move to cut costs <PUNC>
-on monday <COMMA> stocks closed a volatile session with mild losses amid continued nervousness about subprime lending and the near collapse of two hedge funds owned by bear stearns cos. inc. bsc <COMMA> with exposure to that sector <PUNC>
-the dow first rallied to gain over <NUM> points in the morning before falling back to close down <NUM> points <PUNC>
-<PAR>

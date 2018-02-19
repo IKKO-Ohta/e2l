@@ -1,4 +1,0 @@
-down about <NUM> points ahead of the fed decision <COMMA> the dow jones industrial average dji rallied higher <COMMA> and was recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components higher <COMMA> with boeing co. ba up <NUM> percent after it reported fourth-quarter earnings climbed <NUM> percent <PUNC>
-<PAR>
-merck & co. mrk was down the most <COMMA> <NUM> percent <COMMA> after the pharmaceutical company reported fourth-quarter losses of dollar <NUM> billion <COMMA> pegged in part to its vioxx lawsuit settlement and restructuring charges <PUNC>
-<PAR>

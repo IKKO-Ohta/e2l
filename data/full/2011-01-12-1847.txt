@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but four of its <NUM> components rising <PUNC>
-j.p. morgan chase & co. jpm shares <COMMA> lately up <NUM> percent <COMMA> pared an earlier advance of more than <NUM> percent sparked by comments from its chief executive that the banking giant might pay a yearly dividend of up to dollar <NUM> once government stress tests are completed <PUNC>
-on tuesday <COMMA> both the dow industrials and the s&p <NUM> snapped a three-session losing streak <PUNC>
-<PAR>

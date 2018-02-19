@@ -1,7 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-over the last four days <COMMA> the dow has rallied <NUM> percent and the s&p <NUM> has risen <NUM> percent <PUNC>
-but it s the nasdaq composite that has seen the most buying as investors snapped up beaten-down technology stocks <PUNC>
-the tech-rich index has surged <NUM> percent <PUNC>
-dell s disappointing quarter contrasts sharply with the upbeat earnings report posted by its arch-rival hewlett-packard co. hpq on wednesday <PUNC>
-altria group inc. mo and reynolds american inc. rai may rise after a judge s ruling held that tobacco companies including altria s philip morris usa and reynolds american violated federal racketeering laws <COMMA> though the judge said she was unable to order financial remedies <PUNC>
-<PAR>

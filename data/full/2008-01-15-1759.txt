@@ -1,4 +1,0 @@
-the dow industrials dji <COMMA> which has shed about <NUM> percent of its value since the year began <COMMA> fell <NUM> points or <NUM> percent at <NUM> <PUNC>
-with financial stocks paving the way <COMMA> all <NUM> of the dow s <NUM> components traded lower <PUNC>
-share of citigroup c fell <NUM> percent <COMMA> while j.p. morgan chase & co. jpm declined <NUM> percent and american express co. axp dropped <NUM> percent <PUNC>
-<PAR>

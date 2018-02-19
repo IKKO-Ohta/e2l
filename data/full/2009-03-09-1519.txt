@@ -1,8 +1,0 @@
-the dow jones industrial average changes more than two names at the same time <COMMA> and/or adds names to increase the overall number of stocks in the index <PUNC>
-there are some zombie stocks in the index <COMMA> to borrow a popular phrase <PUNC>
-the dow is price weighted <COMMA> so small priced stocks are almost irrelevant to the performance of the index <PUNC>
-by the time the senior editors of dow jones recognize they need to change some names in the index <COMMA> it may be time to the market as a whole <PUNC>
-on monday <COMMA> geithner remained treasury secretary and cnbc remained on the air <COMMA> as stocks meandered between gains and losses <COMMA> with energy stocks leading the gains <PUNC>
-the dow industrials were last up <NUM> points to <NUM> <PUNC>
-the s&p <NUM> rose <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf advanced fractionally to <NUM> <PUNC>
-<PAR>

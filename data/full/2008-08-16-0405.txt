@@ -1,4 +1,0 @@
-on friday <COMMA> stocks ended mostly higher <COMMA> with the major indexes scoring mixed results for the week <COMMA> with the dow jones industrial average dji ended up <NUM> points at <NUM> <COMMA> giving it a weekly loss of <NUM> percent <PUNC>
-and with the latest earnings season nearly complete <COMMA> the market will have only a handful of results to digest <COMMA> including figures from hewlett-packard co. hpq <COMMA> which on tuesday is slated to report its third-quarter results <PUNC>
-analysts looking for the technology giant to meet or possibly exceed earnings and sales estimates <PUNC>
-<PAR>

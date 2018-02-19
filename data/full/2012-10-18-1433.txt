@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-phillip morris international inc. s pm shares declined after the tobacco company reported earnings below estimates <PUNC>
-insurer travelers cos. trv gained after its earnings more than doubled <PUNC>
-<PAR>

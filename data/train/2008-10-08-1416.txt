@@ -1,9 +1,0 @@
-off more than <NUM> points at the start <COMMA> the dow jones industrial average dji was more recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-american express co. axp and jp morgan chase jpm fronted blue-chip gains <COMMA> with shares of the former up <NUM> percent and the latter rising <NUM> percent <PUNC>
-the biggest laggard among the blue chips proved to be aluminum giant alcoa inc. aa <COMMA> which fell <NUM> percent after kicking off the third-quarter earnings season with a gloomy assessment of its last three months <PUNC>
-<PAR>
-bank of america corp. bac shares fell <NUM> percent after the company priced a secondary offering of common stock below its closing price <COMMA> with the move diluting existing shares by about <NUM> percent <PUNC>
-<PAR>
-off the dow <COMMA> shares of metlife inc. met also took a hit <COMMA> down <NUM> percent <COMMA> after the insurer s late tuesday announcement that it would sell <NUM> million shares to bolster its capital <PUNC>
-metlife also withdrew its prior forecast <COMMA> saying current conditions make projections difficult <PUNC>
-<PAR>

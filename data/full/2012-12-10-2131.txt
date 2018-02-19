@@ -1,5 +1,0 @@
-u.s. stocks climbed monday <COMMA> lifting the dow jones industrial average and the s&p <NUM> to their highest levels since election day <COMMA> as wall street banked on a deal to avert automatic tax hikes and spending cuts slated to start in january <PUNC>
-up for a fourth consecutive session <COMMA> its longest winning run since october <COMMA> the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with technology companies led by hewlett-packard co. hpq and cisco systems inc. csco pacing gains that included half of its <NUM> components <PUNC>
-mcdonald s corp. mcd rose <NUM> percent after the fast-food chain reported a <NUM> percent gain in global sales last month <PUNC>
-on friday <COMMA> the dow industrials finished with a gain of <NUM> points <COMMA> or <NUM> percent <COMMA> from the prior friday s close <COMMA> with the index rising for a third straight week on the hope that white house and republican congressional leaders would eventually reach an accord <PUNC>
-<PAR>

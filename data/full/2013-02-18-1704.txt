@@ -1,7 +1,0 @@
-futures for the dow jones industrial average djh3 rose <NUM> points to <NUM> <PUNC>
-those for the standard & poor s <NUM> gained nearly <NUM> point to <NUM> <PUNC>
-futures for the nasdaq <NUM> ndh3 rose <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx last week finished with its seventh consecutive week of gains <COMMA> the longest string of wins since january <NUM> <COMMA> and hit its highest level since october <NUM> <PUNC>
-the nasdaq composite index rixf slipped <NUM> percent last week <COMMA> but that s coming after a six-week run of gains <COMMA> and the dow jones industrial average dji last week notched its best close since october <NUM> <PUNC>
-the dow industrials <COMMA> however <COMMA> lost ground for a second week in a row <PUNC>
-<PAR>

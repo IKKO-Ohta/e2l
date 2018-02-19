@@ -1,3 +1,0 @@
-after rising more than <NUM> points in morning trade <COMMA> the dow jones industrial average dji finished down <NUM> points <COMMA> or 0.l% <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components ending lower <PUNC>
-aluminum maker alcoa inc. aa retained the bulk of its gains <COMMA> up <NUM> percent <PUNC>
-<PAR>

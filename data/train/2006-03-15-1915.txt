@@ -1,9 +1,0 @@
-the dow jones industrial average dji was sitting close to its high for the session <COMMA> up <NUM> points at <NUM> <PUNC>
-on tuesday <COMMA> stocks ended sharply higher after a significant decline in long-term interest rates pushed the s&p <NUM> to its highest since may <NUM> and the dow claimed the best closing level since june <NUM> <PUNC>
-but we re still trying to digest the fact that we do have a rising interest-rate environment while at the same time having an economy that is growing <COMMA> with rising corporate profits <PUNC>
-with the dow at a five-year high <COMMA> it s definitely reason for some people to take a step back and ask whether the rise is a rational one <PUNC>
-shares of dupont dd rose <NUM> percent to dollar <NUM> after the blue-chip chemical company lifted its first-quarter adjusted earnings forecast to <NUM> cents a share <COMMA> up from a previous outlook of <NUM> cents <COMMA> reflecting a better operating performance <COMMA> partly offset by weaker european market conditions <PUNC>
-dupont also raised its <NUM> earnings forecast to a range of dollar <NUM> to dollar <NUM> a share before items <PUNC>
-general motors corp. gm was up <NUM> cents at dollar <NUM> <PUNC>
-the wall street journal reported the automaker has received a bid for its gmac finance arm from investors led by kohlberg kravis & roberts <PUNC>
-<PAR>

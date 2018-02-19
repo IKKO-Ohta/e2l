@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> topping its former closing high from mid-september <COMMA> its 32nd record close of the year <PUNC>
-ibm ibm led the index <COMMA> closing up <NUM> percent <COMMA> after the company authorized an additional dollar <NUM> billion stock buyback <COMMA> followed by shares of at&t inc. t and home depot inc. hd pfizer inc. pfe also fed the blue-chip rally with a <NUM> percent gain following its quarterly earnings report before the open <PUNC>
-tuesday s moves by the major indexes followed narrowly mixed action on monday <COMMA> when the dow and nasdaq ended close to the flat line <COMMA> and the s&p <NUM> inched up to reach a record for a second straight session <PUNC>
-<PAR>

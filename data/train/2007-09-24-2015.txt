@@ -1,8 +1,0 @@
-the dow jones industrial average dji shed <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components ending lower <COMMA> with financial stocks leading the dow s declines <PUNC>
-jp morgan chase jpm closing off <NUM> percent and citigroup inc. c down <NUM> percent <PUNC>
-microsoft corp. msft led the dow s gains <COMMA> up <NUM> percent <COMMA> with early reviews offering high marks to its halo <NUM> video game ahead of its launch this week <PUNC>
-general motors corp. gm slide <NUM> percent after the united auto workers walked off their jobs at gm <COMMA> declaring a strike after failed contract talks. <PUNC>
-also in the news is dow member wal-mart stores inc. wmt <COMMA> which disclosed a pilot project to measure energy used throughout its supply chain as it looks to be more energy efficient <PUNC>
-its stock was off <NUM> percent <PUNC>
-shares of online advertiser valueclick inc. vclk were up <NUM> percent <COMMA> with optionetics analyst frederic ruffy citing takeover speculation <COMMA> with time warner twx <COMMA> microsoft corp. msft and yahoo inc. yhoo listed as among the potential suitors <PUNC>
-<PAR>

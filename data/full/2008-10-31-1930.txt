@@ -1,9 +1,0 @@
-the dow jones industrial average dji was recently ahead <NUM> points at <NUM> <COMMA> with all but one of its <NUM> components trading higher <PUNC>
-the dow s financial components helped in pacing the rise <COMMA> with j.p. morgan chase & co. jpm up about <NUM> percent <PUNC>
-general motors corp. gm proved the blue-chip index s sole decliner <COMMA> down <NUM> percent <COMMA> <PUNC>
-for the risk adverse investor <COMMA> i continue to recommend staying somewhat defensive by sticking with the health care and consumer staple sectors <PUNC>
-within these two areas i would recommend johnson & johnson jnj <COMMA> celgene corp. celg procter & gamble co. pg <COMMA> colgate-palmolive co. cl and cvs caremark corp. cvs <PUNC>
-on the earnings front <COMMA> oil giant and dow industrials component chevron corp. cvx fell almost <NUM> percent after reporting third-quarter income rose <NUM> percent to dollar <NUM> billion <PUNC>
-u.s. stocks closed with strong gains thursday amid indications of furthering easing in troubled credit markets <PUNC>
-the dow jones industrial average rose <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite added <NUM> points <PUNC>
-<PAR>

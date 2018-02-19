@@ -1,5 +1,0 @@
-the dow jones industrial average dji was recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> crossing above its break-even point for the year <PUNC>
-rising metals futures helped boost materials and industrials stocks including caterpillar inc. cat <COMMA> up <NUM> percent <COMMA> and boeing ba <COMMA> up <NUM> percent <PUNC>
-weighing on the dow <COMMA> wal-mart stores inc. wmt shed <NUM> percent <PUNC>
-the dow s worst performer was at&t t <COMMA> down <NUM> percent <PUNC>
-<PAR>

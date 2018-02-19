@@ -1,6 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components opening lower <COMMA> led lower by financial components bank of america bac and jp morgan chase jpm <COMMA> along with united technologies utx <PUNC>
-pfizer pfe <COMMA> a dow component <COMMA> slipped <NUM> percent as the drug-making giant said its profit dropped <NUM> percent but held onto its profit guidance for the year <PUNC>
-also among dow components <COMMA> ibm ibm rose <NUM> percent after the technology giant recorded a <NUM> percent profit rise <COMMA> topping analyst forecasts <COMMA> and upped its <NUM> forecast <PUNC>
-u.s. stocks had rallied wednesday as results and outlooks from intel corp. <COMMA> j.p. morgan chase and others helped boost confidence in earnings season <COMMA> while resource stocks were helped by commodities strength <PUNC>
-the dow jones industrial average finished with a gain of <NUM> points <COMMA> the nasdaq composite added <NUM> points and the s&p <NUM> rose <NUM> points <PUNC>
-<PAR>

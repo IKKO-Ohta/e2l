@@ -1,3 +1,0 @@
-u.s. stocks rose on tuesday <COMMA> with the dow jones industrial average rebounding off a two-month low <COMMA> as data had manufacturing stabilizing and home prices rising <PUNC>
-after closing at its lowest level since april <NUM> on monday <COMMA> the dow industrials dji on tuesday rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji last was up <NUM> points at <NUM> <COMMA> as blue-chip components caterpillar inc. cat rose <NUM> percent to dollar <NUM> <COMMA> honeywell international inc. hon gained <NUM> percent to dollar <NUM> <COMMA> as intel corp. intc gained <NUM> percent to dollar <NUM> <PUNC>
-late friday <COMMA> at&t corp. t agreed to buy dobson communications dcel in a deal valuing the rural mobile operator at dollar <NUM> billion <COMMA> or dollar <NUM> a share <PUNC>
-at&t also will be in focus on reports of activation problems for the apple iphone <PUNC>
-the stock last reversed early gains to trade up <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

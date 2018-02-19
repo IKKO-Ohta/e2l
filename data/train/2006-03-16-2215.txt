@@ -1,9 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> off a session high of <NUM> <PUNC>
-altria group inc. mo said it plans to record roughly dollar <NUM> billion in tax benefits in the first quarter following the conclusion of an examination of its tax returns running from <NUM> through <NUM> by the internal revenue service <PUNC>
-the company lifted its <NUM> earnings outlook as a result of the tax decision <PUNC>
-shares in the food and tobacco giant initially climbed on the news to a session high of dollar <NUM> <COMMA> before seeing gains wilt in afternoon trading <PUNC>
-the stock closed up <NUM> cents at dollar <NUM> <PUNC>
-ford motor co. f rose <NUM> percent to dollar <NUM> after j.p. morgan slashed its rating on the automaker to underweight from overweight <PUNC>
-the broker cited concern about sports utility vehicle sales and the launch of a gm pick-up truck to rival ford s own product offering <PUNC>
-shares of general motors gm rallied <NUM> percent <PUNC>
-<PAR>

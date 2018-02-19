@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <PUNC>
-shares of kraft foods kft gained <NUM> percent and shares of microsoft corp. msft rose <NUM> percent <PUNC>
-<PAR>

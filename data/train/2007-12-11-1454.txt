@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> led by at&t t <COMMA> which was up <NUM> percent after the telecommunications giant said it s increasing its dividend by <NUM> percent and buying back <NUM> million shares <PUNC>
-and blue-chip boeing co. ba late monday increased its quarterly dividend payment by <NUM> percent to <NUM> cents a share <PUNC>
-<PAR>

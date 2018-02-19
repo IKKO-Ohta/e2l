@@ -1,7 +1,0 @@
-the dow jones industrial average dji was last off <NUM> points at <NUM> after ending the prior session at a <NUM> 1/2-year high <PUNC>
-on thursday <COMMA> dell rival hewlett-packard co. hpq saw its shares surge on a strong quarterly earnings report and solid outlook <PUNC>
-general motors corp. gm was the biggest percentage gainer on the dow <COMMA> up <NUM> percent at dollar <NUM> as the carmaker expressed optimism that continuing cost-cutting talks with delphi corp. dphiq should lead to a comprehensive agreement that will allow the parts maker to continue as an important gm supplier <PUNC>
-shares of intel corp. intc fell nearly <NUM> percent to dollar <NUM> after rbc capital markets lowered its price target on the stock to dollar <NUM> from dollar <NUM> <PUNC>
-the research house said it expects the stock to go noticeably below our new price target in the near-term <PUNC>
-rbc said it turned negative on intel and the semiconductor sector on jan. <NUM> <PUNC>
-<PAR>

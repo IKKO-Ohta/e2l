@@ -1,5 +1,0 @@
-in premarket trade <COMMA> the future contract for the dow jones industrial average was up <NUM> points at <NUM> <COMMA> after a strong durable goods report <COMMA> and after dow component boeing and its european rival airbus both lifted their <NUM> earnings outlooks <PUNC>
-on wednesday the market gave an uneven and slightly uncertain performance <COMMA> with the dow closing lower <COMMA> and the other two major averages managing gains <PUNC>
-in premarket trade <COMMA> dow component boeing ba was up <NUM> percent at dollar <NUM> after the company lifted its earnings guidance for the year <PUNC>
-however <COMMA> fellow dow component citigroup c was down <NUM> cents at dollar <NUM> in premarket trade after merrill lynch downgraded both citigroup and bank of america to neutral <PUNC>
-<PAR>

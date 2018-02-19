@@ -1,6 +1,0 @@
-u.s. stocks finished little changed on monday <COMMA> although the dow jones industrial average managed to eke out its 51st record close of <NUM> in the next-to-last trading session of the year <COMMA> while shares of twitter extended a decline <PUNC>
-the dow dji ended the day near its session high with a gain of <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-the rise was enough to take out the previous record-high close set on thursday and leaves the index up more than <NUM> percent for the year <PUNC>
-among blue chips <COMMA> walt disney co. dis led the way with a <NUM> percent gain <PUNC>
-oil producers exxon mobil corp. xom <COMMA> down <NUM> percent <COMMA> and chevron corp. cvx cvx <COMMA> off <NUM> percent <COMMA> were among the biggest decliners <PUNC>
-<PAR>

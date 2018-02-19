@@ -1,8 +1,0 @@
-with u.s. markets closed monday for the martin luther king holiday <COMMA> the trading week will kick off tuesday <PUNC>
-no economic reports are due that day <COMMA> but there will be a slew of financial results <COMMA> including those from ibm ibm and johnson & johnson jnj <COMMA> two blue-chip stocks <COMMA> and from regional banks <COMMA> regions financial rf <COMMA> state street stt and u.s. bancorp usb <PUNC>
-financial firms were already front and center in the market over the past week <COMMA> as the likes of jp morgan chase jpm <COMMA> bank of america bac <COMMA> and citigroup c <COMMA> all posted worse-than-expected results <COMMA> with the economic recession further darkening the outlook for the already-embattled sector <PUNC>
-for the week <COMMA> the dow jones industrial average dji slumped <NUM> percent <COMMA> the broad s&p <NUM> spx fell <NUM> percent <COMMA> and the tech-heavy nasdaq composite rixf lost <NUM> percent <PUNC>
-but stocks still rose friday <COMMA> for the second consecutive session of gains <COMMA> with the dow ending the session up <NUM> points at <NUM> <COMMA> the s&p <NUM> rising <NUM> points to <NUM> and the nasdaq gaining <NUM> points to <NUM> <PUNC>
-besides ibm on tuesday <COMMA> apple inc. aapl and ebay inc. ebay will report on wednesday <COMMA> followed by google inc. goog and microsoft corp. msft on thursday <PUNC>
-other blue-chip stocks due to report are united technologies utx on tuesday <COMMA> and general electric co. ge on friday <PUNC>
-<PAR>

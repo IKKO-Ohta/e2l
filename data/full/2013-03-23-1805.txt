@@ -1,3 +1,0 @@
-u.s. equities rose on friday <COMMA> reflecting optimism about the cyprus situation <PUNC>
-the dow jones industrial average ticker:djia jumped <NUM> points to <NUM> <COMMA> bouncing back from its biggest drop in nearly a month <PUNC>
-<PAR>

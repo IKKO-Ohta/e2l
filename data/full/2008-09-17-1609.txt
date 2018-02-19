@@ -1,4 +1,0 @@
-the dow jones industrial average dji plunged as much as <NUM> points by midday <COMMA> or more than <NUM> percent <COMMA> to and was last off about <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-aig aig fronted the blue-chip declines <COMMA> its stock falling <NUM> percent to dollar <NUM> a share <PUNC>
-pharmaceutical giant johnson & johnson jnj proved the dow s brightest stock as mid-day neared <COMMA> with shares of the company rising <NUM> percent <PUNC>
-<PAR>

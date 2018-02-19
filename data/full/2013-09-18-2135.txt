@@ -1,6 +1,0 @@
-economists polled by marketwatch had expected the fed to reduce its monthly bond buys by dollar <NUM> billion <PUNC>
-in a news conference after the fomc announcement <COMMA> bernanke said the central bank does not have a fixed calendar for reducing its bond purchases and any potential move would depend on economic data <PUNC>
-gold prices surged <COMMA> the u.s. dollar fell sharply and both the dow jones industrial average and the s&p <NUM> topped their aug. <NUM> records in the wake of the fed decision <PUNC>
-extending gains into a fourth session <COMMA> the dow jones industrial average dji rose to an intraday record of <NUM> <PUNC>
-it ended at a record <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <COMMA> with alcoa inc. aa leading gains that included <NUM> of its <NUM> components <PUNC>
-<PAR>

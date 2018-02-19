@@ -1,7 +1,0 @@
-futures for the dow jones industrial average dji were down <NUM> points at <NUM> <COMMA> while those for the s&p <NUM> spx dropped <NUM> points to <NUM> <PUNC>
-microsoft msft still seemed poised to give a lift to the blue-chip average <PUNC>
-its shares were up <NUM> percent in electronic trade after the software giant posted a <NUM> percent profit rise <COMMA> buoyed by sales of its new vista operating system <PUNC>
-also on the dow <COMMA> at&t t will be in focus after the wall street journal reported that edward whitcare jr. stands to get a pension package of dollar <NUM> million when he steps down <PUNC>
-on thursday <COMMA> u.s. stocks closed with another record level for the dow industrials and a 6.6-point rise for the nasdaq composite <COMMA> which was boosted by an upbeat earnings report from apple inc <PUNC>
-the s&p <NUM> closed <NUM> points lower <PUNC>
-<PAR>

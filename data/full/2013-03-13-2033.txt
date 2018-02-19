@@ -1,4 +1,0 @@
-u.s. stocks posted slight gains wednesday <COMMA> with the dow jones industrial average capping its longest win streak in more than <NUM> years after february retail sales beat expectations <PUNC>
-erasing losses <COMMA> the dow jones industrial average dji advanced <NUM> points to <NUM> <COMMA> with the blue-chip index posting a seventh day of record closes <PUNC>
-the finish marked a ninth straight day of gains <COMMA> the dow s longest such run since a 10-session win streak that ended nov. <NUM> <COMMA> <NUM> <PUNC>
-<PAR>

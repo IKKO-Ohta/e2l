@@ -1,6 +1,0 @@
-the dow jones industrial average dji pared its losses <COMMA> and was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> stocks in negative territory <PUNC>
-home depot hd fronted the dow s declines <COMMA> with its stock down <NUM> percent <PUNC>
-a dollar <NUM> billion deal to sell home depot s wholesale supply division may fall apart <COMMA> the financial times reported thursday <PUNC>
-u.s. stocks climbed wednesday <COMMA> lifting the dow <NUM> points after bank of america <COMMA> citigroup inc. c <COMMA> jpmorgan chase & co. jpm <COMMA> deutsche bank ag <COMMA> and wachovia borrowed money from the federal reserve <PUNC>
-tapping the central bank for funds from the fed would usually be viewed in a negative light <COMMA> but the move came as a way of bolstering the financial system after the fed cut its discount rate last week <PUNC>
-<PAR>

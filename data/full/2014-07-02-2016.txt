@@ -1,3 +1,0 @@
-the dow industrials dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> putting it once again within striking distance of <NUM> <COMMA> while the s&p <NUM> spx nudged up <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
-each index scored a record close for the second straight day <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-dow component wal-mart stores inc. wmt rose <NUM> percent in early trade after its filing late monday revising its second-quarter profit lower by dollar <NUM> million <PUNC>
-<PAR>

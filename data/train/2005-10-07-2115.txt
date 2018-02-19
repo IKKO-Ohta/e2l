@@ -1,3 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to close at <NUM> <PUNC>
-on the week <COMMA> the benchmark index fell <NUM> percent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-on monday <COMMA> financial shares led a broad rally <COMMA> with investor sentiment lifted by the treasury department s plan to rid banks of bad assets <COMMA> as well as better-than-expected data on the troubled housing market <PUNC>
-the dow jones industrial average rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving the blue-chip index its biggest point jump since nov. <NUM> <COMMA> <NUM> <PUNC>
-the s&p <NUM> index climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> the broad market indicator s best day since a <NUM> percent rise on oct. <NUM> <COMMA> <NUM> <PUNC>
-and <COMMA> the nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

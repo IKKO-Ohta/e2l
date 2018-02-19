@@ -1,5 +1,0 @@
-at 11:15 a.m. eastern <COMMA> the dow jones industrial average dji advanced 29.3points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> led by microsoft corp. msft <COMMA> ahead <NUM> percent <COMMA> and general motors corp. gm <COMMA> up <NUM> percent as an <NUM> a.m. eastern deadline passed to reach a new contract with the united auto workers <PUNC>
-loss leaders on the dow included jp morgan chase co. jpm <COMMA> off nearly <NUM> percent <PUNC>
-also in the news is dow member wal-mart stores inc. wmt <COMMA> which disclosed a pilot project to measure energy used throughout its supply chain as it looks to be more energy efficient <PUNC>
-its stock was up <NUM> percent <PUNC>
-<PAR>

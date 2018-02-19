@@ -1,9 +1,0 @@
-the day-long stock rally gathered enough steam thursday afternoon to push the dow jones industrial average to a new intraday high above <NUM> <PUNC>
-a drop in jobless claims and upbeat remarks about the economy from technology bellwether cisco systems csco fueled the rally as investors await the government s october jobs report friday morning <PUNC>
-the dow jones industrial average dji recently traded <NUM> points higher <COMMA> up <NUM> percent <COMMA> <NUM> <PUNC>
-referring to the dow s <NUM> percent surge from its bear-market lows set in early march <COMMA> he said <PUNC> people are wondering whether the v-shaped recovery that we ve seen in the market has gotten ahead of what s clearly not going to be a v-shaped recovery in the economy <PUNC>
-but i don t think that s necessarily the point when you keep getting earnings news that s pretty good <PUNC>
-if the dow holds on to the bulk of thursday s gains <COMMA> it will represent the average s first triple-digit point move in november <COMMA> continuing a more volatile trend that began last month <PUNC>
-the big swings <COMMA> however <COMMA> have mostly worked to investors detriment <COMMA> with fear spreading about the sustainability of the u.s. economic recovery <PUNC>
-the dow has posted moves of at least <NUM> points in six of the last <NUM> full trading sessions <COMMA> off <NUM> percent over that stretch.even amid thursday s buying spree <COMMA> some market veterans remained wary that the gains could be short-lived <PUNC>
-<PAR>

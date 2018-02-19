@@ -1,4 +1,0 @@
-u.s. stocks pulled back on tuesday <COMMA> as investors showed caution after the dow jones industrial average and s&p <NUM> failed to hold above milestone levels in the prior session <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or less than <NUM> percent <COMMA> to close at <NUM> <COMMA> snapping a four-day winning streak and easing from monday s record close <PUNC>
-the blue-chip index remained below <NUM> <COMMA> a milestone level that it briefly topped monday and tuesday <PUNC>
-<PAR>

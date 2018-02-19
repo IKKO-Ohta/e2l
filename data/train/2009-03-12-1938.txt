@@ -1,4 +1,0 @@
-on wall street <COMMA> financials led late afternoon gains as stocks rallied towards a third straight day of gains <PUNC>
-the dow jones industrial average was lately up <NUM> points at <NUM> <PUNC>
-the s&p <NUM> index rose <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf climbed <NUM> points to <NUM> <PUNC>
-<PAR>

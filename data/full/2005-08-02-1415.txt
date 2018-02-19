@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-j.p morgan jpm has reportedly been talking to dozens of u.s. banks to gauge their interest in potential acquisitions <COMMA> according to the wall street journal <COMMA> citing executives and others familiar with the conversations <PUNC>
-two weeks ago <COMMA> chief executive james dimon hinted that a large acquisition could be on the cards as early as next year <PUNC>
-the stock was up <NUM> percent in early trading <PUNC>
-<PAR>

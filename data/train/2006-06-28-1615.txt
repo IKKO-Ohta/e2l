@@ -1,3 +1,0 @@
-the dow jones industrial average dji was off its best levels <COMMA> up just <NUM> points at <NUM> <PUNC>
-the modest gains followed a rout on tuesday <COMMA> when the dow gave its worst one-day performance since june <NUM> <COMMA> losing <NUM> points amid nervousness ahead of the fed s expected rate hike on thursday <PUNC>
-<PAR>

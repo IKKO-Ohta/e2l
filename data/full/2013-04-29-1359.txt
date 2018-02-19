@@ -1,2 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with two-thirds of its <NUM> components in positive terrain <PUNC>
-<PAR>

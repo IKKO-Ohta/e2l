@@ -1,5 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the measure briefly dipped below the key <NUM> level <PUNC>
-hewlett-packard hpq was its worst performer with a <NUM> percent drop while chevron cvx was also weak <COMMA> off <NUM> percent <PUNC>
-wal-mart stores wmt fell <NUM> percent after the retail giant said it made a cash offer of <NUM> billion rand dollar <NUM> billion to buy a controlling <NUM> percent of south africa s massmart holdings ltd. mmrtf <COMMA> its first foray into the growing retail market in sub-saharan africa <PUNC>
-<PAR>

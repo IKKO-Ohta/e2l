@@ -1,7 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-the biggest gainers among its component stocks were mcdonald s <COMMA> up <NUM> percent and general motors <COMMA> up <NUM> percent <PUNC>
-mcdonald s mcd was up <NUM> cents at dollar <NUM> after a wall street journal report that a hedge fund with a stake in the company envisions splitting the fast-food giant into three businesses <PUNC>
-general motors corp. gm rose <NUM> percent to dollar <NUM> as the canadian auto workers union tentatively agreed late tuesday to a three-year contract proposal <COMMA> avoiding a potentially costly strike <PUNC>
-outside the dow <COMMA> u.s.-traded shares of daimlerchrysler dcx were <NUM> percent higher at dollar <NUM> after a german newspaper report that <NUM> jobs are to be cut in its mercedes unit <PUNC>
-previous newspaper reports had pegged the job cuts at <NUM> <PUNC>
-<PAR>

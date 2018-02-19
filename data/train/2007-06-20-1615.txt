@@ -1,3 +1,0 @@
-the dow jones industrial average dji still hung onto slight gains and was recently up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components advanced <COMMA> led by the likes of coca cola co. ko <COMMA> general motors corp. gm <COMMA> and united technologies corp. utx <PUNC>
-leading the gains among blue chips <COMMA> shares of home depot hd surged <NUM> percent after the home-improvement announced it would buy back up to dollar <NUM> billion of its own shares <PUNC>
-<PAR>

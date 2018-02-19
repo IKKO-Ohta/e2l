@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> after posting its lowest close since july <NUM> in the prior session <PUNC>
-time warner inc. twx and microsoft corp. msft have resumed discussions about forming an alliance of their internet units <COMMA> the wall street journal reported <PUNC>
-the companies are exploring ways to combine msn s search engine technology with aol s web content <COMMA> the report said <PUNC>
-time warner shares rose <NUM> cents to dollar <NUM> while microsoft shares dipped a penny to dollar <NUM> <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-on wall street <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC> it rose <NUM> percent for the week <PUNC>
-leading gains on the dow <COMMA> general electric shares ge climbed <NUM> percent after its earnings beat estimates <PUNC>
-shares of intel intc slumped <NUM> percent <COMMA> the worst on the blue-chip average <COMMA> a day after the semiconductor maker said it was bracing for a third consecutive quarter of declining sales <COMMA> illustrating the global move to mobile devices and away from personal computers <PUNC>
-santa clara <COMMA> calif.-based intel said it would invest about dollar <NUM> billion in equipment this year <COMMA> with the spending topping what analysts had projected <PUNC>
-shares of another credit-card issuer <COMMA> american express co. axp <COMMA> dropped <NUM> percent after the firm reported a slump in quarterly earnings <PUNC>
-<PAR>

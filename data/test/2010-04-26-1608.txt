@@ -1,3 +1,0 @@
-the dow jones industrial average dji <COMMA> up for a sixth consecutive session <COMMA> climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-the dow industrials on friday finished higher for an eighth week in a row <COMMA> their longest winning stretch since january <NUM> <PUNC>
-<PAR>

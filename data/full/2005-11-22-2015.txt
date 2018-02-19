@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> and the s&p <NUM> spx up <NUM> points at <NUM> <PUNC>
-micron technology mu was <NUM> percent higher at dollar <NUM> <PUNC>
-merrill lynch upgraded the share to a buy rating <COMMA> noting the nand flash memory venture with intel corp. intc <COMMA> which was up <NUM> percent at dollar <NUM> <PUNC>
-dow component general motors gm was off its lows <COMMA> down <NUM> cents at dollar <NUM> <COMMA> after suffering sharp falls on monday after it announced a new set of restructuring actions <PUNC>
-<PAR>

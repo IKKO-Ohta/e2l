@@ -1,7 +1,0 @@
-after a 150-point advance earlier on <COMMA> the dow jones industrial average dji was more recently off <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
-telecommunications stocks proved to be the biggest laggards for the blue chips <COMMA> with at&t inc. t and verizon communications vz both off more than <NUM> percent after the two telecom companies both announced similarly priced unlimited calling plans <PUNC>
-other blue chips posting losses included j.p. morgan chase jpm <COMMA> down <NUM> percent <COMMA> and the coca-cola co. ko <COMMA> also off <NUM> percent <PUNC>
-american international group inc. aig fronted the dow s advance <COMMA> climbing <NUM> percent <COMMA> in the wake of a report in barron s that the insurer is likely to recover dollar <NUM> billion in losses from credit-default swaps <PUNC>
-and <COMMA> with the price of crude oil futures topping dollar <NUM> a barrel for the third time this year <COMMA> <COMMA> shares of oil giants exxon mobil corp. xom and chevron corp. cvx also gained <COMMA> with exxon up <NUM> percent and chevron climbing <NUM> percent <PUNC>
-the technology heavy index had been bolstered by expectations computer maker hewlett-packard co. hpq would top expectations when reporting first-quarter results after the close <COMMA> along with microsoft corp. msft signaling its intention to play hardball in its quest to acquire yahoo inc. yhoo <PUNC>
-<PAR>

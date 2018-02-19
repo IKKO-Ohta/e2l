@@ -1,2 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with bank of america corp. bac and jpmorgan chase & co. jpm topping declines that included all <NUM> of its components <PUNC>
-<PAR>

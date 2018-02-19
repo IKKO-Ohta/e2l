@@ -1,5 +1,0 @@
-the dow dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in negative territory <PUNC>
-honeywell international inc. hon was weighing the most on blue-chips <COMMA> losing <NUM> percent after its <NUM> outlook disappointed investors <PUNC>
-among the few dow gainers <COMMA> caterpillar cat shares gained <NUM> percent after its revenue topped expectations <PUNC>
-and microsoft msft rose <NUM> percent after the company late thursday said its quarterly sales rose a better-than-forecast <NUM> percent amid strong demand for its xbox <NUM> video game player <PUNC>
-<PAR>

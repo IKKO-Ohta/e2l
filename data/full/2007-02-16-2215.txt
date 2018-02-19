@@ -1,9 +1,0 @@
-u.s. stock indexes logged gains of over a percent for the week <COMMA> with the dow scraping out a third record high close on friday amid otherwise mixed markets as investors consolidated gains ahead of a three-day weekend <PUNC>
-the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> gaining <NUM> percent for the week <PUNC>
-among dow components <COMMA> microsoft msft fell <NUM> percent <PUNC>
-ceo steve ballmer said some analyst sales forecasts for vista <COMMA> its new operating system <COMMA> might be too high <PUNC>
-and honeywell inc. hon rose <NUM> percent as it announced a new dollar <NUM> billion stock repurchase program <PUNC>
-meanwhile <COMMA> general motors corp. gm fell <NUM> percent following a report in the industry publication automotive news that gm is in talks to acquire struggling rival chrysler group from its current owner <COMMA> daimlerchrysler ag dcx <PUNC>
-daimlerchrysler jumped <NUM> percent <PUNC>
-crude oil futures rose dollar <NUM> to close at dollar <NUM> a barrel <COMMA> but the gains had a moderate impact on oil shares <COMMA> lifting dow component exxon mobil corp. xom <COMMA> while others such as chevron corp. cvx fell <PUNC>
-<PAR>

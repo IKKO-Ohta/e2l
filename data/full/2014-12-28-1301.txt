@@ -1,6 +1,0 @@
-the s&p <NUM> spx and dow jones industrial average dji saw their 52nd and 38th record closes of <NUM> friday <PUNC>
-the dow industrials closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
-the s&p <NUM> gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite gained <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> it s highest closing level since <PUNC>
-marketwatch s tomi kilgore reported that the dow jones industrial average has closely tracked its annual seasonal patterns in <NUM> <COMMA> which suggests that the stock market s rally will continue through the last days of <NUM> <COMMA> but could end just as traders new year s eve hangovers are wearing off <PUNC>
-<PAR>

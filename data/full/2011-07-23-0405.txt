@@ -1,8 +1,0 @@
-among companies that are scheduled to release earnings in the week ahead are oil giants chevron corp. cvx <COMMA> valero energy corp. vlo and exxon mobil corp. xom <COMMA> along with netflix inc. nflx <COMMA> lockheed martin corp. lmt <COMMA> ford motor co. f <COMMA> boeing co. ba and amazon.com inc. amzn <PUNC>
-companies listed in the s&p <NUM> index spx are expected to increase earnings <NUM> percent during the second quarter <COMMA> according to thomson reuters research <PUNC>
-earnings would rise <NUM> percent excluding bank of america corp. bac <COMMA> which took a dollar <NUM> billion loss related to charges from cleaning up its mortgage portfolio <PUNC>
-of the <NUM> companies in the index that have released earnings so far <COMMA> <NUM> percent reported earnings above analyst s expectations <COMMA> with apple inc. aapl and international business machines corp. ibm at the top end of positive surprises <PUNC>
-the major stock indexes ended friday s low-volume session with a loss for the dow average and a <NUM> percent gain for the nasdaq composite rixf <PUNC>
-weekly gains were more even <PUNC>
-helped by positive housing-start data and an agreement on a new aid package for greece <COMMA> the s&p <NUM> index spx was up <NUM> percent on the week <COMMA> the dow jones industrial average dji gained <NUM> percent and the nasdaq composite rose <NUM> percent <PUNC>
-<PAR>

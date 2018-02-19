@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-alcoa inc. aa was up <NUM> cents at dollar <NUM> as the maker of aluminum products prepares to release its results after the market closes <PUNC>
-bank of new york co. <COMMA> bk the oldest bank in the u.s. <COMMA> announced a business-swap with j.p. morgan chase jpm that means the bank is exiting retail banking <PUNC>
-<PAR>

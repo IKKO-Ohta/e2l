@@ -1,3 +1,0 @@
-financials once again dictated direction <COMMA> with the dow jones industrial average dji coming off session lows to stand at <NUM> <COMMA> off <NUM> points <PUNC>
-at tuesday s close <COMMA> the blue-chip index was down <NUM> percent so far for february and off <NUM> percent year-to-date <PUNC>
-<PAR>

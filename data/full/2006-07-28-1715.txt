@@ -1,9 +1,0 @@
-u.s. stocks rallied friday as hopes of an end to more than two years of interest-rate hikes following data showing slower-than-expected economic growth in the second quarter sparked a triple-digit gain on the dow jones industrial average <PUNC>
-the dow industrials dji rose <NUM> points to <NUM> <PUNC>
-the benchmark index is now at its best level since july <NUM> and is on track to deliver its best weekly performance since november <NUM> <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
-wal-mart stores inc. wmt rose <NUM> percent to dollar <NUM> as investors welcomed its decision to pull out of germany <COMMA> with the sale of all its <NUM> hypermarkets to metro ag <PUNC>
-the retail giant <COMMA> however <COMMA> will have to take a dollar <NUM> billion charge on the deal in the second quarter <PUNC>
-general motors gm rose <NUM> cents to dollar <NUM> <PUNC>
-the auto maker s global sales were <NUM> million vehicles in the second quarter <COMMA> representing an <NUM> percent sequential gain <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <PUNC>
-on the dow industrials <COMMA> shares of boeing co. ba fell <NUM> percent to dollar <NUM> after the airplane manufacturer s 18,000-strong machinists union rejected its latest labor offer and authorized a strike set to start september <NUM> <PUNC>
-general electric shares ge climbed <NUM> cents to dollar <NUM> after merrill lynch reiterated a buy rating on the industrial bellwether <PUNC>
-we believe that ge should begin to outperform in the fourth quarter against a backdrop of strong fundamentals and favorable historical trading patterns <PUNC>
-moreover <COMMA> ge may accelerate its share repurchase program in the fourth quarter which could also provide incremental share price support <COMMA> the broker said <PUNC>
-exxon mobil xom gave up <NUM> percent to dollar <NUM> as oil retreated <PUNC>
-<PAR>

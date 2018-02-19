@@ -1,6 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> off an early high of <NUM> <PUNC>
-ford s profit warning hit the rest of the automobile sector <PUNC>
-general motors corp. gm was down <NUM> percent while car parts makers deplhi dph and visteon vc were down <NUM> percent and <NUM> percent respectively <PUNC>
-shares of the coca-cola company ko dipped <NUM> cents to dollar <NUM> after the beverage giant and the european commission reached an anti-trust settlement <COMMA> ending a six-year probe into its aggressive marketing techniques on the continent <PUNC>
-on tuesday <COMMA> the stock ended down <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-u.s. stocks rose thursday <COMMA> helped by better data on retail sales and jobless claims <COMMA> while a trio of analyst upgrades pushed the dow jones industrial average into positive territory for <NUM> <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> up <NUM> percent for the year <PUNC>
-it was led thursday by a <NUM> percent gain in walt disney co. bac after bank of america merrill lynch raised its rating on the company to buy from neutral <PUNC>
-two other dow components benefited from upgrades by ubs <PUNC>
-shares of coca-cola co. ko <COMMA> which was moved to a buy rating from neutral <COMMA> rose <NUM> percent <PUNC>
-boeing co. ba gained <NUM> percent after being moved to a neutral rating from sell by the investment bank <COMMA> which said a greater proportion of airlines are now looking to speed deliveries of new aircraft rather than postpone them <PUNC>
-<PAR>

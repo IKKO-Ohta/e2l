@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <COMMA> led by blue-chip banks <COMMA> with j.p. morgan chase & co. jpm up <NUM> percent <COMMA> american express co. axp ahead <NUM> percent and bank of america corp. bac gaining <NUM> percent <PUNC>
-the dow has made three attempts to close above <NUM> over the last <NUM> days and failed each time <PUNC>
-that level appears to be a troublesome technical price resistance point that could prove stubborn to penetrate this week <COMMA> noted fred dickson <COMMA> chief investment strategist at davidson cos <PUNC>
-<PAR>

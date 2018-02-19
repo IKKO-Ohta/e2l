@@ -1,4 +1,0 @@
-on tuesday <COMMA> the dow jones industrial average dji recouped a large chunk of its 265-point loss the prior day <COMMA> rising as much as <NUM> points and most recently up <NUM> points to <NUM> <PUNC>
-shares of coca-cola co. ko rose <NUM> percent after the beverage maker reported first-quarter results that beat expectations <COMMA> while retailer target corp. tgt warned first-quarter earnings would come in below expectations <COMMA> taking a toll on target shares <PUNC>
-johnson & johnson jnj gained <NUM> percent after the maker of drugs and medical devices reported first-quarter revenue that beat expectations <PUNC>
-<PAR>

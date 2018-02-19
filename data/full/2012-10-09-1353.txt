@@ -1,3 +1,0 @@
-the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-dow component and aluminum producer alcoa inc. aa is slated to release its third-quarter results after the market close <PUNC>
-<PAR>

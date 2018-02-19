@@ -1,6 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx up <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf up <NUM> points at <NUM> <PUNC>
-the next scheduled big event for the market will be the release early tuesday of consumer price data for july <COMMA> according to cardillo <PUNC>
-the dow jones forecast <COMMA> based on a poll of economists <COMMA> is for a <NUM> percent increase in the headline cpi index and a <NUM> percent rise in the core rate <PUNC>
-wal-mart stores wmt finished up <NUM> cents at dollar <NUM> <PUNC>
-following news over the weekend that it continues to expect august same-store sales growth to be within its prior forecast of <NUM> percent to <NUM> percent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-up more than <NUM> points earlier on <COMMA> the dow jones industrial average dji was more recently ahead <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-american international group inc. aig fronted the dow s advance <COMMA> its stock up <NUM> percent after the insurance giant s ceo tried to reassure investors about the company s exposure to subprime mortgage losses <PUNC>
-<PAR>
-intel corp. intc also joined blue chips on the rise <COMMA> recently up <NUM> percent <COMMA> after the chip giant s stock drew an upgrade on expectations of a robust personal computer market in <NUM> <PUNC>
-<PAR>

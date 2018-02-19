@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> leaving the blue chips up <NUM> percent for the month and ahead <NUM> percent for the quarter <PUNC>
-the s&p <NUM> index spx declined <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> leaving it up <NUM> for september and <NUM> percent ahead for the quarter <PUNC>
-the nasdaq composite index rixf shed <NUM> points <COMMA> or less than <NUM> percent <COMMA> to finish at <NUM> <COMMA> giving the tech-laden index a <NUM> percent monthly rise and <NUM> percent jump for the just-ended three-month period <PUNC>
-coming into wednesday s session <COMMA> the dow industrials <COMMA> s&p <NUM> and nasdaq were all up more than <NUM> percent for the quarter <PUNC>
-<PAR>

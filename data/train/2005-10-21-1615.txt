@@ -1,7 +1,0 @@
-new york dow jones - u.s. stocks traded mixed friday as caterpillar s disappointing earnings weighed on the dow jones industrial average <COMMA> but the broader market gained ground after google s results sharply exceeded analyst expectations <PUNC>
-the dow jones industrial average dji saw early gains fade to trade just off its low for the session of <NUM> <PUNC>
-we ve got a divergence here with caterpillar acting as a drag on the dow while the nasdaq and the rest of the market is focusing on google <COMMA> said paul nolte <COMMA> director of investments at hinsdale associates <PUNC>
-quarterly results from caterpillar inc. cat <COMMA> however <COMMA> served as a reminder to investors that the third-quarter earnings season has been somewhat of a mixed bag so far <PUNC>
-shares of pfizer pfe extended an <NUM> percent loss on thursday after two brokers cut their price target on the drug giant after it lowered its <NUM> outlook and withdrew its forecast for <NUM> and <NUM> <PUNC>
-the stock fell as much as <NUM> percent to dollar <NUM> in midday trading <PUNC>
-<PAR>

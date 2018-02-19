@@ -1,5 +1,0 @@
-ahead of the bell <COMMA> robert rubin <COMMA> a director at investment bank citigroup inc. c resigned from the automaker s board of directors <COMMA> where he has served since <NUM> <PUNC>
-citigroup s multi-faceted relationship with ford could raise a question whether my relationship with ford and citigroup creates an appearance of conflict <PUNC>
-shares in home depot inc. hd rose <NUM> percent to dollar <NUM> in pre-market trading on inet after the home improvement retailer said late thursday it has approved an additional dollar <NUM> billion to repurchase shares <PUNC>
-the additional buyback brings the total authorized under the share repurchase program to dollar <NUM> billion <PUNC>
-<PAR>

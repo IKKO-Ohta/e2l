@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-the benchmark index put in a weekly gain of <NUM> percent <PUNC>
-shares of citigroup inc. c climbed <NUM> percent to dollar <NUM> in pre-market trade after the bank <COMMA> a dow component <COMMA> was upgraded to overweight from neutral weight by prudential <COMMA> citing improved capital markets <COMMA> strength in the company s international business and valuation <PUNC>
-<PAR>

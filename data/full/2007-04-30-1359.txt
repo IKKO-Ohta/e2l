@@ -1,5 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components dropped <PUNC>
-even dow component verizon communications vz <COMMA> whose earnings and revenue topped wall street expectations only rose fractionally <PUNC>
-stocks rode a four-session winning streak to close friday at another record high <PUNC>
-the dow has gained ground in <NUM> of the last <NUM> sessions <COMMA> and in <NUM> of the last <NUM> <PUNC>
-<PAR>

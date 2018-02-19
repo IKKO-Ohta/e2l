@@ -1,7 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to close at <NUM> <COMMA> as <NUM> of its <NUM> components advanced <COMMA> led by alcoa inc. aa <COMMA> caterpillar inc. cat and honeywell inc. hon <PUNC>
-financial shares <COMMA> such as jp morgan chase jpm and citigroup inc. c <COMMA> also rebounded from tuesday s weakness <PUNC>
-analysts are uncertain whether general electric co. ge <COMMA> which took a dollar <NUM> million first-quarter charge for subprime mortgage losses <COMMA> may have suffered further losses in its second quarter <COMMA> according to the wall street journal online edition <PUNC>
-however <COMMA> the company earlier assured investors the problem was contained <PUNC>
-ge results are due on friday <PUNC>
-alcan al has begun negotiations for a merger agreement with rio tinto plc rtp <COMMA> as it seeks to fend off a hostile bid from alcoa aa <COMMA> according to a report in the globe and mail newspaper <PUNC>
-<PAR>

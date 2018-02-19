@@ -1,3 +1,0 @@
-the dow jones industrial average dji declined <NUM> points to <NUM> <PUNC>
-both the dow and the s&p <NUM> on friday sealed a sixth week of gains <COMMA> their longest streaks since early <NUM> and bringing the s&p within reach of a four-year high <PUNC>
-<PAR>

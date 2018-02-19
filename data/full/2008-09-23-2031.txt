@@ -1,4 +1,0 @@
-after triple-digit rises and declines during the session <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with all but three of its <NUM> components ending in the red <PUNC>
-dow laggards included general motors corp. gm <COMMA> down <NUM> percent and general electric co. ge <COMMA> off <NUM> percent <PUNC>
-american express co. axp led the dow s minority rise <COMMA> up <NUM> percent <COMMA> with microsoft corp. msft and intel corp. intc also scoring fractional gains <PUNC>
-<PAR>

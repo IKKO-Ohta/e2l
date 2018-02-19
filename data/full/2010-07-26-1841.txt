@@ -1,7 +1,0 @@
-u.s. stocks on monday rose for a third day <COMMA> lifting the dow industrials back into positive territory for <NUM> <COMMA> on fedex corp. s improved outlook and as investors welcomed a break from disappointing data <PUNC>
-poised for its first finish above its dec. <NUM> <COMMA> <NUM> <COMMA> close in five weeks <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-twenty-five of the dow s <NUM> components were rising <COMMA> led by bank of america corp. bac <COMMA> up <NUM> percent <PUNC>
-international business machines corp. ibm paced the blue-chip index s limited losses <PUNC>
-shares fell <NUM> percent after european union launched a probe against ibm <COMMA> reviving allegations that the company took unfair advantage of its dominant position in the mainframe computer market <PUNC>
-ibm rejected the allegations <COMMA> while blaming microsoft corp. msft and other rivals for arousing the eu action <PUNC>
-<PAR>

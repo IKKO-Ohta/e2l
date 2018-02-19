@@ -1,7 +1,0 @@
-the dow jones industrial average dji dropped as much as <NUM> points at session lows <COMMA> but ended <NUM> points <COMMA> or <NUM> percent lower <COMMA> at <NUM> <PUNC>
-mcdonald s corp. mcd took a bite out of the blue-chip stock index following disappointing sales <PUNC>
-oil giants exxonmobil corp. xom and chevron corp cvx also weighed on the index <COMMA> dropping <NUM> percent and <NUM> percent respectively <PUNC>
-before monday s retreat <COMMA> the dow was flirting with hitting the psychological benchmark of <NUM> <PUNC>
-in mergers <COMMA> cubist pharmaceuticals inc. cbst soared <NUM> percent after drug giant merck & co. inc. mrk agreed to buy the smaller antibiotics maker for dollar <NUM> billion <PUNC>
-merck shares closed <NUM> percent higher <PUNC>
-<PAR>

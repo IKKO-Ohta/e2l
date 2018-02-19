@@ -1,3 +1,0 @@
-the dow jones industrial average gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> giving it a <NUM> percent gain on the week <PUNC>
-of the blue chip index s <NUM> components <COMMA> <NUM> ended in positive turf <COMMA> with the advance led by american express co. axp <COMMA> up <NUM> percent after the credit card giant on thursday reported a less-than-forecast first-quarter profit drop <PUNC>
-<PAR>

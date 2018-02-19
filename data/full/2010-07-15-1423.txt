@@ -1,6 +1,0 @@
-helping send the dow jones industrial average off by more than <NUM> points <COMMA> the philadelphia federal reserve said midmorning that its index fell to <NUM> in july from <NUM> in june <PUNC>
-economists polled by marketwatch were expecting an increase to <NUM> in july <PUNC>
-the dow jones industrial average dji <COMMA> after opening slightly lower <COMMA> recently was down <NUM> points to <NUM> <COMMA> heading to a break in a seven-session winning streak <PUNC>
-bank of america corp. bac led the blue-chip measure lower <COMMA> with a drop of <NUM> percent <COMMA> and led by a drop in financials and industrials <PUNC>
-investors were initially encouraged that a <NUM> percent rise in j.p. morgan s jpm second-quarter profit was due in part to a <NUM> percent reduction in reserves for loans unlikely to be paid back <PUNC>
-however <COMMA> chief executive jamie dimon poured some cold water on the market s excitement over the results <COMMA> noting that losses from bad consumer loans remain at extremely high levels <PUNC>

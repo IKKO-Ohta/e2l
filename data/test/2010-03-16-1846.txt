@@ -1,4 +1,0 @@
-up for a sixth day <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with two-thirds of its <NUM> components advancing <COMMA> led by general electric co. ge <PUNC>
-its shares gained <NUM> percent after the company s cfo said he expects the conglomerate s earnings and dividend to climb next year <PUNC>
-also boosting the dow <COMMA> intel corp. intc rose <NUM> percent after the technology bellwether released its newest server chips <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-u.s. stocks on friday tallied losses for an eighth consecutive day but stepped back from a plunge at the open that had the dow jones industrial average under <NUM> for the first time in more than five years <COMMA> as fears escalated that the trauma in the credit markets could be paving the way toward a global recession <PUNC>
-in the first minutes <COMMA> the dow industrials first plunged nearly <NUM> points to trade below the <NUM> mark for the first time since april <NUM> <COMMA> <NUM> <COMMA> but bounced back <COMMA> briefly rallying into positive territory only to dip again before an hour of trading had passed <PUNC>
-the dow was recently off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-shares of oil giant exxon mobil corp. xom paced the blue-chip decliners <COMMA> down <NUM> percent <PUNC>
-bank of america corp. bac gained the most on the dow <COMMA> its stock rising <NUM> percent <PUNC>
-another blue chip <COMMA> general electric co. ge <COMMA> gained <NUM> percent after reporting a third-quarter profit that met street expectations <COMMA> and said it was on pace to meet its recently revised projections for <NUM> <PUNC>
-the extended credit crisis is starting to surface with major companies <COMMA> said marc pado pado <COMMA> u.s. market strategist at cantor fitzgerald <COMMA> pointing to general motors corp. ge <PUNC>
-<PAR>

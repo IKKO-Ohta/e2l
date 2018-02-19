@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-altria group inc. mo gained <NUM> percent to dollar <NUM> in pre-market trade on instinet <PUNC>
-goldman sachs said it it expects the stock to move higher ahead of an anticipated favorable decision in a consumer fraud case.the decision is due thursday <PUNC>
-shares in procter & gamble pg climbed <NUM> percent to dollar <NUM> in thin pre-market trading after the household products giant lifted the lower end of its previous forecast range for second-quarter sales and earnings <PUNC>
-<PAR>

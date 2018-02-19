@@ -1,3 +1,0 @@
-after three consecutive sessions of gains <COMMA> the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with its components evenly divided between gains and losses <PUNC>
-the dow on tuesday ended at its highest close since april <NUM> <COMMA> when it closed at <NUM> <COMMA> its strongest finish since september <NUM> <COMMA> just ahead of the climax of the financial crisis <PUNC>
-<PAR>

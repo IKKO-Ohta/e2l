@@ -1,8 +1,0 @@
-u.s. stocks declined friday on light summer trading volumes <COMMA> sending the dow jones industrial average to its second consecutive week of losses as concerns about economic growth weighed on investor sentiment <PUNC>
-the blue-chip index lost <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> putting it in negative territory for the week <COMMA> month and year <PUNC>
-the dow dji has lost <NUM> percent for the year <PUNC>
-leading the dow s decline friday <COMMA> hewlett-packard co. hpq dropped <NUM> percent <PUNC>
-the technology giant s profit climbed <NUM> percent on higher world-wide sales in its fiscal third-quarter <COMMA> its final quarter with mark hurd at its helm <PUNC>
-but investors have been skittish about h-p since hurd left the company two weeks ago <PUNC>
-caterpillar inc. cat shares fell <NUM> percent <COMMA> general electric co. ge shed <NUM> percent and manufacturing giant 3m co. mmm slid <NUM> percent <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-off its earlier lows <COMMA> the dow jones industrial average dji ended at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> ended in the red <COMMA> with the blue-chip declines led by hewlett-packard co. hpq <COMMA> down <NUM> percent after the technology giant said that it would acquire electronic data systems corp. eds for dollar <NUM> billion to better compete with international business machines corp. ibm <PUNC>
-for eds shareholders <COMMA> the pending transaction is a nice little premium <COMMA> he commented <PUNC>
-off the dow <COMMA> shares of eds gained <NUM> percent <PUNC>
-wal-mart stores inc. wmt <COMMA> the world s largest retailer and another dow component <COMMA> lost <NUM> percent after forecasting earnings that will likely fall below analysts forecasts <PUNC>
-<PAR>
-shares of yahoo yhoo climbed more than <NUM> percent after cnbc said that icahn had purchased a significant chunk of shares in the web portal <COMMA> which recently resisted a takeover try by microsoft corp. msft <PUNC>
-<PAR>

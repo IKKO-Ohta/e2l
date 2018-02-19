@@ -1,5 +1,0 @@
-the s&p <NUM> spx dipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the dow jones industrial average dji shed <NUM> points <COMMA> or less than <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf edged up <NUM> points <COMMA> or less than <NUM> percent <COMMA> to <NUM> <COMMA> turning positive in mid-morning action <PUNC>
-dow component alcoa aa lost <NUM> percent after a downgrade from j.p. morgan analysts <PUNC>
-the aluminum giant will kick off second-quarter earnings season on monday after the bell <PUNC>
-<PAR>

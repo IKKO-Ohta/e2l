@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with all of its <NUM> component stocks in negative territory <PUNC>
-among technology shares <COMMA> yahoo yhoo fell <NUM> percent after banc of america securities downgraded the target of microsoft msft to neutral from buy <PUNC>
-even if yahoo shareholders approve a deal with microsoft <COMMA> we believe the acquisition could face significant regulatory hurdles in the u.s. and particularly in the eu <COMMA> which could delay the acquisition from closing for quite some time <PUNC>
-u.s. stocks suffered a downbeat session on monday <COMMA> with the dow industrials falling <NUM> points <COMMA> the s&p <NUM> dropping <NUM> points and the nasdaq composite retreating <NUM> points <PUNC>
-<PAR>

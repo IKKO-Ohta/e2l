@@ -1,4 +1,0 @@
-after an 86-point climb <COMMA> the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-next week the market will get company-specific announcements that could be indicative of broader economic trends <COMMA> matthew kaufler <COMMA> portfolio manager at federated investors <COMMA> said of third-quarter earnings season <COMMA> which begins tuesday with aluminum maker alcoa inc. aa <PUNC>
-in a twitter posting <COMMA> former general electric co. ge chief executive officer jack welch accused the white house of manipulating the employment report for political gain <PUNC>
-<PAR>

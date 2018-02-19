@@ -1,7 +1,0 @@
-u.s. stocks rallied wednesday as a triple-digit gain lifted the dow jones industrial average to new highs <COMMA> with investors optimistic economic growth will continue at a pace that will sustain job creation and corporate profits <PUNC>
-the dow industrials dji rose as much as <NUM> points to a new record high of <NUM> <PUNC>
-it was last up <NUM> points at <NUM> <PUNC>
-wal-mart stores inc. wmt fell <NUM> percent to dollar <NUM> after the retail giant cuts its september same-store sales forecast <PUNC>
-same-store sales <COMMA> a key measure of retail performance <COMMA> track sales from stores open at least a year <PUNC>
-general motors corp. gm turned lower <COMMA> down <NUM> percent at dollar <NUM> <COMMA> after the online edition of the wall street journal said talks on the car maker joining a renault-nissan alliance have ended without agreement <PUNC>
-<PAR>

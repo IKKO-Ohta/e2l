@@ -1,4 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> after falling to a low of <NUM> <PUNC>
-out of the dow s <NUM> components <COMMA> <NUM> retreated <COMMA> led by shares of dupont dd <COMMA> wal-mart stores inc. wmt <COMMA> merck & co. mrk <COMMA> and home depot inc. hd <PUNC>
-general motors corp. gm and walt disney co. dis both fell as they held analyst presentations <PUNC>
-<PAR>

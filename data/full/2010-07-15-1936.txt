@@ -1,9 +1,0 @@
-u.s. stocks slid thursday <COMMA> derailing seven days of gains for the dow industrials <COMMA> as weak economic reports overcame strong earnings from financial powerhouse j.p. morgan chase & co <PUNC>
-the market s retreat moderated in the afternoon <COMMA> although the dow jones industrial average dji appeared on the verge of snapping its longest winning streak in nearly four months <COMMA> with less than an hour of trade to go <PUNC>
-after a 120-point drop early on <COMMA> the dow industrials were off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components tallying losses <PUNC>
-bank of america corp. bac fell the most among the blue chips <COMMA> off <NUM> percent <COMMA> while intel corp. intc fronted gains <PUNC>
-shares of the chip manufacturer were up <NUM> percent after it announced blockbuster earnings earlier in the week <PUNC>
-<PAR>
-the first of the largest u.s. banks to report <COMMA> j.p. morgan jpm said it earned dollar <NUM> billion in the second quarter <COMMA> which was better than wall street anticipated <PUNC>
-chief executive jamie dimon downplayed optimism <COMMA> calling returns in the bank s consumer-lending business unacceptable <PUNC>
-<PAR>

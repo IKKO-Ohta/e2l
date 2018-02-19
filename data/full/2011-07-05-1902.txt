@@ -1,2 +1,0 @@
-the dow jones industrial average dji was down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components losing ground <PUNC>
-<PAR>

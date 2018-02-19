@@ -1,9 +1,0 @@
-u.s. stocks closed mixed monday as caution ahead of a federal reserve meeting on interest rates kept a lid on the major indexes <COMMA> sending the dow jones industrial average lower in the last half hour of trade <PUNC>
-within the dow <COMMA> exxon mobil corp. was a standout after record-setting earnings <COMMA> while general motors corp. added more than <NUM> percent after bankers representing the company sought bidders for its financing arm <PUNC>
-the dow jones industrial average dji closed down <NUM> points at <NUM> <COMMA> after trading in positive territory for most of the session <PUNC>
-exxon mobil xom shares closed up <NUM> percent at dollar <NUM> after the world s largest oil company posted a forecast-beating <NUM> percent rise in fourth-quarter profit <COMMA> buoyed by high crude and gas prices <PUNC>
-wal-mart stores inc. wmt rose to their highest level for the year <COMMA> up as much as <NUM> percent to dollar <NUM> after the world s largest retailer said sales at stores open at least a year are on track to have grown <NUM> percent in january over year-ago levels <PUNC>
-citigroup inc. c and investment firm cerberus capital management may bid between dollar <NUM> billion and dollar <NUM> billion for general motors acceptance corp. <COMMA> the financing arm of general motors gm <COMMA> according to published reports <PUNC>
-juniper networks inc. jnpr closed up <NUM> percent at dollar <NUM> <COMMA> buoyed by a piper jaffray upgrade to outperform <PUNC>
-the brokerage cites an attractive valuation after a <NUM> percent share-price decline over the past <NUM> weeks <COMMA> with the company also likely to benefit from a rise in capital spending at verizon communications inc. vz <PUNC>
-<PAR>

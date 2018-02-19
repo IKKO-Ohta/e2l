@@ -1,3 +1,0 @@
-after falling more than <NUM> points and then crossing briefly into positive territory <COMMA> the dow jones industrial average dji more recently rose <NUM> points to <NUM> <PUNC> of the dow s <NUM> components <COMMA> <NUM> were higher <PUNC>
-ge ge shares fell <NUM> percent <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the standard & poor s 500-stock index spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <PUNC>
-alcoa inc. aa rose <NUM> percent ahead of its second-quarter report due monday <COMMA> and put in the best performance of a dow component this week <PUNC>
-the four-day rally represents a bounce back after the dow sank last week to its lowest point since october in its worst five-day performance leading up to july <NUM> since <NUM> <PUNC>
-the dow has climbed <NUM> percent this week <COMMA> its best weekly performance since the week ended july <NUM> <COMMA> <NUM> <PUNC>
-the rally comes as investors have grown hopeful that the market s recent drop to <NUM> lows may have exaggerated expected effects on corporate earnings from the slumping euro and slower global growth <PUNC>
-caterpillar inc. cat was also strong <COMMA> up <NUM> percent <COMMA> and chevron corp. cvx climbed <NUM> percent as crude-oil futures climbed above dollar <NUM> a barrel <PUNC>
-<PAR>

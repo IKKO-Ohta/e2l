@@ -1,4 +1,0 @@
-the dow jones industrial average is set to end the year up about <NUM> percent <PUNC>
-the s&p <NUM> index is clinging to a <NUM> percent gain <COMMA> while the nasdaq is set to end the year down <NUM> percent for its first annual loss since <NUM> <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components retreating <PUNC>
-<PAR>

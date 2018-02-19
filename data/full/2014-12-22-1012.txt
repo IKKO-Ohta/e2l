@@ -1,3 +1,0 @@
-last week <COMMA> stocks had their best two days in a row in years <PUNC>
-the dow jones industrial average dji and the s&p <NUM> index spx both closed the week up more than <NUM> percent <COMMA> and the nasdaq composite index rixf rose <NUM> percent <PUNC>
-<PAR>

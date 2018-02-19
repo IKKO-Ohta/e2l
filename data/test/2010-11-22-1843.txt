@@ -1,7 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early afternoon trading <PUNC>
-the blue-chip index is now down <NUM> percent for november <PUNC>
-the measure s financial components led monday s decline <COMMA> with bank of america bac off <NUM> percent <COMMA> while j.p. morgan chase jpm fell <NUM> percent <PUNC>
-all of its <NUM> components were in the red <PUNC>
-hewlett-packard hpq edged down <NUM> percent ahead of the company s quarterly earnings report due after the close <PUNC>
-investors will be keen to see what the technology giant s new chief executive <COMMA> leo apotheker <COMMA> says about the company s outlook following a cautious view from cisco csco earlier in the month <PUNC>
-<PAR>

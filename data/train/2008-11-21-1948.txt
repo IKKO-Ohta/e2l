@@ -1,9 +1,0 @@
-up more than <NUM> points early on <COMMA> the dow jones industrial average dji wavered between gains and losses throughout another volatile session <PUNC>
-the dow was more recently up <NUM> points at <NUM> <COMMA> poising the blue-chip index for a weekly loss of <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-aluminum producer alcoa inc. aa fronted the dow s gains <COMMA> climbing <NUM> percent <PUNC>
-wal-mart stores inc. wmt edged <NUM> percent higher after the discount retailer unexpectedly named international chief mike duke to succeed lee scott as president and chief executive <COMMA> effective feb. <NUM> <PUNC>
-shares of citigroup c fell <NUM> percent as analysts pondered what the future holds for the financial-services company <COMMA> which a year ago was valued at about dollar <NUM> billion <COMMA> and now stands at dollar <NUM> billion <PUNC>
-<PAR>
-other laggards on the blue-chip index included automaker general motors corp. gm <COMMA> off <NUM> percent <COMMA> and j.p. morgan chase jpm <COMMA> down <NUM> percent <PUNC>
-<PAR>

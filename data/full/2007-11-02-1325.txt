@@ -1,4 +1,0 @@
-futures for the dow jones industrial average dji were up <NUM> points at <NUM> <PUNC>
-on thursday <COMMA> u.s. stocks fell sharply <COMMA> with the dow industrials falling more than <NUM> points <PUNC>
-among other things <COMMA> a downgrade of blue-chip bellwether citigroup inc. c revived concerns about the financial sector <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx gained <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf finished <NUM> points higher at <NUM> <PUNC>
-gaining dow issues included at&t inc. t <COMMA> intel corp. intc and general motors corp. gm <PUNC>
-among the losers were aig aig <COMMA> home depot inc. hd and wal-mart stores inc. wmt <PUNC>
-among key dow gainers <COMMA> boeing co. ba rose <NUM> percent after continental airlines increased a previous order for boeing <NUM> jets to <NUM> from <NUM> <PUNC>
-last week the dow rose <NUM> percent <COMMA> making up a slice of its <NUM> percent tumble from the previous week <PUNC>
-the s&p <NUM> closed up <NUM> percent and the nasdaq composite added <NUM> percent <PUNC>
-<PAR>

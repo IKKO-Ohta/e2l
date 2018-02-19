@@ -1,2 +1,0 @@
-the dow jones industrial average dji added <NUM> points to <NUM> <COMMA> with technology pacing its gains <COMMA> led by intel corp. intc <COMMA> cisco systems inc. csco and microsoft corp. msft <PUNC>
-<PAR>

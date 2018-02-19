@@ -1,2 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in early morning trading <COMMA> with <NUM> of its <NUM> components opening lower <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-after a 170-point drop <COMMA> the dow jones industrial average dji recovered some of its losses <COMMA> yet remained on track for its worst single-day point drop in three months <PUNC>
-the dow was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <COMMA> led by aluminium giant alcoa inc. aa <COMMA> off <NUM> percent <PUNC>
-drug goliaths pfizer inc. pfe and merck & co. mrk were among the trio of blue chips on the rise <COMMA> each up nearly <NUM> percent after reporting earnings that topped estimates <PUNC>
-<PAR>

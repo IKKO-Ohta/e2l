@@ -1,8 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM>, <COMMA> with just two of the blue-chip index s <NUM> components ending higher <PUNC>
-at&t inc. t was up <NUM> percent after the telecommunications giant s earlier announcement that it would hike its dividend by <NUM> percent and buy back <NUM> million shares <PUNC>
-<PAR>
-dow member mcdonald s corp. mcd also closed ahead <COMMA> its stock up <NUM> percent <PUNC>
-the dow s decline marked its biggest one-day point and percentage plunge since nov. <NUM> <COMMA> when it fell <NUM> points <COMMA> or <NUM> percent <PUNC>
-on tuesday <COMMA> the index s largest laggards included financials <COMMA> with american express co. axp recently off <NUM> percent and jp morgan chase co. jpm down <NUM> percent <PUNC>
-citigroup inc. c fell <NUM> percent after an earlier rise on a report it would name vikram pandit as its chief executive <PUNC>
-<PAR>

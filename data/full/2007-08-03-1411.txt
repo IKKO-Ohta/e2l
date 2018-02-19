@@ -1,6 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-dow loss leaders include american express inc. axp <COMMA> and alcoa inc. aa <PUNC>
-the stocks of both companies were off more than <NUM> percent <PUNC>
-shares of dow component procter & gamble co. pg fell <NUM> percent <PUNC>
-the company reported a <NUM> percent gain in quarterly profit due to some new products and also said it will buy back up to dollar <NUM> billion of its stock <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-after brief forays into positive turf <COMMA> the dow jones industrial average dji closed off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with its <NUM> of its <NUM> components lower <PUNC>
-disappointment over the outcome of a european union summit <COMMA> which bolstered the u.s. dollar <COMMA> weighed on the index <PUNC>
-for the week <COMMA> the dow gained <NUM> percent <COMMA> the s&p <NUM> added <NUM> percent <COMMA> and the nasdaq composite advanced <NUM> percent <PUNC>
-it was the third-straight week of gains for the dow and the s&p <NUM> and the fourth for the nasdaq composite <PUNC>
-<PAR>

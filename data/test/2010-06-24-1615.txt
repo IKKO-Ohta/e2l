@@ -1,7 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-home depot hd was the measure s worst performer with a drop of <NUM> percent <COMMA> slumping with other retailers <PUNC>
-pfizer pfe was also weak <PUNC>
-the drug company dropped <NUM> percent after saying it would suspend osteoarthritis trials of its pain drug tanezumab after a small number of reports that patients ailments worsened to the point of needing joint replacement <PUNC>
-the company said the suspension followed a request by the food and drug administration <PUNC>
-the dow s financial components were also among its top decliners <COMMA> with j.p. morgan chase & co. jpm off <NUM> percent and bank of america bac down <NUM> percent <COMMA> as u.s. house and senate lawmakers sought to reach agreement thursday on the final pieces of legislation that is expected to tighten oversight of the financial industry more than many had expected <PUNC>
-<PAR>

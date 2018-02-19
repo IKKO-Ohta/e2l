@@ -1,4 +1,0 @@
-the dow jones industrial average dji last was down <NUM> points at <NUM> <PUNC>
-i m nervous about this market <COMMA> said ken tower <COMMA> chief market strategist at cybertrader <COMMA> noting that the dow industrials earlier this week came within striking distance of its record closing high of <NUM> <COMMA> reached jan. <NUM> <COMMA> <NUM> <PUNC>
-shares of dow industrials component hewlett-packard hpq traded off more than <NUM> percent <PUNC>
-<PAR>

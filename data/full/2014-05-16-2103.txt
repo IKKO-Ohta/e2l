@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> limiting the weekly loss to <NUM> percent <PUNC>
-it also notched a new record during the week <PUNC>
-warren buffett s berkshire hathaway inc. brka brk/a bought shares of verizon communications inc. vz and added to its stake in davita healthcare partners dva according to 13f security filings <PUNC>
-shares in verizon were up <NUM> percent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was <NUM> points lower at midday to stand at <NUM> <PUNC>
-other oil majors were higher <COMMA> including dow industrials component exxon mobil corp. xom <COMMA> which was <NUM> cents higher at dollar <NUM> <COMMA> as well as chevron corp. cvx <COMMA> up <NUM> cents at dollar <NUM> <PUNC>
-dow component intel corp. intc was under pressure <COMMA> after prudential cut its earnings and revenue forecasts for the chip manufacturer <PUNC>
-the stock last was down <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

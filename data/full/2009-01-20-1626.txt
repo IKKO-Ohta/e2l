@@ -1,4 +1,0 @@
-bush s final week as president left the dow jones wilshire <NUM> index as of friday s close down <NUM> percent during his second term <PUNC>
-in combination with the <NUM> percent gain eked out during his first four years <COMMA> he heads into retirement with a final stock market performance down <NUM> percent over his eight years in office <PUNC>
-the downward trend persisted on tuesday <COMMA> with the dow jones industrial average dji off <NUM> points at <NUM> <PUNC>
-<PAR>

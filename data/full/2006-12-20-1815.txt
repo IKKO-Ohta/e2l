@@ -1,3 +1,0 @@
-u.s. stocks were higher wednesday <COMMA> with the dow jones industrial average nearing <NUM> <COMMA> after an overnight rebound in asian markets and a flurry of merger news helped offset disappointing outlooks from fedex corp. and palm inc <PUNC>
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> just off a fresh record high of <NUM> and within a hair of hitting the psychologically-significant level of <NUM> <PUNC>
-<PAR>

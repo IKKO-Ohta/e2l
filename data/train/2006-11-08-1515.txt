@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-merck shares mrk fell <NUM> percent to dollar <NUM> after the drug maker disclosed four separate tax disputes in canada and the united states with potential liabilities totaling dollar <NUM> billion <COMMA> according to a media report late tuesday <PUNC>
-merck said it plans to dispute the newly disclosed liabilities <COMMA> the wall street journal reported on its web site <PUNC>
-the disputes add pressure to the whitehouse station <COMMA> n.j.-based pharmaceutical company as it fights thousands of lawsuits related to its withdrawn pain killer vioxx <PUNC>
-<PAR>

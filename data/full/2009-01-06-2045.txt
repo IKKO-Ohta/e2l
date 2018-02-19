@@ -1,5 +1,0 @@
-up more than <NUM> points shortly after the opening bell <COMMA> the dow jones industrial average dji dipped briefly into the red and then resumed its climb in afternoon trade <PUNC>
-at last check <COMMA> the blue-chip index was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components posting late afternoon gains <PUNC>
-u.s. equities on monday declined <COMMA> bringing to an end a three-session winning streak <COMMA> with the dow shedding <NUM> points to <NUM> <COMMA> off nearly <NUM> percent from its record close hit on oct. <NUM> <COMMA> <NUM> <PUNC>
-the s&p <NUM> and the nasdaq composite both gave up <NUM> points <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> point to <NUM> <PUNC>
-shares of general electric co. ge are likely to tick higher in early trading after the diversified industrial conglomerate posted third-quarter revenue that topped analyst expectations <PUNC>
-general motors corp. gm has signaled to the united auto workers union that an agreement to cut gm s dollar <NUM> billion annual u.s. health-care bill must come within the next few days <COMMA> or the company could act unilaterally to cut uaw health-care spending <COMMA> the wall street journal reported friday <PUNC>
-the carmaker s shares closed out thursday s session <COMMA> up <NUM> cents at dollar <NUM> <PUNC>
-<PAR>

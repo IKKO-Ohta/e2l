@@ -1,5 +1,0 @@
-late monday <COMMA> aluminum producer alcoa inc. aa kicks off the start to earnings season <COMMA> followed later in the week by intel corp. intc <COMMA> advanced micro devices inc. amd <COMMA> google inc. goog <COMMA> and general electric co. ge <COMMA> along with a slew of banks including j.p. morgan & chase jpm <COMMA> citigroup inc. c <COMMA> and bank of america corp. bac <PUNC>
-daily volume for stocks on the dow jones industrial average dji has ranged between <NUM> million to <NUM> million shares over the past week <COMMA> compared with an average volume of <NUM> million shares <PUNC>
-on friday <COMMA> the dow rose <NUM> percent to close at <NUM> <COMMA> for a <NUM> percent gain on the week <PUNC>
-the s&p <NUM> index closed up <NUM> percent at <NUM> for a weekly gain of <NUM> percent <COMMA> and the nasdaq composite index rixf advanced <NUM> percent to close at <NUM> for a gain of <NUM> percent for the week <PUNC>
-<PAR>

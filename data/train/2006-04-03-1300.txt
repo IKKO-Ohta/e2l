@@ -1,5 +1,0 @@
-the june futures contract for the dow jones industrials average hiked up <NUM> points to <NUM> <PUNC>
-s&p <NUM> futures rose <NUM> to <NUM> and nasdaq <NUM> futures climbed <NUM> to <NUM> <PUNC>
-dow industrials component general motors gm traded up <NUM> percent in instinet pre-open trading after the automaker said it would generate dollar <NUM> billion in cash from the sale of a <NUM> percent stake in its financing unit <PUNC>
-among other m&a deals <COMMA> dow member verizon vz said it was selling some telecommunications assets for dollar <NUM> billion <COMMA> motorola mot agreed to sell its automotive electronics business for dollar <NUM> billion in cash and service corp. sci said it was buying alderwoods group awgi for dollar <NUM> million <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji ended the session <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <COMMA> with nearly two thirds of its components ending higher <PUNC>
-the nasdaq composite rixf closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
-among individual stocks <COMMA> target corp. tgt jumped <NUM> percent as investors cheered its fourth-quarter report <COMMA> while rival wal-mart wmt rose <NUM> percent amid news that its sam s club business was testing an online subscription service as the threat from amazon.com inc. amzn grows <PUNC>
-<PAR>

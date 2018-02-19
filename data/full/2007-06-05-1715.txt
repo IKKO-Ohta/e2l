@@ -1,4 +1,0 @@
-u.s. stocks were down sharply on tuesday <COMMA> sending the dow jones industrial average by over <NUM> points <COMMA> after upbeat comments on the economy from federal reserve chairman ben bernanke and better-than-expected service-sector data reduced hopes that the fed would cut interest rates <COMMA> lifting bond yields to challenging levels <PUNC>
-the dow jones industrial average dji was down <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components retreated <COMMA> led by shares of dupont dd <COMMA> merck & co. mrk <COMMA> and home depot inc. hd <PUNC>
-general motors corp. gm and walt disney co. dis both fell as they held analyst presentations <PUNC>
-<PAR>

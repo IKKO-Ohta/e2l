@@ -1,9 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> but off a low of <NUM> <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to losses <PUNC>
-merck shares mrk rose <NUM> percent at dollar <NUM> <COMMA> after the company said its drug januvia was as effective as the popular diabetes drug glipizide <COMMA> also known as glucotrol <COMMA> in reducing blood-sugar levels in patients with type <NUM> diabetes <PUNC>
-patients taking januvia also lost weight on the drug <COMMA> the study showed <PUNC>
-also on the dow <COMMA> intel corp. intc was the biggest percentage gainer on the dow <COMMA> up <NUM> percent to dollar <NUM> <PUNC>
-semiconductors <COMMA> and intel in particular <COMMA> have been seen some of the biggest declines in the recent sell-off <PUNC>
-since may <NUM> <COMMA> when the market started to pull back <COMMA> intel shares have fallen around <NUM> percent <PUNC>
-since the start of the year <COMMA> they are down more than <NUM> percent <PUNC>
-<PAR>

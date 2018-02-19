@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-a lower close would halt a three-day streak of gains <PUNC>
-over the last three months <COMMA> the blue-chip average has lost <NUM> percent though it s still on track to gain <NUM> percent this week <PUNC>
-blue-chip laggards involved a trio of financial companies <COMMA> with bank of america corp. bac off <NUM> percent and jpmorgan chase & co. jpm down <NUM> percent <PUNC>
-sprint this week joined rivals at&t inc. t and verizon wireless in offering the iphone <COMMA> with the latest version available for pre-order friday morning <PUNC>
-<PAR>

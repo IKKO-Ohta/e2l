@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-among its top performers <COMMA> walt disney dis added <NUM> percent while bank of america bac climbed <NUM> percent and caterpillar cat rose <NUM> percent <PUNC>
-<PAR>

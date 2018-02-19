@@ -1,6 +1,0 @@
-the dow jones industrial average dji gave up gains to trade lower <PUNC>
-general motors gm fell as much as <NUM> percent <COMMA> adding to the pressure on the dow <PUNC>
-the world s largest auto maker announced it will restate its earnings for <NUM> because an accounting error led it to overstate its <NUM> profit by up to dollar <NUM> million <PUNC>
-fellow dow component intel intc jumped up as much as <NUM> percent after its buyback and dividend news <PUNC>
-exxonmobil xom <COMMA> also in the dow <COMMA> dropped by more than <NUM> percent <COMMA> after the inventories data <PUNC>
-<PAR>

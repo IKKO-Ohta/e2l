@@ -1,6 +1,0 @@
-the dow jones industrial average dji rose for a fourth straight day <COMMA> ending <NUM> points higher <COMMA> up <NUM> percent <COMMA> at <NUM> <COMMA> led by a <NUM> percent gain in general electric ge <PUNC>
-the measure has risen <NUM> percent over its recent winning streak and ended with a <NUM> percent gain for the week <PUNC>
-among stocks to watch <COMMA> united technologies utx shed <NUM> percent after it cut its forecast of operating profit at its otis elevator unit <PUNC>
-pfizer pfe fell <NUM> percent after the drug manufacturer said it ended a late-stage trial for an experimental lung-cancer drug <PUNC>
-in addition <COMMA> pfizer said two late-stage studies of its advanced breast cancer drug sutent failed to meet their primary endpoints <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the tentative trade makes sense <COMMA> given tuesday s climb <COMMA> which had the dow adding <NUM> points in its biggest single-day gain in eight weeks <COMMA> said marc pado <COMMA> u.s. market strategist at cantor fitzgerald <PUNC>
-up more than <NUM> points early on <COMMA> the dow jones industrial average dji was more recently up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
-<PAR>

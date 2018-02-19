@@ -1,7 +1,0 @@
-the dow jones industrial average dji ended down <NUM> points at <NUM> <COMMA> off an earlier low of <NUM> but also beneath a morning high of <NUM> <PUNC>
-caterpillar inc. cat was the biggest drag on the blue-chip average <COMMA> losing about <NUM> percent <COMMA> after competitor agricultural equipment manufacturer agco corp. ag said it sees sales rising only 3-5 percent in <NUM> and wants to cut the number of dealers that sell its products by <NUM> percent over the next two years <PUNC>
-agco ended down <NUM> percent <PUNC>
-among other blue chips <COMMA> citigroup inc. c fell <NUM> percent after the bank named robert druskin <COMMA> now chief executive of citigroup s investment-banking arm <COMMA> to be chief operating officer <COMMA> reporting directly to ceo charles prince <PUNC>
-the news ended market speculation that the bank would announce an in-depth restructuring <PUNC>
-alcoa inc. aa dropped <NUM> percent <COMMA> also weighing on the blue-chip average <COMMA> after rbc capital downgraded the stock to underperform from sector perform <COMMA> citing valuation <PUNC>
-<PAR>

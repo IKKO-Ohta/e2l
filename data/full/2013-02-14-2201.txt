@@ -1,9 +1,0 @@
-while both the nasdaq composite index and the s&p <NUM> index closed up fractionally at multiyear high levels <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or less than <NUM> percent <COMMA> to close at <NUM> <PUNC>
-it s the second day of losses for the dow since it closed up above <NUM> on tuesday <PUNC>
-shares of coca-cola co. ko declined <NUM> percent <COMMA> and led <NUM> out of <NUM> dow components lower <PUNC>
-cisco systems inc. csco shares finished down <NUM> percent <PUNC>
-cisco late wednesday reported a small gain in earnings for its fiscal second quarter <PUNC>
-on thursday <COMMA> the dow industrials turned in a flat trading day <COMMA> only varying by <NUM> percent <COMMA> following wednesday s loss when the high-low varied by only <NUM> percent <PUNC>
-that s extending the dow s flattest streak in <NUM> years <PUNC>
-the sequester even has the big banks concerned with j.p. morgan chase & co. jpm cutting its gdp forecast on the chance that the spending cuts will take place <PUNC>
-<PAR>

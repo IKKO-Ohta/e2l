@@ -1,8 +1,0 @@
-rising nearly <NUM> points in the first hour <COMMA> the dow jones industrial average dji at last check was up <NUM> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-the blue-chip gains included american international group inc. aig <COMMA> which on monday will be replaced by kraft foods inc. kft in the blue-chip benchmark <PUNC>
-knocking aig off the dow will leave the index under-weighted in financials <COMMA> a situation to be addressed in due course <COMMA> said thomson <PUNC>
-aig advanced <NUM> percent <COMMA> with another dow component <COMMA> automaker general motors corp. gm <COMMA> also staging a double-digit rise <COMMA> gaining <NUM> percent <PUNC>
-and washington mutual inc. wm <COMMA> the nation s biggest thrift <COMMA> is also reportedly looking for a buyer <COMMA> with wells fargo co. wfc <COMMA> j.p. morgan chase & co. jpm and hsbc holdings plc hbc viewed as potential bidders <PUNC>
-<PAR>
-on wednesday <COMMA> the dow industrials shed <NUM> points to close at <NUM> <COMMA> its lowest close since nov. <NUM> <COMMA> <NUM> <COMMA> with the equities market hammered as investors panicked about the potential for further failures in the financial sector <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-on friday <COMMA> the major indexes notched a third straight week of gains <COMMA> with the dow jones industrial average dji rising <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <COMMA> up <NUM> percent from the week-ago close <PUNC>
-in the week ahead <COMMA> investors will wade through quarterly results from more than <NUM> large-cap stocks <COMMA> including apple inc. aapl <COMMA> yahoo inc. yhoo <COMMA> mcdonald s corp. mcd <COMMA> ford motor co. f <COMMA> boeing co. ba and netflix inc. nflx <PUNC>
-we re right in the heart of earnings reporting season <COMMA> with a ton more earnings to go next week <COMMA> said smith <PUNC>
-among dow components <COMMA> e.i dupont de nemours & co. dd and johnson and johnson jnj are also scheduled to report in the week ahead <PUNC>
-<PAR>

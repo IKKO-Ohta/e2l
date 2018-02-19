@@ -1,3 +1,0 @@
-the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-among the blue chips on the decline <COMMA> general electric co. ge fell <NUM> percent after the louisville <COMMA> ky.-based company said it might sell its dollar <NUM> billion appliance business <PUNC>
-<PAR>

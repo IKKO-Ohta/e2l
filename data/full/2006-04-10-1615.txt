@@ -1,8 +1,0 @@
-u.s. stocks gained ground monday <COMMA> with the dow jones industrial average outperforming as alcoa rose ahead of its quarterly results and walt disney co. gained on a report it will offer abc television programs for free on the internet <PUNC>
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-alcoa inc. aa was up <NUM> percent at dollar <NUM> as the maker of aluminum products prepares to release its results after the market closes <PUNC>
-shares in walt disney co. dis added <NUM> percent to dollar <NUM> after the wall street journal reported it will offer some of its newest and most popular programs from its abc television station for free on the internet <PUNC>
-the report said the episodes of shows including desperate housewives and lost will contain commercial breaks that viewers can t skip <PUNC>
-exxon mobil xom was up <NUM> percent at dollar <NUM> <COMMA> buoyed by the rise in crude-oil prices <PUNC>
-bank of new york co. <COMMA> bk the oldest bank in the u.s. <COMMA> announced a business-swap with j.p. morgan chase jpm that means the bank is exiting retail banking <PUNC>
-<PAR>

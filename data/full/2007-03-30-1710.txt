@@ -1,6 +1,0 @@
-u.s. stocks turned sharply lower on friday <COMMA> briefly sending the dow jones industrial average down by over <NUM> points <COMMA> after news that the u.s. has imposed trade sanctions on china and amid concerns about oil prices <COMMA> which continued to trade around dollar <NUM> a barrel <PUNC>
-after earlier rising by over <NUM> points <COMMA> the dow jones industrial average dji reversed course and was last down <NUM> points at <NUM> <PUNC>
-it earlier fell by over <NUM> points to a low of <NUM> <PUNC>
-dow component united technologies corp. utx <COMMA> meanwhile <COMMA> offered to buy rentokil initial s electronic security division for dollar <NUM> billion <PUNC>
-separately <COMMA> the wall street journal said that the company will sell its security-guard business in the u.k. and australia in coming months <PUNC>
-<PAR>

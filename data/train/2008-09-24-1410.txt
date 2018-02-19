@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <COMMA> with the early gains led by the procter & gamble co. pg <COMMA> up <NUM> percent <COMMA> and alcoa inc. aa <COMMA> ahead <NUM> percent <PUNC>
-the dow s financial shares proved mixed <COMMA> with citigroup inc. c off <NUM> percent <COMMA> and j.p. morgan chase jpm gaining <NUM> percent <PUNC>
-<PAR>

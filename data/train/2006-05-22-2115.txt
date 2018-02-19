@@ -1,7 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> well above a low of <NUM> <COMMA> but its weakest level in a month <COMMA> nonetheless <PUNC>
-wal-mart stores inc. wmt said it s selling its south korean unit to local retailer shinsegae for dollar <NUM> million <PUNC>
-shinsegae <COMMA> korea s largest discount retailer <COMMA> operates <NUM> e-mart discount stores <PUNC>
-wal-mart s <NUM> south korean stores will continue to operate under the e-mart name <PUNC>
-wal-mart s stock closed up <NUM> cents at dollar <NUM> <PUNC>
-elsewhere <COMMA> alcoa inc. aa slid <NUM> percent to dollar <NUM> as investors monitored the commodities market <PUNC>
-<PAR>

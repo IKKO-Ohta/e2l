@@ -1,4 +1,0 @@
-the futures contract for the dow jones industrial average last was up <NUM> points at <NUM> <PUNC>
-dow component intel corp. intc is expected to announce between <NUM> to <NUM> job cuts as early as next week <COMMA> according to the wall street journal <PUNC>
-the stock was <NUM> percent higher at dollar <NUM> in premarket trade <PUNC>
-<PAR>

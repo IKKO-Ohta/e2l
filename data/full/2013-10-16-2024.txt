@@ -1,2 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with j.p. morgan chase & co. jpm leading gains that included all but three of its <NUM> components <PUNC>
-<PAR>

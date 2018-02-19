@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-coca-cola co. ko tacked on <NUM> cents to dollar <NUM> <COMMA> weathering a decision by financial investment guru warren buffett and j. pedro reinhard not to run for reelection to the company s board <PUNC>
-elsewhere on the dow <COMMA> shares of 3m mmm rose <NUM> cents to dollar <NUM> after the industrial group raised its quarterly cash dividend and approved a share buyback of dollar <NUM> billion <PUNC>
-<PAR>

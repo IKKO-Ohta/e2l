@@ -1,4 +1,0 @@
-after trading up and down in a 150-point range throughout the day <COMMA> the dow jones industrial average dji ended down <NUM> points at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> closed lower <COMMA> with walt disney co. dis fronting the blue-chip s decline <COMMA> its stock off <NUM> percent <PUNC>
-technology shares were among the dow s advancing stocks <COMMA> with international business machine corp. ibm up <NUM> percent and intel corp. intc ahead <NUM> percent <PUNC>
-<PAR>

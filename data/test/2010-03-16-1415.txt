@@ -1,2 +1,0 @@
-boasting a five-day winning streak <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-<PAR>

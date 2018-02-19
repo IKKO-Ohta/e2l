@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with only <NUM> of its <NUM> components posting gains <COMMA> with blue-chip decliners led by american express co. axp <COMMA> off <NUM> percent <PUNC>
-the dow first rallied over <NUM> points <COMMA> then shaved off <NUM> points <COMMA> before gaining ground again <PUNC>
-wal-mart stores wmt said profit will feel some pressure from higher interest rates in the fourth quarter <COMMA> but it reaffirmed its fourth-quarter earnings view <PUNC>
-investors also will consider a wall street journal report that citigroup c and merrill lynch & co. mer are both negotiating further capital injections from overseas investors <PUNC>
-<PAR>

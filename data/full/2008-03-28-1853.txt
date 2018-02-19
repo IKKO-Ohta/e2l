@@ -1,4 +1,0 @@
-the dow jones industrial average dji was off <NUM> points to <NUM> <COMMA> down a slight <NUM> percent from the prior week s close <PUNC>
-of the blue chip s <NUM> components <COMMA> <NUM> were trading higher <COMMA> with gains led by j.p. chase morgan & co. jpm <COMMA> up <NUM> percent <PUNC>
-other financials on the dow fared less well <COMMA> with citigroup inc. c off <NUM> percent and american express co. axp down <NUM> percent <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was off <NUM> points in early trading <COMMA> at <NUM> <COMMA> while the standard & poor s 500-stock index spx was down <NUM> percent at <NUM> and the nasdaq composite rixf tipped <NUM> point higher at <NUM> <PUNC>
-the dow had closed narrowly up on tuesday <COMMA> while the s&p <NUM> index and the nasdaq composite finished with small losses <PUNC>
-investors also focused wednesday on the latest round of earnings <COMMA> with boeing co. shares ba slipping <NUM> percent after the aerospace giant saw its second-quarter profit fall <NUM> percent amid weaker revenue in both its aviation and defense businesses <PUNC>
-the results beat profit expectations but missed on revenue <PUNC>
-<PAR>

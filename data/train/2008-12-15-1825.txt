@@ -1,5 +1,0 @@
-after climbing two out of the last three sessions <COMMA> the dow jones industrial average dji on monday shed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting losses <PUNC>
-as with the broader market <COMMA> financials weighed the most on the blue-chip index <COMMA> with j.p. morgan chase & co. jpm off <NUM> percent and american express co. axp down <NUM> percent <PUNC>
-bank of america corp. bac fell <NUM> percent and citigroup inc. c fell <NUM> percent <PUNC>
-shares in general motors corp. gm and ford motor co. f rose <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-<PAR>

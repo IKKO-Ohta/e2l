@@ -1,3 +1,0 @@
-the dow dji rose <NUM> points <COMMA> or almost <NUM> percent <COMMA> to end at <NUM> for its fifth straight record close <COMMA> while the nasdaq composite rixf climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
-the nasdaq moved further above <NUM> after closing above that milestone level for the first time in <NUM> years on tuesday <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-for the week <COMMA> notable for below-average volume <COMMA> the dow jones industrials average dji gained <NUM> percent <COMMA> the s&p <NUM> spx added <NUM> percent and the nasdaq composite rixf advanced <NUM> percent <PUNC>
-<PAR>

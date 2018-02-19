@@ -1,8 +1,0 @@
-u.s. stocks closed higher thursday <COMMA> with the dow jones industrial average registering the sharpest rise among the major averages due to a ruling favorable to altria group <COMMA> as investors awaited friday s monthly unemployment report <PUNC>
-the dow jones industrials dji closed up <NUM> points at <NUM> while the s&p <NUM> spx gained <NUM> points to finish at <NUM> <PUNC>
-altria mo rose <NUM> percent to close at dollar <NUM> <PUNC>
-the florida supreme court threw out a dollar <NUM> billion damages award against the company and decertified a class-action case <PUNC>
-shares of retail giant and dow component wal-mart stores inc. wmt closed <NUM> percent lower at dollar <NUM> <PUNC>
-wal-mart reported that june sales at stores open at least one year rose <NUM> percent <COMMA> meeting its most recent forecast <PUNC>
-analysts <COMMA> on average <COMMA> had expected it to post a same-store-sales gain of <NUM> percent <COMMA> according to thomson first call <PUNC>
-<PAR>

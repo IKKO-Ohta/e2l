@@ -1,7 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components turned negative <PUNC>
-weighing on the blue-chip average were the likes of dupont dd <COMMA> home depot inc. hd and wal-mart stores inc. wmt <PUNC>
-among other dow components <COMMA> general motors corp. gm fell <NUM> percent <COMMA> even after the company returned to profitability in the fourth quarter <PUNC>
-and citigroup c rose <NUM> percent after one of its executives said the bank won t lift its offer for nikko cordial any further <PUNC>
-the bank on tuesday hiked its takeover bid by <NUM> percent to dollar <NUM> billion <PUNC>
-on tuesday <COMMA> further trouble for subprime lenders and data showing mortgage defaults on the rise sent the dow industrials down <NUM> points for its second-worst performance of the year so far <PUNC>
-<PAR>

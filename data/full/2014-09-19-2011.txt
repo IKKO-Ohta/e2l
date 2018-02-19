@@ -1,4 +1,0 @@
-new york marketwatch u.s. stocks ended friday s volatile session mixed <COMMA> but the dow jones industrial average eked out a gain and closed at a record high <PUNC>
-the s&p <NUM> spx closed virtually flat at <NUM> and was <NUM> percent higher over the week <PUNC>
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> rising to <NUM> <COMMA> notching its 18th record close this year <PUNC>
-<PAR>

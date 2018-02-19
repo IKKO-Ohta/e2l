@@ -1,7 +1,0 @@
-far from its session lows that had it down nearly <NUM> points <COMMA> the dow jones industrial average dji was more recently off <NUM> points at <NUM> with <NUM> of its components posting losses <PUNC>
-the greatest laggard among the blue chips was battered general motors corp. gm <COMMA> off <NUM> percent after hitting lows not seen since <NUM> amid concerns the automaker might burn through its remaining cash before the end of the year <PUNC>
-also weighing on the dow industrials <COMMA> alcoa inc. aa fell <NUM> percent after the aluminum giant s downgrade to market perform from outperform by freidman <COMMA> billings <COMMA> ramsey group inc <PUNC>
-u.s. stocks ended lower monday <COMMA> as gains from china s half-billion-dollar stimulus plan eroded amid worries about the health of gm <PUNC>
-the dow industrials fell <NUM> points <COMMA> the s&p <NUM> lost <NUM> points and the nasdaq composite dropped <NUM> points <PUNC>
-american express axp fell <NUM> percent after the federal reserve approved the credit-card firm s application to become a bank <PUNC>
-<PAR>

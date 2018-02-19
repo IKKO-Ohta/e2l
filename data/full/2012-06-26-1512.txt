@@ -1,2 +1,0 @@
-the dow jones industrial average dji held steady at <NUM> <PUNC>
-<PAR>

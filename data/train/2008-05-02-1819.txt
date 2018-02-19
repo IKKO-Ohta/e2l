@@ -1,6 +1,0 @@
-far off its early highs <COMMA> the dow jones industrial average dji was up just <NUM> points in mid-afternoon trading to <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <PUNC>
-top gainers on the dow industrials included citigroup inc. c <COMMA> up <NUM> percent <COMMA> and bank of america corp. bac <COMMA> ahead <NUM> percent <PUNC>
-wal-mart stores inc. wmt and ibm corp. ibm led the blue-chip decliners <COMMA> both down <NUM> percent <PUNC>
-in the technology sector <COMMA> microsoft corp. msft and yahoo inc. yhoo were again in the headlines <PUNC>
-chevron corp. cvx generated <NUM> percent profit growth <COMMA> with the oil giant s shares gaining <NUM> percent <PUNC>
-<PAR>

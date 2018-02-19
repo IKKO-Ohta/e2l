@@ -1,6 +1,0 @@
-u.s. stocks rallied straight out of the gates on wednesday <COMMA> the first trading session of <NUM> <COMMA> with the dow jones industrial average boosted by reports of robust holiday sales at wal-mart stores inc. and news of a management shakeup at home depot inc <PUNC>
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-wal-mart stores wmt was the biggest gainer amid blue-chips <COMMA> rising <NUM> percent <PUNC>
-the nation s largest retailer forecast december same-store sales ahead of prior expectations <PUNC>
-investors also cheered news that home depot s hd embattled chief executive <COMMA> robert nardelli <COMMA> had resigned to be replaced by vice chairman frank blake <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> to open the session <PUNC>
-the standard & poor s 500-stock index spx added less than one point to <NUM> <COMMA> while the nasdaq composite rixf dropped three points to <NUM> <PUNC>
-friday also marked the unofficial start to earnings season <COMMA> with alcoa aa gaining <NUM> percent to lead the dow after it lifted its forecast for demand in reporting third-quarter earnings late thursday <PUNC>
-the moves came after u.s. stocks finished mostly lower on thursday <COMMA> with the dow down <NUM> percent <PUNC>
-in overnight activity <COMMA> the u.k. s ftse <NUM> index fell <NUM> percent in late intraday trading <PUNC>
-in asia <COMMA> japan s nikkei stock average closed down <NUM> percent <COMMA> while the shanghai composite index soared <NUM> percent as trading resumed after a week-long holiday <PUNC>
-<PAR>

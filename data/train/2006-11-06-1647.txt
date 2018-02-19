@@ -1,8 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points <NUM> <COMMA> fueled by gains for mcdonald s corp. mcd <COMMA> united technologies corp. utx <COMMA> american express axp and general motors corp. offset a pullback in shares of <PUNC>
-home depot inc. hd was one of a handful of blue-chip decliners <COMMA> dipping <NUM> percent after ubs downgraded the home improvement retailer <COMMA> citing concern over the impact of a weak u.s. housing market on its earnings <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
-the dow has ended lower for the last six sessions and closed under <NUM> for the first time in over two weeks on friday <PUNC>
-shares of home depot inc. hd fell <NUM> percent to dollar <NUM> while lowe s cos. low erased early losses to trade up <NUM> percent at dollar <NUM> <PUNC>
-ubs downgraded the home improvement chains to reduce from neutral <PUNC>
-the broker said it is increasingly concerned that the weakness in the u.s. housing market will weigh significantly on their third-quarter results <PUNC>
-<PAR>

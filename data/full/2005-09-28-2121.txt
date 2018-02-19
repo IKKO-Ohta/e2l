@@ -1,7 +1,0 @@
-new york dow jones u.s. stocks closed mixed wednesday <COMMA> with the dow jones industrial average gaining for a third straight session <COMMA> as investors shrugged off new highs for natural gas to seek out attractively priced stocks <PUNC>
-the dow industrials dji closed up <NUM> points at <NUM> <PUNC>
-putting pressure on the dow <COMMA> caterpillar cat lost nearly <NUM> percent to close at dollar <NUM> <PUNC>
-dealers were uncertain whether the stock was impacted by a downgrade of farm-machinery seller agco corp. ag by ubs <PUNC>
-agco fell <NUM> percent to dollar <NUM> <PUNC>
-dow component mcdonald s mcd closed up <NUM> cents at dollar <NUM> on a wall street journal report that a hedge fund with a stake in the company envisions splitting the fast-food giant into three businesses <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> after trading in negative territory in the morning <PUNC>
-if the dow is able to hold above <NUM> <COMMA> the dow will have reclaimed the dotcom-bubble high reached on jan. <NUM> <COMMA> <NUM> <COMMA> marking another milestone on the stock market s recent five-month run-up <PUNC>
-financials led the markets higher <COMMA> boosted by hopes of an improving economic environment <PUNC>
-bank of america rose <NUM> percent <COMMA> j.p. morgan chase jpm added <NUM> percent <COMMA> and american express axp advanced <NUM> percent to lead the dow components <PUNC>
-among companies in focus <COMMA> walt disney dis gained <NUM> percent after goldman sachs added the company to its conviction buy list <COMMA> citing an expected growth rebound in the company s parks division <PUNC>
-google goog gained <NUM> percent and microsoft msft fell <NUM> percent after google won a preliminary injunction blocking the u.s <PUNC>
-interior department from awarding a contract to microsoft for a new email system <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> wiping out the measure s 44-point wednesday climb that had come on better-than-expected private-sector employment data <PUNC>
-the private-sector report had served as a source of relief for the market ahead of the government s nonfarm payrolls due friday <COMMA> but the concerns ramped back up following the disappointing weekly job data reported thursday <PUNC>
-the dow dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-bank of america corp. bac was the measure s worst performer with a <NUM> percent drop <COMMA> while microsoft corp. msft was also weak <COMMA> off <NUM> percent <COMMA> and coca-cola co. ko slipped <NUM> percent <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-all <NUM> blue-chip components were mired in negative territory <COMMA> with shares of intel intc down the most <COMMA> off <NUM> percent after the company said it would buy security-software maker mcafee <COMMA> paying a roughly <NUM> percent premium over the target s closing price wednesday <PUNC>
-<PAR>

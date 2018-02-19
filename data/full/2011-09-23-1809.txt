@@ -1,2 +1,0 @@
-down <NUM> percent for the not-yet-ended week <COMMA> the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-<PAR>

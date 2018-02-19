@@ -1,4 +1,0 @@
-advancing for an 18th consecutive tuesday <COMMA> the dow dji added <NUM> points to <NUM> <COMMA> with all but four of its <NUM> components advancing <PUNC>
-bank of america corp. bac was the top gainer in the dow <COMMA> rallying <NUM> percent <PUNC>
-interestingly <COMMA> if one takes out those tuesday gains <COMMA> the dow has not done all that much this year <COMMA> wrote saut <PUNC>
-<PAR>

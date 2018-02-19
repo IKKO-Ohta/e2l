@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with j.p. morgan chase & co. jpm leading blue-chip gains <COMMA> up <NUM> percent following its shareholders meeting in florida <COMMA> where chief executive jamie dimon survived an effort to take away his title of chairman of the board <COMMA> with the vote coinciding with media reports that the justice department is probing the bank s dollar <NUM> billion trading loss <PUNC>
-half of its <NUM> components fell <COMMA> led by home depot inc. hd <COMMA> off <NUM> percent after the home-improvement retailer s revenue outlook missed estimates <PUNC>
-<PAR>

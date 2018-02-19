@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early action <COMMA> with <NUM> of its <NUM> components falling <PUNC>
-the benchmark index was pulled lower by general motors corp. gm <COMMA> aig aig <COMMA> and hewlett packard hpq <PUNC>
-shares of exxon mobil corp. xom rose <NUM> percent <PUNC>
-<PAR>

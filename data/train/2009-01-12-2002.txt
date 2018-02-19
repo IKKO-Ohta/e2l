@@ -1,6 +1,0 @@
-off for a fourth consecutive session <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-weighing the most on the blue-chip index <COMMA> citigroup inc. c shares fell <NUM> percent with the banking powerhouse reportedly near a deal to combine its brokerage business with morgan stanley <PUNC>
-shares of morgan stanley ms led all s&p <NUM> financial gainers <COMMA> climbing <NUM> percent <PUNC>
-another dow laggard <COMMA> alcoa inc. aa shares declined <NUM> percent after its downgrade by deutsche bank to a sell from a hold in the wake of last week s announced cuts in production and employees by the aluminum giant <PUNC>
-intel corp. intc reports its results thursday <COMMA> with the chip maker and wal-mart stores inc. wmt among the companies offering bleak forecasts last week <PUNC>
-<PAR>

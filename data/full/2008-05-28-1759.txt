@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with financial shares leading the blue-chip declines <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were in the red <COMMA> led by american international group inc. aig <COMMA> down <NUM> percent <COMMA> after a citigroup analyst said the insurance giant may have to raise more capital in addition to the dollar <NUM> billion garnered last week <PUNC>
-dow gains were recently led by hewlett-packard co. hpq <COMMA> up <NUM> percent <COMMA> and ibm ibm <COMMA> which also advanced <NUM> percent <PUNC>
-shares of boeing co. ba were edging lower <COMMA> off <NUM> percent <PUNC>
-<PAR>

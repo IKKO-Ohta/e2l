@@ -1,5 +1,0 @@
-the future contract for the dow jones industrial average was up <NUM> points at <NUM> <COMMA> futures contracts were up <NUM> points at <NUM> for the s&p <NUM> and up <NUM> points at <NUM> for the nasdaq <NUM> <PUNC>
-investors are eager for friday <COMMA> when they will get the gross domestic product report for the second quarter on friday <PUNC>
-the dow jones prediction <COMMA> based on a poll of economists <COMMA> is for a rise of <NUM> percent <COMMA> which would represent a decline from the <NUM> percent rise seen in the first quarter <PUNC>
-exxonmobil xom rose <NUM> cents to dollar <NUM> before the opening <COMMA> after the oil giant reported a <NUM> percent increase in net income <COMMA> alongside earnings before special items that exceeded wall street expectations <PUNC>
-<PAR>

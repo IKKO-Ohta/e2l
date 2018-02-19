@@ -1,6 +1,0 @@
-the u.s. stock market ended <NUM> on a bright note <COMMA> with all three major indexes posting their best performance in three years <PUNC>
-the dow jones industrial average dji stood at <NUM> at the close of trading on friday <COMMA> marking a <NUM> percent gain for the year <PUNC>
-general motors corp. gm <COMMA> which lost half of its value in <NUM> as investors feared the automobile giant might go bankrupt <COMMA> was among the best performing blue-chip stocks in <NUM> <COMMA> rising <NUM> percent <PUNC>
-at&t corp. t was the second-best performing stock on the dow <COMMA> gaining <NUM> percent <COMMA> as investors applauded its plans to merge with bellsouth corp. bls <PUNC>
-intel intc was the worst performer with an <NUM> percent loss.and see <PUNC>
-<PAR>

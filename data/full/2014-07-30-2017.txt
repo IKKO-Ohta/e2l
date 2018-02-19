@@ -1,3 +1,0 @@
-the s&p <NUM> spx closed up less than a point at <NUM> <PUNC>
-the dow jones industrial average dji finished off session lows <COMMA> but with a loss of <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
-<PAR>

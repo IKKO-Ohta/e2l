@@ -1,7 +1,0 @@
-u.s. stocks started higher wednesday <COMMA> with the dow industrials up more than <NUM> points <COMMA> after a federal reserve official s speech bolstered thinking that another interest-rate cut will come in december <PUNC>
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components ahead <PUNC>
-also drawing scrutiny was a wall street journal report that citigroup c rebuffed a merger proposal from bank of america bac <PUNC>
-both companies shares got a lift <COMMA> with bank of america up <NUM> percent and citi up <NUM> percent <PUNC>
-u.s. stocks bounced back on tuesday <COMMA> with a dollar <NUM> billion injection by an abu dhabi investment fund into citigroup giving a boost to the financial sector <PUNC>
-the dow industrials rose <NUM> points <COMMA> the nasdaq composite rose <NUM> points and the s&p <NUM> gained <NUM> points <PUNC>
-<PAR>

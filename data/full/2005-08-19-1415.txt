@@ -1,8 +1,0 @@
-new york dow jones - u.s. stocks were higher early friday <COMMA> as investors snapped up shares made cheap by recent declines <COMMA> while a ubs upgrade of coca-cola inc. lifted the dow jones industrial average <PUNC>
-the dow industrials dji was up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx <NUM> points at <NUM> <COMMA> and the nasdaq composite rixf up <NUM> points at <NUM> <PUNC>
-the major market indices have fallen to those support levels we were looking at earlier this week <COMMA> pado said <PUNC>
-the dow is challenging its 200-day moving average <COMMA> which has moved up to <NUM> <PUNC>
-the s&p broke through the <NUM> support and is trying to hold its 10-week moving average at <NUM> <PUNC>
-the nasdaq s april through july uptrend line crossed the price action at <NUM> and is attempting to hold its 10-week ma at <NUM> <PUNC>
-coca-cola ko shares were up <NUM> percent <COMMA> after ubs upgraded the stock to buy from neutral <COMMA> saying it believes the turnaround at the beverage group is happening now <COMMA> and that it expects sales growth to accelerate <PUNC>
-<PAR>

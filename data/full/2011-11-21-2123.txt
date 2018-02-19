@@ -1,5 +1,0 @@
-u.s. stocks sank monday <COMMA> pulling the dow jones industrial average into negative territory for <NUM> <COMMA> as the lack of progress by american lawmakers in reaching a deficit-cutting agreement magnified worry that europe s debt crisis would spur a global downturn <PUNC>
-after falling as much as <NUM> points <COMMA> the dow jones industrial average dji finished at <NUM> <COMMA> losing <NUM> points <COMMA> or <NUM> percent <COMMA> and leaving the index off <NUM> percent for the year <PUNC>
-all <NUM> of the dow s components lost value <COMMA> led by bank of america corp. bac <COMMA> which declined <NUM> percent <PUNC>
-yet the dow remained more than <NUM> points above its oct. <NUM> close of <NUM> <PUNC>
-<PAR>

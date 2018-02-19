@@ -1,4 +1,0 @@
-the dow jones industrial average spx advanced <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-caterpillar inc. cat was the dow industrial average s best performer with a jump of <NUM> percent <COMMA> lifted by rising commodities prices as well as data released thursday indicating that consumer price inflation in china is moderating <PUNC>
-also boosted by the commodities gains <COMMA> aluminum company alcoa inc. aa rose <NUM> percent <COMMA> while energy giant chevron corp. cvx climbed <NUM> percent <PUNC>
-<PAR>

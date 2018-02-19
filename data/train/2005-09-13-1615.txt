@@ -1,5 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> with only four of the <NUM> dow components managing gains <PUNC>
-the nation s trade deficit narrowed in the month by <NUM> percent to dollar <NUM> billion <PUNC>
-the dow jones forecast had been for the deficit to widen to dollar <NUM> billion <PUNC>
-pfizer pfe lost <NUM> percent to dollar <NUM> after the company said it received a non-approvable letter related to oporia <COMMA> its proposed drug for the prevention of osteoporosis <COMMA> from the food and drug administration <PUNC>
-<PAR>

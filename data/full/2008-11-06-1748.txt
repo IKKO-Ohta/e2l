@@ -1,7 +1,0 @@
-u.s. stocks on thursday thudded lower for a second day <COMMA> pushing the dow jones industrial average under <NUM> for the first time in a week <COMMA> as mostly bleak retail sales and a lowered outlook from cisco systems inc. underscored the troubled economy <PUNC>
-near session lows <COMMA> the dow jones industrial average dji declined <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-among the blue-chip index s heaviest weights <COMMA> general motors corp. gm fell <NUM> percent <PUNC>
-wal-mart stores inc. wmt <COMMA> however <COMMA> posted better-than-forecast october sales <PUNC>
-after the close of trading thursday <COMMA> walt disney co. dis <COMMA> qualcomm inc. qcom and nvidia corp. nvda are all scheduled to report results <PUNC>
-u.s. stocks tumbled wednesday <COMMA> suffering their worst-ever percentage losses in the day after a presidential election <COMMA> as the dow jones industrial average dropped <NUM> points <COMMA> the s&p <NUM> lost <NUM> points <COMMA> and the nasdaq composite dropped <NUM> points <PUNC>
-<PAR>

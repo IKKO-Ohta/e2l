@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> blue-chip components advancing <COMMA> led by a <NUM> percent gain in general motors gm and a nearly <NUM> percent rise in shares of aluminum giant alcoa inc. aa <PUNC>
-year to date <COMMA> the dow industrials have slumped <NUM> percent <COMMA> the s&p <NUM> has lost <NUM> percent <COMMA> and the nasdaq composite has fallen <NUM> percent <PUNC>
-u.s. stocks fell monday but finished well above their worst levels of the day <COMMA> as rising oil prices pressured consumer-related shares and investors ditched weaker-performing financial stocks <PUNC>
-the dow industrials lost <NUM> points <COMMA> the s&p <NUM> fell <NUM> points <COMMA> and the nasdaq composite dropped <NUM> points <PUNC>
-<PAR>

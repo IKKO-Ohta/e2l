@@ -1,5 +1,0 @@
-after rising more than <NUM> points in a short-lived rally that followed the fed s decision <COMMA> the dow jones industrial average dji briefly flirted with negative territory only to end nearly flat at <NUM> <COMMA> up <NUM> points <PUNC>
-twenty-one of the blue-chip index s <NUM> components ended higher <COMMA> led by microsoft corp. msft <COMMA> up <NUM> percent <PUNC>
-a downgrade by goldman sachs sent dow component boeing co. ba down <NUM> percent <PUNC>
-shares of american express co. axp were off <NUM> percent in the wake of an agreement that has amex dropping an antitrust lawsuit against mastercard inc. ma <COMMA> which gained <NUM> percent <PUNC>
-<PAR>

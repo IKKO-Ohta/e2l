@@ -1,3 +1,0 @@
-after snapping a four-day win streak wednesday <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <COMMA> led by pharmaceutical giant pfizer inc. pfe <COMMA> up <NUM> percent <PUNC>
-also bolstering the dow <COMMA> shares of exxon mobil xom added <NUM> percent after the oil giant reported a near-doubling of second-quarter income <PUNC>
-<PAR>

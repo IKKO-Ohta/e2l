@@ -1,7 +1,0 @@
-the futures contract for the dow jones industrial average was up <NUM> points at <NUM> <PUNC>
-futures contracts for the s&p <NUM> and the nasdaq <NUM> were <NUM> points higher at <NUM> and up <NUM> points at <NUM> <PUNC>
-the third-quarter earnings season kicks off monday with the report from alcoa aa <COMMA> which traditionally is the first dow component to release results <PUNC>
-shares of delphi s former parent company <COMMA> general motors gm <COMMA> also in the dow <COMMA> were <NUM> percent lower at dollar <NUM> <PUNC>
-ibm ibm last was up <NUM> percent at dollar <NUM> in premarket trade <COMMA> after citigroup upgraded the dow component to buy from hold <COMMA> saying the company is gaining market share in the mid-range and high-end servers market <PUNC>
-intel corp. intc <COMMA> also in the dow <COMMA> was up <NUM> cents at dollar <NUM> before the opening <COMMA> after a wall street journal report that it will introduce a series of dual-core server chips <COMMA> as part of an effort to compete with its advanced micro devices amd <PUNC>
-<PAR>

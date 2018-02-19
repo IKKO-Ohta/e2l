@@ -1,5 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with all but one of its <NUM> components posting early gains <COMMA> led by general motors corp. gm <COMMA> up <NUM> percent <COMMA> and alcoa inc. aa <COMMA> which advanced <NUM> percent <PUNC>
-off the dow <COMMA> shares of ford motor co. f climbed <NUM> percent <PUNC>
-the blue-chip index s sole laggard proved to be 3m co. mmm <COMMA> which was off <NUM> percent after the post-it note maker lowered its earnings outlook for the year <COMMA> and said it cut almost <NUM> jobs in the fourth quarter to cut costs <PUNC>
-mcdonald s corp. mcd said its global same-store sales climbed <NUM> percent in november <PUNC>
-<PAR>

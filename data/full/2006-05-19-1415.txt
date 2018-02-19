@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-in the last two sessions <COMMA> the benchmark index has shed nearly <NUM> points <PUNC>
-intel corp. intc shares tumbled <NUM> percent to dollar <NUM> <COMMA> while shares of rival advanced micro devices inc. amd shot up <NUM> percent to dollar <NUM> after dell inc. dell said it would begin using chips from amd in some of its high-end servers <PUNC>
-the announcement represents a major switch for dell <COMMA> which had used microprocessors from intel exclusively <PUNC>
-dell s move to diversify its chip suppliers came as it reported an <NUM> percent drop in fiscal first-quarter profit as sales of its flagship desktop personal computers fell amid aggressive price competition from hewlett-packard co. hpq and other rivals <PUNC>
-the results were in line with wall street expectations and matched a reduced forecast given by the company on may <NUM> <PUNC>
-the company also announced a major restructuring plan that helped send its shares up <NUM> percent in morning trading <PUNC>
-<PAR>

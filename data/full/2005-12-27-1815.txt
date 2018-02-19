@@ -1,5 +1,0 @@
-the dow jones industrials average dji was down <NUM> points at <NUM> <COMMA> with <NUM> of <NUM> components contributing to losses <PUNC>
-the blue chip barometer had been up as much as <NUM> points earlier in the session <PUNC>
-within the dow <COMMA> exxon mobil xom slid <NUM> percent and wal-mart wmt shed <NUM> percent to lead the losers <PUNC>
-dupont paced the gainers with a mere <NUM> percent gain <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the futures contracts for the dow jones industrials average and the s&p <NUM> were down <NUM> points at <NUM> and down <NUM> points at <NUM> <PUNC>
-stocks closed mixed wednesday <COMMA> with the dow jones industrials the only major average to close in positive territory <PUNC>
-a rise in energy futures undermined early enthusiasm for some strong earnings <PUNC>
-intel intc stock was down dollar <NUM> percent at dollar <NUM> after prudential cut its rating on the chips maker to underweight from neutral <COMMA> saying a number of challenges will hurt revenue and margins <PUNC>
-<PAR>

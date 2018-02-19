@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with american express co. axp leading gainers <PUNC>
-twelve of the dow s <NUM> components traded lower <PUNC>
-u.s. stocks rallied on friday after european union leaders agreed on fresh measures to tackle the euro-zone debt crisis <PUNC>
-the dow gained <NUM> percent in june <COMMA> posting its best month since october <NUM> <PUNC>
-<PAR>

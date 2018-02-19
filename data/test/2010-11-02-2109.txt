@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-twenty-three of the dow s <NUM> components pulled higher <COMMA> with the gains led by home-improvement retailer home depot inc. hd <COMMA> shares of which were up <NUM> percent <PUNC>
-<PAR>

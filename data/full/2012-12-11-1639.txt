@@ -1,4 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in positive territory <PUNC>
-chip maker intel corp. intc was the top gainer in the dow <COMMA> rising <NUM> percent <PUNC>
-the dow and the s&p <NUM> are both on track for a fifth consecutive trading day of gains <PUNC>
-<PAR>

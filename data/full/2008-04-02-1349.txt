@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-a drag on the pharmaceutical sector <COMMA> shares of pfizer inc. pfe fell <NUM> percent after the drug company late tuesday said it was stopping a study of an experimental drug for melanoma <PUNC>
-<PAR>

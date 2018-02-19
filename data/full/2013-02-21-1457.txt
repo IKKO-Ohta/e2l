@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-moderating the drop <COMMA> component wal-mart stores inc. wmt climbed <NUM> percent after the retailer reported a fourth-quarter profit that beat estimates <PUNC>
-<PAR>

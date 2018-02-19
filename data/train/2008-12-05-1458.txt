@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-elsewhere <COMMA> boeing corp. ba may again delay deliveries of its new <NUM> dreamliner at least six months <COMMA> according to a report in the wall street journal <PUNC>
-<PAR>
-u.s. stocks on thursday reversed the prior session s gains as jobless claims remained above a half-million and heavyweights including at&t inc. t and dupont dd slashed jobs <PUNC>
-the dow jones industrial average dropped <NUM> points <COMMA> the nasdaq composite lost <NUM> points and the s&p <NUM> fell <NUM> points <PUNC>
-<PAR>

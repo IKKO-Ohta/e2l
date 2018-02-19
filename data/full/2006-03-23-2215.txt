@@ -1,6 +1,0 @@
-the dow jones industrial average dji ended down <NUM> points at <NUM> <COMMA> with <NUM> of the blue-chip benchmark s <NUM> components contributing to losses <PUNC>
-the benchmark index rose to its best level in nearly five years on wednesday <PUNC>
-since the beginning of the year <COMMA> the dow industrials are up more than <NUM> percent <COMMA> the s&p <NUM> has gained around <NUM> percent while the nasdaq has risen over <NUM> percent <PUNC>
-general motors corp. gm saw early gains fade <COMMA> to trade down a penny at dollar <NUM> <PUNC>
-concern over unresolved labor issues at delphi dphiq <COMMA> its main auto parts supplier <COMMA> was only partially offset by news that it had sold a majority stake in its property-finance arm <COMMA> gmac commercial holding corp in a deal valued at dollar <NUM> billion <PUNC>
-<PAR>

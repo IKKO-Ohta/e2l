@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-within the dow <COMMA> shares of citigroup inc. c climbed <NUM> percent to dollar <NUM> after the financial-services giant was upgraded to overweight from neutral weight by prudential <PUNC>
-the firm cited improved capital markets <COMMA> strength in citigroup s international business <COMMA> and valuation <PUNC>
-exxon mobil corp. xom lost <NUM> cents to dollar <NUM> after oil prices retreated <PUNC>
-<PAR>

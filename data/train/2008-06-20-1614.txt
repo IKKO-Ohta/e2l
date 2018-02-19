@@ -1,6 +1,0 @@
-down more than <NUM> points earlier on <COMMA> the dow jones industrial average dji was more recently off <NUM> points <COMMA> or <NUM> percent <COMMA> to stand at <NUM> <PUNC>
-of its <NUM> components <COMMA> <NUM> were posting losses <COMMA> with the bleeding recently led by shares of home deport inc. hd <COMMA> off <NUM> percent <PUNC>
-china s move to hike fuel prices drove oil nearly dollar <NUM> a barrel lower on thursday <COMMA> lifting u.s. stocks <PUNC>
-the dow industrials finished <NUM> points higher <COMMA> the s&p <NUM> added <NUM> points and the nasdaq composite jumped <NUM> points <PUNC>
-merrill lynch analysts cut their earnings estimates on banks including bank of america bac and national city ncc <COMMA> and j.p. morgan analysts said reserve building is needed at all the banks that it follows <PUNC>
-<PAR>

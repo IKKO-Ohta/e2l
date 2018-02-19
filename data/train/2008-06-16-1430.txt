@@ -1,9 +1,0 @@
-the dow jones industrial average dji shed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-shares of at&t corp. t <COMMA> down <NUM> percent <COMMA> fronted the blue-chip declines <PUNC>
-citigroup inc. c led the dow s gainers <COMMA> its stock up <NUM> percent <PUNC>
-another dow stock <COMMA> american international group inc. aig <COMMA> also gained <COMMA> up <NUM> percent <PUNC>
-on sunday <COMMA> the world s largest insurer said martin sullivan was leaving as ceo <COMMA> with chairman robert willumstad replacing him <PUNC>
-<PAR>
-u.s. stocks climbed on friday <COMMA> helped by government data showing an in-line reading on the nation s core inflation rate <PUNC>
-the dow industrials jumped <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite added <NUM> points to close out a volatile week <PUNC>
-<PAR>

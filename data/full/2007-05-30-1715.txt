@@ -1,9 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> after earlier falling <NUM> points to a low of <NUM> <PUNC>
-leading the dow were the likes of alcoa inc. aa <COMMA> boeing co. ba <COMMA> and ibm ibm <PUNC>
-caterpillar inc. cat was the biggest gainer on the dow <COMMA> rising <NUM> percent after competitor joy global inc. joyg issued an upbeat outlook for the coming <NUM> months <PUNC>
-coca cola co. ko gained <NUM> percent after citigroup upgraded the stock to buy from hold <PUNC>
-among tech shares on the dow <COMMA> microsoft msft rose <NUM> percent <PUNC>
-the software giant is coming out with a new table-top computer for hotels and casinos <PUNC>
-and international business machines ibm rose <NUM> percent <PUNC>
-it told the wall street journal that it has spent dollar <NUM> billion to buy back its stock in an accelerated buyback program <PUNC>
-<PAR>

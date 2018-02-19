@@ -1,5 +1,0 @@
-the s&p <NUM> spx fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> most of the losses coming after the comment from yellen during the press conference <PUNC>
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-stocks <COMMA> which were flat before the fed statement <COMMA> retreated afterwards <PUNC>
-but the hard drop <COMMA> which took the dow down more than <NUM> points <COMMA> came when a reporter asked yellen how long the fed would wait to start raising rates after it stops buying bonds in what s known as quantitative easing <PUNC>
-<PAR>

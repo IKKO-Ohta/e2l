@@ -1,3 +1,0 @@
-at noon eastern <COMMA> stocks remained higher but a rally had lost about half of its steam <COMMA> with the dow jones industrial average dji standing at <NUM> <COMMA> up <NUM> <PUNC>
-the s&p <NUM> index spx rose <NUM> points to <NUM> <COMMA> while the nasdaq composite rixf gained <NUM> points to stand at <NUM> <PUNC>
-<PAR>

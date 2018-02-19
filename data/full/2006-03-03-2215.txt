@@ -1,6 +1,0 @@
-u.s. stocks gave up gains to close lower friday <COMMA> with the dow jones industrial average and s&p <NUM> also ending lower for the week <COMMA> after an uneven session that featured a revenue warning from intel and positive data from the services sector <PUNC>
-the dow jones industrial average dji fell <NUM> points to close at <NUM> and lost <NUM> percent for the week <PUNC>
-tower said intel corp. s news was hardly a surprise <PUNC>
-the tech bellwether intc has struggled since its stock tumbled by more than <NUM> percent on jan. <NUM> <COMMA> when first-quarter profit outlook fell short of expectations <PUNC>
-intel intc closed down more than <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

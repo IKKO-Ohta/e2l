@@ -1,7 +1,0 @@
-worry about corporate profit growth and a weekend meeting of global finance officials put pressure on the dow jones industrial average on friday <COMMA> but the major indexes still managed their third straight week of gains <PUNC>
-the dow dji and the s&p <NUM> closed up for the third-consecutive week <COMMA> with both gaining <NUM> percent <PUNC>
-the nasdaq added <NUM> percent this week <PUNC>
-the dow s decline friday was led by american express co. axp and verizon communications vz <PUNC>
-both reported better-than-expected profits <COMMA> but amex fell <NUM> percent on concerns that it is seeing weak demand for new loans <COMMA> and verizon dropped <NUM> percent on disappointment over slowing wireless subscriber growth <PUNC>
-read more on american express <PUNC>
-<PAR>

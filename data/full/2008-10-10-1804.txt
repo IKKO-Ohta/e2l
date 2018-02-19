@@ -1,8 +1,0 @@
-u.s. stocks on friday plunged for an eighth straight day in a wild trading session that saw the dow jones industrial average fall more than <NUM> points three times to under <NUM> only to battle back as fears escalated that the trauma in the credit markets could be paving the way toward a global recession <PUNC>
-the dow industrials dji were recently off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-shares of oil giant exxon mobil corp. xom paced the blue-chip decliners <COMMA> down <NUM> percent <PUNC>
-pacing the blue-chip gains was general motors corp. gm <COMMA> which rose <NUM> percent after falling to below dollar <NUM> a share the prior session for the first time in <NUM> years <COMMA> with standard & poor s putting the auto maker s debt on negative credit watch late thursday <PUNC>
-bank of america corp. bac gained the most on the dow <COMMA> its stock rising <NUM> percent <PUNC>
-another blue chip <COMMA> general electric co. ge <COMMA> erased an early bid higher <COMMA> recently off <NUM> percent <COMMA> after reporting a third-quarter profit that met street expectations <COMMA> and said it was on pace to meet its recently revised projections for <NUM> <PUNC>
-the dow industrials first plunged nearly <NUM> points to trade below <NUM> for the first time since april <NUM> <COMMA> <NUM> <COMMA> but bounced back <COMMA> briefly rallying into positive territory only to dip again before an hour of trading had passed <PUNC>
-<PAR>

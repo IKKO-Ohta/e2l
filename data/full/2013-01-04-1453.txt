@@ -1,3 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <COMMA> with international business machines corp. ibm the biggest decliner among its <NUM> components <PUNC>
-alcoa inc. aa was the top gainer in the dow <COMMA> with the aluminum producer due to report fourth-quarter results on tuesday <COMMA> marking the unofficial start of corporate earnings-reporting season <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-for the week <COMMA> the dow jones industrial average dji rose <NUM> percent <PUNC>
-the s&p <NUM> index spx edged up <NUM> percent <COMMA> while the nasdaq composite index rixf fell <NUM> percent <PUNC>
-<PAR>

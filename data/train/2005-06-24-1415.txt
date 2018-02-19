@@ -1,9 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> after falling to a five-week low in the prior session <PUNC>
-economists were expecting orders to rise <NUM> percent <PUNC>
-economists were expecting a big increase in aircraft orders after boeing co ba reported orders soared to <NUM> in may from <NUM> in april <PUNC>
-excluding transportation <COMMA> durable goods orders were down <NUM> percent in may <PUNC>
-in the financial sector <COMMA> citigroup c said it ll sell its asset management business in exchange for the broker-dealer business of legg mason <COMMA> inc. lm in a deal valued at dollar <NUM> billion <PUNC>
-guidant corp. s stock gdt fell <NUM> percent to dollar <NUM> after it said it was evaluating of incidents of component failure in certain of its implantable cardiac defibrillator products <PUNC>
-the company is currently in the process of being bought by johnson & johnson <PUNC>
-jnj <PUNC>
-<PAR>

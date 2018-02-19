@@ -1,3 +1,0 @@
-on friday <COMMA> news that the fed had cut the discount rate by <NUM> basis point inspired a relief rally that saw the dow jones industrial average dji surge <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the dow fell <NUM> points on tuesday <COMMA> <NUM> points on wednesday <COMMA> and more than <NUM> points on thursday before a late-day rebound <PUNC>
-<PAR>

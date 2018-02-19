@@ -1,5 +1,0 @@
-after closing at its highest level since sept. <NUM> <COMMA> <NUM> <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-blue-chip declines were led by telecom companies with at&t inc. t and verizon communications inc. vz <COMMA> the former off <NUM> percent and the latter down <NUM> percent <PUNC>
-conglomerate general electric co. ge was among the dow s advancers <COMMA> rising <NUM> percent after bernstein research noted an improved credit loss outlook at ge s finance arm <PUNC>
-also bolstering the index <COMMA> bank of america corp. bac climbed <NUM> percent after it signaled it would begin forgiving mortgage loan principal of as much as <NUM> percent for those struggling to keep their homes <PUNC>
-<PAR>

@@ -1,9 +1,0 @@
-u.s. stocks traded mixed early monday amid some trepidation ahead of key inflation data and a number of speeches to be given by federal reserve chief ben bernanke this week <COMMA> but a rally in general motors corp. shares helped keep the dow jones industrial average in positive territory <PUNC>
-the dow industrials dji was up <NUM> points at <NUM> <PUNC>
-on friday <COMMA> the dow industrials ended at a four-month low in a week where the market succumbed to heavy losses on concerns over inflation <COMMA> rising global interest rates and slowing economic growth <PUNC>
-the nasdaq composite fell for a sixth straight session to end at a more than seven-month low <PUNC>
-general motors corp. gm rallied <NUM> percent at dollar <NUM> after delphi corp. dphiq <COMMA> its main parts supplier <COMMA> announced a broad employee buyout program that reduces the risk of a strike that could cripple the no <PUNC>
-<NUM> automaker <PUNC>
-the program also takes delphi a step closer to emerging from chapter <NUM> bankruptcy <PUNC>
-fellow dow component walt disney co. dis fell <NUM> percent at dollar <NUM> after citigroup downgraded the media and entertainment giant to hold from buy <COMMA> saying it believes the shares are less attractive at their current level following a strong run <PUNC>
-<PAR>

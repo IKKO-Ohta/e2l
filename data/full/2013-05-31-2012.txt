@@ -1,7 +1,0 @@
-we would like to see a quiet summer <COMMA> where the market marks some time and consolidates some recent gains <COMMA> added russell of wall street s advance <COMMA> which has the dow jones industrial average dji ahead <NUM> percent <COMMA> the s&p <NUM> index spx up <NUM> percent <COMMA> and the nasdaq composite rixf up <NUM> percent for the month <PUNC>
-after rising as much as <NUM> <COMMA> the dow jones industrial average dji lost <NUM> points to <NUM> <PUNC>
-intel corp. intc led gains that included just two of the blue-chip index s <NUM> components <PUNC>
-intel s gains came a day after reuters reported samsung electronics had picked an intel processor to power a new version of one of its tablets <PUNC>
-the s&p <NUM> marked seventh monthly advance <COMMA> its longest monthly winning streak since one ending in september <NUM> <PUNC>
-the dow industrials recorded their sixth straight monthly gain <PUNC>
-<PAR>

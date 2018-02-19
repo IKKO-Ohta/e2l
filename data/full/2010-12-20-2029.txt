@@ -1,5 +1,0 @@
-drifting between gains and losses <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-american express co. axp weighed heavily on the dow <COMMA> its shares off <NUM> percent <COMMA> after stifel nicolaus & co. downgraded the charge-card issuer to hold from buy <PUNC>
-boeing co. ba was the second hardest hit among the blue chips on concern the aerospace manufacturer might again delay its <NUM> dreamliner <PUNC>
-and intel corp. intc slid after the wall street journal reported that european regulators were reviewing the chip maker s proposed acquisition of mcafee inc <PUNC>
-<PAR>

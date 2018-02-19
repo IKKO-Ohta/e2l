@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-it reached a fresh 17-month intraday high at <NUM> <PUNC>
-boeing ba was the measure s best performer <COMMA> up <NUM> percent <COMMA> after the company announced plans to raise production of its <NUM> and <NUM> aircraft earlier than anticipated amid increasing demand in the airplane industry <PUNC>
-alcoa aa was also particularly strong <COMMA> up <NUM> percent <PUNC>
-<PAR>

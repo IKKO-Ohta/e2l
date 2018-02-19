@@ -1,5 +1,0 @@
-the dow jones industrial average dji edged up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-the nasdaq composite rixf rose less than a point to <NUM> and the standard & poor s <NUM> index spx eked out a gain of <NUM> point to <NUM> <COMMA> boosted by gains for shares among its consumer-discretionary components <PUNC>
-on wednesday <COMMA> data on private-sector jobs for the month of august disappointed <COMMA> yet the dow had its biggest one-day gain in nearly two months thanks to better-than-expected manufacturing data that gave investors the ray of hope they were looking for <PUNC>
-the bidding war between hewlett-packard co. hpq and dell inc. dell over 3par inc. par took a fresh turn <COMMA> with dow component h-p raising its latest offer to dollar <NUM> a share from dollar <NUM> <PUNC>
-<PAR>

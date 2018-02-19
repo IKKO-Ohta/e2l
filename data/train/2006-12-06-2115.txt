@@ -1,3 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points to close at <NUM> <PUNC>
-dow-component merck mrk fell nearly <NUM> percent after the drug maker reaffirmed its flattish earnings forecasts for <NUM> and slightly higher earnings for <NUM> <PUNC>
-<PAR>

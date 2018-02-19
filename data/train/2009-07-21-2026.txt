@@ -1,5 +1,0 @@
-on tuesday <COMMA> shares of caterpillar cat closed <NUM> percent higher after the heavy-equipment maker reported second-quarter results and boosted its full-year outlook <PUNC>
-<PAR>
-caterpillar paced gains on the dow jones industrial average dji <COMMA> which forfeited a nearly 80-point rise before reassembling nearly all of that advance as the closing bell neared <COMMA> finishing up about <NUM> points <PUNC>
-the s&p <NUM> spx edged higher by <NUM> points <COMMA> while the nasdaq composite rixf rose almost <NUM> points <COMMA> extending its winning streak to <NUM> sessions <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-at the same time <COMMA> investors continued to seek the safety of gold and treasurys <PUNC>
-while investors do not want to miss out on the market s recent surge <COMMA> many are still skeptical of the rally s sustainability <PUNC>
-the benchmark indexes have all climbed significantly since the month s start <COMMA> with the dow up nearly <NUM> percent for september and the standard & poor s 500-share index up <NUM> percent month-to-date <PUNC>
-but investors have been reluctant to leave the safety of treasurys <COMMA> and the yield on the benchmark 10-year note ust10y fell friday to <NUM> percent <COMMA> as prices rose <PUNC>
-j.p. morgan chase & co. jpm led the financial stocks lower <COMMA> with shares falling <NUM> percent as the bank continued to struggle with the fallout from problems with its online banking website <PUNC>
-bank of america corp. bac shares fell <NUM> percent <COMMA> while morgan stanley ms shed <NUM> percent <PUNC>
-<PAR>

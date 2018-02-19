@@ -1,9 +1,0 @@
-new york dow jones u.s. stocks fell sharply tuesday <COMMA> taking the dow industrials down by more than <NUM> points and within less than <NUM> points of the <NUM> level <COMMA> as credit concerns came back to the fore <PUNC>
-the dow jones industrial average dji finished down <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components fell <COMMA> led by big drops in shares of wal-mart and home depot <PUNC>
-wal-mart wmt cut its earnings outlook for the year <COMMA> saying second-quarter performance was less than expected and many of its customers are under economic pressure <PUNC>
-its stock fell <NUM> percent <PUNC>
-home depot hd reported a <NUM> percent profit decline and projected weakness in the housing market would extend into <NUM> <PUNC>
-its stock was off <NUM> percent <PUNC>
-on monday <COMMA> wall street reversed early gains to end slightly lower amid worries over when and where the next credit-related trouble would hit <PUNC>
-the dow industrials ended <NUM> points lower <COMMA> the s&p <NUM> was down a fraction of a point and the nasdaq composite declined <NUM> points <PUNC>
-<PAR>

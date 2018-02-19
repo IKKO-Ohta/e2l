@@ -1,8 +1,0 @@
-the dow jones industrial average dji was off a session high of <NUM> <COMMA> down <NUM> points at <NUM> <PUNC>
-dow component ibm ibm shares dipped <NUM> cents to dollar <NUM> <PUNC>
-the company late thursday said the sec s informal probe into ibm s disclosures of its expensing of equity compensation is now a formal investigation <PUNC>
-general motors gm <COMMA> also in the dow <COMMA> fell <NUM> cents to dollar <NUM> as the carmaker pledged improved results for <NUM> <COMMA> but declined to provide a specific financial outlook for the year <COMMA> citing a number of uncertainties that could affect its business <PUNC>
-these include issues with parts supplier delphi dphiq <COMMA> the potential sale of a stake in gmac <COMMA> its financing arm and the timing of the implementation of a new healthcare agreement with the united auto workers union <PUNC>
-shares in hewlett-packard co. hpq rose as much as <NUM> percent to a near five-year high of dollar <NUM> after goldman sachs upgraded the computer and printer maker to outperform from in-line <COMMA> given improvements in all of the company s businesses <PUNC>
-shares in american international group aig were up <NUM> cents at dollar <NUM> amid hopes it is poised to settle a number of civil-fraud investigations linked to improper accounting maneuvers in recent years to polish its results <PUNC>
-<PAR>

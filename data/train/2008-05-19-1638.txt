@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in positive territory <COMMA> led by shares of alcoa inc. gm <COMMA> boeing co. ba and chevron corp. cvx <PUNC>
-shares of blue-chip stock home depot hd dipped <NUM> percent <COMMA> tracking a <NUM> percent drop in shares of rival lowe s low <COMMA> the nation s second-largest home improvement retailer <COMMA> which posted an <NUM> percent profit fall <PUNC>
-microsoft msft fell <NUM> percent after saying it s back in talks with internet portal yahoo yhoo on a deal that would not involve a full acquisition <PUNC>
-microsoft had pulled its offer for yahoo just two weeks ago <PUNC>
-<PAR>

@@ -1,8 +1,0 @@
-u.s. stocks turned negative thursday <COMMA> capping a three-day surge that had the dow gaining the most in nearly four years <COMMA> as credit worries turned global <COMMA> with the european central bank and the federal reserve advancing cash to capital markets <PUNC>
-after shedding <NUM> points <COMMA> the dow jones industrial average dji trimmed its losses to <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <COMMA> including citicorp inc. c <COMMA> which was down <NUM> percent <COMMA> leading a slump in the financial sector that also hit jp morgan chase co. jpm <COMMA> with its stock off <NUM> percent <PUNC>
-dow component american international group inc. aig fell <NUM> percent after the world s largest insurer said residential mortgage delinquencies and defaults are climbing <COMMA> signaling damage in the mortgage market could be expanding <PUNC>
-separately <COMMA> wal-mart stores wmt said its july sales at stores open at least one year rose <NUM> percent <PUNC>
-analysts <COMMA> on average <COMMA> had expected the same-store sales to rise <NUM> percent <PUNC>
-u.s. stocks closed higher wednesday after a volatile trading say that saw the dow claw its way back from a 190-point deficit in the final hour of trading as investors remained positive about the federal reserve s assessment of economic growth and also cheered an upbeat outlook from cisco systems <PUNC>
-the s&p <NUM> closed up <NUM> points and the dow industrials were <NUM> points ahead at the close <PUNC>
-<PAR>

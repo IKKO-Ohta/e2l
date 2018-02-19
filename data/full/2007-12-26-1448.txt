@@ -1,5 +1,0 @@
-the dow jones industrial average dji declined <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> only nine were trading higher <PUNC>
-among the biggest decliners home depot inc. hd dropped <NUM> percent at dollar <NUM> <COMMA> general motors gm fell <NUM> percent at dollar <NUM> and wal-mart stores inc. wmt fell <NUM> percent at dollar <NUM> <PUNC>
-in a shortened trading session monday <COMMA> the dow rose <NUM> points <COMMA> or <NUM> percent <COMMA> to finish at <NUM> <PUNC>
-<PAR>

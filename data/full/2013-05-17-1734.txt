@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with plane maker boeing co. ba leading blue-chip gains <PUNC>
-off the dow <COMMA> northrop grumman corp. noc gained <NUM> percent after the weapons manufacturer said it would expand its share-buyback program <PUNC>
-<PAR>

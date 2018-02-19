@@ -1,8 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <PUNC>
-leading the measure <COMMA> caterpillar cat shot up <NUM> percent after reporting a first-quarter profit of <NUM> cents a share <COMMA> compared with a loss of <NUM> cents in the year-ago period <PUNC>
-the heavy machinery company also raised its <NUM> outlook for revenue and profit <COMMA> and signaled optimism on the economic recovery <COMMA> noting industry activity and orders are significantly higher than last year <PUNC>
-merck mrk rose <NUM> percent <COMMA> while alcoa aa gained <NUM> percent as metals futures rose <PUNC>
-meanwhile the dow s financial components sank after key senate democrats reached a tentative deal on sweeping new rules for the derivatives market that is expected to force major wall street banks to spin off their swaps desks <PUNC>
-under the deal <COMMA> banks would have to spin off their derivatives trading desks in order to be eligible for federal financial assistance from the federal reserve and federal deposit insurance corp. j.p. morgan chase jpm slid <NUM> percent <COMMA> while bank of america bac fell <NUM> percent <PUNC>
-goldman sachs gs <COMMA> not a dow component <COMMA> fell <NUM> percent while citigroup c tumbled <NUM> percent and morgan stanley ms edged down <NUM> percent <PUNC>
-<PAR>

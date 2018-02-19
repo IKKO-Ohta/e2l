@@ -1,6 +1,0 @@
-after slumping more than <NUM> points earlier on <COMMA> the dow jones industrial average dji was recently off <NUM> points at <NUM> <PUNC>
-the s&p <NUM> spx gained <NUM> points to <NUM> <COMMA> and the nasdaq composite rixf gained <NUM> to <NUM> <PUNC>
-last month <COMMA> the dow lost <NUM> points <COMMA> or <NUM> percent <COMMA> marking the blue-chip index s worst january performance in both point and percentage terms in its 113-year history <PUNC>
-the second worst january came in <NUM> when the dow fell <NUM> percent <COMMA> and then went on to a full-year decline of <NUM> percent <PUNC>
-tuesday brings results from a broad mix of companies <COMMA> including archer daniels midland co. adm <COMMA> dow chemical co. dow <COMMA> merck & co. inc. mrk <COMMA> walt disney co. dis and motorola inc. mot <PUNC>
-<PAR>

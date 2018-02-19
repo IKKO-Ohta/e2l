@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-earlier the dow touched <NUM> <COMMA> a level that often spooks the market <PUNC>
-international business machines ibm <COMMA> a dow component <COMMA> will buy micromuse muse for dollar <NUM> million in cash <PUNC>
-elsewhere on the dow <COMMA> embattled general motors gm extended its recent slide <COMMA> at one point falling <NUM> percent to dollar <NUM> <PUNC>
-investor kirk kerkorian s tracinda corp. disclosed in an sec filing that it reduced its stake in the automaker to <NUM> percent from <NUM> percent by selling <NUM> million shares over the past few days <PUNC>
-<PAR>

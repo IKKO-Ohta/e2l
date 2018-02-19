@@ -1,4 +1,0 @@
-meanwhile <COMMA> futures for the dow jones industrials average slipped <NUM> points to <NUM> <PUNC>
-on wednesday <COMMA> u.s. stocks shook off early weakness to close higher <COMMA> with the dow industrials rising for a third-straight session to end at record high <COMMA> as investors viewed democratic control of congress as a neutral for the markets <COMMA> and were optimistic about the resignation of defense secretary donald rumsfeld. <PUNC>
-dow component 3m co. mmm said it would sell its global branded pharmaceutical business for a total of dollar <NUM> billion. <PUNC>
-<PAR>

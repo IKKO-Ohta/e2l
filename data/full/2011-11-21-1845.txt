@@ -1,2 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> with boeing co. ba the leading decliner among its <NUM> components <COMMA> all of which lost ground <PUNC>
-<PAR>

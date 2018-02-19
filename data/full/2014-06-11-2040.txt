@@ -1,2 +1,0 @@
-the u.s. stock market fell on wednesday <COMMA> with the dow jones industrial average snapping a five-day winning streak and retreating from the record level reached on tuesday <PUNC>
-<PAR>

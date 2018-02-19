@@ -1,6 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to end at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-microsoft corp. msft led the dow s limited advance <PUNC> its stock gained <NUM> percent on the debut of its halo <NUM> video game <PUNC>
-home depot inc. hd fronted the dow s losses <COMMA> its stock off <NUM> percent <PUNC>
-wal-mart stores inc. wmt also weighed on the index <COMMA> its stock off 1.% <PUNC>
-dow component general motors corp. gm fell <NUM> percent with shares of the automaker under pressure for a second day in the wake of a united auto workers strike called monday <PUNC>
-<PAR>

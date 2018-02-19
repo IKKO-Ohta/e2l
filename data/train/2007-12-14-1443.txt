@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-u.s. stocks remained under pressure thursday <COMMA> closing mixed <COMMA> though honeywell international s earnings forecasts helping lift sentiment on industrials <PUNC>
-the dow ended up <NUM> points <COMMA> while the nasdaq composite index ended the day down <NUM> points <PUNC>
-<PAR>

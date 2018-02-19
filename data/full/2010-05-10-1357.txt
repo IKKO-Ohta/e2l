@@ -1,4 +1,0 @@
-u.s. stocks leapt at monday s start <COMMA> with the dow average up more than <NUM> points in early trading <COMMA> after european union leaders agreed on a near dollar <NUM> trillion rescue package and the federal reserve said it would offer loans overseas <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with all but one of its <NUM> components rising <PUNC>
-stocks were volatile last week with the dow declining <NUM> percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-the dow jones industrial average dji tumbled <NUM> points <COMMA> or nearly <NUM> percent <COMMA> to finish at <NUM> <PUNC>
-the blue-chip index shed <NUM> percent for the week <PUNC>
-shares of visa inc. v fell <NUM> percent <COMMA> making it the dow s worst performer <COMMA> after the credit-card company reported a revenue miss late thursday <PUNC>
-on the plus side <COMMA> microsoft corp. msft edged up <NUM> percent after the software giant late thursday reported fiscal third-quarter profit that topped expectations <PUNC>
-read <PUNC> analysts see microsoft making strides as challenges remain <PUNC>
-<PAR>

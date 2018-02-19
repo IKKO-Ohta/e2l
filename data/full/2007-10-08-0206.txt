@@ -1,5 +1,0 @@
-the first week of the fourth quarter ended as it had started <COMMA> with stocks rallying to record highs <PUNC>
-on monday <COMMA> the dow jones industrial average dji surged <NUM> points after banking giant citigroup inc. c revealed the extent of its credit-market pain so far <PUNC> earnings will be <NUM> percent <COMMA> or dollar <NUM> billion <COMMA> below the year-earlier quarter <PUNC>
-the dow ended <NUM> points higher on the day <COMMA> after hitting a record intraday high of <NUM> <COMMA> and finished with a weekly gain of <NUM> percent <PUNC>
-alcoa inc. aa <COMMA> which traditionally kicks off earnings season <COMMA> will reports its results on tuesday <PUNC>
-<PAR>

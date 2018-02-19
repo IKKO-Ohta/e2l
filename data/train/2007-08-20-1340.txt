@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-the fed moved to reassure investors friday by cutting its discount rate <COMMA> the interest in charges on its loans to banks <COMMA> by a half-point to <NUM> percent <COMMA> and said it stands ready to do more <PUNC>
-u.s. stocks jumped in response <COMMA> with the dow industrials climbing <NUM> points <COMMA> the nasdaq composite up <NUM> points and the s&p <NUM> adding <NUM> points <PUNC>
-among dow components <COMMA> american express co. axp gained <NUM> percent after london s sunday times reported the company had put its private banking business on the block <PUNC>
-<PAR>

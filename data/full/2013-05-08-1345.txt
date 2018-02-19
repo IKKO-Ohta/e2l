@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> after closing above <NUM> for the first time on tuesday <PUNC>
-the dow industrials touched tuesday an intraday high of <NUM> before closing at a record <NUM> <COMMA> a gain of <NUM> points <PUNC>
-the s&p <NUM> index closed at a record for the fourth straight session <COMMA> up <NUM> points to <NUM> <PUNC>
-read <PUNC> dow s hitting new highs but are you <PUNC>
-dow component walt disney co. dis said late tuesday its fiscal second-quarter profit rose a better-than-expected <NUM> percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-new york marketwatch the u.s. stock market closed slightly higher wednesday <COMMA> with the dow jones industrial average reaching a record high <PUNC>
-the s&p <NUM> spx rose <NUM> points <COMMA> or <NUM> to 2.001.57 <PUNC>
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
-the nasdaq composite rixf gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-dupont dd shares rose <NUM> percent after an investor urged a breakup of the company <PUNC>
-<PAR>

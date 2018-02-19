@@ -1,6 +1,0 @@
-in early action <COMMA> the dow jones industrial average dji was off <NUM> points to <NUM> <PUNC>
-u.s. stocks surged on tuesday in a session that led traders and analysts to debate whether a bottom has been reached or if simply a bear-market rally unfolded <PUNC>
-the dow jones industrial average surged <NUM> points <COMMA> its second biggest-point jump ever <PUNC>
-consumer products heavyweights kraft foods inc. kft and procter & gamble co. pg each reported solid results - kraft raised its <NUM> earnings outlook and p&g topped third-quarter estimates <PUNC>
-the dow components were mixed in early trade <PUNC>
-<PAR>

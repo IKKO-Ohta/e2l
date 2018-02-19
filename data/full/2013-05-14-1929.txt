@@ -1,5 +1,0 @@
-u.s. stocks rose <COMMA> with the dow jones industrial average and s&p <NUM> on track for record closes <COMMA> as wall street embraced the view of a still-improving economy <PUNC>
-after advancing each of the past <NUM> tuesdays <COMMA> the dow dji was on track for an 18th tuesday gain <PUNC>
-after climbing as much as <NUM> points <COMMA> the dow was lately up <NUM> points at <NUM> <COMMA> with all but five of its <NUM> components advancing <PUNC>
-interestingly <COMMA> if one takes out those tuesday gains <COMMA> the dow has not done all that much this year <COMMA> wrote saut <PUNC>
-<PAR>

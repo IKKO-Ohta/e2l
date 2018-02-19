@@ -1,5 +1,0 @@
-after coming within <NUM> points of its all-time closing high of <NUM> <COMMA> set on oct. <NUM> <COMMA> <NUM> <COMMA> the dow jones industrial average dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-it rose <NUM> percent for the month for its third straight monthly gain <PUNC>
-it s now <NUM> points from its record high <PUNC>
-see hulbert on whether blue-chip index is setting a bearish trap <PUNC>
-<PAR>

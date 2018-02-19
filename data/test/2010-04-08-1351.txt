@@ -1,3 +1,0 @@
-the dow jones industrial average dji <COMMA> which entered thursday s trading on a two-day losing streak <COMMA> recently shed <NUM> points <COMMA> or <NUM> percent <COMMA> to trade at <NUM> <PUNC>
-the dow jones transportation average edged up <NUM> percent <PUNC>
-<PAR>

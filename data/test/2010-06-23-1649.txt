@@ -1,3 +1,0 @@
-the dow jones industrial average dji was off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> led by a <NUM> percent decline in chevron cvx which suffered from a tumble in oil prices <PUNC>
-crude futures were recently off dollar <NUM> to dollar <NUM> a barrel <COMMA> hurt by new data from the energy information administration showing a larger-than-expected rise in u.s. inventories of the commodity <PUNC>
-<PAR>

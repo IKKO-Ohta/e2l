@@ -1,5 +1,0 @@
-the dow jones industrial average dji traded down <NUM> points at <NUM> <PUNC>
-hewlett-packard hpq shares led decliners <COMMA> dropping <NUM> percent <PUNC>
-on the upside <COMMA> shares of home depot inc. hd gained <NUM> percent after the home-improvement retailer said its fiscal first-quarter profit rose <NUM> percent as expense control helped make up for a slip in sales <PUNC>
-wal-mart stores inc. wmt <COMMA> also a dow component <COMMA> slipped <NUM> percent after the world s largest retailer said first-quarter profit rose <NUM> percent <COMMA> after demand from china and mexico offset a drop in same-store sales for its u.s. unit <PUNC>
-<PAR>

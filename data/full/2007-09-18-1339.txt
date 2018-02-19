@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components ahead <PUNC>
-general motors gm slid in pre-open trade after goldman sachs downgraded the automaker s stock to neutral from buy <COMMA> saying likely union concessions are priced into the stock <PUNC>
-procter & gamble pg reiterated quarterly profit and sales forecasts <PUNC>
-<PAR>

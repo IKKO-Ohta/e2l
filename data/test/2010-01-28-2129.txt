@@ -1,6 +1,0 @@
-the dow jones industrial average dji ended down <NUM> points <COMMA> off <NUM> percent <COMMA> at <NUM> <PUNC>
-with one trading day to go in january <COMMA> the blue-chip measure has fallen <NUM> percent <COMMA> on pace for its worst monthly loss since february <NUM> <COMMA> shortly before the dow hit a 12-year low <PUNC>
-in recent years <COMMA> january hasn t been good for stocks <COMMA> with <NUM> likely to mark the third straight year that stocks fell in the month <PUNC>
-however <COMMA> the bulk of this january s declines have come over the last seven days <PUNC>
-the dow reached a 15-month closing high for the year on jan. <NUM> and has quickly lost some <NUM> points <COMMA> or <NUM> percent <COMMA> since then <PUNC>
-<PAR>

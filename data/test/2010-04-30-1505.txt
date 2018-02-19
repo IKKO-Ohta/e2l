@@ -1,6 +1,0 @@
-the dow jones industrial average dji <COMMA> however <COMMA> struggled to turn higher <PUNC>
-the measure of large <COMMA> established u.s. companies briefly turned up and recently <NUM> points lower at <NUM> <PUNC>
-j.p. morgan chase jpm led the measure s declines with a drop of <NUM> percent <COMMA> while bank of america corp. bac slid <NUM> percent <COMMA> as investors grew increasingly concerned about how a criminal investigation into goldman could eventually affect other big banks <PUNC>
-despite friday s stock declines <COMMA> the dow is on track to close up its third-straight month of gains <COMMA> despite some turbulent days when instability in greece and news of the fraud charges against goldman sachs roiled markets <PUNC>
-the measure has gained over <NUM> of the last <NUM> months <PUNC>
-<PAR>

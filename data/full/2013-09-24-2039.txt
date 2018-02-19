@@ -1,5 +1,0 @@
-u.s. stocks ended mostly lower <COMMA> with the dow jones industrial average and the s&p <NUM> extending their losing streaks to four days <COMMA> as a drop in consumer confidence and worries over a washington debt-ceiling fight outweighed a rise in home prices and easing concerns over the middle east <PUNC>
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> while the s&p <NUM> spx shed <NUM> points <COMMA> or <NUM> percent <COMMA> to 1,697.42. <PUNC>
-visa inc. v <COMMA> verizon communications vz and j.p. morgan chase & co. jpm led the dow lower <PUNC>
-visa and verizon each lost <NUM> percent <COMMA> while j.p. morgan posted a <NUM> percent drop <PUNC>
-<PAR>

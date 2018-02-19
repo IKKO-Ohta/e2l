@@ -1,4 +1,0 @@
-the dow jones industrial average dji coming off its first two-day winning streak in more than a month <COMMA> recently traded below the 10,000-point level <COMMA> down <NUM> points <COMMA> or <NUM> percent <PUNC>
-all <NUM> of its components were lower <COMMA> including declines of more than <NUM> percent each in shares of american express axp <COMMA> boeing ba <COMMA> caterpillar cat <COMMA> general electric ge and home depot hd <PUNC>
-the dow and other averages set fresh intraday lows around midday as the euro cur_eurusd fell below the dollar <NUM> level <COMMA> triggering technical selling <PUNC>
-<PAR>

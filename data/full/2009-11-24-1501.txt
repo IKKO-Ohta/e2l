@@ -1,4 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> recently <PUNC>
-boeing ba led the measure s declines <COMMA> dropping <NUM> percent <PUNC>
-hewlett-packard hpq was also among the measure s worst performers <COMMA> falling <NUM> percent despite the company reporting a <NUM> percent jump in quarterly profit <COMMA> as investors were disappointed by an <NUM> percent drop in revenue in the quarter <PUNC>
-<PAR>

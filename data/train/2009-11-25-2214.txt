@@ -1,7 +1,0 @@
-dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its highest close this year <PUNC>
-caterpillar inc. cat was its strongest component <COMMA> up <NUM> percent <PUNC>
-the dow s gains were held in check by a <NUM> percent drop in kraft foods kft <COMMA> which met wednesday with labor representatives for cadbury plc s cby workers <PUNC>
-a spokeswoman for the union said kraft didn t give the assurances the union wanted <PUNC>
-wednesday s trading differed significantly from last year s pre-thanksgiving session <COMMA> when the dow leapt <NUM> points on composite nyse volume of <NUM> billion shares <PUNC>
-at that time <COMMA> the market was still volatile in the wake of the mid-september meltdown of lehman brothers <COMMA> which marked the start of a broader crisis on wall street <PUNC>
-<PAR>

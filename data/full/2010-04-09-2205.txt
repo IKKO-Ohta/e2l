@@ -1,8 +1,0 @@
-the dow jones industrial average briefly broke through the <NUM> milestone for the first time since late september <NUM> on friday <COMMA> though it failed to hold above that milestone at the close <COMMA> hurt by technical selling and weakness in the basic-materials sector following an analyst downgrade of alcoa <PUNC>
-the dow dji posted an late-day high of <NUM> before trimming its gains to finish at a fresh 18-month high <NUM> <COMMA> up <NUM> percent <PUNC>
-the nasdaq composite index rixf and s&p <NUM> index spx each rose <NUM> percent <PUNC>
-energy stocks led the way higher following a rose profit forecast from chevron corp. cvx <COMMA> which rallied <NUM> percent <PUNC>
-rival exxon mobil corp. xom rose <NUM> percent <PUNC>
-alcoa inc. aa was the weakest dow component <COMMA> off <NUM> percent <COMMA> after j.p. morgan chase cut its rating on the aluminum maker to neutral from overweight ahead of alcoa s profit report monday <COMMA> which will mark the unofficial start of the broader first-quarter profit season on wall street <PUNC>
-many traders expect that the flurry of reports will soon provide the impetus for the dow to finally break through the <NUM> mark on a closing basis something it failed to do three times this week after getting close <PUNC>
-<PAR>

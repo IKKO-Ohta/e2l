@@ -1,4 +1,0 @@
-the dow jones industrial average dji and s&p <NUM> index spx ended the week <NUM> percent higher <COMMA> while the nasdaq composite index rixf gained <NUM> percent <PUNC>
-still <COMMA> analysts see it as a week of earnings <COMMA> with microsoft msft among the biggest names scheduled to report quarterly results <PUNC>
-other major earnings reports next week will come from procter & gamble co. pg <COMMA> exxon mobil xom <COMMA> merck & co. mrk <COMMA> texas instruments inc. txn <COMMA> sprint nextel corp. us-s <COMMA> broadcom corp. brcm <COMMA> 3m co. mmm <COMMA> dupont dd <COMMA> dow chemical co. dow and chevron corp. cvx <PUNC>
-<PAR>

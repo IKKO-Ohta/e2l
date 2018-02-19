@@ -1,9 +1,0 @@
-u.s. stocks opened higher on tuesday <COMMA> pushing the dow jones industrial average towards the <NUM> level <COMMA> as investors cheered an upbeat earnings outlook from chip giant texas instruments inc. <COMMA> which helped offset caution ahead of key data on housing and consumer confidence <PUNC>
-the dow industrials dji were up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components advanced <PUNC>
-ibm ibm was the biggest gainer among blue chips <COMMA> rising <NUM> percent after the company raised its quarterly dividend by <NUM> cents <COMMA> and increased its stock buyback plan by dollar <NUM> billion <PUNC>
-dupont dd also helped <COMMA> rising <NUM> percent after its earnings topped expectations <PUNC>
-after pausing on monday <COMMA> investors are again trying to take the dow to <NUM> <COMMA> a key psychological level <PUNC>
-the market retreated monday as investors consolidated last week s strong gains and weighed a <NUM> percent surge in crude oil prices <PUNC>
-on the dow <COMMA> fellow chip-market intel corp. intc rose <NUM> percent <COMMA> while on the nasdaq <COMMA> sandisk sndk gained <NUM> percent <PUNC>
-on the dow <COMMA> at&t t rose <NUM> percent after the telecom firm posted earnings <COMMA> adjusted for one-time costs <COMMA> which topped analysts forecasts <PUNC>
-<PAR>

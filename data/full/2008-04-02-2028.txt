@@ -1,4 +1,0 @@
-shifting up and down in a 140-point range throughout the day <COMMA> the dow jones industrial average dji was more recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components tallying declines <COMMA> led by merck & co. mrk <COMMA> off <NUM> percent <PUNC>
-blue-chip gains were fronted by general motors corp. gm <COMMA> which gained <NUM> percent <PUNC>
-financials <COMMA> which led a major equities rally on tuesday <COMMA> offered a mixed finish among blue chips <COMMA> with citigroup inc. c up <NUM> percent <COMMA> american express co. axp off <NUM> percent <COMMA> and american international group inc. aig down <NUM> percent <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-comcast cmcsa and ge ge were among the top gainers in the s&p <NUM> <COMMA> rising <NUM> percent and <NUM> percent <COMMA> respectively <PUNC>
-the two companies said late tuesday that cable operator comcast will buy ge s <NUM> percent stake in the nbcuniversal joint venture <PUNC>
-comcast also lifted its dividend and said it planned to buy back dollar <NUM> billion of stock this year <PUNC>
-ge was the top gainer in the dow jones industrial average dji <COMMA> which slipped marginally to <NUM> <PUNC>
-shares of fast-food giant mcdonald s corp. mcd dropped <NUM> percent <COMMA> weighing on the dow <PUNC>
-investors will be looking to see whether markets can keep up the momentum from the prior session <COMMA> when the dow rose <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <COMMA> a five-year high <PUNC>
-<PAR>

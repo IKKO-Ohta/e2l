@@ -1,9 +1,0 @@
-the s&p <NUM> index eked out gains to end at another all-time high on friday <COMMA> while losses for the technology sector weighed on the dow industrials and the nasdaq composite after disappointing earnings from advanced micro devices inc. and microsoft corp <PUNC>
-disappointing results from the technology sector include wednesday s report from chip manufacturer and dow component intel corp. intc <PUNC>
-leading blue-chip losses <COMMA> microsoft msft fell more than <NUM> percent <COMMA> a day after the software manufacturer and dow component reported quarterly results below expectations <PUNC>
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-for the week <COMMA> it gained <NUM> percent <PUNC>
-the dow and s&p <NUM> posted a fourth straight week of gains <PUNC>
-general electric ge shares rose <NUM> percent after the jet-engine manufacturer and dow component reported a better-than-expected profit in the second quarter <PUNC>
-on thursday <COMMA> u.s. stocks rose <COMMA> lifting the dow jones industrial average and the s&p <NUM> to record finishes <COMMA> after earnings from unitedhealth group inc. unh and morgan stanley ms topped estimates and jobless claims fell to a two-month low <PUNC>
-<PAR>

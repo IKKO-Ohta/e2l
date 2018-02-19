@@ -1,3 +1,0 @@
-the dow jones industrial average dji <COMMA> the s&p <NUM> index spx <COMMA> and the nasdaq composite index rixf all finished the week lower even after friday s strong rebound <PUNC>
-next week <COMMA> reports will kick into high gear with the bulk of earnings coming out of the financials sector starting with j.p morgan jpm <COMMA> citigroup inc. c <COMMA> and wells fargo & co. wfc reporting oct. <NUM> <PUNC>
-<PAR>

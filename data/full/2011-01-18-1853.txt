@@ -1,6 +1,0 @@
-u.s. stocks on tuesday tallied mild gains <COMMA> with the dow industrials boosted by aircraft maker boeing co. amid disappointing earnings from citigroup inc. and concerns about apple inc <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components higher <PUNC>
-boeing co. ba led the blue chips <COMMA> its shares rising <NUM> percent after the company said it now expects to deliver its new <NUM> jet in the third quarter <PUNC>
-the dow on friday finished a seventh straight week higher <COMMA> ending at its highest level since mid-2008 <PUNC>
-u.s. financial markets were closed monday <PUNC>
-<PAR>

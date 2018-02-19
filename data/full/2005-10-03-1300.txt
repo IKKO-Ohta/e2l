@@ -1,6 +1,0 @@
-on friday <COMMA> stocks ended higher as the dow jones industrial average posted its first gain for the month of september in seven years and all three major averages realized gains for the third quarter <PUNC>
-the dow industrials dji closed up <NUM> points at <NUM> <PUNC>
-the dow jones industrial average has posted fourth-quarter gains for the last seven years <PUNC>
-both the nasdaq composite and the s&p <NUM> index meanwhile have gained for the last four years in a row <PUNC>
-shares of altria group inc. mo tacked on <NUM> cents to dollar <NUM> in instinet pre-open trading after goldman sachs raised its fair value estimate for the food and tobacco giant to by dollar <NUM> to dollar <NUM> <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the dow jones industrial average dji last was off <NUM> points at <NUM> <COMMA> with losses limited by a <NUM> percent gain for component hewlett-packard corp hpq <PUNC>
-on wednesday <COMMA> u.s. stocks shook off early weakness to close higher <COMMA> with the dow industrials rising for a third-straight session to end at a record as investors viewed democratic control of congress as a neutral for the markets <COMMA> and were optimistic about the resignation of defense secretary donald rumsfeld. <PUNC>
-dow component 3m co. mmm said it would sell its global branded pharmaceutical business for a total of dollar <NUM> billion <PUNC>
-that stock rose <NUM> cents to dollar <NUM> <PUNC>
-hewlett-packard hpq <COMMA> also in the dow <COMMA> rose after goldman sachs raised earnings estimates and the price target for the stock <PUNC>
-the stock gained <NUM> percent to dollar <NUM> <PUNC>
-<PAR>

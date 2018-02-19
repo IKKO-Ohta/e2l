@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-microsoft msft led the blue-chip index s gains <COMMA> rising <NUM> percent <COMMA> while alcoa aa gained <NUM> percent and home depot hd rose <NUM> percent <PUNC>
-thursday s stock-market gains come after global financial markets soared on wednesday as soothing news out of china <COMMA> europe and the u.s. buoyed investor confidence in the world s economic recovery <PUNC>
-the dow gained <NUM> points on wednesday <COMMA> its best day in three months and sixth-largest gain of <NUM> <PUNC>
-<PAR>

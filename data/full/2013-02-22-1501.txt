@@ -1,2 +1,0 @@
-the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with h-p hpq shares leading the gains a day after reported quarterly revenue that topped estimates <PUNC>
-<PAR>

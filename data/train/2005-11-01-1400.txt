@@ -1,6 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> but fell <NUM> percent on the month <PUNC>
-there was better news on the earnings front out of consumer products giant <COMMA> procter & gamble <PUNC>
-pg <PUNC>
-the company s results came in a penny ahead of analyst estimates as unit volume rose <NUM> percent in the period <PUNC>
-shares in the dow component were up <NUM> percent at dollar <NUM> in thin pre-market dealings <PUNC>
-<PAR>

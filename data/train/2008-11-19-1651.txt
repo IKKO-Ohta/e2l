@@ -1,6 +1,0 @@
-after climbing in and out of positive and negative turf <COMMA> the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-shares of general motors corp. gm paced the blue chips decline <COMMA> with shares of the automaker down <NUM> percent <PUNC>
-on tuesday <COMMA> u.s. stocks ended higher after a run-up in the final hour of trade <COMMA> with the dow jones industrial average striking its third advance in <NUM> sessions <PUNC>
-at tuesday s close <COMMA> the dow jones industrial average was down <NUM> percent in november <COMMA> according to a preliminary report from the dow jones indexes <PUNC>
-year-to-date <COMMA> the blue-chip index was down <NUM> percent <PUNC>
-<PAR>

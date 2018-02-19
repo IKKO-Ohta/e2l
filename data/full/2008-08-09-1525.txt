@@ -1,4 +1,0 @@
-stocks rallied friday with the dow jones industrial average gaining <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index rose <NUM> points to <NUM> <COMMA> while the nasdaq composite added <NUM> points to <NUM> <PUNC>
-for the week <COMMA> the dow added <NUM> percent <COMMA> the s&p <NUM> rose <NUM> percent <COMMA> while the nasdaq gained <NUM> percent <PUNC>
-<PAR>

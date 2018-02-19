@@ -1,3 +1,0 @@
-stocks rallied late in the week to snap a two-week losing streak <PUNC>
-the dow jones industrial average dji gained <NUM> percent <COMMA> the s&p <NUM> index spx rose <NUM> percent <COMMA> and the nasdaq composite index rixf added <NUM> percent from the previous friday <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-u.s. stocks traded lower thursday afternoon <COMMA> with the dow jones industrial average pacing the decline <COMMA> as investors worried a spike in long-term interest rates could hurt economic growth <PUNC>
-the dow industrials dji were down <NUM> points at <NUM> after climbing as high as <NUM> earlier in the session <PUNC>
-shares in general electric co. ge rose <NUM> percent to dollar <NUM> after morgan stanley said it believes the stock could double in three years <COMMA> citing expected improvements in margins and returns on invested capital <PUNC>
-the broker also lifted its price target on the conglomerate by dollar <NUM> to dollar <NUM> <PUNC>
-general motors corp. gm was off <NUM> percent at dollar <NUM> <PUNC>
-the troubled car maker is discussing the sale of its stake in isuzu motors that is worth about dollar <NUM> million <PUNC>
-<PAR>

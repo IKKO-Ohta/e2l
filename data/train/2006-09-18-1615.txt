@@ -1,9 +1,0 @@
-the dow jones industrial average dji was off just <NUM> points at <NUM> <PUNC>
-september has been quite friendly so far and we could see the dow jones industrials set a new high <COMMA> said peter cardillo <COMMA> chief market strategist at s.w <PUNC>
-bach <PUNC>
-the blue-chip barometer s now in striking distance of its all-time high of <NUM> <COMMA> reached on january <NUM> <COMMA> <NUM> <PUNC>
-the auto sector came under pressure after a news report that general motors corp. gm and ford motor co. f have discussed a possible alliance <PUNC>
-the wall street journal s online edition reported that the two auto makers have abandoned the possibility after brief discussions <COMMA> however <PUNC>
-researchers at intel corp. intc and the university of california <COMMA> santa barbara <COMMA> are claiming a breakthrough in creating lasers on computer chips <COMMA> a development that could lead to sharp reductions in the cost of ultrafast data communications <PUNC>
-shares of intel <COMMA> a member of the dow jones industrial average <COMMA> rose <NUM> cents to dollar <NUM> <PUNC>
-<PAR>

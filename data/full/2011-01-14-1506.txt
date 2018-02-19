@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the standard & poor s <NUM> index spx was near neutral at <NUM> <COMMA> while the nasdaq composite index rixf fell <NUM> points to <NUM> <PUNC>
-<PAR>

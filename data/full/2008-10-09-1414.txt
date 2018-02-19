@@ -1,8 +1,0 @@
-the dow jones industrial average dji added <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher in the early going <PUNC>
-bank of america corp. bac led blue-chip gains <COMMA> its recently battered stock climbing <NUM> percent <PUNC>
-general motors corp. gm proved the heaviest weight on the dow industrials <COMMA> with the automaker s stock falling <NUM> percent <PUNC>
-the dow jones industrial average hit its peak exactly one year ago <COMMA> and has since lost nearly <NUM> percent of its value <PUNC>
-the technology-heavy nasdaq composite rixf rose <NUM> points to <NUM> <COMMA> bolstered by ibm ibm releasing its third-quarter earnings ahead of schedule <COMMA> reporting a <NUM> percent profit rise and reiterating its <NUM> outlook <PUNC>
-the stock market s advance comes one day after the u.s. federal reserve <COMMA> european central bank <COMMA> bank of england and other central banks made coordinated rate cuts <PUNC>
-the moves seemed to make little impact on wednesday with the dow industrials dropping <NUM> points <COMMA> the nasdaq composite falling <NUM> points and the s&p <NUM> shedding <NUM> points <PUNC>
-<PAR>

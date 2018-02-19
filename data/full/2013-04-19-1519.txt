@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> slammed in large part by ibm ibm <COMMA> which was on the retreat a day after the computer-services provider missed wall street forecasts for revenue and earnings <PUNC>
-microsoft msft climbed after the software maker late wednesday reported third-quarter income that topped wall street s projections <PUNC>
-general electric co. ge fell after the jet-engine manufacturer reported profit in line with estimates <PUNC> mcdonald s corp. mcd slid after the fast-food chain reported first-quarter profit that missed estimates <PUNC>
-<PAR>

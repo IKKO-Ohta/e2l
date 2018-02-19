@@ -1,5 +1,0 @@
-the main benchmarks traded in a narrow range <COMMA> while the cboe vix index remained below <NUM> <PUNC>
-the s&p <NUM> spx closed less than a point lower at <NUM> <PUNC>
-the dow industrials dji shed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf ended the day less than a point higher at <NUM> <PUNC>
-<PAR>

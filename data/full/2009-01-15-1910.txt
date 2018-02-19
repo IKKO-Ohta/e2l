@@ -1,8 +1,0 @@
-the stock market s ongoing slide on thursday had the dow jones industrial average mired in its longest losing streak since early october in the wake of lehman brothers holdings inc. going belly up <COMMA> marking the start of the ongoing crisis for financials <PUNC>
-on the dow <COMMA> citigroup inc. c and bank of america corp. bac shed an astounding 20-plus percent of their market value within the first two hours of trade <PUNC>
-on thursday <COMMA> a triple-digit slide had the dow jones industrial average dji briefly breaching the <NUM> level <COMMA> sliding to an intraday low of <NUM> <PUNC>
-home depot inc. hd led the gains <COMMA> recently up <NUM> percent <PUNC>
-the dow s triple-digit slide marks the longest losing streak since the eight-day drop that ended oct. <NUM> <PUNC>
-that particular bout of declines ended with the dow rallying more than <NUM> points on monday <COMMA> oct. <NUM> <COMMA> on global government intervention to revive the banking sector <PUNC>
-prior to the october s eight-day run of loses <COMMA> the dow s longest losing streak involved an eight-day drop that ended sept. <NUM> <COMMA> <NUM> <PUNC>
-<PAR>

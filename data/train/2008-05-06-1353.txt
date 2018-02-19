@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points in earnly morning trade to <NUM> <PUNC>
-after the close <COMMA> walt disney co. dis and cisco systems inc. csco report quarterly financials <PUNC>
-<PAR>

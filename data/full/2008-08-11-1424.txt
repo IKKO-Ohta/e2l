@@ -1,4 +1,0 @@
-after falling more than <NUM> points early on <COMMA> the dow jones industrial average was off just <NUM> points in midmorning trades at <NUM> <COMMA> with <NUM> of its <NUM> components lower <PUNC>
-u.s. stocks had ended higher friday as strength in the dollar triggered losses for commodities <COMMA> notably oil <PUNC>
-transport and housing stocks led the advance <COMMA> while the dow industrials rallied <NUM> points <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite added <NUM> points <PUNC>
-<PAR>

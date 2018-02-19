@@ -1,6 +1,0 @@
-with less than an hour of trade left <COMMA> the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> a new four-month high <PUNC>
-wednesday s advance extended a sharp rally seen the day before when the dow industrials closed at its best level since mid-may and the nasdaq at a <NUM> 1/2-month high. <PUNC>
-shares of merck mrk fell <NUM> percent after two new studies to be published in the journal of the american medical association indicated that recalled pain reliever vioxx carries an increased risk of kidney and heart arrhythmia problems <PUNC>
-hewlett-packard hpq traded about <NUM> percent lower <PUNC>
-the company may face further difficulties after california attorney general bill lockyear said on television late-tuesday that he has seen enough evidence for indictments inside and outside the company <PUNC>
-<PAR>

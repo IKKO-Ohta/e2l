@@ -1,6 +1,0 @@
-the dow jones industrial average dji <COMMA> closed up just <NUM> points at <NUM> <COMMA> after earlier rallying more than <NUM> points <PUNC>
-gm gm fell by more than <NUM> percent to close at dollar <NUM> <COMMA> marking a 13-year low <COMMA> after a negative research note from deutsche bank raised questions about how the auto manufacturer would fare if parts supplier delphi dphiq suffers a strike <PUNC>
-shares of american international group aig threw off weakness to close <NUM> cents higher at dollar <NUM> <PUNC>
-the insurer revealed it will have to restate its financial results again and will delay its 10-q filing by five days <COMMA> after finding errors <PUNC>
-but the restatement will make the results stronger <PUNC>
-<PAR>

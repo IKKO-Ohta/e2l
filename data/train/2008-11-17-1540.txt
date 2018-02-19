@@ -1,3 +1,0 @@
-after sliding four of the last five trading days <COMMA> the dow jones industrial average dji succumbed again <COMMA> recently down <NUM> points at <NUM> <COMMA> with alcoa inc. aa bleeding the most <COMMA> off <NUM> percent <PUNC>
-just one of the blue-chip index s <NUM> components pulled into positive turf <COMMA> with general motors corp. gm up <NUM> percent <PUNC>
-<PAR>

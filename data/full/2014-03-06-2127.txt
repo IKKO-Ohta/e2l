@@ -1,2 +1,0 @@
-the dow jones industrial average dji closed <NUM> points <COMMA> or <NUM> percent <COMMA> higher at <NUM> <PUNC>
-<PAR>

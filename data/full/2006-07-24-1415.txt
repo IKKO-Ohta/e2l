@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-general motors corp. gm <COMMA> texas instruments inc. txn <COMMA> 3m co. mmm <COMMA> exxon mobil corp. xom and boeing co. ba are some of the companies slated to report this week <PUNC>
-shares in merck & co. mrk were up <NUM> percent at dollar <NUM> after the drug giant and dow component lifted its <NUM> earnings forecast on the back of greatly improved second-quarter results <PUNC>
-<PAR>

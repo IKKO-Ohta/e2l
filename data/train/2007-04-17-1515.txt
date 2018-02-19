@@ -1,9 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with its <NUM> components evenly split between gainers and losers <PUNC>
-the dow was lifted by a <NUM> percent gain in the shares of coca cola ko and a <NUM> percent advance for johnson & johnson jnj <PUNC>
-the technology sector is also in focus with the likes of international business machines corp. ibm <COMMA> intel corp. intc and yahoo inc. yhoo are all due to report after the close <PUNC>
-on monday stocks staged a vigorous rally <COMMA> with the dow jones industrials rising by more than <NUM> points <COMMA> in the wake of upbeat earnings from citigroup inc. c and a dollar <NUM> billion leveraged buyout of sallie mae parent company slm corp. slm <PUNC>
-coca-cola co. ko stock rose <NUM> percent <PUNC>
-the soft drinks seller s earnings and revenue beat analysts expectations <COMMA> bolstered by unit case volume growth <PUNC>
-johnson & johnson jnj also beat expectations for its earnings and revenue <COMMA> although its profit fell below year-earlier levels due to special charges <PUNC>
-the stock gained <NUM> percent <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
-the financial times says proctor & gamble co. pg has hired blackstone group to help sell brands including duracell batteries and pringles potato chips <PUNC>
-<PAR>

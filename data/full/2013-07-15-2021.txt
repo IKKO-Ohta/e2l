@@ -1,7 +1,0 @@
-u.s. stocks climbed modestly on monday <COMMA> with the s&p <NUM> and the dow industrials rising to record closing highs again <COMMA> after citigroup inc. reported better-than-expected earnings <PUNC>
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> a record closing high its 26th this year <PUNC>
-dow component boeing co. ba shares rose <NUM> percent <COMMA> regaining a large chunk of friday s losses <COMMA> after british investigators reportedly found no evidence that batteries caused a fire on one of the manufacturer s <NUM> planes <PUNC>
-are boeing shares immune to dreamliner woes <PUNC>
-both the dow industrials and the s&p <NUM> climbed to record closes on friday following upbeat earnings from two major banks and after federal reserve chairman ben bernanke voiced support for continued monetary stimulus <PUNC>
-shares of leap wireless international inc. leap soared after at&t inc. t late friday said it would purchase the provider of prepaid-mobile services for dollar <NUM> a share <COMMA> or nearly dollar <NUM> billion <PUNC>
-<PAR>

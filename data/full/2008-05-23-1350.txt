@@ -1,4 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of its <NUM> components opening lower <PUNC>
-u.s. stocks ended higher thursday after two days of heavy losses as crude-oil futures lost ground <PUNC>
-the dow industrials finished <NUM> points higher <COMMA> the nasdaq composite rose <NUM> points and the s&p <NUM> added <NUM> points <PUNC>
-<PAR>

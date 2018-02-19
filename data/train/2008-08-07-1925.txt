@@ -1,3 +1,0 @@
-near its session low <COMMA> the dow jones industrial average fell <NUM> points to <NUM> <PUNC>
-technology shares fronted the dow s gainers <COMMA> with intel corp. recently up <NUM> percent and microsoft corp. ahead <NUM> percent <PUNC>
-<PAR>

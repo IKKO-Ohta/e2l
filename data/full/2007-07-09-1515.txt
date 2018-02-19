@@ -1,9 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components advanced <COMMA> led by the likes of intel corp. verizon corp. vz and general motors corp. gm <PUNC>
-among blue chips <COMMA> boeing co. ba led the gains <COMMA> rising <NUM> percent after the company unveiled its <NUM> dreamliner and announced new orders for the plane <PUNC>
-and home depot inc. hd <COMMA> whose shares were upgraded to buy at goldman sachs <COMMA> rose <NUM> percent <PUNC>
-the broker cited changes in management and culture as well as an improved business mix and capital structure <PUNC>
-alcoa inc. aa <COMMA> which traditionally kicks off the earnings season <COMMA> gained <NUM> percent <PUNC>
-the aluminum producer s report is expected to benefit from demand in the aerospace sector <COMMA> which should compensate for weakness from u.s. housing <PUNC>
-industrial shares <COMMA> such as dow components boeing and honeywell inc. hon are expected to see the best results for the quarter <COMMA> closely followed by the technology sector <PUNC>
-the likes of apple inc. aapl and google inc. goog are expected to see earnings grow <NUM> percent and <NUM> percent respectively <PUNC>
-<PAR>

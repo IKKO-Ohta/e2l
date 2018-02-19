@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained almost <NUM> points to <NUM> <COMMA> with all but two of its <NUM> component stocks advancing <PUNC>
-there were strong gains for alcoa inc. aa <COMMA> general motors corp. gm and honeywell inc. hon <PUNC>
-the dow suffered a <NUM> percent weekly losses <PUNC>
-also among the blue chips <COMMA> shares of mcdonald s corp. mcd gained <NUM> percent after saying global same-store sales rose <NUM> percent in may <PUNC>
-<PAR>

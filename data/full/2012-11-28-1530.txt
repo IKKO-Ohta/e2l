@@ -1,4 +1,0 @@
-u.s. stocks fell on wednesday <COMMA> with the dow industrials and s&p <NUM> extending losses into a third day <COMMA> as investors worried about the so-called fiscal cliff <PUNC>
-top executives from u.s. companies including caterpillar inc. cat <COMMA> goldman sachs group inc. gs and deloitte llp will talk with president barack obama wednesday about the nation s fiscal troubles <COMMA> the white house said <PUNC>
-after an 112-point slide <COMMA> the dow jones industrial average dji was lately off <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

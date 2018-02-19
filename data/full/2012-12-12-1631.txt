@@ -1,5 +1,0 @@
-u.s. stocks mostly rose wednesday <COMMA> with the dow jones industrial average extending its longest winning run in eight months <COMMA> as wall street anticipated further monetary easing by the federal reserve and as budget negotiations continued on capitol hill <PUNC>
-extending gains into a sixth session <COMMA> the dow industrials dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components rising <PUNC>
-among individual stock movers <COMMA> shares of dupont dd rose <NUM> percent <COMMA> making the company one of the top gainers in the dow <PUNC>
-the firm announced late tuesday a dollar <NUM> billion share buyback <PUNC>
-<PAR>

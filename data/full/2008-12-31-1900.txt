@@ -1,7 +1,0 @@
-year to date <COMMA> the dow jones industrial average have slumped nearly <NUM> percent <COMMA> the s&p <NUM> has lost <NUM> percent <COMMA> and the nasdaq composite is off almost <NUM> percent <PUNC>
-the s&p <NUM> index <COMMA> widely considered as the most representative of the market gauges for tracking u.s. stocks <COMMA> had not seen a worse year since <NUM> <COMMA> right in the midst of the great depression <PUNC>
-but in the final week of the year <COMMA> the market has been reclaiming a bit of ground <COMMA> with the dow moving up <NUM> percent <COMMA> the s&p <NUM> adding <NUM> percent <COMMA> and the nasdaq gaining by <NUM> percent <PUNC>
-by wednesday afternoon <COMMA> the dow industrials dji stood higher by <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components on the rise <PUNC>
-leading the advances among blue chips <COMMA> shares of aluminum giant alcoa inc. aa rallied nearly <NUM> percent and united technologies utx rose <NUM> percent <PUNC>
-u.s. markets had closed broadly higher on tuesday <COMMA> helped by a late rally from financial stocks and further government aid for general motors corp. gm <COMMA> as the dow industrials closed up <NUM> points <PUNC>
-<PAR>

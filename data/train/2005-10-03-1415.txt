@@ -1,5 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
-the dow jones industrial average has posted fourth-quarter gains for the last seven years <PUNC>
-both the nasdaq composite and the s&p <NUM> index meanwhile have gained for the last four years in a row <PUNC>
-shares of altria group inc. mo tacked on <NUM> cents to dollar <NUM> after goldman sachs raised its fair value estimate for the food and tobacco giant to by dollar <NUM> to dollar <NUM> <PUNC>
-<PAR>

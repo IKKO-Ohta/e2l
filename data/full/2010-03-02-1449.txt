@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> in early trading <PUNC>
-rising prices for crude oil and metals helped boost materials and industrial stocks including alcoa aa <COMMA> up <NUM> percent and heavy machinery manufacturer caterpillar cat <COMMA> up <NUM> percent <PUNC>
-boeing ba was the measure s top performer <COMMA> up <NUM> percent <PUNC>
-weighing on the dow <COMMA> wal-mart wmt slid <NUM> percent <PUNC>
-<PAR>

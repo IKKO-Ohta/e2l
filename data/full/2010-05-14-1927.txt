@@ -1,9 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in recent trading <COMMA> hurt by declines in all <NUM> of its components <PUNC>
-american express axp sank <NUM> percent as investors shunned riskier stocks <COMMA> including financials <PUNC>
-alcoa aa sank <NUM> percent as metals futures declined <PUNC>
-financials also weakened as investors flocked toward more defensive stocks <PUNC>
-j.p. morgan chase jpm slid <NUM> percent <COMMA> while citigroup c fell <NUM> percent <PUNC>
-financial stocks sank after the senate voted to allow the federal reserve to regulate fees on debit card transactions <PUNC>
-the measure will also allow retails more leverage in negotiating with credit-card firms and banks over the fees for card transactions <PUNC>
-visa v tumbled <NUM> percent <COMMA> while mastercard ma fell <NUM> percent and bank of america bac fell <NUM> percent <PUNC>
-<PAR>

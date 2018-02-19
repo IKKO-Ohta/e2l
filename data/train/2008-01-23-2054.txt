@@ -1,5 +1,0 @@
-down about <NUM> points earlier on <COMMA> the dow jones industrial average dji was more recently up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-pfizer inc. pfe gained nearly <NUM> percent after lifting its <NUM> outlook and topping fourth-quarter expectations <PUNC>
-at one point on tuesday <COMMA> the dow fell more than <NUM> points before recovering to close with more modest losses <COMMA> after the fed surprised investors by cutting its main interest-rate target by <NUM> basis points to <NUM> percent <PUNC>
-that move came one week ahead of the fed s scheduled monetary-policy meeting <PUNC>
-<PAR>

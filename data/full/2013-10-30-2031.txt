@@ -1,6 +1,0 @@
-the s&p <NUM> spx finished down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> snapping a four-day winning streak <PUNC>
-the dow jones industrial average dji finished down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the index had briefly traded in positive territory after the fed statement <COMMA> but then fell further <COMMA> losing more than <NUM> points <PUNC>
-wednesday s decline follows gains seen on tuesday <COMMA> when both the s&p <NUM> and dow industrials scored record closing highs <PUNC>
-in morning action on wednesday <COMMA> both the s&p <NUM> and dow hit record intraday highs <COMMA> with the dow topping a prior intraday peak reached on sept. <NUM> <COMMA> but they both pulled back in late-morning action <COMMA> then slumped further after the fed statement at <NUM> p.m. eastern time <PUNC>
-<PAR>

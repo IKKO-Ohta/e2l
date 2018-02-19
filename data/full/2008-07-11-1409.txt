@@ -1,4 +1,0 @@
-the dow jones industrial average dji shed <NUM> points to 11,127.74.97 <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-u.s. stocks closed higher on thursday with concerns about the viability of fannie and freddie offset by a large-scale acquisition in the chemical sector and a <NUM> percent rise in shares of alcoa inc <PUNC>
-the dow industrials ended <NUM> points higher <COMMA> the s&p <NUM> rose <NUM> points and the nasdaq composite added <NUM> points <PUNC>
-<PAR>

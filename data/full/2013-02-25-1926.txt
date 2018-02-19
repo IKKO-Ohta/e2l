@@ -1,3 +1,0 @@
-after an 81-point rise <COMMA> the dow jones industrial average dji fell triple digits <COMMA> staged a near recovery <COMMA> then resumed its slide <PUNC>
-it was lately down nearly <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-<PAR>

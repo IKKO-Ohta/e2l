@@ -1,7 +1,0 @@
-the dow jones industrial average dji reversed early losses and was last up <NUM> points at <NUM> <COMMA> with <NUM> its <NUM> components in positive territory <PUNC>
-microsoft corp. msft was leading the gains on the dow <COMMA> rising <NUM> percent after citigroup lifted its earnings estimates for the software giant <PUNC>
-altria group inc. mo and honeywell international inc. hon also advanced strongly <PUNC>
-general motors corp. gm was the worst performer on the dow <COMMA> losing <NUM> percent after daimlerchrysler ag dcx said it is in talks with interested parties regarding future options for its unit chrysler <PUNC>
-at&t inc. t <COMMA> meanwhile <COMMA> fell <NUM> percent amid reports that it is angling to acquire a stake in the parent company of italian carrier telecom italia spa ti for roughly dollar <NUM> billion <PUNC>
-on tuesday <COMMA> stocks staged a vigorous rally <COMMA> with the dow industrials rising nearly <NUM> points to a five-week high. <PUNC>
-<PAR>

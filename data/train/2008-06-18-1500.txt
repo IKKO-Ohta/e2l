@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <PUNC>
-general motors corp. gm led blue-chip declines <COMMA> with shares of the automaker down <NUM> percent <PUNC>
-<PAR>

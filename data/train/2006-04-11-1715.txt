@@ -1,8 +1,0 @@
-the dow jones industrial average dji was last down <NUM> points at <NUM> <COMMA> after being up as much as <NUM> points earlier in the session <PUNC>
-of the <NUM> dow components <COMMA> <NUM> were contributing to the decline. <PUNC>
-shares of dow component alcoa aa surged <NUM> percent to dollar <NUM> <COMMA> their best level since december <NUM> <PUNC>
-the aluminum giant posted forecast-beating earnings <COMMA> bolstered by a <NUM> percent jump in sales in a market driven by strong demand from the commercial transportation and aerospace sectors <PUNC>
-meanwhile <COMMA> general motors corp. gm fell <NUM> cents to dollar <NUM> after the troubled automaker said it would sell its <NUM> percent stake in isuzu motors to the japanese company s strategic partners and major shareholders for about dollar <NUM> million <PUNC>
-merck & co. mrk fell <NUM> cents to dollar <NUM> <PUNC>
-the drug giant said it will appeal a new jersey verdict awarding one of the state s residents dollar <NUM> million in punitive damages over its recalled vioxx painkiller <PUNC>
-<PAR>

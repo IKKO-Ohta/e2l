@@ -1,4 +1,0 @@
-u.s. stocks finished with slight gains on friday <COMMA> lifting the dow industrials to a fifth weekly gain <COMMA> after wall street dug through earnings reports that included a steep profit drop for expedia inc. and a better-than-expected profit from starbucks corp <PUNC>
-after a 150-point drop <COMMA> the dow jones industrial average dji added <NUM> points to <NUM> <COMMA> giving the blue-chip index a <NUM> percent weekly gain <COMMA> its fifth straight <PUNC>
-the dow is up almost <NUM> percent this year <PUNC>
-<PAR>

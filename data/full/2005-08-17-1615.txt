@@ -1,4 +1,0 @@
-the dow jones industrial average dji last was up <NUM> points at <NUM> <COMMA> while the s&p <NUM> spx moved up <NUM> to <NUM> and the nasdaq composite rixf added <NUM> to <NUM> <PUNC>
-a standout in the dow jones industrial average was hewlett-packard hpq <COMMA> shares of which were up <NUM> percent after offering a strong outlook <PUNC>
-the good news from hewlett-packard and applied materials spilled over to help over tech shares <COMMA> with intel intc rising <NUM> cents to dollar <NUM> after suffering losses in tuesday s technology rout <PUNC>
-<PAR>

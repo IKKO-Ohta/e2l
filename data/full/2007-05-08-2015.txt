@@ -1,8 +1,0 @@
-the dow industrials dji closed down were down <NUM> points at <NUM> <COMMA> with general motors corp. gm <COMMA> coca cola co. ko <COMMA> and united technologies corp. utx among the losers <PUNC>
-on monday the dow jones industrial average closed above <NUM> for the first time <PUNC>
-bucking the trend among dow components <COMMA> alcoa inc. aa led the gains <COMMA> rising <NUM> percent after hedge fund jana partners llc <COMMA> which calls itself a large shareholder of the aluminum giant <COMMA> urged the company to drop its bid to acquire alcan inc. al <PUNC>
-hewlett-packard co. hpq rose <NUM> percent after the computer maker raised its earnings and revenue outlook for the second quarter <PUNC>
-also <COMMA> walt disney & co. dis rose <NUM> percent ahead of its quarterly results after the close <PUNC>
-crude-oil futures gained <NUM> cents to close at dollar <NUM> a barrel <COMMA> helping higher some oil shares <COMMA> including dow component exxon mobil corp. xom <PUNC>
-but occidental petroleum corp. oxy and conocophillips cop remained lower <PUNC>
-<PAR>

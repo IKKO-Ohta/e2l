@@ -1,9 +1,0 @@
-stocks rebounded late last week on signs of a thaw in the partial government shutdown and debt-limit deadlock <COMMA> but talks stalled over the weekend <PUNC>
-the dow jones industrial average dji finished up <NUM> percent for the week and the s&p <NUM> index spx gained <NUM> percent <PUNC>
-financial earnings figure heavily in the coming week with reports from dow components american express co. axp and goldman sachs group inc. gs <COMMA> along with reports from citigroup inc. c <COMMA> bank of america corp. bac and morgan stanley ms <PUNC>
-while adjusted earnings from j.p. morgan chase & co. jpm and wells fargo & co. wfc cleared consensus levels on friday <COMMA> j.p. morgan s report was marred by more than dollar <NUM> billion in litigation expenses <COMMA> while mortgage banking results wells fargo s leading business came in weaker than expected <PUNC>
-while banks will be taking center stage on earnings <COMMA> a number of consumer-focused companies will also be reporting <PUNC>
-in that area <COMMA> some of the big earnings reports will be coming from coca-cola co. ko <COMMA> johnson & johnson inc. jnj <COMMA> pepsico inc. pep <COMMA> unitedhealth group inc. unh <COMMA> verizon communications inc. vz and philip morris international inc. pm <PUNC>
-other notable earnings fall toward the tech end of the spectrum with reports from yahoo inc. yhoo <COMMA> intel corp. intc <COMMA> international business machines corp. ibm <COMMA> ebay inc. ebay and google inc. goog <PUNC>
-industrials also play a large role in the coming week with honeywell international inc. hon <COMMA> textron inc. txt <COMMA> csx corp. csx <COMMA> union pacific corp. unp and general electric co. ge reporting <PUNC>
-<PAR>

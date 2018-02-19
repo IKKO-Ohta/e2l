@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> off an intraday high of <NUM> <PUNC>
-the auto sector was in focus as general motors corp gm announced it was selling its entire equity stake in fuji heavy industries ltd <COMMA> the owner of the subaru car brand <COMMA> in order to refocus its asia-pacific strategy toward high-growth markets <PUNC>
-<PAR>

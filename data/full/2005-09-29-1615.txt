@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components in positive territory <PUNC>
-dow component general electric co ge was down <NUM> cents at dollar <NUM> <PUNC>
-the healthcare unit will buy idx systems corp. in a deal to create a dollar <NUM> billion healthcare technology vendor <COMMA> the companies said thursday <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-after rising as much as <NUM> points <COMMA> the dow jones industrial average dji was lately up <NUM> points to <NUM> <COMMA> with all but two of its <NUM> components in positive turf <PUNC>
-shares of intel corp. intc edged higher after the dow component and computer-chip manufacturer picked its chief operating officer <COMMA> brian krzanich <COMMA> to take the helm as ceo <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the blue-chip index closed at a record level for the 9th time in <NUM> <PUNC>
-merck & co. inc. mrk said it will buy idenix pharmaceuticals inc. idix for dollar <NUM> a share <PUNC>
-the merck buyout values idenix at dollar <NUM> billion <COMMA> and idenix shares more that tripled on the news <PUNC>
-<PAR>

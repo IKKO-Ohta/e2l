@@ -1,5 +1,0 @@
-the dow jones industrial average was off <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <COMMA> with <NUM> of the blue-chip index s components trading lower <COMMA> positioning it for a weekly fall of <NUM> percent <PUNC>
-the declines were led by intel corp. intc <COMMA> its stock down <NUM> percent <PUNC>
-the technology company was downgraded to neutral from overweight by j.p. morgan <PUNC>
-of the blue-chip index s advancing stocks <COMMA> the coca-cola co. ko gained the most <COMMA> up <NUM> percent <PUNC>
-<PAR>

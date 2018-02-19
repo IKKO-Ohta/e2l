@@ -1,4 +1,0 @@
-the u.s. stock market s fall on thursday initially had investors steering clear of three-month intraday lows tested earlier in the week <COMMA> with the bear-market bottom called by some in november holding yet the dow jones industrial average finished at a more than six-year low <PUNC>
-the dow jones industrial average dji sunk <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <COMMA> with the blue-chip index ending at its lowest level since oct. <NUM> <COMMA> <NUM> <PUNC>
-while the dow and s&p broke their mid-january lows earlier in the week <COMMA> the nasdaq offered an encouraging sign by holding above its comparable level <COMMA> said marc pado <COMMA> u.s. market strategist at cantor fitzgerald <PUNC>
-<PAR>

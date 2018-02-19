@@ -1,3 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with all but one of its <NUM> components trading higher <COMMA> led by boeing co. ba <COMMA> up <NUM> percent <PUNC>
-noting that the airline merger comes in the wake of last week s announcement that hewlett-packard co. hpq would acquire palm inc. palm <COMMA> one analyst noted a positive trend in the spate of m&a <PUNC>
-<PAR>

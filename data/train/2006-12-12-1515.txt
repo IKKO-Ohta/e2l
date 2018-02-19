@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-among blue chips <COMMA> citigroup inc. c fell <NUM> percent after the bank named robert druskin <COMMA> now chief executive of citigroup s investment-banking arm <COMMA> to be chief operating officer <COMMA> reporting directly to ceo charles prince <PUNC>
-on monday <COMMA> u.s. stocks closed higher as deal news <COMMA> oil price weakness and an upgrade for j.p. morgan chase & co. jpm contributed to a modest uptick <PUNC>
-<PAR>

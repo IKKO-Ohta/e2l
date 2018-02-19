@@ -1,4 +1,0 @@
-on the run after a 10-session advance <COMMA> its longest win streak in more than <NUM> years <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-bank of america corp. bac rose <NUM> percent after the federal reserve ok d its share-buyback plan <PUNC>
-j.p. morgan chase & co. jpm fell <NUM> percent and goldman sachs group inc. gs turned <NUM> percent higher after the fed approved their capital plans but also asked them to resubmit new ones in six months <PUNC>
-<PAR>

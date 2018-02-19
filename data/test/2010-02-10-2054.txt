@@ -1,9 +1,0 @@
-trading was light amid a snowstorm in new york city <COMMA> which struck at a time when markets were already due for a pause following a volatile stretch <PUNC>
-five of the last seven full trading sessions have seen triple-digit point moves in the dow jones industrial average dji <PUNC>
-the dow average recently fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-it had shifted between mild gains and losses for much of wednesday s session <COMMA> after starting off slightly lower <PUNC>
-all the dow s financial components posted gains in recent action <COMMA> with bank of america corp. bac and j.p. morgan chase & co. jpm up more than <NUM> percent each <PUNC>
-american express co. axp rose <NUM> percent <COMMA> while travelers cos. trv was up <NUM> percent <PUNC>
-traders said while tuesday s 150-point rally in the dow came on relief that germany and other european union nations will likely step in to help bail out greece <COMMA> market watchers are now waiting to see more details of how a bailout would work <PUNC>
-among stocks to watch on wednesday <COMMA> walt disney & co. dis rose <NUM> percent after releasing disappointing first-quarter earnings <COMMA> weighed by declines in its theme-park and consumer units <PUNC>
-<PAR>

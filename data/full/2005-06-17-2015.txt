@@ -1,6 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points at <NUM> <PUNC>
-the benchmark index is on course to post a seventh day of gains <COMMA> a feat not equaled since march <NUM> <PUNC>
-within the dow <COMMA> exxon mobil corp. xom was up <NUM> percent <COMMA> buoyed by the resurgent strength in crude-oil prices <PUNC>
-alcoa inc. aa rallied for a second straight session <COMMA> up <NUM> percent <COMMA> amid broad strength in the metals markets <PUNC>
-caterpillar cat climbed <NUM> percent <COMMA> buoyed by positive analyst comment after the maker of industrial equipment reported a <NUM> percent rise in machinery sales in may <PUNC>
-<PAR>

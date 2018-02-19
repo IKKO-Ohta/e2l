@@ -1,5 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> component stocks gaining <COMMA> led by citigroup c <COMMA> its shares up <NUM> percent <COMMA> as the banking giant reported a quarterly loss of <NUM> cents a share narrower than the consensus view of <NUM> cents <PUNC>
-blue-chip losses were led by software giant microsoft msft <COMMA> down <NUM> percent <COMMA> after its late thursday report of double-digit second-quarter profit growth as well as a disappointing outlook for the current quarter <PUNC>
-on thursday <COMMA> u.s. equities rallied for the second day <COMMA> with the dow jones industrial average dji gaining <NUM> points <COMMA> or <NUM> percent <COMMA> to close at <NUM> <PUNC>
-it marked a gain of <NUM> points since wednesday s opening bell <COMMA> its biggest two-day point advance since last november <PUNC>
-<PAR>

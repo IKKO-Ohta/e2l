@@ -1,8 +1,0 @@
-the dow jones industrial average dji slipped <NUM> point to close at <NUM> <COMMA> breaking a three-day streak of all-time closing highs <COMMA> with <NUM> out of <NUM> components trading lower <PUNC>
-earlier <COMMA> the index touched an intraday low of <NUM> <PUNC>
-alcoa inc. aa and dupont dd led the index lower with <NUM> percent and <NUM> percent declines <COMMA> respectively <PUNC>
-on the other hand <COMMA> all three gained on the week with the dow industrials up <NUM> percent <COMMA> the s&p <NUM> rising <NUM> percent <COMMA> and the nasdaq advancing <NUM> percent <PUNC>
-until now <COMMA> investors have been dazzled by record levels in the dow industrials and s&p <NUM> <COMMA> but weaker economic data may be taking some of the luster off the rally <PUNC>
-stock futures friday had been heading lower before the open after dow-component j.p. morgan chase & co. jpm quarterly results beat wall street estimates but not by enough for investors <PUNC>
-shares fell <NUM> percent <PUNC>
-<PAR>

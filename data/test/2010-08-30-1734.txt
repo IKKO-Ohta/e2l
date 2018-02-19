@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-intel corp. intc paced the blue-chip decliners <COMMA> falling <NUM> percent after the world s largest computer-chip manufacturer said it would pay about dollar <NUM> billion to acquire infineon technologies ag s wireless unit <PUNC>
-also weighing on the dow <COMMA> shares of 3m co. mmm gave up <NUM> percent after the company said it would buy cogent inc. cogt <PUNC>
-hewlett-packard co. hpq ranked as the blue chips biggest gainer <COMMA> lately up <NUM> percent after the technology titan announced a share-repurchase plan amid its pursuit of a deal to acquire 3par par <PUNC>
-<PAR>

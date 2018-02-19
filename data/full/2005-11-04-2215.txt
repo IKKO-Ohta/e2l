@@ -1,6 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> with the benchmark index posting a weekly gain of <NUM> percent <PUNC>
-shares in honeywell international hon rose <NUM> percent to dollar <NUM> after the diversified industrial group said it would buy back as much as dollar <NUM> billion of its common stock <PUNC>
-the transaction would represent a bit less than <NUM> percent of the company s <NUM> million shares outstanding on sept. <NUM> <PUNC>
-the stock ended up <NUM> cents at dollar <NUM> <PUNC>
-general motors corp. gm saw its shares gain as much as <NUM> percent to dollar <NUM> <COMMA> as investors welcomed news that it was boosting parts orders and car production to stockpile vehicles in the event of a workers strike at delphi corp. dphiq the automaker s stock ended up <NUM> cents at dollar <NUM> <PUNC>
-<PAR>

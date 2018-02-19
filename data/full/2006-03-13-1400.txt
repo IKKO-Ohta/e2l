@@ -1,5 +1,0 @@
-pado said the blue-chip status of the dow jones industrial average helped it outperform the other major indexes last week <PUNC>
-the dow industrials dji rose <NUM> points to <NUM> <COMMA> helping the benchmark index posted a weekly gain of <NUM> percent <PUNC>
-boeing co. shares ba may get a lift in early trading after weekly financial newspaper barron s said the company is in the midst of a turnaround against european rival airbus <PUNC>
-on friday <COMMA> boeing shares rose dollar <NUM> to dollar <NUM> <PUNC>
-<PAR>

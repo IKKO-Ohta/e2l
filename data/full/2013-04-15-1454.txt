@@ -1,5 +1,0 @@
-u.s. stocks fell further monday <COMMA> briefly sending the dow average down more than <NUM> points <COMMA> after a drop in u.s. home builders sentiment added to economic growth worries stemming from cooler china data <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> after hitting an intraday low of <NUM> <PUNC>
-on the s&p <NUM> <COMMA> resource stocks including newmont mining corp. nem and freeport mcmoran copper & gold inc. fcx led losses <PUNC>
-on the dow <COMMA> heavy equipment maker caterpillar inc. cat fell the most <COMMA> followed by other blue chips considered heavily exposed to china or global resource demand <PUNC> oil-major chevron corp. cvx <COMMA> alcoa corp. aa and general electric co. ge <PUNC>
-<PAR>

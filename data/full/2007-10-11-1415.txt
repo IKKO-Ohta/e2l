@@ -1,4 +1,0 @@
-hitting an all-time high of <NUM> not long after the opening bell <COMMA> the dow jones industrial average dji was more recently up <NUM> points at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> advanced <COMMA> led by general motors corp. gm <COMMA> which climbed <NUM> percent to near three-year highs after the united auto workers said its members approved a contract with the company <PUNC>
-wal-mart wmt said its same-store sales rose <NUM> percent <COMMA> just below forecasts <COMMA> while raising its third-quarter guidance for earnings from continuing operations <PUNC>
-<PAR>

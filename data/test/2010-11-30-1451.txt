@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent to <NUM> in early trading <PUNC>
-hewlett-packard hpq led the measure s decline <COMMA> shedding <NUM> percent <PUNC>
-energy components were also weak as crude-oil prices slid <PUNC>
-chevron cvx fell <NUM> percent <COMMA> while exxon mobil xom lost <NUM> percent <PUNC>
-among stocks in focus <COMMA> pharmaceutical company merck mrk lost <NUM> percent after the company s board named kenneth c. frazier as its new chief executive starting jan. <NUM> while current chief executive richard t. clark will continue as chairman <PUNC>
-<PAR>

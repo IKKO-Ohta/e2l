@@ -1,4 +1,0 @@
-the futures contracts for the dow jones industrial average <COMMA> the s&p <NUM> and the nasdaq <NUM> all pointed toward gains in the early minutes of trade <PUNC>
-intel intc was down <NUM> percent in premarket electronic trade thursday after the goldman sachs downgrade <PUNC>
-the brokerage said the company s margins are near peak levels.target tgt was <NUM> percent higher at dollar <NUM> after the retailer s quarterly earnings topped estimates by <NUM> cents a share <PUNC>
-<PAR>

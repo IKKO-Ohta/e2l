@@ -1,4 +1,0 @@
-the dow jones industrial average dji ?was lately up <NUM> points at <NUM> <COMMA> with computer-chip maker intel corp. intc <PUNC>
-leading gains that included <NUM> of its <NUM> components <PUNC>
-on wednesday <COMMA> stocks mostly advanced <COMMA> with the dow jones industrial average dji ?rising <NUM> points <COMMA> after bloomberg news reported of republican defections to a bipartisan effort on capitol hill to break the budget impasse <PUNC>
-<PAR>

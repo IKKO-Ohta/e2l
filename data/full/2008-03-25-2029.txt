@@ -1,5 +1,0 @@
-u.s. stocks on tuesday turned mixed to cap a daylong struggle to extend a two-day rally that had the dow rising nearly <NUM> points <COMMA> as investors weighed monsanto co. s improved forecast against downbeat data on housing and consumer sentiment <PUNC>
-off almost <NUM> points earlier on <COMMA> the dow jones industrial average dji lost <NUM> points to settle at <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> with the losses led by bank of america corp. bac <COMMA> down <NUM> percent <COMMA> and home depot inc. hd <COMMA> off <NUM> percent <PUNC>
-off the dow <COMMA> shares of monsanto mon gained almost <NUM> percent after the st. louis company lifted its projected earnings for <NUM> <PUNC>
-u.s. stocks rallied on monday <COMMA> furthering the prior session s strong gains <COMMA> after j.p. morgan chase & co. jpm increased its offer for bear stearns cos. bsc and after the national association of realtors reported that sales of existing homes rose for the first time in seven months <PUNC>
-<PAR>

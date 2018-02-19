@@ -1,7 +1,0 @@
-the dow jones industrial average dji was off <NUM> points fell <NUM> points to <NUM> <COMMA> scaling back earlier losses that had the dow off more than <NUM> points <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> were trading lower <COMMA> led by the likes of chicago-based aircraft maker boeing co. ba <COMMA> off <NUM> percent <COMMA> and aluminum producer alcoa inc. aa <COMMA> off <NUM> percent <PUNC>
-<PAR>
-the dow and s&p losses one day after reaching new peaks looks like exhaustion among the buyers <COMMA> said al goldman <COMMA> chief market strategist at a.g. edwards <PUNC>
-hear more <PUNC>
-on tuesday <COMMA> wall street rallied <COMMA> taking the dow and s&p to fresh closing highs after minutes from the federal reserve s september meeting furthered thoughts that the central bank would cut interest rates again at a two-day federal open markets committee gathering at the end of the month <PUNC>
-<PAR>

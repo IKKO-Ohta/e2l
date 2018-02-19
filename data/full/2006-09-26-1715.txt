@@ -1,8 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-of the <NUM> dow stocks <COMMA> <NUM> contributed to gains <PUNC>
-we ve hit some technical resistance with the s&p <NUM> at more than a five-year high and the dow trading up near to its all-time high <COMMA> said michael malone <COMMA> trading analyst at cowen & co. talk from the opec president that something needs to be done to stabilize crude prices has also pushed up oil and motivated some buyers to pull their bids in <PUNC>
-selling in the home-improvement sector was restrained <PUNC>
-lowe s shares were off <NUM> percent at dollar <NUM> <COMMA> while larger rival home depot hd dipped <NUM> cents to dollar <NUM> <PUNC>
-general motors corp. s gm discussions with france s renault sa and japan s nissan motor corp. over a possible alliance appeared to have hit a roadblock over how best to deal with rival toyota s global expansion plans <COMMA> according to a wall street journal report <PUNC>
-gm shares <COMMA> part of the dow jones industrial average <COMMA> moved up <NUM> percent at dollar <NUM> <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> in early dealings <COMMA> with <NUM> of its <NUM> components showing early gains <PUNC>
-the upbeat start for equities comes in the wake of heavy losses last week <COMMA> with the dow shedding nearly <NUM> percent of its value in what was the blue-chip benchmark s worst showing since february <PUNC>
-j.p. morgan chase & co. jpm <COMMA> part of the dow industrials <COMMA> was up <NUM> percent after the financial institution and first data corp. said they had reached terms on ending their joint payments and merchant acquiring venture by the end of the year <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-at <NUM> <COMMA> the dow jones industrial average dji also logged a record close thursday <PUNC>
-trading was closed on good friday <PUNC>
-in the first quarter <COMMA> the s&p <NUM> rallied <NUM> percent <COMMA> while the dow industrials rose <NUM> percent <PUNC>
-<PAR>

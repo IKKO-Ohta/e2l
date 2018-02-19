@@ -1,4 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading in the red <COMMA> with citigroup among the stocks fronting the losses <COMMA> its shares off <NUM> percent <PUNC>
-of the dow s advancing stocks <COMMA> oil giant exxon mobil corp. xom and intel corp. intc rose the most <COMMA> both up <NUM> percent <PUNC>
-and <COMMA> in an announcement confirmed by participants monday morning <COMMA> citigroup <COMMA> j.p. morgan chase & co. jpm <COMMA> and bank of america corp. bac are among the financial institutions that have agreed to create a superfund of up to dollar <NUM> billion to clean up the credit markets <COMMA> the wall street journal first reported in its online edition <PUNC>
-<PAR>

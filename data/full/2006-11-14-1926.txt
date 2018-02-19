@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <PUNC>
-both wal-mart and home depot are part of the blue-chip barometer <PUNC>
-home depot hd reversed course to trade up <NUM> percent at dollar <NUM> <PUNC>
-the rally in the home building sector coupled with falling long-term interest rates helped temper the negative impact of wake quarterly results and a lowered financial outlook <PUNC>
-shares of wal-mart stores inc. wmt rose as the world s largest retailer turned in an <NUM> percent jump in quarterly profit <COMMA> although the company did trim its forecast for the full year <PUNC>
-<PAR>

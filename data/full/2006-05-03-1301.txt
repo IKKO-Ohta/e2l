@@ -1,9 +1,0 @@
-the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
-on tuesday stocks ended higher <COMMA> bolstered by solid earnings reports and a rally in oil <COMMA> mining and metals shares linked to the ongoing commodities rally <PUNC>
-the dow jones industrial average dji closed at a six-year high and the s&p <NUM> index spx struck its best level in more than five years <PUNC>
-earnings <COMMA> including new reports from procter & gamble co pg and time warner inc. twx <COMMA> and the commodities rally will be back in focus at wednesday s opening <PUNC>
-marc pado <COMMA> u.s. market strategist at cantor fitzgerald <COMMA> said a pullback is possible for both the dow jones industrials and the s&p <NUM> <COMMA> following their multi-year closing highs on tuesday <PUNC>
-procter & gamble co pg <COMMA> the world s largest consumer-goods company <COMMA> said its third-quarter income rose <NUM> percent <COMMA> helped by the gillette acquisition <COMMA> price increases and cost controls <PUNC>
-but the company s sales fell short of expectations <PUNC>
-the stock was off <NUM> percent at dollar <NUM> in preopening electronic trade <PUNC>
-<PAR>

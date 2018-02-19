@@ -1,2 +1,0 @@
-the dow jones industrial average dji defied the general trend and finished up <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> <PUNC>
-<PAR>

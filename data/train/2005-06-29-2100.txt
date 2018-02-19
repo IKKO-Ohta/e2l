@@ -1,6 +1,0 @@
-the dow jones industrial average dji closed down <NUM> points <COMMA> or <NUM> percent <COMMA> at <NUM> while the nasdaq composite index rixf fell <NUM> point to <NUM> and the s&p <NUM> spx dipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-back in the equity markets <COMMA> american international group aig was the best performer on the dow <COMMA> spiking <NUM> percent after it said first-quarter net income jumped <NUM> percent while revenue in the period rose <NUM> percent <PUNC>
-revenue was dollar <NUM> billion <COMMA> up from dollar <NUM> billion a year ago <PUNC>
-hewlett-packard co. hpq and sbc communications inc. sbc were other notable blue-chip gainers <PUNC>
-but those gains were outweighed by big losses in caterpillar inc. cat <COMMA> mcdonald s corp. mcd <COMMA> exxon mobil corp. xom <COMMA> boeing co. ba and walt disney co. dis <PUNC>
-<PAR>

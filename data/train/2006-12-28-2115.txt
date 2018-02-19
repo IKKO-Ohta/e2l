@@ -1,9 +1,0 @@
-u.s. stocks pared their losses late in thursday s session <COMMA> allowing the dow jones industrial average at one juncture to strike a new high <COMMA> as the brunt of selling pressure seen earlier in the day disappeared ahead of the final trading day of the year <PUNC>
-the dow jones industrial average dji last was down <NUM> points at <NUM> <PUNC>
-earlier during an afternoon rise <COMMA> the dow struck a new high of <NUM> <PUNC>
-to set a new high at the finish the dow must end above its wednesday close at <NUM> <PUNC>
-dow components trading higher included walt disney dis and honeywell inc. hon <PUNC>
-dow component alcoa inc. aa <COMMA> which rose in recent sessions <COMMA> last was up <NUM> percent at dollar <NUM> <PUNC>
-citigroup c <COMMA> a component of the dow industrials <COMMA> and other investors may take stakes in china s budget carrier spring airlines <COMMA> reuters reported <COMMA> citing two sources familiar with the matter <PUNC>
-international business machines ibm and siemens si won a 10-year dollar <NUM> billion contract from the german federal armed forces to modernize non-military information and communications technology <PUNC>
-<PAR>

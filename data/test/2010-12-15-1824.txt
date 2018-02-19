@@ -1,3 +1,0 @@
-scaling back limited gains <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <PUNC>
-on tuesday <COMMA> the dow industrials closed at their highest level of the year <COMMA> with 10-year treasury note yields <COMMA> used in determining consumer loans <COMMA> surging to seven-month highs <PUNC>
-<PAR>

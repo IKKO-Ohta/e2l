@@ -1,6 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> after earlier touching <NUM> its best intraday level since mid may <PUNC>
-wal-mart stores inc. wmt gained <NUM> percent to dollar <NUM> <PUNC>
-the retailer said over the weekend that august same-store sales rose <NUM> percent <COMMA> which was at the high end of its previous forecast <PUNC>
-intel corp. intc <COMMA> a dow component <COMMA> ended almost <NUM> percent higher at dollar <NUM> <PUNC>
-the company received a positive mention in a banc of america securities research note <PUNC>
-<PAR>

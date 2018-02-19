@@ -1,4 +1,0 @@
-as of midday <COMMA> the dow jones industrial average dji had shed <NUM> points to <NUM> <COMMA> with all of but two of its <NUM> components trading lower <PUNC>
-financial stocks fronted the losses <COMMA> with american express co. axp seeing its stock off nearly <NUM> percent <PUNC>
-pharmaceutical giant johnson & johnson jnj was among the few dow stocks to trade in positive turf <COMMA> up just <NUM> percent <PUNC>
-<PAR>

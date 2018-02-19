@@ -1,2 +1,0 @@
-the dow jones industrial average fell <NUM> points to <NUM> <COMMA> the losses paced by aig <COMMA> which fell <NUM> percent <COMMA> after the insurance giant reported dollar <NUM> billion in mortgage-related losses <PUNC>
-<PAR>

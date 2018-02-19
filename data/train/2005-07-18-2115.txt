@@ -1,9 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with the benchmark index also posting its first loss in four sessions <PUNC>
-within the dow industrials <COMMA> shares of citigroup fell <NUM> percent on a weaker than expected earnings performance for the second quarter <PUNC>
-general motors corp. gm rose <NUM> percent as the automaker named respected industry analyst stephen girsky as a special adviser to chief executive rick wagoner <PUNC>
-the company is also due to report results later in the week <PUNC>
-3m co. mmm fell <NUM> percent even as the conglomerate posted in-line quarterly results and offered an upbeat <NUM> earnings forecast <PUNC>
-rounding out the blue chips <COMMA> shares of international business machines corp. ibm fell <NUM> percent as the computer giant reported quarterly earnings after the monday close <PUNC>
-see market pulse <PUNC>
-among dow stocks entering the earnings fray <COMMA> shares of citigroup inc. c fell after the financial-services giant s second-quarter results fell short of analyst expectations <COMMA> due in large part to a significant decline in its fixed-income business <PUNC>
-<PAR>

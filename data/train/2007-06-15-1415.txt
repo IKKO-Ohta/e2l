@@ -1,9 +1,0 @@
-in recent action <COMMA> the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components advanced <PUNC>
-it was up <NUM> points earlier after jumping right out of the gate at the open <PUNC>
-among blue chips <COMMA> intel corp. intc gained <NUM> percent <PUNC>
-the stock was upgraded to buy from neutral at goldman sachs <COMMA> which said intel rival advanced micro devices inc. s amd likely move to an outsourced business model will create significant benefits for intel <PUNC>
-home depot hd gained <NUM> percent <PUNC>
-the home-improvement retailer has reportedly received two separate dollar <NUM> billion offers for its supply unit <PUNC>
-the federal trade commission is expanding its probe into proposed mergers in the internet advertising space <PUNC>
-the agency will review microsoft corp. s msft proposed dollar <NUM> billion acquisition of aquantive aqnt <PUNC>
-<PAR>

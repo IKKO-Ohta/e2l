@@ -1,4 +1,0 @@
-general motors corp. gm pared losses <COMMA> closing down <NUM> percent after the company reported u.s. sales fell <NUM> percent in january <COMMA> more than the expected decline of roughly <NUM> percent <PUNC>
-gm was among a minority group weighing on the dow jones industrial average dji <COMMA> which ended at <NUM> <COMMA> up <NUM> points <COMMA> or <NUM> percent <PUNC>
-the s&p <NUM> spx gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite rixf advanced <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

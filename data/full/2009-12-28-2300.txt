@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its highest close since oct. <NUM> <COMMA> <NUM> <PUNC>
-the technology-heavy nasdaq composite rixf added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the standard & poor s <NUM> spx added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-<PAR>

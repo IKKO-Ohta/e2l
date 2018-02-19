@@ -1,4 +1,0 @@
-on tuesday <COMMA> stocks wavered before picking up steam to rally into the close <COMMA> with financials and consumer discretionary pacing the gains <PUNC>
-the dow jones industrial average climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> index climbed <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> while the nasdaq composite index rixf rose <NUM> points <COMMA> or <NUM> percent <COMMA> to 1,462.11. <PUNC>
-<PAR>

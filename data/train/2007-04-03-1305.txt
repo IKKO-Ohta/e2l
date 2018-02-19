@@ -1,6 +1,0 @@
-the futures contract for the dow jones industrial average dji last was up <NUM> points at <NUM> <PUNC>
-auto sales reports for march from ford motor co. f <COMMA> general motors corp gm and daimlerchrysler ag dcx u.s. unit chrylser corp will dribble out throughout the day and may show that the domestic auto industry is still having trouble selling to consumers <PUNC>
-dow component procter & gamble co. pg said the products manufactured by its petcare unit are completely safe <PUNC>
-last week <COMMA> the food and drug administration recalled products after a new contaminant known as melamine had been found <COMMA> though p&g said its lams- and eukanuba- branded dry foods were not part of the recall <PUNC>
-the company has suspended production of some other products and is working with retailers to recall others <PUNC>
-<PAR>

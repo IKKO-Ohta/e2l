@@ -1,8 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> after closing out monday s session above <NUM> for the first time since june <NUM> <PUNC>
-alcoa aa shares slumped <NUM> percent to dollar <NUM> in early trading <PUNC>
-the world s biggest aluminum producer posted fourth-quarter results that fell short of analyst expectations <PUNC>
-the company blamed its weak earnings on a long list of production outages <COMMA> strikes and restructuring costs <PUNC>
-home depot inc. hd was in focus after the home improvement giant agreed to buy hughes supply hug <COMMA> a distributor of construction <COMMA> repair and maintenance products for dollar <NUM> billion <COMMA> in a move to boost its presence in the market for professional supplies <PUNC>
-united technologies corp. utx <COMMA> another dow component <COMMA> fell <NUM> cents to dollar <NUM> after broker credit suisse first boston cut its recommendation on the company to neutral from outperform as part of wider downgrade of the multi-industry sector <PUNC>
-boston scientific corp. bsx and johnson & johnson jnj are currently involved in a takeover battle to acquire guidant <PUNC>
-<PAR>

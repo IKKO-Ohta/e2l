@@ -1,9 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> off an early low of <NUM> <PUNC>
-there are a couple of reasons behind the move <COMMA> said hugh johnson <COMMA> chairman of johnson illington advisors <PUNC>
-firstly <COMMA> oil prices are much higher and that s lifting energy stocks <PUNC>
-exxon is up and that s certainly helping the dow <PUNC>
-general motors corp. gm shares were up <NUM> cents at dollar <NUM> after the car maker <COMMA> in a widely anticipated move <COMMA> said it is laying off several hundred u.s. salaried workers as part of an unfolding plan to bring its north american operations back to profitability <PUNC>
-citigroup inc. c and the national bank of greece are battling to win control of a turkish bank <COMMA> the wall street journal reported <PUNC>
-should citigroup secure control of finansbank in a deal expected to be valued at more than dollar <NUM> billion <COMMA> it would mark the company s biggest deal since chuck prince became chief executive <PUNC>
-citigroup shares were off <NUM> cents at dollar <NUM> <PUNC>
-<PAR>

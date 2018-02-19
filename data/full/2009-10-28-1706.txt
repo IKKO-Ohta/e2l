@@ -1,4 +1,0 @@
-on wall street <COMMA> materials fronted afternoon losses as the major indexes posted modestly declines <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx dropped <NUM> points to <NUM> <COMMA> while the nasdaq composite index rixf declined <NUM> points to <NUM> <PUNC>
-<PAR>

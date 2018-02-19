@@ -1,5 +1,0 @@
-the markets opened higher following a government report showing a steady pace of jobs growth <COMMA> lifting both the s&p <NUM> and the dow jones industrial average to intraday highs <PUNC>
-but early gains soon dissipated <PUNC>
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> but managed to stay <NUM> percent higher on the week <PUNC>
-microsoft corp msft and visa inc v <COMMA> down <NUM> percent and <NUM> percent respectively <COMMA> were leading the losses among the blue chips <PUNC>
-<PAR>

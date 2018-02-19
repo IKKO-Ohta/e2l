@@ -1,6 +1,0 @@
-the s&p <NUM> spx retreated from its record closing level and ended the day less than a point lower at <NUM> <PUNC>
-the dow jones industrial average dji fell more than <NUM> points at one point monday but closed <NUM> points <COMMA> or <NUM> percent <COMMA> lower at <NUM> <PUNC>
-boeing co. ba shares fell <NUM> percent after the wall street journal reported late friday that the company has discovered cracks in some <NUM> dreamliner jets <COMMA> which will lead to a delayed delivery of some aircraft <PUNC>
-plug power inc. plugd shares jumped <NUM> percent <COMMA> adding to last week s gains of <NUM> percent <PUNC>
-plug power last week scored a contract with six distribution centers at wal-mart stores inc. wmt and the price target on its shares was boosted by cowen & co. analysts on hope of more contracts <PUNC>
-<PAR>

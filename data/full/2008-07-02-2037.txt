@@ -1,3 +1,0 @@
-after an early but tepid rise <COMMA> the major stock indexes finished near session lows <COMMA> with the dow jones industrial average dji ending at <NUM> <COMMA> off <NUM> points <COMMA> or <NUM> percent <COMMA> with <NUM> of its <NUM> components ending in the red <PUNC>
-shares of general motors corp. gm fronted the blue-chip index s decline <COMMA> its stock off <NUM> percent after merrill lynch downgraded gm from buy to underperform <PUNC>
-<PAR>

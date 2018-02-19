@@ -1,3 +1,0 @@
-the dow jones industrial average fell as much as <NUM> points and climbed up to <NUM> <COMMA> and ended up <NUM> points at <NUM> <COMMA> with caterpillar inc. cat pacing losses that included <NUM> of its <NUM> components <PUNC>
-that gain <COMMA> which had the dow jones industrial average dji rising to a record close last week <COMMA> is attributed by many <COMMA> including russell <COMMA> to the ongoing bond purchases by the federal reserve <COMMA> which on wednesday concludes a two-day policy-setting session <PUNC>
-<PAR>

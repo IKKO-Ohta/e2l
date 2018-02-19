@@ -1,3 +1,0 @@
-the dow jones industrial average dji bounced higher after the statement <COMMA> though gains were tenuous <PUNC>
-it was recently up less than <NUM> point at <NUM> <PUNC>
-<PAR>

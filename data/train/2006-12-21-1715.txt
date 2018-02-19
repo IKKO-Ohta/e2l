@@ -1,3 +1,0 @@
-the dow jones industrial average dji was down <NUM> points to <NUM> <PUNC>
-shares of alcoa inc. aa were weighing down the blue-chip average <COMMA> losing over <NUM> percent <COMMA> while jp morgan chase & co. jpm provided support <COMMA> gaining over <NUM> percent <PUNC>
-<PAR>

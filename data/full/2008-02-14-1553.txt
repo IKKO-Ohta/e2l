@@ -1,4 +1,0 @@
-the dow jones industrial average dji edged <NUM> points lower to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <COMMA> with intel corp. intc fronting the declines <COMMA> its stock off <NUM> percent <PUNC>
-blue-chip exxon mobil corp. xom gained more than <NUM> percent <COMMA> while future blue-chip member chevron corp. cvx was up <NUM> percent <PUNC>
-chevron joins the ranks of the dow feb. <NUM> <COMMA> along with bank of america corp. bac <COMMA> ousting cigarette maker altria group inc. mo and manufacturer honeywell international inc. hon <PUNC>
-<PAR>

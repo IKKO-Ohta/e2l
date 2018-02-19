@@ -1,4 +1,0 @@
-after rallying more than <NUM> points higher <COMMA> the dow jones industrial average dji was more recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components posting gains <PUNC>
-wal-mart stores wmt said profit will feel some pressure from higher interest rates in the fourth quarter <COMMA> but it reaffirmed its fourth-quarter earnings view <PUNC>
-investors also will consider a wall street journal report that citigroup c and merrill lynch & co. mer are both negotiating further capital injections from overseas investors <PUNC>
-<PAR>

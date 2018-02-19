@@ -1,3 +1,0 @@
-hit with triple-digit losses earlier on <COMMA> the dow jones industrial average dji was recently at <NUM> <COMMA> off <NUM> points <PUNC>
-all but three of the dow s <NUM> components posted early declines <COMMA> led by insurance giant american international group inc. aig <COMMA> recently down nearly <NUM> percent <PUNC>
-<PAR>

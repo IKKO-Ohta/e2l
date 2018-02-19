@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC> of the dow s <NUM> components <COMMA> <NUM> were lower <COMMA> with citigroup inc. c fronting the declines <COMMA> its stock off <NUM> percent <PUNC>
-ge ge shares fell <NUM> percent <PUNC>
-<PAR>

@@ -1,3 +1,0 @@
-up <NUM> percent for the week and <NUM> percent so far for the month at thursday s close <COMMA> the dow jones industrial average on friday gained <NUM> points to <NUM> <PUNC>
-the blue-chip index is on track for its first two consecutive weeks of gains since the week ending may <NUM> <COMMA> <NUM> <COMMA> when it rose three weeks straight <PUNC>
-<PAR>

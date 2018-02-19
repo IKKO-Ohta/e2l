@@ -1,3 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components advancing <PUNC>
-and the financial times reported citigroup inc. c had lost more than dollar <NUM> million in credit business in recent weeks <PUNC>
-<PAR>

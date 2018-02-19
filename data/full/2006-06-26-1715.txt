@@ -1,4 +1,0 @@
-meanwhile <COMMA> pfizer inc. pfe stock strengthened <NUM> percent to dollar <NUM> <PUNC>
-johnson & johnson jnj agreed to buy pfizer s consumer products unit <COMMA> which produces such products as listerine mouthwash <COMMA> nicorette anti-smoking treatments <COMMA> rolaids antacid <COMMA> benadryl allergy medicine <COMMA> rogaine baldness treatment and the antacid zantac <PUNC>
-johnson & johnson stock was off <NUM> percent <PUNC>
-<PAR>

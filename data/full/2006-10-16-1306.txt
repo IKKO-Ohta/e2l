@@ -1,7 +1,0 @@
-the futures contract for the dow jones industrial average last was down <NUM> points at <NUM> <PUNC>
-since the start of the third quarter <COMMA> the dow jones industrials have jumped <NUM> percent <COMMA> the nasdaq composite has climbed <NUM> percent and the s&p <NUM> has rose <NUM> percent <PUNC>
-the dow hit a fresh record high three times last week <COMMA> buoyed by a solid start to the third-quarter earnings season <PUNC>
-the market is full of guesses as to whether the dow <COMMA> which friday closed at <NUM> <COMMA> can pierce the <NUM> barrier this week <PUNC>
-home depot hd could encounter some selling pressure <PUNC>
-goldman sachs reduced its rating on the stock to neutral from buy <COMMA> noting recent management departures <PUNC>
-<PAR>

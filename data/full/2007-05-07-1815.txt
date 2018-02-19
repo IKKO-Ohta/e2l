@@ -1,9 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> as <NUM> of its <NUM> components advanced <COMMA> led by gains in the likes of boeing co. ba <COMMA> aig aig <COMMA> and united technologies corp. utx <PUNC>
-the blue-chip average is approaching an 80-year record for the longest streak of gains with only three down days in between <PUNC>
-if the dow ends higher monday <COMMA> it will match the previous record <COMMA> set in <NUM> <COMMA> when the average rose <NUM> out of <NUM> sessions <PUNC>
-leading the gains among blue chips monday <COMMA> alcoa aa rose <NUM> percent <PUNC>
-the aluminum giant has offered dollar <NUM> a share <COMMA> or dollar <NUM> billion <COMMA> in cash and stock for canada s alcan al <PUNC>
-the offer represents a <NUM> percent premium to alcan s average closing price over the past <NUM> days <PUNC>
-among technology shares on the nasdaq <COMMA> yahoo inc. yhoo was the most heavily traded stock <COMMA> losing <NUM> percent <PUNC>
-a report late friday said microsoft corp. msft was no longer holding talks about a possible merger with yahoo <PUNC>
-<PAR>

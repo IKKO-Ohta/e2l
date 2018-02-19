@@ -1,7 +1,0 @@
-up more than <NUM> points early on <COMMA> the dow jones industrial average dji was more recently up <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-aluminum producer alcoa inc. aa fronted the dow s gains <COMMA> climbing <NUM> percent <PUNC>
-wal-mart stores inc. wmt edged <NUM> percent higher after the discount retailer unexpectedly named international chief mike duke to succeed lee scott as president and chief executive <COMMA> effective feb. <NUM> <PUNC>
-shares of citigroup c fell <NUM> percent as initial enthusiasm about a possible sale of all or part of the company waned <PUNC>
-<PAR>
-other laggards on the blue-chip index included automaker general motors corp. gm <COMMA> off <NUM> percent <COMMA> and jpmorgan chase jpm <COMMA> down <NUM> percent <PUNC>
-<PAR>

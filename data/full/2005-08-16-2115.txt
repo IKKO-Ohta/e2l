@@ -1,5 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-only <NUM> of <NUM> dow components citigroup <COMMA> verizon <COMMA> walt disney and altria finished the session in positive territory <PUNC>
-wal-mart wmt ended down <NUM> percent at dollar <NUM> after the company reported stronger-than-expected second-quarter results but warned that gasoline continues to weigh on its price-conscious shoppers <COMMA> with implications for the third quarter <PUNC>
-fellow blue-chip retailer home depot hd sank <NUM> percent to dollar <NUM> after reporting that second-quarter profit rose <NUM> percent and lifting its full-year earnings outlook <PUNC>
-<PAR>

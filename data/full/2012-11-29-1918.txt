@@ -1,3 +1,0 @@
-after a 77-point rise <COMMA> the dow jones industrial average dji ?dipped <NUM> points as boehner spoke <COMMA> and lately was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-walt disney co. dis shares climbed after the entertainment company and dow component hiked its dividend <PUNC>
-<PAR>

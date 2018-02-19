@@ -1,9 +1,0 @@
-the dow jones industrial average dji snapped a two-week losing streak to finish up <NUM> percent <PUNC>
-along the way <COMMA> it posted three days of triple-digit moves <COMMA> including monday s 326-point loss <PUNC>
-the s&p <NUM> index spx broke a three-week losing streak <COMMA> finishing the week up <NUM> percent <COMMA> and the nasdaq composite index rixf answered two weeks of losses by closing the week up <NUM> percent <PUNC>
-even with last week s gains <COMMA> the dow is down <NUM> percent since the beginning of the year <COMMA> with the s&p <NUM> off <NUM> percent <COMMA> and the nasdaq is down <NUM> percent <PUNC>
-declines off the recent highs don t meet a common definition of a correction <COMMA> that is <COMMA> a <NUM> percent fall from a near-by peak <PUNC>
-but they re the kind of healthy pause many like to see <PUNC>
-as earnings season draws to a close <COMMA> one dow component cisco csco on wednesday and <NUM> s&p <NUM> components report results this week <COMMA> with the consumer staples sector figuring heavily <PUNC>
-the consumer discretionary sector was also the best performing on the s&p <NUM> last week <COMMA> rising <NUM> percent <COMMA> following strong earnings from walt disney co. dis <COMMA> michael kors holding ltd. kors <COMMA> and marketwatch parent news corp nwsa <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-off nearly <NUM> points from its highs of the day <COMMA> the dow jones industrial average dji was down <NUM> points in early afternoon trade to <NUM> <COMMA> with <NUM> of its <NUM> components in the red <PUNC>
-financials fronted the blue-chip decline <COMMA> with american express co. axp down <NUM> percent <COMMA> citigroup inc. c <COMMA> off <NUM> percent <COMMA> and j.p. morgan chase jpm <COMMA> falling <NUM> percent <PUNC>
-other blue-chip losses included shares of microsoft corp. msft <COMMA> off <NUM> percent <COMMA> after the technology giant s announcement it would pay dollar <NUM> billion to acquire norwegian software developer fast search & transfer <PUNC>
-<PAR>

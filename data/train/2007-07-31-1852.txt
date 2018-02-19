@@ -1,3 +1,0 @@
-after surging more than <NUM> points early on <COMMA> the dow jones industrial average dji was <NUM> points lower <COMMA> at <NUM> <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> declined <PUNC>
-<PAR>

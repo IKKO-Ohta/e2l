@@ -1,7 +1,0 @@
-the s&p <NUM> index spx finished the month up <NUM> percent to close at a record high of <NUM> <PUNC>
-the index is up <NUM> percent gain on the year <PUNC>
-the dow jones industrial average dji finished february <NUM> percent higher <COMMA> paring its loss on the year to <NUM> percent <PUNC>
-the nasdaq composite index rixf finished up <NUM> percent for the month and is currently up <NUM> percent for the year <PUNC>
-heavyweights in the s&p <NUM> such as apple inc. aapl <COMMA> microsoft corp. msft <COMMA> comcast corp. cmcsa <COMMA> cisco systems inc. csco <COMMA> abbvie inc. abbv <COMMA> honeywell corp. hon <COMMA> priceline.com inc. pcln <COMMA> dupont dd <COMMA> dow chemical co. dow <COMMA> monsanto co. mon <COMMA> and starbucks corp. sbux all saw a <NUM> percent or more jump in the number of short-interest positions in the past two weeks alone <COMMA> according to factset data <PUNC>
-exchange-traded funds following the s&p <NUM> and the dow also saw a big jump with the number of shorts in the spdr s&p <NUM> etf spy and the spdr dow jones industrial average etf dia both growing more than <NUM> percent over the past two weeks to <NUM> percent and <NUM> percent of outstanding shares <COMMA> respectively <PUNC>
-<PAR>

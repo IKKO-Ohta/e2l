@@ -1,7 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-the nasdaq composite index rixf climbed <NUM> points to <NUM> <COMMA> while the s&p <NUM> index spx was up <NUM> points at <NUM> <PUNC>
-alcoa inc. aa slumped more than <NUM> percent in pre-open trading after the company warned that hurricane rita <COMMA> low aluminum prices and higher raw-material costs would take a bite out of its third-quarter profit <PUNC>
-shares in the pittsburgh-based metals giant <COMMA> a component of the dow industrials <COMMA> fell dollar <NUM> <COMMA> or <NUM> percent <COMMA> to dollar <NUM> on instinet <PUNC>
-the stock hasn t seen those levels during regular trading hours since may <NUM> <PUNC>
-both prudential and goldman sachs downgraded the company in the wake of its profit warning <PUNC>
-<PAR>

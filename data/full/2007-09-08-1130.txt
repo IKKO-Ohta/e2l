@@ -1,4 +1,0 @@
-investors drove down equity prices following the jobs report <COMMA> snapping a two-week run of wins on the dow jones industrial average dji <PUNC>
-the blue-chip index tumbled <NUM> points to <NUM> with only shares of johnson & johnson jnj finishing higher <PUNC>
-august sales figures from retailers <COMMA> including wal-mart stores inc. wmt <COMMA> during the past week came in stronger than expected <COMMA> thanks to consumers who picked up back-to-school and luxury items <PUNC>
-<PAR>

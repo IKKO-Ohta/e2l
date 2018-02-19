@@ -1,4 +1,0 @@
-on thursday <COMMA> stocks ended higher as robust data and better-than-expected earnings in the technology sector took the dow jones industrial average to a new <NUM> 1/2-year high <PUNC>
-the dow industrials dji rose <NUM> points to <NUM> <PUNC>
-on thursday <COMMA> rival hewlett-packard co. hpq saw its shares surge on a strong quarterly earnings report and solid outlook <PUNC>
-<PAR>

@@ -1,7 +1,0 @@
-the s&p <NUM> spx slipped <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
-the dow jones industrial average dji lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> dragged down by big declines in boeing co <PUNC>
-the nasdaq composite rixf fell <NUM> points <COMMA> or <NUM> percent to <NUM> <PUNC>
-meanwhile <COMMA> the dow utility average dju rose <NUM> percent to <NUM> <COMMA> closing at a record level <PUNC>
-earnings <PUNC> boeing ba shares fell <NUM> percent despite beating profit expectations <PUNC>
-rbc capital markets analyst robert stallard said that while profit and revenue were better than expected <COMMA> the aerospace giant has encouraged investors to look at cash over eps for the best growth in the next few years <PUNC>
-..the lack of cash in 3q <COMMA> and only a modest change to the operating cash guidance for the year are likely to disappoint <COMMA> he wrote in a note <PUNC>

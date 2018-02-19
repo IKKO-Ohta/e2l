@@ -1,2 +1,0 @@
-after a 174-point rise <COMMA> the dow jones industrial average dji gained <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-<PAR>

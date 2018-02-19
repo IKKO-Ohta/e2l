@@ -1,2 +1,0 @@
-futures for the dow industrial average dji were up <NUM> points at <NUM> <PUNC>
-<PAR>

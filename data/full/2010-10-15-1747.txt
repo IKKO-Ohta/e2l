@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
-general electric ge was the measure s worst performer <COMMA> falling <NUM> percent as the conglomerate s revenue came in short of wall street s expectations <PUNC>
-financial stocks were also weak as concerns over the foreclosure crisis persisted <PUNC>
-bank of america corp. bac fell <NUM> percent as s&p equity research cut its investment rating on the bank s shares to hold from strong buy <COMMA> citing concerns that it may be less prepared than peers for future mortgage repurchase demands <PUNC>
-j.p. morgan chase jpm dropped <NUM> percent <PUNC>
-<PAR>

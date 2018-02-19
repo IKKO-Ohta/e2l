@@ -1,3 +1,0 @@
-u.s. stocks shifted higher wednesday in applauding the federal reserve s latest bid to spur economic growth <COMMA> propelling the dow industrials to their highest finish in two years <PUNC>
-in its fourth consecutive winning session <COMMA> the dow jones industrial average dji added <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> its highest close since september <NUM> <COMMA> just ahead of the climax of the financial crisis <PUNC>
-<PAR>

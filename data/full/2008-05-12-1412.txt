@@ -1,4 +1,0 @@
-the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components posting early gains <COMMA> with general motors corp. gm and wal-mart stores inc. wmt among the blue chips up <NUM> percent and more <PUNC>
-oil goliath exxon mobil corp. xom led the dow s declining stocks <COMMA> recently down <NUM> percent as the price of crude-oil futures slipped from a record run higher <PUNC>
-u.s. stocks dropped sharply on friday <COMMA> after hefty losses from american international group inc. aig and another record high for oil prices <PUNC>
-<PAR>

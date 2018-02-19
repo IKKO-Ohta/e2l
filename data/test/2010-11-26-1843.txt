@@ -1,5 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-jp morgan chase jpm and american express fell the hardest <COMMA> with both stocks losing fell <NUM> percent <PUNC>
-still <COMMA> retail shares were mixed <PUNC>
-wal-mart stores wmt fell <NUM> percent <PUNC> amazon.com amzn slipped fractionally and tjx co. tjx shed <NUM> percent <COMMA> but gamestop gme jumped <NUM> percent <COMMA> big lots big climbed <NUM> percent and best buy bby added <NUM> percent <PUNC>
-<PAR>

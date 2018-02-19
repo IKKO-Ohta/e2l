@@ -1,4 +1,0 @@
-u.s. stocks on monday fell <COMMA> with the dow jones industrial average retreating from a 26-month high <COMMA> as wall street reacted to china s interest-rate hike during the holiday weekend <PUNC>
-after notching a fourth straight week of gains on thursday <COMMA> the dow jones industrial average dji was off <NUM> points at <NUM> <PUNC>
-twenty-five of the dow s <NUM> components slid <COMMA> with software titan microsoft corp. down the most <COMMA> off <NUM> percent <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-after rallying more than <NUM> points on friday <COMMA> the dow jones industrial average dji edged up <NUM> points on monday <COMMA> or less than <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components in positive territory <PUNC>
-among top dow gainers <COMMA> mcdonald s corp. mcd added <NUM> percent after it posted stronger-than-expected same-store sales for may <PUNC>
-the fast-food giant is benefiting from its expanded menu <PUNC>
-before the open monday <COMMA> standard & poor s revised its credit-rating outlook for the u.s. to stable from negative <COMMA> indicating the likelihood of a near-term downgrade is less than one in three <PUNC>
-s&p also affirmed its aa+/a-1+ sovereign-credit ratings for the u.s. stock futures added to their gains on this news <COMMA> and the dow and s&p <NUM> had been up about <NUM> percent out of the gate <PUNC>
-<PAR>

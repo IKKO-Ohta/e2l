@@ -1,5 +1,0 @@
-after an initial triple-digit drop <COMMA> the dow jones industrial average dji was recently down <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-j.p. morgan chase & co. jpm was the greatest laggard on the blue-chip index <COMMA> its shares off <NUM> percent <PUNC>
-on capitol hill <COMMA> congressional democrats and the white house continued talks over a rescue plan for the big three u.s. automakers <COMMA> with shares of general motors corp. gm and ford motor co. f both on the decline <PUNC>
-u.s. markets climbed monday <COMMA> with the dow jones industrial average closing at its highest level in a month <COMMA> as investors cheered president-elect barack obama s pledge on infrastructure investment and a likely deal for the auto industry <PUNC>
-<PAR>

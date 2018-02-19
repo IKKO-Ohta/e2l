@@ -1,2 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points at <NUM> <COMMA> erasing all of monday s losses <PUNC>
-<PAR>

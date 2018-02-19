@@ -1,8 +1,0 @@
-the dow jones industrial average dji was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-pfizer inc. pfe suffered the biggest drop among the average s components <COMMA> off <NUM> percent after it said fourth-quarter profit more than doubled to dollar <NUM> million <PUNC>
-but that result lagged wall street estimates <PUNC>
-the company also scaled back <NUM> revenue estimates <COMMA> which weighed on other health-care stocks <COMMA> including dow component merck & co. mrk <COMMA> down <NUM> percent <PUNC>
-more than three-fourths of s&p <NUM> spx companies that have reported profits in the fourth-quarter earnings season have beaten analysts expectations <COMMA> according to thomson reuters <PUNC>
-but the market has drawn little support from that improvement in corporate bottom lines <COMMA> with the s&p index off about <NUM> percent since alcoa s aa early-january report marked the symbolic start of the broader reporting season <PUNC>
-investors also paused on wednesday after a strong two-day run in which the dow surged <NUM> percent <COMMA> its best two-day showing in nearly three months <PUNC>
-among stocks to watch <COMMA> dow and s&p component mcdonald s mcd was up <NUM> percent after goldman sachs upgraded its investment rating on the fast-food chain to conviction buy from buy <COMMA> saying mcdonald s offers a scarce combination of positive same-store sales and accelerating margin gains <PUNC>

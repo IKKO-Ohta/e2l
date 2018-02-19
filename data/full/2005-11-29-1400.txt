@@ -1,2 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <PUNC> the benchmark index came off an eight-month high and broke a six-session winning streak <PUNC>
-<PAR>

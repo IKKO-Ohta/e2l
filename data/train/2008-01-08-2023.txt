@@ -1,5 +1,0 @@
-shares of at&t t were down <NUM> percent <PUNC>
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with 24of its <NUM> components declining <PUNC>
-blue-chip financials weighed on the index <COMMA> with american express co. axp down <NUM> % <COMMA> citigroup inc. c <COMMA> off <NUM> percent <COMMA> and j.p. morgan chase jpm falling <NUM> percent <PUNC>
-other blue-chip losses included shares of microsoft corp. msft <COMMA> off <NUM> percent <COMMA> after the technology giant s announcement it would pay dollar <NUM> billion to acquire norwegian software developer fast search & transfer <PUNC>
-<PAR>

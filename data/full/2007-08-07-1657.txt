@@ -1,4 +1,0 @@
-the dow jones industrial average dji was down <NUM> points at <NUM> <COMMA> with half of its <NUM> components on the decline <PUNC>
-boeing co. ba was among the dow s loss leaders <COMMA> with its stock down <NUM> percent <PUNC>
-automaker general motors corp. gm fronted the dow s advancing stocks <COMMA> gained <NUM> percent after gm said it completed the sale of its allison transmission commercial and military business to the carlyle group and onex corp. for about dollar <NUM> billion <PUNC>
-<PAR>

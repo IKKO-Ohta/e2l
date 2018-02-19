@@ -1,7 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the s&p <NUM> spx lost <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-the nasdaq composite rixf sank <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-gold was the hardest hit by that news <COMMA> deeply extending friday s losses <PUNC>
-on the s&p <NUM> <COMMA> resource stocks including newmont mining corp. nem and freeport mcmoran copper & gold inc. fcx led losses <PUNC>
-on the dow <COMMA> heavy equipment maker caterpillar inc. cat fell the most <PUNC>
-<PAR>

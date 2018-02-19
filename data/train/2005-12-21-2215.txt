@@ -1,8 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> <PUNC>
-however <COMMA> the dow earlier in the session rose as high as <NUM> <COMMA> a level that has recently led to pullbacks <PUNC>
-ibm ibm <COMMA> a dow component <COMMA> will buy micromuse muse for dollar <NUM> million in cash <PUNC>
-micromuse stock vaulted <NUM> percent to close at dollar <NUM> as ibm shares rose <NUM> cents to dollar <NUM> <PUNC>
-elsewhere on the dow <COMMA> embattled general motors gm extended its recent slide <COMMA> falling <NUM> percent to dollar <NUM> <PUNC>
-investor kirk kerkorian s tracinda corp. disclosed in an sec filing that it reduced its stake in the automaker to <NUM> percent from <NUM> percent by selling <NUM> million shares over the past few days <PUNC>
-dupont dd also in the dow <COMMA> gained <NUM> percent to close at dollar <NUM> after a brokerage s mostly upbeat research note <PUNC>
-<PAR>

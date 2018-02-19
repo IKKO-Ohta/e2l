@@ -1,7 +1,0 @@
-the dow jones industrial average dji was down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in recent trading <PUNC>
-the measure s declines were led by its industrial components <PUNC>
-the sector derives a sizable chunk of its revenue from europe <COMMA> and investors are concerned about how their earnings could be hurt by currency translations if the euro keeps sliding <PUNC>
-caterpillar cat dropped <NUM> percent <COMMA> boeing ba fell <NUM> percent and dupont dd declined <NUM> percent <PUNC>
-hewlett-packard hpq rose <NUM> percent <COMMA> making it one of just a handful of dow components in the black <PUNC>
-the company s fiscal second-quarter profit grew <NUM> percent on higher world-wide sales and profit growth in its core personal-computer business <COMMA> where shipments jumped <PUNC>
-<PAR>

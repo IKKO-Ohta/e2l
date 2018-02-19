@@ -1,6 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to <NUM> <COMMA> with <NUM> of the blue-chip index s components trading lower <PUNC>
-the declines were led by intel corp. intc <COMMA> its stock down <NUM> percent <PUNC>
-the technology company was downgraded to neutral from overweight by j.p. morgan <PUNC>
-u.s. stocks were little moved on thursday in anticipation of the jobs report <PUNC>
-the dow industrials rose <NUM> points <COMMA> the nasdaq composite lost close to <NUM> points and the s&p <NUM> was flat <PUNC>
-<PAR>

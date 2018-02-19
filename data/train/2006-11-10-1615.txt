@@ -1,7 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <COMMA> bouncing back after the blue-chip benchmark s three-session winning streak got snapped in the prior session <PUNC>
-disney dis saw its shares tumble <NUM> percent to dollar <NUM> <PUNC>
-the media and entertainment giant s fourth-quarter net income more than doubled <COMMA> powered by strong box-office results and growth in its amusement parks and media networks <PUNC>
-shares of american international group inc. aig rose <NUM> percent to dollar <NUM> after the company reported a surge in third-quarter net income <PUNC>
-late thursday <COMMA> the insurance giant reported results that showed it avoided the big hurricane losses of a year ago <PUNC>
-also within the dow <COMMA> shares of boeing ba were active <COMMA> rising <NUM> percent to dollar <NUM> <PUNC>
-<PAR>

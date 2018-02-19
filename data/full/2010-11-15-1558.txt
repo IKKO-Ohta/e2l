@@ -1,4 +1,0 @@
-snapping a two-session losing streak <COMMA> the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-the blue-chip index closed friday at its lowest level since nov. <NUM> <PUNC>
-meanwhile <COMMA> construction-machinery giant caterpillar cat said it would pay dollar <NUM> billion in cash for mining-equipment maker bucyrus international inc. bucy <PUNC>
-<PAR>

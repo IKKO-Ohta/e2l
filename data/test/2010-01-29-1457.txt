@@ -1,6 +1,0 @@
-the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-microsoft msft was one of its best performers with a <NUM> percent rise after the software giant posted a <NUM> percent rise in fiscal second-quarter profit <COMMA> having benefited from improving personal computer sales and the recent release of its flagship windows <NUM> operating system <PUNC>
-wal-mart stores wmt climbed <NUM> percent after the giant discount retailer announced a strategic alliance with li & fung <COMMA> a global buying agent <COMMA> in an effort to both reduce costs and improve product quality <PUNC>
-the agreement will allow wal-mart to bypass numerous importers <PUNC>
-goldman sachs upgraded its investment rating on wal-mart shares to buy from neutral following the news <PUNC>
-<PAR>

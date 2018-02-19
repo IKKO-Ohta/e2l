@@ -1,4 +1,0 @@
-the dow jones industrial average dji rose <NUM> points to <NUM> <PUNC>
-on monday <COMMA> u.s. stocks ended with major indexes split <PUNC>
-a broker downgrade of verizon communications inc. vz and at&t inc. t propelled the dow lower <COMMA> while the s&p ended nearly flat and the nasdaq posted modest gains <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-year to date <COMMA> the dow industrials have slumped nearly <NUM> percent <COMMA> the s&p <NUM> has lost <NUM> percent <COMMA> and the nasdaq composite is off almost <NUM> percent <PUNC>
-but in early trading action wednesday <COMMA> the dow jones industrial average dji rose <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components gaining ground <PUNC>
-leading the gains among blue chips <COMMA> shares of aluminum giant alcoa inc. aa were up <NUM> percent and united technologies utx rose <NUM> percent <PUNC>
-u.s. markets ended higher tuesday <COMMA> helped by a late rally from financial stocks and further government aid for general motors corp. gm <PUNC>
-the dow jones industrial average closed up <NUM> points <PUNC>
-<PAR>

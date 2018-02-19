@@ -1,3 +1,0 @@
-on the run after tuesday s 106-point rise <COMMA> the dow jones industrial average dji on wednesday fell as much as <NUM> points and finished at <NUM> <COMMA> down <NUM> points <COMMA> or <NUM> percent <PUNC>
-the dow industrials dji hit another record close on tuesday <COMMA> finishing with a gain of <NUM> points to <NUM> <COMMA> while the s&p <NUM> index spx rose <NUM> points to <NUM> <PUNC>
-<PAR>

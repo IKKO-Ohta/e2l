@@ -1,3 +1,0 @@
-the dow jones industrial average dji climbed <NUM> points to <NUM> <COMMA> with all but four of its <NUM> components gaining <PUNC>
-shares of yahoo inc. yhoo declined <NUM> percent in the wake of its weekend rejection of an offer from microsoft corp. msft and dissident investor carl icahn <PUNC>
-<PAR>

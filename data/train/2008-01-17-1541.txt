@@ -1,6 +1,0 @@
-up about <NUM> points after the start <COMMA> the dow jones industrial average dji was more recently dropped <NUM> points to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-u.s. stocks wobbled on wednesday before finally closing lower <COMMA> with the dow industrials losing <NUM> points <COMMA> the nasdaq composite dropping <NUM> points and the s&p <NUM> ending nearly <NUM> points lower <PUNC>
-after the close <COMMA> international business machines ibm will release the full details of its quarterly performance <PUNC>
-big blue released preliminary numbers on monday <PUNC>
-general motors gm also will be in focus as it s due to make a presentation at 1:30 p.m. eastern in front of analysts <PUNC>
-<PAR>

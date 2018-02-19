@@ -1,5 +1,0 @@
-the dow jones industrial average dji fell <NUM> points to stand at <NUM> <PUNC>
-the s&p <NUM> spx rose <NUM> point to <NUM> and the nasdaq composite rixf increased <NUM> points to <NUM> <PUNC>
-microsoft msft rose <NUM> percent to dollar <NUM> <PUNC>
-the stock was upgraded by credit suisse to outperform <COMMA> on increased confidence in earnings estimates <PUNC>
-<PAR>

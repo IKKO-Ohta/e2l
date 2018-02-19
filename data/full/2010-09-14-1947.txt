@@ -1,3 +1,0 @@
-trading in a roughly 90-point range on either side of neutral <COMMA> the dow jones industrial average dji was lately up <NUM> points at <NUM> <PUNC>
-twenty-two of the blue-chip companies rose <COMMA> with hewlett-packard co. hpq rising the most <COMMA> up <NUM> percent <PUNC>
-<PAR>

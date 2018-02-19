@@ -1,4 +1,0 @@
-the dow jones industrial average dji was up as much as <NUM> points at <NUM> <PUNC>
-international business machines ibm <COMMA> a dow component <COMMA> will buy micromuse muse for dollar <NUM> million in cash <PUNC>
-elsewhere on the dow <COMMA> embattled general motors gm extended its recent slide <COMMA> falling <NUM> percent to dollar <NUM> <PUNC>
-<PAR>

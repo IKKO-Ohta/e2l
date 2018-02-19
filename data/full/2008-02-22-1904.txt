@@ -1,3 +1,0 @@
-after posting gains at the start <COMMA> the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> with <NUM> of its <NUM> components trading lower <PUNC>
-the blue-chip declines were led by intel corp. intc <COMMA> down <NUM> percent and citigroup inc. c <COMMA> down <NUM> percent <PUNC>
-<PAR>

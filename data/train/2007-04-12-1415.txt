@@ -1,5 +1,0 @@
-the dow jones industrial average dji dropped <NUM> points to <NUM> <COMMA> as <NUM> of its <NUM> components dipped in the red <PUNC>
-general motors corp. gm and at&t inc. t were the worst performers on the blue-chip average <COMMA> while exxon mobil corp. xom was the best performer <COMMA> thanks to a <NUM> percent gain in crude oil prices <PUNC>
-among other blue chips <COMMA> wal-mart wmt fell <NUM> percent after the giant retailer posted a <NUM> percent increase in march sales at stores open at least on year <COMMA> blowing past wall street estimates <COMMA> but offered a tepid forecast for april <PUNC>
-on wednesday <COMMA> stocks ended lower <COMMA> with the dow industrials breaking an eight-day winning streak <COMMA> after the minutes from the latest federal open market committee meeting dashed hopes that the inflation-focused policymakers would be inclined to cut interest rates anytime soon <PUNC>
-<PAR>

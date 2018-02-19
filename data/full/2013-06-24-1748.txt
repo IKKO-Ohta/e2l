@@ -1,9 +1,0 @@
-earlier in the session <COMMA> the dow industrials dropped more than <NUM> points after shanghai stocks plunged <NUM> percent on increasing fears over a liquidity crunch in china <PUNC>
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> after touching an intraday low of <NUM> <PUNC>
-only five of the index s <NUM> components traded in positive territory <PUNC>
-hewlett-packard co. hpq was the biggest decliner on the dow <COMMA> with shares down <NUM> percent <COMMA> followed up by shares of bank of america corp. bac <COMMA> with a <NUM> percent decline <PUNC>
-boeing co. ba dropped <NUM> percent after one of its <NUM> dreamliner planes flown by united airlines ual had to make an emergency landing sunday due to a brake problem <PUNC>
-u.s. stocks fell sharply last week <COMMA> with investors spooked after the federal reserve signaled it may scale back bond purchases later this year if the economy continues to improve as the central bank expects <PUNC>
-last week <COMMA> the s&p <NUM> declined <NUM> percent and the dow industrials fell <NUM> percent <PUNC>
-read about seven ways to spot a market top <PUNC>
-<PAR>

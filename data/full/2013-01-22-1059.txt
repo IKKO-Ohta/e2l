@@ -1,7 +1,0 @@
-futures for the dow jones industrial average djh3 fell <NUM> points to <NUM> <PUNC>
-futures for the standard & poor s <NUM> index sph3 rose <NUM> point to <NUM> <PUNC>
-earnings season also gets back on track <PUNC>
-with results due to come ahead of the bell <COMMA> analysts polled by factset research expect du pont dd to post fourth-quarter earnings of <NUM> cents a share <PUNC>
-johnson & johnson jnj is forecast to turn in earnings of dollar <NUM> a share for the fourth quarter <PUNC>
-after the closing bell <COMMA> google inc. goog and international business machines corp. ibm will deliver results <PUNC>
-<PAR>

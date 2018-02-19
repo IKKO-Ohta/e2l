@@ -1,3 +1,0 @@
-stocks are in uncharted territory when it comes to the dow jones industrial average dji and the s&p <NUM> spx <COMMA> and this past week they faced the first real resistance since they started setting new highs in late march <PUNC>
-during that time <COMMA> stocks have appeared impervious to bad news only taking an appreciable pause during the week of the boston bombings with the dow industrials or the s&p <NUM> or both closing at all-time highs on practically a daily basis <PUNC>
-<PAR>

@@ -1,6 +1,0 @@
-off over <NUM> points earlier <COMMA> the dow jones industrial average dji rallied back to trade <NUM> points higher at <NUM> <COMMA> with <NUM> of its <NUM> components gaining ground <PUNC>
-among the few stocks still in the red <COMMA> american international group inc. aig was <NUM> percent lower <PUNC>
-the market stumbled earlier <COMMA> with the dow losing more than <NUM> points <COMMA> after a fund managed by the carlyle group reported that it was close to collapse <COMMA> dragging down the dollar and boosting oil <PUNC>
-counterparties of the carlyle fund in trouble include dow components citigroup inc. c <COMMA> jpmorgan chase & co. jpm and bank of america corp. bac <PUNC>
-among stocks in focus thursday <COMMA> microsoft corp. msft and general electric co. ge are holding analyst meetings <COMMA> and tyco international ltd. tyc is holding its annual shareholder meeting <PUNC>
-<PAR>

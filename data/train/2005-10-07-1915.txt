@@ -1,3 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> off an intraday high of <NUM> <PUNC>
-on the week <COMMA> the benchmark is set for a loss of around <NUM> percent <PUNC>
-<PAR>

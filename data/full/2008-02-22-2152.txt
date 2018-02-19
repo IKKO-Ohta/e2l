@@ -1,4 +1,0 @@
-after posting gains at the start <COMMA> and then losses throughout most of the session <COMMA> the dow jones industrial average dji gained <NUM> points to <NUM> <COMMA> giving the blue chips a weekly gain of <NUM> percent <PUNC>
-of the dow s <NUM> components <COMMA> <NUM> traded higher <COMMA> with american international group inc. aig up the most <COMMA> closing <NUM> percent ahead <PUNC>
-the dow s largest decliners included technology titans intel corp. intc <COMMA> down <NUM> percent <COMMA> and microsoft corp. msft <COMMA> off <NUM> percent <PUNC>
-<PAR>

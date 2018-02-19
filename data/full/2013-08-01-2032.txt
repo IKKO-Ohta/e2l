@@ -1,3 +1,0 @@
-also finishing at a record <COMMA> the dow jones industrial average dji rallied <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> after rising to an intraday record of <NUM> <PUNC>
-moving issues included procter & gamble co. pg <COMMA> shares of which rose <NUM> percent after the household-products maker projected <NUM> earnings would climb at least as much as last year <PUNC>
-<PAR>

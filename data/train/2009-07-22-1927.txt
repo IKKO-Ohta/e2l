@@ -1,4 +1,0 @@
-the dow jones industrial average dji at <NUM> p.m. eastern stood at <NUM> <COMMA> off <NUM> points <PUNC>
-the nasdaq composite rixf added <NUM> points to <NUM> <PUNC>
-the s&p <NUM> index spx was up <NUM> points to <NUM> <COMMA> after running as high as <NUM> earlier on <COMMA> its highest level so far this year <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji was recently down <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <PUNC>
-hewlett-packard hpq was the measure s worst performer <COMMA> falling <NUM> percent as investors were disappointed by h-p s <NUM> percent drop in revenue in the quarter <PUNC>
-alcoa aa was also weak <COMMA> off <NUM> percent as metals futures fell into the red after being up earlier in the morning <PUNC>
-<PAR>

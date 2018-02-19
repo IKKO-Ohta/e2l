@@ -1,4 +1,0 @@
-at 11:50 a.m. eastern <COMMA> the dow jones industrial average dji was ahead <NUM> points at <NUM> <COMMA> with <NUM> of its <NUM> components trading higher <PUNC>
-fronting the blue-chip advance was pharmaceutical giant pfizer inc. pfe <COMMA> up <NUM> percent <COMMA> after it named a new head of research and development <PUNC>
-alcoa inc. aa and caterpillar inc. cat led the dow s declines <COMMA> with alcoa s stock off <NUM> percent and caterpillar s down <NUM> percent <PUNC>
-<PAR>

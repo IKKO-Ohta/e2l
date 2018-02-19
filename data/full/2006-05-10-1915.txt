@@ -1,5 +1,0 @@
-the dow jones industrial average dji was last up <NUM> points to <NUM> <COMMA> after falling to <NUM> immediately after the fed s decision <PUNC>
-walt disney co. dis added <NUM> cents to dollar <NUM> after the media giant surprised analysts with better-than-expected earnings <PUNC>
-gains at its espn sports-television channel helped overcome a lackluster performance turned in by its consumer-products and studio divisions <PUNC>
-the auto sector saw broad gains <COMMA> with general motors corp. gm rising as much as <NUM> percent to dollar <NUM> <COMMA> a move one analyst said was likely triggered by the filing of its quarterly results with the securities and exchange commission <PUNC>
-<PAR>

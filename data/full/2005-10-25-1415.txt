@@ -1,8 +1,0 @@
-investors hesitated to push stocks up further after an exuberant rally on monday that pushed both the dow jones industrial average and the s&p <NUM> to their biggest one-day gains in six months <PUNC>
-the dow jones industrial average dji fell by more than <NUM> points in early action <PUNC>
-the latest set of third-quarter earnings are the key focus tuesday <COMMA> including new reports from dow component dupont dd <COMMA> defense contractor northrop grumman corp. noc and utility southern co. so <PUNC>
-intel corp. intc <COMMA> also in the dow <COMMA> was off a bit <PUNC>
-the company will delay the launch of one of its chips for the corporate server market to work on the design <PUNC>
-dow component honeywell hon was upgraded to buy by deutsche bank <COMMA> which thinks the stock price has been pushed down too much <PUNC>
-the stock rose by as much as <NUM> percent <PUNC>
-<PAR>

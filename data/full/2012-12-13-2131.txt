@@ -1,3 +1,0 @@
-the dow jones industrial average dji fell <NUM> points <COMMA> or <NUM> percent <COMMA> to end at <NUM> <PUNC>
-the top decliners in the dow were from the health-care sector <COMMA> with merck & co. mrk down <NUM> percent and unitedhealth group inc. unh down <NUM> percent <PUNC>
-<PAR>

@@ -1,2 +1,0 @@
-the dow jones industrial average dji hit a record high of <NUM> <COMMA> and was lately up <NUM> points at <NUM> <PUNC>
-<PAR>

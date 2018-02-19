@@ -1,7 +1,0 @@
-kicking off the final week of the strongest september in <NUM> years <COMMA> the dow jones industrial average dji slipped <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> <COMMA> in early trading <PUNC>
-on friday <COMMA> the dow index rallied <NUM> percent <COMMA> posting its highest close since may <NUM> and gained <NUM> percent in the last week <PUNC>
-the dow is currently on pace to post its best september performance since <NUM> <PUNC>
-retailing giant wal-mart stores wmt edged down <NUM> percent after making a preliminary <COMMA> nonbinding proposal to buy johannesburg-based massmart holdings for dollar <NUM> billion <PUNC>
-meanwhile <COMMA> unilever un announced an agreement to buy u.s.-based alberto culver for dollar <NUM> billion in cash <COMMA> moving to expand its presence in the hair-conditioning and shampoo market <PUNC>
-shares of alberto culver jumped <NUM> percent <COMMA> while unilever rose <NUM> percent <PUNC>
-<PAR>

@@ -1,4 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> the s&p <NUM> spx ended up <NUM> points at <NUM> and the nasdaq composite rixf was up <NUM> points at <NUM> <PUNC>
-predictions that the storm will compel gulf coast consumers to buy goods to repair their homes lent support to home-improvement retailers <PUNC>
-home depot hd closed <NUM> percent higher and lowes cos. low rose <NUM> percent <PUNC>
-<PAR>

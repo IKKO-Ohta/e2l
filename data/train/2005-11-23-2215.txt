@@ -1,5 +1,0 @@
-the dow jones industrial average dji closed up <NUM> points at <NUM> <COMMA> an eight-month four-and-a-half-year high <PUNC>
-dow component mcdonald s mcd closed up <NUM> percent at dollar <NUM> after the company launched a major u.s. media blitz for its arch card <COMMA> its latest twist on gift certificates <PUNC>
-though the card was introduced into restaurants earlier this year <COMMA> the fast-food chain waited until the holiday season to pull out the gift-giving marketing <PUNC>
-elsewhere on the dow <COMMA> intel intc gained <NUM> percent <COMMA> general motors gm rose <NUM> percent <COMMA> american express axp gained <NUM> percent and american international group aig advanced <NUM> percent <PUNC>
-<PAR>

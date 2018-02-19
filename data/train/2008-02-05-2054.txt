@@ -1,4 +1,0 @@
-the dow jones industrial average dji tumbled <NUM> points to <NUM> <COMMA> with all of its <NUM> component stocks in negative territory <PUNC>
-among dow components <COMMA> insurance giant aig aig along with financials stocks american express axp <COMMA> citigroup inc. c and jp morgan chase jpm <COMMA> fell the most <PUNC>
-among technology shares <COMMA> yahoo yhoo fell over <NUM> percent after banc of america securities analysts downgraded prospective yahoo buyer microsoft msft to neutral from buy <PUNC>
-<PAR>

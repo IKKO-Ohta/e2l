@@ -1,7 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> as american express co. axp gained <NUM> percent on a positive broker note <PUNC>
-gains for general motors corp. gm and at& t t helped offset declines at verizon communications vz <COMMA> pfizer inc. pfe and procter & gamble pg <PUNC>
-alcoa inc. aa reports its quarterly results after the market closes <PUNC>
-the release of aluminum maker s earnings are traditionally viewed as kicking off the earnings season <PUNC>
-alcoa inc. aa was up <NUM> percent at dollar <NUM> <COMMA> with the company expected to post a strong rise in third-quarter profits as it benefits from a big gain in aluminum prices from the year-earlier period <PUNC>
-analysts <COMMA> however <COMMA> will be paying close attention to its forward-looking commentary as the price of aluminum has dropped sharply since spring <PUNC>
-<PAR>

@@ -1,5 +1,0 @@
-the dow jones industrial average dji was up <NUM> points <COMMA> or <NUM> percent <COMMA> to <NUM> in early trading <PUNC>
-bank of america corp. bac was the measure s top performer <COMMA> up <NUM> percent <PUNC>
-home depot inc. hd added <NUM> percent <PUNC>
-kraft foods inc. kft rose <NUM> percent following a report that ferrero s.p.a. <COMMA> the italian confectionery company <COMMA> has reiterated interest in joining the bid for u.k. chocolate maker cadbury plc cby <COMMA> which dropped <NUM> percent <PUNC>
-<PAR>

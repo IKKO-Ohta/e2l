@@ -1,6 +1,0 @@
-the dow jones industrial average dji was up <NUM> points at <NUM> <COMMA> and the s&p <NUM> spx up <NUM> at <NUM> <COMMA> and the nasdaq composite rixf up <NUM> points at <NUM> <PUNC>
-dow component caterpillar cat rose almost <NUM> percent to dollar <NUM> after r.w <PUNC>
-baird lifted its price target on the stock to dollar <NUM> <PUNC>
-wal-mart wmt <COMMA> also a dow component <COMMA> was up <NUM> cents at dollar <NUM> <COMMA> after the retailer said it was making its first foray into central american retailing <COMMA> buying a stake in the region s top retailer from dutch retailer royal ahold aho <PUNC>
-pfizer pfe fell <NUM> cents to dollar <NUM> after the company said it received a non-approvable letter from the u.s. food and drug administration regarding its inject able pain treatment parecoxib sodium <PUNC>
-<PAR>
